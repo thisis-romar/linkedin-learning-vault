@@ -44,7 +44,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS%20Essential%20Training%20(2023).md)
@@ -63,103 +63,103 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started with CSS
-  - What you should know
-  - How to complete the exercises
+  - [Getting started with CSS](#getting-started-with-css)
+  - [What you should know](#what-you-should-know)
+  - [How to complete the exercises](#how-to-complete-the-exercises)
 - [**1. Getting Started**](#1-getting-started) (11 videos)
-  - HTML and CSS
-  - Working with website files
-  - Writing code with a text editor
-  - Customizing your text editor
-  - Project: Overview and setup
-  - Where to find images
-  - Optimizing images for the web
-  - Relative and absolute paths
-  - Project: Adding images and icons
-  - Referencing CSS
-  - Project: Creating a CSS file
+  - [HTML and CSS](#html-and-css)
+  - [Working with website files](#working-with-website-files)
+  - [Writing code with a text editor](#writing-code-with-a-text-editor)
+  - [Customizing your text editor](#customizing-your-text-editor)
+  - [Project: Overview and setup](#project-overview-and-setup)
+  - [Where to find images](#where-to-find-images)
+  - [Optimizing images for the web](#optimizing-images-for-the-web)
+  - [Relative and absolute paths](#relative-and-absolute-paths)
+  - [Project: Adding images and icons](#project-adding-images-and-icons)
+  - [Referencing CSS](#referencing-css)
+  - [Project: Creating a CSS file](#project-creating-a-css-file)
 - [**2. CSS Core Concepts**](#2-css-core-concepts) (16 videos)
-  - CSS specifications and the W3C
-  - CSS syntax and terminology
-  - CSS values and units
-  - The color property and values
-  - Creating a color palette
-  - Type and universal selectors
-  - ID selectors
-  - Class selectors
-  - Descendant combinators and selector lists
-  - The background property
-  - Project: Prepping the CSS file
-  - Project: Adding background styles
-  - Pseudo-classes and pseudo-elements
-  - Inheritance and the cascade
-  - Specificity
-  - Project: Styling links
+  - [CSS specifications and the W3C](#css-specifications-and-the-w3c)
+  - [CSS syntax and terminology](#css-syntax-and-terminology)
+  - [CSS values and units](#css-values-and-units)
+  - [The color property and values](#the-color-property-and-values)
+  - [Creating a color palette](#creating-a-color-palette)
+  - [Type and universal selectors](#type-and-universal-selectors)
+  - [ID selectors](#id-selectors)
+  - [Class selectors](#class-selectors)
+  - [Descendant combinators and selector lists](#descendant-combinators-and-selector-lists)
+  - [The background property](#the-background-property)
+  - [Project: Prepping the CSS file](#project-prepping-the-css-file)
+  - [Project: Adding background styles](#project-adding-background-styles)
+  - [Pseudo-classes and pseudo-elements](#pseudo-classes-and-pseudo-elements)
+  - [Inheritance and the cascade](#inheritance-and-the-cascade)
+  - [Specificity](#specificity)
+  - [Project: Styling links](#project-styling-links)
 - [**3. The CSS Box Model**](#3-the-css-box-model) (12 videos)
-  - Intro to the CSS box model
-  - The box model properties
-  - Box-sizing and the box model fix
-  - Inline, block, and display
-  - Project: Footer styles and icons
-  - Debugging with developer tools
-  - Managing box model quirks
-  - Project: Background image update
-  - Using negative margin values
-  - Center aligning with margin
-  - Project: Adding content wrappers
-  - Project: Adding a header image
+  - [Intro to the CSS box model](#intro-to-the-css-box-model)
+  - [The box model properties](#the-box-model-properties)
+  - [Box-sizing and the box model fix](#box-sizing-and-the-box-model-fix)
+  - [Inline, block, and display](#inline-block-and-display)
+  - [Project: Footer styles and icons](#project-footer-styles-and-icons)
+  - [Debugging with developer tools](#debugging-with-developer-tools)
+  - [Managing box model quirks](#managing-box-model-quirks)
+  - [Project: Background image update](#project-background-image-update)
+  - [Using negative margin values](#using-negative-margin-values)
+  - [Center aligning with margin](#center-aligning-with-margin)
+  - [Project: Adding content wrappers](#project-adding-content-wrappers)
+  - [Project: Adding a header image](#project-adding-a-header-image)
 - [**4. Layouts: Float and Position**](#4-layouts-float-and-position) (7 videos)
-  - Intro to CSS Layout
-  - Layouts with the float property
-  - Clearing floats
-  - Project: Float images and text
-  - The position property
-  - Position and z-index
-  - Project: Fixed positioning
+  - [Intro to CSS Layout](#intro-to-css-layout)
+  - [Layouts with the float property](#layouts-with-the-float-property)
+  - [Clearing floats](#clearing-floats)
+  - [Project: Float images and text](#project-float-images-and-text)
+  - [The position property](#the-position-property)
+  - [Position and z-index](#position-and-z-index)
+  - [Project: Fixed positioning](#project-fixed-positioning)
 - [**5. Layouts: Flexbox and Grid**](#5-layouts-flexbox-and-grid) (13 videos)
-  - Intro to Grid and Flexbox
-  - Intro to Flexbox
-  - Flexbox: Orientation and ordering
-  - Sizing with flex properties
-  - Flexbox exercise
-  - Project: Sticky footer with flexbox
-  - Aligning flex items
-  - Project: Aligning elements with Flexbox
-  - Intro to CSS Grid
-  - The explicit grid
-  - The implicit grid
-  - Adding gutters with the gap property
-  - Project: Adding columns with Grid
+  - [Intro to Grid and Flexbox](#intro-to-grid-and-flexbox)
+  - [Intro to Flexbox](#intro-to-flexbox)
+  - [Flexbox: Orientation and ordering](#flexbox-orientation-and-ordering)
+  - [Sizing with flex properties](#sizing-with-flex-properties)
+  - [Flexbox exercise](#flexbox-exercise)
+  - [Project: Sticky footer with flexbox](#project-sticky-footer-with-flexbox)
+  - [Aligning flex items](#aligning-flex-items)
+  - [Project: Aligning elements with Flexbox](#project-aligning-elements-with-flexbox)
+  - [Intro to CSS Grid](#intro-to-css-grid)
+  - [The explicit grid](#the-explicit-grid)
+  - [The implicit grid](#the-implicit-grid)
+  - [Adding gutters with the gap property](#adding-gutters-with-the-gap-property)
+  - [Project: Adding columns with Grid](#project-adding-columns-with-grid)
 - [**6. Typography**](#6-typography) (12 videos)
-  - Typography for the web
-  - Changing fonts with font-family
-  - font-weight and font-style
-  - Web fonts with @font-face
-  - Web fonts with Google Fonts
-  - Project: Google Fonts
-  - The font-size property
-  - Font-size and accessibility
-  - Text-align and text-transform
-  - Line-height and letter-spacing
-  - Project: Typography styles
-  - Project: Buttons and spacing
+  - [Typography for the web](#typography-for-the-web)
+  - [Changing fonts with font-family](#changing-fonts-with-font-family)
+  - [font-weight and font-style](#font-weight-and-font-style)
+  - [Web fonts with @font-face](#web-fonts-with-font-face)
+  - [Web fonts with Google Fonts](#web-fonts-with-google-fonts)
+  - [Project: Google Fonts](#project-google-fonts)
+  - [The font-size property](#the-font-size-property)
+  - [Font-size and accessibility](#font-size-and-accessibility)
+  - [Text-align and text-transform](#text-align-and-text-transform)
+  - [Line-height and letter-spacing](#line-height-and-letter-spacing)
+  - [Project: Typography styles](#project-typography-styles)
+  - [Project: Buttons and spacing](#project-buttons-and-spacing)
 - [**7. Layouts: Fluid and Responsive**](#7-layouts-fluid-and-responsive) (10 videos)
-  - Intro to responsive design
-  - Intro to media queries
-  - Breakpoints and media queries
-  - Fluid layouts
-  - The viewport meta tag
-  - Testing responsive layouts
-  - Project: Breakpoints
-  - Project: Media queries: Part 1
-  - Project: Media queries: Part 2
-  - Project: Media queries: Part 3
+  - [Intro to responsive design](#intro-to-responsive-design)
+  - [Intro to media queries](#intro-to-media-queries)
+  - [Breakpoints and media queries](#breakpoints-and-media-queries)
+  - [Fluid layouts](#fluid-layouts)
+  - [The viewport meta tag](#the-viewport-meta-tag)
+  - [Testing responsive layouts](#testing-responsive-layouts)
+  - [Project: Breakpoints](#project-breakpoints)
+  - [Project: Media queries: Part 1](#project-media-queries-part-1)
+  - [Project: Media queries: Part 2](#project-media-queries-part-2)
+  - [Project: Media queries: Part 3](#project-media-queries-part-3)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing beyond the essentials with CSS
+  - [Continuing beyond the essentials with CSS](#continuing-beyond-the-essentials-with-css)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980)
@@ -184,8 +184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), web (1), [[HTML]] (1), next (1), career (1)
 > **Env Vars:** css (5), html (1)
-> **Code Keywords:** switch (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - css (1)
 
@@ -202,6 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), css (1)
 > **Env Vars:** html (3), css (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -241,6 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (3), css (1)
 > **Exercise Files:** exercise files (2), download the (1), starter files (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **Env Vars:** css (1)
@@ -249,7 +251,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### HTML and CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980)
@@ -280,9 +282,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), css (4)
 > **Env Vars:** html (7), css (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
@@ -353,10 +355,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[HTML]] (6), css (3), [[Google]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** html (6), css (3), seo (1), url (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
@@ -447,8 +449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[Security]] (1)
 > **UI Navigation:** click on (3), open the (2), in the tab (1), navigate to (1), go to (1)
-> **Code Keywords:** let (5), interface (1), continue (1)
 > **Tools:** vs code (4), visual studio (1), firefox (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (2)
@@ -535,8 +537,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), feature (2), [[Search]] (2), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** in the sidebar (2), dropdown (2), click on (2), scroll down (1), switch to (1)
-> **Code Keywords:** let (1), switch (1), else, (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** install (2)
 > **Code Identifiers:** wordwrapcolumn (1)
@@ -711,8 +713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (13), css (4), next (4), web (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** html (10), css (4)
-> **Code Keywords:** let (10), delete (2)
 > **Exercise Files:** template (3), exercise files (2), starter files (2)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** go back to (3), in the next (1)
@@ -773,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** make sure to (1), it's best to (1)
 > **Env Vars:** pdf (1)
@@ -851,6 +853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), web (1), data (1), [[HTML]] (1), express (1)
 > **Env Vars:** css (2), ppi (1), html (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
@@ -914,11 +917,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), web (2), [[HTML]] (1)
 > **Env Vars:** url (2), css (1), html (1)
 > **Analogies:** such as (3)
 > **Best Practices:** recommended (1), make sure to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
@@ -1070,7 +1073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), continue (2), default, (1), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (7), feature (6), [[Representational State Transfer (REST)|Rest]] (4), css (3), functional (1)
 > **Env Vars:** css (3), html (3), img (1), w3c (1)
 > **CLI Commands:** make (5)
 > **File Paths:** resume.html (3), index.html (1)
@@ -1138,8 +1141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (14), [[HTML]] (9)
 > **Env Vars:** css (14), html (9)
-> **Code Keywords:** let (1), override (1), require (1)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1218,8 +1221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (13), [[HTML]] (3), next (2)
 > **Env Vars:** css (11), html (1)
-> **Code Keywords:** let (4)
 > **File Paths:** index.html (1), resume.html (1)
 > **UI Navigation:** go to (1), in the tab (1)
 > **CLI Commands:** make (1)
@@ -1229,7 +1232,7 @@ created: 2026-04-29
 
 ### 2. CSS Core Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS specifications and the W3C
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980)
@@ -1300,8 +1303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (15), [[Microsoft Word|Word]] (2)
 > **Env Vars:** css (15), w3c (5), css3 (1)
-> **Code Keywords:** module (4), let (2), from, (2), for, (1)
 > **Documentation:** w3c (5), specification (2), the documentation (1), spec (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **CLI Commands:** find (1), make (1)
@@ -1399,9 +1402,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (11), [[HTML]] (3)
 > **Env Vars:** css (11), html (3)
 > **Analogies:** for example (3), such as (2), similar to (1)
-> **Code Keywords:** let (1), this, (1)
 > **CLI Commands:** make (1)
 > **URLs:** [codeguide.co](https://codeguide.co) (1)
 > **Definitions:** is a  (1)
@@ -1476,8 +1479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), css (6), [[HTML]] (3), [[Web Development]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (6), html (3), mdn (2), w3c (1)
-> **Code Keywords:** function (3), let (1), type, (1), type. (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Analogies:** such as (4), for example (1)
 > **Documentation:** mdn (2), w3c (1)
@@ -1586,8 +1589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (2), web (1), next (1)
 > **Env Vars:** rgb (6), mdn (2), hex (1), rgba (1), f00 (1)
-> **Code Keywords:** function (2), let (1)
 > **Documentation:** mdn (2), the documentation (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
@@ -1634,7 +1637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1)
+> **Frameworks & Libraries:** [[Canva]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [coolors.co](https://coolors.co) (1)
 > **Exercise Files:** exercise files (1)
@@ -1720,8 +1723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (4), [[HTML]] (3), css (2), [[JavaScript]] (1), next (1)
 > **Env Vars:** html (3), css (2)
-> **Code Keywords:** let (4)
 > **Cross-References:** later in (1), in the next (1)
 > **UI Navigation:** select the (1), in the menu (1)
 > **Definitions:** is an  (1)
@@ -1793,8 +1796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[Microsoft Word|Word]] (1), [[CodePen]] (1), next (1)
 > **Env Vars:** css (4)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1871,7 +1874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class, (2), class= (1), delete (1)
+> **Frameworks & Libraries:** css (5), [[HTML]] (2)
 > **Env Vars:** css (5), html (2)
 > **Analogies:** similar to (1), just like (1), for example (1)
 > **Cross-References:** go back to (1)
@@ -1942,7 +1945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), match. (1), continue (1)
+> **Frameworks & Libraries:** css (2), [[HTML]] (1), [[Document Object Model (DOM)|Document object model]] (1), dom (1), [[CodePen]] (1)
 > **Env Vars:** css (2), html (1), dom (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (2)
@@ -2045,7 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (2), from, (1), function (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1), img (1), url (1), mdn (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), go back to (1)
@@ -2144,8 +2147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (3), next (1)
 > **Env Vars:** css (8), html (1)
-> **Code Keywords:** let (6), this, (1), class, (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2), in the last (1)
 > **Analogies:** such as (2), for example (1)
@@ -2310,7 +2313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), this, (3), require (1), switch (1)
+> **Frameworks & Libraries:** css (6), [[HTML]] (2), next (1), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (6), rgb (6), url (1), html (1)
 > **Cross-References:** go back to (3), we talked about (1), later in (1)
 > **CLI Commands:** make (2)
@@ -2408,7 +2411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (2), type. (2), class, (1), type, (1)
+> **Frameworks & Libraries:** [[CodePen]] (1), [[Typography]] (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** mdn (1), reference guide (1)
@@ -2468,8 +2471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[Search]] (4), [[Typography]] (1), web (1), [[Web Development]] (1)
 > **Env Vars:** css (5), mdn (2)
-> **Code Keywords:** case, (1), let (1)
 > **Documentation:** mdn (2)
 > **UI Navigation:** open the (1), scroll down (1)
 > **Analogies:** for instance (1), for example (1)
@@ -2562,7 +2565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), override (2), type, (1), let (1)
+> **Frameworks & Libraries:** css (3), [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Definitions:** refers to (1), means that (1)
 > **Cross-References:** we talked about (1)
@@ -2679,7 +2682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), class. (1), else. (1)
+> **Frameworks & Libraries:** next (3), css (3), [[HTML]] (1)
 > **Env Vars:** css (3), html (1), btn (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2691,7 +2694,7 @@ created: 2026-04-29
 
 ### 3. The CSS Box Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to the CSS box model
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980)
@@ -2716,8 +2719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[HTML]] (2), web (1)
 > **Env Vars:** css (3), html (2)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
@@ -2813,9 +2816,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[HTML]] (1)
 > **Env Vars:** css (2), html (1), mdn (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Documentation:** mdn (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2900,9 +2903,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (2), pdf (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -2999,8 +3002,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[CodePen]] (2), next (1), css (1)
 > **Env Vars:** html (4), csss (1), css (1)
-> **Code Keywords:** let (5)
 > **Analogies:** just like (3), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3095,7 +3098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), class. (1), type. (1)
+> **Frameworks & Libraries:** css (4), [[HTML]] (3), next (1)
 > **Env Vars:** css (4)
 > **File Paths:** index.html (2)
 > **Cross-References:** go back to (1), later in (1)
@@ -3211,8 +3214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (7), [[Debugging]] (2), feature (1), next (1)
 > **Env Vars:** css (8), html (6)
-> **Code Keywords:** let (8), from. (1), default. (1), super (1), continue (1)
 > **UI Navigation:** click on (4), open the (3), select the (2), right-click (1), in the toolbar (1)
 > **Tools:** firefox (4)
 > **Cross-References:** go back to (2), in the next (1)
@@ -3301,8 +3304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), css (2)
 > **Env Vars:** html (4), css (2)
-> **Code Keywords:** let (4), this. (1)
 > **CLI Commands:** make (4)
 > **Non-Speech:** (keyboard typing) (2)
 > **Cross-References:** later in (1)
@@ -3384,8 +3387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), css (4)
 > **Env Vars:** html (6), css (4)
-> **Code Keywords:** let (4)
 > **Cross-References:** go back to (2), later in (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -3448,7 +3451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Cross-References:** in the last (1), we discussed (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -3541,7 +3544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[CodePen]] (2), [[HTML]] (2), css (1)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3640,7 +3643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), switch (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (2), css (2)
 > **Cross-References:** go back to (3)
 > **File Paths:** index.html (1), resume.html (1)
 > **CLI Commands:** make (2)
@@ -3764,7 +3767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (1), for. (1), default, (1)
+> **Frameworks & Libraries:** css (4), next (1)
 > **Env Vars:** css (4), mdn (2), url (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -3776,7 +3779,7 @@ created: 2026-04-29
 
 ### 4. Layouts: Float and Position
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to CSS Layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-layout?u=76281980)
@@ -3801,10 +3804,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4)
 > **Env Vars:** css (4)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - css (1)
 
 #### Layouts with the float property
@@ -3892,7 +3895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), continue (1)
+> **Frameworks & Libraries:** css (2), [[HTML]] (1), [[CodePen]] (1), next (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -3965,8 +3968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[HTML]] (1), [[Microsoft]] (1)
 > **Env Vars:** css (3), html (1), bfc (1)
-> **Code Keywords:** this. (2), self (1)
 > **Definitions:** is a  (1), is called (1), basically means (1)
 > **Analogies:** such as (1), similar to (1)
 > **Best Practices:** recommended (1)
@@ -4091,7 +4094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), class. (3), this, (2), switch (1)
+> **Frameworks & Libraries:** css (4), [[HTML]] (2), next (2), [[Typography]] (1)
 > **Env Vars:** css (4), html (2)
 > **Cross-References:** go back to (1), later in (1)
 > **CLI Commands:** make (1)
@@ -4199,7 +4202,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), static (2), default, (1), case, (1)
 > **UI Navigation:** scroll down (3)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** go back to (1)
@@ -4285,8 +4287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), [[CodePen]] (2), next (2), [[Forms]] (1), css (1)
 > **Env Vars:** html (7), css (1)
-> **Code Keywords:** let (4), default, (2), finally, (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is called (1)
@@ -4362,8 +4364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), css (3), feature (1), [[Typography]] (1)
 > **Env Vars:** pdf (6), css (3), html (2)
-> **Code Keywords:** let (4), switch (2), continue (1), class. (1)
 > **CLI Commands:** make (2)
 > **File Paths:** resume.html (1)
 > **UI Navigation:** open the (1)
@@ -4374,7 +4376,7 @@ created: 2026-04-29
 
 ### 5. Layouts: Flexbox and Grid
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Grid and Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-grid-and-flexbox?u=76281980)
@@ -4452,7 +4454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1), continue (1)
+> **Frameworks & Libraries:** css (2)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -4532,7 +4534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** feature (1), [[HTML]] (1), next (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** note that (1)
@@ -4595,8 +4597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** mdn (1)
 > **Cross-References:** we covered (1)
 > **Documentation:** mdn (1)
@@ -4686,7 +4688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), default, (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4802,7 +4804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (1), switch (1), this, (1), for, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (3), next (2), [[Typography]] (1)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3), later in (1)
@@ -4884,7 +4886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Project: Aligning elements with Flexbox
@@ -4964,7 +4966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (2), switch (1), extends (1)
+> **Frameworks & Libraries:** css (2)
 > **Env Vars:** css (2), img (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -5032,11 +5034,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), web (1), next (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### The explicit grid
@@ -5116,7 +5118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6), type. (1), delete (1), continue (1)
+> **Frameworks & Libraries:** css (1), next (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
@@ -5188,7 +5190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1), function (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Search]] (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (2)
@@ -5229,8 +5231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[LinkedIn]] (1)
 > **Env Vars:** css (3)
-> **Code Keywords:** function (1), module (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5383,7 +5385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (2), class. (1), super (1)
+> **Frameworks & Libraries:** css (9), [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** css (9), html (3)
 > **UI Navigation:** click on (3), open the (1), right-click (1), select the (1)
 > **CLI Commands:** make (4), find (1)
@@ -5395,7 +5397,7 @@ created: 2026-04-29
 
 ### 6. Typography
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Typography for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980)
@@ -5462,9 +5464,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Typography]] (2), css (1)
 > **Definitions:** refers to (4), is a  (2)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** for. (1)
 > **Env Vars:** css (1)
 > **Speakers:** - there (1)
 
@@ -5529,8 +5531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (5), web (3), [[Windows]] (2), css (1), next (1)
 > **Definitions:** known as (2)
-> **Code Keywords:** delete (1)
 > **URLs:** [cssfontstack.com](https://cssfontstack.com) (1)
 > **Env Vars:** css (1)
 > **Analogies:** for example (1)
@@ -5599,7 +5601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1)
+> **Frameworks & Libraries:** css (2), [[CodePen]] (1)
 > **Env Vars:** css (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -5657,10 +5659,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), css (4), [[Typography]] (1), functional (1)
 > **Env Vars:** css (4), url (3), woff (2), woff2 (2)
 > **Analogies:** just like (2), such as (2), similar to (1)
 > **Definitions:** is an  (2), means that (1)
-> **Code Keywords:** let (1), function (1)
 > **URLs:** [fontsquirrel.com](https://fontsquirrel.com) (1)
 > **Warnings:** note that (1)
 > **Speakers:** - typography (1)
@@ -5738,13 +5740,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (4), css (2), [[Search]] (2), web (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** css (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** select the (2)
 > **Warnings:** note that (1), caveat (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 #### Project: Google Fonts
@@ -5830,8 +5832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[Google]] (4), generic (2), web (1), [[Typography]] (1)
 > **Env Vars:** css (5), url (3), csss (2)
-> **Code Keywords:** let (6), default, (1)
 > **CLI Commands:** make (4)
 > **Warnings:** caveat (2), note that (1)
 > **Cross-References:** go back to (2)
@@ -5924,7 +5926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default. (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Typography]] (1), css (1), [[CodePen]] (1), next (1)
 > **Env Vars:** html (4), css (1)
 > **Definitions:** is an  (1), is a  (1), stands for (1)
 > **Analogies:** for example (2), similar to (1)
@@ -6043,9 +6045,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Versions:** 62.5 (4), 1.5 (2), 0.875 (2), 0.5 (1), 1.4 (1)
 > **Env Vars:** css (4), html (3)
-> **Code Keywords:** let (3), override (1), this, (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
 > **Tools:** firefox (1)
@@ -6119,7 +6121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), override (1)
+> **Frameworks & Libraries:** [[CodePen]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** refers to (2), is an  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -6198,8 +6200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2)
 > **Versions:** 1.5 (2), 1.2 (2), 1.25 (1), 0.05 (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (2)
 > **Cross-References:** go back to (1)
@@ -6338,7 +6340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), default, (1)
+> **Frameworks & Libraries:** css (5), next (4), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Versions:** 62.5 (2), 0.85 (2), 1.5 (1), 1.4 (1), 0.9 (1)
 > **Env Vars:** css (5), html (2)
@@ -6512,7 +6514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), class, (2), switch (1)
+> **Frameworks & Libraries:** css (6), [[HTML]] (3)
 > **Env Vars:** css (6), html (3), pdf (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (4)
@@ -6524,7 +6526,7 @@ created: 2026-04-29
 
 ### 7. Layouts: Fluid and Responsive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to responsive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980)
@@ -6557,6 +6559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsive Web Design]] (3), next (1), feature (1), web (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Speakers:** - when (1)
@@ -6654,10 +6657,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (15), feature (3), next (2), [[Microsoft Word|Word]] (1), web (1)
 > **Env Vars:** css (15), mdn (2), w3c (1), html (1)
 > **Analogies:** such as (3), similar to (2), just like (2), for example (1), for instance (1)
 > **Documentation:** mdn (2), specification (1), w3c (1)
-> **Code Keywords:** let (2), type, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
@@ -6742,9 +6745,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), feature (2), [[Responsive Web Design]] (1), [[Analytics]] (1)
 > **Env Vars:** css (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** break, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -6795,8 +6798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsive Web Design]] (1), css (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** template (1)
 > **Analogies:** just like (1)
@@ -6839,8 +6842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), [[HTML]] (2), css (1)
 > **Env Vars:** html (2), css (1)
-> **Code Keywords:** default, (1), let (1)
 > **Exercise Files:** template (1)
 > **Definitions:** means that (1)
 > **Best Practices:** you should always (1)
@@ -6905,10 +6908,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[HTML]] (1)
 > **UI Navigation:** select the (4), dropdown (2)
 > **Env Vars:** css (2), html (1)
 > **Tools:** firefox (3)
-> **Code Keywords:** lambda (1), let (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -6988,7 +6991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), break. (1), this. (1), break, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
@@ -7216,7 +7219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), delete (3), break. (2), type, (1), this, (1)
+> **Frameworks & Libraries:** css (5), next (2), feature (1), hit (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (5), we talked about (1), in the next (1)
 > **Env Vars:** css (5), pdf (1)
@@ -7378,7 +7381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), continue (1), break. (1)
+> **Frameworks & Libraries:** css (4), [[HTML]] (2), next (1)
 > **Env Vars:** css (4), html (2), htmo (1)
 > **CLI Commands:** make (5)
 > **Versions:** 2.6 (3), 2.7 (1), 2.8 (1)
@@ -7498,7 +7501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), break. (1), switch (1), this, (1), continue (1)
+> **Frameworks & Libraries:** next (3), css (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (1), picture (1)
 > **Env Vars:** css (1)
@@ -7509,7 +7512,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing beyond the essentials with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/continuing-beyond-the-essentials-with-css?u=76281980)
@@ -7530,6 +7533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), next (1)
 > **Env Vars:** css (4)
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - [instructor] (1)

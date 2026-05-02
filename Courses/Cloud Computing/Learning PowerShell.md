@@ -30,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20PowerShell.md)
@@ -49,33 +49,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - Using the exercise files
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. PowerShell Overview**](#1-powershell-overview) (5 videos)
-  - Why PowerShell?
-  - How to read the language
-  - Getting help
-  - Discovering cmdlets and aliases
-  - Get-Service and Get-Member
+  - [Why PowerShell?](#why-powershell)
+  - [How to read the language](#how-to-read-the-language)
+  - [Getting help](#getting-help)
+  - [Discovering cmdlets and aliases](#discovering-cmdlets-and-aliases)
+  - [Get-Service and Get-Member](#get-service-and-get-member)
 - [**2. Using PowerShell**](#2-using-powershell) (6 videos)
-  - Functions
-  - Relieving anxiety with -WhatIf and -Confirm
-  - ISE and you
-  - Working with output
-  - Grid view
-  - Running PowerShell remotely
+  - [Functions](#functions)
+  - [Relieving anxiety with -WhatIf and -Confirm](#relieving-anxiety-with--whatif-and--confirm)
+  - [ISE and you](#ise-and-you)
+  - [Working with output](#working-with-output)
+  - [Grid view](#grid-view)
+  - [Running PowerShell remotely](#running-powershell-remotely)
 - [**3. Taking PowerShell On Premises and Online**](#3-taking-powershell-on-premises-and-online) (4 videos)
-  - Finding and installing modules
-  - Server cmdlets
-  - Office 365 PowerShell
-  - Azure PowerShell
+  - [Finding and installing modules](#finding-and-installing-modules)
+  - [Server cmdlets](#server-cmdlets)
+  - [Office 365 PowerShell](#office-365-powershell)
+  - [Azure PowerShell](#azure-powershell)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980)
@@ -118,8 +118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (7), [[Automation]] (1), [[Python (Programming Language)|Python]] (1), cloud (1), [[Microsoft Office|Office]] (1)
 > **Tools:** powershell (7)
-> **Code Keywords:** class. (2)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [matt] (1)
@@ -163,10 +163,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Automation]] (1), [[Scripting]] (1), [[Windows Server]] (1), [[Windows]] (1)
 > **Tools:** powershell (10), command prompt (1)
 > **Prerequisites:** install (1), configure (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [voiceover] (1)
 
 #### Using the exercise files
@@ -196,9 +196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (2)
 > **Tools:** powershell (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Versions:** 5.0 (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [voiceover] (1)
@@ -206,7 +206,7 @@ created: 2026-04-29
 
 ### 1. PowerShell Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why PowerShell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980)
@@ -329,9 +329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (31), [[Scripting]] (4), [[Microsoft Products|Products]] (3), [[Linux]] (2), [[Windows]] (2)
 > **Tools:** powershell (31)
 > **CLI Commands:** find (2), ls (2), make (1)
-> **Code Keywords:** let (4), for, (1)
 > **Env Vars:** gui (2), wmi (1), dir (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (1), for example (1)
@@ -497,8 +497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (20), next (3), generic (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** powershell (20)
-> **Code Keywords:** this, (3), pass (3), case, (2), case. (2), let (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** later in (1)
 > **Definitions:** known as (1)
@@ -645,8 +645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (21), [[Search]] (3), hit (2), [[Microsoft Word|Word]] (1), web (1)
 > **Tools:** powershell (21)
-> **Code Keywords:** this, (5), let (4), case, (2), this. (1)
 > **UI Navigation:** click on (1), scroll up (1), scroll down (1), go to (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** coming up (1)
@@ -757,9 +757,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), hit (1), [[Linux]] (1), prompt (1)
 > **Tools:** powershell (12), command prompt (1)
 > **CLI Commands:** find (4), ls (2)
-> **Code Keywords:** this, (2), let (1), switch (1), this: (1)
 > **UI Navigation:** scroll up (3)
 > **Prerequisites:** install (2)
 > **Speakers:** - [voiceover] (1)
@@ -853,16 +853,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (15), [[Microsoft Word|Word]] (2), hit (1), power (1)
 > **Tools:** powershell (15)
 > **CLI Commands:** find (7), make (1)
-> **Code Keywords:** let (4), this. (1), this, (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [voiceover] (1)
 
 
 ### 2. Using PowerShell
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980)
@@ -927,7 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), hit (2)
 > **Tools:** powershell (8)
 > **CLI Commands:** make (7)
 > **Analogies:** just like (2)
@@ -1017,8 +1017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (9), hit (3), [[Microsoft Word|Word]] (2), application (1), next (1)
 > **Tools:** powershell (9)
-> **Code Keywords:** let (3), this. (1)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [voiceover] (1)
@@ -1248,9 +1248,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (25), prompt (5), hit (5), [[Scripting]] (3), [[Windows Server]] (1)
 > **Tools:** powershell (25), command prompt (5)
 > **Env Vars:** ise (15), gui (3), dir (1)
-> **Code Keywords:** let (7), this, (1), super (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **Analogies:** just like (3), for example (1)
@@ -1348,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), this. (2)
+> **Frameworks & Libraries:** [[Powershell]] (8), data (3), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Tools:** powershell (8)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [voiceover] (1)
@@ -1406,7 +1406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1)
+> **Frameworks & Libraries:** data (6), [[Powershell]] (4), [[Zoom]] (1), [[Microsoft Word|Word]] (1), power (1)
 > **Tools:** powershell (4)
 > **CLI Commands:** find (2)
 > **Env Vars:** gui (1)
@@ -1506,8 +1506,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), data (3), web (3), power (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (12)
-> **Code Keywords:** let (3), from. (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** ise (1)
 > **Analogies:** just like (1)
@@ -1516,7 +1516,7 @@ created: 2026-04-29
 
 ### 3. Taking PowerShell On Premises and Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding and installing modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980)
@@ -1607,8 +1607,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (16), [[Security]] (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Office|Office]] (1), [[Windows]] (1)
 > **Tools:** powershell (16)
-> **Code Keywords:** module (7), let (3), function (1), this, (1), default. (1)
 > **Definitions:** is called (2), is a  (1), basically means (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
@@ -1810,7 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (2), this. (2), pass (1), switch (1)
+> **Frameworks & Libraries:** [[Powershell]] (11), feature (4), web (3), [[Windows]] (3), [[Windows Server]] (2)
 > **Prerequisites:** install (11), configure (2), set up (1)
 > **Tools:** powershell (11)
 > **Env Vars:** gui (2), iis (2)
@@ -1976,7 +1976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (15), let (5), this. (3), switch (1), new. (1)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Microsoft Office|Office]] (4), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Entra ID|Azure active directory]] (2), hit (2)
 > **Prerequisites:** install (16)
 > **Tools:** powershell (10)
 > **CLI Commands:** find (6), git (1)
@@ -2250,8 +2250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (45), [[Powershell]] (45), [[CLI]] (12), cloud (11), [[Windows]] (3)
 > **Tools:** powershell (45), bash (8), command line (2), azure portal (1)
-> **Code Keywords:** let (7), interface (5), this, (4), module (3), this. (3)
 > **CLI Commands:** az (12), find (5), rm (1), make (1)
 > **Env Vars:** cli (12), gui (2), cls (2)
 > **Prerequisites:** install (9)
@@ -2262,7 +2262,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980)
@@ -2357,8 +2357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), next (1), power (1), [[Search]] (1), [[Microsoft]] (1)
 > **Tools:** powershell (12)
-> **Code Keywords:** let (4), interface (1), this. (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1), is an  (1)

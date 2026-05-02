@@ -31,7 +31,7 @@ tags:
   - skill/project-tracking
   - skill/jira
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Advanced%20Administration.md)
@@ -50,66 +50,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Administration in Jira
-  - Who is this for?
-  - What do you need?
+  - [Administration in Jira](#administration-in-jira)
+  - [Who is this for?](#who-is-this-for)
+  - [What do you need?](#what-do-you-need)
 - [**1. Configuration Options**](#1-configuration-options) (6 videos)
-  - Global configuration overview
-  - Using global permissions
-  - Customizing the interface
-  - Enabling and disabling email
-  - Challenge: General configuration options
-  - Solution: General configuration options
+  - [Global configuration overview](#global-configuration-overview)
+  - [Using global permissions](#using-global-permissions)
+  - [Customizing the interface](#customizing-the-interface)
+  - [Enabling and disabling email](#enabling-and-disabling-email)
+  - [Challenge: General configuration options](#challenge-general-configuration-options)
+  - [Solution: General configuration options](#solution-general-configuration-options)
 - [**2. Using Schemes**](#2-using-schemes) (5 videos)
-  - Types of schemes
-  - Scheme hierarchy
-  - Sharing schemes between projects
-  - Challenge: Scheme review
-  - Solution: Scheme review
+  - [Types of schemes](#types-of-schemes)
+  - [Scheme hierarchy](#scheme-hierarchy)
+  - [Sharing schemes between projects](#sharing-schemes-between-projects)
+  - [Challenge: Scheme review](#challenge-scheme-review)
+  - [Solution: Scheme review](#solution-scheme-review)
 - [**3. Creating Custom Schemes**](#3-creating-custom-schemes) (6 videos)
-  - Use and create custom issue types
-  - Use and create custom workflows
-  - Use and create custom screens
-  - Use and create custom fields
-  - Challenge: Create a project template
-  - Solution: Create a project template
+  - [Use and create custom issue types](#use-and-create-custom-issue-types)
+  - [Use and create custom workflows](#use-and-create-custom-workflows)
+  - [Use and create custom screens](#use-and-create-custom-screens)
+  - [Use and create custom fields](#use-and-create-custom-fields)
+  - [Challenge: Create a project template](#challenge-create-a-project-template)
+  - [Solution: Create a project template](#solution-create-a-project-template)
 - [**4. Managing Project Settings**](#4-managing-project-settings) (5 videos)
-  - Use and create versions
-  - Use and create components
-  - Working with users
-  - Challenge: Create components
-  - Solution: Create components
+  - [Use and create versions](#use-and-create-versions)
+  - [Use and create components](#use-and-create-components)
+  - [Working with users](#working-with-users)
+  - [Challenge: Create components](#challenge-create-components)
+  - [Solution: Create components](#solution-create-components)
 - [**5. Working with Groups and Roles**](#5-working-with-groups-and-roles) (5 videos)
-  - Leveraging project roles
-  - Working with groups
-  - Using groups and roles in schemes
-  - Challenge: Create a read-only role
-  - Solution: Create a read-only role
+  - [Leveraging project roles](#leveraging-project-roles)
+  - [Working with groups](#working-with-groups)
+  - [Using groups and roles in schemes](#using-groups-and-roles-in-schemes)
+  - [Challenge: Create a read-only role](#challenge-create-a-read-only-role)
+  - [Solution: Create a read-only role](#solution-create-a-read-only-role)
 - [**6. Restricting and Sharing Information**](#6-restricting-and-sharing-information) (5 videos)
-  - Use and create permissions
-  - Use and create issue security
-  - Use and create notifications
-  - Challenge: Create read-only permissions
-  - Solution: Create read-only permissions
+  - [Use and create permissions](#use-and-create-permissions)
+  - [Use and create issue security](#use-and-create-issue-security)
+  - [Use and create notifications](#use-and-create-notifications)
+  - [Challenge: Create read-only permissions](#challenge-create-read-only-permissions)
+  - [Solution: Create read-only permissions](#solution-create-read-only-permissions)
 - [**7. Extending Jira**](#7-extending-jira) (5 videos)
-  - Use and vet apps
-  - Create connections
-  - Create integrations
-  - Challenge: Connect Jira to Confluence
-  - Solution: Connect Jira to Confluence
+  - [Use and vet apps](#use-and-vet-apps)
+  - [Create connections](#create-connections)
+  - [Create integrations](#create-integrations)
+  - [Challenge: Connect Jira to Confluence](#challenge-connect-jira-to-confluence)
+  - [Solution: Connect Jira to Confluence](#solution-connect-jira-to-confluence)
 - [**8. Advanced Features**](#8-advanced-features) (6 videos)
-  - Import data
-  - Create issues from email
-  - Use an issue collector
-  - Use automation
-  - Challenge: Create an issue collector
-  - Solution: Create an issue collector
+  - [Import data](#import-data)
+  - [Create issues from email](#create-issues-from-email)
+  - [Use an issue collector](#use-an-issue-collector)
+  - [Use automation](#use-automation)
+  - [Challenge: Create an issue collector](#challenge-create-an-issue-collector)
+  - [Solution: Create an issue collector](#solution-create-an-issue-collector)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Administration in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980)
@@ -148,8 +148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), application (1), power (1), [[User Management]] (1), [[Security]] (1)
 > **Tools:** jira (6)
-> **Code Keywords:** let (1)
 > **Speakers:** - [rachel] (1)
 
 #### Who is this for?
@@ -205,8 +205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (17), application (3), feature (2), cloud (2), data (2)
 > **Tools:** jira (17)
-> **Code Keywords:** interface (1), new. (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - in (1)
@@ -246,15 +246,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), next (4), management (2), cloud (2), application (1)
 > **Tools:** jira (7)
-> **Code Keywords:** type, (1), continue (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - ideally (1)
 
 
 ### 1. Configuration Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Global configuration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980)
@@ -307,8 +307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Search]] (3), data (2), [[Jira]] (2), application (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** for. (2), finally, (1), public (1)
 > **UI Navigation:** in the menu (1), open the (1), go to (1)
 > **Analogies:** for example (3)
 > **Tools:** jira (2)
@@ -488,8 +488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (18), application (11), next (9), data (5), cloud (4)
 > **Tools:** jira (18)
-> **Code Keywords:** delete (2), let (2), function (1), type. (1), finally, (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
 > **Env Vars:** url (3)
@@ -582,9 +582,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (8), application (4), cloud (2), next (2), management (1)
 > **Tools:** jira (8)
 > **Env Vars:** ico (1), png (1), jpeg (1), gif (1)
-> **Code Keywords:** finally, (1), let (1), public (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -629,9 +629,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), cloud (2), [[Atlassian]] (2), data (2), [[Slack]] (1)
 > **Tools:** jira (5), slack (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** from. (1), finally, (1)
 > **URLs:** [atlassian.net](https://atlassian.net) (1), [domain.com](https://domain.com) (1)
 > **Analogies:** for example (2)
 > **Cross-References:** later in (1)
@@ -659,8 +659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -687,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -695,7 +695,7 @@ created: 2026-04-29
 
 ### 2. Using Schemes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of schemes
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980)
@@ -832,8 +832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), [[Security]] (6), next (5), application (2), cloud (2)
 > **Tools:** jira (10)
-> **Code Keywords:** let (4), function (1), type. (1), default, (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Analogies:** for example (3), it's like (1)
 > **CLI Commands:** make (1)
@@ -918,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), require (2), delete (2), let (1), type. (1)
+> **Frameworks & Libraries:** next (2), business (1), [[Scrum]] (1), [[Jira]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** jira (1), url (1)
 > **Tools:** jira (1)
@@ -1000,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), finally, (2), new, (2), type. (1), let (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Microsoft Word|Word]] (3), next (2), business (1), [[Code Review]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Tools:** jira (5)
 > **Analogies:** for example (4)
@@ -1027,8 +1027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1059,8 +1059,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** delete (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1068,7 +1068,7 @@ created: 2026-04-29
 
 ### 3. Creating Custom Schemes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use and create custom issue types
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980)
@@ -1275,7 +1275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (3), finally, (2), type, (2), delete (1)
+> **Frameworks & Libraries:** [[Jira]] (7), business (3), teams (3), next (3), application (2)
 > **Tools:** jira (7)
 > **Analogies:** for example (5), just like (2)
 > **CLI Commands:** find (2)
@@ -1463,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (3), finally, (2), require (1)
+> **Frameworks & Libraries:** feature (5), [[Jira]] (3), cloud (3), data (3), application (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** jira (3)
@@ -1769,7 +1769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), let (3), finally, (3), type, (2), function (2)
+> **Frameworks & Libraries:** [[Jira]] (14), next (5), cloud (4), management (3), application (3)
 > **Tools:** jira (14), confluence (2)
 > **Env Vars:** jql (2), url (2), jsu (1)
 > **UI Navigation:** go to (2), scroll down (1), checkbox (1), select the (1)
@@ -1795,6 +1795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -1829,7 +1830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Jira]] (2), next (2), business (1), teams (1), hr (1)
 > **Tools:** jira (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -1838,7 +1839,7 @@ created: 2026-04-29
 
 ### 4. Managing Project Settings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use and create versions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980)
@@ -1933,7 +1934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), require (1), this, (1), for. (1)
+> **Frameworks & Libraries:** teams (3), application (2), [[Jira]] (2), next (2), power (1)
 > **Versions:** 1.1.0 (2), 1.1 (2)
 > **Analogies:** for example (4)
 > **Tools:** jira (2), github (1)
@@ -2057,9 +2058,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), next (2), data (2), [[Microsoft Word|Word]] (2), [[Forms]] (1)
 > **Env Vars:** jira (7)
 > **Tools:** jira (7)
-> **Code Keywords:** finally, (2), default, (1), delete (1), function (1)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** later in (1)
@@ -2149,10 +2150,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), cloud (4), next (3), data (3), application (2)
 > **Tools:** jira (4)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** is called (2)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
@@ -2179,7 +2180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Jira]] (1), next (1), business (1), [[Microsoft Office|Office]] (1), [[Routing]] (1)
 > **Tools:** jira (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2214,6 +2215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), hr (2), [[Human Resources (HR)|Human resources]] (1), next (1)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2222,7 +2224,7 @@ created: 2026-04-29
 
 ### 5. Working with Groups and Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging project roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980)
@@ -2293,8 +2295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), teams (1), next (1), leadership (1), application (1)
 > **Tools:** jira (9)
-> **Code Keywords:** let (1), case. (1), finally, (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), we talked about (1)
 > **Analogies:** for example (2)
@@ -2396,7 +2398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), require (1), let (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[User Management]] (3), application (2), leadership (1), data (1)
 > **Env Vars:** jira (6)
 > **Tools:** jira (6)
 > **CLI Commands:** make (2)
@@ -2452,7 +2454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** application (2), [[Jira]] (1), next (1), [[Security]] (1), [[Dashboards]] (1)
 > **Tools:** jira (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2477,6 +2479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Jira]] (1), application (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2500,6 +2503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -2509,7 +2513,7 @@ created: 2026-04-29
 
 ### 6. Restricting and Sharing Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use and create permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-permissions?u=76281980)
@@ -2605,7 +2609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (1), default. (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (31), [[Jira]] (5), next (5), application (3), leadership (2)
 > **Env Vars:** jira (5)
 > **Tools:** jira (5)
 > **CLI Commands:** make (3)
@@ -2832,8 +2836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (19), generic (4), feature (3), application (2), business (1)
 > **Tools:** jira (19)
-> **Code Keywords:** function (4), let (3), delete (3), finally, (3), self (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** for example (3), just like (2)
 > **UI Navigation:** go to (2), select the (1)
@@ -2861,7 +2865,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case. (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -2898,7 +2901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2907,7 +2910,7 @@ created: 2026-04-29
 
 ### 7. Extending Jira
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use and vet apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980)
@@ -3082,11 +3085,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (9), data (8), application (7), cloud (4)
 > **Prerequisites:** install (12), make sure you have (1)
 > **CLI Commands:** make (7), find (5)
 > **Env Vars:** jira (5), upm (5), url (1)
 > **Tools:** jira (9)
-> **Code Keywords:** type, (2), super (1), type. (1), finally, (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2)
 > **Exercise Files:** exercise file (1), zip file (1)
 > **Documentation:** the documentation (1)
@@ -3198,8 +3201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (30), [[Confluence]] (17), application (11), cloud (6), [[Atlassian]] (3)
 > **Tools:** jira (30), confluence (17), bitbucket (1)
-> **Code Keywords:** finally, (2), let (1), self (1), default. (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** url (2), jql (1)
 > **Analogies:** for instance (1), for example (1)
@@ -3348,10 +3351,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (28), [[Slack]] (22), application (5), next (3), teams (2)
 > **Tools:** jira (28), slack (22), confluence (1)
 > **Env Vars:** url (3), jql (2), sla (1), crm (1), rest (1)
 > **Analogies:** for example (6)
-> **Code Keywords:** let (2), delete (1), function (1), for, (1)
 > **UI Navigation:** select the (2), in the sidebar (1), dropdown (1), go to (1)
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** don't forget (1)
@@ -3380,8 +3383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Confluence]] (4), [[Atlassian]] (4), [[Jira]] (2), cloud (2)
 > **Tools:** confluence (4), jira (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -3409,7 +3412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** application (5), cloud (2), [[Confluence]] (1), [[Atlassian]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** url (1)
 > **Tools:** confluence (1)
 > **Speakers:** - [instructor] (1)
@@ -3418,7 +3421,7 @@ created: 2026-04-29
 
 ### 8. Advanced Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Import data
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980)
@@ -3703,9 +3706,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (35), data (20), next (4), cloud (3), feature (2)
 > **Env Vars:** jira (35), csv (27)
 > **Tools:** jira (35)
-> **Code Keywords:** let (6), finally, (4), import, (3), function (2), type. (2)
 > **CLI Commands:** make (7), find (4)
 > **UI Navigation:** select the (3), checkbox (2), open the (1), click on (1), dropdown (1)
 > **Definitions:** is a  (4)
@@ -3835,8 +3838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (37), feature (7), cloud (5), application (3), [[Atlassian]] (2)
 > **Tools:** jira (37)
-> **Code Keywords:** finally, (2), default. (1), function (1), require (1), type. (1)
 > **Env Vars:** pop (2), imap (2)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [atlassian.net](https://atlassian.net) (1), [domain.com](https://domain.com) (1)
@@ -3977,8 +3980,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (17), application (7), web (6), next (4), feature (3)
 > **Tools:** jira (17)
-> **Code Keywords:** finally, (3), let (2), case. (2), include. (1), default, (1)
 > **UI Navigation:** select the (3), go to (1), checkbox (1)
 > **Env Vars:** html (2), url (1)
 > **Exercise Files:** template (2)
@@ -4225,9 +4228,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (23), [[Jira]] (16), cloud (5), data (4), application (4)
 > **Env Vars:** jira (16), jql (4), jsm (1), sla (1), url (1)
 > **Tools:** jira (16)
-> **Code Keywords:** let (7), finally, (2), self (1), continue (1), from. (1)
 > **CLI Commands:** make (4), find (3)
 > **UI Navigation:** select the (2), go to (1), click on (1)
 > **Analogies:** for example (3)
@@ -4249,6 +4252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Jira]] (1)
 > **Tools:** jira (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** configure (1)
@@ -4282,6 +4286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[HTML]] (1), [[JavaScript]] (1), web (1), [[Jira]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
 > **Tools:** jira (1)
@@ -4291,7 +4296,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980)
@@ -4384,9 +4389,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (12), cloud (4), next (3), [[Microsoft Products|Products]] (3)
 > **Tools:** jira (14)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (2), switch (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2), [jirastrategy.com](https://jirastrategy.com) (1)
 > **Env Vars:** url (2), jira (1)
 > **UI Navigation:** switch to (1)

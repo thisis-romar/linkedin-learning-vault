@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20Personal%20Portfolio%20with%20Django.md)
@@ -45,40 +45,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Creating a website with Python
-  - What you should know
+  - [Creating a website with Python](#creating-a-website-with-python)
+  - [What you should know](#what-you-should-know)
 - [**1. Portfolio Project Overview**](#1-portfolio-project-overview) (1 videos)
-  - Demo project overview
+  - [Demo project overview](#demo-project-overview)
 - [**2. Creating Django Apps**](#2-creating-django-apps) (3 videos)
-  - Starting a new project in Django
-  - Creating a Django app in a project
-  - Setting up URLs in your Django project
+  - [Starting a new project in Django](#starting-a-new-project-in-django)
+  - [Creating a Django app in a project](#creating-a-django-app-in-a-project)
+  - [Setting up URLs in your Django project](#setting-up-urls-in-your-django-project)
 - [**3. Django and Databases**](#3-django-and-databases) (7 videos)
-  - Creating the models in Django
-  - Postgres setup for Django
-  - Connecting your Django project to Postgres
-  - Make Django migrations and migrate
-  - Setting up an admin panel in Django
-  - Creating model objects via the admin panel in Django
-  - Pulling objects from the database in Django
+  - [Creating the models in Django](#creating-the-models-in-django)
+  - [Postgres setup for Django](#postgres-setup-for-django)
+  - [Connecting your Django project to Postgres](#connecting-your-django-project-to-postgres)
+  - [Make Django migrations and migrate](#make-django-migrations-and-migrate)
+  - [Setting up an admin panel in Django](#setting-up-an-admin-panel-in-django)
+  - [Creating model objects via the admin panel in Django](#creating-model-objects-via-the-admin-panel-in-django)
+  - [Pulling objects from the database in Django](#pulling-objects-from-the-database-in-django)
 - [**4. Designing Your Django Project**](#4-designing-your-django-project) (6 videos)
-  - Bootstrap overview and installation
-  - Page layout and templates in Django
-  - Adding static images to your Django project
-  - Collectstatic in Django
-  - Bootstrap as a static asset in Django
-  - Finishing touches in Django design
+  - [Bootstrap overview and installation](#bootstrap-overview-and-installation)
+  - [Page layout and templates in Django](#page-layout-and-templates-in-django)
+  - [Adding static images to your Django project](#adding-static-images-to-your-django-project)
+  - [Collectstatic in Django](#collectstatic-in-django)
+  - [Bootstrap as a static asset in Django](#bootstrap-as-a-static-asset-in-django)
+  - [Finishing touches in Django design](#finishing-touches-in-django-design)
 - [**5. Object Details in Django**](#5-object-details-in-django) (4 videos)
-  - Connecting URLs and templates in Django
-  - Creating views in Django
-  - Designing object detail views
-  - URL paths with parameters
+  - [Connecting URLs and templates in Django](#connecting-urls-and-templates-in-django)
+  - [Creating views in Django](#creating-views-in-django)
+  - [Designing object detail views](#designing-object-detail-views)
+  - [URL paths with parameters](#url-paths-with-parameters)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for Django
+  - [Next steps for Django](#next-steps-for-django)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a website with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), static (1), let (1)
+> **Frameworks & Libraries:** [[Django]] (3), [[Python (Programming Language)|Python]] (2), database (2), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** url (1)
 > **Speakers:** - [nick] (1)
@@ -137,19 +137,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (2), [[HTML]] (2), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** python 3 (2), 3.7 (1), 2.1 (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** html (2)
 > **Tools:** terminal (1), atom (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [djangoproject.com](https://djangoproject.com) (1)
 > **UI Navigation:** go to (1)
 
 
 ### 1. Portfolio Project Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demo project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/demo-project-overview?u=76281980)
@@ -178,17 +178,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Analogies:** picture (2), for example (1)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [nick] (1)
 
 
 ### 2. Creating Django Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting a new project in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980)
@@ -301,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), throw (1), this. (1)
+> **Frameworks & Libraries:** [[Django]] (10), hit (3), cd (2)
 > **CLI Commands:** cd (2), make (2), ls (2), python3 (1)
 > **Tools:** terminal (3), atom (1)
 > **File Paths:** manage.py (3)
@@ -405,7 +405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Django]] (13), hit (4), web (1)
 > **CLI Commands:** make (7)
 > **Tools:** terminal (3), atom (1)
 > **File Paths:** settings.py (1)
@@ -600,7 +600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (5), case, (2), for. (2), pass (2)
+> **Frameworks & Libraries:** [[HTML]] (12), [[Django]] (7), [[Routing]] (2), next (2), hit (2)
 > **Env Vars:** url (8), html (7)
 > **File Paths:** home.html (3), views.py (2), url.py (1), nick.html (1), jobs/nick.html (1)
 > **CLI Commands:** make (4)
@@ -612,7 +612,7 @@ created: 2026-04-29
 
 ### 3. Django and Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the models in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980)
@@ -683,8 +683,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[Python (Programming Language)|Python]] (4), [[Django]] (2), data (1), next (1)
 > **CLI Commands:** python (4), make (2), pip (1), pip3 (1)
-> **Code Keywords:** let (1), class, (1), case, (1), delete (1), this, (1)
 > **Tools:** atom (2), terminal (1)
 > **Definitions:** is a  (2), essentially is (1)
 > **File Paths:** models.py (2)
@@ -801,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (13), database (11), [[PostgreSQL|Postgres]] (6), [[Databases]] (4), [[Django]] (4)
 > **CLI Commands:** make (4), sqlite3 (3)
 > **Env Vars:** databases (1), downloads (1), postgres (1), app (1), create (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
@@ -893,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), default. (1), delete (1), module (1)
+> **Frameworks & Libraries:** database (11), [[PostgreSQL|Postgres]] (10), [[Django]] (5), next (4), [[PostgreSQL]] (2)
 > **CLI Commands:** sqlite3 (4), make (3), pip3 (2), pip (1)
 > **Code Identifiers:** sqlite3 (4), pip_install (1)
 > **Prerequisites:** install (3)
@@ -987,7 +987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), this, (3), from, (1), from. (1)
+> **Frameworks & Libraries:** database (8), [[Django]] (5), hit (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (4), python3 (2)
 > **Tools:** terminal (3), atom (2)
 > **File Paths:** manage.py (2), models.py (1), settings.py (1)
@@ -1105,7 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (5), this. (2), from, (1), import, (1)
+> **Frameworks & Libraries:** database (7), [[Django]] (4), hit (1), prompt (1)
 > **File Paths:** urls.py (1), manage.py (1), admin.py (1)
 > **CLI Commands:** make (2), python3 (1)
 > **Tools:** terminal (2), atom (1)
@@ -1209,8 +1209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Django]] (3), hit (3)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (3), super (1)
 > **Env Vars:** save (2), add (1), job (1)
 > **UI Navigation:** click on (2), go to (1)
 > **URLs:** [localhost:8000](https://localhost:8000) (1)
@@ -1353,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), class. (2), this, (2), from, (1)
+> **Frameworks & Libraries:** [[HTML]] (8), database (7), [[Django]] (5), [[Python (Programming Language)|Python]] (4), next (2)
 > **CLI Commands:** make (4), python (4)
 > **File Paths:** home.html (4), views.py (1)
 > **Cross-References:** go back to (1)
@@ -1364,7 +1364,7 @@ created: 2026-04-29
 
 ### 4. Designing Your Django Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bootstrap overview and installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980)
@@ -1437,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), default, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (4), css (4), hit (1)
 > **Env Vars:** html (3), css (3)
 > **Tools:** atom (3), safari (1), firefox (1)
 > **UI Navigation:** scroll down (2), click on (2)
@@ -1578,7 +1578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (6), this. (3), this, (3)
+> **Frameworks & Libraries:** next (4), [[HTML]] (2), [[GitHub]] (1)
 > **Tools:** atom (6), github (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** html (2)
@@ -1656,7 +1656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (25), let (6), this, (2), from, (2), import, (1)
+> **Frameworks & Libraries:** [[Django]] (4), next (3), database (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** url (5), static_root (3), static_url (2), css (1), base (1)
 > **Analogies:** picture (9), just like (1)
 > **UI Navigation:** go to (3), drag and drop (2)
@@ -1812,7 +1812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (29), let (5), this. (5), this, (3)
+> **Frameworks & Libraries:** [[Django]] (5), [[HTML]] (4), [[Python (Programming Language)|Python]] (1), hit (1), css (1)
 > **File Paths:** settings.py (2), home.html (2), manage.py (1)
 > **Tools:** atom (3), terminal (2)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -1946,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (16), let (12), delete (4), this, (2), case, (1)
+> **Frameworks & Libraries:** css (9), [[JavaScript]] (8), hit (4), next (1), [[Django]] (1)
 > **Code Identifiers:** jquery (10)
 > **Env Vars:** css (6), ccs (1)
 > **File Paths:** popper.js (1), popper.min.js (1), css/bootstrap.min.css (1)
@@ -2038,7 +2038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), static (8), this, (4), delete (3), this. (3)
+> **Frameworks & Libraries:** database (4), [[HTML]] (2), next (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (4), root (3), media (3), static_url (2), media_root (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (3)
@@ -2050,7 +2050,7 @@ created: 2026-04-29
 
 ### 5. Object Details in Django
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting URLs and templates in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980)
@@ -2233,7 +2233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (6), this. (4), function (4), case, (3)
+> **Frameworks & Libraries:** database (4), [[HTML]] (2), hit (2), [[Django]] (1)
 > **UI Navigation:** go to (6), click on (2)
 > **File Paths:** urls.py (3), home.html (2), models.py (1), views.py (1)
 > **CLI Commands:** make (6), find (1)
@@ -2381,7 +2381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), this. (4), this, (3), for. (2)
+> **Frameworks & Libraries:** [[HTML]] (8), database (6), [[Django]] (2), next (2), hit (1)
 > **UI Navigation:** go to (6), click on (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** html (3), url (1), abc (1)
@@ -2487,7 +2487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), delete (2), super (1), switch (1)
+> **Frameworks & Libraries:** [[HTML]] (4), web (3), [[Django]] (3), hit (2)
 > **UI Navigation:** go to (6), scroll up (1), click on (1)
 > **Env Vars:** url (6)
 > **File Paths:** home.html (2), detail.html (2), urls.py (1)
@@ -2613,7 +2613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (3), this. (1), static (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), hit (3), [[Django]] (1)
 > **UI Navigation:** go to (4), click on (3)
 > **File Paths:** home.html (3), views.py (2), urls.py (1)
 > **Env Vars:** url (5), html (1)
@@ -2625,7 +2625,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980)
@@ -2676,9 +2676,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (5), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Python (Programming Language)|Python]] (1)
 > **URLs:** [djangoproject.com](https://djangoproject.com) (1), [zappycode.com](https://zappycode.com) (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [nick] (1)
 

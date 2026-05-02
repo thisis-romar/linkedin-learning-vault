@@ -31,7 +31,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/system-monitoring
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS-%20Monitoring%2C%20Logging%2C%20and%20Remediation%20(2021).md)
@@ -50,37 +50,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Monitoring, logging, and remediation in AWS
-  - What you should know
+  - [Monitoring, logging, and remediation in AWS](#monitoring-logging-and-remediation-in-aws)
+  - [What you should know](#what-you-should-know)
 - [**1. AWS CloudWatch and CloudTrail**](#1-aws-cloudwatch-and-cloudtrail) (8 videos)
-  - Review monitoring concepts
-  - Introduction to CloudWatch
-  - Create a CloudWatch alarm
-  - CloudWatch Logs
-  - CloudWatch Logs Insights
-  - CloudWatch agent
-  - Dashboards
-  - CloudTrail Logs
+  - [Review monitoring concepts](#review-monitoring-concepts)
+  - [Introduction to CloudWatch](#introduction-to-cloudwatch)
+  - [Create a CloudWatch alarm](#create-a-cloudwatch-alarm)
+  - [CloudWatch Logs](#cloudwatch-logs)
+  - [CloudWatch Logs Insights](#cloudwatch-logs-insights)
+  - [CloudWatch agent](#cloudwatch-agent)
+  - [Dashboards](#dashboards)
+  - [CloudTrail Logs](#cloudtrail-logs)
 - [**2. Configure Notifications**](#2-configure-notifications) (3 videos)
-  - Configure Amazon SNS notifications
-  - Using Service Quotas
-  - Using AWS Health events
+  - [Configure Amazon SNS notifications](#configure-amazon-sns-notifications)
+  - [Using Service Quotas](#using-service-quotas)
+  - [Using AWS Health events](#using-aws-health-events)
 - [**3. AWS Config**](#3-aws-config) (3 videos)
-  - Introduction to AWS Config
-  - Setting up AWS Config
-  - AWS Config managed rules
+  - [Introduction to AWS Config](#introduction-to-aws-config)
+  - [Setting up AWS Config](#setting-up-aws-config)
+  - [AWS Config managed rules](#aws-config-managed-rules)
 - [**4. Taking Action**](#4-taking-action) (5 videos)
-  - Introduction to Amazon EventBridge
-  - Configure Amazon EventBridge
-  - Lambda in response to CloudWatch alarms
-  - Understand AWS Systems Manager
-  - Remediate using AWS Systems Manager
+  - [Introduction to Amazon EventBridge](#introduction-to-amazon-eventbridge)
+  - [Configure Amazon EventBridge](#configure-amazon-eventbridge)
+  - [Lambda in response to CloudWatch alarms](#lambda-in-response-to-cloudwatch-alarms)
+  - [Understand AWS Systems Manager](#understand-aws-systems-manager)
+  - [Remediate using AWS Systems Manager](#remediate-using-aws-systems-manager)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with AWS
+  - [Next steps with AWS](#next-steps-with-aws)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring, logging, and remediation in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980)
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), cloud (2), [[React.js|React]] (1), [[Security]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - [instructor] (1)
@@ -120,6 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Databases]] (1), [[Virtualization]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (1)
@@ -128,7 +130,7 @@ created: 2026-04-29
 
 ### 1. AWS CloudWatch and CloudTrail
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review monitoring concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/review-monitoring-concepts?u=76281980)
@@ -171,11 +173,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), data (4), [[Automation]] (1), [[Security]] (1)
 > **CLI Commands:** aws (9)
 > **Env Vars:** aws (9)
 > **Definitions:** known as (1), is a  (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** lambda (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -271,9 +273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), data (7), [[Amazon EC2]] (4), [[Amazon EC2|Ec2]] (3), management (2)
 > **Env Vars:** aws (13), ec2 (7), iam (3), cpu (2), api (1)
 > **CLI Commands:** aws (13), make (1)
-> **Code Keywords:** default, (1), interface (1), lambda (1), function (1), delete (1)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Analogies:** such as (2), for example (1)
 > **Documentation:** the documentation (1)
@@ -409,9 +411,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), data (10), next (3), management (2), product (1)
 > **Env Vars:** aws (14), sns (4), iam (1), arn (1), ec2 (1)
 > **CLI Commands:** aws (14), find (1), make (1)
-> **Code Keywords:** delete (3), interface (2), static (2), case, (1)
 > **Prerequisites:** configure (6)
 > **UI Navigation:** dropdown (1), navigate to (1), scroll up (1), select the (1)
 > **Definitions:** in other words (1), means that (1)
@@ -643,9 +645,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), aws (7), traffic (5), next (5), [[Search]] (4)
 > **Env Vars:** vpc (9), aws (7), iam (4), ssh (3), ec2 (2)
 > **CLI Commands:** aws (7), find (3), ssh (3), make (1)
-> **Code Keywords:** interface (3), case, (3), default, (1), lambda (1), this. (1)
 > **UI Navigation:** select the (5), scroll down (3), go to (1), navigate to (1), click on (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (1), such as (1), imagine (1)
@@ -795,7 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), this, (3), let (3), lambda (1), type, (1)
+> **Frameworks & Libraries:** data (4), feature (1), [[Search]] (1), next (1), traffic (1)
 > **Env Vars:** vpc (4), tcp (4)
 > **Warnings:** note that (7)
 > **Code Identifiers:** sourceaddress (1), destinationaddress (1), sourceport (1), destinationport (1)
@@ -1001,12 +1003,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), aws (8), next (8), [[Windows]] (4), application (2)
 > **Env Vars:** ec2 (14), aws (8), iam (5), cpu (3), ssm (2)
 > **CLI Commands:** aws (8), find (3), cd (1)
 > **UI Navigation:** select the (4), dropdown (2), navigate to (2), scroll down (1)
 > **Analogies:** such as (6), just like (1), imagine (1)
 > **Prerequisites:** install (3), configure (2)
-> **Code Keywords:** let (1), case, (1), this. (1), switch (1)
 > **Tools:** powershell (2)
 > **Exercise Files:** download the (1), template (1)
 
@@ -1121,8 +1123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (7), [[Amazon EC2|Ec2]] (3), traffic (3), aws (2), data (2)
 > **UI Navigation:** select the (5), switch to (2), dropdown (2), go to (1)
-> **Code Keywords:** let (2), interface (2), switch (2), type. (2), function (1)
 > **Env Vars:** ec2 (3), aws (2), cpu (2), cli (1), api (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
@@ -1265,9 +1267,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), management (9), data (3), next (3), [[Security]] (2)
 > **Env Vars:** aws (13), api (2), csv (1), json (1), cli (1)
 > **CLI Commands:** aws (13), find (1)
-> **Code Keywords:** default, (3), this, (2), lambda (1), function (1)
 > **Warnings:** note that (4), troubleshoot (1)
 > **UI Navigation:** navigate to (2), click on (1), select the (1)
 > **Definitions:** is a  (3), known as (1)
@@ -1277,7 +1279,7 @@ created: 2026-04-29
 
 ### 2. Configure Notifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure Amazon SNS notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980)
@@ -1374,10 +1376,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), aws (5), data (1), management (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sns (11), aws (5), sqs (3), http (2), https (2)
 > **CLI Commands:** aws (5), find (1)
 > **Definitions:** is a  (3), known as (2), is an  (1)
-> **Code Keywords:** lambda (1), let (1), default. (1)
 > **UI Navigation:** dropdown (1), navigate to (1), select the (1)
 > **Warnings:** note that (3)
 > **Prerequisites:** configure (2), set up (1)
@@ -1470,9 +1472,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (19), management (2), [[Search]] (2), concurrent (1), next (1)
 > **Env Vars:** aws (19), vpc (2), sns (2), cis (1)
 > **CLI Commands:** aws (19), find (1)
-> **Code Keywords:** lambda (4), let (1), interface (1)
 > **Definitions:** known as (3), is an  (1), is a  (1)
 > **UI Navigation:** go to (1), click on (1), select the (1), scroll down (1)
 > **Prerequisites:** configure (3), you'll need (1)
@@ -1538,19 +1540,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[Amazon EC2|Ec2]] (6), management (1), [[Search]] (1), next (1)
 > **Env Vars:** aws (9), ec2 (6), sns (1)
 > **UI Navigation:** dropdown (5), select the (5), open the (1), scroll down (1)
 > **CLI Commands:** aws (9), make (1)
 > **Prerequisites:** configure (5)
 > **Warnings:** be aware (1), note that (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is an  (1)
 
 
 ### 3. AWS Config
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AWS Config
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980)
@@ -1649,9 +1651,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (33), [[Security]] (8), api (4), cloud (3), next (3)
 > **Env Vars:** aws (33), api (4), sns (2), ec2 (2), ec1 (1)
 > **CLI Commands:** aws (33)
-> **Code Keywords:** let (3), this. (1), default, (1), lambda (1)
 > **Definitions:** is a  (4), known as (1)
 > **Analogies:** for example (2), such as (2), imagine (1)
 > **Prerequisites:** required to (1), configure (1)
@@ -1748,10 +1750,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), [[Amazon EC2|Ec2]] (6), next (3), management (2), [[Search]] (1)
 > **Env Vars:** aws (11), ec2 (6), sns (1), vpc (1), ebs (1)
 > **CLI Commands:** aws (11), find (1)
 > **Prerequisites:** configure (4), set up (2), you'll need (1)
-> **Code Keywords:** let (1), default, (1), this, (1), this. (1), switch (1)
 > **UI Navigation:** dropdown (2), navigate to (1), switch to (1), scroll down (1), open the (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
@@ -1904,9 +1906,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (23), [[Amazon EC2|Ec2]] (7), next (2), [[Automation]] (2), management (1)
 > **Env Vars:** aws (23), ec2 (7), ebs (1)
 > **CLI Commands:** aws (23), make (2)
-> **Code Keywords:** let (2), type. (2), type, (1), case, (1), lambda (1)
 > **UI Navigation:** select the (4), dropdown (2), go to (1), scroll down (1)
 > **Warnings:** note that (4)
 > **Prerequisites:** configure (4)
@@ -1916,7 +1918,7 @@ created: 2026-04-29
 
 ### 4. Taking Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Amazon EventBridge
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980)
@@ -1999,8 +2001,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), data (3), aws (3), [[Amazon EC2|Ec2]] (3), next (3)
 > **Env Vars:** ec2 (4), aws (3), sns (3), sas (1), api (1)
-> **Code Keywords:** let (5), lambda (4), function (2), delete (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -2099,12 +2101,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), application (2), aws (2), [[Search]] (1)
 > **Env Vars:** ec2 (3), sns (3), aws (2)
 > **UI Navigation:** dropdown (5), navigate to (1), select the (1), scroll down (1)
 > **Warnings:** note that (5)
 > **CLI Commands:** find (2), aws (2)
 > **Prerequisites:** configure (4)
-> **Code Keywords:** let (1), this, (1), case, (1)
 > **Definitions:** in other words (2), known as (1)
 > **Speakers:** - let (1)
 
@@ -2217,7 +2219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), lambda (13), case, (1), delete (1), self (1)
+> **Frameworks & Libraries:** aws (4), [[Amazon EC2|Ec2]] (4), application (1), management (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** select the (5), navigate to (4), dropdown (3), scroll down (2), double-click (1)
 > **Env Vars:** aws (4), ec2 (4), iam (3), sns (2)
 > **CLI Commands:** aws (4), find (2), python (1)
@@ -2365,6 +2367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (15), aws (11), [[Virtual Machines]] (7), node (4), application (3)
 > **Env Vars:** aws (11), ssm (6), ec2 (3), iam (1)
 > **CLI Commands:** aws (11), node (4), find (3), make (2)
 > **Prerequisites:** install (6), configure (6), set up (1)
@@ -2372,7 +2375,6 @@ created: 2026-04-29
 > **Definitions:** is an  (1), is a  (1), known as (1)
 > **Analogies:** such as (3)
 > **Warnings:** note that (2)
-> **Code Keywords:** let (1)
 
 #### Remediate using AWS Systems Manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980)
@@ -2507,11 +2509,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Windows]] (3), management (3), [[Search]] (2), [[Security]] (2)
 > **Env Vars:** aws (4), ssm (1), json (1), yaml (1), ec2 (1)
 > **UI Navigation:** select the (7), scroll down (5), navigate to (1)
 > **CLI Commands:** aws (4), find (2), node (1), ssh (1)
 > **Prerequisites:** install (6), required to (2)
-> **Code Keywords:** let (1), public (1), case, (1)
 > **Analogies:** such as (2)
 > **Cross-References:** earlier in (1)
 > **Warnings:** note that (1)
@@ -2519,7 +2521,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980)
@@ -2540,9 +2542,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), cloud (1)
 > **CLI Commands:** aws (7)
 > **Env Vars:** aws (7)
-> **Code Keywords:** self (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

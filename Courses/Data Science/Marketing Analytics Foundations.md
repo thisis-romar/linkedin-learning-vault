@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Analytics%20Foundations.md)
@@ -50,30 +50,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Setting the stage for marketing analytics foundations
-  - Discovering the power of marketing analytics
+  - [Setting the stage for marketing analytics foundations](#setting-the-stage-for-marketing-analytics-foundations)
+  - [Discovering the power of marketing analytics](#discovering-the-power-of-marketing-analytics)
 - [**1. Exploring Key Marketing Metrics**](#1-exploring-key-marketing-metrics) (3 videos)
-  - Identifying the most important metrics to achieve your goals
-  - Navigating key marketing metrics for different organizations
-  - Selecting the most relevant metrics for your organization
+  - [Identifying the most important metrics to achieve your goals](#identifying-the-most-important-metrics-to-achieve-your-goals)
+  - [Navigating key marketing metrics for different organizations](#navigating-key-marketing-metrics-for-different-organizations)
+  - [Selecting the most relevant metrics for your organization](#selecting-the-most-relevant-metrics-for-your-organization)
 - [**2. Understanding Key Performance Indicators**](#2-understanding-key-performance-indicators) (5 videos)
-  - Understanding the importance of setting KPIs
-  - Defining actionable KPIs for your organization
-  - Analyzing effective KPIs examples
-  - Crafting a relevant KPI
-  - Aligning KPIs with organizational goals
+  - [Understanding the importance of setting KPIs](#understanding-the-importance-of-setting-kpis)
+  - [Defining actionable KPIs for your organization](#defining-actionable-kpis-for-your-organization)
+  - [Analyzing effective KPIs examples](#analyzing-effective-kpis-examples)
+  - [Crafting a relevant KPI](#crafting-a-relevant-kpi)
+  - [Aligning KPIs with organizational goals](#aligning-kpis-with-organizational-goals)
 - [**3. Building Your Marketing Metrics Dashboard**](#3-building-your-marketing-metrics-dashboard) (4 videos)
-  - Choosing the right tools for measuring marketing metrics
-  - Creating impactful dashboards for different stakeholders
-  - Defining your essential metrics
-  - Communicating data across the organization
+  - [Choosing the right tools for measuring marketing metrics](#choosing-the-right-tools-for-measuring-marketing-metrics)
+  - [Creating impactful dashboards for different stakeholders](#creating-impactful-dashboards-for-different-stakeholders)
+  - [Defining your essential metrics](#defining-your-essential-metrics)
+  - [Communicating data across the organization](#communicating-data-across-the-organization)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Implementing your marketing analytics strategy
-  - Next steps to succeed in marketing analytics
+  - [Implementing your marketing analytics strategy](#implementing-your-marketing-analytics-strategy)
+  - [Next steps to succeed in marketing analytics](#next-steps-to-succeed-in-marketing-analytics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting the stage for marketing analytics foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980)
@@ -98,8 +98,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Marketing Analytics]] (3), [[Dashboards]] (1), hit (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - have (1)
 
@@ -162,8 +162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), ai (5), [[Marketing Analytics]] (4), [[Marketing Strategy]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** roi (1)
 > **Analogies:** such as (1)
 > **Speakers:** - marketing (1)
@@ -171,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Exploring Key Marketing Metrics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the most important metrics to achieve your goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980)
@@ -236,7 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), try. (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (2), hit (1), business (1), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** in the next (1)
@@ -290,7 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1), [[Automation]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - do (1)
@@ -380,9 +380,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), web (2), data (2), [[Performance Metrics]] (1), next (1)
 > **Analogies:** for example (3), for instance (2), such as (1)
 > **Definitions:** is a  (2), means that (2), is an  (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Env Vars:** kpi (3)
 > **Cross-References:** go back to (1)
 > **Best Practices:** the key is (1)
@@ -391,7 +391,7 @@ created: 2026-04-29
 
 ### 2. Understanding Key Performance Indicators
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the importance of setting KPIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980)
@@ -448,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kpi (1)
 > **Analogies:** for example (1)
@@ -505,11 +505,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (1), [[Marketing Strategy]] (1), [[Marketing Analytics]] (1)
 > **Env Vars:** kpi (2)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - now (1)
 
 #### Analyzing effective KPIs examples
@@ -589,8 +589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (1), game (1), [[Marketing Strategy]] (1), feature (1)
 > **Env Vars:** cac (5), roas (5), kpi (2), roi (1)
-> **Code Keywords:** let (2), return. (1), finally, (1)
 > **Analogies:** for instance (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
@@ -668,10 +668,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (3), traffic (2), [[Marketing Analytics]] (1), [[Accountability]] (1)
 > **Env Vars:** kpi (9)
 > **Analogies:** for instance (2), such as (1), for example (1), picture (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Aligning KPIs with organizational goals
@@ -755,6 +755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), leadership (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), product (1)
 > **Analogies:** such as (5), for instance (2), picture (1)
 > **Env Vars:** kpi (4), roi (1), kkpi (1)
 > **Definitions:** in other words (1)
@@ -763,7 +764,7 @@ created: 2026-04-29
 
 ### 3. Building Your Marketing Metrics Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right tools for measuring marketing metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980)
@@ -840,10 +841,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), [[Tableau]] (2), ai (2), [[Dashboards]] (2), [[Scalability]] (2)
 > **Analogies:** such as (4)
 > **Env Vars:** sap (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
@@ -928,10 +929,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Dashboards]] (10), management (3), [[Google]] (3), [[Email Marketing]] (1)
 > **Analogies:** for instance (3), for example (2), such as (1)
 > **Env Vars:** roi (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** yield (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
@@ -992,9 +993,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Dashboards]] (4), web (1), traffic (1), [[Decision-Making]] (1)
 > **Analogies:** such as (5), for instance (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (2), include: (1)
 > **Env Vars:** ceo (1), roi (1), seo (1)
 > **Warnings:** pitfall (1), be aware (1)
 > **Speakers:** - to (1)
@@ -1086,6 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), game (1), product (1), business (1), leadership (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** roi (1)
@@ -1094,7 +1096,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing your marketing analytics strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980)
@@ -1163,6 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Marketing Analytics]] (3), [[Dashboards]] (3), [[Analytics]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** we call this (1), is a  (1)
 > **Env Vars:** roi (1)
@@ -1197,8 +1200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Marketing Analytics]] (2), [[Analytics]] (1), [[LinkedIn]] (1), product (1)
 > **URLs:** [marketingmetricsbook.com](https://marketingmetricsbook.com) (1), [thoughtlight.net](https://thoughtlight.net) (1), [marketingmetricsassociation.org](https://marketingmetricsassociation.org) (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **Speakers:** - congratulations (1)
 
 

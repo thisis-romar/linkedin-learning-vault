@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Arrays.md)
@@ -48,43 +48,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - So many ways to work with arrays
-  - What you should know
+  - [So many ways to work with arrays](#so-many-ways-to-work-with-arrays)
+  - [What you should know](#what-you-should-know)
 - [**1. Arrays: The Basics**](#1-arrays-the-basics) (5 videos)
-  - Arrays overview
-  - Length property and direct assignment
-  - forEach for ease and readability
-  - Solution: Basic array methods 1
-  - Solution: Basic array methods 2
+  - [Arrays overview](#arrays-overview)
+  - [Length property and direct assignment](#length-property-and-direct-assignment)
+  - [forEach for ease and readability](#foreach-for-ease-and-readability)
+  - [Solution: Basic array methods 1](#solution-basic-array-methods-1)
+  - [Solution: Basic array methods 2](#solution-basic-array-methods-2)
 - [**2.  Working with Ordered Data**](#2-working-with-ordered-data) (5 videos)
-  - Order arrays with sort
-  - Reverse array order with reverse
-  - Find a single element with find and findIndex
-  - Solution: Working with ordered data 1
-  - Solution: Working with ordered data 2
+  - [Order arrays with sort](#order-arrays-with-sort)
+  - [Reverse array order with reverse](#reverse-array-order-with-reverse)
+  - [Find a single element with find and findIndex](#find-a-single-element-with-find-and-findindex)
+  - [Solution: Working with ordered data 1](#solution-working-with-ordered-data-1)
+  - [Solution: Working with ordered data 2](#solution-working-with-ordered-data-2)
 - [**3. Evaluating Data for a Single Value**](#3-evaluating-data-for-a-single-value) (4 videos)
-  - Does the array Include an element?
-  - Do elements pass a test?
-  - Solution: Evaluating single value 1
-  - Solution: Evaluating single value 2
+  - [Does the array Include an element?](#does-the-array-include-an-element)
+  - [Do elements pass a test?](#do-elements-pass-a-test)
+  - [Solution: Evaluating single value 1](#solution-evaluating-single-value-1)
+  - [Solution: Evaluating single value 2](#solution-evaluating-single-value-2)
 - [**4.  Implementing Stacks and Queues**](#4-implementing-stacks-and-queues) (4 videos)
-  - The end: Push and pop data
-  - The beginning: Unshift and shift data
-  - Solution: Implementing stacks and queues 1
-  - Solution: Implementing stacks and queues 2
+  - [The end: Push and pop data](#the-end-push-and-pop-data)
+  - [The beginning: Unshift and shift data](#the-beginning-unshift-and-shift-data)
+  - [Solution: Implementing stacks and queues 1](#solution-implementing-stacks-and-queues-1)
+  - [Solution: Implementing stacks and queues 2](#solution-implementing-stacks-and-queues-2)
 - [**5.  Bringing It Together: Advanced Methods**](#5-bringing-it-together-advanced-methods) (6 videos)
-  - Reformat data with map
-  - Filter data with filter
-  - Single values with reduce
-  - Flat + map = flatMap
-  - Solution: Advanced methods 1
-  - Solution: Advanced methods 2
+  - [Reformat data with map](#reformat-data-with-map)
+  - [Filter data with filter](#filter-data-with-filter)
+  - [Single values with reduce](#single-values-with-reduce)
+  - [Flat + map = flatMap](#flat-map-flatmap)
+  - [Solution: Advanced methods 1](#solution-advanced-methods-1)
+  - [Solution: Advanced methods 2](#solution-advanced-methods-2)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### So many ways to work with arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Programming]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [jamie] (1)
 
@@ -163,11 +164,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), node (3), [[Node.js]] (2)
 > **Tools:** terminal (5), vs code (2), visual studio (1)
 > **CLI Commands:** node (5), make (1)
 > **Prerequisites:** you'll need (2), install (1), set up (1)
 > **File Paths:** node.js (2)
-> **Code Keywords:** require (1), let (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Exercise Files:** exercise files (1)
@@ -175,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Arrays: The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980)
@@ -218,8 +219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[JavaScript]] (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 #### Length property and direct assignment
@@ -291,7 +292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), override (1)
+> **Frameworks & Libraries:** data (3), [[JavaScript]] (1), node (1)
 > **Tools:** terminal (2), vs code (1)
 > **CLI Commands:** make (1), node (1)
 > **Definitions:** is a  (1), means that (1)
@@ -381,7 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), pass (2), let (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Code Identifiers:** foreach (7), logscore (4), currentvalue (2), thisarg (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -420,7 +421,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Best Practices:** don't forget (2)
 > **Speakers:** - [instruction] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -460,7 +460,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), pass (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -469,7 +468,7 @@ created: 2026-04-29
 
 ### 2.  Working with Ordered Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Order arrays with sort
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/order-arrays-with-sort?u=76281980)
@@ -554,7 +553,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), default, (2), pass (2), case, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** es6 (1)
 > **Tools:** terminal (1)
@@ -617,7 +615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -694,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (13)
-> **Code Keywords:** function (7), let (2), return, (1)
 > **Code Identifiers:** findindex (6), thisarg (1)
 > **Tools:** terminal (2)
 > **Speakers:** - [narrator] (1)
@@ -726,7 +724,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [trainer] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -773,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (3), pass (2), match. (2), return. (1)
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** usb (1)
 > **Speakers:** - [instructor] (1)
@@ -782,7 +779,7 @@ created: 2026-04-29
 
 ### 3. Evaluating Data for a Single Value
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Does the array Include an element?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/does-the-array-include-an-element?u=76281980)
@@ -837,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), for, (1), return. (1)
+> **Frameworks & Libraries:** [[Search]] (2)
 > **Code Identifiers:** fromindex (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -936,7 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), new. (3), function (2), let (2), new, (2)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** just like (2)
 > **Tools:** terminal (1)
@@ -975,7 +972,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1026,7 +1022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this, (1), let (1), return, (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** tsk (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1037,7 +1033,7 @@ created: 2026-04-29
 
 ### 4.  Implementing Stacks and Queues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The end: Push and pop data
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/the-end-push-and-pop-data?u=76281980)
@@ -1128,7 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), this, (2)
+> **Frameworks & Libraries:** data (3), career (1), next (1)
 > **Code Identifiers:** popedvalue (1), poppedvalue (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1207,7 +1203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2)
+> **Frameworks & Libraries:** data (3), next (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - a (1)
@@ -1243,7 +1239,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), case, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
@@ -1280,14 +1275,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3)
-> **Code Keywords:** pass (1), this, (1), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 5.  Bringing It Together: Advanced Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reformat data with map
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/reformat-data-with-map?u=76281980)
@@ -1440,7 +1434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (5), this, (1), case, (1), return. (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (4), find (2)
 > **Code Identifiers:** thisarg (1)
 > **Cross-References:** go back to (1)
@@ -1543,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), pass (1), for. (1), case, (1)
+> **Frameworks & Libraries:** data (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** cat (1)
 > **Code Identifiers:** thisarg (1)
 > **Tools:** terminal (1)
@@ -1652,7 +1646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), pass (3), require (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** acc (1)
 > **Versions:** 24.25 (1)
 > **Cross-References:** go back to (1)
@@ -1727,7 +1721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Analogies:** just like (2)
 > **Prerequisites:** you'll need (2)
 > **Env Vars:** arg (1)
@@ -1782,7 +1776,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (2), return, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1902,7 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), function (2), pass (1), case, (1)
+> **Frameworks & Libraries:** product (3), next (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** good practice (1)
@@ -1912,7 +1905,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980)
@@ -1941,6 +1934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[LinkedIn]] (2), [[Angular]] (1), [[React.js|React]] (1), [[Vue.js|Vue]] (1)
 > **URLs:** [jamiepittman.com](https://jamiepittman.com) (1)
 > **Speakers:** - [jamie] (1)
 

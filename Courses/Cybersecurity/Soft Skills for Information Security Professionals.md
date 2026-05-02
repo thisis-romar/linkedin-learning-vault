@@ -48,7 +48,7 @@ tags:
   - skill/tech-career-skills
   - skill/soft-skills
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Soft%20Skills%20for%20Information%20Security%20Professionals.md)
@@ -67,35 +67,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Communicating your expertise
+  - [Communicating your expertise](#communicating-your-expertise)
 - [**1. Technical Skills and Soft Skills**](#1-technical-skills-and-soft-skills) (3 videos)
-  - Why soft skills matter
-  - It's not just a technology issue
-  - Soft skill groupings
+  - [Why soft skills matter](#why-soft-skills-matter)
+  - [It's not just a technology issue](#its-not-just-a-technology-issue)
+  - [Soft skill groupings](#soft-skill-groupings)
 - [**2. Communication Is Key**](#2-communication-is-key) (3 videos)
-  - Know your audience
-  - Engage the InfoSec community
-  - Understanding human behavior
+  - [Know your audience](#know-your-audience)
+  - [Engage the InfoSec community](#engage-the-infosec-community)
+  - [Understanding human behavior](#understanding-human-behavior)
 - [**3. Don't Be Afraid to Dig Deep**](#3-dont-be-afraid-to-dig-deep) (3 videos)
-  - Do your research
-  - Analysis
-  - Writing and reporting
+  - [Do your research](#do-your-research)
+  - [Analysis](#analysis)
+  - [Writing and reporting](#writing-and-reporting)
 - [**4. Keep Learning**](#4-keep-learning) (4 videos)
-  - Curiosity is encouraged
-  - Problem-solving
-  - Be creative
-  - Teaching and public speaking
+  - [Curiosity is encouraged](#curiosity-is-encouraged)
+  - [Problem-solving](#problem-solving)
+  - [Be creative](#be-creative)
+  - [Teaching and public speaking](#teaching-and-public-speaking)
 - [**5. Big Picture Thinking**](#5-big-picture-thinking) (4 videos)
-  - The language of risk
-  - Think strategically
-  - Standards, frameworks, and regulations
-  - Be a leader
+  - [The language of risk](#the-language-of-risk)
+  - [Think strategically](#think-strategically)
+  - [Standards, frameworks, and regulations](#standards-frameworks-and-regulations)
+  - [Be a leader](#be-a-leader)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating your expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980)
@@ -118,13 +118,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Soft Skills]] (4), career (1), business (1), [[LinkedIn]] (1)
 > **Speakers:** - technical (1)
 
 
 ### 1. Technical Skills and Soft Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why soft skills matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/why-soft-skills-matter?u=76281980)
@@ -191,6 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soft Skills]] (5), [[Security]] (2), next (1), career (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** configure (1)
@@ -253,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), business (1), [[Phishing]] (1), web (1), [[Engineering]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** notion (1)
 > **Definitions:** is an  (1)
@@ -330,6 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soft Skills]] (6), hit (2), [[Strategic Thinking]] (2), career (1), leadership (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -337,7 +340,7 @@ created: 2026-04-29
 
 ### 2. Communication Is Key
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Know your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980)
@@ -452,9 +455,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), next (3), [[Troubleshooting]] (2), [[Microsoft Word|Word]] (1), career (1)
 > **Env Vars:** cfo (1), ceo (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - you (1)
@@ -558,6 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), web (2), [[Soft Skills]] (1), [[OWASP]] (1), hit (1)
 > **Env Vars:** isaca (3), issa (2), isc (2), cissp (1), owasp (1)
 > **CLI Commands:** find (6)
 > **URLs:** [meetup.com](https://meetup.com) (1)
@@ -648,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Security]] (5), next (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - everyone (1)
@@ -656,7 +660,7 @@ created: 2026-04-29
 
 ### 3. Don't Be Afraid to Dig Deep
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Do your research
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980)
@@ -783,10 +787,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), leadership (6), data (3), product (2), next (1)
 > **Env Vars:** cfo (2), hipaa (1), gdpr (1), idc (1), iso (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (1), for instance (1), picture (1)
-> **Code Keywords:** for. (1), public (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (1)
 > **Speakers:** - security (1)
@@ -896,8 +900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Security]] (4), business (3), hit (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** throw (1)
 > **Env Vars:** hipaa (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - remember (1)
@@ -1005,6 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), next (3), web (1), traffic (1), [[Linux]] (1)
 > **Env Vars:** pbx (2)
 > **CLI Commands:** cat (1)
 > **Analogies:** imagine (1)
@@ -1014,7 +1019,7 @@ created: 2026-04-29
 
 ### 4. Keep Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Curiosity is encouraged
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980)
@@ -1095,8 +1100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Phishing]] (3), [[Simulation]] (3), leadership (2), business (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - curiosity (1)
 
@@ -1201,10 +1206,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Phishing]] (2), [[Interviewing]] (1), [[Engineering]] (1), game (1)
 > **Env Vars:** ctf (4), defcon (1), dc614 (1), usb (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** super (1), throw (1)
 > **Speakers:** - i (1)
 
 #### Be creative
@@ -1340,9 +1345,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), data (3), next (2), [[Phishing]] (1), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ipod (2)
-> **Code Keywords:** break, (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)
@@ -1472,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), else, (1), if, (1), let (1), this. (1)
+> **Frameworks & Libraries:** management (2), next (2), teams (1), business (1), [[Security]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** issa (1)
 > **Definitions:** is a  (1)
@@ -1482,7 +1487,7 @@ created: 2026-04-29
 
 ### 5. Big Picture Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The language of risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980)
@@ -1563,8 +1568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), traffic (2), vpn (2), [[Tokens]] (1), hit (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Env Vars:** vpn (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
@@ -1705,7 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), raise (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (5), next (5), management (2), career (1), hit (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1)
@@ -1832,8 +1837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[NIST]] (1), [[Cybersecurity]] (1), business (1), data (1)
 > **Env Vars:** iso (3), pci (2), nist (1), cobit (1), isaca (1)
-> **Code Keywords:** let (3), require (1), public (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1), picture (1), kind of like (1)
 > **Speakers:** - security (1)
@@ -1943,7 +1948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), else, (1), self (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (8), leadership (4), web (1), business (1), career (1)
 > **CLI Commands:** find (2)
 > **URLs:** [meetup.com](https://meetup.com) (1)
 > **Definitions:** is a  (1)
@@ -1952,7 +1957,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980)
@@ -2017,6 +2022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soft Skills]] (5), career (1), [[Prototyping]] (1), [[LinkedIn]] (1), [[Technical Communication]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - thanks (1)
 

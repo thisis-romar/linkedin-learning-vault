@@ -30,7 +30,7 @@ tags:
   - skill/relationship-building
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers.md)
@@ -49,25 +49,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why rapport really matters
+  - [Why rapport really matters](#why-rapport-really-matters)
 - [**1. Simple Ways to Build Rapport with Customers**](#1-simple-ways-to-build-rapport-with-customers) (2 videos)
-  - Build rapport with your customers in six seconds or less
-  - Validate your customer's experience
+  - [Build rapport with your customers in six seconds or less](#build-rapport-with-your-customers-in-six-seconds-or-less)
+  - [Validate your customer's experience](#validate-your-customers-experience)
 - [**2. Techniques for Maintaining Rapport with Your Customers**](#2-techniques-for-maintaining-rapport-with-your-customers) (3 videos)
-  - Pace your customers to build agreement and rapport
-  - Speak in complete sentences with your customers
-  - End customer interactions with a fond farewell
+  - [Pace your customers to build agreement and rapport](#pace-your-customers-to-build-agreement-and-rapport)
+  - [Speak in complete sentences with your customers](#speak-in-complete-sentences-with-your-customers)
+  - [End customer interactions with a fond farewell](#end-customer-interactions-with-a-fond-farewell)
 - [**3. How to Build Rapport in Specific Customer Interactions**](#3-how-to-build-rapport-in-specific-customer-interactions) (4 videos)
-  - Create rapport in customer emails
-  - Create rapport in a live customer chat interaction
-  - Use rapport to disarm angry customers
-  - Use rapport to get customers to accept bad news
+  - [Create rapport in customer emails](#create-rapport-in-customer-emails)
+  - [Create rapport in a live customer chat interaction](#create-rapport-in-a-live-customer-chat-interaction)
+  - [Use rapport to disarm angry customers](#use-rapport-to-disarm-angry-customers)
+  - [Use rapport to get customers to accept bad news](#use-rapport-to-get-customers-to-accept-bad-news)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Practice building rapport with customers
+  - [Practice building rapport with customers](#practice-building-rapport-with-customers)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why rapport really matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980)
@@ -90,12 +90,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** we discussed (1)
 
 
 ### 1. Simple Ways to Build Rapport with Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build rapport with your customers in six seconds or less
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/build-rapport-with-your-customers-in-six-seconds-or-less?u=76281980)
@@ -152,8 +153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
@@ -222,14 +223,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (2), feature (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 
 
 ### 2. Techniques for Maintaining Rapport with Your Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pace your customers to build agreement and rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980)
@@ -290,9 +291,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Customer Support]] (1), product (1)
 > **Analogies:** for example (3), for instance (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -351,7 +352,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this. (1)
 > **Env Vars:** zip (1)
 > **Definitions:** is a  (1)
 
@@ -408,13 +408,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1), return. (1), include: (1), for. (1)
+> **Frameworks & Libraries:** next (3), business (1)
 > **CLI Commands:** make (1)
 
 
 ### 3. How to Build Rapport in Specific Customer Interactions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create rapport in customer emails
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980)
@@ -450,6 +450,10 @@ created: 2026-04-29
 > **[1:43](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980&t=103)** Is there a customer in your queue with a poor experience you need to respond to now?
 >
 > **[1:49](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980&t=109)** Take some time now to craft a response using these three components of rapport building, and you'll restore their confidence in no time.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[De-escalation]] (2), next (1)
 
 #### Create rapport in a live customer chat interaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980)
@@ -510,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), return, (1), this, (1), return. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** abc (1)
@@ -602,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), [[De-escalation]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 
@@ -681,14 +685,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice building rapport with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/practice-building-rapport-with-customers?u=76281980)
@@ -729,7 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), finally, (1)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)
 

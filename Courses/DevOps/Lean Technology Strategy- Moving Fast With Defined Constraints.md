@@ -20,7 +20,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Lean%20Technology%20Strategy-%20Moving%20Fast%20With%20Defined%20Constraints.md)
@@ -39,14 +39,14 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Moving Fast With Defined Constraints**](#1-moving-fast-with-defined-constraints) (4 videos)
-  - Understanding the boundaries
-  - Understanding the language of risk and compliance
-  - Share responsibilities to achieve better outcomes
-  - Creating faster feedback on risk and compliance, governance, measurement, and reporting
+  - [Understanding the boundaries](#understanding-the-boundaries)
+  - [Understanding the language of risk and compliance](#understanding-the-language-of-risk-and-compliance)
+  - [Share responsibilities to achieve better outcomes](#share-responsibilities-to-achieve-better-outcomes)
+  - [Creating faster feedback on risk and compliance, governance, measurement, and reporting](#creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting)
 
 ### 1. Moving Fast With Defined Constraints
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the boundaries
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980)
@@ -151,6 +151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), product (1), business (1), [[Decision-Making]] (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** sox (1), pci (1), dss (1), hipaa (1)
 > **Definitions:** is an  (1)
@@ -299,7 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), self (1), else. (1)
+> **Frameworks & Libraries:** teams (4), [[Product Development]] (3), [[Security]] (3), product (2), business (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -586,8 +587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (20), product (15), teams (12), management (3), next (2)
 > **CLI Commands:** make (11), find (5)
-> **Code Keywords:** this, (2), continue (1), let (1), case, (1), this. (1)
 > **Definitions:** is a  (7)
 > **UI Navigation:** go to (4)
 > **Cross-References:** earlier in (1), go back to (1), in the next (1)
@@ -856,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (2), module (2), private (1), else, (1)
+> **Frameworks & Libraries:** [[Security]] (14), teams (11), product (9), data (3), business (2)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)

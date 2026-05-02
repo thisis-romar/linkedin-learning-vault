@@ -34,7 +34,7 @@ tags:
   - skill/algorithms
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%20Sharp%20Algorithms.md)
@@ -53,57 +53,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Improve your C# applications with efficient algorithms
-  - Introducing CoderPad challenges
-  - What is an algorithm?
-  - How to optimize an algorithm
-  - Optimize an algorithm in C#
-  - How to describe the time complexity of an algorithm
+  - [Improve your C# applications with efficient algorithms](#improve-your-c-applications-with-efficient-algorithms)
+  - [Introducing CoderPad challenges](#introducing-coderpad-challenges)
+  - [What is an algorithm?](#what-is-an-algorithm)
+  - [How to optimize an algorithm](#how-to-optimize-an-algorithm)
+  - [Optimize an algorithm in C#](#optimize-an-algorithm-in-c)
+  - [How to describe the time complexity of an algorithm](#how-to-describe-the-time-complexity-of-an-algorithm)
 - [**1. String Algorithms**](#1-string-algorithms) (5 videos)
-  - Validate strings in C#
-  - Normalize strings in C#
-  - Parse and search strings in C#
-  - Create algorithm-driven strings in C#
-  - Solution: reverse each word
+  - [Validate strings in C#](#validate-strings-in-c)
+  - [Normalize strings in C#](#normalize-strings-in-c)
+  - [Parse and search strings in C#](#parse-and-search-strings-in-c)
+  - [Create algorithm-driven strings in C#](#create-algorithm-driven-strings-in-c)
+  - [Solution: reverse each word](#solution-reverse-each-word)
 - [**2. Array Algorithms**](#2-array-algorithms) (5 videos)
-  - Linear search arrays in C#
-  - Binary search arrays in C#
-  - Aggregate and filter arrays in C#
-  - Reverse an array in C#
-  - Solution: rotate an array
+  - [Linear search arrays in C#](#linear-search-arrays-in-c)
+  - [Binary search arrays in C#](#binary-search-arrays-in-c)
+  - [Aggregate and filter arrays in C#](#aggregate-and-filter-arrays-in-c)
+  - [Reverse an array in C#](#reverse-an-array-in-c)
+  - [Solution: rotate an array](#solution-rotate-an-array)
 - [**3. Linked List Algorithms**](#3-linked-list-algorithms) (4 videos)
-  - What is a linked list?
-  - Common linked list operations in C#
-  - Linked list algorithms
-  - Solution: Sum contents of a linked list
+  - [What is a linked list?](#what-is-a-linked-list)
+  - [Common linked list operations in C#](#common-linked-list-operations-in-c)
+  - [Linked list algorithms](#linked-list-algorithms)
+  - [Solution: Sum contents of a linked list](#solution-sum-contents-of-a-linked-list)
 - [**4. Queue and Stack Algorithms**](#4-queue-and-stack-algorithms) (9 videos)
-  - What is a queue?
-  - Standard queue operations in C#
-  - Queue algorithms: Generate binary numbers
-  - What is a stack?
-  - Basic stack operations in C#
-  - Stack algorithms: Theorizing an algorithm
-  - Stack algorithms: Implementing next greater element
-  - Stack algorithms: Matching parentheses
-  - Solution: evaluate reverse polish notation
+  - [What is a queue?](#what-is-a-queue)
+  - [Standard queue operations in C#](#standard-queue-operations-in-c)
+  - [Queue algorithms: Generate binary numbers](#queue-algorithms-generate-binary-numbers)
+  - [What is a stack?](#what-is-a-stack)
+  - [Basic stack operations in C#](#basic-stack-operations-in-c)
+  - [Stack algorithms: Theorizing an algorithm](#stack-algorithms-theorizing-an-algorithm)
+  - [Stack algorithms: Implementing next greater element](#stack-algorithms-implementing-next-greater-element)
+  - [Stack algorithms: Matching parentheses](#stack-algorithms-matching-parentheses)
+  - [Solution: evaluate reverse polish notation](#solution-evaluate-reverse-polish-notation)
 - [**5. Algorithms for Hash-Based Structures**](#5-algorithms-for-hash-based-structures) (5 videos)
-  - Hash-based structures in C#
-  - Dictionary and HashSet operations in C#
-  - Leverage the HashSet type in C# algorithms
-  - Use the Dictionary type in C# algorithms
-  - Solution: detect a cyclic linkedlist
+  - [Hash-based structures in C#](#hash-based-structures-in-c)
+  - [Dictionary and HashSet operations in C#](#dictionary-and-hashset-operations-in-c)
+  - [Leverage the HashSet type in C# algorithms](#leverage-the-hashset-type-in-c-algorithms)
+  - [Use the Dictionary type in C# algorithms](#use-the-dictionary-type-in-c-algorithms)
+  - [Solution: detect a cyclic linkedlist](#solution-detect-a-cyclic-linkedlist)
 - [**6. Tree Algorithms**](#6-tree-algorithms) (5 videos)
-  - What is a tree?
-  - Create a binary search tree in C#
-  - What are tree traversals?
-  - Using recursion to implement tree traversals in C#
-  - Solution: find height of binary tree
+  - [What is a tree?](#what-is-a-tree)
+  - [Create a binary search tree in C#](#create-a-binary-search-tree-in-c)
+  - [What are tree traversals?](#what-are-tree-traversals)
+  - [Using recursion to implement tree traversals in C#](#using-recursion-to-implement-tree-traversals-in-c)
+  - [Solution: find height of binary tree](#solution-find-height-of-binary-tree)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue optimizing algorithms
+  - [Continue optimizing algorithms](#continue-optimizing-algorithms)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your C# applications with efficient algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980)
@@ -138,8 +138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (5), data (4), application (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [kathryn] (1)
 
@@ -196,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 
@@ -237,10 +237,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to optimize an algorithm
@@ -284,6 +284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (5), data (4)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -384,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), static (1)
+> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** make (2), find (2), dotnet (1)
 > **Tools:** terminal (3), vs code (1)
 > **Code Identifiers:** findmaximum (1), findmaximum2 (1)
@@ -454,15 +455,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (7), [[Search]] (4), data (1), generic (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case, (2), let (1), for. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. String Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Validate strings in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980)
@@ -565,7 +566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6), static (2), pass (2), struct (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Language Integrated Query (LINQ)|Linq]] (3), data (2)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** isuppercase (1), isupper (1), islowercase (1)
 > **CLI Commands:** make (2)
@@ -665,7 +666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), case, (1), type. (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Search]] (4), [[Algorithms]] (3), [[Forms]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** buddy (1)
 > **Analogies:** for example (1)
@@ -812,7 +813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), for. (2), case, (2), this, (2)
+> **Frameworks & Libraries:** data (7), [[Search]] (4), [[Programming]] (1)
 > **CLI Commands:** find (4), ls (3), make (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -961,7 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), continue (1), pass (1)
+> **Frameworks & Libraries:** data (6), [[Programming]] (3), [[Software Development]] (1), [[Engineering]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** tolower (1)
@@ -1031,14 +1032,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** reversedsentence (1)
 
 
 ### 2. Array Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear search arrays in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/linear-search-arrays-in-c-sharp?u=76281980)
@@ -1141,7 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), case, (2), pass (2), for, (1)
+> **Frameworks & Libraries:** data (13), [[Search]] (8), [[Algorithms]] (1)
 > **CLI Commands:** find (16)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** ent (1)
@@ -1291,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (4), for. (4), case, (3), function (2)
+> **Frameworks & Libraries:** [[Search]] (20), data (6), [[Software Development]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1389,7 +1390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), this. (1), this, (1), private (1)
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (2), [[Programming]] (1), feature (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1482,7 +1483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1532,12 +1533,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (2)
 
 
 ### 3. Linked List Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a linked list?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-linked-list?u=76281980)
@@ -1592,9 +1593,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), node (8), next (6), [[Algorithms]] (1)
 > **CLI Commands:** node (8), find (1), make (1)
 > **Analogies:** similar to (1), for example (1)
-> **Code Keywords:** delete (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1689,7 +1690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class. (2), class, (2), type. (1), type, (1)
+> **Frameworks & Libraries:** data (14), next (3), node (3), generic (2), [[Algorithms]] (2)
 > **CLI Commands:** node (3), make (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -1854,8 +1855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (28), next (21), data (13), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (28), make (1)
-> **Code Keywords:** let (10), delete (6), function (4), class. (2), interface (1)
 > **Code Identifiers:** firstnode (2), deletebackhalf (2), customlinkedlist (1), linkedlist (1), displaycontents (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1901,14 +1902,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (2), next (2)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
 
 ### 4. Queue and Stack Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-queue?u=76281980)
@@ -1955,6 +1956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), data (2)
 > **Env Vars:** fifo (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2050,7 +2052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), class, (1), continue (1)
+> **Frameworks & Libraries:** data (4), generic (2), next (2), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2170,7 +2172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), function (1), return. (1)
+> **Frameworks & Libraries:** data (4), next (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** dotnet (1)
 > **Env Vars:** fifo (1)
 > **Definitions:** is a  (1)
@@ -2218,7 +2220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (1), similar to (1)
 > **Env Vars:** lifo (1)
@@ -2313,7 +2315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (5), generic (2), [[Algorithms]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), dotnet (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** picture (1), similar to (1)
@@ -2421,7 +2423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (3), this, (1), match, (1), case, (1)
+> **Frameworks & Libraries:** next (26), data (3), [[Algorithms]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -2519,7 +2521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), function (1), return. (1), match. (1)
+> **Frameworks & Libraries:** next (29), [[Algorithms]] (1)
 > **CLI Commands:** find (5)
 > **Code Identifiers:** printnextgreaterelement (1)
 > **Prerequisites:** set up (1)
@@ -2634,7 +2636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), case, (2), require (1), type, (1)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** matchingsymboltracker (1)
@@ -2729,14 +2731,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (1), throw (1)
+> **Frameworks & Libraries:** generic (1), [[Tokens]] (1), next (1), data (1)
 > **Env Vars:** rpn (1)
 > **Definitions:** is a  (1)
 
 
 ### 5. Algorithms for Hash-Based Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hash-based structures in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980)
@@ -2795,7 +2797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), public (1), static (1)
+> **Frameworks & Libraries:** data (3), [[Algorithms]] (1), generic (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Best Practices:** recommended (1)
@@ -2898,7 +2900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), class. (1), case, (1)
+> **Frameworks & Libraries:** data (10), product (4), [[Algorithms]] (2)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** employeesbyid (1)
@@ -2984,7 +2986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** data (3), [[Search]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -3060,7 +3062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), static (1), type, (1)
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (1)
 > **Best Practices:** the key is (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3132,14 +3134,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), next (4)
 > **CLI Commands:** node (11), make (1)
-> **Code Keywords:** let (5)
 > **Definitions:** is a  (3)
 
 
 ### 6. Tree Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-tree?u=76281980)
@@ -3230,10 +3232,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (17), data (13), [[Search]] (7), power (1), [[Algorithms]] (1)
 > **CLI Commands:** node (17), make (2), find (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** we talked about (2)
-> **Code Keywords:** continue (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3346,8 +3348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (23), data (12), [[Search]] (8), [[Algorithms]] (5), next (2)
 > **CLI Commands:** node (23), find (2)
-> **Code Keywords:** function (8), let (5), class, (1), return. (1), static (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **Analogies:** similar to (2), for example (1)
 > **Cross-References:** go back to (1)
@@ -3426,9 +3428,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), data (6), next (6), [[Search]] (3)
 > **CLI Commands:** node (7)
 > **Definitions:** we call this (2), is a  (2), means that (1)
-> **Code Keywords:** case. (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -3569,7 +3571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), continue (3), pass (2), class, (1)
+> **Frameworks & Libraries:** node (5), data (4), [[Algorithms]] (1), [[Search]] (1), hit (1)
 > **CLI Commands:** node (5), make (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** sample code (1)
@@ -3627,13 +3629,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), pass (1)
+> **Frameworks & Libraries:** node (1)
 > **CLI Commands:** node (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue optimizing algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980)
@@ -3672,8 +3674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (5), data (5), [[LinkedIn]] (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (1), abstract (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [kathryn] (1)
 

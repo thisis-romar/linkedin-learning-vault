@@ -38,7 +38,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20Essentials-%20Model%20Deployment%20and%20Monitoring.md)
@@ -57,47 +57,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started with MLOps
-  - Course coverage
-  - Review of MLOps lifecycle
+  - [Getting started with MLOps](#getting-started-with-mlops)
+  - [Course coverage](#course-coverage)
+  - [Review of MLOps lifecycle](#review-of-mlops-lifecycle)
 - [**1. Continuous Delivery**](#1-continuous-delivery) (6 videos)
-  - An ML production setup
-  - Deployment pipelines
-  - Deployment rollout strategies
-  - Planning for infrastructure
-  - Deployment best practices
-  - Tools and technologies for deployment
+  - [An ML production setup](#an-ml-production-setup)
+  - [Deployment pipelines](#deployment-pipelines)
+  - [Deployment rollout strategies](#deployment-rollout-strategies)
+  - [Planning for infrastructure](#planning-for-infrastructure)
+  - [Deployment best practices](#deployment-best-practices)
+  - [Tools and technologies for deployment](#tools-and-technologies-for-deployment)
 - [**2. Model Serving**](#2-model-serving) (5 videos)
-  - Model serving patterns
-  - Scaling model serving
-  - Building resiliency in serving
-  - Serving multiple models
-  - Tools and technologies for serving
+  - [Model serving patterns](#model-serving-patterns)
+  - [Scaling model serving](#scaling-model-serving)
+  - [Building resiliency in serving](#building-resiliency-in-serving)
+  - [Serving multiple models](#serving-multiple-models)
+  - [Tools and technologies for serving](#tools-and-technologies-for-serving)
 - [**3. Continuous Monitoring**](#3-continuous-monitoring) (6 videos)
-  - The monitoring pipeline
-  - Instrumentation for observability
-  - Metrics to monitor
-  - ML production data best practices
-  - Alerts and thresholds for ML
-  - Tools and technologies for monitoring
+  - [The monitoring pipeline](#the-monitoring-pipeline)
+  - [Instrumentation for observability](#instrumentation-for-observability)
+  - [Metrics to monitor](#metrics-to-monitor)
+  - [ML production data best practices](#ml-production-data-best-practices)
+  - [Alerts and thresholds for ML](#alerts-and-thresholds-for-ml)
+  - [Tools and technologies for monitoring](#tools-and-technologies-for-monitoring)
 - [**4. Drift Management**](#4-drift-management) (5 videos)
-  - Introduction to model drift
-  - Concept drift basics
-  - Managing concept drift
-  - Feature drift basics
-  - Managing feature drift
+  - [Introduction to model drift](#introduction-to-model-drift)
+  - [Concept drift basics](#concept-drift-basics)
+  - [Managing concept drift](#managing-concept-drift)
+  - [Feature drift basics](#feature-drift-basics)
+  - [Managing feature drift](#managing-feature-drift)
 - [**5. Responsible AI**](#5-responsible-ai) (5 videos)
-  - Elements of responsible AI
-  - Explainable AI
-  - Fairness in ML
-  - Security of ML assets
-  - Privacy in machine learning
+  - [Elements of responsible AI](#elements-of-responsible-ai)
+  - [Explainable AI](#explainable-ai)
+  - [Fairness in ML](#fairness-in-ml)
+  - [Security of ML assets](#security-of-ml-assets)
+  - [Privacy in machine learning](#privacy-in-machine-learning)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with MLOps
+  - [Continuing on with MLOps](#continuing-on-with-mlops)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980)
@@ -128,8 +128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (4), business (1), management (1), next (1), [[Responsible AI]] (1)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [kumaran] (1)
 
@@ -210,7 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** [[MLOps]] (13), data (3), management (2), [[Feature Engineering]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** aws (1), gcp (1)
 > **Best Practices:** recommended (2)
@@ -297,7 +297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), extends (1), finally, (1)
+> **Frameworks & Libraries:** [[MLOps]] (7), data (5), [[Data Engineering]] (4), [[DevOps]] (3), [[Engineering]] (3)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - let (1)
@@ -305,7 +305,7 @@ created: 2026-04-29
 
 ### 1. Continuous Delivery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An ML production setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/an-ml-production-setup?u=76281980)
@@ -364,7 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), case, (1)
+> **Frameworks & Libraries:** data (3), api (2), next (1)
 > **Env Vars:** api (2)
 > **Prerequisites:** setup (2)
 > **UI Navigation:** open the (1)
@@ -425,7 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), continue (1)
+> **Frameworks & Libraries:** api (2)
 > **Env Vars:** api (2)
 > **Prerequisites:** setup (2)
 > **Analogies:** for example (1)
@@ -520,7 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), continue (1), switch (1)
+> **Frameworks & Libraries:** node (4), traffic (4), next (2), application (1), [[Batch Processing]] (1)
 > **CLI Commands:** node (4)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (3)
@@ -602,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (1)
+> **Frameworks & Libraries:** data (2), [[Security]] (2), management (2), aws (2), gcp (2)
 > **Env Vars:** aws (2), gcp (2)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (2)
@@ -650,8 +650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), [[MLOps]] (1)
 > **Best Practices:** recommended (3)
-> **Code Keywords:** finally, (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -676,15 +676,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Argo CD]] (1), [[Automation]] (1), [[Ansible]] (1), [[Jenkins]] (1)
 > **CLI Commands:** docker (1), cd (1), make (1), ansible (1), terraform (1)
-> **Code Keywords:** let (1), continue (1)
 > **Tools:** gitlab (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Model Serving
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Model serving patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980)
@@ -755,7 +755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), case. (1), function (1), pass (1)
+> **Frameworks & Libraries:** database (5), api (4), [[Real-Time]] (4), data (1), next (1)
 > **Env Vars:** api (4), rest (1), apa (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
@@ -830,8 +830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), parallel (2), [[MLOps]] (1), concurrent (1), [[Batch Processing]] (1)
 > **CLI Commands:** node (2), make (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** api (1), gpu (1)
 > **Analogies:** similar to (1)
@@ -909,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (1), finally, (1), this, (1), function (1)
+> **Frameworks & Libraries:** [[Resiliency]] (10), data (5), [[User Experience (UX)|User experience]] (2), next (1), node (1)
 > **CLI Commands:** make (1), node (1)
 > **Env Vars:** raid (1)
 > **Definitions:** is a  (1)
@@ -995,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), finally, (1)
+> **Frameworks & Libraries:** next (3), [[User Experience (UX)|User experience]] (2), parallel (2), chatbot (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1023,15 +1023,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[PyTorch]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[MLOps]] (1), product (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Continuous Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The monitoring pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980)
@@ -1098,8 +1098,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (4), [[MLOps]] (3), [[Analytics]] (3), application (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** extends (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1186,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), for. (1)
+> **Frameworks & Libraries:** data (5), application (5), [[Statistics]] (2), api (2), [[Programming]] (2)
 > **Env Vars:** api (2), cpu (1)
 > **CLI Commands:** docker (1), make (1)
 > **Definitions:** refers to (1), is an  (1)
@@ -1263,7 +1263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** next (2), application (2), [[Responsible AI]] (2), [[MLOps]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1)
 > **Cross-References:** in the next (1)
@@ -1309,6 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Statistics]] (1), [[Batch Processing]] (1), [[Privacy]] (1), [[Microservices]] (1)
 > **Best Practices:** recommended (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -1389,9 +1390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (2), [[Continuous Monitoring]] (1), data (1), [[Automation]] (1)
 > **Prerequisites:** set up (3)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -1418,7 +1419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** ai (2), application (1), data (1), [[Kubernetes]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** elk (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1426,7 +1427,7 @@ created: 2026-04-29
 
 ### 4. Drift Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to model drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980)
@@ -1519,7 +1520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2)
+> **Frameworks & Libraries:** [[Probability]] (14), next (5), feature (3)
 > **Definitions:** stands for (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1581,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** data (6), [[Probability]] (3), feature (1), next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** a1c (1)
@@ -1637,6 +1638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (1), management (1), feature (1), next (1)
 > **Cross-References:** later in (1), go back to (1), coming up (1), in the next (1)
 > **Analogies:** for example (2)
 > **Best Practices:** recommended (1)
@@ -1714,8 +1716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (12), data (7), [[Probability]] (5), [[Microsoft Products|Products]] (1), application (1)
 > **Definitions:** is a  (4), is called (1)
-> **Code Keywords:** let (4)
 > **Env Vars:** covid (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -1765,7 +1767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** feature (15), data (5), management (1), application (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1774,7 +1776,7 @@ created: 2026-04-29
 
 ### 5. Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elements of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980)
@@ -1841,6 +1843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (5), ai (4), [[Security]] (3), [[Privacy]] (2), [[Accountability]] (2)
 > **Env Vars:** rai (9)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (1)
@@ -1888,9 +1891,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Ethics]] (1), [[Engineering]] (1), [[Deep Learning]] (1), nlp (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** xai (1), nlp (1), lime (1)
-> **Code Keywords:** require (1), this, (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1951,6 +1954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
 > **Speakers:** - [instructor] (1)
@@ -1982,7 +1986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), protected (1)
+> **Frameworks & Libraries:** data (12), [[Security]] (3), [[MLOps]] (1), [[Responsible AI]] (1), application (1)
 > **Env Vars:** roni (1), trim (1), knht (1)
 > **Best Practices:** recommended (2)
 > **Cross-References:** coming up (1)
@@ -2040,7 +2044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), protected (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Privacy]] (7), ai (3), [[Security]] (2), business (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** gdpr (1), hipaa (1)
 > **Cross-References:** coming up (1)
@@ -2050,7 +2054,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980)
@@ -2073,8 +2077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [kumaran] (1)
 
 

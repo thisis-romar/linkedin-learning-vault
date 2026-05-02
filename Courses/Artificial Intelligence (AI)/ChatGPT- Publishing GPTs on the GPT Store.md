@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Publishing%20GPTs%20on%20the%20GPT%20Store.md)
@@ -49,19 +49,19 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introducing the GPT Store
+  - [Introducing the GPT Store](#introducing-the-gpt-store)
 - [**1. Publishing GPTs in the GPT Store**](#1-publishing-gpts-in-the-gpt-store) (5 videos)
-  - What is the GPT Store?
-  - Preparing your account to publish GPTs
-  - Publishing a GPT in the GPT Store
-  - Upgrading a GPT in the GPT Store
-  - Understanding policies and guidelines for GPTs
+  - [What is the GPT Store?](#what-is-the-gpt-store)
+  - [Preparing your account to publish GPTs](#preparing-your-account-to-publish-gpts)
+  - [Publishing a GPT in the GPT Store](#publishing-a-gpt-in-the-gpt-store)
+  - [Upgrading a GPT in the GPT Store](#upgrading-a-gpt-in-the-gpt-store)
+  - [Understanding policies and guidelines for GPTs](#understanding-policies-and-guidelines-for-gpts)
 - [**2. Going further**](#2-going-further) (1 videos)
-  - Going further with GPTs
+  - [Going further with GPTs](#going-further-with-gpts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the GPT Store
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980)
@@ -84,15 +84,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Custom GPTs]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (7)
-> **Code Keywords:** let (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - custom (1)
 
 
 ### 1. Publishing GPTs in the GPT Store
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the GPT Store?
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980)
@@ -143,8 +143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), feature (2), [[Automation]] (1), [[Search]] (1), next (1)
 > **Env Vars:** gpt (6)
-> **Code Keywords:** finally, (2), extends (1), interface (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -281,9 +281,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[ChatGPT]] (3), dns (2), data (1)
 > **UI Navigation:** click on (5), go to (3), scroll down (1), dropdown (1), navigate to (1)
 > **Env Vars:** gpt (8), dns (2)
-> **Code Keywords:** let (1), this, (1), case, (1)
 > **URLs:** [justmorton.com](https://justmorton.com) (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -371,8 +371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Env Vars:** gpt (27)
-> **Code Keywords:** let (1), this, (1), finally, (1), public (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** configure (1)
@@ -487,9 +487,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), feature (1)
 > **Env Vars:** gpt (21)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -607,17 +607,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Privacy]] (2), api (2), next (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gpt (19), api (3)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (2), public (1)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - when (1)
 
 
 ### 2. Going further
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further with GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980)
@@ -644,6 +644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Custom GPTs]] (2), [[ChatGPT]] (1), [[Search]] (1), next (1)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** go build (2), find (1)
 > **Cross-References:** in the next (1)

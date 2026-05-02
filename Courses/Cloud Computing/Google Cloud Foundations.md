@@ -27,7 +27,7 @@ tags:
   - skill/cloud-foundations
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Foundations.md)
@@ -46,34 +46,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding Google Cloud
-  - What you should know
+  - [Understanding Google Cloud](#understanding-google-cloud)
+  - [What you should know](#what-you-should-know)
 - [**1. Google Cloud Compliance Requirements**](#1-google-cloud-compliance-requirements) (2 videos)
-  - Understanding Google Cloud compliance
-  - Accessing Google Cloud compliance documents
+  - [Understanding Google Cloud compliance](#understanding-google-cloud-compliance)
+  - [Accessing Google Cloud compliance documents](#accessing-google-cloud-compliance-documents)
 - [**2. Gemini for Google Cloud overview**](#2-gemini-for-google-cloud-overview) (2 videos)
-  - How Gemini works and uses your data
-  - Gemini security and safety
+  - [How Gemini works and uses your data](#how-gemini-works-and-uses-your-data)
+  - [Gemini security and safety](#gemini-security-and-safety)
 - [**3. Google Cloud Resource Hierarchy**](#3-google-cloud-resource-hierarchy) (2 videos)
-  - Understanding Google Cloud resources and hierarchy
-  - Managing identity and access
+  - [Understanding Google Cloud resources and hierarchy](#understanding-google-cloud-resources-and-hierarchy)
+  - [Managing identity and access](#managing-identity-and-access)
 - [**4. Controlling and Optimizing Google Cloud Costs**](#4-controlling-and-optimizing-google-cloud-costs) (3 videos)
-  - Google Cloud billing fundamentals
-  - Understanding billing roles and usage
-  - Billing optimization strategies
+  - [Google Cloud billing fundamentals](#google-cloud-billing-fundamentals)
+  - [Understanding billing roles and usage](#understanding-billing-roles-and-usage)
+  - [Billing optimization strategies](#billing-optimization-strategies)
 - [**5. Google Cloud Geographical Segmentation Strategy**](#5-google-cloud-geographical-segmentation-strategy) (2 videos)
-  - Breaking down Google's network infrastucture
-  - Zonal, regional, multiregional, and global resources
+  - [Breaking down Google's network infrastucture](#breaking-down-googles-network-infrastucture)
+  - [Zonal, regional, multiregional, and global resources](#zonal-regional-multiregional-and-global-resources)
 - [**6. Google Cloud Support Options**](#6-google-cloud-support-options) (2 videos)
-  - Using Google Cloud support
-  - Understanding Service Level Agreement (SLA) applications
+  - [Using Google Cloud support](#using-google-cloud-support)
+  - [Understanding Service Level Agreement (SLA) applications](#understanding-service-level-agreement-sla-applications)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Google Cloud certifications
-  - Learning more about Google Cloud
+  - [Google Cloud certifications](#google-cloud-certifications)
+  - [Learning more about Google Cloud](#learning-more-about-google-cloud)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), cloud (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [mark] (1)
 
@@ -128,13 +129,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Google Cloud Compliance Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Google Cloud compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980)
@@ -185,7 +186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Google]] (4), cloud (3), [[Security]] (1), management (1)
 > **Env Vars:** usa (1), cjis (1), dns (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (2)
@@ -228,7 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), this, (1)
+> **Frameworks & Libraries:** next (2), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), cloud (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Env Vars:** iso (2)
 > **CLI Commands:** find (1)
@@ -239,7 +240,7 @@ created: 2026-04-29
 
 ### 2. Gemini for Google Cloud overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How Gemini works and uses your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980)
@@ -304,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Gemini]] (8), [[Google]] (6), data (4), [[Responsible AI]] (4)
 > **UI Navigation:** go to (3), click on (3)
-> **Code Keywords:** let (3), private (1)
 > **Env Vars:** pdf (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **CLI Commands:** find (1)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Security]] (7), ai (7), [[Gemini]] (5), data (5), [[Google]] (5)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
@@ -393,7 +394,7 @@ created: 2026-04-29
 
 ### 3. Google Cloud Resource Hierarchy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Google Cloud resources and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980)
@@ -458,7 +459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** cloud (2), teams (2), gcp (2), application (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **UI Navigation:** scroll down (2), click on (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** gcp (2), cfo (1)
@@ -574,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), delete (2), this. (1), continue (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Security]] (5), gcp (4), cloud (3), data (3)
 > **Env Vars:** iam (5), gcp (4), ssl (2)
 > **UI Navigation:** scroll down (4), go to (1), click on (1)
 > **Prerequisites:** set up (6)
@@ -586,7 +587,7 @@ created: 2026-04-29
 
 ### 4. Controlling and Optimizing Google Cloud Costs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Cloud billing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980)
@@ -643,8 +644,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (9), next (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2), database (2)
 > **Env Vars:** gcp (9)
-> **Code Keywords:** let (3), this, (1), public (1)
 > **Prerequisites:** setup (2), set up (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -703,9 +704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), gcp (2), [[Google]] (2), data (2), cloud (1)
 > **Env Vars:** cpu (4), gcp (2), sql (1)
 > **UI Navigation:** scroll down (4), click on (2), toggle (1)
-> **Code Keywords:** let (2), this, (2), this. (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -844,8 +845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (7), next (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2), application (1)
 > **Env Vars:** gcp (7), sap (3), sles (2), cpu (1)
-> **Code Keywords:** let (5), type. (1), this. (1), this, (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is called (1)
@@ -856,7 +857,7 @@ created: 2026-04-29
 
 ### 5. Google Cloud Geographical Segmentation Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down Google's network infrastucture
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980)
@@ -919,6 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), gcp (3), data (2), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** gcp (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Versions:** 2.4 (1)
@@ -1084,9 +1086,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (7), cloud (6), application (5), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Microsoft Products|Products]] (4)
 > **Env Vars:** gcp (7), vpc (5), create (1), instance (1), abcd (1)
 > **UI Navigation:** scroll down (7), click on (6), go to (2)
-> **Code Keywords:** let (5), this, (2), static (1), from. (1), type, (1)
 > **Prerequisites:** set up (6)
 > **Definitions:** is a  (4)
 > **Warnings:** keep in mind (2)
@@ -1096,7 +1098,7 @@ created: 2026-04-29
 
 ### 6. Google Cloud Support Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Google Cloud support
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980)
@@ -1165,8 +1167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (7), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2), [[Google]] (2), application (1)
 > **Env Vars:** gcp (7), api (1)
-> **Code Keywords:** let (3), case, (1), this, (1), this. (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **CLI Commands:** find (1)
@@ -1245,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Google]] (4), next (2), [[Search]] (1), product (1)
 > **Env Vars:** sla (6)
 > **Warnings:** keep in mind (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1257,7 +1259,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Cloud certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980)
@@ -1324,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (1)
+> **Frameworks & Libraries:** cloud (12), data (6), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Learning more about Google Cloud
@@ -1360,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), next (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)

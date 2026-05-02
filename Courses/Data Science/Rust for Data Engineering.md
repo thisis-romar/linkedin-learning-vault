@@ -31,7 +31,7 @@ tags:
   - skill/data-engineering
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Rust%20for%20Data%20Engineering.md)
@@ -50,112 +50,112 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Getting Started with the Modern Rust Development Ecosystem**](#1-getting-started-with-the-modern-rust-development-ecosystem) (8 videos)
-  - Meet the instructor and course overview
-  - Introduction to the AI coding paradigm shift
-  - Introduction to cloud-based development environments
-  - Introduction to GitHub Copilot ecosystem for Rust
-  - Prompt engineering with GCP BigQuery SQL
-  - Introduction to AWS CodeWhisperer for Rust
-  - Using Google Bard to enhance productivity
-  - Continuous integration with Rust and GitHub actions
+  - [Meet the instructor and course overview](#meet-the-instructor-and-course-overview)
+  - [Introduction to the AI coding paradigm shift](#introduction-to-the-ai-coding-paradigm-shift)
+  - [Introduction to cloud-based development environments](#introduction-to-cloud-based-development-environments)
+  - [Introduction to GitHub Copilot ecosystem for Rust](#introduction-to-github-copilot-ecosystem-for-rust)
+  - [Prompt engineering with GCP BigQuery SQL](#prompt-engineering-with-gcp-bigquery-sql)
+  - [Introduction to AWS CodeWhisperer for Rust](#introduction-to-aws-codewhisperer-for-rust)
+  - [Using Google Bard to enhance productivity](#using-google-bard-to-enhance-productivity)
+  - [Continuous integration with Rust and GitHub actions](#continuous-integration-with-rust-and-github-actions)
 - [**2. Rust Sequences and Maps**](#2-rust-sequences-and-maps) (8 videos)
-  - Introducing Rust sequences and maps
-  - Demo: Print Rust data structures
-  - Demo: Vector fruit salad
-  - Demo: VecDeque fruit salad
-  - Demo: LinkedIn list fruit salad
-  - Demo: Fruit salad CLI
-  - Demo: HashMap frequency counter
-  - HashMap language comparison
+  - [Introducing Rust sequences and maps](#introducing-rust-sequences-and-maps)
+  - [Demo: Print Rust data structures](#demo-print-rust-data-structures)
+  - [Demo: Vector fruit salad](#demo-vector-fruit-salad)
+  - [Demo: VecDeque fruit salad](#demo-vecdeque-fruit-salad)
+  - [Demo: LinkedIn list fruit salad](#demo-linkedin-list-fruit-salad)
+  - [Demo: Fruit salad CLI](#demo-fruit-salad-cli)
+  - [Demo: HashMap frequency counter](#demo-hashmap-frequency-counter)
+  - [HashMap language comparison](#hashmap-language-comparison)
 - [**3. Rust Sets, Graphs, and Miscellaneous Data Structures**](#3-rust-sets-graphs-and-miscellaneous-data-structures) (8 videos)
-  - Analyzing UFC fighter network using graph centrality in Rust
-  - Storing unique fruits using HashSet in Rust
-  - Maintaining sorted and unique fruits using BTreeSet in Rust
-  - Creating a fig-priority fruit salad using BinaryHeap in Rust
-  - PageRank algorithm for sports data
-  - Showing shortest path with Dijkstra
-  - Detecting strongly connected components: A deep dive into Kosaraju's algorithm
-  - Simple charting of data structures in Rust
+  - [Analyzing UFC fighter network using graph centrality in Rust](#analyzing-ufc-fighter-network-using-graph-centrality-in-rust)
+  - [Storing unique fruits using HashSet in Rust](#storing-unique-fruits-using-hashset-in-rust)
+  - [Maintaining sorted and unique fruits using BTreeSet in Rust](#maintaining-sorted-and-unique-fruits-using-btreeset-in-rust)
+  - [Creating a fig-priority fruit salad using BinaryHeap in Rust](#creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust)
+  - [PageRank algorithm for sports data](#pagerank-algorithm-for-sports-data)
+  - [Showing shortest path with Dijkstra](#showing-shortest-path-with-dijkstra)
+  - [Detecting strongly connected components: A deep dive into Kosaraju's algorithm](#detecting-strongly-connected-components-a-deep-dive-into-kosarajus-algorithm)
+  - [Simple charting of data structures in Rust](#simple-charting-of-data-structures-in-rust)
 - [**4. Rust Safety and Security Features**](#4-rust-safety-and-security-features) (7 videos)
-  - Multifactor authentication
-  - Network segmentation
-  - Least privilege access
-  - Encryption
-  - Mutable fruit salad
-  - Customize fruit salad with a CLI
-  - Data race example
+  - [Multifactor authentication](#multifactor-authentication)
+  - [Network segmentation](#network-segmentation)
+  - [Least privilege access](#least-privilege-access)
+  - [Encryption](#encryption)
+  - [Mutable fruit salad](#mutable-fruit-salad)
+  - [Customize fruit salad with a CLI](#customize-fruit-salad-with-a-cli)
+  - [Data race example](#data-race-example)
 - [**5. Security Programming with Rust**](#5-security-programming-with-rust) (8 videos)
-  - High availability
-  - Understanding the Homophonic cipher: A cryptographic technique
-  - Decoding the secrets of the Caesar cipher
-  - Building a Caesar cipher command-line interface
-  - Creating a decoder ring: A practical guide
-  - Detecting duplicates with SHA-3: A data integrity tool
-  - Incident response
-  - Compliance
+  - [High availability](#high-availability)
+  - [Understanding the Homophonic cipher: A cryptographic technique](#understanding-the-homophonic-cipher-a-cryptographic-technique)
+  - [Decoding the secrets of the Caesar cipher](#decoding-the-secrets-of-the-caesar-cipher)
+  - [Building a Caesar cipher command-line interface](#building-a-caesar-cipher-command-line-interface)
+  - [Creating a decoder ring: A practical guide](#creating-a-decoder-ring-a-practical-guide)
+  - [Detecting duplicates with SHA-3: A data integrity tool](#detecting-duplicates-with-sha-3-a-data-integrity-tool)
+  - [Incident response](#incident-response)
+  - [Compliance](#compliance)
 - [**6. Concurrency with Rust**](#6-concurrency-with-rust) (8 videos)
-  - Core concepts in concurrency
-  - Dining philosophers
-  - Web crawl Wikipedia with Rayon
-  - Intelligent chatbot with Tokio
-  - Multi-threaded deduplication with Rust
-  - Energy efficiency Python vs. Rust
-  - Concurrency stress test with a GPU
-  - Host efficiency serverless optimization problem
+  - [Core concepts in concurrency](#core-concepts-in-concurrency)
+  - [Dining philosophers](#dining-philosophers)
+  - [Web crawl Wikipedia with Rayon](#web-crawl-wikipedia-with-rayon)
+  - [Intelligent chatbot with Tokio](#intelligent-chatbot-with-tokio)
+  - [Multi-threaded deduplication with Rust](#multi-threaded-deduplication-with-rust)
+  - [Energy efficiency Python vs. Rust](#energy-efficiency-python-vs-rust)
+  - [Concurrency stress test with a GPU](#concurrency-stress-test-with-a-gpu)
+  - [Host efficiency serverless optimization problem](#host-efficiency-serverless-optimization-problem)
 - [**7. Using Rust to Manage Data, Files, and Network Storage**](#7-using-rust-to-manage-data-files-and-network-storage) (6 videos)
-  - Process CSV files in Rust
-  - Using Cargo Lambda with Rust
-  - List files on AWS EFS with Rust
-  - Use AWS S3 storage
-  - Use AWS S3 storage from Rust
-  - Write encrypted data to tables or Parquet files
+  - [Process CSV files in Rust](#process-csv-files-in-rust)
+  - [Using Cargo Lambda with Rust](#using-cargo-lambda-with-rust)
+  - [List files on AWS EFS with Rust](#list-files-on-aws-efs-with-rust)
+  - [Use AWS S3 storage](#use-aws-s3-storage)
+  - [Use AWS S3 storage from Rust](#use-aws-s3-storage-from-rust)
+  - [Write encrypted data to tables or Parquet files](#write-encrypted-data-to-tables-or-parquet-files)
 - [**8. DataFrames with Rust, Python, and Notebooks**](#8-dataframes-with-rust-python-and-notebooks) (7 videos)
-  - What is Colab?
-  - Using Bard to enhance notebook development
-  - Exploring life expectancy in a notebook
-  - Load a DataFrame with sensitive data
-  - Using MLFlow with Databricks Notebooks
-  - End to End ML with MLFlow and Databricks
-  - Exploring global life expectancy with Polars
+  - [What is Colab?](#what-is-colab)
+  - [Using Bard to enhance notebook development](#using-bard-to-enhance-notebook-development)
+  - [Exploring life expectancy in a notebook](#exploring-life-expectancy-in-a-notebook)
+  - [Load a DataFrame with sensitive data](#load-a-dataframe-with-sensitive-data)
+  - [Using MLFlow with Databricks Notebooks](#using-mlflow-with-databricks-notebooks)
+  - [End to End ML with MLFlow and Databricks](#end-to-end-ml-with-mlflow-and-databricks)
+  - [Exploring global life expectancy with Polars](#exploring-global-life-expectancy-with-polars)
 - [**9. Using Rust with Cloud SDKs and CLIs for Data Engineering**](#9-using-rust-with-cloud-sdks-and-clis-for-data-engineering) (8 videos)
-  - Cloud developer workspace advantage
-  - Onboarding to GCP with Python and Rust
-  - Using GCP Cloud Shell with Rust
-  - Learn AWS CloudShell
-  - Prototyping AI APIs with AWS CloudShell
-  - Cloud9 with CodeWhisperer
-  - Demo: GCP App Engine Rust Deploy
-  - Containerized Rust Actix Microservice on AWS
+  - [Cloud developer workspace advantage](#cloud-developer-workspace-advantage)
+  - [Onboarding to GCP with Python and Rust](#onboarding-to-gcp-with-python-and-rust)
+  - [Using GCP Cloud Shell with Rust](#using-gcp-cloud-shell-with-rust)
+  - [Learn AWS CloudShell](#learn-aws-cloudshell)
+  - [Prototyping AI APIs with AWS CloudShell](#prototyping-ai-apis-with-aws-cloudshell)
+  - [Cloud9 with CodeWhisperer](#cloud9-with-codewhisperer)
+  - [Demo: GCP App Engine Rust Deploy](#demo-gcp-app-engine-rust-deploy)
+  - [Containerized Rust Actix Microservice on AWS](#containerized-rust-actix-microservice-on-aws)
 - [**10. Getting Started with Rust Data Pipelines (Including ETL)**](#10-getting-started-with-rust-data-pipelines-including-etl) (7 videos)
-  - Jack and the Beanstalk data pipelines
-  - Open source data engineering: Pros and cons
-  - Core components of data engineering pipelines
-  - Rust AWS step functions pipeline
-  - Rust AWS Lambda Async S3 size calculator
-  - What is Distroless?
-  - Demo: Deploying Rust microservices on GCP
+  - [Jack and the Beanstalk data pipelines](#jack-and-the-beanstalk-data-pipelines)
+  - [Open source data engineering: Pros and cons](#open-source-data-engineering-pros-and-cons)
+  - [Core components of data engineering pipelines](#core-components-of-data-engineering-pipelines)
+  - [Rust AWS step functions pipeline](#rust-aws-step-functions-pipeline)
+  - [Rust AWS Lambda Async S3 size calculator](#rust-aws-lambda-async-s3-size-calculator)
+  - [What is Distroless?](#what-is-distroless)
+  - [Demo: Deploying Rust microservices on GCP](#demo-deploying-rust-microservices-on-gcp)
 - [**11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines**](#11-using-rust-and-python-for-llms-onnx-hugging-face-and-pytorch-pipelines) (7 videos)
-  - Introduction to Hugging Face Hub
-  - Rust PyTorch pre-trained model ecosystem
-  - Rust GPU Hugging Face translator
-  - Rust PyTorch high-performance options
-  - EFS ONNX Rust inference with AWS Lambda
-  - Theory behind model fine-tuning
-  - Doing fine-tuning
+  - [Introduction to Hugging Face Hub](#introduction-to-hugging-face-hub)
+  - [Rust PyTorch pre-trained model ecosystem](#rust-pytorch-pre-trained-model-ecosystem)
+  - [Rust GPU Hugging Face translator](#rust-gpu-hugging-face-translator)
+  - [Rust PyTorch high-performance options](#rust-pytorch-high-performance-options)
+  - [EFS ONNX Rust inference with AWS Lambda](#efs-onnx-rust-inference-with-aws-lambda)
+  - [Theory behind model fine-tuning](#theory-behind-model-fine-tuning)
+  - [Doing fine-tuning](#doing-fine-tuning)
 - [**12. Building SQL Solutions with Rust, Generative AI, and Cloud**](#12-building-sql-solutions-with-rust-generative-ai-and-cloud) (9 videos)
-  - Selecting the correct database on GCP
-  - Rust SQLite Hugging Face zero-shot classification
-  - Prompt engineering for BigQuery
-  - BigQuery to Colab pipeline
-  - Exploring data with BigQuery
-  - Using public data sets for data science
-  - Querying log files with BigQuery
-  - There is no one-size database
-  - Course conclusion
+  - [Selecting the correct database on GCP](#selecting-the-correct-database-on-gcp)
+  - [Rust SQLite Hugging Face zero-shot classification](#rust-sqlite-hugging-face-zero-shot-classification)
+  - [Prompt engineering for BigQuery](#prompt-engineering-for-bigquery)
+  - [BigQuery to Colab pipeline](#bigquery-to-colab-pipeline)
+  - [Exploring data with BigQuery](#exploring-data-with-bigquery)
+  - [Using public data sets for data science](#using-public-data-sets-for-data-science)
+  - [Querying log files with BigQuery](#querying-log-files-with-bigquery)
+  - [There is no one-size database](#there-is-no-one-size-database)
+  - [Course conclusion](#course-conclusion)
 
 ### 1. Getting Started with the Modern Rust Development Ecosystem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet the instructor and course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980)
@@ -268,8 +268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (30), data (19), [[Data Engineering]] (8), aws (7), cloud (5)
 > **Env Vars:** aws (7), sql (2), sdk (1), etl (1), csv (1)
-> **Code Keywords:** let (3), lambda (3), finally, (2), async (1), public (1)
 > **CLI Commands:** aws (7), cargo (1), find (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** in the next (1), in the last (1)
@@ -328,11 +328,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (8), ai (7), [[Google]] (3), [[DevOps]] (2), [[GitHub]] (2)
 > **Tools:** github (3), visual studio (1)
 > **Analogies:** for example (3), just like (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** cd (1), python (1), aws (1)
-> **Code Keywords:** for, (1), let (1), finally, (1)
 > **UI Navigation:** go to (2), toggle (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** aws (1)
@@ -608,7 +608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), public (4), this. (2), private (1), new, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (9), [[Codespaces]] (8), next (5), [[GitHub]] (4), [[GitHub Copilot]] (4)
 > **CLI Commands:** cargo (6), make (5), find (2), docker (1), cd (1)
 > **Prerequisites:** set up (6), install (6), configure (1)
 > **Tools:** github (8), vim (2)
@@ -846,7 +846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (5), this. (3), case, (3), throw (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Copilot|Copilot]] (11), [[Rust (Programming Language)|Rust]] (7), [[GitHub]] (5), prompt (3)
 > **CLI Commands:** python (12), cargo (5), make (4), cd (1)
 > **Tools:** github (5), command line (4), visual studio (2)
 > **Definitions:** is a  (5)
@@ -1032,7 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), throw (5), this, (4), this. (1), function (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4), [[SQL]] (2), prompt (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (5)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1194,7 +1194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (4), this, (2), this. (2)
+> **Frameworks & Libraries:** [[Programming]] (6), ai (5), [[Rust (Programming Language)|Rust]] (5), aws (4), cd (3)
 > **CLI Commands:** cargo (10), aws (4), cd (3), make (1), ssh (1)
 > **Env Vars:** aws (4), ide (1), ssh (1), vpc (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -1354,7 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (4), type. (1)
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (3), [[Programming]] (3), feature (3), prompt (2)
 > **Env Vars:** ram (2), gcp (1)
 > **Tools:** colab (3)
 > **Definitions:** is a  (2)
@@ -1504,9 +1504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (11), [[GitHub]] (9), [[Continuous Integration (CI)|Continuous integration]] (6), [[Git]] (3), [[DevOps]] (2)
 > **CLI Commands:** make (9), cargo (3), git (3), mkdir (1)
 > **Tools:** github (9)
-> **Code Keywords:** let (4), this. (1), else. (1)
 > **Prerequisites:** set up (6)
 > **Definitions:** is a  (3)
 > **File Paths:** lib.rs (1), test_lib.rs (1)
@@ -1516,7 +1516,7 @@ created: 2026-04-29
 
 ### 2. Rust Sequences and Maps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Rust sequences and maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980)
@@ -1563,9 +1563,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Python (Programming Language)|Python]] (12), feature (2), [[Security]] (1)
 > **CLI Commands:** python (12)
 > **Analogies:** just like (3), similar to (2), for example (1)
-> **Code Keywords:** let (2), default. (1), finally, (1), static (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1618,8 +1618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), data (4)
 > **CLI Commands:** make (10), cargo (3)
-> **Code Keywords:** let (4), this. (2), new, (1), function (1), if, (1)
 > **Analogies:** for example (2)
 > **File Paths:** main.rs (1)
 > **Documentation:** the documentation (1)
@@ -1705,8 +1705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Rust (Programming Language)|Rust]] (4), [[Python (Programming Language)|Python]] (4), next (1), cd (1)
 > **CLI Commands:** python (4), cargo (4), make (2), cd (1)
-> **Code Keywords:** let (2), case, (2), type. (1), function (1), finally, (1)
 > **Env Vars:** rng (1), vec (1), fmt (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** similar to (2)
@@ -1779,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), case, (2), module (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **Code Identifiers:** push_back (3), push_front (1)
 > **CLI Commands:** cargo (2), python (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1816,8 +1816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1), cargo (1)
-> **Code Keywords:** let (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1902,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), pass (3), interface (2), case, (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2), [[CLI]] (1), cd (1)
 > **CLI Commands:** cargo (3), python (2), make (2), cd (1)
 > **Tools:** command line (5)
 > **File Paths:** lib.rs (3), cargo.toml (1)
@@ -1976,7 +1976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), require (1), finally, (1)
+> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (3), python (2), cargo (1)
 > **Definitions:** is a  (3)
 > **File Paths:** lib.rs (1)
@@ -2028,7 +2028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), function (2), for, (1), case, (1)
+> **Frameworks & Libraries:** data (5), [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2), database (1), [[JavaScript]] (1)
 > **CLI Commands:** python (2), make (1), cargo (1)
 > **Code Identifiers:** init_languages (1), calculate_weights (1)
 > **Env Vars:** html (1), sql (1)
@@ -2040,7 +2040,7 @@ created: 2026-04-29
 
 ### 3. Rust Sets, Graphs, and Miscellaneous Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyzing UFC fighter network using graph centrality in Rust
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980)
@@ -2121,7 +2121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), let (3), struct (2), function (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2), [[Statistics]] (1), node (1), next (1)
 > **CLI Commands:** cargo (2), python (2), node (1), make (1)
 > **Env Vars:** ufc (3)
 > **Versions:** 0.33 (1), 0.25 (1), 0.50 (1)
@@ -2208,7 +2208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), case. (1), function (1), this, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), data (1)
 > **CLI Commands:** cargo (1), find (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** is a  (2)
@@ -2281,7 +2281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), data (2), next (2), [[Data Engineering]] (1)
 > **CLI Commands:** cargo (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -2352,7 +2352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), enum (1), finally, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), data (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** make (3), cargo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2410,8 +2410,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Google]] (2), node (2), [[Search]] (2), [[Vanilla]] (1)
 > **Env Vars:** espn (4), nfl (3), nba (3), ufc (2), mlb (1)
-> **Code Keywords:** struct (1), continue (1), finally, (1), this, (1), let (1)
 > **CLI Commands:** node (2), cargo (1)
 > **Versions:** 0.85 (1), 0.42 (1), 0.22 (1)
 > **Definitions:** is a  (3)
@@ -2478,8 +2478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), [[Rust (Programming Language)|Rust]] (3), data (1)
 > **CLI Commands:** node (4), cargo (2), find (1)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2567,8 +2567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Neo4j]] (2), data (2), database (1), [[Algorithms]] (1)
 > **CLI Commands:** node (1), cd (1), cargo (1), find (1)
-> **Code Keywords:** let (2), module (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** community_detection (1)
 > **Env Vars:** nbc (1)
@@ -2619,7 +2619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), data (2), next (1)
 > **Env Vars:** ascii (2)
 > **CLI Commands:** cargo (1)
 > **Tools:** command line (1)
@@ -2631,7 +2631,7 @@ created: 2026-04-29
 
 ### 4. Rust Safety and Security Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multifactor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980)
@@ -2672,7 +2672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Multi-factor Authentication]] (1), cloud (1), data (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2723,7 +2723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), function (1), interface (1)
+> **Frameworks & Libraries:** [[Security]] (2), data (2), database (2), [[Intrusion Detection]] (2), web (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** dmz (1)
 > **Analogies:** for example (1)
@@ -2776,7 +2776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (4), database (1), application (1)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2810,7 +2810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (2), let (1)
+> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1), management (1)
 > **CLI Commands:** ssh (1)
 > **Env Vars:** ssh (1)
 > **Speakers:** - [instructor] (1)
@@ -2888,7 +2888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), this, (1), default, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), data (2), feature (2), [[Security]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1), cargo (1)
 > **Definitions:** is an  (3)
 > **Cross-References:** go back to (1)
@@ -3025,7 +3025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), finally, (3), this, (2), pass (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Data Engineering]] (3), [[Security]] (2), data (2), [[CLI]] (2)
 > **Definitions:** is a  (7), means that (1)
 > **CLI Commands:** cargo (4), make (1)
 > **File Paths:** lib.rs (2), fruits.csv (1)
@@ -3097,7 +3097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (2), function (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Rust (Programming Language)|Rust]] (4), parallel (1), concurrent (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll up (1)
 > **Warnings:** warning (1)
@@ -3107,7 +3107,7 @@ created: 2026-04-29
 
 ### 5. Security Programming with Rust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### High availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/high-availability?u=76281980)
@@ -3162,8 +3162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), database (1), [[Security]] (1)
 > **Definitions:** is a  (2), means that (2)
-> **Code Keywords:** let (2), continue (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -3244,7 +3244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), implements (1), finally, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), cargo (1)
 > **Documentation:** the documentation (1)
@@ -3309,7 +3309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), case, (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), cd (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** cd (1), cargo (1)
 > **UI Navigation:** go to (2)
@@ -3410,7 +3410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), function (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** next (3), [[Rust (Programming Language)|Rust]] (2), [[Scripting]] (2), [[CLI]] (1)
 > **CLI Commands:** cargo (3), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (3)
@@ -3524,7 +3524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), function (2), finally, (1), pass (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (4), [[Probability]] (1), [[Big Data]] (1), data (1), [[CLI]] (1)
 > **Versions:** 12.7 (2), 9.1 (1), 8.2 (1)
 > **CLI Commands:** cargo (1), make (1)
 > **Tools:** command line (2)
@@ -3624,8 +3624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), next (2), [[Statistics]] (2), [[Security]] (1), [[Simulation]] (1)
 > **Env Vars:** sha (5), md2 (1), md4 (1), md5 (1), blake2 (1)
-> **Code Keywords:** static (2), this. (1), function (1), case, (1)
 > **CLI Commands:** cargo (4)
 > **Definitions:** is a  (3), we call this (1)
 > **File Paths:** cargo.toml (1)
@@ -3670,7 +3670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), finally, (1)
+> **Frameworks & Libraries:** [[Incident Response]] (4), [[Security]] (2), [[React.js|React]] (2), teams (2), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3722,17 +3722,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (1), business (1)
 > **Env Vars:** hipaa (1), pci (1), dss (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), public (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Concurrency with Rust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Core concepts in concurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980)
@@ -3823,7 +3823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1), finally, (1)
+> **Frameworks & Libraries:** next (1), [[Programming]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -3924,9 +3924,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (4), [[Rust (Programming Language)|Rust]] (3), [[Debugging]] (2), [[Programming]] (2), [[Forms]] (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (3), cargo (1)
-> **Code Keywords:** finally, (2), let (1), this. (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -4004,7 +4004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (2), case, (1), const (1), function (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), parallel (2), [[Statistics]] (2), web (1), concurrent (1)
 > **Env Vars:** nba (2)
 > **CLI Commands:** cargo (1)
 > **Definitions:** is a  (1)
@@ -4097,10 +4097,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), api (5), chatbot (3), ai (1), [[OpenAI API]] (1)
 > **Env Vars:** api (6), url (1)
 > **Code Identifiers:** run_chat_loop (1), call_api (1), get_ai_response (1), read_user_input (1)
 > **File Paths:** cargo.toml (1), chatbot.rs (1), main.rs (1)
-> **Code Keywords:** implements (1), async (1), let (1)
 > **CLI Commands:** cargo (2)
 > **Analogies:** for example (2)
 > **Versions:** 9.87 (1)
@@ -4303,7 +4303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (4), this. (2), pass (1), try. (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (8), [[Rust (Programming Language)|Rust]] (7), [[Python (Programming Language)|Python]] (5), [[Programming]] (4), next (3)
 > **CLI Commands:** make (9), python (5), cargo (2)
 > **Definitions:** is a  (8), is an  (1)
 > **Analogies:** for example (4)
@@ -4403,8 +4403,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), [[Rust (Programming Language)|Rust]] (9), [[Programming]] (3), [[Microsoft Copilot|Copilot]] (2), [[Sustainability]] (2)
 > **CLI Commands:** python (16), make (2), find (1), ruby (1)
-> **Code Keywords:** let (3), switch (2), static (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** json (1), pearl (1)
 > **UI Navigation:** switch to (1)
@@ -4558,8 +4558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (11), [[PyTorch]] (7), data (4), next (3), traffic (3)
 > **Env Vars:** gpu (22), cpu (11), cuda (3), aws (1), gcp (1)
-> **Code Keywords:** let (12), function (2), throw (2), this, (1), case, (1)
 > **CLI Commands:** cargo (6), make (3), aws (1)
 > **Tools:** github (1), command line (1)
 > **UI Navigation:** go to (2)
@@ -4618,8 +4618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Rust (Programming Language)|Rust]] (10), [[Virtualization]] (2), aws (2), [[Virtual Machines]] (1)
 > **CLI Commands:** python (11), aws (2), ruby (1)
-> **Code Keywords:** let (4), lambda (2), if, (1), default, (1), for, (1)
 > **Env Vars:** aws (2), gil (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -4628,7 +4628,7 @@ created: 2026-04-29
 
 ### 7. Using Rust to Manage Data, Files, and Network Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Process CSV files in Rust
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980)
@@ -4707,7 +4707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), else. (1)
+> **Frameworks & Libraries:** data (7), [[Rust (Programming Language)|Rust]] (5), next (2), aws (1), [[Scripting]] (1)
 > **Env Vars:** csv (8), aws (1)
 > **CLI Commands:** cargo (4), make (2), aws (1)
 > **File Paths:** text.txt (2)
@@ -4825,7 +4825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (18), let (14), case, (2), this. (2), this, (1)
+> **Frameworks & Libraries:** aws (3), [[Rust (Programming Language)|Rust]] (2), next (1), api (1), [[Debugging]] (1)
 > **CLI Commands:** cargo (12), aws (3), docker (1), ls (1)
 > **Prerequisites:** install (3), set up (2)
 > **Env Vars:** aws (3), api (1)
@@ -5013,7 +5013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (17), let (14), function (3), this, (2), case, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), aws (4), next (2), cloud (2), [[Large Language Models (LLM)|Large language models]] (2)
 > **CLI Commands:** cargo (4), aws (4), make (3), ls (1), python (1)
 > **Env Vars:** efs (8), aws (4)
 > **Definitions:** is a  (5), is an  (2)
@@ -5163,7 +5163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), if, (1), default. (1), case, (1), private (1)
+> **Frameworks & Libraries:** data (18), aws (2), management (1), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (5), aws (2), cd (1)
 > **Env Vars:** aws (2), nba (1), sql (1), csv (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -5293,7 +5293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), async (5), this. (2), function (2), for. (1)
+> **Frameworks & Libraries:** aws (11), [[Rust (Programming Language)|Rust]] (8), [[Security]] (2), api (2), [[Scripting]] (1)
 > **CLI Commands:** aws (11), cargo (5), make (2)
 > **Env Vars:** aws (8), sdk (4), api (2)
 > **Definitions:** is a  (4), is an  (1)
@@ -5347,8 +5347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (8), [[Representational State Transfer (REST)|Rest]] (2), application (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** sql (3), ram (1), cpu (1), api (1), dpapi (1)
-> **Code Keywords:** let (1), private (1), public (1), finally, (1)
 > **Definitions:** means that (2), is an  (1)
 > **UI Navigation:** toggle (1)
 > **Warnings:** be aware (1)
@@ -5357,7 +5357,7 @@ created: 2026-04-29
 
 ### 8. DataFrames with Rust, Python, and Notebooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Colab?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980)
@@ -5462,8 +5462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[GitHub]] (3), [[Google Drive]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** colab (8), github (3)
-> **Code Keywords:** let (2), this. (2), this, (1), else, (1), case, (1)
 > **Env Vars:** eda (3), readme (2), csv (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** python (1), make (1)
@@ -5624,7 +5624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (4), type. (1)
+> **Frameworks & Libraries:** feature (4), data (3), [[Pandas (Software)|Pandas]] (3), [[Programming]] (3), prompt (2)
 > **Tools:** colab (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -5742,7 +5742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), case, (3), let (2), finally, (2)
+> **Frameworks & Libraries:** data (20), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Google]] (1), next (1)
 > **Env Vars:** gpu (2), tpu (2), ram (2), eda (1), cpu (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** for example (3)
@@ -5782,7 +5782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Data Classification]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -5876,7 +5876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (2), import, (1), finally, (1)
+> **Frameworks & Libraries:** [[MLflow]] (3), data (3), [[Microsoft Azure|Azure]] (3), [[Search]] (3), feature (2)
 > **CLI Commands:** make (2), node (1), apache (1)
 > **Env Vars:** tpe (2), dbfs (1), api (1)
 > **UI Navigation:** toggle (1)
@@ -5965,7 +5965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), interface (1)
+> **Frameworks & Libraries:** [[MLflow]] (4), [[GitHub]] (3), aws (3), api (2), cloud (2)
 > **Env Vars:** aws (3), api (2), dbfs (1), ecr (1)
 > **CLI Commands:** aws (3), curl (1)
 > **Tools:** github (3)
@@ -6063,7 +6063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), import, (1), pub (1), const (1)
+> **Frameworks & Libraries:** data (13), [[Rust (Programming Language)|Rust]] (5), [[Python (Programming Language)|Python]] (2), database (1), feature (1)
 > **CLI Commands:** make (2), python (2), cargo (1)
 > **File Paths:** lib.rs (1), cargo.toml (1), main.rs (1)
 > **Tools:** command line (3)
@@ -6075,7 +6075,7 @@ created: 2026-04-29
 
 ### 9. Using Rust with Cloud SDKs and CLIs for Data Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud developer workspace advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980)
@@ -6156,10 +6156,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), aws (6), [[Engineering]] (5), data (5), [[GitHub]] (4)
 > **Env Vars:** aws (6), ide (3), gcp (2), api (2)
 > **Tools:** github (5), colab (2), jupyter (2), bash (1), powershell (1)
 > **CLI Commands:** aws (6)
-> **Code Keywords:** let (3), case, (1), lambda (1), switch (1)
 > **Definitions:** is a  (2), is called (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -6344,8 +6344,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), cloud (7), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Rust (Programming Language)|Rust]] (5), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** python (12), make (6), cargo (6), git (2), gcloud (2)
-> **Code Keywords:** let (8), pub (1), case, (1), this, (1)
 > **UI Navigation:** go to (8), toggle (1)
 > **Definitions:** is a  (5)
 > **Prerequisites:** install (5)
@@ -6460,7 +6460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), this. (1), new, (1), case, (1)
+> **Frameworks & Libraries:** cloud (4), web (3), [[Rust (Programming Language)|Rust]] (2), [[Prototyping]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** cargo (5), ls (1), curl (1)
 > **UI Navigation:** go to (3), toggle (1)
 > **Definitions:** is a  (4)
@@ -6788,7 +6788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this, (5), delete (2), this. (2), interface (1)
+> **Frameworks & Libraries:** aws (12), data (2), cd (2), [[Powershell]] (2), api (1)
 > **CLI Commands:** aws (12), cat (4), ls (2), cd (2), make (2)
 > **Tools:** bash (11), zsh (5), command line (2), powershell (2), terminal (1)
 > **Env Vars:** aws (9), bash (2), zsh (2), net (2), csv (1)
@@ -7016,7 +7016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (6), this. (5), this, (4), case, (1)
+> **Frameworks & Libraries:** aws (10), data (6), ai (4), [[Microsoft Word|Word]] (4), next (3)
 > **CLI Commands:** aws (10), find (2), sudo (1), yum (1), make (1)
 > **Tools:** bash (6), terminal (2), command line (2)
 > **Env Vars:** text (3), aws (1), api (1)
@@ -7144,8 +7144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (15), [[Programming]] (3), ai (3), [[Python (Programming Language)|Python]] (3), prompt (2)
 > **CLI Commands:** aws (15), make (6), pip (3), python (3), ls (2)
-> **Code Keywords:** let (4), case, (3), lambda (2), interface (1), function (1)
 > **Env Vars:** aws (12), ram (1)
 > **Prerequisites:** set up (3), install (3)
 > **Tools:** command line (2), terminal (2)
@@ -7238,8 +7238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Rust (Programming Language)|Rust]] (4), web (2), application (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** cargo (4), make (3), gcloud (2), python (2), cd (1)
-> **Code Keywords:** let (6), this, (1), throw (1), delete (1), switch (1)
 > **UI Navigation:** go to (3), select the (1)
 > **File Paths:** app.yaml (2), cloudbuild.yaml (1)
 > **Exercise Files:** source code (1)
@@ -7458,7 +7458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (7), this, (3), function (2), public (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), web (3), cd (3), next (2), aws (1)
 > **CLI Commands:** docker (8), cargo (3), cd (3), aws (1), make (1)
 > **Env Vars:** ecr (3), aws (1), api (1), https (1)
 > **UI Navigation:** go to (6)
@@ -7470,7 +7470,7 @@ created: 2026-04-29
 
 ### 10. Getting Started with Rust Data Pipelines (Including ETL)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Jack and the Beanstalk data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980)
@@ -7545,7 +7545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), return, (1)
+> **Frameworks & Libraries:** data (24), next (3), database (1), cloud (1), [[Decision-Making]] (1)
 > **Analogies:** just like (3), similar to (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -7655,7 +7655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Scalability]] (4), [[Data Engineering]] (2), management (2), [[Hadoop]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (2)
@@ -7726,9 +7726,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Data Engineering]] (6), [[Scalability]] (4), database (1), [[Real-Time]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** means that (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
@@ -7931,7 +7931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), lambda (11), function (8), this, (3), struct (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (16), aws (3), [[Debugging]] (3), [[JSON]] (2), next (2)
 > **CLI Commands:** make (10), cargo (4), aws (3)
 > **Env Vars:** aws (3), json (2)
 > **UI Navigation:** go to (3), drag and drop (1)
@@ -8053,7 +8053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (13), async (8), let (8), case, (5), function (3)
+> **Frameworks & Libraries:** aws (7), [[Rust (Programming Language)|Rust]] (4), [[Programming]] (1), power (1), [[GitHub]] (1)
 > **CLI Commands:** aws (7), cargo (4), make (3)
 > **Env Vars:** aws (7), sdk (4), efs (1), emr (1), ebs (1)
 > **Tools:** command line (2), github (1), terminal (1)
@@ -8109,7 +8109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (2), application (1), [[Programming]] (1), [[Google]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -8272,7 +8272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), this, (2), interface (1), case, (1)
+> **Frameworks & Libraries:** cloud (12), [[Rust (Programming Language)|Rust]] (10), application (7), next (4), [[Continuous Delivery (CD)|Continuous delivery]] (3)
 > **CLI Commands:** cargo (6), docker (2), curl (2)
 > **UI Navigation:** go to (6), select the (2)
 > **Tools:** terminal (3), github (2)
@@ -8284,7 +8284,7 @@ created: 2026-04-29
 
 ### 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Hugging Face Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980)
@@ -8385,9 +8385,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (8), application (3), [[Speech Recognition]] (3), data (2), next (2)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case, (1), finally, (1), static (1)
 > **Env Vars:** api (2)
 > **Tools:** github (1), terminal (1)
 > **Analogies:** for example (2)
@@ -8451,7 +8451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[PyTorch]] (5), web (3), [[Programming]] (2), [[TensorFlow]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** gcp (1), ews (1)
 > **Definitions:** is a  (1)
@@ -8595,7 +8595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (4), pass (2), interface (1), pub (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (12), [[Hugging Face]] (6), [[Codespaces]] (3), [[Python (Programming Language)|Python]] (3), [[PyTorch]] (2)
 > **Env Vars:** gpu (14), nlp (1)
 > **Tools:** command line (5), github (1), bash (1), terminal (1)
 > **CLI Commands:** python (3), cargo (2), cd (1), make (1)
@@ -8753,9 +8753,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PyTorch]] (15), [[Rust (Programming Language)|Rust]] (13), aws (7), cd (2), [[CLI]] (2)
 > **Env Vars:** aws (7), gpu (7), readme (2), onnx (1)
 > **CLI Commands:** aws (7), cargo (3), cd (2), python (2), make (1)
-> **Code Keywords:** let (5), lambda (4), this. (2), finally, (2), function (1)
 > **UI Navigation:** go to (8)
 > **Exercise Files:** source code (5), template (1)
 > **Code Identifiers:** microvm (3), microvms (1)
@@ -8937,8 +8937,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Security]] (5), [[MLOps]] (3), [[Rust (Programming Language)|Rust]] (3), [[GitHub]] (2)
 > **Env Vars:** efs (21), onnx (8), aws (7), vpc (4), dns (1)
-> **Code Keywords:** lambda (15), let (9), this. (3), case, (2), finally, (2)
 > **CLI Commands:** aws (7), make (7), cargo (2), cd (1), python (1)
 > **Prerequisites:** set up (14), you'll need (1), install (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -9001,7 +9001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2)
+> **Frameworks & Libraries:** data (9), nlp (2), [[Hugging Face]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** nlp (2)
 > **Analogies:** for example (2)
@@ -9154,7 +9154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (4), function (2), default, (1), type, (1)
+> **Frameworks & Libraries:** next (5), [[Hugging Face]] (4), data (4), [[Hardware]] (2), [[GitHub]] (2)
 > **Env Vars:** gpu (7), cpu (4), v100 (1)
 > **Tools:** colab (6), github (2)
 > **Cross-References:** go back to (3)
@@ -9166,7 +9166,7 @@ created: 2026-04-29
 
 ### 12. Building SQL Solutions with Rust, Generative AI, and Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting the correct database on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980)
@@ -9231,9 +9231,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Databases]] (3), [[SQL]] (2), [[PostgreSQL|Postgres]] (2)
 > **Definitions:** is a  (6)
 > **Env Vars:** sql (3), sla (1), json (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** mysql (1), mongo (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** ios (1)
@@ -9450,7 +9450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (4), pass (1), new, (1), throw (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (22), [[Python (Programming Language)|Python]] (8), [[Hugging Face]] (7), [[MLOps]] (6), database (6)
 > **CLI Commands:** python (8), cargo (4), make (3), cd (1)
 > **Env Vars:** sql (3), nlp (1)
 > **Analogies:** for example (3), just like (1)
@@ -9662,7 +9662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), throw (5), this. (2), this, (1), function (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4), [[SQL]] (2), prompt (2)
 > **Code Identifiers:** country_name (5), top_rising_terms (1)
 > **Env Vars:** sql (2), replace (1), select (1), group (1), count (1)
 > **CLI Commands:** make (5)
@@ -9816,7 +9816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (3), throw (1), this. (1)
+> **Frameworks & Libraries:** data (10), [[Google]] (2), next (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Env Vars:** sns (2), sql (1)
 > **Tools:** colab (3)
@@ -10096,7 +10096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (5), this. (4), public (2), else. (1)
+> **Frameworks & Libraries:** data (23), [[Google]] (5), next (3), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **CLI Commands:** make (4), find (2), node (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** toggle (1), go to (1), click on (1)
@@ -10130,7 +10130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), let (3)
+> **Frameworks & Libraries:** data (8), [[Hugging Face]] (4), [[GitHub]] (1), feature (1), [[Engineering]] (1)
 > **Env Vars:** gpu (2)
 > **Tools:** github (1), jupyter (1)
 > **CLI Commands:** find (1)
@@ -10211,7 +10211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** data (5), [[Google]] (2), feature (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Kubernetes]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** sql (1), api (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -10257,7 +10257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), from. (1)
+> **Frameworks & Libraries:** [[Databases]] (3), database (3), aws (1), [[Statistics]] (1), [[Redis]] (1)
 > **Env Vars:** cto (1), aws (1), rds (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** aws (1)
@@ -10294,7 +10294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Rust (Programming Language)|Rust]] (4), data (3), [[Security]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)

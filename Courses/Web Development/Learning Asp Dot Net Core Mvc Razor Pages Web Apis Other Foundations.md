@@ -30,7 +30,7 @@ tags:
   - skill/asp-net-web-api
   - skill/asp-net-mvc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Asp%20Dot%20Net%20Core%20Mvc%20Razor%20Pages%20Web%20Apis%20Other%20Foundations.md)
@@ -49,63 +49,63 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why you should learn ASP.NET Core
-  - What you need to know
+  - [Why you should learn ASP.NET Core](#why-you-should-learn-aspnet-core)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Getting Started with ASP.NET Core**](#1-getting-started-with-aspnet-core) (5 videos)
-  - Understanding the capabilities of ASP.NET Core
-  - ASP.NET Core development tools
-  - Create and run an ASP.NET Core application
-  - Configuring dependency injection
-  - Using middleware
+  - [Understanding the capabilities of ASP.NET Core](#understanding-the-capabilities-of-aspnet-core)
+  - [ASP.NET Core development tools](#aspnet-core-development-tools)
+  - [Create and run an ASP.NET Core application](#create-and-run-an-aspnet-core-application)
+  - [Configuring dependency injection](#configuring-dependency-injection)
+  - [Using middleware](#using-middleware)
 - [**2. Creating Razor Pages Applications**](#2-creating-razor-pages-applications) (8 videos)
-  - Understanding Razor Pages
-  - Using Razor syntax
-  - Implementing page layouts
-  - Routing to pages
-  - Creating links with tag helpers
-  - Binding to data
-  - Challenge: Create a Razor Pages application
-  - Solution: Create a Razor Pages application
+  - [Understanding Razor Pages](#understanding-razor-pages)
+  - [Using Razor syntax](#using-razor-syntax)
+  - [Implementing page layouts](#implementing-page-layouts)
+  - [Routing to pages](#routing-to-pages)
+  - [Creating links with tag helpers](#creating-links-with-tag-helpers)
+  - [Binding to data](#binding-to-data)
+  - [Challenge: Create a Razor Pages application](#challenge-create-a-razor-pages-application)
+  - [Solution: Create a Razor Pages application](#solution-create-a-razor-pages-application)
 - [**3. Creating MVC Applications**](#3-creating-mvc-applications) (6 videos)
-  - Understanding Model-View-Controller applications
-  - Handling requests with controllers
-  - Working with MVC models
-  - Rendering MVC views
-  - Challenge: Create a MVC application
-  - Solution: Create a MVC application
+  - [Understanding Model-View-Controller applications](#understanding-model-view-controller-applications)
+  - [Handling requests with controllers](#handling-requests-with-controllers)
+  - [Working with MVC models](#working-with-mvc-models)
+  - [Rendering MVC views](#rendering-mvc-views)
+  - [Challenge: Create a MVC application](#challenge-create-a-mvc-application)
+  - [Solution: Create a MVC application](#solution-create-a-mvc-application)
 - [**4. Creating Web APIs**](#4-creating-web-apis) (6 videos)
-  - Understanding controller-based APIs and minimal APIs
-  - Creating controller-based Web APIs
-  - Creating minimal Web APIs
-  - Using Swagger to test Web APIs
-  - Challenge: Create a Web API
-  - Solution: Create a Web API
+  - [Understanding controller-based APIs and minimal APIs](#understanding-controller-based-apis-and-minimal-apis)
+  - [Creating controller-based Web APIs](#creating-controller-based-web-apis)
+  - [Creating minimal Web APIs](#creating-minimal-web-apis)
+  - [Using Swagger to test Web APIs](#using-swagger-to-test-web-apis)
+  - [Challenge: Create a Web API](#challenge-create-a-web-api)
+  - [Solution: Create a Web API](#solution-create-a-web-api)
 - [**5. Creating gRPC APIs**](#5-creating-grpc-apis) (7 videos)
-  - Understanding gRPC APIs
-  - Creating a .proto file
-  - Generating C# assets
-  - Implementing service methods
-  - Calling gRPC services
-  - Challenge: Create a gRPC service
-  - Solution: Create a gRPC service
+  - [Understanding gRPC APIs](#understanding-grpc-apis)
+  - [Creating a .proto file](#creating-a-proto-file)
+  - [Generating C# assets](#generating-c-assets)
+  - [Implementing service methods](#implementing-service-methods)
+  - [Calling gRPC services](#calling-grpc-services)
+  - [Challenge: Create a gRPC service](#challenge-create-a-grpc-service)
+  - [Solution: Create a gRPC service](#solution-create-a-grpc-service)
 - [**6. Creating SignalR Applications**](#6-creating-signalr-applications) (5 videos)
-  - Understanding SignalR applications
-  - Creating a server hub
-  - Creating a JavaScript client
-  - Challenge: Create a SignalR application
-  - Solution: Create a SignalR application
+  - [Understanding SignalR applications](#understanding-signalr-applications)
+  - [Creating a server hub](#creating-a-server-hub)
+  - [Creating a JavaScript client](#creating-a-javascript-client)
+  - [Challenge: Create a SignalR application](#challenge-create-a-signalr-application)
+  - [Solution: Create a SignalR application](#solution-create-a-signalr-application)
 - [**7. Creating Blazor Applications**](#7-creating-blazor-applications) (5 videos)
-  - Understanding Blazor
-  - Developing a Blazor application
-  - Creating a standalone Blazor WebAssembly application
-  - Challenge: Create a Blazor application
-  - Solution: Create a Blazor application
+  - [Understanding Blazor](#understanding-blazor)
+  - [Developing a Blazor application](#developing-a-blazor-application)
+  - [Creating a standalone Blazor WebAssembly application](#creating-a-standalone-blazor-webassembly-application)
+  - [Challenge: Create a Blazor application](#challenge-create-a-blazor-application)
+  - [Solution: Create a Blazor application](#solution-create-a-blazor-application)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps on your learning journey
+  - [Next steps on your learning journey](#next-steps-on-your-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you should learn ASP.NET Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/why-you-should-learn-asp-dot-net-core?u=76281980)
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET Core]] (3), web (2), application (1), next (1), web application (1)
 > **Env Vars:** net (4), asp (3)
 > **URLs:** [asp.net](https://asp.net) (3)
 > **Definitions:** is a  (1)
@@ -160,15 +161,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), web (1), [[ASP.NET Core]] (1)
 > **Env Vars:** html (2), asp (1), net (1)
-> **Code Keywords:** let (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started with ASP.NET Core
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the capabilities of ASP.NET Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980)
@@ -241,10 +242,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET Core]] (13), web (8), [[JavaScript]] (3), [[Programming]] (2), [[ASP.NET]] (2)
 > **Env Vars:** net (19), asp (15), api (2), html (1), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (15)
 > **Definitions:** is a  (2), known as (2), is an  (1)
-> **Code Keywords:** let (2), extends (1)
 > **Code Identifiers:** grpc (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
@@ -321,12 +322,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET Core]] (6), [[Microsoft]] (3), [[Windows]] (2), open-source (1), cross-platform (1)
 > **Env Vars:** net (13), asp (6), sdk (3), cli (1)
 > **URLs:** [asp.net](https://asp.net) (6), [microsoft.com](https://microsoft.com) (1), [visualstudio.com](https://visualstudio.com) (1)
 > **Tools:** visual studio (4), command line (2), vs code (1), terminal (1)
 > **Prerequisites:** install (3), you'll need (1), getting started (1)
 > **CLI Commands:** dotnet (1), find (1)
-> **Code Keywords:** require (1), interface (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** macos (1)
 
@@ -481,9 +482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), web (6), [[CLI]] (4), [[ASP.NET Core]] (4), [[JSON]] (3)
 > **Env Vars:** url (10), net (8), http (6), cli (4), asp (4)
-> **Code Keywords:** let (4), function (4), lambda (2), new
-. (1), class. (1)
 > **Tools:** terminal (5), vs code (3), powershell (1)
 > **CLI Commands:** dotnet (4), make (1)
 > **URLs:** [asp.net](https://asp.net) (4)
@@ -560,8 +560,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4), [[Dependency Injection]] (3), next (2), web application (2), web (1)
 > **Env Vars:** net (5), asp (4), ioc (1), cli (1)
-> **Code Keywords:** interface (2), this, (1), pass (1), delete (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **CLI Commands:** make (2), dotnet (1)
 > **Cross-References:** in the next (1), later in (1)
@@ -692,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[ASP.NET Core]] (4), application (4), [[Microsoft Word|Word]] (2), web (1)
 > **Env Vars:** http (8), asp (4), net (4), url (1), f12 (1)
-> **Code Keywords:** function (7), static (3), pass (2), this. (1), case, (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **UI Navigation:** open the (3)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -704,7 +704,7 @@ created: 2026-04-29
 
 ### 2. Creating Razor Pages Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980)
@@ -799,8 +799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), [[CLI]] (2), web (2), next (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** html (6), net (2), cli (2), asp (1), http (1)
-> **Code Keywords:** let (3), class. (3), self (1), new. (1), this, (1)
 > **Definitions:** is a  (5)
 > **Cross-References:** later in (1), in the next (1)
 > **CLI Commands:** dotnet (1)
@@ -975,7 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), class. (3), static (1), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (5), data (5), [[CLI]] (1)
 > **Non-Speech:** (keys clicking) (19)
 > **Env Vars:** html (5), cli (1)
 > **Cross-References:** in the last (2), go back to (2), coming up (1)
@@ -1155,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), switch (3), override (2)
+> **Frameworks & Libraries:** [[HTML]] (10), [[JavaScript]] (4), [[Privacy]] (3), application (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (10)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (2), open the (1), select the (1), scroll up (1)
@@ -1291,8 +1291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (7), [[ASP.NET Core]] (5), [[Routing]] (5), [[Privacy]] (5), hr (4)
 > **Env Vars:** url (12), http (5), net (2), cli (1)
-> **Code Keywords:** let (5), default, (2), case, (1)
 > **URLs:** [asp.net](https://asp.net) (5)
 > **Cross-References:** go back to (2), previous chapter (1), coming up (1), in the next (1)
 > **CLI Commands:** find (3), make (1)
@@ -1425,7 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), delete (2), let (2)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Engineering]] (6), [[Human Resources (HR)|Human resources]] (5), [[ASP.NET Core]] (4), [[HTML]] (3)
 > **URLs:** [asp.net](https://asp.net) (6)
 > **Env Vars:** html (3), css (1), url (1)
 > **Cross-References:** in the last (2)
@@ -1540,8 +1540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (3), [[ASP.NET Core]] (2), web application (1), hr (1)
 > **Env Vars:** url (7), asp (2), net (2), http (1)
-> **Code Keywords:** let (3), class. (1), switch (1)
 > **Exercise Files:** template (4)
 > **Analogies:** imagine (1), just like (1), similar to (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -1586,7 +1586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), async (1)
+> **Frameworks & Libraries:** next (3), [[CLI]] (1), application (1)
 > **Env Vars:** net (1), cli (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
@@ -1690,8 +1690,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (2), next (2), web (1), [[Programming]] (1), [[HTML]] (1)
 > **Tools:** terminal (3), vs code (3)
-> **Code Keywords:** public (1), class, (1), async (1), class. (1), continue (1)
 > **UI Navigation:** open the (3), go to (1), scroll down (1)
 > **Env Vars:** cli (2), html (1), cshtml (1)
 > **CLI Commands:** dotnet (2), make (1)
@@ -1702,7 +1702,7 @@ created: 2026-04-29
 
 ### 3. Creating MVC Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Model-View-Controller applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980)
@@ -1799,10 +1799,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (4), business (3), web (1), [[Routing]] (1)
 > **Env Vars:** mvc (13), http (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (1), find (1), dotnet (1)
-> **Code Keywords:** interface (1), let (1), switch (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** known as (1), stands for (1)
 > **Tools:** vs code (1)
@@ -1943,7 +1943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), abstract (2), class. (1), pass (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), data (4), [[Routing]] (2), application (2), [[Search]] (2)
 > **Env Vars:** http (4), url (4), mvc (2), asp (1), net (1)
 > **Exercise Files:** template (12)
 > **Definitions:** is a  (4), is an  (2), known as (1)
@@ -1999,8 +1999,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (2), database (1), web (1), next (1)
 > **Env Vars:** mvc (2), app (1), explorer (1)
-> **Code Keywords:** class. (1), public (1), pass (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** right-click (1)
@@ -2108,8 +2108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (9), [[ASP.NET Core]] (2), [[Software Projects]] (2), data (1), [[CLI]] (1)
 > **Env Vars:** mvc (5), net (3), asp (2), url (2), cli (1)
-> **Code Keywords:** let (2), pass (1), class. (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Cross-References:** previous chapter (1), in the next (1)
@@ -2145,8 +2145,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (3), application (2), data (2), next (1)
 > **Env Vars:** cli (3), mvc (2), net (2), http (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -2293,7 +2293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), public (2), class, (2), class. (1)
+> **Frameworks & Libraries:** web (3), [[CLI]] (2), application (1), data (1), database (1)
 > **Env Vars:** mvc (3), asp (3), cli (1), html (1), url (1)
 > **CLI Commands:** dotnet (5), find (1), make (1)
 > **Tools:** terminal (2), vs code (1)
@@ -2305,7 +2305,7 @@ created: 2026-04-29
 
 ### 4. Creating Web APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding controller-based APIs and minimal APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980)
@@ -2352,9 +2352,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), data (5), api (5), [[ASP.NET Core]] (2), application (2)
 > **Env Vars:** api (5), http (4), asp (2), net (2), json (2)
 > **CLI Commands:** make (1), find (1), node (1)
-> **Code Keywords:** lambda (1), let (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Definitions:** stands for (1), is an  (1)
 > **File Paths:** node.js (1)
@@ -2528,8 +2528,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (18), web (7), [[Routing]] (4), data (3), [[JSON]] (2)
 > **Env Vars:** api (14), mvc (8), url (7), http (5), json (2)
-> **Code Keywords:** let (5), class. (3), private (1), override (1), pass (1)
 > **Exercise Files:** template (10)
 > **CLI Commands:** dotnet (4), make (1)
 > **Definitions:** is a  (3), known as (1), is an  (1)
@@ -2666,8 +2666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), web (3), web application (2), next (2), [[JSON]] (2)
 > **Env Vars:** api (12), url (8), net (2), http (2), json (2)
-> **Code Keywords:** lambda (6), let (5), function (2), default, (1), static (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the next (1), in the last (1), as you saw (1)
 > **Exercise Files:** template (3)
@@ -2774,8 +2774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), web (6), [[JSON]] (4), data (2), [[ASP.NET Core]] (1)
 > **Env Vars:** api (6), http (4), url (3), json (3), asp (1)
-> **Code Keywords:** let (3), default, (1), require (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1), dotnet (1), find (1), curl (1)
 > **Documentation:** specification (3)
@@ -2822,8 +2822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), data (4), web (2), next (2), [[Search]] (2)
 > **Env Vars:** api (5), url (2), net (1), cli (1)
-> **Code Keywords:** type. (1), finally, (1)
 > **Exercise Files:** template (1), sample code (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2958,8 +2958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (11), api (9), data (5), web (3), [[JSON]] (2)
 > **Env Vars:** api (7), url (5), json (2), cli (1), grpc (1)
-> **Code Keywords:** lambda (3), let (2), switch (1), delete (1), class, (1)
 > **CLI Commands:** make (5), dotnet (2)
 > **UI Navigation:** switch to (1), open the (1), click on (1), scroll down (1)
 > **API Endpoints:** /api/books/list (1), /api/books/authorsearch (1)
@@ -2970,7 +2970,7 @@ created: 2026-04-29
 
 ### 5. Creating gRPC APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding gRPC APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980)
@@ -3037,9 +3037,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Protocol Buffers]] (2), data (2), api (1), [[Google]] (1)
 > **Code Identifiers:** grpc (12)
 > **Definitions:** is a  (4), means that (1)
-> **Code Keywords:** let (2), default, (1), return. (1)
 > **Env Vars:** api (1), net (1), cli (1), http (1)
 > **Cross-References:** previous chapter (2), in the next (1)
 > **Exercise Files:** template (2), starter code (1)
@@ -3147,7 +3147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), default, (1), type. (1), for. (1)
+> **Frameworks & Libraries:** [[Protocol Buffers|Protobuf]] (4), data (3), next (2), [[Protocol Buffers|Proto3]] (1), [[Programming]] (1)
 > **Env Vars:** rpc (3), grpc (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -3225,8 +3225,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), next (2), [[ASP.NET Core]] (1)
 > **Env Vars:** grpc (5), asp (1), net (1), f12 (1)
-> **Code Keywords:** abstract (2), class. (2), implements (1)
 > **Tools:** vs code (2), terminal (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** dotnet (1)
@@ -3319,7 +3319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (5), override (3), class. (2), throw (1), delete (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), next (1)
 > **Env Vars:** grpc (7), asp (2), net (2), f12 (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -3446,10 +3446,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (2), next (2), [[Protocol Buffers|Protobuf]] (2), [[Programming]] (1), application (1)
 > **Env Vars:** grpc (11), cli (2)
 > **CLI Commands:** dotnet (5), make (4)
 > **Tools:** vs code (5), terminal (3)
-> **Code Keywords:** let (2), delete (1)
 > **File Paths:** settings.json (1)
 > **Code Identifiers:** grpc_client (1)
 > **URLs:** [grpc.net](https://grpc.net) (1)
@@ -3484,10 +3484,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET Core]] (1), data (1), [[CLI]] (1), next (1)
 > **Env Vars:** net (2), asp (1), cli (1)
 > **Code Identifiers:** grpc (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -3622,8 +3622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[CLI]] (1), [[Protocol Buffers|Proto3]] (1), database (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** grpc (5), net (2), cli (1), rpc (1), obj (1)
-> **Code Keywords:** abstract (3), class. (3), finally, (1), override (1), delete (1)
 > **CLI Commands:** dotnet (2), make (2), python (1)
 > **Tools:** terminal (2), vs code (1)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -3634,7 +3634,7 @@ created: 2026-04-29
 
 ### 6. Creating SignalR Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding SignalR applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980)
@@ -3671,6 +3671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[WebSocket|Websockets]] (3), web (2), [[ASP.NET Core]] (2), feature (2)
 > **Env Vars:** asp (2), net (2)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Cross-References:** in the next (1)
@@ -3747,7 +3748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), pass (2), async (1), class, (1), interface (1)
+> **Frameworks & Libraries:** next (3), [[ASP.NET Core]] (2), application (2), feature (1), [[Microsoft]] (1)
 > **Env Vars:** asp (2), net (2)
 > **Cross-References:** in the next (3), earlier in (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -3915,7 +3916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), function (3), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), node (3), [[npm]] (2), [[Microsoft]] (2), application (2)
 > **CLI Commands:** node (3), npm (2), make (2)
 > **Env Vars:** html (1), npm (1), url (1)
 > **Prerequisites:** install (3)
@@ -3959,8 +3960,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (2), [[Real-Time]] (1), [[JavaScript]] (1), [[npm]] (1)
 > **CLI Commands:** make (1), npm (1)
-> **Code Keywords:** class. (1), finally, (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **Env Vars:** npm (1)
 > **Cross-References:** in the next (1)
@@ -4111,7 +4112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), interface (2), function (2), class. (1), async (1)
+> **Frameworks & Libraries:** data (5), [[JavaScript]] (3), [[Microsoft]] (2), [[npm]] (2), node (2)
 > **CLI Commands:** npm (2), node (2), dotnet (1), find (1)
 > **Code Identifiers:** largesales (2), saleamount (1), withurl (1), getelementbyid (1), addeventlistener (1)
 > **File Paths:** site.js (2), wwroot.js (1)
@@ -4123,7 +4124,7 @@ created: 2026-04-29
 
 ### 7. Creating Blazor Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Blazor
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980)
@@ -4240,7 +4241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (2), self (1), interface (1), require (1)
+> **Frameworks & Libraries:** web (11), application (4), [[ASP.NET Core]] (4), [[HTML]] (3), [[Programming]] (1)
 > **Env Vars:** net (4), html (3), mvc (1)
 > **Exercise Files:** template (4), download the (1)
 > **CLI Commands:** dotnet (3), find (1)
@@ -4412,7 +4413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (1), function (1), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), generic (2), next (2), web (2), [[ASP.NET Core]] (1)
 > **Env Vars:** html (3), css (1), net (1), cli (1)
 > **UI Navigation:** open the (3), navigate to (1), click on (1), go to (1)
 > **Definitions:** is a  (2), known as (1), defined as (1)
@@ -4518,7 +4519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), implements (1)
+> **Frameworks & Libraries:** web (7), [[HTML]] (6), application (2), web application (2), [[Routing]] (1)
 > **Env Vars:** html (5)
 > **UI Navigation:** open the (2), click on (1), go to (1)
 > **Definitions:** short for (1), is a  (1)
@@ -4548,8 +4549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (2), application (2), next (2), full-stack (1)
 > **Env Vars:** net (2), cli (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -4622,10 +4623,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[CLI]] (1), [[HTML]] (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (3), click on (1)
 > **Exercise Files:** template (4)
 > **Env Vars:** net (1), cli (1), html (1)
-> **Code Keywords:** pass (1), let (1)
 > **CLI Commands:** dotnet (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
@@ -4634,7 +4635,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980)
@@ -4665,8 +4666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1), [[ASP.NET Core]] (1)
 > **Env Vars:** asp (1), net (1)
-> **Code Keywords:** continue (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - congratulations (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/data-architecture
   - skill/mesh
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Mesh%20Architecture-%20Core%20Concepts.md)
@@ -49,26 +49,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - What is data mesh?
-  - Why data mesh?
-  - The data mesh architecture pattern
-  - An intro to data decentralization
+  - [What is data mesh?](#what-is-data-mesh)
+  - [Why data mesh?](#why-data-mesh)
+  - [The data mesh architecture pattern](#the-data-mesh-architecture-pattern)
+  - [An intro to data decentralization](#an-intro-to-data-decentralization)
 - [**1. The Four Pillars of Data Mesh**](#1-the-four-pillars-of-data-mesh) (4 videos)
-  - An intro to data domains
-  - Managing data as a product
-  - Self-service access in the data mesh
-  - Federated data governance in action
+  - [An intro to data domains](#an-intro-to-data-domains)
+  - [Managing data as a product](#managing-data-as-a-product)
+  - [Self-service access in the data mesh](#self-service-access-in-the-data-mesh)
+  - [Federated data governance in action](#federated-data-governance-in-action)
 - [**2. Designing Your First Data Mesh Architecture**](#2-designing-your-first-data-mesh-architecture) (4 videos)
-  - Choose your data domains
-  - Classify your sub-domains
-  - Select stewards to serve as product owners
-  - Write your own federated standards
+  - [Choose your data domains](#choose-your-data-domains)
+  - [Classify your sub-domains](#classify-your-sub-domains)
+  - [Select stewards to serve as product owners](#select-stewards-to-serve-as-product-owners)
+  - [Write your own federated standards](#write-your-own-federated-standards)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Investment in your future
+  - [Investment in your future](#investment-in-your-future)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data mesh?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980)
@@ -93,8 +93,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Mesh]] (3), product (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
@@ -155,7 +155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1), type. (1), let (1)
+> **Frameworks & Libraries:** data (30), [[Mesh]] (6), product (4), ai (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - tech (1)
 
@@ -214,9 +214,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Mesh]] (5), business (5), product (2), next (2)
 > **Env Vars:** cmo (5), seo (1), aka (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** type, (1), finally, (1), let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -265,16 +265,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Mesh]] (5), business (2), teams (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cmo (1)
 > **Speakers:** - data (1)
 
 
 ### 1. The Four Pillars of Data Mesh
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An intro to data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980)
@@ -329,8 +329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Mesh]] (5), business (4), hr (2), product (2)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (1), from. (1)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
@@ -376,8 +376,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), product (5), [[Mesh]] (4), business (3), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -422,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1)
+> **Frameworks & Libraries:** data (20), [[Microsoft Products|Products]] (10), [[Mesh]] (6), [[Dashboards]] (2), teams (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - self (1)
 
@@ -485,8 +485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (43), [[Mesh]] (10), [[Microsoft Products|Products]] (6), product (4), teams (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), self (1)
 > **Env Vars:** cdo (1), pii (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
@@ -495,7 +495,7 @@ created: 2026-04-29
 
 ### 2. Designing Your First Data Mesh Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose your data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980)
@@ -540,6 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Mesh]] (4), business (4), next (2), hr (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - the (1)
@@ -629,8 +630,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Mesh]] (5), [[Search]] (2), business (2), next (2)
 > **CLI Commands:** find (5), make (2)
-> **Code Keywords:** public (1), let (1), case, (1), interface (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
@@ -708,9 +709,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (34), [[Microsoft Products|Products]] (5), business (5), [[Mesh]] (4), next (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** csv (1), api (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - data (1)
 
 #### Write your own federated standards
@@ -790,7 +791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (36), [[Mesh]] (10), [[Microsoft Products|Products]] (5), business (3), next (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** aka (1)
 > **Analogies:** just like (1)
@@ -799,7 +800,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Investment in your future
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980)
@@ -830,8 +831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Mesh]] (5), ai (3), teams (1), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - thanks (1)

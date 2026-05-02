@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Extreme%20Programming.md)
@@ -51,35 +51,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Be more productive, with higher quality
+  - [Be more productive, with higher quality](#be-more-productive-with-higher-quality)
 - [**1. Extreme Programming (XP)**](#1-extreme-programming-xp) (4 videos)
-  - History of extreme programming (XP)
-  - Extreme programming (XP) overview
-  - Extreme programming (XP) themes
-  - Extreme programming (XP) values
+  - [History of extreme programming (XP)](#history-of-extreme-programming-xp)
+  - [Extreme programming (XP) overview](#extreme-programming-xp-overview)
+  - [Extreme programming (XP) themes](#extreme-programming-xp-themes)
+  - [Extreme programming (XP) values](#extreme-programming-xp-values)
 - [**2. Feedback Loops**](#2-feedback-loops) (7 videos)
-  - Feedback scales
-  - User stories
-  - Quarterly planning
-  - Iteration planning
-  - Standup meetings
-  - Test-driven development
-  - Pair programming
+  - [Feedback scales](#feedback-scales)
+  - [User stories](#user-stories)
+  - [Quarterly planning](#quarterly-planning)
+  - [Iteration planning](#iteration-planning)
+  - [Standup meetings](#standup-meetings)
+  - [Test-driven development](#test-driven-development)
+  - [Pair programming](#pair-programming)
 - [**3. Continuous Process**](#3-continuous-process) (4 videos)
-  - If it's good, do it all the time
-  - Design improvement: Refactoring
-  - Continuous integration
-  - Small releases
+  - [If it's good, do it all the time](#if-its-good-do-it-all-the-time)
+  - [Design improvement: Refactoring](#design-improvement-refactoring)
+  - [Continuous integration](#continuous-integration)
+  - [Small releases](#small-releases)
 - [**4. The Extreme Programming (XP) Mindset**](#4-the-extreme-programming-xp-mindset) (3 videos)
-  - Programmer welfare and sustainable pace
-  - Code standards and collective code ownership
-  - System metaphor and simple design
+  - [Programmer welfare and sustainable pace](#programmer-welfare-and-sustainable-pace)
+  - [Code standards and collective code ownership](#code-standards-and-collective-code-ownership)
+  - [System metaphor and simple design](#system-metaphor-and-simple-design)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be more productive, with higher quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980)
@@ -108,13 +108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), teams (2), business (1), [[Test-Driven Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - agility (1)
 
 
 ### 1. Extreme Programming (XP)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### History of extreme programming (XP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980)
@@ -203,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Programming]] (10), [[Scrum]] (8), teams (5), [[Continuous Integration (CI)|Continuous integration]] (4), [[Test-Driven Development]] (3)
 > **Definitions:** we call this (2), is a  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
@@ -271,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Microsoft Products|Products]] (3), [[Programming]] (2), [[Software Development]] (2), [[Agile Software Development]] (2)
 > **Definitions:** is a  (4), known as (1), is an  (1)
-> **Code Keywords:** interface (2), finally, (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -339,8 +340,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Code Review]] (3), [[Programming]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** this, (1), from, (1), let (1), pass (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -465,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), pass (1), for. (1), let (1), continue (1)
+> **Frameworks & Libraries:** product (6), [[Programming]] (3), teams (3), feature (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -473,7 +474,7 @@ created: 2026-04-29
 
 ### 2. Feedback Loops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Feedback scales
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980)
@@ -532,9 +533,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), next (3), product (2), teams (1), [[Unit Testing]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -646,9 +647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (2), next (1), feature (1), product (1)
 > **CLI Commands:** make (2), find (2)
 > **Exercise Files:** template (4)
-> **Code Keywords:** for. (1), finally, (1), this. (1)
 > **Analogies:** imagine (2), similar to (1)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** select the (1)
@@ -731,8 +732,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), business (4), next (2), product (2), [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** continue (1), this: (1), finally, (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -849,10 +850,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Scrum]] (2), teams (2), product (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2), in the last (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Standup meetings
@@ -940,9 +941,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Scrum]] (4), teams (1), product (1), [[Programming]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the last (1), in the next (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1066,8 +1067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (10), [[Programming]] (4), teams (2), product (1), next (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** finally, (2), pass (1)
 > **Env Vars:** tdd (2)
 > **Definitions:** is an  (2)
 > **Analogies:** kind of like (1)
@@ -1204,7 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (16), [[Code Review]] (3), teams (3), product (2), business (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
@@ -1213,7 +1214,7 @@ created: 2026-04-29
 
 ### 3. Continuous Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### If it's good, do it all the time
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980)
@@ -1340,8 +1341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (6), product (4), [[Programming]] (3), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2)
 > **CLI Commands:** make (5), find (4)
-> **Code Keywords:** let (1), pass (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1465,8 +1466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Test-Driven Development]] (2), [[Microsoft Office|Office]] (1), [[Algorithms]] (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** pass (1), class, (1)
 > **Definitions:** is a  (2)
 > **Tools:** intellij (1)
 > **Prerequisites:** you need to have (1)
@@ -1579,7 +1580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), this, (1), private (1), finally, (1)
+> **Frameworks & Libraries:** ci (17), product (5), [[Continuous Integration (CI)|Continuous integration]] (3), management (1), teams (1)
 > **CLI Commands:** make (3), find (1), git (1)
 > **Env Vars:** led (1)
 > **Prerequisites:** set up (1)
@@ -1696,16 +1697,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Continuous Delivery (CD)|Continuous delivery]] (4), cd (3), teams (2), [[Continuous Integration (CI)|Continuous integration]] (2)
 > **CLI Commands:** cd (3), make (2), find (2)
 > **Definitions:** is a  (4)
-> **Code Keywords:** for, (1), extends (1), finally, (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. The Extreme Programming (XP) Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Programmer welfare and sustainable pace
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980)
@@ -1824,8 +1825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Programming]] (4), product (1), [[Microsoft Products|Products]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (1), break, (1), finally, (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -1928,8 +1929,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Java]] (3), next (1), [[Continuous Integration (CI)|Continuous integration]] (1), open-source (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** function (1), module (1), let (1)
 > **Analogies:** for example (3)
 > **Env Vars:** ide (1)
 > **Cross-References:** go back to (1)
@@ -2040,17 +2041,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Continuous Integration (CI)|Continuous integration]] (2), [[Test-Driven Development]] (2), [[Agile Development|Agile]] (1), [[Software Development]] (1)
 > **Code Identifiers:** ebay (1), selectteacher (1), purchaselesson (1), attendlesson (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** module (1)
 > **Env Vars:** tdd (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980)
@@ -2081,6 +2082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (7), next (1), [[Agile Development|Agile]] (1), [[Agile Software Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** tdd (2)
 > **Speakers:** - now (1)
 

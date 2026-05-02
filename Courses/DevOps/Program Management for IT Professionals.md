@@ -31,7 +31,7 @@ tags:
   - skill/it-project-program-management
   - skill/program-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Program%20Management%20for%20IT%20Professionals.md)
@@ -50,49 +50,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Program management at a high level
-  - What you should already know
+  - [Program management at a high level](#program-management-at-a-high-level)
+  - [What you should already know](#what-you-should-already-know)
 - [**1. Program Management Overview**](#1-program-management-overview) (4 videos)
-  - What is program management?
-  - What is the role of a program manager?
-  - What skills and traits should program managers possess?
-  - Careers in program management
+  - [What is program management?](#what-is-program-management)
+  - [What is the role of a program manager?](#what-is-the-role-of-a-program-manager)
+  - [What skills and traits should program managers possess?](#what-skills-and-traits-should-program-managers-possess)
+  - [Careers in program management](#careers-in-program-management)
 - [**2. Program Concept Development**](#2-program-concept-development) (5 videos)
-  - Developing your program concept
-  - Building a business case
-  - Creating a program charter
-  - What about a program slide deck?
-  - Putting it all together: Program concept development
+  - [Developing your program concept](#developing-your-program-concept)
+  - [Building a business case](#building-a-business-case)
+  - [Creating a program charter](#creating-a-program-charter)
+  - [What about a program slide deck?](#what-about-a-program-slide-deck)
+  - [Putting it all together: Program concept development](#putting-it-all-together-program-concept-development)
 - [**3. Program Planning**](#3-program-planning) (10 videos)
-  - Making your program the top priority
-  - Monitoring progress using key performance metrics
-  - Selecting methodologies
-  - Setting program standards
-  - Identifying and managing stakeholders
-  - Building and managing a team of teams
-  - Managing the RACI matrix and reporting structures
-  - Managing scope, schedule, and budget changes
-  - Managing risks and issues
-  - Putting it all together: Program planning
+  - [Making your program the top priority](#making-your-program-the-top-priority)
+  - [Monitoring progress using key performance metrics](#monitoring-progress-using-key-performance-metrics)
+  - [Selecting methodologies](#selecting-methodologies)
+  - [Setting program standards](#setting-program-standards)
+  - [Identifying and managing stakeholders](#identifying-and-managing-stakeholders)
+  - [Building and managing a team of teams](#building-and-managing-a-team-of-teams)
+  - [Managing the RACI matrix and reporting structures](#managing-the-raci-matrix-and-reporting-structures)
+  - [Managing scope, schedule, and budget changes](#managing-scope-schedule-and-budget-changes)
+  - [Managing risks and issues](#managing-risks-and-issues)
+  - [Putting it all together: Program planning](#putting-it-all-together-program-planning)
 - [**4. Program Execution and Control**](#4-program-execution-and-control) (5 videos)
-  - Kicking off your program
-  - Dashboards and reports
-  - Managing interdependencies
-  - Providing leadership to your teams
-  - Putting it all together: Program execution and control
+  - [Kicking off your program](#kicking-off-your-program)
+  - [Dashboards and reports](#dashboards-and-reports)
+  - [Managing interdependencies](#managing-interdependencies)
+  - [Providing leadership to your teams](#providing-leadership-to-your-teams)
+  - [Putting it all together: Program execution and control](#putting-it-all-together-program-execution-and-control)
 - [**5. Program Closure**](#5-program-closure) (6 videos)
-  - Closing your program
-  - Capturing lessons learned
-  - Project closures
-  - Implementing continuous improvement
-  - Finalizing your program
-  - Putting it all together: Program closure
+  - [Closing your program](#closing-your-program)
+  - [Capturing lessons learned](#capturing-lessons-learned)
+  - [Project closures](#project-closures)
+  - [Implementing continuous improvement](#implementing-continuous-improvement)
+  - [Finalizing your program](#finalizing-your-program)
+  - [Putting it all together: Program closure](#putting-it-all-together-program-closure)
 - [**Conculsion**](#conculsion) (1 videos)
-  - Open to change
+  - [Open to change](#open-to-change)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Program management at a high level
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/program-management-at-a-high-level?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), hit (1), business (1)
 > **Analogies:** picture (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 
 #### What you should already know
@@ -144,14 +144,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** management (3)
 > **Env Vars:** pmi (1)
 > **Speakers:** - the (1)
 
 
 ### 1. Program Management Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is program management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980)
@@ -214,7 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), while, (1)
+> **Frameworks & Libraries:** management (7), data (3), [[Microsoft Products|Products]] (1), teams (1)
 > **Env Vars:** erp (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -275,6 +275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), business (2), next (2), leadership (1), [[Organizational Change Management]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ocm (1), erp (1)
 > **Cross-References:** in the next (2)
@@ -364,9 +365,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), management (2), leadership (2), [[Agile Development|Agile]] (1), [[Scrum]] (1)
 > **Analogies:** picture (2), such as (1), for example (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), self (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
@@ -446,16 +447,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), career (4), leadership (2), next (2), [[Software Development]] (1)
 > **Env Vars:** pmp (2), ccmp (2)
 > **Analogies:** such as (2), picture (1), think of it as (1)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
 
 ### 2. Program Concept Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing your program concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980)
@@ -528,8 +529,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), leadership (1), business (1), next (1), data (1)
 > **Analogies:** picture (1), such as (1), for instance (1)
-> **Code Keywords:** require (1), finally, (1)
 > **Env Vars:** pmi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - programs (1)
@@ -599,8 +600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (3), data (1), [[Digital Transformation]] (1), cloud (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
-> **Code Keywords:** case. (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** don't forget (1)
@@ -686,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), finally, (1)
+> **Frameworks & Libraries:** business (2), next (2), data (1), teams (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -745,9 +746,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), data (1)
 > **Analogies:** for example (1), kind of like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new, (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - a (1)
 
@@ -832,6 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), teams (3), [[Analytics]] (2), cloud (2), business (2)
 > **Env Vars:** erp (2), crm (2), cio (1)
 > **Analogies:** for example (1), for instance (1), such as (1), picture (1)
 > **Speakers:** - in (1)
@@ -839,7 +841,7 @@ created: 2026-04-29
 
 ### 3. Program Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your program the top priority
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980)
@@ -930,10 +932,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), leadership (1), [[Organizational Change Management]] (1), teams (1), power (1)
 > **Env Vars:** roi (2)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1002,6 +1004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Hardware]] (1), [[Dashboards]] (1), [[Automation]] (1), next (1)
 > **Env Vars:** kpi (3)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is a  (1)
@@ -1062,7 +1065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), finally, (1)
+> **Frameworks & Libraries:** teams (4), [[Scrum]] (2), [[Agile Development|Agile]] (1), [[ITIL]] (1), [[DevOps]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** itil (1)
@@ -1122,9 +1125,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), teams (1)
 > **Analogies:** such as (2), for example (2), it's like (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** else, (1)
 > **Ports:** :00 (1)
 > **Speakers:** - one (1)
 
@@ -1187,7 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** management (5), teams (1), [[Microsoft Word|Word]] (1), [[Accountability]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** roi (1)
@@ -1258,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), yield (1), let (1)
+> **Frameworks & Libraries:** teams (13), [[Agile Development|Agile]] (3), management (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** pmo (1)
 > **Speakers:** - programs (1)
@@ -1328,8 +1331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Interviewing]] (1), cloud (1), next (1)
 > **Env Vars:** raci (8)
-> **Code Keywords:** let (1), new. (1), finally, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
@@ -1408,7 +1411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), this. (1)
+> **Frameworks & Libraries:** management (2), data (1), [[Dashboards]] (1), teams (1), [[Accountability]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you'll need (1)
@@ -1497,9 +1500,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), management (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), next (1)
 > **Env Vars:** raid (8), roam (2), raci (1)
 > **Definitions:** stands for (2), is a  (2), is called (1)
-> **Code Keywords:** let (1), require (1), static (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - just (1)
@@ -1565,6 +1568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Databases]] (2), leadership (2), [[Agile Development|Agile]] (2), cloud (1)
 > **Env Vars:** raci (2), cio (1), roi (1), raid (1), roam (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - now (1)
@@ -1572,7 +1576,7 @@ created: 2026-04-29
 
 ### 4. Program Execution and Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kicking off your program
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980)
@@ -1621,8 +1625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), leadership (1), [[Dashboards]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1686,6 +1690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Dashboards]] (6), teams (2), next (2), management (2)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1)
@@ -1776,10 +1781,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (7), data (2), [[Forms]] (1), [[Jira]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1), best practice (1)
 > **Warnings:** warning (2)
-> **Code Keywords:** raise (1)
 > **Env Vars:** raid (1)
 > **Cross-References:** earlier in (1)
 > **Tools:** jira (1)
@@ -1834,7 +1839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** teams (3), leadership (3), [[Accountability]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
@@ -1917,15 +1922,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (9), leadership (4), next (4), data (2), management (1)
 > **Env Vars:** cio (1), raid (1), api (1)
-> **Code Keywords:** let (1), static (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - let (1)
 
 
 ### 5. Program Closure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Closing your program
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/closing-your-program?u=76281980)
@@ -1958,6 +1963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - closing (1)
 
@@ -2008,9 +2014,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), management (3), [[Stakeholder Engagement]] (1), teams (1), game (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (2)
-> **Code Keywords:** private (1)
 > **Definitions:** in other words (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - just (1)
@@ -2052,7 +2058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), module (1), continue (1)
+> **Frameworks & Libraries:** leadership (1), [[Statistics]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - as (1)
@@ -2104,10 +2110,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Automation]] (2), teams (1), [[Microsoft Office|Office]] (1), leadership (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - now (1)
 
 #### Finalizing your program
@@ -2159,8 +2165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Sustainability]] (1), [[Organizational Change Management]] (1), [[Statistics]] (1), [[Stakeholder Engagement]] (1)
 > **Env Vars:** ocm (4)
-> **Code Keywords:** continue (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - once (1)
@@ -2216,15 +2222,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), management (4), [[Stakeholder Engagement]] (2), next (2), [[Agile Development|Agile]] (1)
 > **Env Vars:** cio (1), ocm (1), pmo (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
 
 ### Conculsion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Open to change
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980)
@@ -2261,6 +2267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), [[LinkedIn]] (3), next (2)
 > **URLs:** [deltatechnology.net](https://deltatechnology.net) (1)
 > **Speakers:** - congratulations (1)
 

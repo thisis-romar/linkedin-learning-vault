@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Building%20Monorepos%20On%20Github.md)
@@ -45,38 +45,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Managing code in monorepos
-  - What is a monorepo, and why should you use one?
-  - Using GitHub Codespaces with this course
+  - [Managing code in monorepos](#managing-code-in-monorepos)
+  - [What is a monorepo, and why should you use one?](#what-is-a-monorepo-and-why-should-you-use-one)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Creating and Building Monorepos**](#1-creating-and-building-monorepos) (7 videos)
-  - Creating your first monorepo
-  - Setting up config files
-  - Adding a new project
-  - Running commands
-  - Building your monorepo
-  - Monorepo Git hooks
-  - Installing shared components
+  - [Creating your first monorepo](#creating-your-first-monorepo)
+  - [Setting up config files](#setting-up-config-files)
+  - [Adding a new project](#adding-a-new-project)
+  - [Running commands](#running-commands)
+  - [Building your monorepo](#building-your-monorepo)
+  - [Monorepo Git hooks](#monorepo-git-hooks)
+  - [Installing shared components](#installing-shared-components)
 - [**2. Tools to Manage Your Monorepos**](#2-tools-to-manage-your-monorepos) (4 videos)
-  - How to migrate projects to your monorepo
-  - Running custom commands on your monorepo
-  - Dependabot pull requests
-  - Other tools to manage monorepos
+  - [How to migrate projects to your monorepo](#how-to-migrate-projects-to-your-monorepo)
+  - [Running custom commands on your monorepo](#running-custom-commands-on-your-monorepo)
+  - [Dependabot pull requests](#dependabot-pull-requests)
+  - [Other tools to manage monorepos](#other-tools-to-manage-monorepos)
 - [**3. GitHub Actions for Monorepos**](#3-github-actions-for-monorepos) (6 videos)
-  - Getting familiar with GitHub Actions
-  - Creating the perfect workflow for your monorepo
-  - Creating workflows for your apps
-  - Using multiple workflows for your apps
-  - Building and deploying monorepos with Netlify
-  - Deploying monorepos with GitHub actions
+  - [Getting familiar with GitHub Actions](#getting-familiar-with-github-actions)
+  - [Creating the perfect workflow for your monorepo](#creating-the-perfect-workflow-for-your-monorepo)
+  - [Creating workflows for your apps](#creating-workflows-for-your-apps)
+  - [Using multiple workflows for your apps](#using-multiple-workflows-for-your-apps)
+  - [Building and deploying monorepos with Netlify](#building-and-deploying-monorepos-with-netlify)
+  - [Deploying monorepos with GitHub actions](#deploying-monorepos-with-github-actions)
 - [**4. Best Practices**](#4-best-practices) (2 videos)
-  - How to design your monorepo
-  - Architectural governance in your monorepo
+  - [How to design your monorepo](#how-to-design-your-monorepo)
+  - [Architectural governance in your monorepo](#architectural-governance-in-your-monorepo)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing code in monorepos
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/managing-code-in-monorepos?u=76281980)
@@ -93,6 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **Speakers:** - [instructor] (1)
 
 #### What is a monorepo, and why should you use one?
@@ -176,7 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), finally, (2), let (1)
+> **Frameworks & Libraries:** teams (5), [[Programming]] (2), [[Version Control]] (2), api (1), [[Java]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** before we start (1), required to (1)
@@ -322,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (2), go to (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -334,7 +335,7 @@ created: 2026-04-29
 
 ### 1. Creating and Building Monorepos
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980)
@@ -391,10 +392,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), node (3), [[GitHub]] (2), hit (2), [[npm]] (1)
 > **CLI Commands:** git (4), node (3), find (2), make (1), npm (1)
 > **Tools:** terminal (3), github (2), visual studio (1)
 > **Prerequisites:** install (4), make sure you have (1)
-> **Code Keywords:** let (2), case, (1)
 > **File Paths:** rush.json (1)
 > **URLs:** [rush.io](https://rush.io) (1)
 > **Env Vars:** url (1)
@@ -429,6 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (6), node (4)
 > **CLI Commands:** node (4), make (2)
 > **Env Vars:** json (3), jsonc (1), pmpm (1)
 > **File Paths:** rush.json (3)
@@ -506,8 +508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (2), hit (2), cd (1), [[React.js|React]] (1)
 > **CLI Commands:** find (3), npm (2), make (2), cd (1)
-> **Code Keywords:** let (6), case, (1)
 > **UI Navigation:** select the (2), open the (2), go to (1)
 > **Prerequisites:** install (2), setup (1)
 > **File Paths:** rush.json (2)
@@ -564,10 +566,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), hit (1), next (1), cd (1), [[JSON]] (1)
 > **CLI Commands:** make (2), cd (1), find (1)
 > **UI Navigation:** click on (1), select the (1), navigate to (1), open the (1)
 > **Tools:** terminal (3)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** for example (2)
 > **Env Vars:** json (1)
 > **Definitions:** is a  (1)
@@ -626,10 +628,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[JSON]] (3)
 > **File Paths:** rush.json (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), click on (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** json (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
@@ -728,8 +730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (16), node (2), teams (1), cd (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** git (16), make (8), node (2), cd (1)
-> **Code Keywords:** let (6), case, (2), this, (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Tools:** terminal (3)
 > **Prerequisites:** install (3)
@@ -824,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (2), this, (1)
+> **Frameworks & Libraries:** application (4), [[React.js|React]] (2), cd (1)
 > **CLI Commands:** find (2), cd (1)
 > **Prerequisites:** install (2)
 > **Env Vars:** jes (1)
@@ -835,7 +837,7 @@ created: 2026-04-29
 
 ### 2. Tools to Manage Your Monorepos
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to migrate projects to your monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980)
@@ -892,9 +894,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), application (2), [[JSON]] (2), cd (1)
 > **CLI Commands:** git (4), cd (1), rm (1), make (1)
 > **Code Identifiers:** new_app (5)
-> **Code Keywords:** let (1), type: (1), case, (1), finally, (1)
 > **File Paths:** package-lock.json (1), shrinkwrap.yaml (1)
 > **Analogies:** such as (1), for example (1)
 > **Tools:** terminal (1)
@@ -964,7 +966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (3)
+> **Frameworks & Libraries:** application (4), [[JSON]] (4), cd (1), parallel (1)
 > **UI Navigation:** go to (3), open the (2)
 > **CLI Commands:** find (3), cd (1)
 > **File Paths:** package.json (3)
@@ -1026,8 +1028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Security]] (2), [[React.js|React]] (1), application (1), [[npm]] (1)
 > **CLI Commands:** find (3), npm (1), make (1)
-> **Code Keywords:** case, (3), let (1), this, (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1090,16 +1092,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JavaScript]] (2), open-source (1), [[Google]] (1), [[Java]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. GitHub Actions for Monorepos
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting familiar with GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980)
@@ -1170,8 +1172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (8), next (1), parallel (1), [[Ubuntu]] (1)
 > **Tools:** github (8)
-> **Code Keywords:** let (3), case, (3)
 > **UI Navigation:** go to (2), click on (2), select the (1)
 > **CLI Commands:** find (1), make (1), docker (1)
 > **Analogies:** for example (3)
@@ -1248,9 +1250,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (2), [[Git]] (1), node (1), [[Jetpack Compose|Compose]] (1), [[Node.js]] (1)
 > **Analogies:** for example (5), such as (1)
 > **CLI Commands:** node (2), make (1), git (1), docker (1)
-> **Code Keywords:** this. (1), this, (1), let (1), finally, (1)
 > **Tools:** terminal (3), github (1)
 > **File Paths:** node.js (1), install-run-rush.js (1), command-line.json (1)
 > **Definitions:** is a  (1)
@@ -1328,7 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (4), finally, (1), interface (1)
+> **Frameworks & Libraries:** application (7), [[GitHub]] (3), [[Node.js]] (2), [[Ubuntu]] (1), node (1)
 > **CLI Commands:** node (3), find (2)
 > **File Paths:** node.js (2), github/workflows/main.yml (1), install-run-rush.js (1)
 > **Prerequisites:** install (4)
@@ -1394,7 +1396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (2), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), application (2), parallel (1), next (1)
 > **Tools:** github (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
@@ -1465,8 +1467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[GitHub]] (3), [[Git]] (1), [[npm]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (6), click on (1), select the (1)
-> **Code Keywords:** let (2), case, (1), this, (1), include. (1)
 > **Prerequisites:** install (3), configure (1)
 > **CLI Commands:** git (1), npm (1), cd (1)
 > **Env Vars:** api (1), netlify_site_id (1), netlify_auth_tokin (1)
@@ -1577,10 +1579,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), application (3), [[JSON]] (1), [[Ubuntu]] (1), [[Node.js]] (1)
 > **UI Navigation:** click on (7), select the (2), go to (1)
 > **Tools:** github (6), terminal (1)
 > **CLI Commands:** find (2), make (1), node (1), cd (1)
-> **Code Keywords:** case, (2), this. (1), let (1), finally, (1)
 > **File Paths:** deploy.json (1), node.js (1), deploy-red-app.yml (1)
 > **Prerequisites:** set up (2), install (1)
 > **Env Vars:** auth_token (1), site_id (1)
@@ -1589,7 +1591,7 @@ created: 2026-04-29
 
 ### 4. Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to design your monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980)
@@ -1654,10 +1656,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Automation]] (2), [[GitHub]] (2), teams (1)
 > **Analogies:** such as (2), picture (2)
 > **CLI Commands:** make (3)
 > **Tools:** github (2)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1708,17 +1710,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Security]] (1), [[JSON]] (1), [[DevOps]] (1)
 > **Tools:** github (3)
 > **Analogies:** such as (2)
 > **File Paths:** package.json (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980)
@@ -1739,10 +1741,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[JavaScript]] (1), [[Git]] (1), next (1)
 > **Tools:** github (3)
 > **CLI Commands:** git (1), find (1)
 > **Analogies:** picture (1), such as (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [githooks.com](https://githooks.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

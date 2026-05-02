@@ -30,7 +30,7 @@ tags:
   - skill/apache-spark
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Spark%20SQL%20and%20DataFrames.md)
@@ -49,43 +49,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Apache Spark SQL and data analysis
-  - What you should know
+  - [Apache Spark SQL and data analysis](#apache-spark-sql-and-data-analysis)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Spark DataFrames**](#1-introduction-to-spark-dataframes) (2 videos)
-  - Introduction to DataFrames
-  - SQL for DataFrames
+  - [Introduction to DataFrames](#introduction-to-dataframes)
+  - [SQL for DataFrames](#sql-for-dataframes)
 - [**2. Installing Spark**](#2-installing-spark) (3 videos)
-  - Install Spark
-  - Install PySpark
-  - Using Jupyter notebooks with PySpark
+  - [Install Spark](#install-spark)
+  - [Install PySpark](#install-pyspark)
+  - [Using Jupyter notebooks with PySpark](#using-jupyter-notebooks-with-pyspark)
 - [**3. Getting Started with Spark DataFrames**](#3-getting-started-with-spark-dataframes) (8 videos)
-  - Set up a Jupyter notebook
-  - Load data into DataFrames: CSV Files
-  - Load data into DataFrames: JSON Files
-  - Basic DataFrame operations
-  - Filter data with DataFrame API
-  - Aggregate data with DataFrame API
-  - Sample data from DataFrames
-  - Save data from DataFrames
+  - [Set up a Jupyter notebook](#set-up-a-jupyter-notebook)
+  - [Load data into DataFrames: CSV Files](#load-data-into-dataframes-csv-files)
+  - [Load data into DataFrames: JSON Files](#load-data-into-dataframes-json-files)
+  - [Basic DataFrame operations](#basic-dataframe-operations)
+  - [Filter data with DataFrame API](#filter-data-with-dataframe-api)
+  - [Aggregate data with DataFrame API](#aggregate-data-with-dataframe-api)
+  - [Sample data from DataFrames](#sample-data-from-dataframes)
+  - [Save data from DataFrames](#save-data-from-dataframes)
 - [**4. SQL for DataFrames**](#4-sql-for-dataframes) (6 videos)
-  - Querying DataFrames with SQL
-  - Filtering DataFrames with SQL
-  - Aggregating Data with SQL
-  - Joining DataFrames with SQL
-  - Eliminating duplicates in DataFrames
-  - Working with NA values in DataFrames
+  - [Querying DataFrames with SQL](#querying-dataframes-with-sql)
+  - [Filtering DataFrames with SQL](#filtering-dataframes-with-sql)
+  - [Aggregating Data with SQL](#aggregating-data-with-sql)
+  - [Joining DataFrames with SQL](#joining-dataframes-with-sql)
+  - [Eliminating duplicates in DataFrames](#eliminating-duplicates-in-dataframes)
+  - [Working with NA values in DataFrames](#working-with-na-values-in-dataframes)
 - [**5. Data Analysis with Spark**](#5-data-analysis-with-spark) (5 videos)
-  - Exploratory data analysis with DataFrames
-  - Exploratory data analysis with Spark SQL
-  - Timeseries analysis with DataFrames
-  - Basic machine learning with DataFrames, part 1
-  - Basic machine learning with DataFrames, part 2
+  - [Exploratory data analysis with DataFrames](#exploratory-data-analysis-with-dataframes)
+  - [Exploratory data analysis with Spark SQL](#exploratory-data-analysis-with-spark-sql)
+  - [Timeseries analysis with DataFrames](#timeseries-analysis-with-dataframes)
+  - [Basic machine learning with DataFrames, part 1](#basic-machine-learning-with-dataframes-part-1)
+  - [Basic machine learning with DataFrames, part 2](#basic-machine-learning-with-dataframes-part-2)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apache Spark SQL and data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980)
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[SQL]] (4), [[Apache Spark]] (3), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (4), api (1)
 > **CLI Commands:** apache (3), python (1)
 > **Speakers:** - [dan] (1)
@@ -129,17 +130,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
 > **Env Vars:** sql (2), select (2)
 > **CLI Commands:** python (2), make (1)
 > **SQL:** select (2)
-> **Code Keywords:** finally, (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Spark DataFrames
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980)
@@ -202,9 +203,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (2), database (2), [[Apache Spark]] (1), [[SQL]] (1)
 > **Analogies:** for example (2), such as (1), analogous to (1)
 > **CLI Commands:** python (2), apache (1)
-> **Code Keywords:** case, (2)
 > **Env Vars:** sql (1), cpu (1)
 > **Definitions:** is a  (1), is called (1)
 > **Cross-References:** in the last (1)
@@ -268,8 +269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), api (1), [[PySpark]] (1)
 > **Env Vars:** sql (6), cpu (2), api (1)
-> **Code Keywords:** let (1), pass (1), function (1)
 > **Analogies:** similar to (2), for example (1)
 > **File Paths:** spark.sql (1)
 > **Definitions:** is a  (1)
@@ -278,7 +279,7 @@ created: 2026-04-29
 
 ### 2. Installing Spark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980)
@@ -365,11 +366,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Spark]] (4), cd (3), [[Python (Programming Language)|Python]] (3), [[Hadoop]] (1), next (1)
 > **CLI Commands:** apache (4), cd (3), python (3), make (3), cat (1)
 > **Tools:** bash (10), terminal (1), anaconda (1)
 > **UI Navigation:** select the (2), click on (1), go to (1)
 > **Prerequisites:** set up (2), install (2)
-> **Code Keywords:** let (2), type, (1)
 > **Versions:** 3.50 (1), 3.42 (1), 3.5.0 (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Exercise Files:** exercise files (1)
@@ -393,9 +394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PySpark]] (5), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), pip (2)
 > **Prerequisites:** install (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using Jupyter notebooks with PySpark
@@ -455,8 +456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[PySpark]] (3), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (1), [[SQL]] (1)
 > **Tools:** jupyter (12), terminal (2)
-> **Code Keywords:** let (4), case, (1), return, (1)
 > **CLI Commands:** python (3), pip (1)
 > **Env Vars:** ipynb (3), sql (1)
 > **Versions:** python 3 (3)
@@ -467,7 +468,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Spark DataFrames
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a Jupyter notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980)
@@ -500,12 +501,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[PySpark]] (4), [[SQL]] (3)
 > **Env Vars:** sql (2)
 > **Tools:** terminal (1), jupyter (1)
 > **Prerequisites:** setup (1), set up (1)
 > **File Paths:** pyspark.sql (1)
 > **CLI Commands:** python3 (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** getorcreate (1)
 > **Versions:** version 2 (1)
 
@@ -678,8 +679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), hit (6), next (3)
 > **Code Identifiers:** file_path_no_header (3), withcolumnrenamed (3), location_temp (2), event_date (2), location_id (2)
-> **Code Keywords:** let (7), continue (3), return, (2), pass (2), return. (1)
 > **Env Vars:** csv (6)
 > **File Paths:** utilization.csv (2), location_temp.csv (1)
 > **Definitions:** is a  (2), means that (1)
@@ -756,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return, (1), case, (1)
+> **Frameworks & Libraries:** [[JSON]] (7), data (5), hit (2), [[Python (Programming Language)|Python]] (1), [[PySpark]] (1)
 > **Code Identifiers:** getorcreate (1), cpu_utilization (1), free_memory (1), server_id (1)
 > **Versions:** 03.01 (1), python 3 (1), 0.22 (1), 03.02 (1)
 > **Analogies:** for example (2), similar to (1)
@@ -860,7 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), return. (2), function (1)
+> **Frameworks & Libraries:** data (7), [[JSON]] (1), hit (1)
 > **Env Vars:** json (1)
 > **Versions:** 0.1 (1)
 > **Exercise Files:** exercise files (1)
@@ -927,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (1)
+> **Frameworks & Libraries:** api (1), data (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
@@ -1010,7 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), case, (2), pass (2)
+> **Frameworks & Libraries:** data (11), [[PySpark]] (2), api (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** location_id (6), groupby (3), orderby (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (1), such as (1)
@@ -1090,7 +1091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), this. (1), this, (1)
+> **Frameworks & Libraries:** data (11), [[Statistics]] (1)
 > **Versions:** 0.1 (1), 29.34 (1), 29.18 (1), 28.14 (1), 28.24 (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** temp_celsius (2)
@@ -1183,7 +1184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), return. (1), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (7), data (2), [[Windows]] (1)
 > **File Paths:** df1.csv (4), df1.json (3)
 > **Env Vars:** json (4)
 > **Definitions:** is a  (2), is called (1)
@@ -1194,7 +1195,7 @@ created: 2026-04-29
 
 ### 4. SQL for DataFrames
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying DataFrames with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980)
@@ -1289,7 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), switch (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[SQL]] (9), data (4), api (1), [[PySpark]] (1), [[JSON]] (1)
 > **Env Vars:** sql (9), select (2), api (1), json (1), cpu (1)
 > **Code Identifiers:** createorreplacetempview (2), df_sql (2), server_id (2), session_count (2)
 > **SQL:** select (2)
@@ -1391,8 +1392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (15), data (10), database (3), next (1), [[PySpark]] (1)
 > **Env Vars:** sql (15), cpu (2), json (1)
-> **Code Keywords:** let (12), return, (1), case, (1)
 > **Code Identifiers:** df_sql (3)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
@@ -1436,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (2), continue (1)
+> **Frameworks & Libraries:** data (5), [[Databases]] (1), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cpu (1)
 > **Cross-References:** go back to (1)
@@ -1557,7 +1558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (3)
+> **Frameworks & Libraries:** [[SQL]] (9), data (6), [[Microsoft Word|Word]] (1), [[PostgreSQL|Postgres]] (1), database (1)
 > **Env Vars:** sql (9)
 > **File Paths:** name.csv (1)
 > **Tools:** jupyter (1)
@@ -1641,8 +1642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[PySpark]] (2), [[SQL]] (2)
 > **Env Vars:** cpu (7), sql (2)
-> **Code Keywords:** let (4), case, (2), function (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1709,7 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), type, (1)
+> **Frameworks & Libraries:** data (27), next (2), api (1)
 > **Env Vars:** df2 (5), df_na (2), cpu (1), api (1)
 > **CLI Commands:** find (2)
 > **Tools:** jupyter (2)
@@ -1720,7 +1721,7 @@ created: 2026-04-29
 
 ### 5. Data Analysis with Spark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploratory data analysis with DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980)
@@ -1815,8 +1816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), api (3), [[Statistics]] (3), [[SQL]] (2), next (1)
 > **Env Vars:** cpu (4), api (3), sql (2)
-> **Code Keywords:** let (7), pass (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (4)
 > **Code Identifiers:** withreplacement (2), createorreplacetempview (1)
@@ -1896,8 +1897,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (2), [[Statistics]] (2), api (1)
 > **Env Vars:** cpu (10), sql (2), api (1), select (1), group (1)
-> **Code Keywords:** let (7), this, (1), continue (1), function (1), throw (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **SQL:** select (1), group by (1)
@@ -2028,8 +2029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[SQL]] (12), next (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cpu (27), sql (12)
-> **Code Keywords:** let (15), continue (3), function (2)
 > **Analogies:** for example (5)
 > **Ports:** :06 (1), :11 (1), :21 (1)
 > **CLI Commands:** make (2)
@@ -2190,7 +2191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (1), pass (1), function (1), default, (1)
+> **Frameworks & Libraries:** data (20), [[Algorithms]] (2), [[PySpark]] (1), [[SQL]] (1), [[JSON]] (1)
 > **Env Vars:** cpu (7), sql (1), json (1)
 > **Code Identifiers:** df_util (4), inputcols (1), outputcol (1)
 > **Definitions:** is called (2), stands for (2)
@@ -2314,7 +2315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (4), pass (2), return, (1)
+> **Frameworks & Libraries:** data (17), [[Linear Regression]] (10), feature (2), [[SQL]] (2), [[Statistics]] (1)
 > **Env Vars:** cpu (5), sql (2)
 > **CLI Commands:** make (3)
 > **Versions:** 47.02 (1), 40.417 (1)
@@ -2326,7 +2327,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980)
@@ -2345,8 +2346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), data (6), ai (1)
 > **Env Vars:** sql (6)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [dan] (1)
 
 

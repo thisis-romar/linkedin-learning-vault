@@ -29,7 +29,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Analysis%20Using%20Python%20in%20Excel%20Copilot.md)
@@ -48,18 +48,18 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Advanced analysis using Python in Excel Copilot
-  - Using Python in Excel
+  - [Advanced analysis using Python in Excel Copilot](#advanced-analysis-using-python-in-excel-copilot)
+  - [Using Python in Excel](#using-python-in-excel)
 - [**1. Advanced Analysis**](#1-advanced-analysis) (3 videos)
-  - Using advanced analysis
-  - Analyzing real-world data
-  - Transforming and plotting geodata
+  - [Using advanced analysis](#using-advanced-analysis)
+  - [Analyzing real-world data](#analyzing-real-world-data)
+  - [Transforming and plotting geodata](#transforming-and-plotting-geodata)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced analysis using Python in Excel Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/advanced-analysis-using-python-in-excel-copilot?u=76281980)
@@ -80,8 +80,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (4), [[Microsoft Copilot|Copilot]] (4), data (3), feature (2)
 > **CLI Commands:** python (4)
-> **Code Keywords:** this, (1), let (1)
 > **Speakers:** - [scott] (1)
 
 #### Using Python in Excel
@@ -159,8 +159,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (26), [[Microsoft Excel|Excel]] (13), data (7), feature (4), [[Microsoft 365]] (1)
 > **CLI Commands:** python (26), find (3)
-> **Code Keywords:** let (4), function (1), this, (1)
 > **UI Navigation:** click on (1), go to (1), right-click (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** anaconda (1)
@@ -170,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Advanced Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using advanced analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980)
@@ -281,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), data (11), [[Python (Programming Language)|Python]] (11), prompt (7), [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** python (11), find (3)
-> **Code Keywords:** let (5), case. (2), this. (1), while, (1), for. (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
@@ -370,7 +370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (3), case, (1)
+> **Frameworks & Libraries:** data (18), [[Microsoft Copilot|Copilot]] (6), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), feature (1)
 > **CLI Commands:** make (4), python (3), find (1)
 > **Analogies:** for example (2)
 > **URLs:** [data.gov](https://data.gov) (1)
@@ -432,7 +432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (4), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), data (4), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
@@ -440,7 +440,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/next-steps?u=76281980)
@@ -479,8 +479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Excel|Excel]] (4), [[Microsoft Copilot|Copilot]] (4), feature (3), [[Generative AI]] (2)
 > **CLI Commands:** python (9), make (1), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - advanced (1)
 
 

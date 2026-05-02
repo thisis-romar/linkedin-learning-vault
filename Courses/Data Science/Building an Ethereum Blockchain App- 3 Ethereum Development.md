@@ -34,7 +34,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%203%20Ethereum%20Development.md)
@@ -53,20 +53,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. The Ethereum Ecosystem and Development Life Cycle**](#1-the-ethereum-ecosystem-and-development-life-cycle) (10 videos)
-  - Parts of the Ethereum blockchain
-  - Smart contracts
-  - Smart contract languages
-  - What are virtual machines?
-  - The Ethereum Virtual Machine (EVM)
-  - Fueling your code with gas
-  - Tools for Ethereum SDLC
-  - Blockchain client
-  - Writing and testing your code, part 1
-  - Writing and testing your code, part 2
+  - [Parts of the Ethereum blockchain](#parts-of-the-ethereum-blockchain)
+  - [Smart contracts](#smart-contracts)
+  - [Smart contract languages](#smart-contract-languages)
+  - [What are virtual machines?](#what-are-virtual-machines)
+  - [The Ethereum Virtual Machine (EVM)](#the-ethereum-virtual-machine-evm)
+  - [Fueling your code with gas](#fueling-your-code-with-gas)
+  - [Tools for Ethereum SDLC](#tools-for-ethereum-sdlc)
+  - [Blockchain client](#blockchain-client)
+  - [Writing and testing your code, part 1](#writing-and-testing-your-code-part-1)
+  - [Writing and testing your code, part 2](#writing-and-testing-your-code-part-2)
 
 ### 1. The Ethereum Ecosystem and Development Life Cycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Parts of the Ethereum blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980)
@@ -359,7 +359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), else, (2), from, (2), case. (1), continue (1)
+> **Frameworks & Libraries:** [[Ethereum]] (11), [[Blockchain]] (11), data (8), [[Representational State Transfer (REST)|Rest]] (2), feature (2)
 > **Definitions:** is a  (7), in other words (2), means that (1), refers to (1)
 > **Code Identifiers:** dapps (2), gaslimit (2), parenthash (1), ommerhash (1), logsbloom (1)
 > **CLI Commands:** find (3), make (1)
@@ -457,8 +457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (10), [[Smart Contracts]] (10), data (3), node (2)
 > **CLI Commands:** make (3), node (2)
-> **Code Keywords:** function (1), let (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** means that (1), in other words (1)
 > **Env Vars:** evm (1)
@@ -564,11 +564,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), [[Solidity]] (4), [[Smart Contracts]] (3), [[Ethereum]] (3), [[Python (Programming Language)|Python]] (3)
 > **Analogies:** kind of like (2), similar to (2), just like (1), such as (1), for example (1)
 > **CLI Commands:** python (3), find (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Env Vars:** lll (2)
-> **Code Keywords:** for. (1)
 > **Speakers:** - so (1)
 
 #### What are virtual machines?
@@ -686,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), switch (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (8), [[Virtualization]] (7), [[Ethereum]] (5), [[Windows]] (5), application (4)
 > **Env Vars:** evm (3), cpu (1)
 > **Prerequisites:** install (4)
 > **Definitions:** is a  (2), in other words (1)
@@ -755,11 +755,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (11), node (6), [[Blockchain]] (5), application (2), [[Virtual Machines]] (1)
 > **Env Vars:** evm (9)
 > **CLI Commands:** node (6)
 > **Definitions:** in other words (1), is a  (1), means that (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** implements (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - so (1)
 
@@ -858,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (10), data (3), [[Smart Contracts]] (2), [[Ethereum]] (1), [[Cryptocurrency]] (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **Analogies:** just like (1), kind of like (1)
 > **Cross-References:** go back to (1)
@@ -934,8 +934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (2), application (2), [[Ethereum]] (2), next (1)
 > **Env Vars:** evm (2), sdlc (1), ide (1)
-> **Code Keywords:** finally, (1), this, (1), public (1)
 > **Exercise Files:** source code (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -993,11 +993,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), [[Ethereum]] (8), [[Blockchain]] (8), [[Rust (Programming Language)|Rust]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (9), make (2), python (1)
 > **Env Vars:** evm (3)
 > **Definitions:** in other words (1), is a  (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** implements (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - the (1)
@@ -1101,8 +1101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), data (3), next (2), node (1)
 > **CLI Commands:** docker (4), make (3), node (1)
-> **Code Keywords:** else. (2), default, (1), delete (1), public (1), private (1)
 > **Env Vars:** evm (2), ide (1)
 > **Prerequisites:** set up (2), install (1)
 > **Analogies:** kind of like (1), think of it as (1)
@@ -1215,13 +1215,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Solidity]] (6), [[Remix]] (4), [[Smart Contracts]] (3), next (2), [[Windows]] (2)
 > **Tools:** visual studio (3), vim (3), atom (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** ide (5), ade (1)
 > **UI Navigation:** click on (2), go to (2), navigate to (1), scroll up (1)
 > **Exercise Files:** source code (5)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** this, (1)
 > **URLs:** [ethereum.org](https://ethereum.org) (1)
 
 

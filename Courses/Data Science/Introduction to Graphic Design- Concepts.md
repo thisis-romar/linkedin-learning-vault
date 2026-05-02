@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/graphic-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Graphic%20Design-%20Concepts.md)
@@ -50,48 +50,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course introduction
+  - [Course introduction](#course-introduction)
 - [**1. Graphic Design Projects**](#1-graphic-design-projects) (6 videos)
-  - The creative process
-  - The creative brief
-  - Research
-  - Ideation
-  - Production
-  - Challenge: Brand of you
+  - [The creative process](#the-creative-process)
+  - [The creative brief](#the-creative-brief)
+  - [Research](#research)
+  - [Ideation](#ideation)
+  - [Production](#production)
+  - [Challenge: Brand of you](#challenge-brand-of-you)
 - [**2. Learning about Type and Typography**](#2-learning-about-type-and-typography) (7 videos)
-  - Font vs. type
-  - Key typographic terms
-  - Basic type classifications
-  - Type anatomy
-  - Understanding character attributes
-  - Understanding paragraph attributes
-  - Challenge: Quote poster
+  - [Font vs. type](#font-vs-type)
+  - [Key typographic terms](#key-typographic-terms)
+  - [Basic type classifications](#basic-type-classifications)
+  - [Type anatomy](#type-anatomy)
+  - [Understanding character attributes](#understanding-character-attributes)
+  - [Understanding paragraph attributes](#understanding-paragraph-attributes)
+  - [Challenge: Quote poster](#challenge-quote-poster)
 - [**3. Layout and Composition**](#3-layout-and-composition) (6 videos)
-  - Principles of layout
-  - The design space
-  - Space
-  - Using grids
-  - Building a layout
-  - Challenge: Deconstructing layouts
+  - [Principles of layout](#principles-of-layout)
+  - [The design space](#the-design-space)
+  - [Space](#space)
+  - [Using grids](#using-grids)
+  - [Building a layout](#building-a-layout)
+  - [Challenge: Deconstructing layouts](#challenge-deconstructing-layouts)
 - [**4. Color**](#4-color) (7 videos)
-  - Color
-  - Digital color
-  - Color harmonies
-  - Color associations
-  - Color as information
-  - Digital and print colors
-  - Challenge: Map
+  - [Color](#color)
+  - [Digital color](#digital-color)
+  - [Color harmonies](#color-harmonies)
+  - [Color associations](#color-associations)
+  - [Color as information](#color-as-information)
+  - [Digital and print colors](#digital-and-print-colors)
+  - [Challenge: Map](#challenge-map)
 - [**5. Imagery**](#5-imagery) (4 videos)
-  - Photo vs. illustration
-  - Cropping images
-  - Generative AI
-  - Challenge: The art of cropping
+  - [Photo vs. illustration](#photo-vs-illustration)
+  - [Cropping images](#cropping-images)
+  - [Generative AI](#generative-ai)
+  - [Challenge: The art of cropping](#challenge-the-art-of-cropping)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980)
@@ -112,12 +112,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (3), product (1), [[Typography]] (1), career (1)
 
 
 ### 1. Graphic Design Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The creative process
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980)
@@ -142,7 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1)
 > **Definitions:** is a  (1)
 
 #### The creative brief
@@ -217,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Typography]] (1), data (1), next (1)
 > **Analogies:** picture (1)
 
 #### Ideation
@@ -245,6 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 
@@ -274,7 +275,6 @@ created: 2026-04-29
 > **Env Vars:** jpeg (1), png (1), gif (1), svg (1), psd (1)
 > **Definitions:** known as (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** require (1)
 
 #### Challenge: Brand of you
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-brand-of-you?u=76281980)
@@ -308,7 +308,7 @@ created: 2026-04-29
 
 ### 2. Learning about Type and Typography
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Font vs. type
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980)
@@ -341,8 +341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Typography]] (2), [[Graphic Design]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** known as (2), is a  (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 
 #### Key typographic terms
@@ -386,7 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Typography]] (1), [[Graphic Design]] (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -446,7 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), type, (1), this. (1), let (1), from. (1)
+> **Frameworks & Libraries:** next (2), business (1), [[Forms]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -491,9 +491,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), next (1)
 > **Definitions:** known as (6), is a  (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Analogies:** imagine (1)
 
@@ -634,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), type. (2), this, (1), delete (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** for example (4)
@@ -776,7 +776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return. (2), this. (1), this, (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), hit (1), [[Graphic Design]] (1), application (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1)
@@ -797,7 +797,7 @@ created: 2026-04-29
 
 ### 3. Layout and Composition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Principles of layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980)
@@ -834,6 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Typography]] (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 
@@ -870,8 +871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Graphic Design]] (1), [[Forms]] (1), functional (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 
 #### Space
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980)
@@ -902,6 +903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -965,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (1)
+> **Frameworks & Libraries:** [[Forms]] (1), next (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
@@ -1023,8 +1025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 
 #### Challenge: Deconstructing layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-deconstructing-layouts?u=76281980)
@@ -1055,7 +1057,7 @@ created: 2026-04-29
 
 ### 4. Color
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Color
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980)
@@ -1086,8 +1088,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Graphic Design]] (3)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 
 #### Digital color
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/digital-color?u=76281980)
@@ -1130,7 +1132,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2), case. (1)
 > **Definitions:** known as (2), is a  (2), is an  (1)
 > **Env Vars:** rgb (1), hsb (1)
 
@@ -1206,7 +1207,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
@@ -1233,7 +1233,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** make (4)
 > **Env Vars:** cvd (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** such as (1)
 
 #### Digital and print colors
@@ -1298,7 +1297,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** rgb (4), hsb (1), cmy (1), cmyk (1)
-> **Code Keywords:** let (3), switch (1)
 > **Definitions:** known as (2)
 > **UI Navigation:** switch to (1)
 > **Analogies:** just like (1)
@@ -1327,7 +1325,7 @@ created: 2026-04-29
 
 ### 5. Imagery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Photo vs. illustration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980)
@@ -1364,6 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Graphic Design]] (2), [[Storytelling]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 
@@ -1420,7 +1419,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), this, (1)
 > **UI Navigation:** switch to (1), go to (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1454,6 +1452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Generative AI]] (1), prompt (1)
 > **Analogies:** it's like (1)
 
 #### Challenge: The art of cropping
@@ -1474,7 +1473,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980)
@@ -1492,6 +1491,10 @@ created: 2026-04-29
 > **[0:23](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=23)** But for now that's it and my congratulations to you for completing the course.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=27)** See ya.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[Graphic Design]] (1), [[LinkedIn]] (1)
 
 
 ## Instructor

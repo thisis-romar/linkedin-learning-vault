@@ -38,7 +38,7 @@ tags:
   - skill/github-copilot
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Book%20Search%20Engine%20from%20Scratch%20Using%20Java%20and%20GitHub%20Copilot.md)
@@ -57,43 +57,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Modern Java development
-  - Course overview and objectives
-  - Prerequisites and learning goals
+  - [Modern Java development](#modern-java-development)
+  - [Course overview and objectives](#course-overview-and-objectives)
+  - [Prerequisites and learning goals](#prerequisites-and-learning-goals)
 - [**1. Setting Up Java, Maven, and Spring Boot**](#1-setting-up-java-maven-and-spring-boot) (6 videos)
-  - Setting up Java
-  - Installing Maven
-  - Setting up a Maven project
-  - Setting up Visual Studio Code
-  - Introduction to the Spring Boot framework
-  - Creating a hello world API
+  - [Setting up Java](#setting-up-java)
+  - [Installing Maven](#installing-maven)
+  - [Setting up a Maven project](#setting-up-a-maven-project)
+  - [Setting up Visual Studio Code](#setting-up-visual-studio-code)
+  - [Introduction to the Spring Boot framework](#introduction-to-the-spring-boot-framework)
+  - [Creating a hello world API](#creating-a-hello-world-api)
 - [**2. Dockerizing the Project with PostgreSQL**](#2-dockerizing-the-project-with-postgresql) (2 videos)
-  - Setting up Docker
-  - Configuring PostgreSQL in Docker
+  - [Setting up Docker](#setting-up-docker)
+  - [Configuring PostgreSQL in Docker](#configuring-postgresql-in-docker)
 - [**3. Designing the Database Schema and Implementing Full-Text Search**](#3-designing-the-database-schema-and-implementing-full-text-search) (5 videos)
-  - Designing the book schema
-  - Create a database schema in PostgreSQL
-  - Navigating the database using a web browser
-  - Introduction to full-text search
-  - Implementing full-text search in PostgreSQL
+  - [Designing the book schema](#designing-the-book-schema)
+  - [Create a database schema in PostgreSQL](#create-a-database-schema-in-postgresql)
+  - [Navigating the database using a web browser](#navigating-the-database-using-a-web-browser)
+  - [Introduction to full-text search](#introduction-to-full-text-search)
+  - [Implementing full-text search in PostgreSQL](#implementing-full-text-search-in-postgresql)
 - [**4. Ingesting and Validating Data**](#4-ingesting-and-validating-data) (3 videos)
-  - Overview of data ingestion
-  - Automating data ingestion
-  - Validating data integrity
+  - [Overview of data ingestion](#overview-of-data-ingestion)
+  - [Automating data ingestion](#automating-data-ingestion)
+  - [Validating data integrity](#validating-data-integrity)
 - [**5. Implementing Business Logic and Writing Tests**](#5-implementing-business-logic-and-writing-tests) (3 videos)
-  - Introduction to business logic
-  - Developing business logic functions
-  - Writing unit tests
+  - [Introduction to business logic](#introduction-to-business-logic)
+  - [Developing business logic functions](#developing-business-logic-functions)
+  - [Writing unit tests](#writing-unit-tests)
 - [**6. Designing and Creating APIs**](#6-designing-and-creating-apis) (3 videos)
-  - Developing the service layer
-  - Implementing the book search API
-  - Writing integration tests
+  - [Developing the service layer](#developing-the-service-layer)
+  - [Implementing the book search API](#implementing-the-book-search-api)
+  - [Writing integration tests](#writing-integration-tests)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern Java development
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980)
@@ -118,9 +118,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), application (2), [[Java]] (1), [[Spring Boot]] (1), [[PostgreSQL]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Tools:** vs code (1), github (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [harit] (1)
 
 #### Course overview and objectives
@@ -172,11 +172,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), business (7), [[Search]] (4), next (4), data (3)
 > **CLI Commands:** docker (3), make (2), find (1)
 > **Env Vars:** csv (3), api (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -270,10 +270,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (11), [[Search]] (7), [[Java]] (5), database (5), [[Spring Boot]] (4)
 > **CLI Commands:** docker (7), make (4), find (1), mysql (1)
 > **Tools:** github (11)
 > **Env Vars:** api (3), sql (2), http (1), gpt (1)
-> **Code Keywords:** continue (2), let (2), finally, (2)
 > **Definitions:** is a  (4), means that (2)
 > **API Endpoints:** get  (1)
 > **Cross-References:** in the next (1)
@@ -282,7 +282,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Java, Maven, and Spring Boot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980)
@@ -353,11 +353,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (22), hit (2), [[Linux]] (1), [[Windows]] (1), next (1)
 > **Prerequisites:** install (11)
 > **Versions:** version 24 (4), version 18 (3), version 17 (3)
 > **Env Vars:** sdkman (7), jdk (1), sdk (1)
 > **CLI Commands:** make (3), curl (1), grep (1)
-> **Code Keywords:** switch (2), module (1), continue (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -405,11 +405,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), hit (2), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** apache (2), brew (2), mvn (1)
 > **Prerequisites:** install (5)
 > **Versions:** 3.9.9 (2), java 24 (1), version 24 (1)
 > **UI Navigation:** go to (3)
-> **Code Keywords:** let (1)
 > **URLs:** [apache.org](https://apache.org) (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -483,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), default. (1), class, (1), finally, (1)
+> **Frameworks & Libraries:** [[Java]] (5), next (2), [[Search]] (2), hit (2)
 > **Prerequisites:** install (5), set up (2)
 > **CLI Commands:** mvn (3), make (2), ls (1)
 > **Env Vars:** jar (4), ide (1)
@@ -627,10 +627,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (11), [[Search]] (4), [[Java]] (3), next (3), [[Microsoft Copilot|Copilot]] (2)
 > **Tools:** github (12), vs code (4), command line (3), terminal (2), visual studio (1)
 > **Env Vars:** ide (6), src (1)
 > **CLI Commands:** mvn (4), make (2)
-> **Code Keywords:** switch (2), this, (1), continue (1), let (1)
 > **UI Navigation:** click on (2), open the (2), go to (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Prerequisites:** install (4), before we start (1)
@@ -675,7 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (7), [[LinkedIn]] (1), next (1), api (1)
 > **Env Vars:** war (1), api (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -841,8 +841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (19), application (18), [[GitHub Copilot]] (15), hit (9), api (4)
 > **Tools:** github (15), terminal (1)
-> **Code Keywords:** function (3), this, (2), case, (2), let (2), this. (2)
 > **CLI Commands:** make (8), mvn (3)
 > **UI Navigation:** go to (5), click on (1)
 > **File Paths:** pom.xml (4), hellocontroller.java (1)
@@ -853,7 +853,7 @@ created: 2026-04-29
 
 ### 2. Dockerizing the Project with PostgreSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980)
@@ -900,11 +900,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), business (2), [[Jetpack Compose|Compose]] (2), [[Search]] (1), api (1)
 > **CLI Commands:** docker (16)
 > **Tools:** docker desktop (3), terminal (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Prerequisites:** install (2), setup (1), set up (1)
-> **Code Keywords:** let (1), module (1), continue (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **URLs:** [docker.com](https://docker.com) (1)
 > **Env Vars:** api (1)
@@ -1086,9 +1086,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), [[PostgreSQL|Postgres]] (12), [[Jetpack Compose|Compose]] (11), [[GitHub Copilot]] (7), next (3)
 > **CLI Commands:** docker (26), find (1)
 > **Tools:** github (7), terminal (5), docker desktop (1)
-> **Code Keywords:** let (9), this, (1), this. (1)
 > **Definitions:** is a  (5), means that (1)
 > **File Paths:** docker-compose.yml (5)
 > **Prerequisites:** set up (4), install (1)
@@ -1098,7 +1098,7 @@ created: 2026-04-29
 
 ### 3. Designing the Database Schema and Implementing Full-Text Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing the book schema
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980)
@@ -1149,8 +1149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (3), next (2), [[GitHub]] (1), business (1)
 > **Env Vars:** csv (2), csu (1)
-> **Code Keywords:** module (1), let (1)
 > **CLI Commands:** docker (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -1262,12 +1262,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), [[GitHub Copilot]] (8), database (7), hit (4), [[Jetpack Compose|Compose]] (4)
 > **Code Identifiers:** create_schema (5), author_id (5), book_id (3), author_name (3), books_authors (3)
 > **CLI Commands:** docker (13), make (2), psql (1)
 > **Env Vars:** csv (6), sql (2), create (1), table (1), primary (1)
 > **Tools:** github (9), vs code (1)
 > **File Paths:** create_schema.sql (4), docker-compose.yaml (2), init.sql (1), docker-entrypoint-init.sql (1)
-> **Code Keywords:** case, (2), delete (1), finally, (1), let (1)
 > **Cross-References:** in the next (2), go back to (1), we mentioned (1)
 > **Definitions:** is a  (3)
 
@@ -1410,9 +1410,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (22), hit (5), [[Jetpack Compose|Compose]] (4), data (3), [[PostgreSQL|Postgres]] (2)
 > **Code Identifiers:** pgadmin (17), search_default (2)
 > **CLI Commands:** docker (16), make (1), find (1)
-> **Code Keywords:** let (5), case, (1), this, (1)
 > **UI Navigation:** go to (6), click on (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** command line (3)
@@ -1522,7 +1522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), delete (1), this. (1), public (1)
+> **Frameworks & Libraries:** [[Search]] (14), data (6), [[Microsoft Word|Word]] (6), [[Algorithms]] (4), database (3)
 > **CLI Commands:** find (6), make (2)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **Definitions:** is a  (2)
@@ -1674,7 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this, (1), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (20), [[Algorithms]] (10), database (5), [[PostgreSQL|Postgres]] (4), next (3)
 > **Code Identifiers:** to_tsquery (6), search_vector (2), ts_rank (2), to_tsvector (1), pgadmin (1)
 > **CLI Commands:** make (3), docker (3), find (2)
 > **Env Vars:** where (2), isbn (1), ispn (1)
@@ -1686,7 +1686,7 @@ created: 2026-04-29
 
 ### 4. Ingesting and Validating Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data ingestion
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980)
@@ -1707,6 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (2), [[GitHub]] (1), next (1)
 > **Env Vars:** csv (4)
 > **Cross-References:** as we saw (1), in the next (1)
 > **File Paths:** books.csv (1)
@@ -1987,9 +1988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (17), data (13), [[PostgreSQL|Postgres]] (6), [[Java]] (4), hit (4)
 > **Code Identifiers:** author_id (7), book_id (5), book_authors (4), csvstream (3), parsecsv (3)
 > **Env Vars:** csv (7), url (7), sql (3), insert (2), f12 (1)
-> **Code Keywords:** let (7), finally, (5), class. (2), function (2), class, (1)
 > **Tools:** github (5), terminal (3), vs code (2), gitlab (1)
 > **CLI Commands:** make (6), mvn (3)
 > **Definitions:** is a  (7), is called (1), is an  (1)
@@ -2097,8 +2098,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (3), [[Search]] (2), hit (1), [[GitHub]] (1)
 > **Code Identifiers:** books_authors (3), search_vector (3), book_id (2), author_id (2), pgadmin (1)
-> **Code Keywords:** let (4), this, (2), finally, (1), case, (1)
 > **Env Vars:** csg (1), alter (1), table (1)
 > **Definitions:** means that (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -2109,7 +2110,7 @@ created: 2026-04-29
 
 ### 5. Implementing Business Logic and Writing Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to business logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980)
@@ -2158,9 +2159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), business (4), [[Search]] (2), [[Spring Data]] (2), data (1)
 > **CLI Commands:** make (2), docker (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** abstract (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2269,10 +2270,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), [[Java]] (4), [[GitHub Copilot]] (3), next (2), [[Spring Boot]] (1)
 > **Code Identifiers:** searchvector (2), tostring (2), searchbooks (2), searchterm (2), nativequery (2)
 > **Tools:** github (3), vs code (1), terminal (1)
 > **File Paths:** pom.xml (1), book.java (1), java.sql (1), bookrepository.java (1)
-> **Code Keywords:** override (1), class. (1), interface (1), function (1)
 > **Env Vars:** jpa (1), identity (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -2425,8 +2426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[SQL]] (5), [[Java]] (4), hit (4), application (4)
 > **Env Vars:** sql (5), jpa (1), ddl (1), none (1), select (1)
-> **Code Keywords:** let (2), for, (1), function (1), assert (1), this. (1)
 > **CLI Commands:** make (4), mvn (1)
 > **Code Identifiers:** searchbooks (3), asserttrue (1)
 > **UI Navigation:** right-click (1), go to (1)
@@ -2437,7 +2438,7 @@ created: 2026-04-29
 
 ### 6. Designing and Creating APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing the service layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980)
@@ -2596,7 +2597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), throw (3), case, (3), assert (2), class, (1)
+> **Frameworks & Libraries:** [[Search]] (9), [[GitHub Copilot]] (6), database (5), api (5), [[Java]] (2)
 > **Code Identifiers:** searchbooks (4), testsearchbooks (1), searchterm (1), asserttrue (1)
 > **Env Vars:** api (5), mvn (1), rest (1)
 > **Tools:** github (6)
@@ -2738,7 +2739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (4), class, (2), assert (2), this, (1)
+> **Frameworks & Libraries:** [[Search]] (9), api (6), database (2), [[Algorithms]] (2), [[Java]] (1)
 > **Code Identifiers:** searchterm (9), searchbooks (3), webenvironment (1), testsearchbooks (1), resttemplate (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** make (3)
@@ -2836,7 +2837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** application (5), data (3), [[Spring Boot]] (3), [[Search]] (3), hit (2)
 > **CLI Commands:** find (4), mvn (2), make (1)
 > **Env Vars:** jar (2), api (2), json (1), url (1)
 > **Ports:** port 8080 (1), :8080 (1)
@@ -2848,7 +2849,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980)
@@ -2871,8 +2872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Search]] (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (2), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 

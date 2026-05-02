@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Spoofing%20In%20Depth.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Mitigate spoofing threats
-  - Four-question framework
-  - Spoofing as a part of STRIDE
+  - [Mitigate spoofing threats](#mitigate-spoofing-threats)
+  - [Four-question framework](#four-question-framework)
+  - [Spoofing as a part of STRIDE](#spoofing-as-a-part-of-stride)
 - [**1. Authentication Basics**](#1-authentication-basics) (2 videos)
-  - Account creation
-  - Authentication factors
+  - [Account creation](#account-creation)
+  - [Authentication factors](#authentication-factors)
 - [**2. Spoofing Authentication Factors**](#2-spoofing-authentication-factors) (6 videos)
-  - Attacking what you know
-  - Attacking what you have
-  - Attacking what you are
-  - Attacking where you are
-  - Attacking who you know
-  - Attacking phone authentication
+  - [Attacking what you know](#attacking-what-you-know)
+  - [Attacking what you have](#attacking-what-you-have)
+  - [Attacking what you are](#attacking-what-you-are)
+  - [Attacking where you are](#attacking-where-you-are)
+  - [Attacking who you know](#attacking-who-you-know)
+  - [Attacking phone authentication](#attacking-phone-authentication)
 - [**3. Spoofing Hosts**](#3-spoofing-hosts) (5 videos)
-  - Spoofing a host
-  - Advanced host spoofing
-  - Spoofing the OSI model
-  - What you know in host spoofing
-  - Spoofing TLS
+  - [Spoofing a host](#spoofing-a-host)
+  - [Advanced host spoofing](#advanced-host-spoofing)
+  - [Spoofing the OSI model](#spoofing-the-osi-model)
+  - [What you know in host spoofing](#what-you-know-in-host-spoofing)
+  - [Spoofing TLS](#spoofing-tls)
 - [**4. Spoofing People**](#4-spoofing-people) (3 videos)
-  - Spoofing a specific person in email
-  - Spoofing a person on a website
-  - Spoofing a person in video and audio
+  - [Spoofing a specific person in email](#spoofing-a-specific-person-in-email)
+  - [Spoofing a person on a website](#spoofing-a-person-on-a-website)
+  - [Spoofing a person in video and audio](#spoofing-a-person-in-video-and-audio)
 - [**5. Spoofing Files**](#5-spoofing-files) (3 videos)
-  - The nature of "open" and paths
-  - Libraries (LD_PATH, %Downloads%)
-  - Defenses with extra fail
+  - [The nature of "open" and paths](#the-nature-of-open-and-paths)
+  - [Libraries (LD_PATH, %Downloads%)](#libraries-ld_path-downloads)
+  - [Defenses with extra fail](#defenses-with-extra-fail)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Secure by Design: Bring authenticity to your systems
+  - [Secure by Design: Bring authenticity to your systems](#secure-by-design-bring-authenticity-to-your-systems)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mitigate spoofing threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Threat Modeling]] (1), game (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - fakery (1)
 
 #### Four-question framework
@@ -139,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - at (1)
 
@@ -207,6 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Cybersecurity]] (1), web (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** stride (2)
 > **URLs:** [http://r0uxacademy.com](http://r0uxacademy.com) (1)
@@ -218,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Authentication Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Account creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980)
@@ -281,8 +284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Prerequisites:** set up (2), setup (1)
-> **Code Keywords:** let (1)
 > **URLs:** [rouxacademy.com](https://rouxacademy.com) (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -367,7 +370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1)
+> **Frameworks & Libraries:** [[Security]] (1), [[Multi-factor Authentication]] (1)
 > **Tools:** atom (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -376,7 +379,7 @@ created: 2026-04-29
 
 ### 2. Spoofing Authentication Factors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Attacking what you know
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980)
@@ -445,9 +448,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptography]] (2), cloud (1), game (1), database (1), data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** private (1)
 > **Analogies:** for example (1)
 > **Speakers:** - good (1)
 
@@ -482,6 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - attacks (1)
 
@@ -552,8 +556,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Analogies:** picture (3), for example (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - biometric (1)
 
 #### Attacking where you are
@@ -615,6 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), [[Authentication Systems]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - the (1)
@@ -696,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Spoofing Hosts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spoofing a host
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980)
@@ -751,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Security]] (1), [[Forms]] (1), web (1)
 > **Env Vars:** nat (3), ssl (2), isp (1)
-> **Code Keywords:** this. (1), interface (1)
 > **URLs:** [apple.com](https://apple.com) (2)
 > **Versions:** 10.2.3 (1), 18.4.5 (1)
 > **CLI Commands:** make (1)
@@ -801,8 +806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Wireshark]] (1), [[Cryptography]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case, (1), interface (1), let (1)
 > **Versions:** 10.2.3 (2)
 > **Env Vars:** tcp (1)
 > **Tools:** command line (1)
@@ -895,10 +900,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (7), data (1), cloud (1), [[Security]] (1)
 > **Env Vars:** dns (7), tcp (5), mac (3), osi (1)
 > **Code Identifiers:** rouxacademy (3)
 > **URLs:** [rouxacademy.com](https://rouxacademy.com) (3)
-> **Code Keywords:** match. (1), match, (1)
 > **Versions:** 10.2.3 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -957,11 +962,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), traffic (1), [[Cryptography]] (1), data (1)
 > **Env Vars:** dns (5), tcp (3), ssh (2), hmap (1), tls (1)
 > **CLI Commands:** ssh (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** class, (1)
 > **Speakers:** - one (1)
 
 #### Spoofing TLS
@@ -1051,10 +1056,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Cryptography]] (1), dns (1)
 > **URLs:** [rouxacademy.com](https://rouxacademy.com) (6), [example.com](https://example.com) (2), [r0uxacademy.com](https://r0uxacademy.com) (1), [evil.com](https://evil.com) (1)
 > **Env Vars:** tls (3), dns (1), url (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** private (1), public (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** it's like (1)
@@ -1063,7 +1068,7 @@ created: 2026-04-29
 
 ### 4. Spoofing People
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spoofing a specific person in email
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-specific-person-in-email?u=76281980)
@@ -1130,8 +1135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), dns (1), business (1)
 > **URLs:** [badguys.com](https://badguys.com) (3), [ridinghoods.com](https://ridinghoods.com) (1)
-> **Code Keywords:** this. (1), from. (1), case, (1)
 > **Definitions:** is a  (2)
 > **Ports:** port 25 (1)
 > **Env Vars:** dns (1)
@@ -1185,6 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3)
 > **Speakers:** - if (1)
 
 #### Spoofing a person in video and audio
@@ -1222,14 +1228,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while. (1), require (1)
+> **Frameworks & Libraries:** [[Search]] (1), business (1), ai (1), [[Google]] (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - the (1)
 
 
 ### 5. Spoofing Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The nature of "open" and paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980)
@@ -1292,11 +1298,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), web (1), [[Windows]] (1)
 > **File Paths:** file.txt (2), ruacademy.com/grades.txt (1), temp/runme.sh (1)
 > **URLs:** [ruacademy.com](https://ruacademy.com) (2)
 > **Env Vars:** unc (1), nfs (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** for, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - opening (1)
 
@@ -1355,6 +1361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (3), web (3), [[Package Management]] (1), [[ESLint]] (1), [[Analytics]] (1)
 > **Env Vars:** url (2), btc (2), uid (1)
 > **CLI Commands:** npm (3)
 > **Analogies:** for example (1)
@@ -1421,6 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), cloud (1)
 > **Env Vars:** xyz (2), sim (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1431,7 +1439,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure by Design: Bring authenticity to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980)
@@ -1458,8 +1466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (1), teams (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** try. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - spoofing (1)
 

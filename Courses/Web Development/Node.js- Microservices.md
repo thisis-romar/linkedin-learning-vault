@@ -34,7 +34,7 @@ tags:
   - skill/microservices
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Microservices.md)
@@ -53,67 +53,67 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding how microservices are built and used
-  - What you should know
+  - [Understanding how microservices are built and used](#understanding-how-microservices-are-built-and-used)
+  - [What you should know](#what-you-should-know)
 - [**1. Prepare Your Development Environment**](#1-prepare-your-development-environment) (5 videos)
-  - Installing Git, Node.js, and Docker
-  - Getting the exercise files from GitHub
-  - Setting up Visual Studio Code, ESLint, and Prettier
-  - Launching MongoDB, Redis, and Jaeger in Docker
-  - Installing MongoDB Compass
+  - [Installing Git, Node.js, and Docker](#installing-git-nodejs-and-docker)
+  - [Getting the exercise files from GitHub](#getting-the-exercise-files-from-github)
+  - [Setting up Visual Studio Code, ESLint, and Prettier](#setting-up-visual-studio-code-eslint-and-prettier)
+  - [Launching MongoDB, Redis, and Jaeger in Docker](#launching-mongodb-redis-and-jaeger-in-docker)
+  - [Installing MongoDB Compass](#installing-mongodb-compass)
 - [**2. Planning Your Microservice Migration**](#2-planning-your-microservice-migration) (4 videos)
-  - Setting up and exploring your sample application
-  - Understanding the sample apps code
-  - Getting insights with OpenTelemetry and Jaeger
-  - Setting your mission
+  - [Setting up and exploring your sample application](#setting-up-and-exploring-your-sample-application)
+  - [Understanding the sample apps code](#understanding-the-sample-apps-code)
+  - [Getting insights with OpenTelemetry and Jaeger](#getting-insights-with-opentelemetry-and-jaeger)
+  - [Setting your mission](#setting-your-mission)
 - [**3. Your First Service: The Catalog Service**](#3-your-first-service-the-catalog-service) (7 videos)
-  - What's your goal for this chapter?
-  - Creating the service
-  - Designing a REST API for the catalog service
-  - Adding business logic and database access
-  - Creating your first REST endpoint
-  - Completing the API
-  - Testing REST endpoints
+  - [What's your goal for this chapter?](#whats-your-goal-for-this-chapter)
+  - [Creating the service](#creating-the-service)
+  - [Designing a REST API for the catalog service](#designing-a-rest-api-for-the-catalog-service)
+  - [Adding business logic and database access](#adding-business-logic-and-database-access)
+  - [Creating your first REST endpoint](#creating-your-first-rest-endpoint)
+  - [Completing the API](#completing-the-api)
+  - [Testing REST endpoints](#testing-rest-endpoints)
 - [**4. Creating a Service Registry**](#4-creating-a-service-registry) (9 videos)
-  - What's your goal for this chapter?
-  - Setting up the registry
-  - Registering services
-  - Creating and testing the registration route
-  - Unregistering services
-  - Querying the registry
-  - Removing expired services
-  - Registering on service on start
-  - Adding heartbeat and unregistering on shutdown
+  - [What's your goal for this chapter?](#whats-your-goal-for-this-chapter)
+  - [Setting up the registry](#setting-up-the-registry)
+  - [Registering services](#registering-services)
+  - [Creating and testing the registration route](#creating-and-testing-the-registration-route)
+  - [Unregistering services](#unregistering-services)
+  - [Querying the registry](#querying-the-registry)
+  - [Removing expired services](#removing-expired-services)
+  - [Registering on service on start](#registering-on-service-on-start)
+  - [Adding heartbeat and unregistering on shutdown](#adding-heartbeat-and-unregistering-on-shutdown)
 - [**5. Using Services**](#5-using-services) (7 videos)
-  - What's your goal for this chapter?
-  - Creating the service client
-  - Using the catalog service
-  - Testing the catalog service
-  - Sanitizing data
-  - Creating the CartService
-  - Service monitoring with OpenTelemetry and Jaeger
+  - [What's your goal for this chapter?](#whats-your-goal-for-this-chapter)
+  - [Creating the service client](#creating-the-service-client)
+  - [Using the catalog service](#using-the-catalog-service)
+  - [Testing the catalog service](#testing-the-catalog-service)
+  - [Sanitizing data](#sanitizing-data)
+  - [Creating the CartService](#creating-the-cartservice)
+  - [Service monitoring with OpenTelemetry and Jaeger](#service-monitoring-with-opentelemetry-and-jaeger)
 - [**6. Authenticating APIs**](#6-authenticating-apis) (6 videos)
-  - API authentication with JWT
-  - Creating the user service
-  - Add JWT tokens to the user service
-  - Make the front end use JWT authentication
-  - Using bearer headers
-  - Protecting endpoints with JWT
+  - [API authentication with JWT](#api-authentication-with-jwt)
+  - [Creating the user service](#creating-the-user-service)
+  - [Add JWT tokens to the user service](#add-jwt-tokens-to-the-user-service)
+  - [Make the front end use JWT authentication](#make-the-front-end-use-jwt-authentication)
+  - [Using bearer headers](#using-bearer-headers)
+  - [Protecting endpoints with JWT](#protecting-endpoints-with-jwt)
 - [**7. Adding Fault Tolerance and Resilience**](#7-adding-fault-tolerance-and-resilience) (8 videos)
-  - What's your goal for this chapter?
-  - Chaos testing
-  - Adding caching to reduce load and bridge outages
-  - Using queues for decoupling
-  - Installing up RabbitMQ
-  - Setting up the order service
-  - Producing orders
-  - Consuming orders
+  - [What's your goal for this chapter?](#whats-your-goal-for-this-chapter)
+  - [Chaos testing](#chaos-testing)
+  - [Adding caching to reduce load and bridge outages](#adding-caching-to-reduce-load-and-bridge-outages)
+  - [Using queues for decoupling](#using-queues-for-decoupling)
+  - [Installing up RabbitMQ](#installing-up-rabbitmq)
+  - [Setting up the order service](#setting-up-the-order-service)
+  - [Producing orders](#producing-orders)
+  - [Consuming orders](#consuming-orders)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding how microservices are built and used
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980)
@@ -136,9 +136,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Microservices]] (2), [[Software Architecture]] (1), power (1)
 > **File Paths:** node.js (3)
 > **CLI Commands:** node (3)
-> **Code Keywords:** let (2)
 > **Speakers:** - [daniel] (1)
 
 #### What you should know
@@ -168,17 +168,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (3), [[Node.js]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Express.js]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** node (2), find (2), make (1), npm (1)
 > **Env Vars:** rest (2), es6 (1), http (1)
 > **File Paths:** node.js (2), express.js (1)
-> **Code Keywords:** async (1), await (1), super (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Prepare Your Development Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Git, Node.js, and Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980)
@@ -207,13 +207,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3), next (1), [[Node.js]] (1), [[GitHub]] (1), [[MongoDB]] (1)
 > **CLI Commands:** docker (4), git (3), node (2), make (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1), [git-scm.com](https://git-scm.com) (1), [docker.com](https://docker.com) (1)
 > **Tools:** github (1), terminal (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1), download the (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** lts (1)
 
 #### Getting the exercise files from GitHub
@@ -253,9 +253,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), next (2), [[Fetch]] (1), node (1), [[Microservices]] (1)
 > **CLI Commands:** git (7), node (1)
 > **Tools:** terminal (1), github (1), visual studio (1)
-> **Code Keywords:** return. (1), switch (1)
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** url (1)
 > **Speakers:** - to (1)
@@ -321,11 +321,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (7), [[JSON]] (2), [[Node.js]] (1), [[GitHub]] (1), node (1)
 > **Tools:** visual studio (6), terminal (3), github (1)
 > **Prerequisites:** install (6)
 > **UI Navigation:** go to (2), click on (2), open the (1)
 > **CLI Commands:** node (2), find (1), npm (1)
-> **Code Keywords:** switch (2), for, (1), let (1)
 > **Env Vars:** json (2), ide (1), npm (1)
 > **File Paths:** node.js (1)
 > **Cross-References:** go back to (1)
@@ -413,13 +413,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (12), [[MongoDB]] (4), next (3), database (2), [[npm]] (2)
 > **CLI Commands:** docker (9), sudo (4), make (2), mongo (2), npm (2)
 > **Prerequisites:** install (5)
 > **UI Navigation:** click on (2), scroll down (1), open the (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** cmd (1), mac (1), url (1)
 > **Tools:** terminal (1), visual studio (1), docker desktop (1)
-> **Code Keywords:** this. (2)
 > **File Paths:** snippets.md (1)
 
 #### Installing MongoDB Compass
@@ -449,6 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[Redis]] (1), data (1), [[Search]] (1), application (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** docker (1)
 > **Speakers:** - [tutor] (1)
@@ -456,7 +457,7 @@ created: 2026-04-29
 
 ### 2. Planning Your Microservice Migration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up and exploring your sample application
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980)
@@ -589,10 +590,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), [[JSON]] (4), [[MongoDB]] (3), [[Microservices]] (2), [[Node.js]] (2)
 > **CLI Commands:** node (3), npm (2), cd (1), find (1)
 > **Env Vars:** json (3), csv (1)
 > **File Paths:** node.js (2), package.json (1)
-> **Code Keywords:** this, (2), import. (1)
 > **Definitions:** is a  (3)
 > **URLs:** [test.com](https://test.com) (2)
 > **Ports:** port 3000 (2)
@@ -693,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), this. (1), module (1), class. (1)
+> **Frameworks & Libraries:** [[Redis]] (8), application (7), express (6), data (3), database (3)
 > **File Paths:** app.js (2), index.js (2), start.js (1)
 > **Definitions:** is a  (4), is called (1)
 > **Prerequisites:** configure (2), set up (2), setup (1)
@@ -777,9 +778,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), product (4), cloud (2), data (2), feature (1)
 > **CLI Commands:** find (4), make (1), docker (1)
 > **Analogies:** imagine (2), it's like (1), for instance (1)
-> **Code Keywords:** interface (1), let (1)
 > **Env Vars:** cncf (2)
 > **Prerequisites:** set up (1), install (1)
 > **UI Navigation:** click on (1)
@@ -823,8 +824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (4), application (2), [[Scalability]] (1), teams (1), management (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -832,7 +833,7 @@ created: 2026-04-29
 
 ### 3. Your First Service: The Catalog Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980)
@@ -887,8 +888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), business (3), [[Representational State Transfer (REST)|Rest]] (3), [[Redis]] (2), express (2)
 > **Env Vars:** rest (3), api (2), html (1), http (1)
-> **Code Keywords:** let (2), delete (1), interface (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1001,7 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), else. (1), delete (1), require (1)
+> **Frameworks & Libraries:** express (5), [[Redis]] (3), [[JSON]] (2), [[npm]] (2), application (2)
 > **CLI Commands:** find (2), npm (2), make (2), cd (1), node (1)
 > **Tools:** terminal (4), visual studio (1)
 > **File Paths:** start.js (3)
@@ -1095,8 +1096,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (9), api (5), data (5), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Software Development]] (1)
 > **Env Vars:** rest (8), http (7), api (5), post (5), put (3)
-> **Code Keywords:** delete (7), let (4), interface (1)
 > **API Endpoints:** get  (4), post  (2), put  (1), delete  (1)
 > **Code Identifiers:** itemid (3), getall (1), getone (1)
 > **Definitions:** stands for (1), is an  (1), known as (1)
@@ -1225,8 +1226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (12), database (5), express (3), [[Redis]] (2), business (2)
 > **CLI Commands:** make (5), docker (4), find (1)
-> **Code Keywords:** let (5), pass (2), continue (1)
 > **UI Navigation:** open the (2), scroll up (2), scroll down (1)
 > **Tools:** visual studio (1), docker desktop (1)
 > **Exercise Files:** template (2)
@@ -1323,7 +1324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (3), async (2), class. (1), require (1), function (1)
+> **Frameworks & Libraries:** database (3), [[JSON]] (3), business (1), api (1), web (1)
 > **Env Vars:** http (2), api (1)
 > **File Paths:** index.js (1), res.json (1)
 > **CLI Commands:** node (1)
@@ -1436,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), pass (3), const (2), let (2), function (1)
+> **Frameworks & Libraries:** next (2), [[JSON]] (2), [[Fetch]] (1), functional (1), application (1)
 > **Env Vars:** http (4), url (2), api (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** getone (1)
@@ -1558,7 +1559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (5), return. (2), pass (1)
+> **Frameworks & Libraries:** next (5), [[Representational State Transfer (REST)|Rest]] (4), prompt (3), hit (2), [[MongoDB]] (2)
 > **Env Vars:** rest (3), http (2), api (1), delete (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **API Endpoints:** get  (3)
@@ -1570,7 +1571,7 @@ created: 2026-04-29
 
 ### 4. Creating a Service Registry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980)
@@ -1619,8 +1620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), application (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [host] (1)
 
@@ -1713,7 +1714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), static (1), async (1), finally, (1)
+> **Frameworks & Libraries:** next (6), [[Microservices]] (3), [[npm]] (2), [[JSON]] (1), front-end (1)
 > **CLI Commands:** find (4), npm (2)
 > **UI Navigation:** open the (3)
 > **File Paths:** start.js (1), index.js (1)
@@ -1867,7 +1868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), class, (1), static (1), case, (1)
+> **Frameworks & Libraries:** next (4), database (1), data (1)
 > **File Paths:** registry.js (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
@@ -1940,7 +1941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (6), let (3), class. (1), require (1), return, (1)
+> **Frameworks & Libraries:** next (2), express (1), [[JSON]] (1)
 > **File Paths:** index.js (2), res.json (1)
 > **Versions:** 127.0.0 (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2124,7 +2125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (11), function (3), this. (2), const (2)
+> **Frameworks & Libraries:** [[JSON]] (1), next (1)
 > **UI Navigation:** scroll down (6), go to (2)
 > **CLI Commands:** make (4), find (3)
 > **Code Identifiers:** getkey (2), getrequestarguments (1)
@@ -2318,7 +2319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (4), pass (3), const (2), require (1)
+> **Frameworks & Libraries:** next (2), [[npm]] (2), parallel (1), [[JSON]] (1)
 > **CLI Commands:** find (3), npm (2), make (1)
 > **File Paths:** index.js (2), registry.js (1), response.json (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -2444,7 +2445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), delete (2), function (1), const (1)
+> **Frameworks & Libraries:** next (4), data (3), [[JavaScript]] (2), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), open the (1)
 > **File Paths:** console.lock (1), package.json (1)
@@ -2555,7 +2556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), require (3), pass (3), const (2), this . (1)
+> **Frameworks & Libraries:** next (5), [[npm]] (2), [[Microservices]] (1), cd (1), [[JSON]] (1)
 > **CLI Commands:** make (3), npm (2), cd (1), find (1)
 > **Env Vars:** http (4), es6 (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -2669,7 +2670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), async (3), const (2), delete (2)
+> **Frameworks & Libraries:** [[JavaScript]] (1), hit (1), next (1)
 > **Definitions:** is called (3), is a  (1), we call this (1)
 > **CLI Commands:** make (3)
 > **File Paths:** start.js (1)
@@ -2680,7 +2681,7 @@ created: 2026-04-29
 
 ### 5. Using Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980)
@@ -2701,7 +2702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Creating the service client
@@ -2863,7 +2864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (5), let (3), await (3), throw (3), require (2)
+> **Frameworks & Libraries:** next (8), data (7), application (5), [[JavaScript]] (3), front-end (1)
 > **Code Identifiers:** getservice (2), requestoptions (2), errormessage (1), requestoption (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** url (2), http (1)
@@ -3027,7 +3028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (5), function (4), const (2), throw (2)
+> **Frameworks & Libraries:** data (8), next (4), application (3), business (1), [[npm]] (1)
 > **Env Vars:** url (4), http (1)
 > **CLI Commands:** npm (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3106,7 +3107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (1), this, (1)
+> **Frameworks & Libraries:** application (1), [[Microservices]] (1), data (1), next (1)
 > **Env Vars:** sku (1), url (1)
 > **Tools:** visual studio (2)
 > **URLs:** [test.com](https://test.com) (1)
@@ -3228,7 +3229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (7), super (3), pass (3), extends (2)
+> **Frameworks & Libraries:** data (5), application (3), api (3), next (2), product (2)
 > **Code Identifiers:** createresponse (5), updateditem (1)
 > **Env Vars:** api (3), json (1)
 > **UI Navigation:** go to (2), open the (1)
@@ -3312,7 +3313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1), class, (1), throw (1), require (1)
+> **Frameworks & Libraries:** [[Redis]] (7), next (4), [[MongoDB]] (3), [[Microservices]] (2), [[npm]] (2)
 > **CLI Commands:** find (3), npm (2), cd (1)
 > **UI Navigation:** click on (5), drag and drop (1)
 > **File Paths:** start.js (1), index.js (1)
@@ -3388,6 +3389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), express (2), [[Redis]] (2), data (1), [[System Architecture]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** docker (1), find (1)
 > **Env Vars:** hgetall (1), dag (1)
@@ -3395,12 +3397,11 @@ created: 2026-04-29
 > **API Endpoints:** get  (1)
 > **Versions:** 1.4 (1)
 > **UI Navigation:** click on (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 6. Authenticating APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### API authentication with JWT
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980)
@@ -3481,8 +3482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1), database (1), [[JSON]] (1), web (1), next (1)
 > **Env Vars:** jwt (8), api (1), json (1)
-> **Code Keywords:** let (3), require (2), case, (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Speakers:** - [instructor] (1), - anyone (1)
 > **CLI Commands:** make (1)
@@ -3548,8 +3549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), application (3), [[npm]] (2), hit (2), [[Redis]] (1)
 > **CLI Commands:** npm (2), docker (1), find (1), cd (1), node (1)
-> **Code Keywords:** let (5), delete (1)
 > **UI Navigation:** click on (3), open the (2), go to (1)
 > **File Paths:** index.js (2), node.js (1)
 > **Code Identifiers:** requirestack (2)
@@ -3676,7 +3677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), const (2), return. (2), module (1), require (1)
+> **Frameworks & Libraries:** [[JSON]] (6), application (4), web (3), [[npm]] (2), [[Microservices]] (1)
 > **Env Vars:** json (6), jwt (5), npm (2)
 > **CLI Commands:** npm (2), make (1)
 > **Prerequisites:** install (2), before we start (1)
@@ -3816,7 +3817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), catch, (2), const (2), pass (2), function (1)
+> **Frameworks & Libraries:** application (5), next (4), [[JSON]] (2), web (2), database (1)
 > **Env Vars:** jwt (13), json (2), npm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** npm (1)
@@ -3972,7 +3973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (4), const (3), function (2), case, (2)
+> **Frameworks & Libraries:** next (5), [[Microservices]] (1), [[JSON]] (1), web (1), [[npm]] (1)
 > **Code Identifiers:** requireadmin (3), authheader (3), sendstatus (2), isadmin (1)
 > **Env Vars:** jwt (4), crud (1), http (1), json (1)
 > **Definitions:** is a  (3), is called (1)
@@ -4078,7 +4079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (3), protected (2), const (1), require (1)
+> **Frameworks & Libraries:** express (3), hit (1), management (1), database (1), [[Tokens]] (1)
 > **Env Vars:** jwt (3), crud (2), wrong (1)
 > **Analogies:** for instance (3), similar to (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
@@ -4090,7 +4091,7 @@ created: 2026-04-29
 
 ### 7. Adding Fault Tolerance and Resilience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980)
@@ -4153,7 +4154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), function (1)
+> **Frameworks & Libraries:** data (2), cloud (1), [[Probability]] (1), [[Hardware]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
@@ -4258,7 +4259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1)
+> **Frameworks & Libraries:** application (6), data (3), express (2), next (1)
 > **Tools:** visual studio (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -4329,7 +4330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try. (1)
+> **Frameworks & Libraries:** next (1), hit (1), management (1), [[Search]] (1), [[Google]] (1)
 > **Code Identifiers:** allitemscache (4)
 > **Analogies:** for instance (2)
 > **Cross-References:** as you saw (1)
@@ -4378,9 +4379,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), aws (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Node.js]] (1)
 > **CLI Commands:** aws (1), node (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -4424,7 +4425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), super (1), let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** management (2), next (1)
 > **CLI Commands:** docker (2), find (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
@@ -4503,7 +4504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[npm]] (2), cd (1), application (1), [[ESLint]] (1)
 > **UI Navigation:** open the (2), click on (2), go to (1)
 > **CLI Commands:** npm (2), cd (1)
 > **URLs:** [localhost:3000](https://localhost:3000) (1), [test.com](https://test.com) (1)
@@ -4609,7 +4610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), await (4), const (4), pass (3), case, (2)
+> **Frameworks & Libraries:** next (5), [[JSON]] (3), api (2), application (2), [[npm]] (1)
 > **Env Vars:** http (3), json (3), api (2), anqp (1), dsm (1)
 > **CLI Commands:** make (2), find (1), npm (1), node (1), docker (1)
 > **Code Identifiers:** createchannel (1), userid (1), assertqueue (1), sendtoqueue (1)
@@ -4801,7 +4802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (6), async (5), await (5), const (5)
+> **Frameworks & Libraries:** [[JSON]] (4), next (3), application (2), [[Microservices]] (1), [[npm]] (1)
 > **Code Identifiers:** createchannel (1), assertqueue (1), tostring (1), userid (1), noack (1)
 > **CLI Commands:** npm (1), node (1), make (1)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -4813,7 +4814,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980)
@@ -4842,6 +4843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (1), [[Representational State Transfer (REST)|Rest]] (1), application (1), cloud (1), aws (1)
 > **CLI Commands:** node (1), aws (1)
 > **Env Vars:** rest (1), aws (1)
 > **Definitions:** is a  (1)

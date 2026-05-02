@@ -30,7 +30,7 @@ tags:
   - skill/business-analytics
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Financial%20Forecasting%20with%20Analytics%20Essential%20Training.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The role that analytics plays in financial forecasting
+  - [The role that analytics plays in financial forecasting](#the-role-that-analytics-plays-in-financial-forecasting)
 - [**1. The Basics**](#1-the-basics) (6 videos)
-  - What is analytics?
-  - Business intelligence and company financials
-  - Conventional financial forecasting
-  - Basics of financial regression analysis
-  - Predict values with regression analysis
-  - Doing a forecast in Excel
+  - [What is analytics?](#what-is-analytics)
+  - [Business intelligence and company financials](#business-intelligence-and-company-financials)
+  - [Conventional financial forecasting](#conventional-financial-forecasting)
+  - [Basics of financial regression analysis](#basics-of-financial-regression-analysis)
+  - [Predict values with regression analysis](#predict-values-with-regression-analysis)
+  - [Doing a forecast in Excel](#doing-a-forecast-in-excel)
 - [**2. Financial Metrics**](#2-financial-metrics) (3 videos)
-  - Financial forecasting applications
-  - Using data in Excel
-  - Decision-making with data
+  - [Financial forecasting applications](#financial-forecasting-applications)
+  - [Using data in Excel](#using-data-in-excel)
+  - [Decision-making with data](#decision-making-with-data)
 - [**3. Forecasting in Finance**](#3-forecasting-in-finance) (3 videos)
-  - Decide on a finance question
-  - Gather financial data
-  - Clean financial data
+  - [Decide on a finance question](#decide-on-a-finance-question)
+  - [Gather financial data](#gather-financial-data)
+  - [Clean financial data](#clean-financial-data)
 - [**4. Performing Forecasting**](#4-performing-forecasting) (3 videos)
-  - Applied forecasting with data
-  - Regressions for forecasting
-  - Using Excel for regressions
+  - [Applied forecasting with data](#applied-forecasting-with-data)
+  - [Regressions for forecasting](#regressions-for-forecasting)
+  - [Using Excel for regressions](#using-excel-for-regressions)
 - [**5. Interpret Forecast Results**](#5-interpret-forecast-results) (3 videos)
-  - What do the results mean?
-  - Confidence intervals around the result
-  - Stress testing the results
+  - [What do the results mean?](#what-do-the-results-mean)
+  - [Confidence intervals around the result](#confidence-intervals-around-the-result)
+  - [Stress testing the results](#stress-testing-the-results)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your financial forecasting learning path
+  - [Continuing your financial forecasting learning path](#continuing-your-financial-forecasting-learning-path)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The role that analytics plays in financial forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980)
@@ -101,14 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), business (2), [[Analytics]] (2), [[Financial Forecasting]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [michael] (1)
 
 
 ### 1. The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980)
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Big Data]] (9), business (8), [[Decision-Making]] (2), [[Business Intelligence (BI)|Business intelligence]] (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), case, (1)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
@@ -313,8 +313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (22), data (13), business (8), [[Forecasting]] (3), bi (2)
 > **CLI Commands:** make (9)
-> **Code Keywords:** finally, (3), let (1), for, (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Analogies:** for example (1), imagine (1), picture (1)
 > **Env Vars:** hppo (2)
@@ -389,8 +389,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Forecasting]] (6), business (3), [[Financial Statements]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for instance (3), for example (1)
-> **Code Keywords:** let (1), case, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cagr (1)
 > **Cross-References:** coming up (1)
@@ -490,9 +490,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (6), power (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), is called (1), refers to (1), is an  (1)
-> **Code Keywords:** let (2), from. (2)
 > **Analogies:** for example (2), picture (2)
 > **Env Vars:** exta (1)
 > **Versions:** 1.57 (1)
@@ -557,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 1.57 (2), 5.436 (1), 30.3 (1), 0.3030 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -693,7 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), [[Google]] (2), [[Forecasting]] (1)
 > **Versions:** 107.26 (1), 453.89 (1), 1.77 (1), 3.82 (1), 235.18 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -705,7 +705,7 @@ created: 2026-04-29
 
 ### 2. Financial Metrics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial forecasting applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980)
@@ -782,8 +782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Forecasting]] (4), [[Financial Forecasting]] (3), [[Big Data]] (3), business (2)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** case, (1), finally, (1)
 > **Cross-References:** we talked about (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -874,7 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (1), from. (1)
+> **Frameworks & Libraries:** next (3), [[Financial Forecasting]] (1), [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1)
 > **Env Vars:** cagr (3), eps (3)
 > **Versions:** 7.33 (3), 1.70 (1)
 > **CLI Commands:** make (1)
@@ -1015,7 +1015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), raise (2), case, (1)
+> **Frameworks & Libraries:** next (3), business (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1024,7 +1024,7 @@ created: 2026-04-29
 
 ### 3. Forecasting in Finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decide on a finance question
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980)
@@ -1093,9 +1093,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), product (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Forecasting]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** require (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Gather financial data
@@ -1241,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), private (1), for. (1), require (1)
+> **Frameworks & Libraries:** data (40), [[Google]] (3), [[Search]] (2), [[Statistics]] (2), [[Forecasting]] (1)
 > **Analogies:** for example (7), for instance (1)
 > **CLI Commands:** find (2), python (1)
 > **Definitions:** is a  (2)
@@ -1422,9 +1422,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (48), next (1), database (1), product (1), feature (1)
 > **Analogies:** for example (12), for instance (1)
 > **Env Vars:** sic (3), naics (2), gdp (1), zip (1)
-> **Code Keywords:** let (1), delete (1), this, (1), throw (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1432,7 +1432,7 @@ created: 2026-04-29
 
 ### 4. Performing Forecasting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applied forecasting with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980)
@@ -1589,7 +1589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (4), [[Forecasting]] (1), next (1), [[Google]] (1)
 > **Definitions:** is a  (3), in other words (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
@@ -1647,6 +1647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), business (2), [[Forecasting]] (2), [[Microsoft Excel|Excel]] (2), [[Big Data]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** coming up (1)
@@ -1738,9 +1739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Forecasting]] (1)
 > **Versions:** 10.10 (2), 7.403 (1), 1.74 (1), 6.66 (1), 2.52 (1)
 > **Definitions:** in other words (2), is called (1), is a  (1)
-> **Code Keywords:** case, (1), this, (1)
 > **UI Navigation:** drag and drop (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1749,7 +1750,7 @@ created: 2026-04-29
 
 ### 5. Interpret Forecast Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What do the results mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980)
@@ -1876,7 +1877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), case, (2), delete (1)
+> **Frameworks & Libraries:** data (16), [[Microsoft Excel|Excel]] (2), [[Financial Forecasting]] (1), [[Stata]] (1), hit (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sas (1), nps (1), hhi (1)
@@ -2019,8 +2020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (3), product (2)
 > **Versions:** 0.295 (1), 0.299 (1), 29.5 (1), 29.9 (1), 29.7 (1)
-> **Code Keywords:** let (6), this, (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** hhi (1)
@@ -2085,8 +2086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2)
 > **Versions:** 751.5 (2), 816.8 (2), 808.34 (2), 825.3 (2), 751.53 (1)
-> **Code Keywords:** raise (1), case. (1), case, (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nps (1)
 > **Definitions:** is a  (1)
@@ -2095,7 +2096,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your financial forecasting learning path
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980)
@@ -2130,6 +2131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (4), [[Analytics]] (2), [[Forecasting]] (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [michael] (1)

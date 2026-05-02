@@ -42,7 +42,7 @@ tags:
   - skill/apache-spark
   - skill/data-pipelines
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Apache%20Spark%20Essential%20Training-%20Big%20Data%20Engineering.md)
@@ -61,49 +61,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Driving big data engineering with Apache Spark
-  - Course prerequisites
-  - Setting up the exercise files
+  - [Driving big data engineering with Apache Spark](#driving-big-data-engineering-with-apache-spark)
+  - [Course prerequisites](#course-prerequisites)
+  - [Setting up the exercise files](#setting-up-the-exercise-files)
 - [**1. Data Engineering Concepts**](#1-data-engineering-concepts) (5 videos)
-  - What is data engineering?
-  - Data engineering vs. data analytics vs. data science
-  - Data engineering functions
-  - Batch vs. real-time processing
-  - Data engineering with Spark
+  - [What is data engineering?](#what-is-data-engineering)
+  - [Data engineering vs. data analytics vs. data science](#data-engineering-vs-data-analytics-vs-data-science)
+  - [Data engineering functions](#data-engineering-functions)
+  - [Batch vs. real-time processing](#batch-vs-real-time-processing)
+  - [Data engineering with Spark](#data-engineering-with-spark)
 - [**2. Spark Capabilities for ETL**](#2-spark-capabilities-for-etl) (5 videos)
-  - Spark architecture review
-  - Parallel processing with Spark
-  - Spark execution plan
-  - Stateful stream processing
-  - Spark analytics and ML
+  - [Spark architecture review](#spark-architecture-review)
+  - [Parallel processing with Spark](#parallel-processing-with-spark)
+  - [Spark execution plan](#spark-execution-plan)
+  - [Stateful stream processing](#stateful-stream-processing)
+  - [Spark analytics and ML](#spark-analytics-and-ml)
 - [**3. Batch Processing Pipelines**](#3-batch-processing-pipelines) (5 videos)
-  - Batch processing use case: Problem statement
-  - Batch processing use case: Design
-  - Setting up the local DB
-  - Uploading stock to a central store
-  - Aggregating stock across warehouses
+  - [Batch processing use case: Problem statement](#batch-processing-use-case-problem-statement)
+  - [Batch processing use case: Design](#batch-processing-use-case-design)
+  - [Setting up the local DB](#setting-up-the-local-db)
+  - [Uploading stock to a central store](#uploading-stock-to-a-central-store)
+  - [Aggregating stock across warehouses](#aggregating-stock-across-warehouses)
 - [**4. Real-Time Processing Pipelines**](#4-real-time-processing-pipelines) (5 videos)
-  - Real-time use case: Problem
-  - Real-time use case: Design
-  - Generating a visits data stream
-  - Building a website analytics job
-  - Executing the real-time pipeline
+  - [Real-time use case: Problem](#real-time-use-case-problem)
+  - [Real-time use case: Design](#real-time-use-case-design)
+  - [Generating a visits data stream](#generating-a-visits-data-stream)
+  - [Building a website analytics job](#building-a-website-analytics-job)
+  - [Executing the real-time pipeline](#executing-the-real-time-pipeline)
 - [**5. Data Engineering with Spark: Best Practices**](#5-data-engineering-with-spark-best-practices) (4 videos)
-  - Batch vs. real-time options
-  - Scaling extraction and loading operations
-  - Scaling processing operations
-  - Building resiliency
+  - [Batch vs. real-time options](#batch-vs-real-time-options)
+  - [Scaling extraction and loading operations](#scaling-extraction-and-loading-operations)
+  - [Scaling processing operations](#scaling-processing-operations)
+  - [Building resiliency](#building-resiliency)
 - [**6. End-to-End Exercise Project**](#6-end-to-end-exercise-project) (4 videos)
-  - Project exercise requirements
-  - Solution design
-  - Extracting long last actions
-  - Building a scorecard
+  - [Project exercise requirements](#project-exercise-requirements)
+  - [Solution design](#solution-design)
+  - [Extracting long last actions](#extracting-long-last-actions)
+  - [Building a scorecard](#building-a-scorecard)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More about Apache Spark
+  - [More about Apache Spark](#more-about-apache-spark)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Driving big data engineering with Apache Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980)
@@ -126,8 +126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Spark]] (3), data (2), [[Data Engineering]] (2), [[Big Data]] (1), [[Real-Time]] (1)
 > **CLI Commands:** apache (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [kumaran] (1)
 
 #### Course prerequisites
@@ -157,9 +157,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Spark]] (3), data (3), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (1), [[SQL]] (1)
 > **CLI Commands:** apache (3), python (2), docker (2)
 > **Prerequisites:** set up (2), prerequisite (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
@@ -291,11 +291,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hadoop]] (5), [[Java]] (4), [[PySpark]] (3), [[Python (Programming Language)|Python]] (3), data (2)
 > **Prerequisites:** install (10), set up (6), setup (3)
 > **CLI Commands:** docker (9), python (3), make (2), brew (1)
 > **Tools:** jupyter (5), anaconda (3), docker desktop (1), command prompt (1), powershell (1)
 > **UI Navigation:** open the (3), go to (3), navigate to (1), switch to (1)
-> **Code Keywords:** let (3), switch (1), finally, (1), this, (1)
 > **Exercise Files:** exercise files (5), download the (1)
 > **Versions:** java 17 (2), python 3 (1)
 > **URLs:** [docker.com](https://docker.com) (1), [anaconda.com](https://anaconda.com) (1)
@@ -303,7 +303,7 @@ created: 2026-04-29
 
 ### 1. Data Engineering Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980)
@@ -338,7 +338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** data (12), [[Data Engineering]] (6), [[Big Data]] (3), [[Engineering]] (2), [[Analytics]] (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
@@ -376,6 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Analytics]] (7), business (5), [[Data Engineering]] (4), [[Big Data]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -452,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (4), function (2), let (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (27), [[Security]] (4), [[Big Data]] (3), [[Data Engineering]] (2), [[Data Acquisition]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -521,6 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (7), data (6), [[Batch Processing]] (6), management (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -552,7 +554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Apache Spark]] (1), [[Data Engineering]] (1), [[Real-Time]] (1), parallel (1)
 > **Env Vars:** rdbms (1), hdfs (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
@@ -560,7 +562,7 @@ created: 2026-04-29
 
 ### 2. Spark Capabilities for ETL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spark architecture review
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980)
@@ -607,8 +609,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Scalability]] (2), node (2), parallel (2), database (1)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Parallel processing with Spark
@@ -688,7 +690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2), implements (1)
+> **Frameworks & Libraries:** data (24), parallel (8), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Big Data]] (1), [[Apache Spark]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** apache (2)
 > **Env Vars:** jdbc (2)
@@ -724,6 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Apache Spark]] (1), parallel (1)
 > **CLI Commands:** apache (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -777,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), require (1)
+> **Frameworks & Libraries:** feature (2), [[Apache Spark]] (2), data (2), [[Metadata]] (1), [[Real-Time]] (1)
 > **CLI Commands:** apache (2)
 > **Env Vars:** hdfs (1)
 > **Analogies:** for example (1)
@@ -824,8 +827,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (8), [[SQL]] (7), [[Data Engineering]] (5), data (4), [[Apache Spark]] (2)
 > **Env Vars:** sql (7)
-> **Code Keywords:** let (2), interface (1)
 > **CLI Commands:** apache (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -833,7 +836,7 @@ created: 2026-04-29
 
 ### 3. Batch Processing Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch processing use case: Problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980)
@@ -874,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), require (1)
+> **Frameworks & Libraries:** data (5), database (3), [[Batch Processing]] (2), [[Apache Spark]] (1), business (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -919,9 +922,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (3), concurrent (2), [[Data Engineering]] (1), [[Security]] (1)
 > **Code Identifiers:** warehouse_stock (2), global_stock (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** hdfs (1)
 > **Speakers:** - [instructor] (1)
 
@@ -966,7 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** data (7), database (6), [[Batch Processing]] (1)
 > **Code Identifiers:** warehouse_stock (2), generate_data (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
@@ -1052,8 +1055,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (3), parallel (2), [[SQL]] (1)
 > **Env Vars:** url (2), sql (1), hdfs (1), hgfs (1)
-> **Code Keywords:** let (2), delete (1)
 > **Prerequisites:** required to (1), set up (1)
 > **CLI Commands:** find (1)
 > **Versions:** 03.04 (1)
@@ -1127,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1)
+> **Frameworks & Libraries:** data (9), database (6), next (2), [[MySQL]] (2), [[Databases]] (2)
 > **Env Vars:** url (2), sql (1), jdbc (1)
 > **CLI Commands:** mysql (2)
 > **Cross-References:** previous video (1)
@@ -1139,7 +1142,7 @@ created: 2026-04-29
 
 ### 4. Real-Time Processing Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Real-time use case: Problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-problem?u=76281980)
@@ -1184,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Real-Time]] (5), data (2), [[Engineering]] (2), [[Analytics]] (2), business (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Env Vars:** faq (1)
 > **Speakers:** - [instructor] (1)
@@ -1230,7 +1233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (6), application (4), [[Real-Time]] (3), [[Analytics]] (2), database (2)
 > **Code Identifiers:** website_stats (1), visit_stats (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is a  (1)
@@ -1287,8 +1290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1)
 > **Prerequisites:** setup (1), prerequisite (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** bde (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1360,7 +1363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), finally, (2), implements (1), interface (1)
+> **Frameworks & Libraries:** [[Redis]] (4), data (4), [[Analytics]] (2), database (1), [[PySpark]] (1)
 > **CLI Commands:** docker (1), find (1)
 > **Env Vars:** csv (1)
 > **UI Navigation:** go to (1)
@@ -1426,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (2)
+> **Frameworks & Libraries:** [[Redis]] (5), data (2), next (1), [[SQL]] (1), [[Fetch]] (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -1436,7 +1439,7 @@ created: 2026-04-29
 
 ### 5. Data Engineering with Spark: Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch vs. real-time options
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980)
@@ -1489,8 +1492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (7), data (2), management (2), [[Analytics]] (2), [[Apache Spark]] (1)
 > **CLI Commands:** make (2), apache (1)
-> **Code Keywords:** super (1), case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1545,7 +1548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (15), parallel (8), [[Data Engineering]] (2), [[Apache Spark]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** jdbc (1), rdbms (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is an  (1)
@@ -1581,8 +1584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Apache Spark]] (2)
 > **CLI Commands:** apache (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** rds (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1621,6 +1624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Apache Spark]] (2), node (1)
 > **CLI Commands:** make (2), apache (2), node (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [lecturer] (1)
@@ -1628,7 +1632,7 @@ created: 2026-04-29
 
 ### 6. End-to-End Exercise Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project exercise requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980)
@@ -1669,7 +1673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Apache Spark]] (1), data (1), next (1), [[Batch Processing]] (1)
 > **CLI Commands:** apache (1), make (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** setup (1)
@@ -1704,8 +1708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[Redis]] (1), next (1)
 > **Code Identifiers:** visit_stats (1), website_stats (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1746,8 +1750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (2), next (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** faq (1)
 > **Best Practices:** make sure to (1)
@@ -1795,8 +1799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (6), data (1)
 > **Code Identifiers:** last_action (3), write_to_redis (1), raw_last_action (1), writestream (1)
-> **Code Keywords:** let (2), function (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -1804,7 +1808,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More about Apache Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/more-about-apache-spark?u=76281980)
@@ -1827,8 +1831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[Apache Spark]] (2), data (1)
 > **CLI Commands:** apache (3), find (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [kumaran] (1)
 
 

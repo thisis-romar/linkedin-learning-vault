@@ -35,7 +35,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Data%20Scientists.md)
@@ -54,54 +54,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Advanced SQL techniques for data science
-  - What you should know
+  - [Advanced SQL techniques for data science](#advanced-sql-techniques-for-data-science)
+  - [What you should know](#what-you-should-know)
 - [**1. Data Modeling: Tables**](#1-data-modeling-tables) (7 videos)
-  - Rules of normalization
-  - Denormalization
-  - Partitioning data
-  - Materialized views
-  - Read replicas
-  - Challenge: Design a data model for analytics
-  - Solution: Design a data model for analytics
+  - [Rules of normalization](#rules-of-normalization)
+  - [Denormalization](#denormalization)
+  - [Partitioning data](#partitioning-data)
+  - [Materialized views](#materialized-views)
+  - [Read replicas](#read-replicas)
+  - [Challenge: Design a data model for analytics](#challenge-design-a-data-model-for-analytics)
+  - [Solution: Design a data model for analytics](#solution-design-a-data-model-for-analytics)
 - [**2. Data Modeling: Indexes**](#2-data-modeling-indexes) (7 videos)
-  - B-tree indexes
-  - Bitmap indexes
-  - Hash indexes
-  - GiST and SP-GiST indexes
-  - GIN and BRIN indexes
-  - Challenge: Choosing an optimal indexing strategy
-  - Solution: Choosing an optimal indexing strategy
+  - [B-tree indexes](#b-tree-indexes)
+  - [Bitmap indexes](#bitmap-indexes)
+  - [Hash indexes](#hash-indexes)
+  - [GiST and SP-GiST indexes](#gist-and-sp-gist-indexes)
+  - [GIN and BRIN indexes](#gin-and-brin-indexes)
+  - [Challenge: Choosing an optimal indexing strategy](#challenge-choosing-an-optimal-indexing-strategy)
+  - [Solution: Choosing an optimal indexing strategy](#solution-choosing-an-optimal-indexing-strategy)
 - [**3. Query Optimization**](#3-query-optimization) (7 videos)
-  - EXPLAIN and ANALYZE commands
-  - Generating data with generate_sequence
-  - Generating time series data
-  - Analyzing a query with WHERE clauses and indexes
-  - Analyzing a query with a join
-  - Challenge: Optimize a query using an explain plan
-  - Solution: Optimize a query using an explain plan
+  - [EXPLAIN and ANALYZE commands](#explain-and-analyze-commands)
+  - [Generating data with generate_sequence](#generating-data-with-generate_sequence)
+  - [Generating time series data](#generating-time-series-data)
+  - [Analyzing a query with WHERE clauses and indexes](#analyzing-a-query-with-where-clauses-and-indexes)
+  - [Analyzing a query with a join](#analyzing-a-query-with-a-join)
+  - [Challenge: Optimize a query using an explain plan](#challenge-optimize-a-query-using-an-explain-plan)
+  - [Solution: Optimize a query using an explain plan](#solution-optimize-a-query-using-an-explain-plan)
 - [**4. User-Defined Functions**](#4-user-defined-functions) (7 videos)
-  - Extending SQL with user-defined functions
-  - SQL query functions
-  - Function overloading
-  - Function volatility
-  - PL/Python functions
-  - Challenge: Write a user-defined function
-  - Solution: Write a user-defined function
+  - [Extending SQL with user-defined functions](#extending-sql-with-user-defined-functions)
+  - [SQL query functions](#sql-query-functions)
+  - [Function overloading](#function-overloading)
+  - [Function volatility](#function-volatility)
+  - [PL/Python functions](#plpython-functions)
+  - [Challenge: Write a user-defined function](#challenge-write-a-user-defined-function)
+  - [Solution: Write a user-defined function](#solution-write-a-user-defined-function)
 - [**5. Special-Purpose Functionality**](#5-special-purpose-functionality) (7 videos)
-  - Federated queries
-  - Bloom filters
-  - Hstore for key-value pairs
-  - JSON for semi-structured data
-  - Hierarchical data and ltrees
-  - Challenge: Design a table to support unstructured data
-  - Solution: Design a table to support unstructured data
+  - [Federated queries](#federated-queries)
+  - [Bloom filters](#bloom-filters)
+  - [Hstore for key-value pairs](#hstore-for-key-value-pairs)
+  - [JSON for semi-structured data](#json-for-semi-structured-data)
+  - [Hierarchical data and ltrees](#hierarchical-data-and-ltrees)
+  - [Challenge: Design a table to support unstructured data](#challenge-design-a-table-to-support-unstructured-data)
+  - [Solution: Design a table to support unstructured data](#solution-design-a-table-to-support-unstructured-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced SQL techniques for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980)
@@ -124,8 +124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (4), next (1), [[JSON]] (1)
 > **Env Vars:** sql (4), gin (1), json (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [dan] (1)
 
 #### What you should know
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), [[PostgreSQL|Postgres]] (1), [[PostgreSQL]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is an  (1)
@@ -152,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Data Modeling: Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rules of normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980)
@@ -261,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (7), [[Databases]] (4), [[Relational Databases]] (1), [[SQL]] (1)
 > **Analogies:** for example (8), imagine (1)
-> **Code Keywords:** let (1), new. (1), delete (1), function (1), case. (1)
 > **Definitions:** is an  (3), is a  (1), is called (1)
 > **Env Vars:** oltp (2), sql (1), oltb (1)
 > **Cross-References:** in the next (1)
@@ -387,9 +388,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), database (5), [[Databases]] (4), [[IoT]] (4), [[Google]] (2)
 > **Env Vars:** oltp (3), sql (1), etl (1)
 > **Analogies:** for example (4), imagine (1)
-> **Code Keywords:** let (1), delete (1), case, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
@@ -472,7 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), for. (1), from, (1), case, (1)
+> **Frameworks & Libraries:** data (14), [[IoT]] (5), [[PostgreSQL|Postgres]] (3), [[Fetch]] (2), database (2)
 > **Definitions:** is a  (7)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -607,8 +608,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[IoT]] (3), database (2), next (2), [[SQL]] (1)
 > **Env Vars:** select (6), materialized (3), view (3), create (2), sql (1)
-> **Code Keywords:** let (7), default, (1)
 > **SQL:** select (6), left join (1)
 > **Code Identifiers:** hotel_id (2), locations_expenses (1), landon_mv_locations_expenses (1), mv_locations_expenses (1)
 > **Definitions:** is a  (4), known as (1)
@@ -681,9 +682,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (5), [[PostgreSQL|Postgres]] (2), cloud (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** oltp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -716,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[IoT]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Time Series Analysis]] (1), [[Design Patterns]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -761,9 +762,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[IoT]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2)
-> **Code Keywords:** case, (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -771,7 +772,7 @@ created: 2026-04-29
 
 ### 2. Data Modeling: Indexes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### B-tree indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980)
@@ -828,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), continue (1)
+> **Frameworks & Libraries:** data (6), [[Databases]] (2), [[Fetch]] (1), [[Google]] (1), aws (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** aws (1), node (1), find (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -892,9 +893,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), data (2), database (1), [[Databases]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Code Identifiers:** is_union_member (2), pay_type (2)
-> **Code Keywords:** let (1), type: (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -934,7 +935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** data (1), database (1), management (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -983,9 +984,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[PostgreSQL|Postgres]] (2), [[Search]] (2)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** self (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -1059,10 +1060,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[PostgreSQL|Postgres]] (4), [[JSON]] (1)
 > **Env Vars:** brin (6), gin (4), json (1), jsonb (1)
 > **Definitions:** stands for (2), is a  (2), is called (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (2)
 > **UI Navigation:** select the (1)
@@ -1089,7 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), database (2), [[Analytics]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -1116,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), default, (1), function (1)
+> **Frameworks & Libraries:** data (2), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -1126,7 +1127,7 @@ created: 2026-04-29
 
 ### 3. Query Optimization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### EXPLAIN and ANALYZE commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980)
@@ -1295,11 +1296,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Statistics]] (7), database (6), [[SQL]] (3), [[Fetch]] (3)
 > **Env Vars:** analyze (6), sql (3), aws (1)
 > **CLI Commands:** find (3), python (1), aws (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (3), known as (1)
-> **Code Keywords:** let (1), this. (1), finally, (1)
 > **Cross-References:** later in (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1401,7 +1402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (3), function (2), case, (1), this. (1)
+> **Frameworks & Libraries:** data (5), next (3), [[PostgreSQL|Postgres]] (2), [[IoT]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** iot (1)
@@ -1555,7 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (3), this. (2), try. (1)
+> **Frameworks & Libraries:** data (6), next (3), [[PostgreSQL|Postgres]] (1), product (1), management (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** iot (1), msmt (1)
 > **Cross-References:** previous video (1)
@@ -1607,7 +1608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), from, (1)
+> **Frameworks & Libraries:** [[IoT]] (2), parallel (2), [[PostgreSQL|Postgres]] (2), data (1), next (1)
 > **Env Vars:** iot (2), idx (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1735,7 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), implements (1), switch (1)
+> **Frameworks & Libraries:** data (8), [[PostgreSQL|Postgres]] (2), [[IoT]] (2), management (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** sensor_name (2), iot_sensors (2), generate_series (1), sensor_ids (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1761,7 +1762,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1801,9 +1801,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (2), [[SQL]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1811,7 +1811,7 @@ created: 2026-04-29
 
 ### 4. User-Defined Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending SQL with user-defined functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980)
@@ -1874,10 +1874,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (5), [[PostgreSQL|Postgres]] (4), data (4), database (2)
 > **Env Vars:** sql (7), algol (1)
 > **CLI Commands:** python (5), make (1)
 > **Definitions:** is a  (2), is an  (1), basically means (1)
-> **Code Keywords:** function (2), let (1)
 > **Code Identifiers:** pgsql (2)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** in the last (1)
@@ -2086,7 +2086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (34), let (10), delete (3), pass (2), from, (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[PostgreSQL|Postgres]] (4), data (2), [[Information Retrieval]] (2), product (2)
 > **Env Vars:** sql (8), crud (1)
 > **Definitions:** is a  (4), basically means (1), is called (1)
 > **Analogies:** imagine (1), just like (1), kind of like (1)
@@ -2204,7 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (11), pass (1), case, (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), data (4), [[SQL]] (2)
 > **Versions:** 2.2 (2), 7.1 (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -2288,7 +2288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), delete (1), let (1)
+> **Frameworks & Libraries:** database (4), data (1), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (2)
@@ -2393,8 +2393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (21), [[PostgreSQL|Postgres]] (6), database (4), [[SQL]] (2), data (2)
 > **CLI Commands:** python (21), make (1)
-> **Code Keywords:** function (6), case, (2), let (1), this. (1), pass (1)
 > **Versions:** python 3 (3), python 2 (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -2417,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Code Identifiers:** ispalindrome (1)
 > **Definitions:** is a  (1)
@@ -2466,7 +2466,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), finally, (1), return. (1)
 > **Code Identifiers:** is_palindrome (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** str (1)
@@ -2476,7 +2475,7 @@ created: 2026-04-29
 
 ### 5. Special-Purpose Functionality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Federated queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980)
@@ -2561,9 +2560,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), database (16), [[SQL]] (5), [[PostgreSQL|Postgres]] (2), management (1)
 > **Env Vars:** sql (5), create (5), server (2), foreign (2), table (2)
 > **Code Identifiers:** postgres_fdw (3), external_db_server (2), external_sales (2), page_visit_log (1), log_data (1)
-> **Code Keywords:** let (3), case, (2), module (2), default. (1)
 > **Definitions:** is a  (4), known as (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** install (2)
@@ -2659,8 +2658,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[PostgreSQL|Postgres]] (2)
 > **Analogies:** for example (5), such as (2)
-> **Code Keywords:** function (1), yield (1), default. (1), require (1), let (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** idx (1)
@@ -2805,7 +2804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), module (1), default. (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (11), [[PostgreSQL|Postgres]] (2), [[SQL]] (2), [[NoSQL]] (1), [[JSON]] (1)
 > **Env Vars:** select (4), create (3), where (3), extension (2), values (2)
 > **Code Identifiers:** page_count (10), pub_year (1)
 > **SQL:** select (4), where (3), insert into (1)
@@ -3003,9 +3002,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (19), data (6), [[PostgreSQL]] (3), [[Databases]] (2), database (2)
 > **Env Vars:** json (19), jsonb (11), gin (1), rason (1)
 > **Code Identifiers:** customer_doc (6), first_name (5), customer_summary (4), customer_name (4), purchase_history (3)
-> **Code Keywords:** let (22), type. (3), finally, (1), this. (1)
 > **Versions:** 9.2 (2), 9.4 (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** for example (2), imagine (1)
@@ -3238,7 +3237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), case, (2), type, (2), function (1), this, (1)
+> **Frameworks & Libraries:** node (16), data (5), [[PostgreSQL|Postgres]] (5), product (2), [[SQL]] (1)
 > **CLI Commands:** node (16), find (1)
 > **Analogies:** for example (7), such as (1), imagine (1), similar to (1)
 > **Code Identifiers:** paths_to_nodes (6), idx_paths_to_nodes (1), paths_to_concatenate (1), paths_to_concat (1)
@@ -3266,7 +3265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), data (1), product (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -3293,6 +3292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (2), [[NoSQL]] (1), [[Google]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** jsonb (3)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** apache (1)
@@ -3302,7 +3302,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980)
@@ -3327,6 +3327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[SQL]] (4), [[NoSQL]] (3), [[Data Architecture]] (2), [[Databases]] (1)
 > **Env Vars:** sql (4), jsonb (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)

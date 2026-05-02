@@ -33,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Introduction%20to%20Linux%20(2021).md)
@@ -52,26 +52,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learning Linux
-  - What is Linux and where do I start?
+  - [Learning Linux](#learning-linux)
+  - [What is Linux and where do I start?](#what-is-linux-and-where-do-i-start)
 - [**1. Linux Fundamentals**](#1-linux-fundamentals) (8 videos)
-  - The kernel
-  - Terminal and desktops
-  - Standard tools
-  - Software and packages
-  - The Linux file system
-  - User and system security
-  - Choosing a Linux distribution
-  - Planning your system
+  - [The kernel](#the-kernel)
+  - [Terminal and desktops](#terminal-and-desktops)
+  - [Standard tools](#standard-tools)
+  - [Software and packages](#software-and-packages)
+  - [The Linux file system](#the-linux-file-system)
+  - [User and system security](#user-and-system-security)
+  - [Choosing a Linux distribution](#choosing-a-linux-distribution)
+  - [Planning your system](#planning-your-system)
 - [**2. Developing your knowledge**](#2-developing-your-knowledge) (2 videos)
-  - Building your skills
-  - Finding and asking for help
+  - [Building your skills](#building-your-skills)
+  - [Finding and asking for help](#finding-and-asking-for-help)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980)
@@ -98,8 +98,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7), [[LinkedIn]] (1)
 > **Prerequisites:** getting started (2), you'll need (2)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [scott] (1)
@@ -163,7 +163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), case, (1)
+> **Frameworks & Libraries:** [[Linux]] (27), [[Software Development]] (2), [[Hardware]] (2), [[Microsoft Office|Office]] (1), [[Programming]] (1)
 > **Exercise Files:** source code (2)
 > **Code Identifiers:** macos (1)
 > **Definitions:** means that (1)
@@ -173,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Linux Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The kernel
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980)
@@ -266,10 +266,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (22), [[Hardware]] (7)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** source code (2), download the (1)
 > **Prerequisites:** initialization (2), getting started (1)
-> **Code Keywords:** super (1), this. (1)
 > **URLs:** [kernel.org](https://kernel.org) (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is an  (1)
@@ -362,8 +362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (17), [[Windows]] (4), web (2), feature (1), application (1)
 > **Tools:** terminal (6), command line (3), bash (2)
-> **Code Keywords:** interface (6), let (1), from, (1), switch (1)
 > **Env Vars:** gnome (1), kde (1), mate (1), ssh (1)
 > **Prerequisites:** install (2), you'll need (1), getting started (1)
 > **CLI Commands:** make (1), find (1), ssh (1)
@@ -444,10 +444,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (12), [[Hardware]] (2), [[Security]] (1), [[Ubuntu]] (1)
 > **Tools:** command line (4), terminal (1)
 > **Env Vars:** gnu (4)
 > **CLI Commands:** cat (1), cp (1)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
@@ -520,9 +520,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), [[Package Management]] (3), [[Search]] (1), [[Security]] (1), [[Software Development]] (1)
 > **Exercise Files:** source code (5)
 > **CLI Commands:** find (1), make (1), snap (1)
-> **Code Keywords:** require (1), from, (1), else. (1)
 > **Tools:** command line (2)
 > **Prerequisites:** install (2)
 > **Documentation:** the documentation (1)
@@ -596,8 +596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (10), data (3), [[Windows]] (2), [[Hardware]] (2), [[Metadata]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** switch (1), var (1), let (1), for, (1)
 > **Env Vars:** fhs (2), zfs (1), xfs (1)
 > **Prerequisites:** getting started (2)
 > **Definitions:** is called (1)
@@ -673,9 +673,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (11), [[Security]] (9), [[Windows]] (2), web (1), database (1)
 > **CLI Commands:** make (5), sudo (1), find (1), chmod (1), chown (1)
 > **Prerequisites:** install (1), getting started (1), you'll need (1)
-> **Code Keywords:** let (1), case, (1)
 > **Code Identifiers:** macos (2)
 > **Tools:** command line (1)
 > **Definitions:** is an  (1)
@@ -842,8 +842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (27), [[Ubuntu]] (13), [[Hardware]] (3), management (2), [[Package Management]] (1)
 > **CLI Commands:** sudo (3), find (2), make (1), apt (1), dnf (1)
-> **Code Keywords:** super (3), this. (2), switch (2), this, (1), for. (1)
 > **Analogies:** for example (6), kind of like (1), such as (1), for instance (1), similar to (1)
 > **Env Vars:** suse (3), lts (1), apt (1), http (1)
 > **Prerequisites:** install (2), getting started (2), configure (1)
@@ -988,8 +988,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (24), cloud (7), [[Ubuntu]] (5), [[Windows]] (5), [[Virtual Machines]] (4)
 > **Prerequisites:** install (7), you'll need (6), set up (4), setup (2)
-> **Code Keywords:** else, (1), protected (1), let (1), interface (1), this. (1)
 > **Env Vars:** ssh (2), gui (1), nuc (1), wsl (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** ssh (2), make (1), find (1)
@@ -1000,7 +1000,7 @@ created: 2026-04-29
 
 ### 2. Developing your knowledge
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980)
@@ -1067,10 +1067,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (25), web (2), [[LinkedIn]] (2), [[System Administration]] (2), [[Ubuntu]] (2)
 > **Tools:** bash (4), command line (2)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** bind (1), dns (1), vpn (1)
-> **Code Keywords:** else. (1), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1146,9 +1146,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (9), [[Ubuntu]] (1), [[Search]] (1), web (1)
 > **CLI Commands:** find (5), ls (1), cat (1)
 > **Tools:** command line (3)
-> **Code Keywords:** type, (1), self (1)
 > **URLs:** [he.net](https://he.net) (1), [manpages.net](https://manpages.net) (1)
 > **Prerequisites:** getting started (1), install (1)
 > **Cross-References:** as we saw (1)
@@ -1158,7 +1158,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980)
@@ -1175,6 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), next (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - with (1)
 

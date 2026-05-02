@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Statistics%20Essential%20Training-%201.md)
@@ -40,49 +40,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Course introduction
-  - What you need to know
-  - Exercise files
+  - [Course introduction](#course-introduction)
+  - [What you need to know](#what-you-need-to-know)
+  - [Exercise files](#exercise-files)
 - [**1. Starting with Excel**](#1-starting-with-excel) (2 videos)
-  - Excel basics
-  - Random number generator
+  - [Excel basics](#excel-basics)
+  - [Random number generator](#random-number-generator)
 - [**2. Dataset Basics**](#2-dataset-basics) (2 videos)
-  - Sum, Count, Max, Min, and Range
-  - Means, medians, and modes
+  - [Sum, Count, Max, Min, and Range](#sum-count-max-min-and-range)
+  - [Means, medians, and modes](#means-medians-and-modes)
 - [**3. Looking at Data**](#3-looking-at-data) (2 videos)
-  - Frequency table
-  - Histogram
+  - [Frequency table](#frequency-table)
+  - [Histogram](#histogram)
 - [**4. Dataset Variability**](#4-dataset-variability) (4 videos)
-  - Standard deviation
-  - Normal curve and normal distribution
-  - Skewness and kurtosis
-  - Empirical rule
+  - [Standard deviation](#standard-deviation)
+  - [Normal curve and normal distribution](#normal-curve-and-normal-distribution)
+  - [Skewness and kurtosis](#skewness-and-kurtosis)
+  - [Empirical rule](#empirical-rule)
 - [**5. Excel Descriptive Tools**](#5-excel-descriptive-tools) (2 videos)
-  - Descriptive tool
-  - Descriptive tool exercise
+  - [Descriptive tool](#descriptive-tool)
+  - [Descriptive tool exercise](#descriptive-tool-exercise)
 - [**6. Basic Probability Concepts**](#6-basic-probability-concepts) (7 videos)
-  - Probability explained
-  - Percentiles
-  - Permutations
-  - Combinations
-  - Addition rule of probability
-  - Multiplication rule of probability
-  - Conditional probability and probability trees
+  - [Probability explained](#probability-explained)
+  - [Percentiles](#percentiles)
+  - [Permutations](#permutations)
+  - [Combinations](#combinations)
+  - [Addition rule of probability](#addition-rule-of-probability)
+  - [Multiplication rule of probability](#multiplication-rule-of-probability)
+  - [Conditional probability and probability trees](#conditional-probability-and-probability-trees)
 - [**7. Discrete Probabilities**](#7-discrete-probabilities) (4 videos)
-  - Discrete probability explained
-  - Discrete: Mean
-  - Discrete: Standard deviation
-  - Discrete: Binomial distribution
+  - [Discrete probability explained](#discrete-probability-explained)
+  - [Discrete: Mean](#discrete-mean)
+  - [Discrete: Standard deviation](#discrete-standard-deviation)
+  - [Discrete: Binomial distribution](#discrete-binomial-distribution)
 - [**8. Continuous Probabilities**](#8-continuous-probabilities) (3 videos)
-  - Continuous: Z-score tables
-  - Continuous: Creating a normal curve in Excel
-  - Continuous: Calculating normal distribution probabilities
+  - [Continuous: Z-score tables](#continuous-z-score-tables)
+  - [Continuous: Creating a normal curve in Excel](#continuous-creating-a-normal-curve-in-excel)
+  - [Continuous: Calculating normal distribution probabilities](#continuous-calculating-normal-distribution-probabilities)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), [[Statistics]] (2), [[Probability]] (1), [[LinkedIn]] (1)
 > **Speakers:** - did (1)
 
 #### What you need to know
@@ -132,7 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (2)
 > **Speakers:** - [narrator] (1)
 
 #### Exercise files
@@ -162,15 +163,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Statistics]] (3)
 > **Exercise Files:** exercise files (2)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Starting with Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Excel basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980)
@@ -445,7 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), fn (4), function (2), case, (2), this, (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), data (7), hit (5), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** b12 (5), sum (4)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -699,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (3), this. (3), case, (2), else. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (6), hit (5), [[Statistics]] (1), application (1)
 > **UI Navigation:** click on (8), go to (3)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -710,7 +711,7 @@ created: 2026-04-29
 
 ### 2. Dataset Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sum, Count, Max, Min, and Range
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980)
@@ -979,7 +980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), class. (3), case, (3), this, (2)
+> **Frameworks & Libraries:** data (11), next (2), [[Statistics]] (1), [[Financial Data]] (1), hit (1)
 > **Env Vars:** count (5), max (2), min (2), sum (2), randbetween (1)
 > **UI Navigation:** click on (2), go to (1), double-click (1)
 > **Versions:** 12.4 (2)
@@ -1208,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), class. (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (39), [[Microsoft Excel|Excel]] (3), [[Financial Data]] (1)
 > **Env Vars:** mode (4), mult (3), sngl (1)
 > **CLI Commands:** find (7)
 > **Definitions:** is a  (3), known as (1), means that (1)
@@ -1220,7 +1221,7 @@ created: 2026-04-29
 
 ### 3. Looking at Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequency table
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980)
@@ -1393,7 +1394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (4), this, (3), return. (1), case, (1)
+> **Frameworks & Libraries:** data (7), next (5), hit (5), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** frequency (6), countifs (3), countif (1), sum (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1526,8 +1527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Excel|Excel]] (2), generic (1)
 > **UI Navigation:** go to (7), click on (3), right-click (3)
-> **Code Keywords:** let (8), this. (3), from. (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Exercise Files:** exercise file (1)
@@ -1537,7 +1538,7 @@ created: 2026-04-29
 
 ### 4. Dataset Variability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard deviation
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980)
@@ -1720,7 +1721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (6), var (3), this. (1), return, (1)
+> **Frameworks & Libraries:** data (30), [[Microsoft Excel|Excel]] (4), hit (3), power (1), [[Big Data]] (1)
 > **CLI Commands:** find (6), make (4)
 > **Env Vars:** stdev (7), var (3)
 > **Versions:** 15.8 (2), 15.81 (1), 0.5 (1), 614.71 (1), 13.2 (1)
@@ -1781,9 +1782,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1)
 > **Definitions:** in other words (3)
 > **Analogies:** similar to (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Skewness and kurtosis
@@ -1985,7 +1986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (2), throw (1), case, (1)
+> **Frameworks & Libraries:** data (35), [[Statistics]] (2), [[Microsoft Excel|Excel]] (2), [[Financial Data]] (1)
 > **Versions:** 1.0 (5), 0.5 (4), 1.2 (1), 0.223 (1), 0.16 (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -2215,7 +2216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), case, (2), for. (1), this. (1)
+> **Frameworks & Libraries:** data (23), next (2), [[Microsoft Excel|Excel]] (1), power (1)
 > **Versions:** 99.7 (3), 0.3 (2), 11.56 (1), 11.5 (1), 42.88 (1)
 > **Env Vars:** nba (3), bins (2)
 > **CLI Commands:** find (2), make (1)
@@ -2227,7 +2228,7 @@ created: 2026-04-29
 
 ### 5. Excel Descriptive Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Descriptive tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980)
@@ -2352,7 +2353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class, (1), this, (1), class. (1), while. (1)
+> **Frameworks & Libraries:** data (21), [[Statistics]] (8), [[Microsoft Excel|Excel]] (4), next (1)
 > **CLI Commands:** make (5), find (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1), means that (1)
@@ -2515,7 +2516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for, (2), this. (1)
+> **Frameworks & Libraries:** data (19), [[Statistics]] (9), next (5), [[Microsoft Excel|Excel]] (2), [[Big Data]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** nba (3)
 > **Versions:** 46.23 (1), 43.79 (1)
@@ -2527,7 +2528,7 @@ created: 2026-04-29
 
 ### 6. Basic Probability Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980)
@@ -2738,7 +2739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (3), let (3), function (3), for, (1), for. (1)
+> **Frameworks & Libraries:** [[Probability]] (13), next (5), [[Statistics]] (3), data (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (7), make (3)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** nba (1), nfl (1)
@@ -3005,7 +3006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class. (4), include, (2), case, (2), return. (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (5), next (2), hit (2)
 > **Versions:** 132.5 (1), 0.995 (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -3165,7 +3166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (5), function (3)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 7.7 (1), 12.5 (1)
 > **Definitions:** we call this (1), is a  (1)
@@ -3295,7 +3296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Probability]] (2), next (2), power (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** fact (1)
@@ -3435,7 +3436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), function (1), this, (1)
+> **Frameworks & Libraries:** [[Probability]] (26), [[Microsoft Excel|Excel]] (1), data (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** countif (4), counta (1), countifs (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -3533,8 +3534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (5), [[Microsoft Excel|Excel]] (1), product (1)
 > **Versions:** 16.7 (4), 2.79 (2), 38.46 (2), 37.25 (2), 5.16 (1)
-> **Code Keywords:** let (2), function (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -3688,9 +3689,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (17), next (2), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.9999 (2), 0.0001 (2), 0.98 (1), 0.02 (1), 99.99 (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (4), finally, (1)
 > **Definitions:** in other words (1), is a  (1), we call this (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -3699,7 +3700,7 @@ created: 2026-04-29
 
 ### 7. Discrete Probabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980)
@@ -3792,7 +3793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1), require (1)
+> **Frameworks & Libraries:** [[Probability]] (3), next (2), [[Microsoft Word|Word]] (1), data (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 0.58 (1), 2.35 (1), 4.77 (1)
 > **Speakers:** - [instructor] (1)
@@ -3870,11 +3871,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1), data (1)
 > **Versions:** 5.4 (3), 1.8 (2), 1.77 (2), 0.35 (1), 0.643 (1)
 > **Ports:** :00 (4)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sum (2)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4065,8 +4066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), power (2), hit (1)
 > **Versions:** 1.77 (4), 0.67 (3), 99.7 (2), 2.87 (2), 0.5 (1)
-> **Code Keywords:** let (5), raise (2), finally, (2), this. (2), this, (1)
 > **CLI Commands:** make (4), find (3)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** go to (1)
@@ -4278,8 +4279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (19), next (5), [[Microsoft Excel|Excel]] (3)
 > **Versions:** 12.8 (3), 38.4 (2), 0.50 (1), 0.55 (1), 0.20 (1)
-> **Code Keywords:** let (4), this. (3), this, (2), case. (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (2)
@@ -4289,7 +4290,7 @@ created: 2026-04-29
 
 ### 8. Continuous Probabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous: Z-score tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980)
@@ -4402,10 +4403,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), power (1), next (1)
 > **Versions:** 0.99 (3), 0.8389 (2), 1.52 (2), 1.520 (2), 93.57 (2)
 > **CLI Commands:** find (9), make (1)
 > **Env Vars:** nba (7), norm (1), dist (1), true (1)
-> **Code Keywords:** let (3), this. (1), for. (1), function (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -4558,8 +4559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (4), data (4), [[Microsoft Excel|Excel]] (3), next (3), power (1)
 > **CLI Commands:** make (9), find (2)
-> **Code Keywords:** let (5), this, (2), this. (1), case, (1)
 > **UI Navigation:** go to (6), select the (1), click on (1)
 > **Env Vars:** norm (2), dist (2), normal (1), curve (1)
 > **Versions:** 0.1 (1), 2.0 (1), 0.9772 (1), 0.10 (1), 2.9 (1)
@@ -4703,9 +4704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), hit (1)
 > **Versions:** 1.5 (2), 0.5 (2), 37.53 (2), 1.63 (2), 99.7 (1)
 > **CLI Commands:** find (11), make (1)
-> **Code Keywords:** let (8), switch (2), this. (1), return. (1)
 > **Env Vars:** nba (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -4713,7 +4714,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980)
@@ -4746,6 +4747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Statistics]] (1), [[LinkedIn]] (1), [[Analytics]] (1), career (1)
 > **Env Vars:** spss (1)
 > **Speakers:** - congrats (1)
 

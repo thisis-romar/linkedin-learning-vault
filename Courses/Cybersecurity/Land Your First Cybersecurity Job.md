@@ -41,7 +41,7 @@ tags:
   - skill/cybersecurity
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Land%20Your%20First%20Cybersecurity%20Job.md)
@@ -60,34 +60,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Your future in cybersecurity
+  - [Your future in cybersecurity](#your-future-in-cybersecurity)
 - [**1. Cybersecurity Careers**](#1-cybersecurity-careers) (4 videos)
-  - Cyber domains explained
-  - Popular roles in cyber
-  - Cyberseek demo
-  - PIVOT into cyber: A framework to live by
+  - [Cyber domains explained](#cyber-domains-explained)
+  - [Popular roles in cyber](#popular-roles-in-cyber)
+  - [Cyberseek demo](#cyberseek-demo)
+  - [PIVOT into cyber: A framework to live by](#pivot-into-cyber-a-framework-to-live-by)
 - [**2. Basic Steps to Launching Your Career**](#2-basic-steps-to-launching-your-career) (5 videos)
-  - Why do you want to be a cyber professional?
-  - Your current skill set has value
-  - Which roles map to your skill sets?
-  - What are you missing?
-  - Create your cyber roadmap
+  - [Why do you want to be a cyber professional?](#why-do-you-want-to-be-a-cyber-professional)
+  - [Your current skill set has value](#your-current-skill-set-has-value)
+  - [Which roles map to your skill sets?](#which-roles-map-to-your-skill-sets)
+  - [What are you missing?](#what-are-you-missing)
+  - [Create your cyber roadmap](#create-your-cyber-roadmap)
 - [**3. Building Your Brand in Cyber**](#3-building-your-brand-in-cyber) (2 videos)
-  - Marketing your skills
-  - Volunteering for success
+  - [Marketing your skills](#marketing-your-skills)
+  - [Volunteering for success](#volunteering-for-success)
 - [**4. The Power of Networking**](#4-the-power-of-networking) (2 videos)
-  - Building your network
-  - Mentoring with a purpose
+  - [Building your network](#building-your-network)
+  - [Mentoring with a purpose](#mentoring-with-a-purpose)
 - [**5. Landing the Role**](#5-landing-the-role) (3 videos)
-  - Finding a role that fits your skills and goals
-  - Acing your interview
-  - Negotiating your benefits
+  - [Finding a role that fits your skills and goals](#finding-a-role-that-fits-your-skills-and-goals)
+  - [Acing your interview](#acing-your-interview)
+  - [Negotiating your benefits](#negotiating-your-benefits)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue to grow
+  - [Continue to grow](#continue-to-grow)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your future in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980)
@@ -122,8 +122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (1), career (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Versions:** 3.5 (1)
 > **Speakers:** - each (1)
 > **Non-Speech:** (casual offbeat music) (1)
@@ -131,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Cybersecurity Careers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cyber domains explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980)
@@ -190,11 +190,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), data (2), management (2), [[Career Development]] (2), career (1)
 > **Env Vars:** siems (1), hipaa (1), pci (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Popular roles in cyber
@@ -260,8 +260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (2), career (1), management (1), [[Incident Response]] (1)
 > **Env Vars:** nsa (1), soc (1), sim (1), csi (1)
-> **Code Keywords:** let (1), implements (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
@@ -323,8 +323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Cybersecurity]] (2), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Security]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (3), case, (1)
 > **URLs:** [internationaljobs.com](https://internationaljobs.com) (1), [overseasjobs.com](https://overseasjobs.com) (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -393,7 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** career (7), [[Cybersecurity]] (2), [[Cybersecurity Careers]] (1), hit (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (2)
 > **Analogies:** picture (1)
@@ -403,7 +403,7 @@ created: 2026-04-29
 
 ### 2. Basic Steps to Launching Your Career
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do you want to be a cyber professional?
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980)
@@ -480,7 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), next (3), [[LinkedIn]] (1), career (1), [[Security]] (1)
 > **Env Vars:** smart (5)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -546,9 +546,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), next (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cata (1), cati (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -612,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Cybersecurity Careers]] (2), next (1), product (1), [[Search]] (1)
 > **Definitions:** known as (1), is called (1), is a  (1)
 > **Env Vars:** niccs (2)
 > **UI Navigation:** click on (2)
@@ -696,7 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), throw (1), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[LinkedIn]] (2), [[Security]] (2), [[Ethical Hacking]] (1), teams (1)
 > **Best Practices:** recommended (1), make sure to (1), don't forget (1)
 > **Env Vars:** niccs (1), ctf (1)
 > **CLI Commands:** make (1)
@@ -778,15 +778,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), career (2), [[LinkedIn]] (1), [[Search]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** from. (1), finally, (1), public (1)
 > **Env Vars:** gps (1), ciso (1), smart (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Building Your Brand in Cyber
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Marketing your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980)
@@ -849,10 +849,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (3), leadership (1), [[Cybersecurity]] (1), [[Programming]] (1)
 > **Tools:** github (4)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** ctf (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** required to (1)
@@ -915,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), public (1), match, (1), case, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (2), leadership (1), hit (1), [[LinkedIn]] (1)
 > **Env Vars:** pii (1), issa (1), isaca (1), fbi (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
@@ -926,7 +926,7 @@ created: 2026-04-29
 
 ### 4. The Power of Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your network
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980)
@@ -989,9 +989,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), career (2), [[Search]] (1), power (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** similar to (1), such as (1)
-> **Code Keywords:** for, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1070,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1), from, (1), for, (1), else, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), career (2), [[LinkedIn]] (1), [[Security]] (1)
 > **Analogies:** such as (1), for example (1), just like (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** soc (2)
@@ -1082,7 +1082,7 @@ created: 2026-04-29
 
 ### 5. Landing the Role
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding a role that fits your skills and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980)
@@ -1147,8 +1147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Cybersecurity]] (3), leadership (1), [[Search]] (1), next (1)
 > **CLI Commands:** find (6)
-> **Code Keywords:** from. (1), let (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** nice (1)
 > **UI Navigation:** click on (1)
@@ -1276,13 +1276,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (4), job description (1), management (1), next (1), open-source (1)
 > **CLI Commands:** find (3), make (3)
 > **Analogies:** for example (2), such as (2)
 > **URLs:** [infosecinstitute.com](https://infosecinstitute.com) (1), [edureka.co](https://edureka.co) (1)
 > **Env Vars:** osi (1), osint (1)
 > **Exercise Files:** exercise file (1), exercise files (1)
 > **Best Practices:** pro tip (1), remember to (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** we call this (1)
 
 #### Negotiating your benefits
@@ -1384,7 +1384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), raise (2), super (1), finally, (1)
+> **Frameworks & Libraries:** next (2), career (2), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1), business (1)
 > **CLI Commands:** make (2)
 > **URLs:** [cyberseek.org](https://cyberseek.org) (1)
 > **Warnings:** be aware (1)
@@ -1394,7 +1394,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to grow
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980)
@@ -1415,6 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), career (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [womenscyberjutsu.org](https://womenscyberjutsu.org) (1)
 > **Speakers:** - [instructor] (1)

@@ -28,7 +28,7 @@ tags:
   - skill/react-js
   - skill/firebase
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Cloud-Powered%20Apps%20with%20Firebase.md)
@@ -47,61 +47,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Structuring your apps for the cloud
-  - What you should know
-  - Using the exercise files
+  - [Structuring your apps for the cloud](#structuring-your-apps-for-the-cloud)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Setting Up Your Development Environment**](#1-setting-up-your-development-environment) (4 videos)
-  - Installing tools and CLIs
-  - Generating a new React application
-  - Overview of the Firebase console
-  - Configuring your web application
+  - [Installing tools and CLIs](#installing-tools-and-clis)
+  - [Generating a new React application](#generating-a-new-react-application)
+  - [Overview of the Firebase console](#overview-of-the-firebase-console)
+  - [Configuring your web application](#configuring-your-web-application)
 - [**2. Firebase Authentication**](#2-firebase-authentication) (9 videos)
-  - Firebase Authentication setup
-  - Creating users
-  - Displaying current user
-  - Redirect user upon signup
-  - User logout
-  - User login
-  - Authenticated user redirect
-  - Challenge: Authentication redirect
-  - Solution: Authentication redirect
+  - [Firebase Authentication setup](#firebase-authentication-setup)
+  - [Creating users](#creating-users)
+  - [Displaying current user](#displaying-current-user)
+  - [Redirect user upon signup](#redirect-user-upon-signup)
+  - [User logout](#user-logout)
+  - [User login](#user-login)
+  - [Authenticated user redirect](#authenticated-user-redirect)
+  - [Challenge: Authentication redirect](#challenge-authentication-redirect)
+  - [Solution: Authentication redirect](#solution-authentication-redirect)
 - [**3. Storing and Syncing Data with Firebase Cloud Firestore**](#3-storing-and-syncing-data-with-firebase-cloud-firestore) (7 videos)
-  - Cloud Firestore intro
-  - Cloud Firestore setup
-  - Deploying security rules for Cloud Firestore
-  - Creating documents
-  - Displaying user document
-  - Updating user documents, part 1
-  - Updating user documents, part 2
+  - [Cloud Firestore intro](#cloud-firestore-intro)
+  - [Cloud Firestore setup](#cloud-firestore-setup)
+  - [Deploying security rules for Cloud Firestore](#deploying-security-rules-for-cloud-firestore)
+  - [Creating documents](#creating-documents)
+  - [Displaying user document](#displaying-user-document)
+  - [Updating user documents, part 1](#updating-user-documents-part-1)
+  - [Updating user documents, part 2](#updating-user-documents-part-2)
 - [**4. Storing Files with Firebase Cloud Storage**](#4-storing-files-with-firebase-cloud-storage) (7 videos)
-  - Cloud Storage setup
-  - Cloud Storage security rules
-  - Profile image upload form
-  - File upload trigger
-  - Cloud Storage file upload
-  - Challenge: Monitor upload progress
-  - Solution: Upload progress
+  - [Cloud Storage setup](#cloud-storage-setup)
+  - [Cloud Storage security rules](#cloud-storage-security-rules)
+  - [Profile image upload form](#profile-image-upload-form)
+  - [File upload trigger](#file-upload-trigger)
+  - [Cloud Storage file upload](#cloud-storage-file-upload)
+  - [Challenge: Monitor upload progress](#challenge-monitor-upload-progress)
+  - [Solution: Upload progress](#solution-upload-progress)
 - [**5. Control Access with Custom Claims and Security Rules**](#5-control-access-with-custom-claims-and-security-rules) (7 videos)
-  - Firebase ID tokens
-  - Setting Firebase custom claims
-  - Admin interface: Users page
-  - Admin interface: Read user collection
-  - Admin interface: Render user collection
-  - Challenge: View user profile with admin
-  - Solution: View user profile with admin
+  - [Firebase ID tokens](#firebase-id-tokens)
+  - [Setting Firebase custom claims](#setting-firebase-custom-claims)
+  - [Admin interface: Users page](#admin-interface-users-page)
+  - [Admin interface: Read user collection](#admin-interface-read-user-collection)
+  - [Admin interface: Render user collection](#admin-interface-render-user-collection)
+  - [Challenge: View user profile with admin](#challenge-view-user-profile-with-admin)
+  - [Solution: View user profile with admin](#solution-view-user-profile-with-admin)
 - [**6. Going Serverless with Firebase Cloud Functions**](#6-going-serverless-with-firebase-cloud-functions) (3 videos)
-  - Cloud Functions setup
-  - Cloud Functions: Email setup
-  - Cloud Functions: Authentication trigger
+  - [Cloud Functions setup](#cloud-functions-setup)
+  - [Cloud Functions: Email setup](#cloud-functions-email-setup)
+  - [Cloud Functions: Authentication trigger](#cloud-functions-authentication-trigger)
 - [**7. Hosting with Firebase**](#7-hosting-with-firebase) (2 videos)
-  - Firebase Hosting setup
-  - Deploying your React app
+  - [Firebase Hosting setup](#firebase-hosting-setup)
+  - [Deploying your React app](#deploying-your-react-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring your apps for the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Firebase]] (10), [[React.js|React]] (5), cloud (4), [[Google]] (3), web application (2)
 > **Speakers:** - so (1), - hi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -190,6 +190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (4), [[React.js|React]] (3), node (3), [[Git]] (3), [[JavaScript]] (1)
 > **CLI Commands:** npm (4), node (3), git (3), make (1)
 > **Tools:** visual studio (2), terminal (2), zsh (2), command prompt (1)
 > **URLs:** [git-scm.com](https://git-scm.com) (1), [visualstudio.com](https://visualstudio.com) (1)
@@ -197,7 +198,6 @@ created: 2026-04-29
 > **Code Identifiers:** iterm2 (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
-> **Speakers:** - [narrator] (1)
 
 #### Using the exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980)
@@ -230,6 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (2), application (2), data (2), [[Git]] (1), [[GitHub]] (1)
 > **CLI Commands:** npm (2), git (1)
 > **Exercise Files:** exercise files (2), download the (1)
 > **Prerequisites:** install (3)
@@ -241,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Development Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing tools and CLIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980)
@@ -280,12 +281,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), [[npm]] (3), [[Node.js]] (2), next (2), [[React.js|React]] (2)
 > **CLI Commands:** node (6), npm (3), curl (1)
 > **Versions:** version 12 (2), 12.18.2 (1), 8.2 (1), 6.14.5 (1)
 > **Prerequisites:** install (5)
 > **Tools:** terminal (3), command line (1)
 > **File Paths:** node.js (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** curl (1)
 > **Env Vars:** lts (1)
 
@@ -338,9 +339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (7), application (6), [[npm]] (6), [[JavaScript]] (1), css (1)
 > **Env Vars:** npm (6), npx (2), css (1), mpm (1)
 > **CLI Commands:** npm (6), npx (2), make (1)
-> **Code Keywords:** let (3)
 > **Versions:** version 16 (2), version 5 (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** package.json (1)
@@ -414,7 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Firebase]] (24), [[Google]] (4), cloud (2), [[CLI]] (2), [[npm]] (2)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **CLI Commands:** npm (2)
 > **Env Vars:** cli (2)
@@ -511,8 +512,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (19), [[npm]] (4), application (4), [[React.js|React]] (3), [[CLI]] (1)
 > **Env Vars:** react_app_ (3), messaging_sender_id (3), api_key (2), auth_domain (2), database_url (2)
-> **Code Keywords:** let (8), continue (1)
 > **Prerequisites:** install (5), configure (1), set up (1)
 > **CLI Commands:** npm (4), make (1)
 > **File Paths:** config.js (2), process.env (1), app.js (1)
@@ -523,7 +524,7 @@ created: 2026-04-29
 
 ### 2. Firebase Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase Authentication setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), switch (2), from . (1)
+> **Frameworks & Libraries:** [[Routing]] (3), application (3), [[React.js|React]] (3), [[Firebase]] (2), [[npm]] (2)
 > **Prerequisites:** set up (3), install (3)
 > **Env Vars:** html (1), css (1), html5 (1), api (1), url (1)
 > **File Paths:** signup.js (1), app.css (1), app.js (1)
@@ -764,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (6), async (2), await (1)
+> **Frameworks & Libraries:** [[Firebase]] (9), [[React.js|React]] (5), data (5), application (3), [[Forms]] (1)
 > **Code Identifiers:** useform (2), handlesubmit (2), onsubmit (2), createuserwithemailandpassword (1), usestate (1)
 > **CLI Commands:** make (1), npm (1)
 > **Versions:** version 5 (1), 7.2 (1)
@@ -924,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (2), finally, (2)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[Firebase]] (9), [[User Experience (UX)|User experience]] (1), functional (1), application (1)
 > **Code Identifiers:** useeffect (4), userprovider (3), usestate (2), usecontext (2), usesession (2)
 > **File Paths:** app.js (2), userprovider.js (1), profile.js (1)
 > **Definitions:** is a  (2), is called (1)
@@ -975,7 +976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (2), function (1)
+> **Frameworks & Libraries:** [[Firebase]] (2)
 > **UI Navigation:** go to (3)
 > **Code Identifiers:** updateprofile (1), newuser (1)
 > **File Paths:** app.js (1)
@@ -1056,7 +1057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), import, (1), await (1), async (1)
+> **Frameworks & Libraries:** [[Firebase]] (3), css (2), [[React.js|React]] (2), application (2), dom (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1147,7 +1148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (3), delete (3), finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), dom (3), css (3), [[Firebase]] (1)
 > **Env Vars:** css (3)
 > **File Paths:** auth.js (1), app.js (1)
 > **CLI Commands:** make (1)
@@ -1250,7 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (2), function (1), from. (1), finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (1), [[Routing]] (1), dom (1)
 > **Non-Speech:** (keyboard clicking) (4), (keyboard typing) (1), (clicking) (1)
 > **File Paths:** profileredirect.js (1), app.js (1)
 > **CLI Commands:** make (2)
@@ -1322,7 +1323,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), private (2), this. (1), match. (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (2), navigate to (1)
 > **Definitions:** is a  (1)
@@ -1379,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1), match. (1)
+> **Frameworks & Libraries:** application (1)
 > **File Paths:** privateroute.js (1), app.js (1)
 > **Env Vars:** url (2)
 > **Speakers:** - [instructor] (1)
@@ -1388,7 +1388,7 @@ created: 2026-04-29
 
 ### 3. Storing and Syncing Data with Firebase Cloud Firestore
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Firestore intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980)
@@ -1437,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (8), cloud (5), database (3), [[Firebase]] (1), [[NoSQL]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1481,7 +1481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Firebase]] (3), database (3), cloud (2), next (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1)
 
@@ -1584,7 +1584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Firebase]] (16), [[Security]] (5), cloud (4), database (4), [[CLI]] (3)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** git (1), npm (1), make (1)
 > **Env Vars:** cli (3)
@@ -1656,7 +1656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), await (1)
+> **Frameworks & Libraries:** [[Firebase]] (6), data (5), cloud (3), next (2), [[Security]] (1)
 > **File Paths:** config.js (1), user.js (1), author.js (1)
 > **Code Identifiers:** createuserdocument (2), docref (1)
 > **Definitions:** is a  (1)
@@ -1735,7 +1735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), delete (1), function (1)
+> **Frameworks & Libraries:** data (9), [[Firebase]] (2), [[JSON]] (2), [[React.js|React]] (1), next (1)
 > **Env Vars:** json (2), jsx (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1794,7 +1794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), finally, (2)
+> **Frameworks & Libraries:** data (5), [[React.js|React]] (4), next (2), dom (1), api (1)
 > **Code Identifiers:** setvalue (3), useform (2), useparams (1), formdata (1), useeffect (1)
 > **Env Vars:** jsx (1), api (1)
 > **CLI Commands:** make (1)
@@ -1872,7 +1872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (5)
+> **Frameworks & Libraries:** data (4), hit (2), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1), [[Firebase]] (1)
 > **Code Identifiers:** handlesubmit (2), onsubmit (2), formclassname (1), formdata (1), updateuserdocument (1)
 > **File Paths:** user.js (1), profile.js (1)
 > **CLI Commands:** make (1)
@@ -1883,7 +1883,7 @@ created: 2026-04-29
 
 ### 4. Storing Files with Firebase Cloud Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Storage setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980)
@@ -1922,8 +1922,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (5), cloud (5), [[Security]] (3), [[CLI]] (2), next (2)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** let (1), default, (1)
 > **Env Vars:** cli (2)
 > **UI Navigation:** click on (2)
 > **File Paths:** firebase.json (1)
@@ -1986,7 +1986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), type, (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), application (1), [[CLI]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cli (1)
 > **Best Practices:** make sure to (1)
@@ -2063,7 +2063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), public (1)
+> **Frameworks & Libraries:** css (3), [[React.js|React]] (2), cloud (1), [[Security]] (1), feature (1)
 > **File Paths:** profileimage.js (1), app.css (1), profile.js (1)
 > **UI Navigation:** open the (1), click on (1), go to (1)
 > **CLI Commands:** make (1)
@@ -2137,7 +2137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (1), finally, (1), function (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), dom (1)
 > **Code Identifiers:** fileinput (3), filechange (2), classname (2), useref (1), onchange (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** dom (1)
@@ -2265,7 +2265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (4), async (1), return, (1)
+> **Frameworks & Libraries:** cloud (1), [[Firebase]] (1)
 > **Env Vars:** url (12)
 > **File Paths:** user.js (3), config.js (1), image.js (1), profile.js (1)
 > **CLI Commands:** make (3)
@@ -2292,6 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
@@ -2342,7 +2343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), delete (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** feature (1)
 > **File Paths:** profileimage.js (1), user.js (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2350,7 +2351,7 @@ created: 2026-04-29
 
 ### 5. Control Access with Custom Claims and Security Rules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase ID tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
@@ -2453,8 +2454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (10), data (8), [[Tokens]] (5), web (4), [[JSON]] (3)
 > **Env Vars:** jwt (6), json (3), hvac (1), rsa (1), iat (1)
-> **Code Keywords:** let (7), this. (2), type. (1), case, (1), delete (1)
 > **Definitions:** stands for (2), is an  (1), is a  (1), is called (1)
 > **URLs:** [jwt.io](https://jwt.io) (1)
 > **Analogies:** for instance (1)
@@ -2581,7 +2582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), private (3)
+> **Frameworks & Libraries:** [[Firebase]] (17), application (3), node (3), [[npm]] (2), cloud (1)
 > **CLI Commands:** node (3), npm (2), make (1)
 > **Tools:** command line (3), terminal (2)
 > **Env Vars:** sdk (2), json (1), jwt (1)
@@ -2717,7 +2718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (5), async (3), finally, (2), interface (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (2), data (1), application (1)
 > **Code Identifiers:** isadmin (6), routeonlogin (2), getidtoken (1), usesession (1), getidtokenresult (1)
 > **File Paths:** userprovider.js (2), users.js (1), adminroute.js (1), app.js (1), login.js (1)
 > **CLI Commands:** make (3)
@@ -2831,7 +2832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (1), delete (1), this. (1)
+> **Frameworks & Libraries:** [[Firebase]] (6), [[npm]] (6), data (4), application (3), [[Security]] (3)
 > **CLI Commands:** npm (6), make (2)
 > **Env Vars:** npm (6)
 > **Definitions:** is an  (2), is a  (1)
@@ -2877,7 +2878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: View user profile with admin
@@ -2895,6 +2896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[React.js|React]] (1), dom (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2931,7 +2933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (1)
+> **Frameworks & Libraries:** feature (1), [[React.js|React]] (1), dom (1)
 > **Code Identifiers:** isadmin (2), userid (1)
 > **File Paths:** users.js (1), privateroute.js (1)
 > **Definitions:** is an  (1)
@@ -2941,7 +2943,7 @@ created: 2026-04-29
 
 ### 6. Going Serverless with Firebase Cloud Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Functions setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980)
@@ -2986,9 +2988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[Firebase]] (7), [[JavaScript]] (2), [[CLI]] (2), [[npm]] (2)
 > **Env Vars:** cli (2), npm (2), https (1), api (1), mpm (1)
 > **CLI Commands:** npm (2), make (1), node (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (3)
 > **File Paths:** package.json (1), index.js (1)
 > **Tools:** command prompt (1)
@@ -3034,7 +3036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case, (1)
+> **Frameworks & Libraries:** [[Firebase]] (3), [[Google]] (3), cloud (2), node (1)
 > **Warnings:** keep in mind (2), note that (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
@@ -3131,7 +3133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (8), require (2)
+> **Frameworks & Libraries:** [[Firebase]] (5), cloud (4), [[npm]] (3), node (1), [[JSON]] (1)
 > **Code Identifiers:** sendwelcomeemail (2), mailoptions (2), gmailpassword (1), createtransport (1), mailtransport (1)
 > **CLI Commands:** npm (3), node (1)
 > **File Paths:** functions.config (1), package.json (1)
@@ -3143,7 +3145,7 @@ created: 2026-04-29
 
 ### 7. Hosting with Firebase
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase Hosting setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980)
@@ -3172,7 +3174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), override (1)
+> **Frameworks & Libraries:** [[Firebase]] (4), cloud (3), [[React.js|React]] (3), application (2), data (1)
 > **Env Vars:** npm (1), html (1)
 > **Prerequisites:** set up (1), configure (1)
 > **File Paths:** firebase.json (1)
@@ -3221,7 +3223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** [[Firebase]] (5), application (4), [[npm]] (3), data (3), cloud (2)
 > **CLI Commands:** npm (3)
 > **Env Vars:** url (2)
 > **Analogies:** such as (1)
@@ -3231,7 +3233,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980)
@@ -3260,10 +3262,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (2), [[React.js|React]] (2), [[GitHub]] (2), [[Google]] (1), [[Routing]] (1)
 > **URLs:** [github.com](https://github.com) (1), [twitter.com](https://twitter.com) (1)
 > **Tools:** github (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - thanks (1)
 
 

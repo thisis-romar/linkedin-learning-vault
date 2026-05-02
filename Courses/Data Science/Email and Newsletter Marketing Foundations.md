@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/email-marketing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Email%20and%20Newsletter%20Marketing%20Foundations.md)
@@ -50,30 +50,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. Overview**](#1-overview) (2 videos)
-  - Defining email marketing
-  - Considering the advantages
+  - [Defining email marketing](#defining-email-marketing)
+  - [Considering the advantages](#considering-the-advantages)
 - [**2. Basics**](#2-basics) (2 videos)
-  - Adding email to your marketing strategy
-  - Defining key elements of email marketing
+  - [Adding email to your marketing strategy](#adding-email-to-your-marketing-strategy)
+  - [Defining key elements of email marketing](#defining-key-elements-of-email-marketing)
 - [**3. Contacts and Lists**](#3-contacts-and-lists) (2 videos)
-  - Maintaining healthy email lists
-  - Segmenting your list
+  - [Maintaining healthy email lists](#maintaining-healthy-email-lists)
+  - [Segmenting your list](#segmenting-your-list)
 - [**4. An Effective Email Strategy**](#4-an-effective-email-strategy) (4 videos)
-  - Creating a good strategy
-  - Creating powerful email marketing campaigns
-  - Choosing an email marketing theme
-  - Building a high-performing email
+  - [Creating a good strategy](#creating-a-good-strategy)
+  - [Creating powerful email marketing campaigns](#creating-powerful-email-marketing-campaigns)
+  - [Choosing an email marketing theme](#choosing-an-email-marketing-theme)
+  - [Building a high-performing email](#building-a-high-performing-email)
 - [**5. Success with Analytics**](#5-success-with-analytics) (2 videos)
-  - Using metrics in email marketing
-  - Optimizing and testing your emails
+  - [Using metrics in email marketing](#using-metrics-in-email-marketing)
+  - [Optimizing and testing your emails](#optimizing-and-testing-your-emails)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), traffic (1), [[Marketing Strategy]] (1), [[Newsletters]] (1)
 > **Prerequisites:** getting started (1), set up (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - e (1)
@@ -123,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980)
@@ -172,6 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (8), business (1), [[Newsletters]] (1), data (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - i (1)
@@ -243,7 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Email Marketing]] (10), business (3), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - whether (1)
@@ -251,7 +253,7 @@ created: 2026-04-29
 
 ### 2. Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding email to your marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980)
@@ -316,8 +318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (7), business (3), [[Newsletters]] (2), traffic (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), switch (1)
 > **Analogies:** for example (2)
 > **Speakers:** - adding (1)
 
@@ -406,9 +408,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Automation]] (2), web (1), product (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
 > **Prerequisites:** set up (3), getting started (1)
-> **Code Keywords:** let (2), this. (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
@@ -417,7 +419,7 @@ created: 2026-04-29
 
 ### 3. Contacts and Lists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintaining healthy email lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980)
@@ -504,9 +506,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (2), business (2), [[Marketing Strategy]] (1), management (1)
 > **Definitions:** is a  (3), means that (3), is an  (1)
 > **Best Practices:** recommended (2), don't forget (1)
-> **Code Keywords:** continue (1), let (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - maintaining (1)
 
@@ -573,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** product (4), traffic (1), business (1), next (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -582,7 +584,7 @@ created: 2026-04-29
 
 ### 4. An Effective Email Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a good strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980)
@@ -671,10 +673,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (5), [[Email Marketing]] (3), product (3), business (1), next (1)
 > **Prerequisites:** setup (3), make sure you have (2), set up (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Ports:** :00 (1)
 > **Env Vars:** api (1)
 > **Cross-References:** coming up (1)
@@ -765,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** next (4), [[Email Marketing]] (1)
 > **URLs:** [hanselandpetal.com](https://hanselandpetal.com) (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -854,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), while, (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), product (2), [[Microsoft Products|Products]] (2), business (1), [[E-Commerce]] (1)
 > **UI Navigation:** scroll down (2), go to (1), scroll up (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Prerequisites:** set up (3)
@@ -964,7 +966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), this, (1)
+> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), [[Storytelling]] (1), next (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **UI Navigation:** scroll down (2)
 > **Prerequisites:** setup (1)
@@ -973,7 +975,7 @@ created: 2026-04-29
 
 ### 5. Success with Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using metrics in email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980)
@@ -1036,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Analytics]] (1), hit (1), traffic (1), [[E-Commerce]] (1)
 > **UI Navigation:** select the (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1156,6 +1158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Email Marketing]] (1), feature (1), data (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** select the (1)
@@ -1165,7 +1168,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980)
@@ -1190,7 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (4), [[Marketing Strategy]] (1), next (1), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

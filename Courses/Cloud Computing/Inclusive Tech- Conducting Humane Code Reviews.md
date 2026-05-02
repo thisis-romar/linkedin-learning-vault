@@ -40,7 +40,7 @@ tags:
   - skill/code-review
   - skill/tech-career-skills
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inclusive%20Tech-%20Conducting%20Humane%20Code%20Reviews.md)
@@ -59,34 +59,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Code reviews: heated, but needed
+  - [Code reviews: heated, but needed](#code-reviews-heated-but-needed)
 - [**1. Why Do We Perform Code Reviews?**](#1-why-do-we-perform-code-reviews) (4 videos)
-  - Goal 1: Catch design flaws
-  - Goal 2: Ensure code clarity and coherence
-  - Goal 3: Validate necessity
-  - Goal 4: Confirm functionality
+  - [Goal 1: Catch design flaws](#goal-1-catch-design-flaws)
+  - [Goal 2: Ensure code clarity and coherence](#goal-2-ensure-code-clarity-and-coherence)
+  - [Goal 3: Validate necessity](#goal-3-validate-necessity)
+  - [Goal 4: Confirm functionality](#goal-4-confirm-functionality)
 - [**2. The Working Team Agreement**](#2-the-working-team-agreement) (4 videos)
-  - What's a team working agreement?
-  - Why does my team need a team working agreement?
-  - Challenge: Create a team agreement
-  - Solution: Sample team agreement
+  - [What's a team working agreement?](#whats-a-team-working-agreement)
+  - [Why does my team need a team working agreement?](#why-does-my-team-need-a-team-working-agreement)
+  - [Challenge: Create a team agreement](#challenge-create-a-team-agreement)
+  - [Solution: Sample team agreement](#solution-sample-team-agreement)
 - [**3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)**](#3-developer-pain-points-in-code-reviews-aka-what-not-to-do) (3 videos)
-  - Subjectivity
-  - Tone of voice
-  - Process loopholes
+  - [Subjectivity](#subjectivity)
+  - [Tone of voice](#tone-of-voice)
+  - [Process loopholes](#process-loopholes)
 - [**4. Strategies for Better Code Reviews**](#4-strategies-for-better-code-reviews) (6 videos)
-  - Objectivity
-  - Tools of objectivity
-  - TL;DR Don't be a jerk!
-  - Team working agreement to the rescue!
-  - Challenge: Your code review challenge
-  - Solution: Your code review challenge
+  - [Objectivity](#objectivity)
+  - [Tools of objectivity](#tools-of-objectivity)
+  - [TL;DR Don't be a jerk!](#tldr-dont-be-a-jerk)
+  - [Team working agreement to the rescue!](#team-working-agreement-to-the-rescue)
+  - [Challenge: Your code review challenge](#challenge-your-code-review-challenge)
+  - [Solution: Your code review challenge](#solution-your-code-review-challenge)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your code reviews
+  - [Your code reviews](#your-code-reviews)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code reviews: heated, but needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980)
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), finally, (1)
+> **Frameworks & Libraries:** [[Code Review]] (8), [[Software Development]] (1), teams (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Why Do We Perform Code Reviews?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goal 1: Catch design flaws
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980)
@@ -224,9 +224,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (6), application (5), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Concurrent Programming]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** mvc (2), aka (1)
-> **Code Keywords:** for, (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
@@ -259,8 +259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2), game (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -305,6 +305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (3), api (1), teams (1), feature (1), application (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** dropdown (1)
@@ -363,8 +364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (6), application (4), feature (1), teams (1), web (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** include, (1), function (1)
 > **Documentation:** spec (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -372,7 +373,7 @@ created: 2026-04-29
 
 ### 2. The Working Team Agreement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's a team working agreement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980)
@@ -423,6 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -466,6 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (4), [[Software Development]] (1), career (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -488,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -523,7 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Code Review]] (4), [[Engineering]] (1), teams (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (soft music) (1)
@@ -531,7 +534,7 @@ created: 2026-04-29
 
 ### 3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Subjectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980)
@@ -584,8 +587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (5)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), var (1), const (1)
 > **Speakers:** - [tutor] (1)
 
 #### Tone of voice
@@ -635,6 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (4), [[Programming]] (1), next (1)
 > **Analogies:** for example (1), imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -682,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** [[Code Review]] (4), management (1), [[Forms]] (1), next (1), teams (1)
 > **Env Vars:** mve (1), lgtm (1)
 > **Definitions:** is an  (1), stands for (1)
 > **CLI Commands:** make (1)
@@ -691,7 +695,7 @@ created: 2026-04-29
 
 ### 4. Strategies for Better Code Reviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Objectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980)
@@ -762,7 +766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), for. (1)
+> **Frameworks & Libraries:** [[Code Review]] (6)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -826,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** [[Code Review]] (6), [[JavaScript]] (2), [[ESLint]] (1), teams (1), next (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -916,8 +920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (8), next (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** switch (2), let (1)
 > **Best Practices:** the key is (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -955,6 +959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (3), next (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -972,6 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (3)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [announcer] (1)
@@ -994,13 +1000,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your code reviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980)
@@ -1027,6 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** just like (1)

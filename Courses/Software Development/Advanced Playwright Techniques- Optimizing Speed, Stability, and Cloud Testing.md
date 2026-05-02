@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Playwright%20Techniques-%20Optimizing%20Speed%2C%20Stability%2C%20and%20Cloud%20Testing.md)
@@ -46,44 +46,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Advanced Playwright techniques
-  - What you should know
+  - [Advanced Playwright techniques](#advanced-playwright-techniques)
+  - [What you should know](#what-you-should-know)
 - [**1. Optimising Test Speed in Playwright**](#1-optimising-test-speed-in-playwright) (7 videos)
-  - Green testing: Speed, efficiency and sustainability
-  - Diagnosing performance bottlenecks with VS Code metrics
-  - Using storageState to avoid repeated logins
-  - Configuring project dependencies for cookie setup
-  - Parallelisation: When to use It and when to avoid It
-  - Challenge: Optimise a slow test in VS Code
-  - Solution: Optimise a slow test in VS Code
+  - [Green testing: Speed, efficiency and sustainability](#green-testing-speed-efficiency-and-sustainability)
+  - [Diagnosing performance bottlenecks with VS Code metrics](#diagnosing-performance-bottlenecks-with-vs-code-metrics)
+  - [Using storageState to avoid repeated logins](#using-storagestate-to-avoid-repeated-logins)
+  - [Configuring project dependencies for cookie setup](#configuring-project-dependencies-for-cookie-setup)
+  - [Parallelisation: When to use It and when to avoid It](#parallelisation-when-to-use-it-and-when-to-avoid-it)
+  - [Challenge: Optimise a slow test in VS Code](#challenge-optimise-a-slow-test-in-vs-code)
+  - [Solution: Optimise a slow test in VS Code](#solution-optimise-a-slow-test-in-vs-code)
 - [**2. Reducing Test Flakiness in Playwright**](#2-reducing-test-flakiness-in-playwright) (7 videos)
-  - Mastering flaky tests
-  - Handling Nuxt page hydration issue in tests
-  - Implementing stable locators
-  - Handling external dependencies to minimise flakiness
-  - Running tests multiple times to detect flakiness
-  - Challenge: Fix this flaky test
-  - Solution: Fix this flaky test
+  - [Mastering flaky tests](#mastering-flaky-tests)
+  - [Handling Nuxt page hydration issue in tests](#handling-nuxt-page-hydration-issue-in-tests)
+  - [Implementing stable locators](#implementing-stable-locators)
+  - [Handling external dependencies to minimise flakiness](#handling-external-dependencies-to-minimise-flakiness)
+  - [Running tests multiple times to detect flakiness](#running-tests-multiple-times-to-detect-flakiness)
+  - [Challenge: Fix this flaky test](#challenge-fix-this-flaky-test)
+  - [Solution: Fix this flaky test](#solution-fix-this-flaky-test)
 - [**3. Screenshot and Snapshot Testing Best Practices**](#3-screenshot-and-snapshot-testing-best-practices) (5 videos)
-  - Visual testing with screenshots and snapshots
-  - How do you capture a screenshot?
-  - How do you capture a snapshot?
-  - Challenge: Implement a test to screenshot a page
-  - Solution: Implement a test to screenshot a page
+  - [Visual testing with screenshots and snapshots](#visual-testing-with-screenshots-and-snapshots)
+  - [How do you capture a screenshot?](#how-do-you-capture-a-screenshot)
+  - [How do you capture a snapshot?](#how-do-you-capture-a-snapshot)
+  - [Challenge: Implement a test to screenshot a page](#challenge-implement-a-test-to-screenshot-a-page)
+  - [Solution: Implement a test to screenshot a page](#solution-implement-a-test-to-screenshot-a-page)
 - [**4. Running Tests on Microsoft Playwright Testing Service**](#4-running-tests-on-microsoft-playwright-testing-service) (6 videos)
-  - What is Microsoft Playwright Testing (MPT) service?
-  - Creating a resource on Microsoft Azure
-  - Setting up your framework to run tests on the cloud
-  - Running tests via CLI
-  - Challenge: Run tests against your local server on MPT
-  - Solution: Run tests against your local server on MPT
+  - [What is Microsoft Playwright Testing (MPT) service?](#what-is-microsoft-playwright-testing-mpt-service)
+  - [Creating a resource on Microsoft Azure](#creating-a-resource-on-microsoft-azure)
+  - [Setting up your framework to run tests on the cloud](#setting-up-your-framework-to-run-tests-on-the-cloud)
+  - [Running tests via CLI](#running-tests-via-cli)
+  - [Challenge: Run tests against your local server on MPT](#challenge-run-tests-against-your-local-server-on-mpt)
+  - [Solution: Run tests against your local server on MPT](#solution-run-tests-against-your-local-server-on-mpt)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Final thoughts and best practices
-  - Next steps
+  - [Final thoughts and best practices](#final-thoughts-and-best-practices)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced Playwright techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/advanced-playwright-techniques?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** parallel (1), cloud (1), [[Engineering]] (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - let (1)
@@ -134,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[GitHub]] (1)
 > **UI Navigation:** click on (2)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
@@ -143,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Optimising Test Speed in Playwright
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Green testing: Speed, efficiency and sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980)
@@ -236,8 +237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Software Development]] (2), [[Automation]] (2), teams (1), ci (1)
 > **CLI Commands:** make (2), cd (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** storagestate (1)
 > **Env Vars:** cpu (1)
 > **Tools:** visual studio (1)
@@ -316,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (1), pass (1)
+> **Frameworks & Libraries:** [[Automation]] (1), data (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** waituntil (1)
@@ -436,7 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), await (3), async (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (3), web (1), feature (1)
 > **Prerequisites:** setup (9)
 > **Definitions:** is called (4), is a  (2)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (3), [directtest.com](https://directtest.com) (1)
@@ -606,8 +607,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), node (1), web (1), next (1), [[LinkedIn]] (1)
 > **Env Vars:** json (5), url (3), npx (2), utf (1), href (1)
-> **Code Keywords:** let (3), async (2), function (2), await (2), pass (2)
 > **CLI Commands:** make (3), npx (2), find (1), node (1)
 > **UI Navigation:** go to (4), click on (2)
 > **Definitions:** is a  (3), defined as (1)
@@ -658,7 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1), self (1)
+> **Frameworks & Libraries:** ci (4), game (1), cd (1), parallel (1), cloud (1)
 > **Env Vars:** cpu (3)
 > **CLI Commands:** cd (1), find (1)
 > **Prerequisites:** configure (1), setup (1)
@@ -688,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -736,7 +737,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** npx (1)
 > **Versions:** 1.6 (1)
@@ -747,7 +747,7 @@ created: 2026-04-29
 
 ### 2. Reducing Test Flakiness in Playwright
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering flaky tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980)
@@ -808,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), finally, (1), static (1)
+> **Frameworks & Libraries:** [[Automation]] (2), application (2), [[Test Automation]] (1), ci (1), cd (1)
 > **CLI Commands:** make (3), cd (1)
 > **Analogies:** just like (1), such as (1)
 > **Env Vars:** api (1)
@@ -841,7 +841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), raise (1)
+> **Frameworks & Libraries:** application (2), [[HTML]] (1), product (1)
 > **Code Identifiers:** usenuxtapp (1), ishydrating (1)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
@@ -908,8 +908,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (1), dom (1)
 > **UI Navigation:** click on (3), right-click (2), go to (2), in the menu (1)
-> **Code Keywords:** let (3), this, (1), async (1)
 > **Env Vars:** url (3), dom (1)
 > **Definitions:** is a  (3)
 > **URLs:** [testing.com](https://testing.com) (2)
@@ -1066,8 +1066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), api (12), product (8), [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (12), url (3), json (1)
-> **Code Keywords:** let (9), await (1), this. (1)
 > **Code Identifiers:** productlink (3), tobevisible (1), contenttype (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
@@ -1114,8 +1114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), npx (1), grep (1)
-> **Code Keywords:** let (1)
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1136,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (2), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - alright (1)
 > **Non-Speech:** (gentle music) (1)
@@ -1180,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), this. (1)
+> **Frameworks & Libraries:** data (8), api (2), product (2), [[Microsoft Products|Products]] (2), [[GitHub]] (1)
 > **UI Navigation:** scroll down (2), click on (2), go to (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** find (1)
@@ -1192,7 +1192,7 @@ created: 2026-04-29
 
 ### 3. Screenshot and Snapshot Testing Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visual testing with screenshots and snapshots
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/visual-testing-with-screenshots-and-snapshots?u=76281980)
@@ -1247,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), finally, (1), let (1), assert (1)
+> **Frameworks & Libraries:** functional (2), css (1), dom (1), next (1)
 > **Env Vars:** css (1), dom (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -1304,7 +1304,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** go to (3), click on (1)
-> **Code Keywords:** await (1), let (1)
 > **Code Identifiers:** tohavescreenshot (1), fullpage (1)
 > **URLs:** [https://practicesoftwaretesting.com](https://practicesoftwaretesting.com) (1)
 > **Definitions:** is a  (1)
@@ -1459,8 +1458,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (26), [[Git]] (1), [[Angular]] (1), [[npm]] (1), [[JSON]] (1)
 > **Env Vars:** html (25), url (1), npm (1), json (1), gpt (1)
-> **Code Keywords:** let (6), await (5), pass (3), function (2), delete (2)
 > **CLI Commands:** make (4), git (1), npm (1)
 > **Prerequisites:** install (2)
 > **File Paths:** top-menu.html (1)
@@ -1484,7 +1483,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **URLs:** [binaryville.com](https://binaryville.com) (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1509,13 +1507,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 4. Running Tests on Microsoft Playwright Testing Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft Playwright Testing (MPT) service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980)
@@ -1568,8 +1567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (10), parallel (5), [[Debugging]] (4), cloud (2), ci (2)
 > **CLI Commands:** cd (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1603,6 +1602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[LinkedIn]] (2), cloud (1), [[Microsoft Azure]] (1), [[Search]] (1)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **Env Vars:** api (1), url (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -1667,6 +1667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft]] (3), [[npm]] (2)
 > **UI Navigation:** click on (4), go to (2)
 > **CLI Commands:** npm (2), az (2), make (1)
 > **Env Vars:** url (4)
@@ -1706,10 +1707,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4)
 > **Env Vars:** url (4)
 > **File Paths:** config.ts (1)
 > **CLI Commands:** npx (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 > **Prerequisites:** setup (1)
@@ -1732,6 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), cloud (1)
 > **Speakers:** - [narrator] (1)
 
 #### Solution: Run tests against your local server on MPT
@@ -1767,10 +1769,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3)
 > **Code Identifiers:** exposenetwork (2)
 > **File Paths:** playwright.service.config.ts (1)
 > **CLI Commands:** npx (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** configure (1)
@@ -1779,7 +1781,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts and best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980)
@@ -1818,9 +1820,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), parallel (2), [[Automation]] (2), [[Microsoft]] (2), ci (2)
 > **CLI Commands:** cd (2), make (1)
 > **Code Identifiers:** storagestate (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Next steps
@@ -1844,6 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)

@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/leadership-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20Talent%20Development%20In%20The%20Era%20Of%20Ai.md)
@@ -47,26 +47,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction
+  - [Introduction](#introduction)
 - [**1. Understanding the Impact of AI on Talent Development**](#1-understanding-the-impact-of-ai-on-talent-development) (2 videos)
-  - The new era of talent development
-  - Key challenges for organizations in the AI age
+  - [The new era of talent development](#the-new-era-of-talent-development)
+  - [Key challenges for organizations in the AI age](#key-challenges-for-organizations-in-the-ai-age)
 - [**2. The Five Talent Strategy Foundations for Thriving in an AI-Driven Workplace**](#2-the-five-talent-strategy-foundations-for-thriving-in-an-ai-driven-workplace) (5 videos)
-  - Skills agility: Build skills faster
-  - Internal mobility: Make internal mobility easier
-  - Business impact and measurement: Measure success better
-  - Harnessing managers: Empower managers to be talent builders
-  - Career development: Drive employee-led career development
+  - [Skills agility: Build skills faster](#skills-agility-build-skills-faster)
+  - [Internal mobility: Make internal mobility easier](#internal-mobility-make-internal-mobility-easier)
+  - [Business impact and measurement: Measure success better](#business-impact-and-measurement-measure-success-better)
+  - [Harnessing managers: Empower managers to be talent builders](#harnessing-managers-empower-managers-to-be-talent-builders)
+  - [Career development: Drive employee-led career development](#career-development-drive-employee-led-career-development)
 - [**3. Equipping Leaders and Managers to Drive AI-Enabled Growth**](#3-equipping-leaders-and-managers-to-drive-ai-enabled-growth) (2 videos)
-  - Build an AI-ready leadership team
-  - Reinvent the role of managers
+  - [Build an AI-ready leadership team](#build-an-ai-ready-leadership-team)
+  - [Reinvent the role of managers](#reinvent-the-role-of-managers)
 - [**4. Next Steps: Embedding a Culture of Learning and Adaptability**](#4-next-steps-embedding-a-culture-of-learning-and-adaptability) (2 videos)
-  - Fostering a culture of continuous growth and adaptability
-  - Leading talent development into the future
+  - [Fostering a culture of continuous growth and adaptability](#fostering-a-culture-of-continuous-growth-and-adaptability)
+  - [Leading talent development into the future](#leading-talent-development-into-the-future)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980)
@@ -93,7 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** ai (2), leadership (1), data (1), career (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Impact of AI on Talent Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The new era of talent development
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980)
@@ -194,7 +194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** ai (24), next (3), business (2), [[Generative AI]] (2), career (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Env Vars:** nora (1)
 > **Warnings:** pitfall (1)
@@ -285,7 +285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (10), career (5), business (4), [[Internal Mobility]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - ai (1)
@@ -293,7 +293,7 @@ created: 2026-04-29
 
 ### 2. The Five Talent Strategy Foundations for Thriving in an AI-Driven Workplace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Skills agility: Build skills faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980)
@@ -390,10 +390,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), business (3), next (3), [[Internal Mobility]] (2), career (2)
 > **Cross-References:** in the next (2)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - did (1)
 
 #### Internal mobility: Make internal mobility easier
@@ -495,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (11), ai (3), career (2), data (2), hit (1)
 > **Definitions:** stands for (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** fire (1)
@@ -598,8 +598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), ai (4), data (4), leadership (2), next (2)
 > **Analogies:** for example (2), for instance (2), imagine (1)
-> **Code Keywords:** function (2), let (1), yield (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - imagine (1)
@@ -695,6 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), career (7), teams (3), data (2), [[Real-Time]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
@@ -780,6 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (10), [[Career Development]] (7), ai (4)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -788,7 +790,7 @@ created: 2026-04-29
 
 ### 3. Equipping Leaders and Managers to Drive AI-Enabled Growth
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an AI-ready leadership team
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/build-an-ai-ready-leadership-team?u=76281980)
@@ -889,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (17), leadership (8), teams (8), business (2), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** in the next (1)
@@ -958,15 +960,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Career Development]] (5), career (4), teams (2), [[Lead Change]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - your (1)
 
 
 ### 4. Next Steps: Embedding a Culture of Learning and Adaptability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fostering a culture of continuous growth and adaptability
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980)
@@ -1065,6 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), teams (5), leadership (2), [[Career Development]] (2), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - through (1)
 
@@ -1117,7 +1120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** ai (7), business (2), leadership (2), teams (1), [[Leadership Development]] (1)
 > **Cross-References:** earlier in (1), we discussed (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)

@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Use GenAI to make better decisions
+  - [Use GenAI to make better decisions](#use-genai-to-make-better-decisions)
 - [**1. Determine Your Decision**](#1-determine-your-decision) (6 videos)
-  - Understand the DREAMS framework
-  - Define your problem
-  - Refine your decision
-  - Understand your decision motivation using GenAI
-  - Explore options with AI for decision direction
-  - Analyze AI answers to narrow options
+  - [Understand the DREAMS framework](#understand-the-dreams-framework)
+  - [Define your problem](#define-your-problem)
+  - [Refine your decision](#refine-your-decision)
+  - [Understand your decision motivation using GenAI](#understand-your-decision-motivation-using-genai)
+  - [Explore options with AI for decision direction](#explore-options-with-ai-for-decision-direction)
+  - [Analyze AI answers to narrow options](#analyze-ai-answers-to-narrow-options)
 - [**2. Harness AI to Refine Your Decision**](#2-harness-ai-to-refine-your-decision) (4 videos)
-  - Challenge decision biases using GenAI
-  - Analyze AI answers to pick a decision direction
-  - Use a premortem to make stronger decisions
-  - Use GenAI to include stakeholder perspectives
+  - [Challenge decision biases using GenAI](#challenge-decision-biases-using-genai)
+  - [Analyze AI answers to pick a decision direction](#analyze-ai-answers-to-pick-a-decision-direction)
+  - [Use a premortem to make stronger decisions](#use-a-premortem-to-make-stronger-decisions)
+  - [Use GenAI to include stakeholder perspectives](#use-genai-to-include-stakeholder-perspectives)
 - [**3. Use Generative AI to Continuously Improve Decisions**](#3-use-generative-ai-to-continuously-improve-decisions) (3 videos)
-  - Futurecast with GenAI to make better decisions
-  - Use GenAI to help your past improve your future
-  - Use AI effectively to optimize decisions
+  - [Futurecast with GenAI to make better decisions](#futurecast-with-genai-to-make-better-decisions)
+  - [Use GenAI to help your past improve your future](#use-genai-to-help-your-past-improve-your-future)
+  - [Use AI effectively to optimize decisions](#use-ai-effectively-to-optimize-decisions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Achieve continuously great outcomes
+  - [Achieve continuously great outcomes](#achieve-continuously-great-outcomes)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GenAI to make better decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-genai-to-make-better-decisions?u=76281980)
@@ -90,15 +90,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), strengths (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - yes (1)
 
 
 ### 1. Determine Your Decision
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the DREAMS framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980)
@@ -159,9 +159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (2), ai (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** dreams (4)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - making (1)
@@ -205,8 +205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Search]] (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), let (1)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -317,10 +317,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), next (3), strengths (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** dreams (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
@@ -370,9 +370,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), next (1)
 > **Env Vars:** dreams (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else, (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - so (1)
@@ -454,8 +454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), next (4), data (1), [[Search]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** this. (1), super (1), for. (1), if, (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Analogies:** it's like (2)
 > **Env Vars:** dreams (1)
@@ -530,6 +530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), next (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -538,7 +539,7 @@ created: 2026-04-29
 
 ### 2. Harness AI to Refine Your Decision
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge decision biases using GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980)
@@ -633,8 +634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), next (2), data (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (1), for. (1), finally, (1)
 > **Env Vars:** dreams (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we talked about (1)
@@ -697,6 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), next (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** dreams (1)
@@ -763,9 +765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), next (3), generic (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Analogies:** imagine (1)
 > **Warnings:** pitfall (1)
@@ -847,8 +849,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this, (1)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
@@ -857,7 +859,7 @@ created: 2026-04-29
 
 ### 3. Use Generative AI to Continuously Improve Decisions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Futurecast with GenAI to make better decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/futurecast-with-gen-ai-to-make-better-decisions?u=76281980)
@@ -918,9 +920,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), database (1), next (1), data (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** for, (1)
 > **Speakers:** - if (1)
 
 #### Use GenAI to help your past improve your future
@@ -982,9 +984,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (4)
 > **Env Vars:** dreams (5)
 > **Exercise Files:** exercise file (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1067,6 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (11), next (1), [[Storytelling]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** such as (1), for example (1)
@@ -1075,7 +1078,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Achieve continuously great outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980)
@@ -1116,8 +1119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Decision-Making]] (3), power (1), strengths (1), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **URLs:** [areamethod.com](https://areamethod.com) (1)
 > **Speakers:** - congratulations (1)
 

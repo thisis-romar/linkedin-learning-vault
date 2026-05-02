@@ -30,7 +30,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/protopie
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ProtoPie%20for%20UX%20Design.md)
@@ -49,30 +49,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What to expect from this course
-  - Using the exercise files
+  - [What to expect from this course](#what-to-expect-from-this-course)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Exploring the Interface**](#1-exploring-the-interface) (3 videos)
-  - Reviewing the Jumpstart screen
-  - Interface overview
-  - Process and core concept of ProtoPie
+  - [Reviewing the Jumpstart screen](#reviewing-the-jumpstart-screen)
+  - [Interface overview](#interface-overview)
+  - [Process and core concept of ProtoPie](#process-and-core-concept-of-protopie)
 - [**2. Interaction Basics**](#2-interaction-basics) (5 videos)
-  - Importing assets
-  - Containers, scrolling, paging
-  - Scenes
-  - Creating triggers and responses
-  - Timeline and animation curves explained
+  - [Importing assets](#importing-assets)
+  - [Containers, scrolling, paging](#containers-scrolling-paging)
+  - [Scenes](#scenes)
+  - [Creating triggers and responses](#creating-triggers-and-responses)
+  - [Timeline and animation curves explained](#timeline-and-animation-curves-explained)
 - [**3. Formulas**](#3-formulas) (1 videos)
-  - Formula and variables basic overview
+  - [Formula and variables basic overview](#formula-and-variables-basic-overview)
 - [**4. Components**](#4-components) (1 videos)
-  - Component basics
+  - [Component basics](#component-basics)
 - [**5. Exporting and Sharing**](#5-exporting-and-sharing) (3 videos)
-  - ProtoPie Player
-  - ProtoPie Cloud
-  - Recording
+  - [ProtoPie Player](#protopie-player)
+  - [ProtoPie Cloud](#protopie-cloud)
+  - [Recording](#recording)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What to expect from this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980)
@@ -93,7 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (2), [[Prototyping]] (1), next (1)
 > **Speakers:** - [ronnie] (1)
 
 #### Using the exercise files
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Exploring the Interface
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing the Jumpstart screen
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980)
@@ -202,11 +202,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ProtoPie]] (17), application (9), [[Windows]] (2), cloud (1), [[Android]] (1)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** macos (2), ios (1)
 > **Prerequisites:** set up (2), install (1)
-> **Code Keywords:** for, (1), default, (1)
 > **Definitions:** is called (1), is a  (1)
 > **URLs:** [protopie.io](https://protopie.io) (1)
 > **Documentation:** the documentation (1)
@@ -400,7 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), delete (3), public (2), import, (1), static (1)
+> **Frameworks & Libraries:** application (13), [[ProtoPie]] (7), cloud (5), [[Figma (Software)|Figma]] (2), [[Prototyping]] (2)
 > **UI Navigation:** click on (12)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** ios (2), iphone (1)
@@ -480,9 +480,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ProtoPie]] (6), cloud (2), [[Figma (Software)|Figma]] (1), hit (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** else. (1)
 > **Cross-References:** go back to (1)
 > **Tools:** figma (1)
 > **Analogies:** for instance (1)
@@ -492,7 +492,7 @@ created: 2026-04-29
 
 ### 2. Interaction Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing assets
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980)
@@ -605,7 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** export, (2), let (2), interface (1), this. (1), export. (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (11), application (3), hit (3), [[Adobe XD]] (2), [[Figma (Software)|Figma]] (1)
 > **Prerequisites:** set up (3), install (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
@@ -780,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), export. (1), super (1)
+> **Frameworks & Libraries:** application (2), hit (2), [[ProtoPie]] (2), next (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** scroll up (2), go to (1), toggle (1), click on (1)
 > **Prerequisites:** set up (4), you need to have (1)
@@ -908,8 +908,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[ProtoPie]] (7), hit (2), [[Figma (Software)|Figma]] (1), [[Adobe XD]] (1)
 > **UI Navigation:** click on (8), select the (2)
-> **Code Keywords:** this, (2), delete (2), export. (1), let (1), this. (1)
 > **CLI Commands:** make (5)
 > **Tools:** figma (1)
 > **Definitions:** is an  (1)
@@ -1049,7 +1049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (1)
+> **Frameworks & Libraries:** application (3), hit (2)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** click on (3), in the menu (1), select the (1)
 > **Prerequisites:** setup (2), set up (2)
@@ -1133,8 +1133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ProtoPie]] (3), hit (1)
 > **Versions:** 0.2 (3), 0.8 (1), 0.4 (1)
-> **Code Keywords:** this. (1), for, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** click on (1)
@@ -1144,7 +1144,7 @@ created: 2026-04-29
 
 ### 3. Formulas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Formula and variables basic overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980)
@@ -1235,9 +1235,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), hit (2), data (1), application (1), [[Debugging]] (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [educator] (1)
@@ -1245,7 +1245,7 @@ created: 2026-04-29
 
 ### 4. Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Component basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980)
@@ -1346,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (2), feature (1), hit (1), power (1)
 > **UI Navigation:** go to (5), select the (1), click on (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2)
@@ -1357,7 +1357,7 @@ created: 2026-04-29
 
 ### 5. Exporting and Sharing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ProtoPie Player
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980)
@@ -1414,12 +1414,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ProtoPie]] (4), cloud (2), feature (1), [[Android]] (1), application (1)
 > **UI Navigation:** click on (4)
 > **Code Identifiers:** ios (2), ipad (1)
 > **Exercise Files:** download the (2)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - so (1), - now (1)
-> **Code Keywords:** for. (1)
 > **URLs:** [prototype.io](https://prototype.io) (1)
 > **Cross-References:** in the next (1)
 
@@ -1518,8 +1518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[ProtoPie]] (4), teams (3), hit (2)
 > **UI Navigation:** click on (6), go to (1)
-> **Code Keywords:** else. (1), delete (1), type. (1), for, (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - so (1)
 
@@ -1550,6 +1550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), hit (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mp4 (1)
 > **Cross-References:** previous video (1)

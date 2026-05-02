@@ -32,7 +32,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Sharing.md)
@@ -51,39 +51,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - Who this course is for
-  - Data classification as part of data governance
+  - [Welcome](#welcome)
+  - [Who this course is for](#who-this-course-is-for)
+  - [Data classification as part of data governance](#data-classification-as-part-of-data-governance)
 - [**1. Data Sharing: Risks and Possibilities**](#1-data-sharing-risks-and-possibilities) (5 videos)
-  - How data sharing works: The ads use case
-  - How data sharing can go wrong
-  - Data sharing risks: A case study
-  - When data sharing should raise red flags
-  - Valid reasons for data sharing
+  - [How data sharing works: The ads use case](#how-data-sharing-works-the-ads-use-case)
+  - [How data sharing can go wrong](#how-data-sharing-can-go-wrong)
+  - [Data sharing risks: A case study](#data-sharing-risks-a-case-study)
+  - [When data sharing should raise red flags](#when-data-sharing-should-raise-red-flags)
+  - [Valid reasons for data sharing](#valid-reasons-for-data-sharing)
 - [**2. Solving for Data Sharing**](#2-solving-for-data-sharing) (4 videos)
-  - Techniques to minimize privacy risk
-  - Anonymization concepts
-  - Anonymization techniques
-  - Encryption
+  - [Techniques to minimize privacy risk](#techniques-to-minimize-privacy-risk)
+  - [Anonymization concepts](#anonymization-concepts)
+  - [Anonymization techniques](#anonymization-techniques)
+  - [Encryption](#encryption)
 - [**3. k-Anonymity and Data Sharing**](#3-k-anonymity-and-data-sharing) (5 videos)
-  - What is k-anonymity?
-  - k-Anonymity: A use case
-  - k-Anonymity: With very coarse data
-  - k-Anonymity: With very granular data
-  - k-Anonymity: Industry best practice
+  - [What is k-anonymity?](#what-is-k-anonymity)
+  - [k-Anonymity: A use case](#k-anonymity-a-use-case)
+  - [k-Anonymity: With very coarse data](#k-anonymity-with-very-coarse-data)
+  - [k-Anonymity: With very granular data](#k-anonymity-with-very-granular-data)
+  - [k-Anonymity: Industry best practice](#k-anonymity-industry-best-practice)
 - [**4. l-Diversity**](#4-l-diversity) (2 videos)
-  - How l-diversity helps privacy
-  - k-Anonymity vs. l-diversity
+  - [How l-diversity helps privacy](#how-l-diversity-helps-privacy)
+  - [k-Anonymity vs. l-diversity](#k-anonymity-vs-l-diversity)
 - [**5. The Challenge of Privacy: Your Digital Fingerprint**](#5-the-challenge-of-privacy-your-digital-fingerprint) (3 videos)
-  - Your physical fingerprint
-  - Your digital fingerprint
-  - The power of joining outside data
+  - [Your physical fingerprint](#your-physical-fingerprint)
+  - [Your digital fingerprint](#your-digital-fingerprint)
+  - [The power of joining outside data](#the-power-of-joining-outside-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980)
@@ -144,8 +144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Privacy]] (8), [[Cybersecurity]] (1), [[Security]] (1), database (1)
 > **Env Vars:** covid (3)
-> **Code Keywords:** public (1), let (1)
 > **Speakers:** - thank (1)
 
 #### Who this course is for
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** [[Privacy]] (13), data (7), [[LinkedIn]] (2), business (2), [[Security]] (2)
 > **Speakers:** - [instructor] (1)
 
 #### Data classification as part of data governance
@@ -223,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1)
+> **Frameworks & Libraries:** data (29), [[Data Classification]] (6), [[Privacy]] (6), business (2), [[Security]] (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** just like (2)
 > **Speakers:** - just (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Data Sharing: Risks and Possibilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How data sharing works: The ads use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980)
@@ -304,8 +304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Privacy]] (5), next (1)
 > **Env Vars:** ssp (5), dsp (2)
-> **Code Keywords:** let (3), case. (1), abstract (1)
 > **Definitions:** refers to (1), known as (1), is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -383,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), this. (1), private (1)
+> **Frameworks & Libraries:** data (12), [[Privacy]] (5), [[Databases]] (1), web (1), feature (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -541,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (3), abstract (1), continue (1), public (1)
+> **Frameworks & Libraries:** data (39), [[Privacy]] (8), [[Security]] (3), hit (2), web (1)
 > **Ports:** :10 (1), :24 (1), :12 (1), :08 (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.6 (1)
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), finally, (1), raise (1)
+> **Frameworks & Libraries:** data (19), [[Privacy]] (5), next (3), [[Automation]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - privacy (1)
@@ -642,14 +642,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (9), traffic (2), business (1), next (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Solving for Data Sharing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Techniques to minimize privacy risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980)
@@ -792,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), require (1), case. (1), public (1)
+> **Frameworks & Libraries:** data (49), [[Privacy]] (9), teams (3), [[Security]] (2), [[Data Classification]] (1)
 > **Ports:** :30 (2), :00 (2), :22 (1), :09 (1), :24 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -854,7 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), public (1), require (1)
+> **Frameworks & Libraries:** data (14), [[Privacy]] (6), [[Databases]] (1), [[Security]] (1)
 > **Definitions:** refers to (3), is a  (1)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -936,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), type, (1)
+> **Frameworks & Libraries:** data (14), [[Databases]] (1), database (1), [[Engineering]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1065,7 +1065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (4), let (4), protected (2), public (1)
+> **Frameworks & Libraries:** data (28), [[Privacy]] (11), [[Security]] (9), [[Cryptography]] (5), business (4)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** opm (3)
 > **Definitions:** is a  (1)
@@ -1076,7 +1076,7 @@ created: 2026-04-29
 
 ### 3. k-Anonymity and Data Sharing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is k-anonymity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980)
@@ -1111,8 +1111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), data (2), [[Google]] (1), api (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - let (1)
@@ -1136,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (3), [[Engineering]] (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1171,7 +1171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[Privacy]] (1)
 > **Env Vars:** gps (4)
 > **CLI Commands:** find (2), make (1)
 > **Ports:** :21 (1), :22 (1), :30 (1)
@@ -1212,10 +1212,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Privacy]] (1)
 > **Env Vars:** gps (5)
 > **Versions:** 68.4 (2), 97.4 (2), 0.9 (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1), case, (1), case. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1270,9 +1270,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Privacy]] (3), hit (1), next (1)
 > **Versions:** 0.2 (2), 99.8 (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), private (1)
 > **Env Vars:** gps (2)
 > **Definitions:** is a  (1), is called (1)
 > **Best Practices:** best practice (2)
@@ -1282,7 +1282,7 @@ created: 2026-04-29
 
 ### 4. l-Diversity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How l-diversity helps privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980)
@@ -1305,7 +1305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), protected (1)
+> **Frameworks & Libraries:** data (2), [[Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1350,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), delete (1), finally, (1)
+> **Frameworks & Libraries:** data (9), [[Privacy]] (5), [[Security]] (2), next (1), business (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1358,7 +1358,7 @@ created: 2026-04-29
 
 ### 5. The Challenge of Privacy: Your Digital Fingerprint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your physical fingerprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980)
@@ -1381,6 +1381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Privacy]] (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -1407,6 +1408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Versions:** 1.5 (1)
 > **Speakers:** - [host] (1)
 
@@ -1455,7 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (5), [[Privacy]] (2), [[Security]] (2), database (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - throughout (1)
@@ -1463,7 +1465,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980)
@@ -1498,7 +1500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (7), [[Databases]] (1), [[Dashboards]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 

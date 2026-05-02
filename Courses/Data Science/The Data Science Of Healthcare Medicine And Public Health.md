@@ -31,7 +31,7 @@ tags:
   - skill/data-science
   - skill/healthcare-industry
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Data%20Science%20Of%20Healthcare%20Medicine%20And%20Public%20Health.md)
@@ -50,44 +50,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Healthcare and data science
+  - [Healthcare and data science](#healthcare-and-data-science)
 - [**1. Connecting Data Science**](#1-connecting-data-science) (1 videos)
-  - Data science and COVID-19
+  - [Data science and COVID-19](#data-science-and-covid-19)
 - [**2. Researching Diseases and Populations**](#2-researching-diseases-and-populations) (4 videos)
-  - Shared history of health and data visualization
-  - Measuring health and disease
-  - Researching diseases in populations
-  - Genetic data and healthcare
+  - [Shared history of health and data visualization](#shared-history-of-health-and-data-visualization)
+  - [Measuring health and disease](#measuring-health-and-disease)
+  - [Researching diseases in populations](#researching-diseases-in-populations)
+  - [Genetic data and healthcare](#genetic-data-and-healthcare)
 - [**3. Researching Treatment and Outcomes**](#3-researching-treatment-and-outcomes) (4 videos)
-  - Diagnosing diseases
-  - Drug (re)discovery
-  - Predicting outcomes
-  - Treatments and ROI
+  - [Diagnosing diseases](#diagnosing-diseases)
+  - [Drug (re)discovery](#drug-rediscovery)
+  - [Predicting outcomes](#predicting-outcomes)
+  - [Treatments and ROI](#treatments-and-roi)
 - [**4. Patient Care**](#4-patient-care) (6 videos)
-  - Selecting treatments and interventions
-  - Individualized treatment
-  - Robotic surgery
-  - 3D printing and healthcare
-  - Virtual reality in healthcare
-  - Telemedicine
+  - [Selecting treatments and interventions](#selecting-treatments-and-interventions)
+  - [Individualized treatment](#individualized-treatment)
+  - [Robotic surgery](#robotic-surgery)
+  - [3D printing and healthcare](#3d-printing-and-healthcare)
+  - [Virtual reality in healthcare](#virtual-reality-in-healthcare)
+  - [Telemedicine](#telemedicine)
 - [**5. Self-Care**](#5-self-care) (3 videos)
-  - Wearables and health monitoring
-  - Self-serve healthcare
-  - Patient experience
+  - [Wearables and health monitoring](#wearables-and-health-monitoring)
+  - [Self-serve healthcare](#self-serve-healthcare)
+  - [Patient experience](#patient-experience)
 - [**6. Medical Administration and Insurance**](#6-medical-administration-and-insurance) (3 videos)
-  - Administrative burden for doctors and staff
-  - Blockchain and medical data
-  - Data science and health insurance
+  - [Administrative burden for doctors and staff](#administrative-burden-for-doctors-and-staff)
+  - [Blockchain and medical data](#blockchain-and-medical-data)
+  - [Data science and health insurance](#data-science-and-health-insurance)
 - [**7. Challenges**](#7-challenges) (3 videos)
-  - Limitations and barriers
-  - Data ethics in healthcare
-  - Preparing for an unknown future
+  - [Limitations and barriers](#limitations-and-barriers)
+  - [Data ethics in healthcare](#data-ethics-in-healthcare)
+  - [Preparing for an unknown future](#preparing-for-an-unknown-future)
 - [**8. Continuing Your Data Science of Healthcare Learning Journey**](#8-continuing-your-data-science-of-healthcare-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Healthcare and data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** data (8), [[Public Health]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** covid (1)
 > **Definitions:** is a  (1)
@@ -123,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Connecting Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science and COVID-19
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980)
@@ -254,8 +254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Public Health]] (1), [[Forms]] (1), business (1), [[React.js|React]] (1)
 > **Env Vars:** covid (11)
-> **Code Keywords:** public (4), this. (1), self (1), private (1), from, (1)
 > **Analogies:** for instance (5)
 > **CLI Commands:** find (2)
 > **Warnings:** warning (1)
@@ -264,7 +264,7 @@ created: 2026-04-29
 
 ### 2. Researching Diseases and Populations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shared history of health and data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980)
@@ -335,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), case, (1)
+> **Frameworks & Libraries:** data (7), [[Zoom]] (1), [[Analytics]] (1), next (1), [[Public Health]] (1)
 > **Env Vars:** broad (1), street (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -430,10 +430,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **Env Vars:** yld (4), gbd (4), daly (3), covid (1), haly (1)
 > **Analogies:** for instance (9), picture (2)
 > **Definitions:** is a  (5), stands for (4), is an  (1)
-> **Code Keywords:** let (4), function (2), from. (1)
 > **URLs:** [healthdata.org](https://healthdata.org) (3)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -572,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), this. (2), require (1), private (1), for, (1)
+> **Frameworks & Libraries:** data (25), [[Google]] (8), [[Search]] (2), [[Microsoft Office|Office]] (1), next (1)
 > **Env Vars:** ehr (1), hipaa (1), api (1), h1n1 (1), covid (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** it's like (1), for instance (1), picture (1), think of it as (1)
@@ -665,17 +665,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Big Data]] (7), [[LinkedIn]] (1), database (1), ai (1)
 > **Env Vars:** dna (8), crispr (1), hiv (1)
 > **Analogies:** for instance (4), such as (2), it's like (1)
 > **Definitions:** is a  (2), refers to (1), stands for (1), is called (1)
 > **CLI Commands:** make (2), curl (1), python (1)
-> **Code Keywords:** let (1), public (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Researching Treatment and Outcomes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diagnosing diseases
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980)
@@ -826,8 +826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (5), [[Logistic Regression]] (2), [[Deep Learning]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Analogies:** for instance (5), for example (4), picture (1), think of it as (1), imagine (1)
-> **Code Keywords:** this, (2), let (1), this. (1), super (1), self (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** icd (1)
 > **Cross-References:** go back to (1)
@@ -935,8 +935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (3), [[Algorithms]] (2), [[Calculus]] (1), database (1)
 > **Env Vars:** fda (6), covid (5), sars (1), mers (1), drup (1)
-> **Code Keywords:** let (4), this. (1), for. (1), case, (1), this, (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Versions:** 2.6 (1)
@@ -1025,7 +1025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this, (1), this. (1), finally, (1), super (1)
+> **Frameworks & Libraries:** data (5), [[Predictive Analytics]] (3), [[Probability]] (3), [[Predictive Modeling]] (2), [[Forms]] (1)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** keep in mind (1)
@@ -1130,9 +1130,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Decision-Making]] (3), [[Wellness]] (3), [[Public Health]] (2), business (1)
 > **Env Vars:** yld (2), daly (2), roi (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** public (2), let (1), else. (1)
 > **Analogies:** such as (1), for instance (1)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** set up (1)
@@ -1141,7 +1141,7 @@ created: 2026-04-29
 
 ### 4. Patient Care
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting treatments and interventions
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980)
@@ -1242,9 +1242,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Probability]] (3), [[Decision Trees]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (3)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1323,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Statistical Analysis]] (1), web (1)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** covid (1), fda (1)
 > **CLI Commands:** make (1)
@@ -1431,7 +1431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), implements (1)
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -1498,10 +1498,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Analogies:** for instance (2), it's like (1), such as (1), for example (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** super (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1606,9 +1606,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), data (2), [[Zoom]] (1), next (1), traffic (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** for instance (2), for example (1), it's like (1)
-> **Code Keywords:** let (1), switch (1), this, (1)
 > **Env Vars:** ptsd (2), mri (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1700,8 +1700,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Office|Office]] (2), [[Statistics]] (1), [[Telecommunications]] (1), hit (1)
 > **Analogies:** for instance (3), picture (2), for example (1)
-> **Code Keywords:** continue (1), finally, (1), let (1), this. (1), private (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** ipad (1)
 > **Env Vars:** hipaa (1)
@@ -1711,7 +1711,7 @@ created: 2026-04-29
 
 ### 5. Self-Care
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wearables and health monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980)
@@ -1798,8 +1798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Statistics]] (1), [[Algorithms]] (1)
 > **Analogies:** for instance (3), it's like (1)
-> **Code Keywords:** self (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** covid (1)
@@ -1901,8 +1901,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1), business (1)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** self (2), require (1), switch (1)
 > **Definitions:** is a  (3), known as (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Code Identifiers:** ecommerce (1), ebay (1)
@@ -2103,8 +2103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (2), [[Microsoft Office|Office]] (1), [[Forms]] (1), next (1)
 > **CLI Commands:** make (10), find (2)
-> **Code Keywords:** let (6), self (2), else. (1), this, (1)
 > **Env Vars:** cahps (1), ahrq (1), mri (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** it's like (1)
@@ -2113,7 +2113,7 @@ created: 2026-04-29
 
 ### 6. Medical Administration and Insurance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Administrative burden for doctors and staff
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980)
@@ -2186,8 +2186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Unstructured Data]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), hit (1), nlp (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** this. (3), else. (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** nlp (1)
 > **Cross-References:** in the last (1)
@@ -2305,10 +2305,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (22), data (10), [[Forms]] (3), application (1), [[Privacy]] (1)
 > **Analogies:** for example (3), for instance (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), private (1)
 > **Env Vars:** hipaa (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2407,7 +2407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1)
+> **Frameworks & Libraries:** data (13), ai (5), [[Probability]] (1), [[Ethics]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2416,7 +2416,7 @@ created: 2026-04-29
 
 ### 7. Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Limitations and barriers
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980)
@@ -2581,8 +2581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), ai (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (3), [[Neural Networks]] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (2), finally, (1), this, (1)
 > **Versions:** 1.4 (1), 0.05 (1), 0.04 (1)
 > **Env Vars:** isp (1), hipaa (1)
 > **Analogies:** for instance (2)
@@ -2703,9 +2703,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Privacy]] (5), [[Accountability]] (3), [[LinkedIn]] (3), ai (2)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** hipaa (1), gdpr (1), ccpa (1), cpra (1), covid (1)
-> **Code Keywords:** public (1), private (1), let (1), finally, (1)
 > **Analogies:** for instance (2), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2799,14 +2799,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), database (1), next (1), [[Public Health]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** case. (1), public (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Continuing Your Data Science of Healthcare Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980)
@@ -2847,8 +2847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Public Health]] (2), next (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
-> **Code Keywords:** public (2), let (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** hipaa (1)
 > **Prerequisites:** you need to have (1)

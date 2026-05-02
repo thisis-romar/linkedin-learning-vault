@@ -35,7 +35,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Transforming%20Business%20with%20AI%20Agents-%20Autonomous%20Efficiency%20and%20Decision-Making.md)
@@ -54,27 +54,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introducing agentic AI
+  - [Introducing agentic AI](#introducing-agentic-ai)
 - [**1. Explaining Agentic AI**](#1-explaining-agentic-ai) (3 videos)
-  - What makes AI agents unique
-  - Understand how AI agents work
-  - How AI agents create value for businesses
+  - [What makes AI agents unique](#what-makes-ai-agents-unique)
+  - [Understand how AI agents work](#understand-how-ai-agents-work)
+  - [How AI agents create value for businesses](#how-ai-agents-create-value-for-businesses)
 - [**2. Types of AI Agents**](#2-types-of-ai-agents) (6 videos)
-  - Simple reflex agents
-  - Model-based agents
-  - Goal-based agents
-  - Utility-based agents
-  - Learning-based agents
-  - Hierarchical agents
+  - [Simple reflex agents](#simple-reflex-agents)
+  - [Model-based agents](#model-based-agents)
+  - [Goal-based agents](#goal-based-agents)
+  - [Utility-based agents](#utility-based-agents)
+  - [Learning-based agents](#learning-based-agents)
+  - [Hierarchical agents](#hierarchical-agents)
 - [**3. Putting AI Agents to Work**](#3-putting-ai-agents-to-work) (2 videos)
-  - Implementing agentic AI
-  - Addressing agentic AI challenges
+  - [Implementing agentic AI](#implementing-agentic-ai)
+  - [Addressing agentic AI challenges](#addressing-agentic-ai-challenges)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your future and agentic AI
+  - [Your future and agentic AI](#your-future-and-agentic-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980)
@@ -99,15 +99,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), business (1), next (1), [[Automation]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Explaining Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes AI agents unique
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980)
@@ -172,7 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** ai (12), [[Generative AI]] (2), prompt (1), data (1), [[Customer Support]] (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -247,9 +247,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), next (2), database (1), [[Generative AI]] (1), power (1)
 > **Analogies:** for example (5), similar to (1), such as (1), imagine (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), require (1), finally, (1), try. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
@@ -302,9 +302,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (5), business (4), [[Automation]] (1), [[Scalability]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - agentic (1)
@@ -312,7 +312,7 @@ created: 2026-04-29
 
 ### 2. Types of AI Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple reflex agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980)
@@ -367,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1)
+> **Frameworks & Libraries:** ai (4), business (3), hr (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), next (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
@@ -423,8 +423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Financial Planning]] (1), [[Simulation]] (1), data (1), power (1)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - let (1)
 
@@ -467,7 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (4), game (1), management (1), business (1), [[Supply Chain Management]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
@@ -523,7 +523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1), let (1)
+> **Frameworks & Libraries:** ai (3), [[Microsoft Excel|Excel]] (2), [[Decision-Making]] (2), management (1), product (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
@@ -579,8 +579,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (4), [[Supervised Learning]] (1), [[Reinforcement Learning]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case, (1), require (1), type, (1)
 > **Analogies:** for example (1), similar to (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
@@ -645,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), new, (1), let (1)
+> **Frameworks & Libraries:** ai (3), [[Representational State Transfer (REST)|Rest]] (1), [[Control Flow]] (1), management (1), [[Supply Chain Management]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -654,7 +654,7 @@ created: 2026-04-29
 
 ### 3. Putting AI Agents to Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980)
@@ -707,9 +707,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), data (5), business (2), [[Scalability]] (1), next (1)
 > **Cross-References:** as you saw (1), we covered (1), in the next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
@@ -799,8 +799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[Security]] (2), [[Privacy]] (2), data (2), next (2)
 > **Analogies:** for example (3), think of it as (1)
-> **Code Keywords:** let (2), case, (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -810,7 +810,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your future and agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980)
@@ -843,6 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), power (1)
 > **Analogies:** imagine (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)

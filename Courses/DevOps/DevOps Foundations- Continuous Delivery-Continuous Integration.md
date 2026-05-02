@@ -28,7 +28,7 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Continuous%20Delivery-Continuous%20Integration.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - DevOps foundations: CD/CI
-  - What you should know
+  - [DevOps foundations: CD/CI](#devops-foundations-cdci)
+  - [What you should know](#what-you-should-know)
 - [**1. Continuous Integration and Continuous Delivery**](#1-continuous-integration-and-continuous-delivery) (3 videos)
-  - DevOps core concept: CI/CD
-  - Benefits of continuous delivery
-  - Build pipelines in practice
+  - [DevOps core concept: CI/CD](#devops-core-concept-cicd)
+  - [Benefits of continuous delivery](#benefits-of-continuous-delivery)
+  - [Build pipelines in practice](#build-pipelines-in-practice)
 - [**2. Build Your Own Pipeline**](#2-build-your-own-pipeline) (15 videos)
-  - Introducing the delivery pipeline
-  - Version control practices
-  - Version control in action with Git
-  - Continuous integration systems
-  - Continuous integration in action
-  - Building artifacts
-  - Artifact repositories in action
-  - Testing and continuous delivery
-  - Testing philosophy
-  - Unit testing in action
-  - Application deploy and release
-  - Deployment in action
-  - Integration testing in action
-  - UI testing in action
-  - Security testing in action with Gauntlt
+  - [Introducing the delivery pipeline](#introducing-the-delivery-pipeline)
+  - [Version control practices](#version-control-practices)
+  - [Version control in action with Git](#version-control-in-action-with-git)
+  - [Continuous integration systems](#continuous-integration-systems)
+  - [Continuous integration in action](#continuous-integration-in-action)
+  - [Building artifacts](#building-artifacts)
+  - [Artifact repositories in action](#artifact-repositories-in-action)
+  - [Testing and continuous delivery](#testing-and-continuous-delivery)
+  - [Testing philosophy](#testing-philosophy)
+  - [Unit testing in action](#unit-testing-in-action)
+  - [Application deploy and release](#application-deploy-and-release)
+  - [Deployment in action](#deployment-in-action)
+  - [Integration testing in action](#integration-testing-in-action)
+  - [UI testing in action](#ui-testing-in-action)
+  - [Security testing in action with Gauntlt](#security-testing-in-action-with-gauntlt)
 - [**3. Putting It All Together**](#3-putting-it-all-together) (2 videos)
-  - CI/CD best practices
-  - Continuous delivery in real life
+  - [CI/CD best practices](#cicd-best-practices)
+  - [Continuous delivery in real life](#continuous-delivery-in-real-life)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps foundations: CD/CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980)
@@ -126,8 +126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), application (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), management (1)
 > **Speakers:** - are (1), - do (1), - have (1), - does (1), - if (1)
-> **Code Keywords:** finally, (1), let (1)
 > **URLs:** [theagileadmin.com](https://theagileadmin.com) (1)
 > **Prerequisites:** you'll need (1)
 
@@ -162,14 +162,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Jenkins]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Automation]] (1)
 > **Speakers:** - [man (2), - this (1), - [james] (1), - so (1), - now (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 
 
 ### 1. Continuous Integration and Continuous Delivery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps core concept: CI/CD
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980)
@@ -232,8 +232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), application (3), [[Continuous Integration (CI)|Continuous integration]] (2), ci (2), [[Microsoft Products|Products]] (2)
 > **Speakers:** - you (2), - continuous (2), - this (2), - i (2), - yeah (1)
-> **Code Keywords:** let (2), extends (1), this, (1)
 > **CLI Commands:** docker (1), find (1), cd (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** source code (1)
@@ -347,10 +347,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (12), [[Security]] (7), teams (3), cd (2), next (2)
 > **Speakers:** - yeah (5), - the (3), - for (2), - that (2), - doing (1)
 > **CLI Commands:** cd (2), find (2), make (1)
 > **Cross-References:** later in (1), we discussed (1), in the next (1)
-> **Code Keywords:** self (1), let (1)
 > **Definitions:** is a  (1)
 
 #### Build pipelines in practice
@@ -438,6 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), ci (2), [[Orchestration]] (2), [[Jetpack Compose|Compose]] (1), [[Git]] (1)
 > **CLI Commands:** make (3), docker (3), git (1), find (1), cd (1)
 > **Env Vars:** jar (1), war (1), ear (1), rpm (1)
 > **Exercise Files:** source code (3)
@@ -448,7 +449,7 @@ created: 2026-04-29
 
 ### 2. Build Your Own Pipeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the delivery pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980)
@@ -523,10 +524,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), application (3), [[Version Control]] (3), web application (2), ci (2)
 > **Speakers:** - [instructor] (5), - yeah (4), - but (2), - all (1), - over (1)
 > **CLI Commands:** ruby (1), node (1), cd (1), git (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Warnings:** caution (1)
 
@@ -639,9 +640,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (11), [[Continuous Delivery (CD)|Continuous delivery]] (2), feature (2), next (2), [[Git]] (2)
 > **Speakers:** - [man (13), - yeah (4), - in (3), - it (3), - this (2)
 > **CLI Commands:** make (5), git (2)
-> **Code Keywords:** let (3), self (1), this, (1)
 > **Prerequisites:** install (1), setup (1), set up (1), make sure you have (1)
 > **Best Practices:** good practice (2), bad practice (1)
 > **Env Vars:** cto (1)
@@ -831,8 +832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (25), [[GitHub]] (11), ci (4), [[Version Control]] (3), [[Windows]] (2)
 > **CLI Commands:** git (25), make (6), cat (2), cd (2), ssh (1)
-> **Code Keywords:** let (21), this. (2), type, (1), case, (1), pass (1)
 > **Tools:** github (11), command line (2), vim (2), terminal (1), bash (1)
 > **Env Vars:** readme (3), cicd (2), ssh (1), sas (1), ide (1)
 > **Prerequisites:** set up (6), you'll need (1), install (1)
@@ -945,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), public (1), private (1), this. (1)
+> **Frameworks & Libraries:** ci (13), [[Jenkins]] (4), teams (3), [[Continuous Integration (CI)|Continuous integration]] (2), next (2)
 > **Env Vars:** sas (2), cis (1)
 > **Cross-References:** in the next (1), coming up (1)
 > **Tools:** github (1), slack (1)
@@ -1183,9 +1184,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (22), [[Jetpack Compose|Compose]] (9), [[Windows]] (3), next (3), [[Java]] (2)
 > **CLI Commands:** docker (21), make (4), find (1), unzip (1), git (1)
 > **Prerequisites:** install (5), configure (4), set up (2)
-> **Code Keywords:** let (5), default, (1), this, (1), default. (1), require (1)
 > **Tools:** command line (2), bash (1), github (1), slack (1)
 > **Versions:** 16.6 (2), version 1 (1), go 1 (1)
 > **URLs:** [docker.com](https://docker.com) (1), [golang.org](https://golang.org) (1), [jenkins.io](https://jenkins.io) (1)
@@ -1269,8 +1270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (3), [[Python (Programming Language)|Python]] (2), [[Security]] (2), application (2), teams (2)
 > **CLI Commands:** python (2), make (1), php (1), git (1), cd (1)
-> **Code Keywords:** let (2), public (1), finally, (1), super (1)
 > **Env Vars:** php (1), npm (1)
 > **Exercise Files:** source code (2)
 > **Cross-References:** next video (1)
@@ -1469,8 +1470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), cloud (8), [[Jetpack Compose|Compose]] (4), [[Jenkins]] (4), [[Agile Development|Agile]] (3)
 > **CLI Commands:** docker (5), make (5), find (3), curl (2), apache (1)
-> **Code Keywords:** let (11), from, (1), this. (1)
 > **Env Vars:** md5 (2), api (2), sha1 (1), url (1), yolo (1)
 > **Definitions:** is a  (3), is an  (2), in other words (1)
 > **Versions:** version 1 (4), version 3 (1)
@@ -1585,8 +1586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Security]] (2), [[Unit Testing]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Speakers:** - [ernest] (7), - there (3), - [james] (3), - yeah (2), - okay (2)
-> **Code Keywords:** module (1), this. (1), let (1), class. (1)
 > **Env Vars:** sut (2), api (1), raml (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), rails (1)
@@ -1649,9 +1650,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), business (1), [[Google]] (1), [[End-to-end Testing]] (1)
 > **Speakers:** - here (1), - tdd (1), - all (1), - atdd (1), - each (1)
 > **Env Vars:** tdd (2), bdd (2), atdd (1)
-> **Code Keywords:** pass (1), extends (1), let (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** known as (1)
@@ -1757,7 +1758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Unit Testing]] (4), cloud (3), next (3), application (2)
 > **CLI Commands:** make (7), find (1), git (1), cd (1)
 > **File Paths:** wordyapi./api.go (1), api_test.go (1)
 > **Definitions:** is a  (2)
@@ -1897,8 +1898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (2), [[Service Deployment]] (2), product (2), database (2)
 > **CLI Commands:** make (4), aws (1), ssh (1), ansible (1), docker (1)
-> **Code Keywords:** self (3), finally, (1), extends (1), case. (1)
 > **Env Vars:** aws (1), api (1), ssh (1)
 > **Definitions:** in other words (1), is an  (1), is a  (1)
 > **Analogies:** for example (1), similar to (1)
@@ -2045,8 +2046,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (10), [[Jenkins]] (9), [[Jetpack Compose|Compose]] (4), [[Microsoft Word|Word]] (3), cloud (3)
 > **CLI Commands:** ansible (10), docker (8), make (8), ssh (4), cd (2)
-> **Code Keywords:** let (12), pass (2), this. (1), super (1)
 > **Prerequisites:** set up (3), install (2), setup (1)
 > **Env Vars:** ssh (3), cii (1), yaml (1)
 > **Versions:** version 1 (4)
@@ -2131,9 +2132,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), [[Integration Testing]] (7), [[Microsoft Word|Word]] (5), api (3), cloud (3)
 > **Env Vars:** http (5), api (3), json (2), test (1)
 > **CLI Commands:** make (3), curl (3), find (1)
-> **Code Keywords:** let (6)
 > **Tools:** command line (5), vim (1)
 > **Definitions:** is a  (4), is called (1)
 > **UI Navigation:** go to (1), scroll up (1)
@@ -2273,8 +2274,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), application (3), [[Python (Programming Language)|Python]] (3), cloud (3), ci (2)
 > **CLI Commands:** python (3), make (3), find (2), cd (1), ruby (1)
-> **Code Keywords:** let (6), require (1), abstract (1), for. (1)
 > **Prerequisites:** install (2), you'll need (1), setup (1), set up (1)
 > **UI Navigation:** open the (2), go to (1)
 > **Definitions:** in other words (1), is called (1), refers to (1)
@@ -2415,7 +2416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), static (7), assert (2), case, (2), this, (1)
+> **Frameworks & Libraries:** [[Security]] (11), application (5), [[Scripting]] (4), ci (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** docker (5), make (4), find (2), npm (1)
 > **Env Vars:** sast (1), dast (1), rasp (1), xss (1), npm (1)
 > **Prerequisites:** install (2), setup (1), getting started (1), set up (1)
@@ -2427,7 +2428,7 @@ created: 2026-04-29
 
 ### 3. Putting It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CI/CD best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980)
@@ -2528,9 +2529,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Automation]] (2), [[Version Control]] (1), ci (1), parallel (1)
 > **Speakers:** - [man (10), - yeah (3), - all (2), - that (2), - but (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (1), case. (1)
 > **Best Practices:** the key is (1), you should always (1)
 > **Env Vars:** stat (1)
 > **Cross-References:** next video (1)
@@ -2655,9 +2656,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (5), product (2), [[Continuous Integration (CI)|Continuous integration]] (2), ci (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - yeah (5), - the (2), - [ernest] (2), - [james] (2), - theory (1)
 > **CLI Commands:** find (1), make (1), cd (1)
-> **Code Keywords:** break, (1), let (1), finally, (1)
 > **Analogies:** imagine (1), just like (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -2665,7 +2666,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980)
@@ -2714,6 +2715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (4), application (1), [[Automation]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Speakers:** - yeah (2), - [ernest] (2), - and (1), - together (1), - well (1)
 > **CLI Commands:** make (1), cd (1), find (1)
 > **URLs:** [googleblog.com](https://googleblog.com) (1), [theagileadmin.com](https://theagileadmin.com) (1)

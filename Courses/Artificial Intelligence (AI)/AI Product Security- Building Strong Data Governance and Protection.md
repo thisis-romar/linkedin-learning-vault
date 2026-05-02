@@ -38,7 +38,7 @@ tags:
   - skill/ai-governance
   - skill/data-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Building%20Strong%20Data%20Governance%20and%20Protection.md)
@@ -57,40 +57,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Unlock the essentials of AI data governance and security
+  - [Unlock the essentials of AI data governance and security](#unlock-the-essentials-of-ai-data-governance-and-security)
 - [**1. Introduction to Data Governance and Security in AI Products**](#1-introduction-to-data-governance-and-security-in-ai-products) (4 videos)
-  - AI governance and security
-  - Key risks for data used in AI products
-  - The importance of AI data governance and security
-  - AI data governance and security challenges
+  - [AI governance and security](#ai-governance-and-security)
+  - [Key risks for data used in AI products](#key-risks-for-data-used-in-ai-products)
+  - [The importance of AI data governance and security](#the-importance-of-ai-data-governance-and-security)
+  - [AI data governance and security challenges](#ai-data-governance-and-security-challenges)
 - [**2. Establish Robust Data Governance Throughout the AI Product's Lifecycle**](#2-establish-robust-data-governance-throughout-the-ai-products-lifecycle) (4 videos)
-  - Defining data governance for AI products
-  - Data ownership throughout the AI product lifecycle
-  - Data handling best practices for AI products
-  - Monitoring AI access and usage in AI products
+  - [Defining data governance for AI products](#defining-data-governance-for-ai-products)
+  - [Data ownership throughout the AI product lifecycle](#data-ownership-throughout-the-ai-product-lifecycle)
+  - [Data handling best practices for AI products](#data-handling-best-practices-for-ai-products)
+  - [Monitoring AI access and usage in AI products](#monitoring-ai-access-and-usage-in-ai-products)
 - [**3. Implement Comprehensive Security for AI Data**](#3-implement-comprehensive-security-for-ai-data) (4 videos)
-  - Build a foundation for AI systems
-  - Identity and authentication controls
-  - Encryption throughout the AI data's lifecycle
-  - Ensuring data integrity and auditability
+  - [Build a foundation for AI systems](#build-a-foundation-for-ai-systems)
+  - [Identity and authentication controls](#identity-and-authentication-controls)
+  - [Encryption throughout the AI data's lifecycle](#encryption-throughout-the-ai-datas-lifecycle)
+  - [Ensuring data integrity and auditability](#ensuring-data-integrity-and-auditability)
 - [**4. Embed Compliance in AI Product Development**](#4-embed-compliance-in-ai-product-development) (5 videos)
-  - Navigating regulatory requirements
-  - Privacy and security by design in AI development
-  - Assessing security and privacy in AI products
-  - AI model transparency and explainability
-  - Security risks from third-party AI tools
+  - [Navigating regulatory requirements](#navigating-regulatory-requirements)
+  - [Privacy and security by design in AI development](#privacy-and-security-by-design-in-ai-development)
+  - [Assessing security and privacy in AI products](#assessing-security-and-privacy-in-ai-products)
+  - [AI model transparency and explainability](#ai-model-transparency-and-explainability)
+  - [Security risks from third-party AI tools](#security-risks-from-third-party-ai-tools)
 - [**5. Maintain Data Governance and Security Over Time**](#5-maintain-data-governance-and-security-over-time) (5 videos)
-  - Securing AI data pipelines
-  - Securing AI models and outputs
-  - Managing AI model updates
-  - Detecting and preventing breaches
-  - Keeping data governance and security up to date
+  - [Securing AI data pipelines](#securing-ai-data-pipelines)
+  - [Securing AI models and outputs](#securing-ai-models-and-outputs)
+  - [Managing AI model updates](#managing-ai-model-updates)
+  - [Detecting and preventing breaches](#detecting-and-preventing-breaches)
+  - [Keeping data governance and security up to date](#keeping-data-governance-and-security-up-to-date)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Putting it into practice
+  - [Putting it into practice](#putting-it-into-practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock the essentials of AI data governance and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980)
@@ -119,14 +119,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), data (3), [[Security]] (3), [[Cybersecurity]] (1), product (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. Introduction to Data Governance and Security in AI Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI governance and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980)
@@ -209,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), implements (1)
+> **Frameworks & Libraries:** data (25), ai (10), [[Security]] (9), [[Search]] (1), [[Accountability]] (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
@@ -294,7 +294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1), finally, (1)
+> **Frameworks & Libraries:** ai (19), data (19), [[Security]] (3), management (2), [[Privacy]] (2)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -356,8 +356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Security]] (12), data (11), [[Privacy]] (2), [[Digital Transformation]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1), finra (1)
-> **Code Keywords:** let (1), require (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -407,8 +407,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (8), [[Security]] (2), [[Financial Data]] (1), [[Cloud Infrastructure]] (1)
 > **Analogies:** for example (1), imagine (1), it's like (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - what (1)
@@ -416,7 +416,7 @@ created: 2026-04-29
 
 ### 2. Establish Robust Data Governance Throughout the AI Product's Lifecycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data governance for AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980)
@@ -493,7 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (17), ai (7), [[Security]] (3), [[Continuous Monitoring]] (3), [[Accountability]] (1)
 > **Analogies:** for instance (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
@@ -545,7 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1)
+> **Frameworks & Libraries:** data (15), ai (4), [[Accountability]] (2), teams (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
@@ -618,7 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (3), throw (1), require (1)
+> **Frameworks & Libraries:** data (21), ai (3), [[Representational State Transfer (REST)|Rest]] (2), next (1), [[Security]] (1)
 > **Env Vars:** aes (1), tls (1)
 > **Analogies:** for example (1), it's like (1)
 > **CLI Commands:** make (1)
@@ -679,7 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), implements (1)
+> **Frameworks & Libraries:** data (10), ai (4), [[Security]] (3), [[Real-Time]] (1), next (1)
 > **Analogies:** it's like (1), picture (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [narrator] (1)
@@ -687,7 +687,7 @@ created: 2026-04-29
 
 ### 3. Implement Comprehensive Security for AI Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a foundation for AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980)
@@ -748,7 +748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), public (1)
+> **Frameworks & Libraries:** data (14), ai (4), [[Security]] (2), database (1)
 > **Cross-References:** we talked about (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -804,9 +804,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), ai (3), [[Security]] (2), next (1)
 > **Env Vars:** mfa (2), rbac (2), iso (1), iec (1)
 > **Analogies:** imagine (1), think of it like (1), for instance (1)
-> **Code Keywords:** let (1)
 > **URLs:** [iso.org](https://iso.org) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -869,8 +869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), ai (4), [[Representational State Transfer (REST)|Rest]] (4), [[Security]] (4), next (1)
 > **Env Vars:** pii (1), tls (1), sftp (1), aes (1)
-> **Code Keywords:** let (1), implements (1), delete (1)
 > **CLI Commands:** find (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - one (1)
@@ -942,8 +942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (7), management (2), [[Generative AI]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** function (1), static (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** imagine (1), think of it as (1)
 > **Speakers:** - [lecturer] (1)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 ### 4. Embed Compliance in AI Product Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating regulatory requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980)
@@ -998,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (10), [[Security]] (5), [[Privacy]] (4), [[NIST]] (2)
 > **Env Vars:** gdpr (3), nist (2), ccpa (1)
-> **Code Keywords:** continue (1), let (1), require (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1072,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), private (1)
+> **Frameworks & Libraries:** data (11), [[Privacy]] (10), ai (8), [[Security]] (6), [[E-Commerce]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1134,7 +1134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), public (1), while, (1)
+> **Frameworks & Libraries:** ai (10), [[Privacy]] (7), data (7), [[Security]] (5), [[Microsoft Products|Products]] (1)
 > **Env Vars:** grc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1209,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** ai (14), data (2), application (1), job description (1), hr (1)
 > **Analogies:** for example (2), imagine (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** shap (2)
@@ -1285,14 +1285,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** data (13), ai (7), [[Security]] (4), [[Continuous Monitoring]] (1), application (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Maintain Data Governance and Security Over Time
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing AI data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980)
@@ -1375,8 +1375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), ai (9), [[Security]] (1), [[IoT]] (1), next (1)
 > **Analogies:** think of it like (1), just like (1), imagine (1), such as (1)
-> **Code Keywords:** let (2), match, (1)
 > **CLI Commands:** make (1), python (1)
 > **URLs:** [domain.com](https://domain.com) (1)
 > **Env Vars:** sql (1)
@@ -1430,7 +1430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (5), data (3), [[Security]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
@@ -1514,10 +1514,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (12), [[Algorithms]] (1), next (1)
 > **Analogies:** for example (2), imagine (2), for instance (1), such as (1)
 > **Best Practices:** remember to (1), the key is (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - so (1)
 
@@ -1572,8 +1572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Security]] (6), data (4), [[Quantum Computing]] (1), management (1)
 > **Env Vars:** siem (2), dna (1)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** for instance (1), for example (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
@@ -1622,8 +1622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (3), [[Security]] (2), functional (1), teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1631,7 +1631,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting it into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980)
@@ -1660,7 +1660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** ai (1), data (1), [[Security]] (1), next (1), [[LinkedIn]] (1)
 > **URLs:** [theriskoptimist.com](https://theriskoptimist.com) (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)

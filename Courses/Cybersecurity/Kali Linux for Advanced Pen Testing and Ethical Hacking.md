@@ -32,7 +32,7 @@ tags:
   - skill/ethical-hacking
   - skill/kali-linux
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Kali%20Linux%20for%20Advanced%20Pen%20Testing%20and%20Ethical%20Hacking.md)
@@ -51,64 +51,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Using Kali Linux as the basis for advanced penetration testing
-  - What you should know
-  - Disclaimer
+  - [Using Kali Linux as the basis for advanced penetration testing](#using-kali-linux-as-the-basis-for-advanced-penetration-testing)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Kali Basics**](#1-kali-basics) (6 videos)
-  - Testing with Kali Linux
-  - Understanding Kali deployments
-  - Preparing your toolbox
-  - Preparing to use exploits for testing
-  - Managing the Kali menu
-  - Using the LinkedIn Learning penetration testing lab
+  - [Testing with Kali Linux](#testing-with-kali-linux)
+  - [Understanding Kali deployments](#understanding-kali-deployments)
+  - [Preparing your toolbox](#preparing-your-toolbox)
+  - [Preparing to use exploits for testing](#preparing-to-use-exploits-for-testing)
+  - [Managing the Kali menu](#managing-the-kali-menu)
+  - [Using the LinkedIn Learning penetration testing lab](#using-the-linkedin-learning-penetration-testing-lab)
 - [**2. System Shells**](#2-system-shells) (6 videos)
-  - Introduction to shells
-  - Exploring Kali webshells
-  - Weeving a shell
-  - Generating shellcode with msfvenom
-  - Injecting images with jhead
-  - Using shellcode in exploits
+  - [Introduction to shells](#introduction-to-shells)
+  - [Exploring Kali webshells](#exploring-kali-webshells)
+  - [Weeving a shell](#weeving-a-shell)
+  - [Generating shellcode with msfvenom](#generating-shellcode-with-msfvenom)
+  - [Injecting images with jhead](#injecting-images-with-jhead)
+  - [Using shellcode in exploits](#using-shellcode-in-exploits)
 - [**3. Exploiting Targets from Kali**](#3-exploiting-targets-from-kali) (5 videos)
-  - Exploiting systems with Kali
-  - Exploiting with Python
-  - Exploiting with Perl
-  - Exploiting with C
-  - Exploiting with CPP
+  - [Exploiting systems with Kali](#exploiting-systems-with-kali)
+  - [Exploiting with Python](#exploiting-with-python)
+  - [Exploiting with Perl](#exploiting-with-perl)
+  - [Exploiting with C](#exploiting-with-c)
+  - [Exploiting with CPP](#exploiting-with-cpp)
 - [**4. Passwords**](#4-passwords) (2 videos)
-  - Obtaining Windows passwords
-  - Obtaining Linux passwords
+  - [Obtaining Windows passwords](#obtaining-windows-passwords)
+  - [Obtaining Linux passwords](#obtaining-linux-passwords)
 - [**5. Exploiting the Metasploitable Server**](#5-exploiting-the-metasploitable-server) (9 videos)
-  - Targeting Metasploitable
-  - Exploiting VSFTPD
-  - Exploiting with ProFTPD
-  - Exploiting Tomcat
-  - Exploiting IRC
-  - Exploiting the distributed compile system
-  - Exploiting network files
-  - Hiding in plain sight
-  - Escalating to root
+  - [Targeting Metasploitable](#targeting-metasploitable)
+  - [Exploiting VSFTPD](#exploiting-vsftpd)
+  - [Exploiting with ProFTPD](#exploiting-with-proftpd)
+  - [Exploiting Tomcat](#exploiting-tomcat)
+  - [Exploiting IRC](#exploiting-irc)
+  - [Exploiting the distributed compile system](#exploiting-the-distributed-compile-system)
+  - [Exploiting network files](#exploiting-network-files)
+  - [Hiding in plain sight](#hiding-in-plain-sight)
+  - [Escalating to root](#escalating-to-root)
 - [**6. End-to-End Testing**](#6-end-to-end-testing) (6 videos)
-  - Starting with online labs
-  - Exploiting rejetto
-  - Exploiting the Devel
-  - Time to exploit Cronos
-  - Cronos revisited: Getting to the root
-  - Using a nightmare escalator
+  - [Starting with online labs](#starting-with-online-labs)
+  - [Exploiting rejetto](#exploiting-rejetto)
+  - [Exploiting the Devel](#exploiting-the-devel)
+  - [Time to exploit Cronos](#time-to-exploit-cronos)
+  - [Cronos revisited: Getting to the root](#cronos-revisited-getting-to-the-root)
+  - [Using a nightmare escalator](#using-a-nightmare-escalator)
 - [**7. Crafting Exploit Scripts**](#7-crafting-exploit-scripts) (5 videos)
-  - Introducing kali-autopilot
-  - Scripting a juicy attack
-  - Attacking the juice shop
-  - Hiving into Windows
-  - Attacking the hives
+  - [Introducing kali-autopilot](#introducing-kali-autopilot)
+  - [Scripting a juicy attack](#scripting-a-juicy-attack)
+  - [Attacking the juice shop](#attacking-the-juice-shop)
+  - [Hiving into Windows](#hiving-into-windows)
+  - [Attacking the hives](#attacking-the-hives)
 - [**8. Command and Control with Sliver**](#8-command-and-control-with-sliver) (2 videos)
-  - Install Sliver server
-  - Implement a Sliver agent
+  - [Install Sliver server](#install-sliver-server)
+  - [Implement a Sliver agent](#implement-a-sliver-agent)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Kali Linux as the basis for advanced penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980)
@@ -139,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (3), [[Penetration Testing]] (2), career (2), [[Ethical Hacking]] (1), [[Engineering]] (1)
 > **Definitions:** is an  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instruction] (1)
 
 #### What you should know
@@ -168,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Ethical Hacking]] (1), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** you'll need (1)
@@ -198,14 +199,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Kali Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing with Kali Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980)
@@ -282,6 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (2), [[Automation]] (2), [[Security]] (1), [[Engineering]] (1), [[Windows]] (1)
 > **Analogies:** such as (7)
 > **Env Vars:** oscp (2), scada (1)
 > **CLI Commands:** find (2)
@@ -362,6 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Virtualization]] (3), [[Android]] (1), [[Ubuntu]] (1), [[Linux]] (1)
 > **Definitions:** is a  (2), means that (2), known as (1)
 > **Env Vars:** usb (2), arm (1), lan (1)
 > **CLI Commands:** make (2)
@@ -461,8 +464,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Git]] (2), management (1), [[Search]] (1), [[Databases]] (1)
 > **CLI Commands:** ls (4), find (2), sudo (2), git (2), apt (1)
-> **Code Keywords:** let (4), this, (2), finally, (1)
 > **Prerequisites:** you'll need (5), install (1)
 > **Env Vars:** ofccp (1), spd (1), sbd (1), owasp (1), oscp (1)
 > **Versions:** version 0 (1), 0.7 (1)
@@ -629,8 +632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Search]] (4), database (3), [[GitHub]] (3), [[Git]] (2)
 > **CLI Commands:** ruby (5), mkdir (4), git (2), make (2), ls (1)
-> **Code Keywords:** let (10), this. (1)
 > **File Paths:** 16270.c (3), exploits/linux/dos/16270.c (1), esteemaudit.rb (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (2)
@@ -717,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1)
+> **Frameworks & Libraries:** application (6), web (3), web application (1), next (1)
 > **CLI Commands:** find (2), apt (2), sudo (1)
 > **UI Navigation:** scroll down (2), select the (2), go to (1)
 > **Prerequisites:** install (3)
@@ -805,9 +808,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (4), [[LinkedIn]] (3), career (2), [[Kali Linux]] (1), [[Security]] (1)
 > **Env Vars:** vpn (4), vip (2), oscp (1), url (1)
 > **Prerequisites:** set up (2), you'll need (2)
-> **Code Keywords:** let (2), interface (1)
 > **Speakers:** - [instructor] (1), - sn (1)
 > **CLI Commands:** sudo (1)
 > **Versions:** 10.10.10 (1)
@@ -817,7 +820,7 @@ created: 2026-04-29
 
 ### 2. System Shells
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to shells
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980)
@@ -888,9 +891,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[Python (Programming Language)|Python]] (2), prompt (1)
 > **Tools:** bash (3), command line (2), command prompt (1)
 > **CLI Commands:** python (2), find (1), make (1)
-> **Code Keywords:** let (2), switch (1)
 > **Versions:** 10.0.2 (1), 127.0.0 (1), 192.168.1 (1)
 > **Prerequisites:** set up (2), install (1)
 > **Speakers:** - [instructor] (1)
@@ -1028,9 +1031,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), [[PHP]] (11), [[Forms]] (2), [[Linux]] (2), [[Windows]] (2)
 > **Env Vars:** php (5), aspx (4), url (3), asp (3), jsp (3)
 > **CLI Commands:** php (11), ls (2), apache (1), find (1)
-> **Code Keywords:** let (11), var (2), pub (1)
 > **Versions:** 5.1 (2), 10.10.10 (2), 10.0.2 (1), 10.0.28 (1)
 > **Definitions:** is a  (4), is an  (1), known as (1)
 > **File Paths:** shelly.php (2), user/share/webshells/php/php-reverse-shell.php (1), 10.0.28/myacc/shelly.php (1)
@@ -1150,10 +1153,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (13), data (2)
 > **CLI Commands:** php (13), make (2), find (2), cat (1)
 > **Env Vars:** php (6), tcp (2), url (1), http (1)
 > **File Paths:** wish.php (7), test.txt (1), temp/test.txt (1)
-> **Code Keywords:** let (6), module (1), this, (1)
 > **Versions:** 10.0.2 (2)
 > **Tools:** command line (2)
 > **Code Identifiers:** audit_etc (1)
@@ -1288,10 +1291,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (10), [[Python (Programming Language)|Python]] (8), web (4), [[Linux]] (2), [[Intrusion Detection]] (1)
 > **Env Vars:** lhost (6), lpost (4), lport (3), asp (3), php (1)
 > **CLI Commands:** python (8), make (4), find (1), php (1), chmod (1)
 > **Code Identifiers:** reverse_tcp (5), shikata_ga_nai (3), shell_reverse_tcp (2), reverse_python (2), jsp_shell_reverse_tcp (1)
-> **Code Keywords:** let (8), case, (2), this. (1), function (1)
 > **Versions:** 10.0.2 (8), 1.18 (1)
 > **File Paths:** cmdpy.sh (4), cmd.py (3)
 > **Prerequisites:** set up (4)
@@ -1356,9 +1359,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), [[Metadata]] (2)
 > **CLI Commands:** php (5), sudo (1), apt (1), make (1), ls (1)
 > **Env Vars:** php (3), jpeg (2), nsa (1)
-> **Code Keywords:** let (3)
 > **File Paths:** nsa.php (2)
 > **Versions:** 10.0.2 (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1416,8 +1419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linux]] (3), [[GitHub]] (1), next (1)
 > **Env Vars:** ftp (2), lhost (2), lport (2), tcp (1), x09 (1)
-> **Code Keywords:** switch (2), let (1), this, (1)
 > **CLI Commands:** python (3)
 > **Tools:** bash (2), github (1)
 > **File Paths:** iac.py (1)
@@ -1428,7 +1431,7 @@ created: 2026-04-29
 
 ### 3. Exploiting Targets from Kali
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploiting systems with Kali
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980)
@@ -1457,8 +1460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ruby (2), find (1), make (1), python (1)
-> **Code Keywords:** let (2), this, (1)
 > **Code Identifiers:** exploitdb (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1527,9 +1530,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** shellshock.py (5), 34900.py (2)
 > **Tools:** bash (5), terminal (1)
-> **Code Keywords:** let (3), function (1), finally, (1)
 > **Env Vars:** cve (2), cgi (2), http (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1587,7 +1590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** ftp (4)
 > **Tools:** command line (2)
 > **Definitions:** is a  (2)
@@ -1636,8 +1639,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Git]] (2), [[Linux]] (1)
 > **CLI Commands:** make (3), git (2)
-> **Code Keywords:** let (5)
 > **File Paths:** hax.c (2), lib.c (1)
 > **Env Vars:** cve (1), poc (1), gcc (1)
 > **Tools:** github (2)
@@ -1694,7 +1697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), this. (1), module (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **File Paths:** dirtycow.cpp (4), linux/local/40847.cpp (1)
 > **Speakers:** - [instructor] (1), - pedantic (1), - std (1), - pthread (1)
 > **Env Vars:** cow (2)
@@ -1704,7 +1707,7 @@ created: 2026-04-29
 
 ### 4. Passwords
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Obtaining Windows passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980)
@@ -1831,7 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Security]] (3), database (3), [[Python (Programming Language)|Python]] (2), [[Penetration Testing]] (1)
 > **File Paths:** rockyou.txt (2), secretdump.py (1), hash.txt (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Env Vars:** lan (1), ntlm (1)
@@ -1881,14 +1884,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1), [[Security]] (1)
 > **Env Vars:** gid (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Exploiting the Metasploitable Server
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Targeting Metasploitable
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980)
@@ -1907,7 +1910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Code Identifiers:** sv (1)
 > **Env Vars:** tcp (1)
 > **Versions:** 10.0.2 (1)
@@ -1990,8 +1993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Env Vars:** vsftpd (6), ftp (3), nmap (1), msf (1), cmd (1)
-> **Code Keywords:** let (9), this. (1)
 > **Versions:** 10.0.2 (6), 2.3.4 (2)
 > **Ports:** port 21 (2)
 > **CLI Commands:** ruby (1)
@@ -2104,7 +2107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), var (3), pass (2)
+> **Frameworks & Libraries:** [[PHP]] (5), [[PostgreSQL|Postgres]] (2), [[Microsoft Word|Word]] (1), web (1), data (1)
 > **Env Vars:** ftp (7), p2121 (1), msf (1), lvnp (1)
 > **CLI Commands:** php (5), ls (1)
 > **Versions:** 1.3.1 (2)
@@ -2169,7 +2172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** application (2), web (2), [[Java]] (2)
 > **Env Vars:** lhost (1), lport (1), url (1)
 > **Ports:** port 8180 (1), :8180 (1)
 > **Versions:** 10.0.2 (2)
@@ -2205,8 +2208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Versions:** 10.0.2 (3), 3.2.8 (1)
-> **Code Keywords:** let (3)
 > **Code Identifiers:** sv (1)
 > **Ports:** port 6667 (1)
 > **Env Vars:** irc (1)
@@ -2245,8 +2248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (2), this, (1)
 > **Versions:** 10.0.2 (2)
 > **Code Identifiers:** sv (1)
 > **Ports:** port 3632 (1)
@@ -2302,7 +2305,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** ssh (7), sudo (2), mkdir (1), make (1), cat (1)
-> **Code Keywords:** let (8), public (2), switch (1), pub (1)
 > **Env Vars:** ssh (3), nfs (2)
 > **Versions:** 10.0.2 (4)
 > **Code Identifiers:** sv (1), id_rsa (1), authorized_keys (1)
@@ -2333,7 +2335,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Versions:** 10.0.2 (2)
 > **Speakers:** - [instructor] (1), - p1524 (1)
 > **Code Identifiers:** sv (1)
@@ -2439,7 +2440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Ubuntu]] (3), [[PHP]] (2), cd (1)
 > **File Paths:** 8572.c (5), shelly.php (1)
 > **CLI Commands:** php (2), make (2), cd (1), cat (1)
 > **Versions:** 2.6 (2), 2.6.24 (1), 8.04 (1), 10.2.18 (1), 10.2.8 (1)
@@ -2451,7 +2452,7 @@ created: 2026-04-29
 
 ### 6. End-to-End Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting with online labs
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980)
@@ -2550,7 +2551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (5), vpn (3), [[Penetration Testing]] (1), [[Tokens]] (1), web (1)
 > **Env Vars:** vip (3), vpn (3), htb (1)
 > **Versions:** 10.129.10 (2), 192.168.156 (1)
 > **CLI Commands:** sudo (2)
@@ -2669,7 +2670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (4), var (1), finally, (1)
+> **Frameworks & Libraries:** [[Windows]] (5), web (5), [[Python (Programming Language)|Python]] (2), vpn (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (2), find (1), ruby (1), make (1), cd (1)
 > **Env Vars:** url (3), xmlhttp (2), vpn (1), http (1)
 > **File Paths:** 39161.py (3), user.txt.txt (2), exploits/windows/remote/39161.py (1)
@@ -2863,8 +2864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), [[ASP.NET]] (3), web (3), next (1), [[Tokens]] (1)
 > **Env Vars:** ftp (5), asp (4), net (3), iis (3), aspx (3)
-> **Code Keywords:** let (19), public (1), case, (1)
 > **Versions:** 10.10.10 (5), 10.10.14 (3)
 > **CLI Commands:** ls (4), find (2), make (1)
 > **Code Identifiers:** reverse_tcp (2), aspnet_client (1), system_web (1)
@@ -2961,8 +2962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Linux]] (1), web (1), data (1)
 > **CLI Commands:** find (6), ls (3), apache (2), sudo (1), cat (1)
-> **Code Keywords:** let (10), switch (1), this, (1)
 > **Versions:** 10.10.10 (7)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Code Identifiers:** nocmd (1), ns1 (1)
@@ -3115,9 +3116,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (16), [[Laravel]] (5), web (4), [[Python (Programming Language)|Python]] (1), data (1)
 > **CLI Commands:** php (16), wget (2), ls (2), make (1), python (1)
 > **File Paths:** kernel.php (7), shelly.php (5), shelly.txt (3), myroot.txt (3), var/www/admin/myroot.txt (3)
-> **Code Keywords:** let (12), var (8), switch (1), from. (1)
 > **Env Vars:** php (4), http (1)
 > **Versions:** 10.10.14 (3)
 > **Prerequisites:** set up (3)
@@ -3185,7 +3186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Windows]] (2), [[Powershell]] (2), teams (1), [[GitHub]] (1)
 > **CLI Commands:** sudo (2), git (2), cat (1)
 > **Tools:** powershell (2), github (1), command line (1), terminal (1)
 > **Env Vars:** cve (3)
@@ -3197,7 +3198,7 @@ created: 2026-04-29
 
 ### 7. Crafting Exploit Scripts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing kali-autopilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980)
@@ -3282,7 +3283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (4)
+> **Frameworks & Libraries:** management (2), [[Python (Programming Language)|Python]] (1), [[OWASP]] (1), next (1), [[Debugging]] (1)
 > **CLI Commands:** make (2), python (1), sudo (1), apt (1)
 > **Env Vars:** apt (1), owasp (1), eth (1)
 > **UI Navigation:** checkbox (1)
@@ -3376,8 +3377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), management (1), [[OWASP]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), make (2), curl (2), wget (2), cat (1)
-> **Code Keywords:** let (4), interface (1), pass (1), this. (1)
 > **Env Vars:** stage (3), http (1), owasp (1), ftp (1)
 > **Ports:** :3000 (3), port 3000 (1)
 > **File Paths:** 2500.md (1), home/kali/kali-autopilot/juicy/juice.py (1), juicy.py (1)
@@ -3416,7 +3417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), while. (1)
+> **Frameworks & Libraries:** api (3), cd (1), management (1)
 > **Env Vars:** api (3), ftp (1)
 > **CLI Commands:** cd (1), python3 (1)
 > **File Paths:** juicy.py (1)
@@ -3488,9 +3489,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Security]] (2), management (2), [[Windows]] (1), prompt (1)
 > **Prerequisites:** set up (5)
 > **Env Vars:** sam (2), cve (1), smb (1)
-> **Code Keywords:** let (2), case, (1)
 > **Ports:** port 5985 (1), port 8000 (1)
 > **Exercise Files:** download the (2)
 > **CLI Commands:** tar (1)
@@ -3530,7 +3531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), pass (1)
+> **Frameworks & Libraries:** management (1), [[Security]] (1)
 > **Env Vars:** sam (3), http (1)
 > **CLI Commands:** tar (2), python3 (1)
 > **File Paths:** hives.py (1)
@@ -3541,7 +3542,7 @@ created: 2026-04-29
 
 ### 8. Command and Control with Sliver
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Sliver server
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980)
@@ -3588,7 +3589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1)
+> **Frameworks & Libraries:** [[Linux]] (1), traffic (1)
 > **Ports:** port 8888 (2)
 > **Versions:** 192.168.142 (2)
 > **Code Identifiers:** mtls (1)
@@ -3663,7 +3664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (3)
+> **Frameworks & Libraries:** [[Windows]] (3), prompt (3), [[Python (Programming Language)|Python]] (1), [[Windows Server]] (1)
 > **CLI Commands:** python (1), wget (1), find (1)
 > **Ports:** port 8 (1), :8000 (1)
 > **UI Navigation:** switch to (2)
@@ -3675,7 +3676,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980)
@@ -3704,8 +3705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (4), [[Android]] (2), cloud (2), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - i (1)
 

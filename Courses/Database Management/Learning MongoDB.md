@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/mongodb
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20MongoDB.md)
@@ -49,55 +49,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Modern database and application design with MongoDB
+  - [Modern database and application design with MongoDB](#modern-database-and-application-design-with-mongodb)
 - [**1. Getting Started**](#1-getting-started) (7 videos)
-  - Why MongoDB?
-  - MongoDB vs. relational databases
-  - Using the exercise files for this course
-  - Getting started with GitHub Codespaces
-  - Install MongoDB on Windows
-  - Install MongoDB on macOS
-  - Importing example data
+  - [Why MongoDB?](#why-mongodb)
+  - [MongoDB vs. relational databases](#mongodb-vs-relational-databases)
+  - [Using the exercise files for this course](#using-the-exercise-files-for-this-course)
+  - [Getting started with GitHub Codespaces](#getting-started-with-github-codespaces)
+  - [Install MongoDB on Windows](#install-mongodb-on-windows)
+  - [Install MongoDB on macOS](#install-mongodb-on-macos)
+  - [Importing example data](#importing-example-data)
 - [**2. Documents and Collections**](#2-documents-and-collections) (6 videos)
-  - Create a document
-  - Using .find() to query documents
-  - What can you store in a document?
-  - Collections
-  - Challenge: Create a recipe document
-  - Solution: Create a recipe document
+  - [Create a document](#create-a-document)
+  - [Using .find() to query documents](#using-find-to-query-documents)
+  - [What can you store in a document?](#what-can-you-store-in-a-document)
+  - [Collections](#collections)
+  - [Challenge: Create a recipe document](#challenge-create-a-recipe-document)
+  - [Solution: Create a recipe document](#solution-create-a-recipe-document)
 - [**3. Querying**](#3-querying) (8 videos)
-  - Sort, limit, and skip
-  - Working with operators and arrays
-  - Updating documents
-  - Updating arrays
-  - Deleting documents
-  - Challenge: Write a query
-  - Solution: Write a query
-  - The MongoDB Shell
+  - [Sort, limit, and skip](#sort-limit-and-skip)
+  - [Working with operators and arrays](#working-with-operators-and-arrays)
+  - [Updating documents](#updating-documents)
+  - [Updating arrays](#updating-arrays)
+  - [Deleting documents](#deleting-documents)
+  - [Challenge: Write a query](#challenge-write-a-query)
+  - [Solution: Write a query](#solution-write-a-query)
+  - [The MongoDB Shell](#the-mongodb-shell)
 - [**4. Data and Schema Modeling**](#4-data-and-schema-modeling) (5 videos)
-  - How you need to think differently
-  - Basic indexes
-  - Using different collection types
-  - Challenge: Avoiding joins
-  - Solution: Avoiding joins
+  - [How you need to think differently](#how-you-need-to-think-differently)
+  - [Basic indexes](#basic-indexes)
+  - [Using different collection types](#using-different-collection-types)
+  - [Challenge: Avoiding joins](#challenge-avoiding-joins)
+  - [Solution: Avoiding joins](#solution-avoiding-joins)
 - [**5. Coding with MongoDB**](#5-coding-with-mongodb) (5 videos)
-  - Python
-  - Node.js
-  - PHP
-  - Golang
-  - How to use GridFS to store files
+  - [Python](#python)
+  - [Node.js](#nodejs)
+  - [PHP](#php)
+  - [Golang](#golang)
+  - [How to use GridFS to store files](#how-to-use-gridfs-to-store-files)
 - [**6. Server Administration**](#6-server-administration) (5 videos)
-  - MongoDB config file
-  - Replication
-  - Sharding
-  - Authentication and authorization
-  - Backups
+  - [MongoDB config file](#mongodb-config-file)
+  - [Replication](#replication)
+  - [Sharding](#sharding)
+  - [Authentication and authorization](#authentication-and-authorization)
+  - [Backups](#backups)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrapping up
+  - [Wrapping up](#wrapping-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern database and application design with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980)
@@ -120,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Jenkins]] (2), data (2), full-stack (1), [[JSON]] (1)
 > **Env Vars:** json (1), sql (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [justin (1)
@@ -127,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980)
@@ -220,10 +221,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (6), database (2), [[JSON]] (1), api (1), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** json (1), api (1)
 > **Best Practices:** don't forget (2)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
@@ -296,8 +297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[MongoDB]] (8), [[Databases]] (8), database (6), [[Relational Databases]] (4)
 > **Env Vars:** sql (4), http (1)
-> **Code Keywords:** let (1), this: (1), include, (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), git (1)
 > **Prerequisites:** you'll need (1)
@@ -316,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
 > **Analogies:** for example (1)
@@ -380,11 +381,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), data (4), database (3), [[Codespaces]] (3), [[Databases]] (2)
 > **CLI Commands:** git (1), php (1), node (1), python (1), find (1)
 > **Tools:** terminal (3), visual studio (2), github (1)
 > **Prerequisites:** install (2), set up (1), setup (1)
 > **Env Vars:** php (1), dbs (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -522,8 +523,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (20), [[Windows]] (4), data (4), database (4), next (3)
 > **Prerequisites:** install (9), set up (2), setup (1)
-> **Code Keywords:** let (3), interface (2), this. (2), default, (1)
 > **CLI Commands:** mongo (3), find (2)
 > **Env Vars:** msi (2), mongo (1), dbs (1)
 > **Tools:** command line (2), terminal (2)
@@ -600,9 +601,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (16), database (2), data (2), [[Databases]] (2), next (2)
 > **CLI Commands:** brew (13), make (2), find (1)
 > **Prerequisites:** install (9)
-> **Code Keywords:** this. (2), let (1), case, (1), interface (1)
 > **Cross-References:** in the next (2)
 > **File Paths:** brew.sh (1)
 > **Code Identifiers:** macos (1)
@@ -688,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[MongoDB]] (8), database (8), [[JSON]] (7), next (1)
 > **CLI Commands:** mongo (3), make (2)
-> **Code Keywords:** let (1), import. (1), import, (1), switch (1)
 > **Tools:** command line (3)
 > **Prerequisites:** install (2)
 > **Env Vars:** json (1)
@@ -700,7 +701,7 @@ created: 2026-04-29
 
 ### 2. Documents and Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980)
@@ -815,8 +816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[JSON]] (5), database (4), [[JavaScript]] (2), next (2)
 > **CLI Commands:** find (4), mongo (3), make (3)
-> **Code Keywords:** let (9), throw (1)
 > **Tools:** terminal (5), command line (1), vs code (1)
 > **Env Vars:** json (4), bson (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -947,8 +948,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[Search]] (2), [[JavaScript]] (2), next (2), [[SQL]] (1)
 > **CLI Commands:** find (9), make (2)
-> **Code Keywords:** let (3), pass (2), default, (1), switch (1)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** select (1), sql (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1053,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (4), this, (2)
+> **Frameworks & Libraries:** [[MongoDB]] (5), data (5), database (2), [[JSON]] (2), [[JavaScript]] (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** json (2), gui (1)
@@ -1134,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), this. (1), delete (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), data (4), database (4), [[Databases]] (4), next (1)
 > **Analogies:** for example (4)
 > **Code Identifiers:** getname (1), newstuff (1), insertone (1)
 > **CLI Commands:** find (1), make (1)
@@ -1161,6 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1202,7 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), type. (1)
+> **Frameworks & Libraries:** data (1), next (1), [[MongoDB]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** mongo (1)
@@ -1213,7 +1215,7 @@ created: 2026-04-29
 
 ### 3. Querying
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sort, limit, and skip
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980)
@@ -1290,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), if, (1)
+> **Frameworks & Libraries:** database (2), data (2), application (1), [[Programming]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is called (2)
 > **Code Identifiers:** jquery (1)
@@ -1401,7 +1403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), match. (3), this. (2), this, (1), case, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[JSON]] (1), feature (1), data (1), next (1)
 > **CLI Commands:** find (4), make (1), mongo (1)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** json (1)
@@ -1555,7 +1557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4), this, (4), this. (1), match, (1)
+> **Frameworks & Libraries:** [[Search]] (4), data (2), database (1), next (1)
 > **CLI Commands:** make (3), find (2), mongo (1)
 > **Definitions:** is a  (2), in other words (1), is called (1)
 > **Analogies:** for example (1), similar to (1), imagine (1)
@@ -1603,7 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), delete (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** updateone (1)
 > **Speakers:** - [instructor] (1)
@@ -1655,7 +1657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), let (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1692,7 +1694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (2), let (1), this, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Non-Speech:** (upbeat music) (1), (music ends) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1792,7 +1794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1), case, (1), switch (1)
+> **Frameworks & Libraries:** next (1), data (1), [[Databases]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Code Identifiers:** rating_average (1), rating_avg (1)
 > **Cross-References:** in the next (1)
@@ -1875,9 +1877,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (5), data (2), [[JavaScript]] (2), database (1), feature (1)
 > **CLI Commands:** mongo (6), find (3), make (2), brew (1), node (1)
 > **Analogies:** for example (4), just like (1), imagine (1), it's like (1)
-> **Code Keywords:** let (4), default, (1), case, (1)
 > **Env Vars:** gte (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** make sure to (1)
@@ -1886,7 +1888,7 @@ created: 2026-04-29
 
 ### 4. Data and Schema Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How you need to think differently
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980)
@@ -2019,8 +2021,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), database (2), [[MongoDB]] (2), feature (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Analogies:** for example (5), picture (1)
-> **Code Keywords:** this. (1), case, (1), let (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ram (2)
 > **Definitions:** is an  (1), in other words (1)
@@ -2161,7 +2163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** database (3), [[MongoDB]] (3), application (1), [[Search]] (1), next (1)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** imagine (2), just like (1)
 > **UI Navigation:** scroll up (2)
@@ -2264,7 +2266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), this, (2), let (2), delete (1)
+> **Frameworks & Libraries:** data (14), [[MongoDB]] (6), next (2), [[Metadata]] (1)
 > **Code Identifiers:** createcollection (1), error_log (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -2316,6 +2318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (3), next (1)
 > **Env Vars:** csv (1)
 > **Versions:** 4.4 (1)
 > **Cross-References:** we talked about (1)
@@ -2363,7 +2366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case, (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat techno music) (1)
@@ -2371,7 +2374,7 @@ created: 2026-04-29
 
 ### 5. Coding with MongoDB
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980)
@@ -2466,9 +2469,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), database (6), [[Search]] (5), [[MongoDB]] (3), [[Programming]] (1)
 > **CLI Commands:** python (12), find (8), make (4), php (1), pip (1)
 > **Env Vars:** ascending (2), php (1), readme (1), pip (1), descending (1)
-> **Code Keywords:** let (2), this, (1), case, (1), this . (1)
 > **Code Identifiers:** find_one (4), database_name (1)
 > **Tools:** terminal (5)
 > **Prerequisites:** set up (3), install (2)
@@ -2650,8 +2653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), node (8), [[MongoDB]] (4), next (4), [[Search]] (4)
 > **CLI Commands:** node (8), find (7), make (5), python (2), php (2)
-> **Code Keywords:** let (8), function (4), case, (2), try. (1), assert (1)
 > **Prerequisites:** install (3), set up (3), setup (1)
 > **Env Vars:** php (2), npm (1), json (1)
 > **Tools:** terminal (3)
@@ -2844,9 +2847,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (10), database (9), [[MongoDB]] (6), [[Search]] (3), next (2)
 > **CLI Commands:** php (10), find (7), make (2), python (1), composer (1)
 > **Env Vars:** php (10), html (2), readme (1), ini (1), json (1)
-> **Code Keywords:** let (3), this. (3), require (1), this, (1), pass (1)
 > **Prerequisites:** install (4), setup (3), set up (2)
 > **Code Identifiers:** findone (2), getdatabasename (1)
 > **Documentation:** the readme (1), the docs (1)
@@ -3032,8 +3035,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[MongoDB]] (6), [[Databases]] (3), data (2), next (2)
 > **CLI Commands:** find (9), make (3), mongo (3), python (1), php (1)
-> **Code Keywords:** let (4), function (2), this. (1), case, (1), type, (1)
 > **Prerequisites:** set up (3), install (2)
 > **Tools:** terminal (3)
 > **Code Identifiers:** mongodb (1), cook_time (1)
@@ -3208,7 +3211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (4), delete (2)
+> **Frameworks & Libraries:** database (9), [[MongoDB]] (5), [[Python (Programming Language)|Python]] (4), [[PHP]] (2), node (2)
 > **CLI Commands:** python (4), mongo (2), make (2), php (2), node (2)
 > **Env Vars:** php (2), pdf (1), url (1), cdn (1)
 > **File Paths:** test.txt (2)
@@ -3220,7 +3223,7 @@ created: 2026-04-29
 
 ### 6. Server Administration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MongoDB config file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980)
@@ -3315,7 +3318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default. (2), case, (2), default, (1), require (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Security]] (3), database (2), [[Databases]] (2), [[JavaScript]] (2)
 > **CLI Commands:** mongo (2), make (1)
 > **Env Vars:** yaml (1), json (1)
 > **Tools:** command line (2)
@@ -3425,7 +3428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (6), let (6), this. (1)
+> **Frameworks & Libraries:** data (7), database (6), [[MongoDB]] (5), next (4), prompt (2)
 > **CLI Commands:** make (8), node (1)
 > **Ports:** port 27017 (2), port 18 (2), port 19 (2), port 17 (1)
 > **Code Identifiers:** replset (1), oplogsize (1), cookingset (1), ismaster (1), slaveok (1)
@@ -3519,7 +3522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), continue (1), let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (24), [[MongoDB]] (11), database (3), application (2), next (1)
 > **Prerequisites:** setup (3), you'll need (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), imagine (1)
@@ -3660,7 +3663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), case, (3), default, (1), super (1)
+> **Frameworks & Libraries:** database (13), [[MongoDB]] (8), [[Security]] (2), [[Microsoft Office|Office]] (2), [[Databases]] (1)
 > **Code Identifiers:** authenticationdatabase (3), passwordprompt (2), useradminanydatabase (2), readwriteanydatabase (2), readanydatabase (2)
 > **CLI Commands:** make (6), mongo (3)
 > **Versions:** 4.2 (2)
@@ -3762,7 +3765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (9), database (5), data (5), [[Databases]] (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3772,7 +3775,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980)
@@ -3807,6 +3810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (5), data (2), next (1), [[JSON]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1)
 > **Best Practices:** make sure to (1)

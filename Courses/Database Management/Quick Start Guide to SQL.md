@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Quick%20Start%20Guide%20to%20SQL.md)
@@ -48,37 +48,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to RDBMS and SQL
-  - How to use the exercise files
+  - [Introduction to RDBMS and SQL](#introduction-to-rdbms-and-sql)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Fetch Data from Tables**](#1-fetch-data-from-tables) (3 videos)
-  - Basic select statements
-  - Operators
-  - Data types
+  - [Basic select statements](#basic-select-statements)
+  - [Operators](#operators)
+  - [Data types](#data-types)
 - [**2. Filtering Data**](#2-filtering-data) (4 videos)
-  - Comparison conditions
-  - Logical conditions
-  - Order of precedence
-  - Sorting data
+  - [Comparison conditions](#comparison-conditions)
+  - [Logical conditions](#logical-conditions)
+  - [Order of precedence](#order-of-precedence)
+  - [Sorting data](#sorting-data)
 - [**3. Single Row Functions**](#3-single-row-functions) (5 videos)
-  - Types of functions and number functions
-  - Character functions
-  - Date functions
-  - Data type conversion functions
-  - Conditional expressions
+  - [Types of functions and number functions](#types-of-functions-and-number-functions)
+  - [Character functions](#character-functions)
+  - [Date functions](#date-functions)
+  - [Data type conversion functions](#data-type-conversion-functions)
+  - [Conditional expressions](#conditional-expressions)
 - [**4. Multiple Row Functions/ Group Functions**](#4-multiple-row-functions-group-functions) (3 videos)
-  - Types of group functions
-  - Creating groups and nested groups
-  - Filtering group results
+  - [Types of group functions](#types-of-group-functions)
+  - [Creating groups and nested groups](#creating-groups-and-nested-groups)
+  - [Filtering group results](#filtering-group-results)
 - [**5. Joins and Subqueries**](#5-joins-and-subqueries) (3 videos)
-  - Types of joins
-  - Uses of subqueries
-  - Types of subqueries
+  - [Types of joins](#types-of-joins)
+  - [Uses of subqueries](#uses-of-subqueries)
+  - [Types of subqueries](#types-of-subqueries)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to RDBMS and SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980)
@@ -101,8 +101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (3), data (2), database (1), [[Fetch]] (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to use the exercise files
@@ -164,10 +164,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), data (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** while. (1), this. (1)
 > **URLs:** [oracle.com](https://oracle.com) (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is an  (1)
@@ -176,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Fetch Data from Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic select statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980)
@@ -241,8 +241,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Fetch]] (5), [[SQL]] (4), database (1), [[Search]] (1)
 > **Env Vars:** sql (4), select (2)
-> **Code Keywords:** let (1), this. (1), case, (1), throw (1)
 > **Code Identifiers:** emp_tab (4)
 > **SQL:** select (2)
 > **CLI Commands:** make (1)
@@ -353,7 +353,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** select (4), null (4), king (2), distinct (2)
-> **Code Keywords:** let (5), this. (4), finally, (1)
 > **SQL:** select (4)
 > **Code Identifiers:** emp_tab (3)
 > **Definitions:** is a  (3)
@@ -436,16 +435,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), next (1), database (1)
 > **Env Vars:** raw (3), varchar2 (2), char (1), clob (1), blob (1)
 > **Definitions:** is a  (3), stands for (2), is an  (1)
-> **Code Keywords:** type, (2), let (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Filtering Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparison conditions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980)
@@ -590,8 +589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (1), [[Fetch]] (1)
 > **Env Vars:** where (10), select (4), null (4), between (2), mon (1)
-> **Code Keywords:** let (7), this. (7), case, (2), this, (2)
 > **SQL:** where (10), select (4)
 > **Code Identifiers:** emp_tab (4)
 > **Definitions:** is an  (3)
@@ -713,7 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (4), this, (2)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[SQL]] (1)
 > **Env Vars:** where (5), select (5), sql (1)
 > **SQL:** where (5), select (5)
 > **Code Identifiers:** emp_tab (4)
@@ -779,8 +778,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** dpt (3), null (2), between (2), emp (2), sql (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -850,16 +849,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[SQL]] (1), [[Fetch]] (1)
 > **Env Vars:** select (4), order (3), sql (1), where (1)
 > **SQL:** select (4), order by (3), where (1)
-> **Code Keywords:** let (5), this, (1), type. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Single Row Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of functions and number functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980)
@@ -950,8 +949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (2), next (1), [[Databases]] (1)
 > **Env Vars:** select (4), round (3), mod (3), dual (3), sql (2)
-> **Code Keywords:** let (8), function (2), this. (1)
 > **SQL:** select (4)
 > **Versions:** 92.42 (2), 92.427 (1), 92.43 (1)
 > **CLI Commands:** make (1)
@@ -1098,8 +1097,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6)
 > **Env Vars:** select (7), dual (7), concat (6), lpad (6), substring (5)
-> **Code Keywords:** let (7), this. (5), this, (4), function (3), case. (1)
 > **SQL:** select (7)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
@@ -1168,8 +1167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4)
 > **Env Vars:** tuesday (4), round (4), truncate (3), sysdate (2), select (2)
-> **Code Keywords:** let (4), this, (3), function (2), this. (1)
 > **CLI Commands:** find (2)
 > **SQL:** select (2)
 > **Speakers:** - [instructor] (1)
@@ -1245,8 +1244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), feature (1), [[SQL]] (1)
 > **Env Vars:** to_char (4), to_number (3), to_date (3), nvl (3), null (3)
-> **Code Keywords:** function (5), let (4), this, (3), this. (3), type, (1)
 > **Code Identifiers:** emp_tab (2)
 > **SQL:** select (2)
 > **Speakers:** - [instructor] (1)
@@ -1342,8 +1341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[SQL]] (1), data (1)
 > **Env Vars:** decode (7), case (4), else (2), select (2), manager (2)
-> **Code Keywords:** function (6), let (4), this. (4), else, (1), case. (1)
 > **Code Identifiers:** emp_tab (2)
 > **SQL:** select (2)
 > **Analogies:** just like (1)
@@ -1352,7 +1351,7 @@ created: 2026-04-29
 
 ### 4. Multiple Row Functions/ Group Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of group functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-group-functions?u=76281980)
@@ -1459,8 +1458,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (2)
 > **Env Vars:** count (8), select (8), max (7), min (7), sum (3)
-> **Code Keywords:** let (6), function (5), this, (4), type. (2), this. (1)
 > **SQL:** select (8), where (2), group by (1), order by (1)
 > **Code Identifiers:** emp_tab (9)
 > **Cross-References:** in the next (1)
@@ -1506,7 +1505,6 @@ created: 2026-04-29
 >
 > **Env Vars:** group (6), select (2), max (2), order (2)
 > **SQL:** group by (6), select (2), order by (2)
-> **Code Keywords:** let (2), this, (2)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** emp_tab (1)
 > **Cross-References:** previous video (1)
@@ -1550,16 +1548,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** where (7), group_functions (2), select (2), group (2), having (2)
 > **SQL:** where (7), select (2), group by (2), having (2), order by (1)
-> **Code Keywords:** let (2), this. (2), throw (1), finally, (1), this, (1)
 > **Code Identifiers:** group_condition (2), group_conditions (2), table_name (1), group_by_expressions (1), emp_tab (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Joins and Subqueries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980)
@@ -1664,8 +1662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Fetch]] (1), [[SQL]] (1), next (1)
 > **Code Identifiers:** country_tab (7), states_tab (6), joint_name (1)
-> **Code Keywords:** let (5), this, (4), finally, (1)
 > **Env Vars:** usa (2), sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1699,8 +1697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1815,7 +1813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), while. (1)
+> **Frameworks & Libraries:** [[SQL]] (2), next (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
@@ -1823,7 +1821,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980)
@@ -1846,7 +1844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), delete (1)
+> **Frameworks & Libraries:** [[SQL]] (2), data (2), [[Fetch]] (1), database (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)

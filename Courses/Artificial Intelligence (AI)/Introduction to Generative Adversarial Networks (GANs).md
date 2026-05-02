@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Generative%20Adversarial%20Networks%20(GANs).md)
@@ -53,29 +53,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Transforming innovation with GANs
-  - What you should know
+  - [Transforming innovation with GANs](#transforming-innovation-with-gans)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to GANs and Their Broad Impact**](#1-introduction-to-gans-and-their-broad-impact) (3 videos)
-  - Introduction to GANs and their broad impact
-  - Generative and discriminative models
-  - Use case: Synthetic customer reviews for product analysis
+  - [Introduction to GANs and their broad impact](#introduction-to-gans-and-their-broad-impact)
+  - [Generative and discriminative models](#generative-and-discriminative-models)
+  - [Use case: Synthetic customer reviews for product analysis](#use-case-synthetic-customer-reviews-for-product-analysis)
 - [**2. How GANs Learn to Create/Generate/Architecture**](#2-how-gans-learn-to-creategeneratearchitecture) (3 videos)
-  - The Generator
-  - The Discriminator
-  - How GANs learn
+  - [The Generator](#the-generator)
+  - [The Discriminator](#the-discriminator)
+  - [How GANs learn](#how-gans-learn)
 - [**3. Building Your First GAN**](#3-building-your-first-gan) (3 videos)
-  - How to use the challenge exercise files
-  - Challenge: Build and evaluate a GAN
-  - Solution: Build and evaluate a GAN
+  - [How to use the challenge exercise files](#how-to-use-the-challenge-exercise-files)
+  - [Challenge: Build and evaluate a GAN](#challenge-build-and-evaluate-a-gan)
+  - [Solution: Build and evaluate a GAN](#solution-build-and-evaluate-a-gan)
 - [**4. GANs in the Real World**](#4-gans-in-the-real-world) (2 videos)
-  - GANs and multimodal LLMs for scalable content generation
-  - A collaborative pipeline
+  - [GANs and multimodal LLMs for scalable content generation](#gans-and-multimodal-llms-for-scalable-content-generation)
+  - [A collaborative pipeline](#a-collaborative-pipeline)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next Steps
+  - [Next Steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming innovation with GANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980)
@@ -94,6 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), ai (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Generative AI]] (1), business (1)
 > **Env Vars:** gan (1)
 > **Speakers:** - [gwendolyn] (1)
 
@@ -114,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Neural Networks]] (1), [[Python (Programming Language)|Python]] (1), teams (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** new, (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -123,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Introduction to GANs and Their Broad Impact
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GANs and their broad impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980)
@@ -180,6 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ai (3), [[Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [narrator] (1)
 
@@ -238,8 +240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Deep Learning]] (2), [[Neural Networks]] (1), [[Logistic Regression]] (1)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** gan (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -299,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), module (1)
+> **Frameworks & Libraries:** data (12), product (5), [[Privacy]] (2), ai (1), teams (1)
 > **Env Vars:** gan (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -308,7 +310,7 @@ created: 2026-04-29
 
 ### 2. How GANs Learn to Create/Generate/Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Generator
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980)
@@ -379,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), product (3), [[Simulation]] (1), [[Probability]] (1), feature (1)
 > **Env Vars:** gan (6)
-> **Code Keywords:** let (2), this, (1), case, (1), function (1)
 > **Analogies:** just like (1), think of it as (1), for example (1), such as (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -473,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** data (9), [[Security]] (1), product (1), [[Probability]] (1), [[Neural Networks]] (1)
 > **Versions:** 0.93 (2), 1.0 (1), 0.08 (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -563,8 +565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Vanilla]] (1), [[Probability]] (1), [[Neural Networks]] (1)
 > **Env Vars:** gan (5), dgz (1)
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** is a  (2), short for (1)
 > **Versions:** 0.5 (2)
 > **CLI Commands:** make (1)
@@ -573,7 +575,7 @@ created: 2026-04-29
 
 ### 3. Building Your First GAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use the challenge exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-to-use-the-challenge-exercise-files?u=76281980)
@@ -592,6 +594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2), colab (1), jupyter (1)
 > **Exercise Files:** clone the repo (1), download the (1)
 > **Speakers:** - [instructor] (1)
@@ -627,7 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** gan (1)
 > **Cross-References:** in the next (1)
 > **Tools:** colab (1)
@@ -699,8 +702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (2), next (1), database (1), [[Privacy]] (1)
 > **Env Vars:** gan (7)
-> **Code Keywords:** function (2), let (1), case. (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** review_length (1), sentiment_score (1)
 > **Analogies:** similar to (2)
@@ -711,7 +714,7 @@ created: 2026-04-29
 
 ### 4. GANs in the Real World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GANs and multimodal LLMs for scalable content generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980)
@@ -756,7 +759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new, (1)
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), ai (2), data (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** llm (1)
 > **Analogies:** imagine (1)
@@ -821,8 +824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), llm (3), data (2), prompt (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** gan (6), llm (3), api (1)
-> **Code Keywords:** let (2), module (2)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** select the (1)
@@ -831,7 +834,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980)
@@ -872,8 +875,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), ai (2), data (2), product (1), teams (1)
 > **Env Vars:** gan (4)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 

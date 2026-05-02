@@ -24,7 +24,7 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Industrial%20Automation.md)
@@ -43,34 +43,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to industrial automation
-  - What you should know
+  - [Introduction to industrial automation](#introduction-to-industrial-automation)
+  - [What you should know](#what-you-should-know)
 - [**1. Industrial Automation**](#1-industrial-automation) (6 videos)
-  - Basics of industrial automation
-  - Field level
-  - Communication level 1: EtherNET
-  - Communication level 2: ControlNET
-  - Communication level 3: Device
-  - Control (PLC and DCS) and management level
+  - [Basics of industrial automation](#basics-of-industrial-automation)
+  - [Field level](#field-level)
+  - [Communication level 1: EtherNET](#communication-level-1-ethernet)
+  - [Communication level 2: ControlNET](#communication-level-2-controlnet)
+  - [Communication level 3: Device](#communication-level-3-device)
+  - [Control (PLC and DCS) and management level](#control-plc-and-dcs-and-management-level)
 - [**2. Programmable Logic Controller**](#2-programmable-logic-controller) (8 videos)
-  - Programmable logic controller (PLC) overview
-  - Main components
-  - Programmable logic controller programming languages
-  - Programmable logic controller programming: Block diagram
-  - Programmable logic controller programming: Ladder logic
-  - Human-machine interface (HMI)
-  - Open Platform Communications (OPC)
-  - Open Platform Communications (OPC) software
+  - [Programmable logic controller (PLC) overview](#programmable-logic-controller-plc-overview)
+  - [Main components](#main-components)
+  - [Programmable logic controller programming languages](#programmable-logic-controller-programming-languages)
+  - [Programmable logic controller programming: Block diagram](#programmable-logic-controller-programming-block-diagram)
+  - [Programmable logic controller programming: Ladder logic](#programmable-logic-controller-programming-ladder-logic)
+  - [Human-machine interface (HMI)](#human-machine-interface-hmi)
+  - [Open Platform Communications (OPC)](#open-platform-communications-opc)
+  - [Open Platform Communications (OPC) software](#open-platform-communications-opc-software)
 - [**3. Supervisory Control and Data Acquisition**](#3-supervisory-control-and-data-acquisition) (3 videos)
-  - Supervisory Control and Data Acquisition (SCADA) defined
-  - Components, layout, and design
-  - SCADA functions and usage
+  - [Supervisory Control and Data Acquisition (SCADA) defined](#supervisory-control-and-data-acquisition-scada-defined)
+  - [Components, layout, and design](#components-layout-and-design)
+  - [SCADA functions and usage](#scada-functions-and-usage)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/introduction-to-industrial-automation?u=76281980)
@@ -93,8 +93,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), [[Microsoft Products|Products]] (1), [[Engineering]] (1), plc (1), [[Programming]] (1)
 > **Env Vars:** scada (1), plc (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
@@ -113,14 +113,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), [[Programming]] (1)
 > **Env Vars:** opc (1), scada (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Industrial Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/basics-of-industrial-automation-14444217?u=76281980)
@@ -157,8 +157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (9), [[Microsoft Word|Word]] (3), management (2), [[Programming]] (1), plc (1)
 > **Env Vars:** plc (1), dcs (1), hmi (1), scada (1)
-> **Code Keywords:** self (1), interface (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -215,7 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3)
+> **Frameworks & Libraries:** plc (2), product (1), [[Microsoft Products|Products]] (1), [[Automation]] (1)
 > **Definitions:** is an  (3)
 > **Env Vars:** plc (2)
 > **Speakers:** - [instructor] (1)
@@ -277,9 +277,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), management (4), data (2), [[Automation]] (1), database (1)
 > **Env Vars:** osi (4), tcp (4), ieee (2), hart (1), profibus (1)
 > **Definitions:** is a  (4), is an  (2), known as (1)
-> **Code Keywords:** function (1)
 > **Versions:** 8020.3 (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -317,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Automation]] (1), management (1), [[Hardware]] (1), node (1)
 > **Definitions:** is an  (2), known as (1), is a  (1)
-> **Code Keywords:** continue (1), interface (1)
 > **Env Vars:** odva (1), osi (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
@@ -394,6 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (3), [[Automation]] (2), [[Microsoft Products|Products]] (1), plc (1)
 > **Env Vars:** profibus (11), hart (8), cip (1), odva (1), fsk (1)
 > **Definitions:** is an  (5), is a  (5)
 > **Analogies:** such as (1), for example (1)
@@ -462,8 +463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), data (5), plc (5), [[Automation]] (2), application (2)
 > **Env Vars:** dcs (8), plc (5), hmi (2), lan (1)
-> **Code Keywords:** interface (2), function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -471,7 +472,7 @@ created: 2026-04-29
 
 ### 2. Programmable Logic Controller
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Programmable logic controller (PLC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980)
@@ -500,6 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (6), application (3), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1), data (1), traffic (1)
 > **Env Vars:** plc (6)
 > **Definitions:** is an  (3), is a  (1)
 > **CLI Commands:** make (1)
@@ -566,9 +568,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (19), power (5), [[Programming]] (5), data (1)
 > **Env Vars:** plc (19), cpu (8)
 > **CLI Commands:** make (1)
-> **Code Keywords:** module (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -595,8 +597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), plc (4)
 > **Env Vars:** plc (4), iec (1)
-> **Code Keywords:** function (2)
 > **Speakers:** - [instructor] (1)
 
 #### Programmable logic controller programming: Block diagram
@@ -638,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11)
+> **Frameworks & Libraries:** [[Programming]] (2), plc (1), functional (1), next (1)
 > **Env Vars:** fbd (1), plc (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -670,6 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), plc (2), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1), power (1)
 > **Env Vars:** plc (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** rails (1)
@@ -704,8 +707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Data Acquisition]] (1), data (1)
 > **Env Vars:** hmi (8)
-> **Code Keywords:** interface (5)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -783,9 +786,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), application (4), [[Hardware]] (3), [[Automation]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** opc (47), hmi (2), ole (1), plc (1), abb (1)
 > **Definitions:** is a  (5), is called (2), stands for (1), is an  (1)
-> **Code Keywords:** let (2), interface (2), else. (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -852,9 +855,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), web (2), [[Automation]] (1), [[Microsoft Products|Products]] (1), database (1)
 > **Env Vars:** opc (23)
 > **Prerequisites:** configure (3)
-> **Code Keywords:** let (1), function (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** make (1)
@@ -864,7 +867,7 @@ created: 2026-04-29
 
 ### 3. Supervisory Control and Data Acquisition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervisory Control and Data Acquisition (SCADA) defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980)
@@ -897,8 +900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), plc (2), [[Data Acquisition]] (1)
 > **Env Vars:** scada (10), plc (2), dcs (1)
-> **Code Keywords:** function (2)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -943,11 +946,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), plc (4), application (3), [[Automation]] (1), database (1)
 > **Env Vars:** scada (9), plc (4), dcs (1)
 > **Tools:** terminal (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -982,14 +985,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (2), [[Software Design]] (1), [[Data Acquisition]] (1), power (1)
 > **Env Vars:** scada (12)
-> **Code Keywords:** interface (1), public (1), private (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980)
@@ -1016,6 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (4), [[Automation]] (2), [[Programming]] (1), next (1)
 > **Env Vars:** scada (4), plc (4)
 > **Speakers:** - thanks (1)
 

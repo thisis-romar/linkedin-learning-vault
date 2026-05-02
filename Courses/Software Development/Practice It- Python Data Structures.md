@@ -31,7 +31,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practice%20It-%20Python%20Data%20Structures.md)
@@ -50,39 +50,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Practice the Python data structures
-  - What you should know
-  - Using GitHub Codespaces with this course
+  - [Practice the Python data structures](#practice-the-python-data-structures)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Counter**](#1-counter) (6 videos)
-  - Try it: Count words from a paragraph
-  - Check it: Count words from a paragraph
-  - Try it: Finding the most common products
-  - Check it: Finding the most common products
-  - Try it: Doing inventory
-  - Check it: Doing inventory
+  - [Try it: Count words from a paragraph](#try-it-count-words-from-a-paragraph)
+  - [Check it: Count words from a paragraph](#check-it-count-words-from-a-paragraph)
+  - [Try it: Finding the most common products](#try-it-finding-the-most-common-products)
+  - [Check it: Finding the most common products](#check-it-finding-the-most-common-products)
+  - [Try it: Doing inventory](#try-it-doing-inventory)
+  - [Check it: Doing inventory](#check-it-doing-inventory)
 - [**2. Deque**](#2-deque) (6 videos)
-  - Try it: Storing a user's most recent food orders
-  - Check it: Storing a user's most recent food orders
-  - Try it: Palindrome checker
-  - Check it: Palindrome checker
-  - Try it: Scheduling tasks with Priority
-  - Check it: Scheduling tasks with priority
+  - [Try it: Storing a user's most recent food orders](#try-it-storing-a-users-most-recent-food-orders)
+  - [Check it: Storing a user's most recent food orders](#check-it-storing-a-users-most-recent-food-orders)
+  - [Try it: Palindrome checker](#try-it-palindrome-checker)
+  - [Check it: Palindrome checker](#check-it-palindrome-checker)
+  - [Try it: Scheduling tasks with Priority](#try-it-scheduling-tasks-with-priority)
+  - [Check it: Scheduling tasks with priority](#check-it-scheduling-tasks-with-priority)
 - [**3. Namedtuple**](#3-namedtuple) (4 videos)
-  - Try it: Store driver details
-  - Check it: Store driver details
-  - Try it: Reading CSV files
-  - Check it: Reading CSV files
+  - [Try it: Store driver details](#try-it-store-driver-details)
+  - [Check it: Store driver details](#check-it-store-driver-details)
+  - [Try it: Reading CSV files](#try-it-reading-csv-files)
+  - [Check it: Reading CSV files](#check-it-reading-csv-files)
 - [**4. Defaultdict**](#4-defaultdict) (4 videos)
-  - Try it: Cleaning up duplicate data
-  - Check it: Cleaning up duplicate data
-  - Try it: Calculating gain and loss
-  - Check it: Calculating gain and loss
+  - [Try it: Cleaning up duplicate data](#try-it-cleaning-up-duplicate-data)
+  - [Check it: Cleaning up duplicate data](#check-it-cleaning-up-duplicate-data)
+  - [Try it: Calculating gain and loss](#try-it-calculating-gain-and-loss)
+  - [Check it: Calculating gain and loss](#check-it-calculating-gain-and-loss)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in your Python data structures learning journey
+  - [Next steps in your Python data structures learning journey](#next-steps-in-your-python-data-structures-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice the Python data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (1)
 > **CLI Commands:** python (6), make (2)
-> **Code Keywords:** module (2), implements (1), let (1)
 > **Speakers:** - [kaylee] (1)
 
 #### What you should know
@@ -136,7 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2), [[Codespaces]] (2), [[GitHub]] (1), [[LinkedIn]] (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -277,7 +277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -289,7 +289,7 @@ created: 2026-04-29
 
 ### 1. Counter
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try it: Count words from a paragraph
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-count-words-from-a-paragraph?u=76281980)
@@ -318,7 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard keys clicking) (1)
 
@@ -373,7 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), throw (1), function (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **Non-Speech:** (technical blip noises) (1), (keyboard buttons clicking) (1)
 > **CLI Commands:** python (1)
 > **Best Practices:** don't forget (1)
@@ -398,7 +398,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this. (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -435,7 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -464,8 +463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -508,13 +507,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Deque
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try it: Storing a user's most recent food orders
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980)
@@ -543,6 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -601,7 +601,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1)
 > **Env Vars:** sta001 (2), des005 (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (beeping) (1), (typing clicks) (1)
@@ -632,7 +631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Speakers:** - [instructor] (1)
 
 #### Check it: Palindrome checker
@@ -678,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (1)
 > **Code Identifiers:** check_palindrome (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -713,7 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - [instructor] (1)
 
 #### Check it: Scheduling tasks with priority
@@ -779,7 +778,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), finally, (1)
 > **CLI Commands:** make (9)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (typing sounds) (1)
@@ -787,7 +785,7 @@ created: 2026-04-29
 
 ### 3. Namedtuple
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try it: Store driver details
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-store-driver-details?u=76281980)
@@ -812,7 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1), type, (1)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 
 #### Check it: Store driver details
@@ -880,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (1), function (1)
+> **Frameworks & Libraries:** next (1)
 > **Non-Speech:** (keys clicking) (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -910,9 +908,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Env Vars:** csv (2)
 > **File Paths:** customer.csv (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Check it: Reading CSV files
@@ -956,7 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** data (4), next (1)
 > **Env Vars:** csv (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
@@ -964,7 +962,7 @@ created: 2026-04-29
 
 ### 4. Defaultdict
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try it: Cleaning up duplicate data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980)
@@ -999,8 +997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** let (1), class. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (low beeping) (1)
@@ -1064,7 +1062,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), finally, (1), else. (1)
 > **Env Vars:** sta (1), bev (1), sal (1), ent (1), des (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** the key is (1)
@@ -1093,6 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), product (1)
 > **File Paths:** orderitems.csv (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1145,7 +1143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1)
+> **Frameworks & Libraries:** product (2), data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** csv (1), des (1)
 > **Speakers:** - [female (1)
@@ -1153,7 +1151,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your Python data structures learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980)
@@ -1184,8 +1182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2), find (2)
-> **Code Keywords:** module (2)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)

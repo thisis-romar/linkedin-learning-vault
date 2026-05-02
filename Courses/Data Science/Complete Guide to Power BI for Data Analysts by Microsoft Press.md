@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Power%20BI%20for%20Data%20Analysts%20by%20Microsoft%20Press.md)
@@ -40,107 +40,107 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Getting Started with Power BI**](#1-getting-started-with-power-bi) (8 videos)
-  - Learning objectives
-  - Understand the data lifecycle
-  - Understand the Power BI environment
-  - Understand Power BI licensing
-  - Understand Power BI release cycles
-  - Set up your environment
-  - Explore data source settings
-  - Introduce our business scenario
+  - [Learning objectives](#learning-objectives)
+  - [Understand the data lifecycle](#understand-the-data-lifecycle)
+  - [Understand the Power BI environment](#understand-the-power-bi-environment)
+  - [Understand Power BI licensing](#understand-power-bi-licensing)
+  - [Understand Power BI release cycles](#understand-power-bi-release-cycles)
+  - [Set up your environment](#set-up-your-environment)
+  - [Explore data source settings](#explore-data-source-settings)
+  - [Introduce our business scenario](#introduce-our-business-scenario)
 - [**2. Importing and Transforming Data Using Power Query Editor**](#2-importing-and-transforming-data-using-power-query-editor) (13 videos)
-  - Learning objectives
-  - Power Query Editor overview
-  - Import United States sales data
-  - Import customer data
-  - Import sales territory data
-  - Import product data
-  - Import product rollup data
-  - Merge the product and product rollup queries
-  - Import the other countries' sales data
-  - Append sale queries
-  - Create columns
-  - Model loading and cleanup
-  - Organize and document Power Query
+  - [Learning objectives](#learning-objectives)
+  - [Power Query Editor overview](#power-query-editor-overview)
+  - [Import United States sales data](#import-united-states-sales-data)
+  - [Import customer data](#import-customer-data)
+  - [Import sales territory data](#import-sales-territory-data)
+  - [Import product data](#import-product-data)
+  - [Import product rollup data](#import-product-rollup-data)
+  - [Merge the product and product rollup queries](#merge-the-product-and-product-rollup-queries)
+  - [Import the other countries' sales data](#import-the-other-countries-sales-data)
+  - [Append sale queries](#append-sale-queries)
+  - [Create columns](#create-columns)
+  - [Model loading and cleanup](#model-loading-and-cleanup)
+  - [Organize and document Power Query](#organize-and-document-power-query)
 - [**3. Enhancing the Data Model: The Basics**](#3-enhancing-the-data-model-the-basics) (9 videos)
-  - Learning objectives
-  - Navigate the Power Bi Desktop
-  - Understanding Dimensional Modeling
-  - Create relationships and manage settings
-  - Modify column properties
-  - Create a column group
-  - Create hierarchies
-  - Optimize relationships
-  - Discuss data model cleanup
+  - [Learning objectives](#learning-objectives)
+  - [Navigate the Power Bi Desktop](#navigate-the-power-bi-desktop)
+  - [Understanding Dimensional Modeling](#understanding-dimensional-modeling)
+  - [Create relationships and manage settings](#create-relationships-and-manage-settings)
+  - [Modify column properties](#modify-column-properties)
+  - [Create a column group](#create-a-column-group)
+  - [Create hierarchies](#create-hierarchies)
+  - [Optimize relationships](#optimize-relationships)
+  - [Discuss data model cleanup](#discuss-data-model-cleanup)
 - [**4. Enhancing the Data Model: DAX Basics**](#4-enhancing-the-data-model-dax-basics) (9 videos)
-  - Learning objectives
-  - Understand DAX
-  - Create basic DAX expressions
-  - Use logical expressions in DAX
-  - Comprehensive create calculated columns and measures: Part one
-  - Comprehensive create calculated columns and measures: Part two
-  - Comprehensive create calculated columns and measures: Part three
-  - Use the FILTER function
-  - Use the ALL function
+  - [Learning objectives](#learning-objectives)
+  - [Understand DAX](#understand-dax)
+  - [Create basic DAX expressions](#create-basic-dax-expressions)
+  - [Use logical expressions in DAX](#use-logical-expressions-in-dax)
+  - [Comprehensive create calculated columns and measures: Part one](#comprehensive-create-calculated-columns-and-measures-part-one)
+  - [Comprehensive create calculated columns and measures: Part two](#comprehensive-create-calculated-columns-and-measures-part-two)
+  - [Comprehensive create calculated columns and measures: Part three](#comprehensive-create-calculated-columns-and-measures-part-three)
+  - [Use the FILTER function](#use-the-filter-function)
+  - [Use the ALL function](#use-the-all-function)
 - [**5. Enhancing the Data Model: DAX Time Intelligence**](#5-enhancing-the-data-model-dax-time-intelligence) (7 videos)
-  - Learning objectives
-  - Build a date table
-  - Disable the auto date/time setting
-  - Designate a date table
-  - Build relationship between order date and sales
-  - Basic time intelligence functions
-  - Use the CALCULATE function
+  - [Learning objectives](#learning-objectives)
+  - [Build a date table](#build-a-date-table)
+  - [Disable the auto date/time setting](#disable-the-auto-datetime-setting)
+  - [Designate a date table](#designate-a-date-table)
+  - [Build relationship between order date and sales](#build-relationship-between-order-date-and-sales)
+  - [Basic time intelligence functions](#basic-time-intelligence-functions)
+  - [Use the CALCULATE function](#use-the-calculate-function)
 - [**6. Enhancing the Data Model: Quick Measures**](#6-enhancing-the-data-model-quick-measures) (2 videos)
-  - Learning objectives
-  - Use quick measures
+  - [Learning objectives](#learning-objectives)
+  - [Use quick measures](#use-quick-measures)
 - [**7. Building Desktop Visualizations: The Basics**](#7-building-desktop-visualizations-the-basics) (8 videos)
-  - Learning objectives
-  - Navigate the Power Bi Desktop report view
-  - Create a clustered column chart
-  - Create a stacked bar chart
-  - Create a line chart
-  - Create a KPI visual
-  - Create a card visual
-  - Create slicers
+  - [Learning objectives](#learning-objectives)
+  - [Navigate the Power Bi Desktop report view](#navigate-the-power-bi-desktop-report-view)
+  - [Create a clustered column chart](#create-a-clustered-column-chart)
+  - [Create a stacked bar chart](#create-a-stacked-bar-chart)
+  - [Create a line chart](#create-a-line-chart)
+  - [Create a KPI visual](#create-a-kpi-visual)
+  - [Create a card visual](#create-a-card-visual)
+  - [Create slicers](#create-slicers)
 - [**8. Building Desktop Visualizations: Next Level**](#8-building-desktop-visualizations-next-level) (14 videos)
-  - Learning objectives
-  - Add a canvas background
-  - Apply a theme
-  - Adjust existing visuals
-  - Create a custom tooltip
-  - Explore drill through
-  - Apply conditional formatting to a visual
-  - Build an order date hierarchy
-  - Enable a drill-down on a visual
-  - Edit interactions between visuals
-  - Use the selection pane
-  - Use the Bookmarks pane
-  - Explore the filter pane
-  - Explore the structure of a .pbix file
+  - [Learning objectives](#learning-objectives)
+  - [Add a canvas background](#add-a-canvas-background)
+  - [Apply a theme](#apply-a-theme)
+  - [Adjust existing visuals](#adjust-existing-visuals)
+  - [Create a custom tooltip](#create-a-custom-tooltip)
+  - [Explore drill through](#explore-drill-through)
+  - [Apply conditional formatting to a visual](#apply-conditional-formatting-to-a-visual)
+  - [Build an order date hierarchy](#build-an-order-date-hierarchy)
+  - [Enable a drill-down on a visual](#enable-a-drill-down-on-a-visual)
+  - [Edit interactions between visuals](#edit-interactions-between-visuals)
+  - [Use the selection pane](#use-the-selection-pane)
+  - [Use the Bookmarks pane](#use-the-bookmarks-pane)
+  - [Explore the filter pane](#explore-the-filter-pane)
+  - [Explore the structure of a .pbix file](#explore-the-structure-of-a-pbix-file)
 - [**9. Using the Power BI service: Reading View**](#9-using-the-power-bi-service-reading-view) (5 videos)
-  - Learning objectives
-  - Publish to the Power BI service
-  - Explore the Power BI service
-  - Create and use bookmarks
-  - Share reports
+  - [Learning objectives](#learning-objectives)
+  - [Publish to the Power BI service](#publish-to-the-power-bi-service)
+  - [Explore the Power BI service](#explore-the-power-bi-service)
+  - [Create and use bookmarks](#create-and-use-bookmarks)
+  - [Share reports](#share-reports)
 - [**10. Using the Power BI Service Next Level**](#10-using-the-power-bi-service-next-level) (6 videos)
-  - Learning objectives
-  - Create a new report using an existing dataset
-  - Build a dashboard
-  - Configure the dashboard
-  - Set an alert
-  - Use the Q&A dialog
+  - [Learning objectives](#learning-objectives)
+  - [Create a new report using an existing dataset](#create-a-new-report-using-an-existing-dataset)
+  - [Build a dashboard](#build-a-dashboard)
+  - [Configure the dashboard](#configure-the-dashboard)
+  - [Set an alert](#set-an-alert)
+  - [Use the Q&A dialog](#use-the-qa-dialog)
 - [**11. Implementing Security and Access**](#11-implementing-security-and-access) (4 videos)
-  - Learning objectives
-  - Create row-level security (RLS) roles
-  - Validate RLS roles using Power BI Desktop
-  - Assign and validate roles in the Power BI service
+  - [Learning objectives](#learning-objectives)
+  - [Create row-level security (RLS) roles](#create-row-level-security-rls-roles)
+  - [Validate RLS roles using Power BI Desktop](#validate-rls-roles-using-power-bi-desktop)
+  - [Assign and validate roles in the Power BI service](#assign-and-validate-roles-in-the-power-bi-service)
 - [**12. Summary**](#12-summary) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### 1. Getting Started with Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980)
@@ -163,8 +163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), bi (3), data (2), business (1)
 > **Versions:** 1.2 (1), 1.3 (1), 1.4 (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - all (1)
 
 #### Understand the data lifecycle
@@ -226,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), power (7), bi (7), business (7), [[Analytics]] (5)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -351,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (21), data (21), bi (20), cloud (5), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** let (3), this. (1), for, (1)
 > **Env Vars:** dax (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)
@@ -479,7 +479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** power (17), bi (16), data (3), [[Microsoft Excel|Excel]] (1), cloud (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -559,8 +559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (14), bi (14), product (2), [[Microsoft]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (3)
 > **Env Vars:** url (2)
 > **Best Practices:** good practice (1)
@@ -654,8 +654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), power (5), bi (5), data (2)
 > **Exercise Files:** starter files (3), starter file (3), template (1)
-> **Code Keywords:** let (3), class. (2), this. (1)
 > **Env Vars:** url (2), pbi (2), readme (1)
 > **Tools:** github (5)
 > **Prerequisites:** setup (2), you'll need (2), set up (1)
@@ -764,8 +764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (6), power (6), bi (6), [[GitHub]] (2)
 > **UI Navigation:** click on (5), go to (2)
-> **Code Keywords:** case, (1), case. (1), let (1), class, (1), this. (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** pbaix (1), pbx (1)
@@ -918,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), this. (1), case, (1), switch (1)
+> **Frameworks & Libraries:** power (25), bi (25), business (9), data (8), [[Microsoft Excel|Excel]] (7)
 > **Env Vars:** ceo (7), pl300 (1), pbx (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -929,7 +929,7 @@ created: 2026-04-29
 
 ### 2. Importing and Transforming Data Using Power Query Editor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980)
@@ -994,9 +994,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Microsoft Power Query|Power query]] (5), product (4), [[Microsoft Excel|Excel]] (3), [[Analytics]] (2)
 > **Versions:** 2.1 (1), 2.2 (1), 2.4 (1), 2.5 (1), 2.6 (1)
 > **Env Vars:** vlookup (1), find (1), clean (1), substitute (1)
-> **Code Keywords:** if, (1), finally, (1), let (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
@@ -1166,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (3), this, (1), case. (1), type. (1)
+> **Frameworks & Libraries:** data (40), [[Microsoft Power Query|Power query]] (13), power (7), bi (7), next (4)
 > **CLI Commands:** make (4), find (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Env Vars:** sql (1), csv (1)
@@ -1454,8 +1454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), [[Microsoft Power Query|Power query]] (14), next (5), power (4), bi (4)
 > **UI Navigation:** click on (8), go to (6), right-click (1), double-click (1)
-> **Code Keywords:** let (5), this. (3), self (1), case, (1), type. (1)
 > **CLI Commands:** make (7), find (3)
 > **Definitions:** is a  (7), is called (1)
 > **Env Vars:** pbx (2), csv (1), pbix (1)
@@ -1774,8 +1774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Microsoft Power Query|Power query]] (12), next (10), hit (6), power (5)
 > **CLI Commands:** find (12), make (9)
-> **Code Keywords:** let (7), self (4), this. (2), type. (2), type, (1)
 > **UI Navigation:** click on (6), go to (4), dropdown (1)
 > **Definitions:** is a  (4), is an  (1), is called (1), means that (1)
 > **Env Vars:** csv (2), ceo (1), abc123 (1)
@@ -1972,7 +1972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), this. (2), continue (1), from. (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Power Query|Power query]] (10), next (3), [[Microsoft Excel|Excel]] (2), [[Sales Analysis]] (1)
 > **UI Navigation:** go to (7), click on (2), right-click (2), dropdown (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we mentioned (1)
@@ -2227,7 +2227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (2), this, (2), for, (1)
+> **Frameworks & Libraries:** data (20), product (20), [[Microsoft Excel|Excel]] (14), [[Microsoft Power Query|Power query]] (8), next (3)
 > **UI Navigation:** click on (4), go to (3), open the (1), dropdown (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3), essentially is (1)
@@ -2373,8 +2373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (18), data (12), [[Microsoft Power Query|Power query]] (5), power (3), bi (2)
 > **UI Navigation:** go to (7), click on (4)
-> **Code Keywords:** let (3), this. (1)
 > **CLI Commands:** find (3)
 > **Analogies:** just like (2), for example (1)
 > **Env Vars:** csv (1)
@@ -2580,7 +2580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), let (4), finally, (2), self (1), switch (1)
+> **Frameworks & Libraries:** product (36), [[Microsoft Power Query|Power query]] (8), data (5), next (3), [[SQL]] (3)
 > **UI Navigation:** click on (9), dropdown (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), cat (1)
@@ -2896,7 +2896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), from. (2), this. (1), throw (1), match. (1)
+> **Frameworks & Libraries:** data (27), [[Microsoft Power Query|Power query]] (16), power (9), bi (9), next (4)
 > **UI Navigation:** go to (8), click on (2), checkbox (2), dropdown (1)
 > **CLI Commands:** make (10), find (2)
 > **Env Vars:** tbl (2), pid (1)
@@ -3030,8 +3030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Power Query|Power query]] (6), product (3), next (1), [[Sales Analysis]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (3), new. (1), this, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -3081,7 +3081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), type. (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -3141,7 +3141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), let (2), break. (1), finally, (1)
+> **Frameworks & Libraries:** data (21), product (5), [[Data Engineering]] (3), [[Microsoft Power Query|Power query]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Warnings:** warning (3)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
@@ -3328,7 +3328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), from. (5), this. (4), else, (1), delete (1)
+> **Frameworks & Libraries:** data (14), product (12), [[Microsoft Power Query|Power query]] (5), next (2), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (10), right-click (4), go to (4)
 > **Cross-References:** we talked about (2), go back to (2)
 > **CLI Commands:** find (2), make (1)
@@ -3340,7 +3340,7 @@ created: 2026-04-29
 
 ### 3. Enhancing the Data Model: The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980)
@@ -3373,7 +3373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** data (2), power (2), bi (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
@@ -3436,7 +3436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (1)
+> **Frameworks & Libraries:** data (13), power (3), bi (3), [[Microsoft Power Query|Power query]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
@@ -3519,8 +3519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), data (6), business (5), power (5), bi (5)
 > **Definitions:** is a  (4), known as (2)
-> **Code Keywords:** this, (4), let (1)
 > **Analogies:** imagine (1), for example (1)
 > **Tools:** notion (1)
 > **Prerequisites:** set up (1)
@@ -3821,7 +3821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (4), new, (1), type, (1), this, (1)
+> **Frameworks & Libraries:** product (22), power (11), bi (11), data (11), [[Microsoft Power Query|Power query]] (8)
 > **UI Navigation:** go to (6), click on (5)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (5)
@@ -4011,9 +4011,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), next (5), power (3), bi (3), product (2)
 > **CLI Commands:** make (8), find (7)
 > **UI Navigation:** go to (8), click on (4), open the (1)
-> **Code Keywords:** this, (3), default, (2), override (2), default. (1), let (1)
 > **Best Practices:** best practice (2)
 > **Warnings:** be careful (1), keep in mind (1)
 > **Definitions:** is an  (1)
@@ -4122,8 +4122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), power (2), bi (2), hit (1)
 > **UI Navigation:** click on (10), go to (1), checkbox (1)
-> **Code Keywords:** this. (1), let (1), this, (1), class, (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -4244,9 +4244,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (28), next (5), [[Microsoft Products|Products]] (3), data (3), hit (1)
 > **CLI Commands:** make (6), find (3)
 > **UI Navigation:** click on (5), go to (4)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -4364,7 +4364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), product (3), data (3), power (1), bi (1)
 > **UI Navigation:** click on (5), drag and drop (1), go to (1)
 > **Analogies:** just like (2), imagine (1)
 > **Prerequisites:** set up (3)
@@ -4454,6 +4454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (3), [[DAX]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** go back to (2)
@@ -4463,7 +4464,7 @@ created: 2026-04-29
 
 ### 4. Enhancing the Data Model: DAX Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980)
@@ -4482,7 +4483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case. (1), let (1)
+> **Frameworks & Libraries:** [[DAX]] (3)
 > **Env Vars:** dax (3)
 > **Speakers:** - in (1)
 
@@ -4697,8 +4698,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DAX]] (18), data (9), [[Microsoft Excel|Excel]] (7), power (7), bi (7)
 > **Env Vars:** dax (18), sum (1)
-> **Code Keywords:** let (6), this, (3), from. (2), function (1), this. (1)
 > **UI Navigation:** go to (10), click on (4), right-click (1)
 > **CLI Commands:** make (7), find (2)
 > **Definitions:** is a  (2), is called (2), stands for (1)
@@ -4939,7 +4940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), function (1)
+> **Frameworks & Libraries:** data (13), [[Microsoft Power Query|Power query]] (8), power (8), bi (8), [[DAX]] (4)
 > **Env Vars:** pbx (8), dax (4)
 > **UI Navigation:** go to (8), click on (2)
 > **CLI Commands:** make (4), find (1)
@@ -5079,7 +5080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), function (1), this, (1)
+> **Frameworks & Libraries:** product (8), hit (4), [[DAX]] (3), business (1), prompt (1)
 > **UI Navigation:** go to (4), click on (2), dropdown (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** dax (3)
@@ -5327,7 +5328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (8), this, (1), this. (1)
+> **Frameworks & Libraries:** product (13), next (6), hit (4), [[DAX]] (3), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (10), find (5)
 > **UI Navigation:** go to (5), click on (4), dropdown (1)
 > **Env Vars:** dax (3)
@@ -5401,7 +5402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), function (1)
+> **Frameworks & Libraries:** hit (2), data (1), product (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Cross-References:** go back to (1)
@@ -5482,8 +5483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DAX]] (2), [[Representational State Transfer (REST)|Rest]] (2), data (1), hit (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** sumx (7), dax (2)
-> **Code Keywords:** function (3), case, (1), this. (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2)
 > **Definitions:** is called (1)
@@ -5602,7 +5603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (8), this. (2)
+> **Frameworks & Libraries:** data (5), hit (2), [[DAX]] (1)
 > **Env Vars:** filter (5), countrows (4), dax (1), sum (1), s051190 (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -5705,7 +5706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), override (1)
+> **Frameworks & Libraries:** application (1), hit (1), next (1), power (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1), click on (1)
 > **Env Vars:** countrows (1)
@@ -5716,7 +5717,7 @@ created: 2026-04-29
 
 ### 5. Enhancing the Data Model: DAX Time Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980)
@@ -5735,7 +5736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** power (1), bi (1)
 > **Env Vars:** calculate (1)
 > **Speakers:** - in (1)
 
@@ -5864,7 +5865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), type. (4), function (2), this, (1), new, (1)
+> **Frameworks & Libraries:** data (6), hit (2), power (2), bi (2), [[DAX]] (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** dax (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -5961,7 +5962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), this. (2), case, (1)
+> **Frameworks & Libraries:** data (7), power (5), bi (5), feature (3)
 > **UI Navigation:** checkbox (1), go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -6033,7 +6034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), function (2), type. (1)
+> **Frameworks & Libraries:** data (6), next (3), power (3), bi (3), [[Microsoft]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dax (1)
@@ -6099,7 +6100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), self (1), if, (1), function (1)
+> **Frameworks & Libraries:** [[DAX]] (5), power (3), bi (3), data (1)
 > **Env Vars:** dax (5)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), we talked about (1)
@@ -6275,7 +6276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), this, (2), this. (2), pass (1)
+> **Frameworks & Libraries:** next (5), [[DAX]] (4), [[Analytics]] (2), hit (2)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** right-click (3), go to (3), select the (1), click on (1)
 > **Env Vars:** dax (4), ytd (1), qtd (1)
@@ -6343,7 +6344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** [[DAX]] (1), [[Microsoft Excel|Excel]] (1), hit (1), next (1)
 > **Env Vars:** calculate (5), dax (1), sumif (1)
 > **UI Navigation:** right-click (1), click on (1)
 > **CLI Commands:** make (1)
@@ -6355,7 +6356,7 @@ created: 2026-04-29
 
 ### 6. Enhancing the Data Model: Quick Measures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270076?u=76281980)
@@ -6368,7 +6369,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
@@ -6485,8 +6485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DAX]] (5), power (3), bi (3), [[Programming]] (1)
 > **Env Vars:** dax (5), calculate (1)
-> **Code Keywords:** interface (2), for, (1), this. (1), function (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Cross-References:** we talked about (1)
@@ -6497,7 +6497,7 @@ created: 2026-04-29
 
 ### 7. Building Desktop Visualizations: The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980)
@@ -6516,7 +6516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** power (1), bi (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - okay (1)
 
@@ -6585,6 +6585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), power (4), bi (3), [[DAX]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** dax (1)
@@ -6839,9 +6840,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (12), power (5), bi (5), feature (3), data (3)
 > **UI Navigation:** click on (9), go to (5), open the (1)
 > **CLI Commands:** make (10), find (2)
-> **Code Keywords:** let (6), this. (3), from. (1), function (1)
 > **Definitions:** is a  (2), is called (2), is an  (1)
 > **Env Vars:** kpi (1), dax (1)
 > **Cross-References:** we talked about (1)
@@ -6961,9 +6962,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), data (6), next (5), power (1), bi (1)
 > **CLI Commands:** make (6), find (3)
 > **UI Navigation:** go to (6), scroll down (1)
-> **Code Keywords:** let (2), this, (2), this. (1), continue (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -7050,8 +7051,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), data (3), hit (1), product (1)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** let (3), switch (1), this, (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** imagine (1)
@@ -7170,8 +7171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (3), hit (1), [[Microsoft Products|Products]] (1), power (1)
 > **UI Navigation:** go to (3), click on (2), open the (1)
-> **Code Keywords:** let (4), this, (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** kpi (4)
 > **Prerequisites:** set up (2)
@@ -7236,8 +7237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), hit (1)
 > **UI Navigation:** go to (5), click on (1), open the (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), just like (1)
 > **Env Vars:** kpi (1)
@@ -7370,9 +7371,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), power (2), bi (2)
 > **UI Navigation:** dropdown (8), go to (7), click on (1), switch to (1)
 > **CLI Commands:** make (14), find (2)
-> **Code Keywords:** let (2), switch (1), this, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), just like (1)
 > **Prerequisites:** set up (2)
@@ -7381,7 +7382,7 @@ created: 2026-04-29
 
 ### 8. Building Desktop Visualizations: Next Level
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980)
@@ -7398,7 +7399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (1), bi (1)
 > **Env Vars:** pbx (1)
 > **Speakers:** - in (1)
 
@@ -7511,11 +7512,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), product (2), power (1), bi (1), [[DAX]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (5), go to (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** dax (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
@@ -7579,6 +7580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), bi (1), [[GitHub]] (1), data (1)
 > **UI Navigation:** go to (1), dropdown (1), scroll down (1), click on (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cusp (1)
@@ -7664,7 +7666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1)
+> **Frameworks & Libraries:** product (2), data (2), [[DAX]] (1), business (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** kpi (1), dax (1), sumx (1)
 > **UI Navigation:** go to (1)
@@ -7817,9 +7819,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), product (1), hit (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** go to (7), click on (1)
-> **Code Keywords:** let (3), this, (1), switch (1), this. (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -7962,7 +7964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (4), pass (1)
+> **Frameworks & Libraries:** product (23), next (3), data (1), power (1), bi (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Prerequisites:** set up (4)
@@ -8024,8 +8026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), data (1)
 > **UI Navigation:** go to (6), scroll down (2), click on (1)
-> **Code Keywords:** this, (3), this. (2), let (2), default, (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
@@ -8117,8 +8119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), product (1), hit (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** go to (2), dropdown (1)
 > **Speakers:** - [instructor] (1)
 
@@ -8185,7 +8187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
@@ -8313,7 +8315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (1), default, (1), super (1)
+> **Frameworks & Libraries:** power (1), bi (1), product (1), next (1), [[DAX]] (1)
 > **UI Navigation:** click on (10), go to (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dax (1)
@@ -8410,7 +8412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), this, (1)
+> **Frameworks & Libraries:** next (3), hit (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -8580,8 +8582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), hit (2), [[Microsoft PowerPoint|Powerpoint]] (2), power (2), data (1)
 > **UI Navigation:** click on (12), go to (2), open the (1), dropdown (1)
-> **Code Keywords:** let (9), this. (2), this, (1), from, (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
@@ -8655,8 +8657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), bi (5), [[DAX]] (1), management (1), [[Search]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (4), class, (1)
 > **UI Navigation:** open the (1), click on (1), go to (1)
 > **Env Vars:** dax (1)
 > **Definitions:** is an  (1)
@@ -8699,6 +8701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (3), management (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -8708,7 +8711,7 @@ created: 2026-04-29
 
 ### 9. Using the Power BI service: Reading View
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980)
@@ -8739,7 +8742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** power (4), bi (4), [[Dashboards]] (1), web (1)
 > **Speakers:** - in (1)
 
 #### Publish to the Power BI service
@@ -8873,7 +8876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1)
+> **Frameworks & Libraries:** power (17), bi (17), data (6), cloud (4), [[DAX]] (2)
 > **Env Vars:** pbix (2), dax (2)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (3)
@@ -8919,8 +8922,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), data (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -9015,7 +9018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default. (2)
+> **Frameworks & Libraries:** power (4), bi (2), next (1), data (1)
 > **UI Navigation:** click on (4), go to (2), dropdown (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1)
@@ -9084,14 +9087,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), bi (3), next (3), data (2)
 > **UI Navigation:** click on (5), go to (1)
-> **Code Keywords:** this. (2), let (1), class, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 10. Using the Power BI Service Next Level
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980)
@@ -9114,7 +9117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** power (1), bi (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -9219,7 +9222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), this, (1)
+> **Frameworks & Libraries:** power (7), bi (6), next (4), product (4), data (2)
 > **UI Navigation:** go to (2), scroll down (2), click on (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), similar to (1)
@@ -9351,8 +9354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), bi (7), data (5), [[Sales Analysis]] (4), next (1)
 > **UI Navigation:** click on (6), go to (4)
-> **Code Keywords:** let (5), this, (2), this. (1), from. (1)
 > **CLI Commands:** snap (2), make (2)
 > **Env Vars:** kpi (1)
 > **Versions:** 8.2 (1)
@@ -9413,8 +9416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), web (1), power (1), bi (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this, (1), let (1)
 > **Cross-References:** we talked about (1), go back to (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -9490,7 +9493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), type. (1), let (1), this. (1), default, (1)
+> **Frameworks & Libraries:** power (13), bi (9), data (9), [[Workflow Management]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** make (2), find (1), go build (1)
 > **Env Vars:** kpi (2)
@@ -9562,7 +9565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2)
+> **Frameworks & Libraries:** power (7), data (7), bi (6), product (3)
 > **Cross-References:** earlier in (1), coming up (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** find (1)
@@ -9573,7 +9576,7 @@ created: 2026-04-29
 
 ### 11. Implementing Security and Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980)
@@ -9592,7 +9595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (3), power (2), bi (2)
 > **Versions:** 11.1 (1), 11.2 (1)
 > **Speakers:** - in (1)
 
@@ -9679,7 +9682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (2), new, (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[DAX]] (2), power (1), bi (1), data (1)
 > **UI Navigation:** click on (2), go to (1), switch to (1)
 > **Env Vars:** dax (2)
 > **Prerequisites:** set up (2)
@@ -9759,9 +9762,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), bi (6), data (6), [[Security]] (5), feature (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (4), case, (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -9839,8 +9842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (9), bi (7), [[Security]] (5), data (4), next (2)
 > **UI Navigation:** click on (5), go to (1), dropdown (1)
-> **Code Keywords:** let (2), else. (1), class, (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** upn (1)
 > **Definitions:** is a  (1)
@@ -9849,7 +9852,7 @@ created: 2026-04-29
 
 ### 12. Summary
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980)
@@ -9888,7 +9891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** power (5), bi (5), data (3), business (2), [[DAX]] (2)
 > **Env Vars:** dax (2)
 > **Cross-References:** we covered (1), we talked about (1)
 > **Prerequisites:** getting started (1)

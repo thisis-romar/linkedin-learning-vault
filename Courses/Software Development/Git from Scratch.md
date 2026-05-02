@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/git
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Git%20from%20Scratch.md)
@@ -47,30 +47,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Git from Scratch
+  - [Git from Scratch](#git-from-scratch)
 - [**1. Git Basics**](#1-git-basics) (6 videos)
-  - Why use version control?
-  - git init: Initialize a repository
-  - .gitignore: Ignore files
-  - git add: Add changes
-  - git commit: Commit changes to memory
-  - git status: Get the current status
+  - [Why use version control?](#why-use-version-control)
+  - [git init: Initialize a repository](#git-init-initialize-a-repository)
+  - [.gitignore: Ignore files](#gitignore-ignore-files)
+  - [git add: Add changes](#git-add-add-changes)
+  - [git commit: Commit changes to memory](#git-commit-commit-changes-to-memory)
+  - [git status: Get the current status](#git-status-get-the-current-status)
 - [**2. Branches: Alternate Timelines**](#2-branches-alternate-timelines) (6 videos)
-  - git branch: Create an alternate timeline
-  - HEAD: An introduction
-  - git switch: Go to an alternate timeline
-  - git checkout: Go to an alternate timeline
-  - DETACHED HEAD: An explanation
-  - The difference between switch and checkout
+  - [git branch: Create an alternate timeline](#git-branch-create-an-alternate-timeline)
+  - [HEAD: An introduction](#head-an-introduction)
+  - [git switch: Go to an alternate timeline](#git-switch-go-to-an-alternate-timeline)
+  - [git checkout: Go to an alternate timeline](#git-checkout-go-to-an-alternate-timeline)
+  - [DETACHED HEAD: An explanation](#detached-head-an-explanation)
+  - [The difference between switch and checkout](#the-difference-between-switch-and-checkout)
 - [**3. Changing History**](#3-changing-history) (4 videos)
-  - git merge: Combine two timelines
-  - CONFLICT: How to fix merge conflicts
-  - git revert: Undo something
-  - git rebase: Move the base of a branch
+  - [git merge: Combine two timelines](#git-merge-combine-two-timelines)
+  - [CONFLICT: How to fix merge conflicts](#conflict-how-to-fix-merge-conflicts)
+  - [git revert: Undo something](#git-revert-undo-something)
+  - [git rebase: Move the base of a branch](#git-rebase-move-the-base-of-a-branch)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Git from Scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980)
@@ -101,16 +101,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3), [[Version Control]] (3), web (1), power (1)
 > **CLI Commands:** git (3), make (1)
 > **Analogies:** imagine (2)
-> **Code Keywords:** let (1)
 > **Tools:** command line (1)
 > **Speakers:** - [morten (1)
 
 
 ### 1. Git Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use version control?
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980)
@@ -161,8 +161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (7), feature (5), [[Git]] (1), [[Debugging]] (1)
 > **CLI Commands:** make (3), git (1)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (8), [[Version Control]] (1)
 > **CLI Commands:** git (8)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -227,6 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5)
 > **CLI Commands:** git (5), make (1)
 > **Speakers:** - [educator] (1)
 
@@ -255,6 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4)
 > **CLI Commands:** git (4), make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
@@ -290,6 +292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6), power (1), feature (1), [[Forms]] (1)
 > **CLI Commands:** git (6), find (1)
 > **Analogies:** picture (1)
 > **Best Practices:** rule of thumb (1)
@@ -312,13 +315,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3)
 > **CLI Commands:** git (3)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Branches: Alternate Timelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### git branch: Create an alternate timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980)
@@ -351,8 +355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (2), feature (2), parallel (2), [[Version Control]] (1)
 > **CLI Commands:** git (2), find (1)
-> **Code Keywords:** require (1), throw (1), switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### HEAD: An introduction
@@ -380,8 +384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (1)
 > **CLI Commands:** git (1)
-> **Code Keywords:** if, (1)
 > **Speakers:** - [instructor] (1)
 
 #### git switch: Go to an alternate timeline
@@ -405,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (6), pass (1)
+> **Frameworks & Libraries:** [[Git]] (2)
 > **CLI Commands:** git (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** switch to (1)
@@ -444,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), pass (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Git]] (6)
 > **CLI Commands:** git (6)
 > **UI Navigation:** switch to (1), go to (1)
 > **Definitions:** is a  (1)
@@ -479,9 +483,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3), [[Version Control]] (1)
 > **CLI Commands:** git (3)
 > **Warnings:** warning (2)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -543,8 +547,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (17)
 > **CLI Commands:** git (17)
-> **Code Keywords:** switch (6), for. (1)
 > **File Paths:** main.js (2)
 > **Definitions:** is called (1), is a  (1)
 > **UI Navigation:** switch to (1)
@@ -553,7 +557,7 @@ created: 2026-04-29
 
 ### 3. Changing History
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### git merge: Combine two timelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980)
@@ -580,8 +584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3), feature (1)
 > **CLI Commands:** git (3)
-> **Code Keywords:** this, (1), switch (1)
 > **API Endpoints:** head  (1)
 > **Env Vars:** head (1)
 > **UI Navigation:** switch to (1)
@@ -627,8 +631,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5)
 > **CLI Commands:** git (5)
-> **Code Keywords:** this, (1), from. (1), else. (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -672,6 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), hit (1)
 > **CLI Commands:** git (4), make (1), find (1)
 > **Definitions:** is a  (1), known as (1)
 > **Best Practices:** good practice (1)
@@ -710,8 +715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), feature (2)
 > **CLI Commands:** git (4), make (1)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
 

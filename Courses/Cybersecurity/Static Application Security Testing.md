@@ -30,7 +30,7 @@ tags:
   - skill/software-development
   - skill/security-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Static%20Application%20Security%20Testing.md)
@@ -49,55 +49,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The importance of static testing
-  - What you should know
+  - [The importance of static testing](#the-importance-of-static-testing)
+  - [What you should know](#what-you-should-know)
 - [**1. Leading Practices**](#1-leading-practices) (10 videos)
-  - Security in the SDLC
-  - Development methodologies
-  - Programming languages
-  - Security frameworks
-  - The OWASP Top 10
-  - Other notable projects
-  - Top 25 software errors
-  - BSIMM
-  - Building your test lab
-  - Preparing your checklist
+  - [Security in the SDLC](#security-in-the-sdlc)
+  - [Development methodologies](#development-methodologies)
+  - [Programming languages](#programming-languages)
+  - [Security frameworks](#security-frameworks)
+  - [The OWASP Top 10](#the-owasp-top-10)
+  - [Other notable projects](#other-notable-projects)
+  - [Top 25 software errors](#top-25-software-errors)
+  - [BSIMM](#bsimm)
+  - [Building your test lab](#building-your-test-lab)
+  - [Preparing your checklist](#preparing-your-checklist)
 - [**2. Security Documentation**](#2-security-documentation) (7 videos)
-  - Internal project plans
-  - Communication planning
-  - Change control policy
-  - Security incident response policy
-  - Logging and monitoring policy
-  - Third-party agreements
-  - OWASP ASVS
+  - [Internal project plans](#internal-project-plans)
+  - [Communication planning](#communication-planning)
+  - [Change control policy](#change-control-policy)
+  - [Security incident response policy](#security-incident-response-policy)
+  - [Logging and monitoring policy](#logging-and-monitoring-policy)
+  - [Third-party agreements](#third-party-agreements)
+  - [OWASP ASVS](#owasp-asvs)
 - [**3. Source Code Security Reviews**](#3-source-code-security-reviews) (9 videos)
-  - Challenges of assessing source code
-  - OWASP Code Review Guide
-  - Static code analysis
-  - Code review models
-  - Application threat modeling: STRIDE
-  - Application threat modeling: DREAD
-  - Code review metrics
-  - Demo: Codacy
-  - Demo: SonarQube
+  - [Challenges of assessing source code](#challenges-of-assessing-source-code)
+  - [OWASP Code Review Guide](#owasp-code-review-guide)
+  - [Static code analysis](#static-code-analysis)
+  - [Code review models](#code-review-models)
+  - [Application threat modeling: STRIDE](#application-threat-modeling-stride)
+  - [Application threat modeling: DREAD](#application-threat-modeling-dread)
+  - [Code review metrics](#code-review-metrics)
+  - [Demo: Codacy](#demo-codacy)
+  - [Demo: SonarQube](#demo-sonarqube)
 - [**4. Static Testing for the OWASP Top 10 (2021)**](#4-static-testing-for-the-owasp-top-10-2021) (11 videos)
-  - The OWASP Top 10
-  - A1: Broken access controls
-  - A2: Cryptographic failures
-  - A3: Injection
-  - A4: Insecure design
-  - A5: Security misconfiguration
-  - A6: Vulnerable and outdated components
-  - A7: Identification and authentication failures
-  - A8: Software and data integrity failures
-  - A9: Security logging and monitoring failures
-  - A10: Server-Side Request Forgery
+  - [The OWASP Top 10](#the-owasp-top-10)
+  - [A1: Broken access controls](#a1-broken-access-controls)
+  - [A2: Cryptographic failures](#a2-cryptographic-failures)
+  - [A3: Injection](#a3-injection)
+  - [A4: Insecure design](#a4-insecure-design)
+  - [A5: Security misconfiguration](#a5-security-misconfiguration)
+  - [A6: Vulnerable and outdated components](#a6-vulnerable-and-outdated-components)
+  - [A7: Identification and authentication failures](#a7-identification-and-authentication-failures)
+  - [A8: Software and data integrity failures](#a8-software-and-data-integrity-failures)
+  - [A9: Security logging and monitoring failures](#a9-security-logging-and-monitoring-failures)
+  - [A10: Server-Side Request Forgery](#a10-server-side-request-forgery)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Static application security testing next steps
+  - [Static application security testing next steps](#static-application-security-testing-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of static testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (1)
+> **Frameworks & Libraries:** [[Security]] (5), web (1), application (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
@@ -168,7 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), function (1)
+> **Frameworks & Libraries:** [[Security]] (6), application (2), cloud (2), [[Manual Testing]] (1), [[LinkedIn]] (1)
 > **Env Vars:** owasp (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is an  (1)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Leading Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security in the SDLC
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980)
@@ -260,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (1), yield (1)
+> **Frameworks & Libraries:** [[Security]] (14), application (6), [[Software Development]] (1), strengths (1), teams (1)
 > **Env Vars:** sdlc (5)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (2), picture (1)
@@ -346,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), static (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (10), [[Agile Development|Agile]] (8), [[DevOps]] (6), [[Application Development]] (5), teams (5)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -426,10 +426,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (7), [[GitHub]] (7), [[Security]] (3), application (1), [[Java]] (1)
 > **Tools:** github (7)
 > **CLI Commands:** find (2), make (1)
 > **Exercise Files:** source code (3)
-> **Code Keywords:** static (1), require (1)
 > **URLs:** [github.com](https://github.com) (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -520,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (23), application (9), [[Cybersecurity]] (4), [[NIST]] (3), data (2)
 > **Env Vars:** iso (4), cobit (4), iec (3), nist (3), cis (3)
-> **Code Keywords:** static (2), from, (1), function (1), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (1)
 > **Analogies:** similar to (1)
@@ -585,9 +585,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (9), [[Security]] (6), web application (2), application (2), web (1)
 > **Env Vars:** owasp (9)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** continue (1), static (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
@@ -678,8 +678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), [[OWASP]] (13), application (5), web (4), [[Code Review]] (4)
 > **Env Vars:** owasp (13), zap (5), samm (4), owtf (3), pdf (1)
-> **Code Keywords:** static (3), function (2), continue (2), let (1)
 > **Definitions:** is a  (4), short for (2)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -726,6 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[OWASP]] (3), [[Agile Development|Agile]] (3), [[Cybersecurity]] (1)
 > **Env Vars:** mitre (4), owasp (3), sans (3), giac (2), cwe (2)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
@@ -831,8 +832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), application (8), management (4), [[Code Review]] (2), [[OWASP]] (1)
 > **Env Vars:** bsimm (6), ssdl (2), owasp (1), samm (1), hipaa (1)
-> **Code Keywords:** static (6)
 > **CLI Commands:** make (4), find (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** similar to (1)
@@ -917,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), continue (1)
+> **Frameworks & Libraries:** [[Security]] (6), cloud (2), application (1), [[Virtual Machines]] (1), [[GitHub]] (1)
 > **Env Vars:** ide (3), samm (1), bsimm (1), net (1)
 > **Tools:** github (1), bitbucket (1), visual studio (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -993,7 +994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), self (1), protected (1), require (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (8), application (7), data (1), hit (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you'll need (1), before you begin (1)
 > **Speakers:** - [instructor] (1)
@@ -1001,7 +1002,7 @@ created: 2026-04-29
 
 ### 2. Security Documentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Internal project plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980)
@@ -1116,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), new. (2), finally, (1), let (1), break. (1)
+> **Frameworks & Libraries:** [[Security]] (23), application (4), [[Application Development]] (3), product (3), next (2)
 > **CLI Commands:** make (3), find (2)
 > **Exercise Files:** source code (5)
 > **Definitions:** is a  (4)
@@ -1203,8 +1204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[Security]] (8), [[ITIL]] (4), [[SQL]] (1), data (1)
 > **Env Vars:** itil (4), cicd (3), sql (1), cab (1)
-> **Code Keywords:** static (2), continue (1), require (1)
 > **Definitions:** in other words (1), short for (1), is a  (1), stands for (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** source code (2)
@@ -1296,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (5), teams (5), application (2), [[Slack]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** slack (2)
 > **Definitions:** is a  (1)
@@ -1374,8 +1375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), [[Security Incident Response]] (12), application (6), data (3), career (2)
 > **Definitions:** is an  (3), is a  (2)
-> **Code Keywords:** static (4)
 > **CLI Commands:** find (3)
 > **Env Vars:** cia (1), nist (1)
 > **Analogies:** for example (1)
@@ -1482,8 +1483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), management (11), data (8), application (7), career (1)
 > **Env Vars:** pci (5), siem (1), nist (1), dss (1), ics (1)
-> **Code Keywords:** static (3), private (1), public (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [jared] (1)
 
@@ -1620,7 +1621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (2), function (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (18), open-source (7), application (4), mobile application (3), business (2)
 > **CLI Commands:** ruby (4), find (1), node (1), python (1)
 > **Env Vars:** oss (2), url (1), vpn (1), ceo (1), owasp (1)
 > **Definitions:** means that (2), is an  (2), in other words (1)
@@ -1698,8 +1699,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (21), application (10), [[OWASP]] (3), data (2), management (2)
 > **Env Vars:** asvs (10), owasp (3), hipaa (1), pci (1), cwe (1)
-> **Code Keywords:** let (1), static (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** getting started (1)
@@ -1708,7 +1709,7 @@ created: 2026-04-29
 
 ### 3. Source Code Security Reviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges of assessing source code
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980)
@@ -1829,7 +1830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), public (2), static (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (16), application (10), database (5), [[Code Review]] (3), [[SQL]] (1)
 > **Env Vars:** zip (7), sql (1)
 > **Exercise Files:** source code (6)
 > **CLI Commands:** make (3), find (2)
@@ -1927,12 +1928,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (20), [[OWASP]] (9), application (8), [[Code Review]] (7), [[Microsoft]] (3)
 > **Env Vars:** owasp (9), stride (3), dread (3), sdlc (1)
 > **CLI Commands:** find (3), php (1)
 > **URLs:** [mitre.org](https://mitre.org) (1), [usenix.org](https://usenix.org) (1), [php.net](https://php.net) (1), [microsoft.com](https://microsoft.com) (1)
 > **Exercise Files:** source code (3), download the (1)
 > **Cross-References:** we discussed (1), earlier in (1), later in (1)
-> **Code Keywords:** static (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2029,8 +2030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[Python (Programming Language)|Python]] (4), [[OWASP]] (3), application (2), [[Programming]] (2)
 > **CLI Commands:** python (4), ruby (3), find (1), rails (1), make (1)
-> **Code Keywords:** static (4), from. (1), let (1), this. (1), from, (1)
 > **Exercise Files:** source code (7)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** owasp (3), sql (1)
@@ -2151,8 +2152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), application (8), [[OWASP]] (5), [[Code Review]] (4), next (3)
 > **Env Vars:** owasp (5), cfo (1), covid (1), iso (1)
-> **Code Keywords:** pass (2), public (1), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** source code (2)
 > **Cross-References:** we discussed (1)
@@ -2189,8 +2190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (17), data (12), [[Representational State Transfer (REST)|Rest]] (3), [[Threat Modeling]] (2), [[Security]] (2)
 > **Env Vars:** stride (7), sql (1)
-> **Code Keywords:** let (4), require (1), protected (1), public (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** open the (1)
@@ -2275,6 +2276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (6), [[Code Review]] (6), [[Threat Modeling]] (4), [[Security]] (4), [[Microsoft]] (2)
 > **Env Vars:** dread (12), owasp (6), stride (1), nist (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), for example (1)
@@ -2378,10 +2380,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (22), application (15), [[OWASP]] (5), business (3), management (3)
 > **Env Vars:** owasp (5), pdf (1), sdlc (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** source code (2)
-> **Code Keywords:** if, (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -2516,7 +2518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (5), static (2), function (1), throw (1)
+> **Frameworks & Libraries:** [[Security]] (9), [[GitHub]] (5), [[OWASP]] (4), application (4), web (3)
 > **UI Navigation:** navigate to (2), click on (2), select the (1), in the menu (1), go to (1)
 > **Tools:** github (5), bitbucket (1), gitlab (1)
 > **CLI Commands:** make (4), cd (1), php (1)
@@ -2630,8 +2632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), application (5), [[GitHub]] (3), data (2), [[Microsoft Azure|Azure]] (2)
 > **Tools:** github (3), bitbucket (1), gitlab (1), jira (1)
-> **Code Keywords:** let (2), this, (1), interface (1), function (1)
 > **UI Navigation:** click on (3), navigate to (1)
 > **URLs:** [sonarqube.com](https://sonarqube.com) (2), [sonarcloud.io](https://sonarcloud.io) (1)
 > **Definitions:** is a  (2), means that (1)
@@ -2642,7 +2644,7 @@ created: 2026-04-29
 
 ### 4. Static Testing for the OWASP Top 10 (2021)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980)
@@ -2705,8 +2707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[OWASP]] (10), mobile application (5), web (3), web application (3)
 > **Env Vars:** owasp (10)
-> **Code Keywords:** let (1), static (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2813,9 +2815,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), management (6), [[Security]] (4), [[OWASP]] (3), business (3)
 > **Env Vars:** owasp (3), api (3)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** self (2), static (1), default, (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** source code (1)
 > **Best Practices:** don't forget (1)
@@ -2928,8 +2930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (39), application (5), [[Representational State Transfer (REST)|Rest]] (5), [[OWASP]] (3), [[Security]] (3)
 > **Env Vars:** owasp (3), ascii (1), gdpr (1), ccpa (1), pipeda (1)
-> **Code Keywords:** protected (3), if, (1), require (1), function (1), static (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [narrator] (1)
@@ -3049,10 +3051,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), application (11), database (7), [[SQL]] (5), [[OWASP]] (4)
 > **Env Vars:** ldap (5), sql (5), owasp (4), orm (2), json (1)
 > **Exercise Files:** source code (6)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (3), require (1)
 > **Analogies:** for example (2)
 > **Tools:** command line (1)
 > **Best Practices:** good practice (1)
@@ -3139,10 +3141,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), [[OWASP]] (3), business (2), [[Threat Modeling]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (3), sbom (2), cisa (1), gdpr (1), sdlc (1)
 > **Definitions:** is a  (2), known as (1), in other words (1)
 > **CLI Commands:** cd (1), aws (1), make (1)
-> **Code Keywords:** require (1), let (1), function (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should never (1)
@@ -3271,9 +3273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), application (13), web (5), cloud (4), data (2)
 > **CLI Commands:** make (3), find (2), php (1), mysql (1)
 > **Env Vars:** owasp (1), readme (1), php (1), cis (1), osp (1)
-> **Code Keywords:** extends (1), for. (1), protected (1)
 > **URLs:** [zeltser.com](https://zeltser.com) (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -3397,8 +3399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Drupal]] (4), web (3), database (3), [[OWASP]] (2)
 > **Env Vars:** owasp (2), sbom (2), net (2), cve (2), mitre (1)
-> **Code Keywords:** require (1), function (1), delete (1), case, (1), finally, (1)
 > **CLI Commands:** make (2), apache (1)
 > **Prerequisites:** you'll need (2), install (1)
 > **Exercise Files:** source code (2)
@@ -3533,8 +3535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), management (6), data (5), web (5), [[OWASP]] (4)
 > **Env Vars:** owasp (4), nist (2), url (1)
-> **Code Keywords:** finally, (2), else. (1), interface (1), self (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -3629,7 +3631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), pass (1), let (1)
+> **Frameworks & Libraries:** data (9), [[Security]] (3), [[OWASP]] (2), application (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** owasp (2), sbom (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), python (1)
@@ -3755,9 +3757,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), data (7), [[OWASP]] (2), web (2), database (1)
 > **Env Vars:** owasp (2), sdlc (1), nist (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** for. (1), finally, (1), module (1)
 > **Warnings:** troubleshoot (1), warning (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3832,6 +3834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (4), cloud (3), traffic (2), [[Security]] (2), application (1)
 > **Env Vars:** ssrf (12), url (8), owasp (4), http (2), pdf (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -3840,7 +3843,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Static application security testing next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980)
@@ -3911,7 +3914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4)
+> **Frameworks & Libraries:** application (8), [[Security]] (8), next (2), [[Virtual Machines]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (2)
 > **Best Practices:** make sure to (1)

@@ -25,7 +25,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Understanding%20The%20Workflow%20Professional%20Certificate.md)
@@ -44,11 +44,11 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building and scaling AI products: Your path to success
+  - [Building and scaling AI products: Your path to success](#building-and-scaling-ai-products-your-path-to-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building and scaling AI products: Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980)
@@ -79,8 +79,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (2), [[LinkedIn]] (2), [[Software Development]] (1), teams (1)
 > **Non-Speech:** (upbeat music) (1), (upbeat music continues) (1)
-> **Code Keywords:** pass (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - ai (1)
 

@@ -36,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%209%20Testing%20Ethereum%20Apps.md)
@@ -55,20 +55,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Testing Ethereum Apps**](#1-testing-ethereum-apps) (10 videos)
-  - Blockchain dApp testing
-  - Deploying your dApp to a test blockchain
-  - Writing tests for Ethereum dApps
-  - Command-line testing, part 1
-  - Command-line testing, part 2
-  - Command-line testing, part 3
-  - JavaScript testing
-  - Logging and handling errors
-  - Logging activity in smart contracts
-  - Fixing bugs in a dApp
+  - [Blockchain dApp testing](#blockchain-dapp-testing)
+  - [Deploying your dApp to a test blockchain](#deploying-your-dapp-to-a-test-blockchain)
+  - [Writing tests for Ethereum dApps](#writing-tests-for-ethereum-dapps)
+  - [Command-line testing, part 1](#command-line-testing-part-1)
+  - [Command-line testing, part 2](#command-line-testing-part-2)
+  - [Command-line testing, part 3](#command-line-testing-part-3)
+  - [JavaScript testing](#javascript-testing)
+  - [Logging and handling errors](#logging-and-handling-errors)
+  - [Logging activity in smart contracts](#logging-activity-in-smart-contracts)
+  - [Fixing bugs in a dApp](#fixing-bugs-in-a-dapp)
 
 ### 1. Testing Ethereum Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain dApp testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980)
@@ -293,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (5), else. (1), throw (1), finally, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (30), [[Cryptocurrency]] (4), [[Smart Contracts]] (3), data (3), next (2)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), means that (1), basically means (1), is an  (1)
 > **Analogies:** just like (2), similar to (1)
@@ -475,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (1), this. (1), require (1), function (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Smart Contracts]] (5), [[JavaScript]] (3), [[Tokens]] (2), next (1)
 > **Code Identifiers:** erc20token (7), contracts_migrations (1)
 > **File Paths:** truffle-config.js (2), contracts_migrations.js (1), migrations.js (1)
 > **Env Vars:** evm (3), rpc (1)
@@ -633,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Smart Contracts]] (4), [[Solidity]] (4), [[Blockchain]] (3), next (2)
 > **CLI Commands:** make (12)
-> **Code Keywords:** function (7), pass (1), let (1), type. (1)
 > **Tools:** command line (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - okay (1)
@@ -734,8 +734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** this, (2), let (1), this. (1)
 > **Tools:** command line (2), vs code (1), terminal (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - testing (1)
@@ -963,7 +963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (6), case, (2), default, (1), except, (1)
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (11), next (3), [[Blockchain]] (3), [[JSON]] (2)
 > **Env Vars:** json (2), gihi (1), jkl (1), abc (1), def (1)
 > **Definitions:** is a  (4), basically means (1), means that (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -1054,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2)
+> **Frameworks & Libraries:** product (9), [[Blockchain]] (2), [[Fetch]] (1), [[Programming]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - all (1)
@@ -1188,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), assert (4), pass (1), await (1)
+> **Frameworks & Libraries:** [[Solidity]] (6), [[JavaScript]] (6), data (3), [[Blockchain]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Definitions:** is a  (3), in other words (1), basically means (1)
 > **Tools:** terminal (2), command line (1), visual studio (1)
 > **CLI Commands:** go run (1)
@@ -1328,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4), function (3), require (2), assert (1)
+> **Frameworks & Libraries:** [[Solidity]] (7), [[JavaScript]] (4), [[Smart Contracts]] (2), [[Blockchain]] (2), node (1)
 > **CLI Commands:** make (5), node (1)
 > **Definitions:** in other words (3), is a  (2)
 > **Code Identifiers:** basicmath (3)
@@ -1412,8 +1412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (11), data (6), [[Solidity]] (4), [[Search]] (3), feature (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), let (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** means that (1)
@@ -1535,8 +1535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Solidity]] (1), data (1), next (1)
 > **CLI Commands:** find (8), make (4)
-> **Code Keywords:** function (3), let (2), pass (1), else. (1)
 > **Env Vars:** ide (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)

@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-neural-networks
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Build%20a%20Neural%20Network%20with%20PyTorch%20Lightning%20(2023).md)
@@ -51,33 +51,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - AI workshop: Build a neural network with PyTorch Lightning
-  - Prerequisites
-  - Quick overview of neural networks
+  - [AI workshop: Build a neural network with PyTorch Lightning](#ai-workshop-build-a-neural-network-with-pytorch-lightning)
+  - [Prerequisites](#prerequisites)
+  - [Quick overview of neural networks](#quick-overview-of-neural-networks)
 - [**1. Building a Neural Network with PyTorch**](#1-building-a-neural-network-with-pytorch) (8 videos)
-  - Setting up the virtual environment
-  - Loading and exploring regression data
-  - Preprocessing data for training
-  - Creating a simple neural network
-  - Setting up the dataset and DataLoader
-  - Training a neural network using PyTorch
-  - Visualizing losses and evaluating models
-  - Building and training a more complex neural network
+  - [Setting up the virtual environment](#setting-up-the-virtual-environment)
+  - [Loading and exploring regression data](#loading-and-exploring-regression-data)
+  - [Preprocessing data for training](#preprocessing-data-for-training)
+  - [Creating a simple neural network](#creating-a-simple-neural-network)
+  - [Setting up the dataset and DataLoader](#setting-up-the-dataset-and-dataloader)
+  - [Training a neural network using PyTorch](#training-a-neural-network-using-pytorch)
+  - [Visualizing losses and evaluating models](#visualizing-losses-and-evaluating-models)
+  - [Building and training a more complex neural network](#building-and-training-a-more-complex-neural-network)
 - [**2. Using PyTorch Lightning to Build a Regression Model**](#2-using-pytorch-lightning-to-build-a-regression-model) (3 videos)
-  - Encapsulating data using a LightningDataModule
-  - Encapsulating a model using a LightningModule
-  - Training the model using the PyTorch Lightning Trainer
+  - [Encapsulating data using a LightningDataModule](#encapsulating-data-using-a-lightningdatamodule)
+  - [Encapsulating a model using a LightningModule](#encapsulating-a-model-using-a-lightningmodule)
+  - [Training the model using the PyTorch Lightning Trainer](#training-the-model-using-the-pytorch-lightning-trainer)
 - [**3. Using PyTorch Lightning to Build a Classification Model**](#3-using-pytorch-lightning-to-build-a-classification-model) (4 videos)
-  - Loading and exploring classification data
-  - Creating a LightningDataModule
-  - Creating a LightningModule
-  - Training a classification model and evaluating metrics
+  - [Loading and exploring classification data](#loading-and-exploring-classification-data)
+  - [Creating a LightningDataModule](#creating-a-lightningdatamodule)
+  - [Creating a LightningModule](#creating-a-lightningmodule)
+  - [Training a classification model and evaluating metrics](#training-a-classification-model-and-evaluating-metrics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI workshop: Build a neural network with PyTorch Lightning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980)
@@ -182,8 +182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PyTorch]] (33), [[Neural Networks]] (6), data (5), ai (2), [[Deep Learning]] (2)
 > **Definitions:** is an  (3), is a  (1), known as (1)
-> **Code Keywords:** interface (2), function (1), this. (1)
 > **Env Vars:** api (2), gpu (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** python (2)
@@ -216,8 +216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Python (Programming Language)|Python]] (2), ai (1), next (1), [[Programming]] (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** let (1), function (1), finally, (1)
 > **Prerequisites:** you need to have (3)
 > **Cross-References:** in the next (1)
 
@@ -308,7 +308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), pass (3), let (1)
+> **Frameworks & Libraries:** data (12), [[Neural Networks]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1)
@@ -316,7 +316,7 @@ created: 2026-04-29
 
 ### 1. Building a Neural Network with PyTorch
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the virtual environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/setting-up-the-virtual-environment?u=76281980)
@@ -411,8 +411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[PyTorch]] (10), prompt (2)
 > **CLI Commands:** python (13), make (2), pip (1), find (1)
-> **Code Keywords:** let (6), switch (3), module (2)
 > **Prerequisites:** install (7), set up (3), make sure you have (1)
 > **Code Identifiers:** pytorch_venv (9)
 > **Tools:** jupyter (8)
@@ -533,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (3), throw (1), function (1), type. (1)
+> **Frameworks & Libraries:** data (13), [[PyTorch]] (8), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2), next (2)
 > **CLI Commands:** pip (4), make (4), python (2)
 > **Prerequisites:** install (5), you'll need (2), set up (2), make sure you have (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -665,7 +665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (1), default. (1)
+> **Frameworks & Libraries:** data (22), feature (4), [[Neural Networks]] (4), next (2), [[PyTorch]] (1)
 > **Code Identifiers:** fit_transform (2), min_max_scaler (2), from_numpy (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
@@ -787,7 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), module (5), pass (2), class. (1)
+> **Frameworks & Libraries:** data (8), [[PyTorch]] (2), [[Neural Networks]] (2), management (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** cpu (1), gpu (1), mse (1)
 > **CLI Commands:** find (1), make (1)
@@ -849,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), module (1), abstract (1), let (1)
+> **Frameworks & Libraries:** data (19), [[PyTorch]] (3), next (1)
 > **Definitions:** is an  (2)
 > **Warnings:** heads up (1)
 > **Prerequisites:** set up (1)
@@ -991,8 +991,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[PyTorch]] (6), next (4), [[Google]] (1), api (1)
 > **Env Vars:** gpu (10), cpu (7), sgd (2), cuda (1), api (1)
-> **Code Keywords:** pass (5), function (5), let (2), abstract (1), switch (1)
 > **Code Identifiers:** is_available (2), no_grad (2), loss_stats (1), train_loss (1)
 > **Versions:** 0.01 (2), 0.07 (1), 0.011 (1), 0.008 (1), 0.010 (1)
 > **Definitions:** is a  (5), means that (1)
@@ -1063,7 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1)
+> **Frameworks & Libraries:** data (13), [[Statistics]] (1)
 > **Code Identifiers:** y_true (2), no_grad (1), y_pred (1)
 > **Definitions:** is a  (2)
 > **Versions:** 0.797 (1)
@@ -1202,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), pass (4), module (1), class, (1)
+> **Frameworks & Libraries:** data (6), [[Linear Regression]] (1), next (1), hit (1)
 > **Versions:** 0.041 (1), 0.007 (1), 0.005 (1), 0.881 (1)
 > **Prerequisites:** set up (3)
 > **Tools:** jupyter (2)
@@ -1214,7 +1214,7 @@ created: 2026-04-29
 
 ### 2. Using PyTorch Lightning to Build a Regression Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Encapsulating data using a LightningDataModule
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/encapsulating-data-using-a-lightningdatamodule?u=76281980)
@@ -1339,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (10), let (5), function (4), abstract (1), class, (1)
+> **Frameworks & Libraries:** data (37), [[PyTorch]] (15), [[Programming]] (1), [[Deep Learning]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** train_dataloader (3), val_dataloader (2), prepare_data (1), train_inputs (1), train_targets (1)
 > **Prerequisites:** set up (2), setup (2), install (1), you'll need (1)
 > **CLI Commands:** make (2), pip (1)
@@ -1441,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (12), self (10), pass (10), function (5), class. (4)
+> **Frameworks & Libraries:** [[PyTorch]] (9), data (8), [[Deep Learning]] (1), next (1)
 > **Code Identifiers:** save_hyperparameters (5)
 > **Prerequisites:** set up (3), setup (1), configure (1)
 > **CLI Commands:** make (4)
@@ -1551,7 +1551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (4), class, (2), class. (1), pass (1)
+> **Frameworks & Libraries:** data (14), [[PyTorch]] (6), next (2)
 > **Env Vars:** gpu (3), csv (1), tpu (1), cpu (1)
 > **Versions:** 0.00598 (1), 0.00477 (1), 0.882 (1)
 > **Definitions:** is a  (3)
@@ -1563,7 +1563,7 @@ created: 2026-04-29
 
 ### 3. Using PyTorch Lightning to Build a Classification Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading and exploring classification data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/loading-and-exploring-classification-data?u=76281980)
@@ -1658,7 +1658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), module (1), finally, (1), type. (1)
+> **Frameworks & Libraries:** data (16), [[PyTorch]] (3), next (2), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** set up (2)
@@ -1750,7 +1750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (4), class. (2), function (2), finally, (1)
+> **Frameworks & Libraries:** data (25), [[PyTorch]] (2), power (1), next (1)
 > **Code Identifiers:** prepare_data (3), train_dataloader (2), drop_duplicates (1), train_test_split (1), fit_transform (1)
 > **Prerequisites:** set up (5), setup (2)
 > **Env Vars:** gpu (1), csv (1)
@@ -1853,7 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), module (2), self (2), function (2), class. (1)
+> **Frameworks & Libraries:** [[Probability]] (8), data (7), [[PyTorch]] (1), next (1)
 > **Env Vars:** bce (4)
 > **Definitions:** refers to (1), stands for (1), is an  (1)
 > **Code Identifiers:** save_hyperparameters (1), configure_optimizers (1)
@@ -1946,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (3), pass (1), function (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[PyTorch]] (2), next (1), [[Probability]] (1), hit (1)
 > **Versions:** 0.859 (2), 0.819 (1), 0.268 (1), 0.41 (1), 0.785 (1)
 > **Env Vars:** csv (1), gpu (1), cpu (1)
 > **File Paths:** metrics.csv (1)
@@ -1954,7 +1954,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/summary-and-next-steps?u=76281980)
@@ -1983,6 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PyTorch]] (9), ai (3), [[Neural Networks]] (2), next (1), [[LinkedIn]] (1)
 > **Exercise Files:** boilerplate (2)
 > **Cross-References:** we discussed (1)
 

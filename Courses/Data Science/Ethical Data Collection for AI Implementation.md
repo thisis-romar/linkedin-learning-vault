@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-ethics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Ethical%20Data%20Collection%20for%20AI%20Implementation.md)
@@ -52,28 +52,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Ethics comes before the data
+  - [Ethics comes before the data](#ethics-comes-before-the-data)
 - [**1. Balancing Effectiveness and Ethics**](#1-balancing-effectiveness-and-ethics) (4 videos)
-  - Defining ethical objectives and key results
-  - Developing a data governance framework
-  - Implementing data protection measures
-  - Selecting data collection tools
+  - [Defining ethical objectives and key results](#defining-ethical-objectives-and-key-results)
+  - [Developing a data governance framework](#developing-a-data-governance-framework)
+  - [Implementing data protection measures](#implementing-data-protection-measures)
+  - [Selecting data collection tools](#selecting-data-collection-tools)
 - [**2. Ethical Strategies for Responsible Data Collection**](#2-ethical-strategies-for-responsible-data-collection) (4 videos)
-  - Obtaining explicit and ongoing data collection consent
-  - Protecting privacy through anonymization and encryption
-  - Mitigating biases in data
-  - Following ethical review processes
+  - [Obtaining explicit and ongoing data collection consent](#obtaining-explicit-and-ongoing-data-collection-consent)
+  - [Protecting privacy through anonymization and encryption](#protecting-privacy-through-anonymization-and-encryption)
+  - [Mitigating biases in data](#mitigating-biases-in-data)
+  - [Following ethical review processes](#following-ethical-review-processes)
 - [**3. Practical Concerns Blocking Responsible Data Collection**](#3-practical-concerns-blocking-responsible-data-collection) (4 videos)
-  - Violating data privacy regulations
-  - Lacking an established data strategy
-  - Choosing the right tools and configurations
-  - Mishandling data assets and the fear of messing up
+  - [Violating data privacy regulations](#violating-data-privacy-regulations)
+  - [Lacking an established data strategy](#lacking-an-established-data-strategy)
+  - [Choosing the right tools and configurations](#choosing-the-right-tools-and-configurations)
+  - [Mishandling data assets and the fear of messing up](#mishandling-data-assets-and-the-fear-of-messing-up)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethics comes before the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980)
@@ -94,13 +94,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), ai (2), [[Ethics]] (1), teams (1), management (1)
 > **Speakers:** - as (1)
 
 
 ### 1. Balancing Effectiveness and Ethics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining ethical objectives and key results
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980)
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1)
+> **Frameworks & Libraries:** data (25), [[Privacy]] (4), [[Accountability]] (1), next (1), [[Security]] (1)
 > **Speakers:** - just (1)
 
 #### Developing a data governance framework
@@ -269,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (16), [[Google]] (1), business (1), [[Microsoft Products|Products]] (1), [[Security]] (1)
 > **Code Identifiers:** iphone (2)
 > **Prerequisites:** install (2)
 > **Speakers:** - okay (1)
@@ -341,7 +341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (1)
+> **Frameworks & Libraries:** data (14), [[Security]] (3), business (1), [[Algorithms]] (1), [[Windows]] (1)
 > **Analogies:** for example (2), kind of like (1)
 > **Env Vars:** pii (2)
 > **CLI Commands:** make (1)
@@ -417,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), default. (1)
+> **Frameworks & Libraries:** data (13), ai (3), [[Privacy]] (3), next (3), management (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
@@ -428,7 +428,7 @@ created: 2026-04-29
 
 ### 2. Ethical Strategies for Responsible Data Collection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Obtaining explicit and ongoing data collection consent
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980)
@@ -497,7 +497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** data (13), business (1), [[Privacy]] (1), next (1)
 > **Env Vars:** faq (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -563,7 +563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), public (1)
+> **Frameworks & Libraries:** data (17), [[Privacy]] (4), [[Regulatory Compliance]] (1), business (1), [[Banking]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1), vpn (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - data (1)
@@ -653,6 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Algorithms]] (5), teams (3), ai (1), management (1)
 > **Env Vars:** dama (1), dmbok (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -715,8 +716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Ethics]] (7), ai (7), [[Privacy]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** protected (2)
 > **Versions:** 1.6 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - before (1)
@@ -724,7 +725,7 @@ created: 2026-04-29
 
 ### 3. Practical Concerns Blocking Responsible Data Collection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Violating data privacy regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980)
@@ -803,8 +804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), ai (4), [[Privacy]] (2), next (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** hipaa (2), gdpr (2), ccpa (2), ftc (1), sec (1)
-> **Code Keywords:** public (3), let (2), case, (1)
 > **Versions:** 1.5 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
@@ -890,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (20), ai (4), teams (4), leadership (3), [[Banking]] (1)
 > **Cross-References:** next video (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - like (1)
@@ -970,8 +971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), ai (4), [[Privacy]] (2), teams (1), [[Search]] (1)
 > **Code Identifiers:** zybooks (4)
-> **Code Keywords:** let (2), public (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** aes (1)
@@ -1043,9 +1044,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Privacy]] (2), [[Ethics]] (2), next (2), [[Google]] (1)
 > **Env Vars:** iso (1), ieee (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -1054,7 +1055,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980)
@@ -1083,6 +1084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[LinkedIn]] (2), ai (1)
 > **Speakers:** - well (1)
 
 

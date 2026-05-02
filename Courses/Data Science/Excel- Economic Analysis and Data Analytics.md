@@ -38,7 +38,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Economic%20Analysis%20and%20Data%20Analytics.md)
@@ -57,44 +57,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Economic forecasting
-  - What you should know before watching this course
-  - Using the exercise files
+  - [Economic forecasting](#economic-forecasting)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1.The Basics**](#1the-basics) (6 videos)
-  - Basics of economic analysis
-  - Sources of economic data
-  - Economic forecasting methods
-  - Regression analysis in economics
-  - Predicting values with regressions
-  - Economic forecasting in the research literature
+  - [Basics of economic analysis](#basics-of-economic-analysis)
+  - [Sources of economic data](#sources-of-economic-data)
+  - [Economic forecasting methods](#economic-forecasting-methods)
+  - [Regression analysis in economics](#regression-analysis-in-economics)
+  - [Predicting values with regressions](#predicting-values-with-regressions)
+  - [Economic forecasting in the research literature](#economic-forecasting-in-the-research-literature)
 - [**2. Economic Data Analysis**](#2-economic-data-analysis) (5 videos)
-  - Trend analysis in forecasting
-  - Serial correlation in data
-  - Analyzing results
-  - Using Gen AI in economics forecasting
-  - Gen AI and data
+  - [Trend analysis in forecasting](#trend-analysis-in-forecasting)
+  - [Serial correlation in data](#serial-correlation-in-data)
+  - [Analyzing results](#analyzing-results)
+  - [Using Gen AI in economics forecasting](#using-gen-ai-in-economics-forecasting)
+  - [Gen AI and data](#gen-ai-and-data)
 - [**3. Forecasting Economic Trends**](#3-forecasting-economic-trends) (6 videos)
-  - Advanced forecasting methods
-  - Binomial regressions
-  - Fixed effects regressions
-  - Difference in differences analysis
-  - Stata and economic forecasting
-  - Interpreting Stata results
+  - [Advanced forecasting methods](#advanced-forecasting-methods)
+  - [Binomial regressions](#binomial-regressions)
+  - [Fixed effects regressions](#fixed-effects-regressions)
+  - [Difference in differences analysis](#difference-in-differences-analysis)
+  - [Stata and economic forecasting](#stata-and-economic-forecasting)
+  - [Interpreting Stata results](#interpreting-stata-results)
 - [**4. Using Economic Forecasts**](#4-using-economic-forecasts) (3 videos)
-  - What do the results mean?
-  - Testing accuracy in economic forecasts
-  - Scenario analysis in economics
+  - [What do the results mean?](#what-do-the-results-mean)
+  - [Testing accuracy in economic forecasts](#testing-accuracy-in-economic-forecasts)
+  - [Scenario analysis in economics](#scenario-analysis-in-economics)
 - [**5. Economic Data**](#5-economic-data) (4 videos)
-  - Common economic variables
-  - Lead and lag relationships
-  - Seasonality and data cleaning
-  - Interpreting other's economic forecasts
+  - [Common economic variables](#common-economic-variables)
+  - [Lead and lag relationships](#lead-and-lag-relationships)
+  - [Seasonality and data cleaning](#seasonality-and-data-cleaning)
+  - [Interpreting other's economic forecasts](#interpreting-others-economic-forecasts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Projects to try next
+  - [Projects to try next](#projects-to-try-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Economic forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), [[Forecasting]] (2), business (2), [[Analytics]] (1), career (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hello (1)
 
@@ -154,9 +154,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Statistics]] (4)
 > **Prerequisites:** you'll need (3), getting started (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using the exercise files
@@ -180,14 +180,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Exercise Files:** exercise files (2), download the (1), exercise file (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1.The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of economic analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/basics-of-economic-analysis?u=76281980)
@@ -236,6 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Forecasting]] (1), product (1), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** gdp (1)
@@ -290,7 +291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1)
+> **Frameworks & Libraries:** data (20), [[Business Intelligence (BI)|Business intelligence]] (1), [[Analytics]] (1), [[Financial Data]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -366,6 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Forecasting]] (6), business (2), [[Forms]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** vix (2), gdp (1)
 > **Analogies:** for example (1)
@@ -460,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (6), power (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), from. (2), case, (1)
 > **Definitions:** is a  (2), is called (1), refers to (1), is an  (1)
 > **Analogies:** for example (2), picture (2)
 > **Versions:** 1.57 (3)
@@ -540,7 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 1.57 (2), 5.436 (1), 30.3 (1), 0.3030 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -641,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (13), let (3), function (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Probability]] (4), product (3), [[Forecasting]] (2), power (2), [[Google]] (1)
 > **Env Vars:** gdp (2), arima (2), ssrn (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** coming up (1), in the next (1)
@@ -653,7 +655,7 @@ created: 2026-04-29
 
 ### 2. Economic Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trend analysis in forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980)
@@ -788,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), this. (1)
+> **Frameworks & Libraries:** data (18), [[Microsoft Excel|Excel]] (3), hit (3), [[Forecasting]] (2)
 > **Versions:** 2.1 (3), 85.02 (2), 0.5 (1), 089.21 (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
@@ -920,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (2), function (1)
+> **Frameworks & Libraries:** data (6), next (1)
 > **Versions:** 0.1 (3), 1.5 (1), 0.086 (1), 0.002 (1)
 > **Env Vars:** e18 (2), h1732 (1), b17 (1), g18 (1)
 > **Definitions:** means that (3), in other words (1), is an  (1)
@@ -1100,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (3), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 1.0 (1), 0.05 (1), 6.664 (1), 0.035 (1), 1.5 (1)
 > **Definitions:** is a  (4), in other words (2)
 > **Env Vars:** h1729 (1), i1729 (1), k1729 (1)
@@ -1286,8 +1288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[ChatGPT]] (4), [[Generative AI]] (2), ai (2), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** fred (5), gdp (4), csv (3), bea (2), pice (1)
-> **Code Keywords:** let (4), switch (2), this, (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -1369,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1)
+> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[ChatGPT]] (2), [[Economic Analysis]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** gdp (4)
 > **Versions:** 0.1725 (1), 3.5 (1), 0.005 (1), 2.94 (1)
 > **Warnings:** be careful (1)
@@ -1378,7 +1380,7 @@ created: 2026-04-29
 
 ### 3. Forecasting Economic Trends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced forecasting methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/advanced-forecasting-methods?u=76281980)
@@ -1437,9 +1439,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2)
 > **Definitions:** is a  (6)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** this. (1), let (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1490,8 +1492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (2), data (2), [[Forms]] (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** default. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Fixed effects regressions
@@ -1627,7 +1629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), raise (2), delete (1), function (1)
+> **Frameworks & Libraries:** data (8), next (2), [[Microsoft Excel|Excel]] (2), database (1)
 > **Env Vars:** fred (1), cpi (1), sas (1), c687 (1)
 > **Warnings:** note that (1), be aware (1)
 > **CLI Commands:** make (1)
@@ -1733,7 +1735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), raise (1), this. (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2), we call this (1), in other words (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -1832,7 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (14), [[Stata]] (12), [[Microsoft Excel|Excel]] (5), [[Forecasting]] (2), [[LinkedIn]] (1)
 > **Versions:** 1.2 (2)
 > **Tools:** command line (2)
 > **Definitions:** is a  (2)
@@ -1956,7 +1958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), return, (1), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Stata]] (8), [[Microsoft Excel|Excel]] (5), data (3), [[Economic Analysis]] (1), power (1)
 > **Analogies:** for instance (3), for example (1), picture (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gls (1)
@@ -1967,7 +1969,7 @@ created: 2026-04-29
 
 ### 4. Using Economic Forecasts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What do the results mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-do-the-results-mean?u=76281980)
@@ -2176,7 +2178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2), switch (1)
+> **Frameworks & Libraries:** data (15), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **Env Vars:** ltr2 (3), reit (3), ltr1 (2), ltr (1), ltr3 (1)
 > **Versions:** 21.19 (1), 16.05 (1), 15.7 (1), 44.1 (1), 0.1 (1)
 > **UI Navigation:** go to (2), switch to (1), scroll down (1)
@@ -2328,8 +2330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), hit (3), next (1)
 > **Env Vars:** reit (10), gdp (3), ltr2 (3), c317 (1), j317 (1)
-> **Code Keywords:** let (4), this, (2), switch (1)
 > **CLI Commands:** make (6)
 > **Versions:** 426.66 (1), 39.6 (1), 1.8 (1), 643.88 (1), 697.57 (1)
 > **Analogies:** for example (3)
@@ -2446,8 +2448,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (1), data (1), next (1)
 > **Env Vars:** gdp (5), ltr2 (5), ltr4 (3), reit (2), cboe (1)
-> **Code Keywords:** case, (2), finally, (2), this, (1), let (1), raise (1)
 > **Versions:** 39.6 (1), 1.8 (1), 2.3 (1), 2.7 (1), 1.5 (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** drag and drop (2)
@@ -2458,7 +2460,7 @@ created: 2026-04-29
 
 ### 5. Economic Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common economic variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980)
@@ -2567,8 +2569,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (42), [[Microsoft Excel|Excel]] (10), product (3), [[Forecasting]] (2), [[Economic Analysis]] (2)
 > **Env Vars:** fred (21), bea (6), bls (5), sp500 (3), fed (2)
-> **Code Keywords:** let (5), from. (1), this, (1), for. (1), from, (1)
 > **Analogies:** for example (5), for instance (4)
 > **CLI Commands:** make (5), find (3)
 > **URLs:** [bls.gov](https://bls.gov) (1), [bea.gov](https://bea.gov) (1)
@@ -2677,7 +2679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), this, (1)
+> **Frameworks & Libraries:** power (3), data (2), [[Stata]] (2), [[Forecasting]] (1)
 > **Env Vars:** lei (3), prc (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
@@ -2804,10 +2806,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Microsoft Excel|Excel]] (2), [[Economic Analysis]] (1), product (1)
 > **Analogies:** for instance (3), for example (3)
 > **CLI Commands:** make (5)
 > **Versions:** 0.96 (1), 1.11 (1), 1.1 (1), 338.74 (1)
-> **Code Keywords:** let (1), this. (1)
 > **Env Vars:** bea (2)
 > **Cross-References:** earlier in (1), in the last (1)
 > **Definitions:** is a  (1)
@@ -2918,10 +2920,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (3), next (2), [[Probability]] (1), management (1)
 > **Env Vars:** gdp (6), mufg (3), cpi (1)
 > **Versions:** 2.4 (2), 3.3 (1), 7.5 (1), 1.8 (1), 3.5 (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), case. (1)
 > **Analogies:** similar to (1), for instance (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
@@ -2929,7 +2931,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Projects to try next
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980)
@@ -2962,6 +2964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Forecasting]] (4), [[Microsoft Excel|Excel]] (1), [[Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** fred (1)
 > **Speakers:** - [michael] (1)

@@ -33,7 +33,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Developer%20Career%20Paths%20and%20Certifications.md)
@@ -52,40 +52,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - So, you want to be a developer?
+  - [So, you want to be a developer?](#so-you-want-to-be-a-developer)
 - [**1. Planning to Be a Developer**](#1-planning-to-be-a-developer) (4 videos)
-  - What types of developers are there?
-  - Which developer type should you pick?
-  - What is a typical career path?
-  - How much will you make?
+  - [What types of developers are there?](#what-types-of-developers-are-there)
+  - [Which developer type should you pick?](#which-developer-type-should-you-pick)
+  - [What is a typical career path?](#what-is-a-typical-career-path)
+  - [How much will you make?](#how-much-will-you-make)
 - [**2. Education**](#2-education) (5 videos)
-  - Do you need a college degree?
-  - What should your education plan include?
-  - Can you switch from a different career?
-  - How do you choose what to learn?
-  - Are certifications required?
+  - [Do you need a college degree?](#do-you-need-a-college-degree)
+  - [What should your education plan include?](#what-should-your-education-plan-include)
+  - [Can you switch from a different career?](#can-you-switch-from-a-different-career)
+  - [How do you choose what to learn?](#how-do-you-choose-what-to-learn)
+  - [Are certifications required?](#are-certifications-required)
 - [**3. Finding a Job**](#3-finding-a-job) (4 videos)
-  - How do developers find jobs?
-  - Should you use a recruiter?
-  - What should your resume/profile include?
-  - What do you need besides a resume/profile?
+  - [How do developers find jobs?](#how-do-developers-find-jobs)
+  - [Should you use a recruiter?](#should-you-use-a-recruiter)
+  - [What should your resume/profile include?](#what-should-your-resumeprofile-include)
+  - [What do you need besides a resume/profile?](#what-do-you-need-besides-a-resumeprofile)
 - [**4. The Application Process**](#4-the-application-process) (4 videos)
-  - Submitting an application
-  - The phone interview
-  - How do you prepare for coding challenges?
-  - The best interview questions
+  - [Submitting an application](#submitting-an-application)
+  - [The phone interview](#the-phone-interview)
+  - [How do you prepare for coding challenges?](#how-do-you-prepare-for-coding-challenges)
+  - [The best interview questions](#the-best-interview-questions)
 - [**5. Negotiating Compensation**](#5-negotiating-compensation) (3 videos)
-  - How do you know what you're worth?
-  - How do you negotiate your best deal?
-  - Compensation vs. salary
+  - [How do you know what you're worth?](#how-do-you-know-what-youre-worth)
+  - [How do you negotiate your best deal?](#how-do-you-negotiate-your-best-deal)
+  - [Compensation vs. salary](#compensation-vs-salary)
 - [**6. Getting the Job**](#6-getting-the-job) (3 videos)
-  - How do you prepare for your new job?
-  - What should you do after you get the job?
-  - How do you plan your next play?
+  - [How do you prepare for your new job?](#how-do-you-prepare-for-your-new-job)
+  - [What should you do after you get the job?](#what-should-you-do-after-you-get-the-job)
+  - [How do you plan your next play?](#how-do-you-plan-your-next-play)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### So, you want to be a developer?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/so-you-want-to-be-a-developer?u=76281980)
@@ -112,13 +112,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1)
+> **Frameworks & Libraries:** career (6), [[Search]] (1)
 > **Speakers:** - when (1)
 
 
 ### 1. Planning to Be a Developer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What types of developers are there?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980)
@@ -167,8 +167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), game (3), data (3), [[Python (Programming Language)|Python]] (3), [[Hardware]] (2)
 > **CLI Commands:** python (3)
-> **Code Keywords:** else. (1), let (1), interface (1)
 > **Env Vars:** html (1), css (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** known as (1)
@@ -228,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), class, (1), try. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), career (1), [[Programming]] (1), [[Programming Concepts]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - i (1)
@@ -300,7 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
+> **Frameworks & Libraries:** teams (4), management (2), [[Software Development]] (1), next (1), business (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
@@ -352,8 +352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), [[Search]] (1), [[Statistics]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), self (1)
 > **Versions:** 1.6 (1)
 > **Best Practices:** you should never (1)
 > **Warnings:** be careful (1)
@@ -362,7 +362,7 @@ created: 2026-04-29
 
 ### 2. Education
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Do you need a college degree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980)
@@ -413,7 +413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), require (1), yield (1)
+> **Frameworks & Libraries:** career (1), [[Microsoft]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ibm (1), gpa (1)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - my (1)
@@ -489,8 +489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), next (1), [[Windows]] (1), [[Algorithms]] (1), data (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** class. (1), new. (1), let (1)
 > **Env Vars:** sql (1), nosql (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
@@ -560,7 +560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), while, (1)
+> **Frameworks & Libraries:** career (2), [[LinkedIn]] (2), [[Graphic Design]] (1), hr (1)
 > **CLI Commands:** find (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **UI Navigation:** switch to (1)
@@ -617,10 +617,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), dom (2), game (1), [[GitHub]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** dom (2)
 > **Prerequisites:** install (2)
-> **Code Keywords:** finally, (1)
 > **Documentation:** stack overflow (1)
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
@@ -669,14 +669,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** feature (1), business (1), [[Agile Development|Agile]] (1), management (1), [[Microsoft]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - certifications (1)
 
 
 ### 3. Finding a Job
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do developers find jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980)
@@ -727,8 +727,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), career (1), [[Graphic Design]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** while, (2), for. (1)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - when (1)
 
@@ -789,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** generic (2), career (2), [[GitHub]] (1), open-source (1), [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - some (1)
@@ -831,6 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[GitHub]] (1), traffic (1), business (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpa (1)
 > **Documentation:** stack overflow (1)
@@ -900,6 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), web (2), [[Analytics]] (1), data (1), feature (1)
 > **Tools:** github (6)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** readme (3)
@@ -909,7 +911,7 @@ created: 2026-04-29
 
 ### 4. The Application Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Submitting an application
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980)
@@ -944,9 +946,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[React.js|React]] (1), [[Vue.js]] (1), [[LinkedIn]] (1), hit (1)
 > **CLI Commands:** make (2), find (1)
 > **File Paths:** vue.js (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - submitting (1)
 
@@ -1003,8 +1005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Interviewing]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), job description (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** pass (1), for, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)
@@ -1062,7 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), try. (1)
+> **Frameworks & Libraries:** application (1), [[LinkedIn]] (1), generic (1), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1108,7 +1110,7 @@ created: 2026-04-29
 
 ### 5. Negotiating Compensation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do you know what you're worth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980)
@@ -1155,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (3), for, (1)
+> **Frameworks & Libraries:** career (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3)
 > **Versions:** 2.3 (1)
 > **Documentation:** stack overflow (1)
@@ -1201,8 +1203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** this, (1), let (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - you (1)
 
@@ -1263,7 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), finally, (1), this: (1), match, (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
 > **Speakers:** - most (1)
@@ -1271,7 +1273,7 @@ created: 2026-04-29
 
 ### 6. Getting the Job
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do you prepare for your new job?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-your-new-job?u=76281980)
@@ -1314,7 +1316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1), this. (1)
+> **Frameworks & Libraries:** next (1), [[Search]] (1)
 > **CLI Commands:** make (2)
 > **Documentation:** stack overflow (1)
 > **Definitions:** is a  (1)
@@ -1355,6 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), career (1), [[Programming]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - it (1)
 
@@ -1395,6 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), next (2), leadership (1), career (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - one (1)

@@ -30,7 +30,7 @@ tags:
   - skill/sales-presentations
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20for%20Executive%20Sales%20Presentations.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Prepare to win with your B2B sales presentations
-  - Who should take this course and why
+  - [Prepare to win with your B2B sales presentations](#prepare-to-win-with-your-b2b-sales-presentations)
+  - [Who should take this course and why](#who-should-take-this-course-and-why)
 - [**1. Leverage AI to Develop Your B2B Strategy Skills**](#1-leverage-ai-to-develop-your-b2b-strategy-skills) (3 videos)
-  - B2B strategic selling and executive engagement defined
-  - Establishing key differentiators: AI-assisted B2B sales strategy
-  - Analyze your B2B competitors to fine-tune competitive blocks
+  - [B2B strategic selling and executive engagement defined](#b2b-strategic-selling-and-executive-engagement-defined)
+  - [Establishing key differentiators: AI-assisted B2B sales strategy](#establishing-key-differentiators-ai-assisted-b2b-sales-strategy)
+  - [Analyze your B2B competitors to fine-tune competitive blocks](#analyze-your-b2b-competitors-to-fine-tune-competitive-blocks)
 - [**2. Guarantee an Authentic Connection with Your Executive Sponsor**](#2-guarantee-an-authentic-connection-with-your-executive-sponsor) (2 videos)
-  - Leverage AI to formulate executive intelligence to connect
-  - Deploy win themes to gain executive receptivity
+  - [Leverage AI to formulate executive intelligence to connect](#leverage-ai-to-formulate-executive-intelligence-to-connect)
+  - [Deploy win themes to gain executive receptivity](#deploy-win-themes-to-gain-executive-receptivity)
 - [**3. Create a Winning B2B Prospect Presentation Using AI**](#3-create-a-winning-b2b-prospect-presentation-using-ai) (2 videos)
-  - Select the most effective executive presentation framework using AI
-  - Build your executive presentation using winning content elements
+  - [Select the most effective executive presentation framework using AI](#select-the-most-effective-executive-presentation-framework-using-ai)
+  - [Build your executive presentation using winning content elements](#build-your-executive-presentation-using-winning-content-elements)
 - [**4. Sales Presentation Practice Ensures a Confident Mindset**](#4-sales-presentation-practice-ensures-a-confident-mindset) (2 videos)
-  - Accelerate prospect engagement with AI tips
-  - Advance with your prospect through powerful presentation prep.
+  - [Accelerate prospect engagement with AI tips](#accelerate-prospect-engagement-with-ai-tips)
+  - [Advance with your prospect through powerful presentation prep.](#advance-with-your-prospect-through-powerful-presentation-prep)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Celebrate your big B2B contract after a winning presentation
+  - [Celebrate your big B2B contract after a winning presentation](#celebrate-your-big-b2b-contract-after-a-winning-presentation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare to win with your B2B sales presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/prepare-to-win-with-your-b2b-sales-presentations?u=76281980)
@@ -88,7 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** ai (1)
 > **Speakers:** - as (1)
 
 #### Who should take this course and why
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (1), teams (1), ai (1), [[ChatGPT]] (1)
 > **Env Vars:** b2b (1)
 > **Analogies:** such as (1)
 > **Speakers:** - if (1)
@@ -123,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Leverage AI to Develop Your B2B Strategy Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### B2B strategic selling and executive engagement defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980)
@@ -172,6 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sales Presentations]] (1), next (1), [[Microsoft Products|Products]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -276,7 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), ai (4), [[ChatGPT]] (4), business (4), prompt (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Exercise Files:** exercise files (1)
@@ -370,14 +372,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Products|Products]] (4), product (2), strengths (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - your (1)
 
 
 ### 2. Guarantee an Authentic Connection with Your Executive Sponsor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage AI to formulate executive intelligence to connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980)
@@ -466,8 +468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), prompt (2), [[LinkedIn]] (2), [[ChatGPT]] (2), power (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
@@ -546,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (3), ai (2), [[ChatGPT]] (2), prompt (2), [[LinkedIn]] (1)
 > **Env Vars:** win (12), themes (11)
-> **Code Keywords:** let (2), for, (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -556,7 +558,7 @@ created: 2026-04-29
 
 ### 3. Create a Winning B2B Prospect Presentation Using AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select the most effective executive presentation framework using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980)
@@ -663,9 +665,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), ai (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** b2b (1)
 > **Analogies:** for example (1)
 > **Speakers:** - welcome (1)
@@ -753,8 +755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), next (3), [[Microsoft Products|Products]] (1), hit (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** b2b (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - how (1)
@@ -762,7 +764,7 @@ created: 2026-04-29
 
 ### 4. Sales Presentation Practice Ensures a Confident Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate prospect engagement with AI tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980)
@@ -863,8 +865,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[ChatGPT]] (2), generic (1), ai (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** from, (1), let (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** common mistake (1), keep in mind (1)
 > **Definitions:** is a  (1)
@@ -963,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include: (2), continue (1), yield (1)
+> **Frameworks & Libraries:** next (2), [[ChatGPT]] (2), [[Sales Presentations]] (1), [[Microsoft Products|Products]] (1), [[Generative AI]] (1)
 > **Definitions:** in other words (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -973,7 +975,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Celebrate your big B2B contract after a winning presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980)
@@ -1040,9 +1042,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Products|Products]] (1), [[Resiliency]] (1), ai (1), [[Sales Presentations]] (1)
 > **Env Vars:** top (2), b2b (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - your (1)
 
 

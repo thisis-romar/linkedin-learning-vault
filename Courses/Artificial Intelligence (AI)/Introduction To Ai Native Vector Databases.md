@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Ai%20Native%20Vector%20Databases.md)
@@ -55,47 +55,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learning AI-native vector databases
-  - What you should know
-  - The superpower of vector databases
+  - [Learning AI-native vector databases](#learning-ai-native-vector-databases)
+  - [What you should know](#what-you-should-know)
+  - [The superpower of vector databases](#the-superpower-of-vector-databases)
 - [**1. Data: What Data Do Vector Databases Store and How Is It Stored?**](#1-data-what-data-do-vector-databases-store-and-how-is-it-stored) (6 videos)
-  - Structured versus unstructured data
-  - Human-understandable versus machine-understandable data
-  - Drawing out and visualizing vector representations of data
-  - Introduce the concept of distance between two vectors
-  - Challenge: Working with vectors
-  - Solution: Working with vectors
+  - [Structured versus unstructured data](#structured-versus-unstructured-data)
+  - [Human-understandable versus machine-understandable data](#human-understandable-versus-machine-understandable-data)
+  - [Drawing out and visualizing vector representations of data](#drawing-out-and-visualizing-vector-representations-of-data)
+  - [Introduce the concept of distance between two vectors](#introduce-the-concept-of-distance-between-two-vectors)
+  - [Challenge: Working with vectors](#challenge-working-with-vectors)
+  - [Solution: Working with vectors](#solution-working-with-vectors)
 - [**2. Natural Querying: How Do You Search for Data in a Vector Database?**](#2-natural-querying-how-do-you-search-for-data-in-a-vector-database) (6 videos)
-  - Frame the query as a question or search
-  - Generate the question in machine-understandable language
-  - Adding data to a vector database
-  - Performing semantic searches using Weaviate
-  - Challenge: Vector search with Weaviate
-  - Solution: Vector Search with Weaviate
+  - [Frame the query as a question or search](#frame-the-query-as-a-question-or-search)
+  - [Generate the question in machine-understandable language](#generate-the-question-in-machine-understandable-language)
+  - [Adding data to a vector database](#adding-data-to-a-vector-database)
+  - [Performing semantic searches using Weaviate](#performing-semantic-searches-using-weaviate)
+  - [Challenge: Vector search with Weaviate](#challenge-vector-search-with-weaviate)
+  - [Solution: Vector Search with Weaviate](#solution-vector-search-with-weaviate)
 - [**3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?**](#3-machine-learning-vectors-how-does-a-vector-database-understand-your-data) (5 videos)
-  - Machine learning models and object classification
-  - Translating data from human to machine-understandable
-  - ML models and vector embeddings
-  - Challenge: Search with images and text
-  - Solution: Search with images and text
+  - [Machine learning models and object classification](#machine-learning-models-and-object-classification)
+  - [Translating data from human to machine-understandable](#translating-data-from-human-to-machine-understandable)
+  - [ML models and vector embeddings](#ml-models-and-vector-embeddings)
+  - [Challenge: Search with images and text](#challenge-search-with-images-and-text)
+  - [Solution: Search with images and text](#solution-search-with-images-and-text)
 - [**4. Scalability: What Does a Vector Database Need to Do?**](#4-scalability-what-does-a-vector-database-need-to-do) (5 videos)
-  - Scalability: When to use a vector DB
-  - Ways to measure performance of a vector DB
-  - CRUD operations in vector DBs
-  - Challenge: CRUD and performance
-  - Solution: CRUD and performance
+  - [Scalability: When to use a vector DB](#scalability-when-to-use-a-vector-db)
+  - [Ways to measure performance of a vector DB](#ways-to-measure-performance-of-a-vector-db)
+  - [CRUD operations in vector DBs](#crud-operations-in-vector-dbs)
+  - [Challenge: CRUD and performance](#challenge-crud-and-performance)
+  - [Solution: CRUD and performance](#solution-crud-and-performance)
 - [**5. Demonstrate Vector DBs and Use Cases**](#5-demonstrate-vector-dbs-and-use-cases) (5 videos)
-  - Vector DB1: E-commerce RecSys
-  - Vector DB2: Hybrid search
-  - Vector DB3: Retrieval augmented generation
-  - Challenge: Vector DBs
-  - Solution: Vector DBs
+  - [Vector DB1: E-commerce RecSys](#vector-db1-e-commerce-recsys)
+  - [Vector DB2: Hybrid search](#vector-db2-hybrid-search)
+  - [Vector DB3: Retrieval augmented generation](#vector-db3-retrieval-augmented-generation)
+  - [Challenge: Vector DBs](#challenge-vector-dbs)
+  - [Solution: Vector DBs](#solution-vector-dbs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your AI-native vector databases learning journey
+  - [Continue your AI-native vector databases learning journey](#continue-your-ai-native-vector-databases-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning AI-native vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), database (1), [[Databases]] (1), [[Search]] (1), power (1)
 > **Env Vars:** dna (1)
 
 #### What you should know
@@ -143,6 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vector Databases]] (2), database (2), [[GitHub]] (2), ai (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), pip (1), docker (1)
 > **Tools:** github (2), jupyter (1)
 > **Prerequisites:** install (1), set up (1)
@@ -211,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match. (1)
+> **Frameworks & Libraries:** [[Search]] (14), [[Vector Databases]] (5), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Forms]] (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** find (3)
 > **Definitions:** known as (1)
@@ -219,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Data: What Data Do Vector Databases Store and How Is It Stored?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structured versus unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980)
@@ -286,9 +288,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Unstructured Data]] (8), [[Microsoft Excel|Excel]] (1), database (1), next (1)
 > **Analogies:** similar to (2), for example (1), such as (1)
 > **CLI Commands:** cat (2), make (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** is an  (1)
 
@@ -355,9 +357,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Unstructured Data]] (2), [[Vector Databases]] (2), next (1)
 > **Analogies:** similar to (3), for example (2), picture (1)
 > **Versions:** 1.2 (1), 1.1 (1), 6.2 (1), 1.3 (1), 9.8 (1)
-> **Code Keywords:** let (2), pass (2)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** known as (2)
 > **CLI Commands:** make (1)
@@ -461,7 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12)
+> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** in other words (2), is a  (2)
 > **Analogies:** imagine (2), picture (1)
 > **CLI Commands:** cat (2)
@@ -525,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (8), [[Unstructured Data]] (1), product (1), [[Vector Databases]] (1), next (1)
 > **CLI Commands:** cat (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is called (1), is a  (1)
@@ -550,6 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Python (Programming Language)|Python]] (1), product (1), next (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** rgb (1)
@@ -921,7 +924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (11), this. (7), let (6), pass (4), function (2)
+> **Frameworks & Libraries:** data (6), product (6), next (5), [[Linear Algebra]] (3), power (1)
 > **CLI Commands:** make (7), python (1)
 > **Versions:** 0.1 (1), 78.74 (1), 1.0 (1)
 > **Definitions:** known as (2), is a  (1)
@@ -933,7 +936,7 @@ created: 2026-04-29
 
 ### 2. Natural Querying: How Do You Search for Data in a Vector Database?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Frame the query as a question or search
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980)
@@ -980,8 +983,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Search]] (8), [[Algorithms]] (1), [[Semantic Search]] (1), next (1)
 > **Analogies:** imagine (2), for example (1)
-> **Code Keywords:** let (2)
 > **Definitions:** known as (2)
 > **Cross-References:** in the next (1)
 
@@ -1014,6 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (4), next (1), [[Search]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** similar to (2), think of it as (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** python (1)
@@ -1276,7 +1280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (10), let (7), function (6), class. (4), this. (2)
+> **Frameworks & Libraries:** data (44), [[Weaviate]] (15), database (11), [[JSON]] (9), next (4)
 > **Env Vars:** json (9), api (3), url (1)
 > **Prerequisites:** set up (5), setup (2), getting started (1)
 > **Definitions:** is a  (4), means that (2), known as (1)
@@ -1635,7 +1639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (5), pass (4), this. (3), this, (2)
+> **Frameworks & Libraries:** data (19), database (9), [[Search]] (5), [[Weaviate]] (4), next (2)
 > **Versions:** 0.24 (6), 0.19 (3), 0.20 (1), 0.18 (1), 0.2 (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** dna (4)
@@ -1668,7 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Search]] (3), [[Weaviate]] (2), data (1), database (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -1926,7 +1930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (7), pass (6), this. (4), this, (2), module (1)
+> **Frameworks & Libraries:** data (20), database (10), [[Search]] (7), next (6), [[Weaviate]] (4)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (1), api (1)
 > **Cross-References:** as we saw (1), in the next (1)
@@ -1938,7 +1942,7 @@ created: 2026-04-29
 
 ### 3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning models and object classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980)
@@ -1977,6 +1981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (3), [[Vector Databases]] (2), [[Neural Networks]] (1), [[Engineering]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -2024,9 +2029,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2), [[Vector Databases]] (1), next (1), [[Weaviate]] (1)
 > **Cross-References:** previous video (1), we discussed (1), in the next (1)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** class, (1)
 
 #### ML models and vector embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980)
@@ -2431,7 +2436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (9), this, (5), module (5), this. (3)
+> **Frameworks & Libraries:** [[Weaviate]] (24), data (13), [[Search]] (12), next (8), database (6)
 > **CLI Commands:** docker (8), make (3), cat (3), python (1)
 > **Definitions:** is a  (6), known as (1), is an  (1)
 > **UI Navigation:** scroll down (3)
@@ -2459,7 +2464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Weaviate]] (3), [[Search]] (3), database (1), next (1)
 > **Cross-References:** in the next (1)
 
 #### Solution: Search with images and text
@@ -2807,7 +2812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), this, (5), class. (4), this. (3), default, (1)
+> **Frameworks & Libraries:** [[Search]] (20), [[Weaviate]] (15), database (10), data (10), next (7)
 > **CLI Commands:** make (6), docker (4), cat (3), python (2), find (2)
 > **Tools:** github (2), terminal (1)
 > **Analogies:** similar to (2), for example (1)
@@ -2818,7 +2823,7 @@ created: 2026-04-29
 
 ### 4. Scalability: What Does a Vector Database Need to Do?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scalability: When to use a vector DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980)
@@ -2869,11 +2874,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), [[Vector Databases]] (5), database (5), data (3), [[Real-Time]] (2)
 > **Env Vars:** ann (3), crud (1), hnsw (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 
 #### Ways to measure performance of a vector DB
@@ -2925,9 +2930,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[Vector Databases]] (4), [[Real-Time]] (2), [[Search]] (2), data (1)
 > **Env Vars:** qps (4), ann (3), ram (2), hnsw (1), crud (1)
 > **Definitions:** means that (2), defined as (1), is a  (1)
-> **Code Keywords:** case, (1), require (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** such as (1)
 
@@ -3194,7 +3199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), let (10), pass (7), function (4), this. (3)
+> **Frameworks & Libraries:** data (30), database (20), next (4), [[Vector Databases]] (2), [[Weaviate]] (2)
 > **Env Vars:** crud (9), uuid (5), json (1)
 > **CLI Commands:** make (2), python (1)
 > **Cross-References:** in the next (1)
@@ -3224,9 +3229,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Vector Databases]] (2), [[Real-Time]] (2), [[Weaviate]] (2), data (1)
 > **Env Vars:** hnsw (1), crud (1), url (1), api (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 
 #### Solution: CRUD and performance
@@ -3422,7 +3427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (6), this. (4), function (3), from. (2)
+> **Frameworks & Libraries:** database (11), [[Search]] (5), data (3), next (3), api (2)
 > **Env Vars:** url (4), api (2), crud (1)
 > **CLI Commands:** make (4)
 > **Versions:** 9.5 (4)
@@ -3434,7 +3439,7 @@ created: 2026-04-29
 
 ### 5. Demonstrate Vector DBs and Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vector DB1: E-commerce RecSys
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980)
@@ -3595,7 +3600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (5), this, (4), class, (4), class. (4)
+> **Frameworks & Libraries:** product (29), [[Microsoft Products|Products]] (12), database (7), [[E-Commerce]] (7), [[Weaviate]] (7)
 > **Analogies:** for example (4), similar to (2), imagine (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** find (1), make (1)
@@ -3835,7 +3840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), this, (3), this. (2), case, (2)
+> **Frameworks & Libraries:** [[Search]] (46), [[Microsoft Word|Word]] (11), data (3), [[Semantic Search]] (2), [[Weaviate]] (2)
 > **Definitions:** is a  (2), is an  (1), stands for (1), known as (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** scroll up (1), go to (1)
@@ -4050,7 +4055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (3), this. (2), from. (1), from, (1)
+> **Frameworks & Libraries:** prompt (21), database (7), [[Search]] (7), rag (4), [[ChatGPT]] (3)
 > **Env Vars:** rag (4), gpt (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -4078,8 +4083,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Vector Databases]] (2), database (2), llm (2), power (1)
 > **Env Vars:** llm (2), rag (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 
@@ -4232,14 +4237,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), class. (2), this. (2), let (2), this, (1)
+> **Frameworks & Libraries:** prompt (7), data (5), database (5), rag (2), [[Weaviate]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** rag (2)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your AI-native vector databases learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980)
@@ -4268,6 +4273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vector Databases]] (3), [[Weaviate]] (3), data (2), open-source (1), database (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 

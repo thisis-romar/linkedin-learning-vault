@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis-%20Essential%20Tools%20and%20Techniques%20(2021).md)
@@ -40,26 +40,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction to Business Analysis Techniques**](#introduction-to-business-analysis-techniques) (2 videos)
-  - Three essential business analysis techniques everyone should know
-  - What you should know
+  - [Three essential business analysis techniques everyone should know](#three-essential-business-analysis-techniques-everyone-should-know)
+  - [What you should know](#what-you-should-know)
 - [**1. Requirements Traceability Matrix**](#1-requirements-traceability-matrix) (3 videos)
-  - The value of traceability to business analysis work
-  - Setting up your traceability matrix
-  - Tracing requirements through testing
+  - [The value of traceability to business analysis work](#the-value-of-traceability-to-business-analysis-work)
+  - [Setting up your traceability matrix](#setting-up-your-traceability-matrix)
+  - [Tracing requirements through testing](#tracing-requirements-through-testing)
 - [**2. Process Modeling**](#2-process-modeling) (3 videos)
-  - The value of process modeling to business analysis work
-  - Defining the basic business process model
-  - Using process models for process analysis
+  - [The value of process modeling to business analysis work](#the-value-of-process-modeling-to-business-analysis-work)
+  - [Defining the basic business process model](#defining-the-basic-business-process-model)
+  - [Using process models for process analysis](#using-process-models-for-process-analysis)
 - [**3. Context Diagrams**](#3-context-diagrams) (3 videos)
-  - The value of context diagrams to business analysis work
-  - Setting up your basic context diagram
-  - Using a context data flow diagram
+  - [The value of context diagrams to business analysis work](#the-value-of-context-diagrams-to-business-analysis-work)
+  - [Setting up your basic context diagram](#setting-up-your-basic-context-diagram)
+  - [Using a context data flow diagram](#using-a-context-data-flow-diagram)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Using business analysis templates for project success
+  - [Using business analysis templates for project success](#using-business-analysis-templates-for-project-success)
 
 ### Introduction to Business Analysis Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three essential business analysis techniques everyone should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/three-essential-business-analysis-techniques-everyone-should-know?u=76281980)
@@ -84,7 +84,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** business (4), teams (1)
 > **Speakers:** - [jamie] (1)
 
 #### What you should know
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Analogies:** such as (1)
@@ -125,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Requirements Traceability Matrix
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of traceability to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980)
@@ -200,9 +201,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (2), functional (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), case, (1)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
 
@@ -359,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), case, (2), case. (2), let (1), throw (1)
+> **Frameworks & Libraries:** business (8), next (7), feature (6), functional (1)
 > **Cross-References:** in the next (4)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), picture (1)
@@ -489,7 +490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), case. (3), pass (2), let (1), match, (1)
+> **Frameworks & Libraries:** next (5)
 > **Cross-References:** in the next (4)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -499,7 +500,7 @@ created: 2026-04-29
 
 ### 2. Process Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of process modeling to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980)
@@ -592,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), function (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft PowerPoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -734,7 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** next (10), [[Microsoft Word|Word]] (1)
 > **Analogies:** picture (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -809,7 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -817,7 +818,7 @@ created: 2026-04-29
 
 ### 3. Context Diagrams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of context diagrams to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980)
@@ -894,6 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Microsoft PowerPoint]] (1), [[Microsoft]] (1), data (1), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
 > **Cross-References:** go back to (1)
@@ -1010,7 +1012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (3)
+> **Frameworks & Libraries:** leadership (2), teams (1), [[Microsoft Office]] (1), data (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** crm (2)
 > **Definitions:** is an  (1)
@@ -1122,7 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), from. (1), function (1), this, (1)
+> **Frameworks & Libraries:** data (16), feature (9), database (5), web (4), product (2)
 > **Env Vars:** crm (8)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** best practice (1), don't forget (1)
@@ -1133,7 +1135,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using business analysis templates for project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-business-analysis-templates-for-project-success?u=76281980)
@@ -1164,6 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), business (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Speakers:** - [jamie] (1)
 

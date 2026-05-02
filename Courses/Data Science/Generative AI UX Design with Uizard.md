@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Generative%20AI%20UX%20Design%20with%20Uizard.md)
@@ -54,37 +54,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of Uizard on UX design
+  - [The power of Uizard on UX design](#the-power-of-uizard-on-ux-design)
 - [**1. UIzard Overview**](#1-uizard-overview) (5 videos)
-  - Uizard, the magic prototyping tool
-  - The app, using projects and templates
-  - The designing interface
-  - Using the designer
-  - Wireframe and interactive modes
+  - [Uizard, the magic prototyping tool](#uizard-the-magic-prototyping-tool)
+  - [The app, using projects and templates](#the-app-using-projects-and-templates)
+  - [The designing interface](#the-designing-interface)
+  - [Using the designer](#using-the-designer)
+  - [Wireframe and interactive modes](#wireframe-and-interactive-modes)
 - [**2. Autolayout and AI Magic**](#2-autolayout-and-ai-magic) (6 videos)
-  - Create a new app with Autodesigner
-  - Modifying a screen with AI
-  - Modifying a component with AI
-  - Modifying a theme with AI prompt
-  - Creating a new screen with AI
-  - Modifying content with AI
+  - [Create a new app with Autodesigner](#create-a-new-app-with-autodesigner)
+  - [Modifying a screen with AI](#modifying-a-screen-with-ai)
+  - [Modifying a component with AI](#modifying-a-component-with-ai)
+  - [Modifying a theme with AI prompt](#modifying-a-theme-with-ai-prompt)
+  - [Creating a new screen with AI](#creating-a-new-screen-with-ai)
+  - [Modifying content with AI](#modifying-content-with-ai)
 - [**3. Scanning Designs**](#3-scanning-designs) (3 videos)
-  - Scanning a screenshot
-  - Scanning a wireframe
-  - Generating themes with a URL or images
+  - [Scanning a screenshot](#scanning-a-screenshot)
+  - [Scanning a wireframe](#scanning-a-wireframe)
+  - [Generating themes with a URL or images](#generating-themes-with-a-url-or-images)
 - [**4. Making Your Prototype Interactive**](#4-making-your-prototype-interactive) (2 videos)
-  - Interactive prototypes
-  - Editing interactivity
+  - [Interactive prototypes](#interactive-prototypes)
+  - [Editing interactivity](#editing-interactivity)
 - [**5. Advanced Techniques**](#5-advanced-techniques) (3 videos)
-  - Using design review
-  - Using the brand kit
-  - Using handoff
+  - [Using design review](#using-design-review)
+  - [Using the brand kit](#using-the-brand-kit)
+  - [Using handoff](#using-handoff)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thank you and next steps
+  - [Thank you and next steps](#thank-you-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of Uizard on UX design
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980)
@@ -103,13 +103,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), application (1), ux (1), product (1), ai (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. UIzard Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Uizard, the magic prototyping tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980)
@@ -168,8 +168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), application (2), ai (2), product (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Tools:** figma (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -254,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), from. (1), include. (1), this. (1)
+> **Frameworks & Libraries:** next (1), ai (1), [[Google]] (1)
 > **UI Navigation:** toggle (2), go to (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** find (1)
@@ -453,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), interface (3), match. (1), this, (1), default. (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[Forms]] (2), next (2), ai (1), prompt (1)
 > **UI Navigation:** go to (5), click on (1), scroll down (1)
 > **Exercise Files:** template (5)
 > **Analogies:** for example (4), just like (1)
@@ -578,7 +578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), this, (2), private (1)
+> **Frameworks & Libraries:** ai (5), [[Zoom]] (4), product (1), [[Prototyping]] (1)
 > **UI Navigation:** click on (3), toggle (2), go to (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** find (1), make (1), snap (1)
@@ -722,8 +722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), application (1), [[Prototyping]] (1), [[LinkedIn]] (1), web (1)
 > **UI Navigation:** toggle (4), click on (4), go to (3), select the (1), drag and drop (1)
-> **Code Keywords:** case, (4), let (3), this, (2), super (1), default, (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** in the last (1), go back to (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
@@ -733,7 +733,7 @@ created: 2026-04-29
 
 ### 2. Autolayout and AI Magic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new app with Autodesigner
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/create-a-new-app-with-autodesigner?u=76281980)
@@ -834,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (2), this, (1), interface (1), case, (1)
+> **Frameworks & Libraries:** prompt (7), ai (6), application (1), web (1), [[Search]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
 > **Tools:** safari (1)
@@ -936,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), continue (1)
+> **Frameworks & Libraries:** ai (3), ux (1), prompt (1), application (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** it's like (1), picture (1)
 > **CLI Commands:** make (1)
@@ -1062,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), case, (1)
+> **Frameworks & Libraries:** ai (2), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (2)
@@ -1170,7 +1170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), new. (2)
+> **Frameworks & Libraries:** prompt (3), ai (2), next (1), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), open the (1)
 > **Env Vars:** url (2)
@@ -1278,7 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (4), from. (1)
+> **Frameworks & Libraries:** prompt (2), ai (2), [[Zoom]] (2), feature (1), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** go back to (1)
@@ -1409,7 +1409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), for. (1), this. (1), interface (1)
+> **Frameworks & Libraries:** ai (4), [[Zoom]] (4), prompt (2), [[Search]] (1), [[DALL-E]] (1)
 > **UI Navigation:** go to (4), open the (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1420,7 +1420,7 @@ created: 2026-04-29
 
 ### 3. Scanning Designs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning a screenshot
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-screenshot?u=76281980)
@@ -1503,7 +1503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), interface (1)
+> **Frameworks & Libraries:** web (2), ai (1), prompt (1), application (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1588,10 +1588,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Sketching]] (2), next (2), business (1), feature (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** picture (4)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
-> **Code Keywords:** interface (1), let (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
@@ -1669,7 +1669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (1), this. (1), super (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), prompt (1), data (1), application (1), next (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** url (1)
@@ -1679,7 +1679,7 @@ created: 2026-04-29
 
 ### 4. Making Your Prototype Interactive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interactive prototypes
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980)
@@ -1764,8 +1764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), application (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** default. (1), this, (1), this . (1), this. (1), let (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** for example (2)
 > **Env Vars:** html (1)
@@ -1839,7 +1839,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (2), this, (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (1)
@@ -1850,7 +1849,7 @@ created: 2026-04-29
 
 ### 5. Advanced Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using design review
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-design-review?u=76281980)
@@ -1929,6 +1928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
 > **Warnings:** keep in mind (1)
@@ -2068,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (6), this. (2), delete (1), case, (1)
+> **Frameworks & Libraries:** ai (3), business (2), [[Figma (Software)|Figma]] (1), prompt (1), data (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
 > **Versions:** 4.68 (1)
@@ -2114,8 +2114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), css (2), [[HTML]] (1)
 > **Env Vars:** css (2), png (1), jpeg (1), pdf (1), html (1)
-> **Code Keywords:** else. (1), else, (1), this. (1), if, (1)
 > **UI Navigation:** go to (3)
 > **Exercise Files:** download the (1), template (1)
 > **Definitions:** is a  (1)
@@ -2124,7 +2124,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980)
@@ -2155,7 +2155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (2), [[Google]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 

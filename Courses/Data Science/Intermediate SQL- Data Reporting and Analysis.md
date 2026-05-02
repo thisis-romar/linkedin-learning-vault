@@ -34,7 +34,7 @@ tags:
   - skill/data-reporting
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Intermediate%20SQL-%20Data%20Reporting%20and%20Analysis.md)
@@ -53,51 +53,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn hands-on to extract, manipulate, edit, and delete real data
-  - Who this course is for
-  - What can you do with intermediate SQL?
+  - [Learn hands-on to extract, manipulate, edit, and delete real data](#learn-hands-on-to-extract-manipulate-edit-and-delete-real-data)
+  - [Who this course is for](#who-this-course-is-for)
+  - [What can you do with intermediate SQL?](#what-can-you-do-with-intermediate-sql)
 - [**1. Prepare to Code in SQL**](#1-prepare-to-code-in-sql) (3 videos)
-  - Get familiar with phpMyAdmin
-  - Understand the demo database
-  - Using ChatGPT to check SQL code
+  - [Get familiar with phpMyAdmin](#get-familiar-with-phpmyadmin)
+  - [Understand the demo database](#understand-the-demo-database)
+  - [Using ChatGPT to check SQL code](#using-chatgpt-to-check-sql-code)
 - [**2. Reporting Data with SQL**](#2-reporting-data-with-sql) (9 videos)
-  - The basic SELECT query
-  - Aggregated results with GROUP BY
-  - Wildcards and aliases
-  - Merging tables with JOIN
-  - Use string functions
-  - Use number functions with grouped data
-  - Use date functions
-  - Challenge: Report average cost by staff
-  - Solution: Report average cost by staff
+  - [The basic SELECT query](#the-basic-select-query)
+  - [Aggregated results with GROUP BY](#aggregated-results-with-group-by)
+  - [Wildcards and aliases](#wildcards-and-aliases)
+  - [Merging tables with JOIN](#merging-tables-with-join)
+  - [Use string functions](#use-string-functions)
+  - [Use number functions with grouped data](#use-number-functions-with-grouped-data)
+  - [Use date functions](#use-date-functions)
+  - [Challenge: Report average cost by staff](#challenge-report-average-cost-by-staff)
+  - [Solution: Report average cost by staff](#solution-report-average-cost-by-staff)
 - [**3. Editing Data**](#3-editing-data) (7 videos)
-  - UPDATE fields in a table
-  - Common issues with the UPDATE command
-  - Automating your query creation
-  - Updating a field using JOIN
-  - Updating dynamically
-  - Challenge: Update the film table using JOIN
-  - Solution: Update the film table using JOIN
+  - [UPDATE fields in a table](#update-fields-in-a-table)
+  - [Common issues with the UPDATE command](#common-issues-with-the-update-command)
+  - [Automating your query creation](#automating-your-query-creation)
+  - [Updating a field using JOIN](#updating-a-field-using-join)
+  - [Updating dynamically](#updating-dynamically)
+  - [Challenge: Update the film table using JOIN](#challenge-update-the-film-table-using-join)
+  - [Solution: Update the film table using JOIN](#solution-update-the-film-table-using-join)
 - [**4. Inserting Data**](#4-inserting-data) (6 videos)
-  - INSERT rows into a table
-  - Common issues with the INSERT command
-  - Using MERGE instead of UPDATE/INSERT
-  - Duplicate table with SELECT
-  - Challenge: Insert a row into the film table
-  - Solution: Insert a row into the film table
+  - [INSERT rows into a table](#insert-rows-into-a-table)
+  - [Common issues with the INSERT command](#common-issues-with-the-insert-command)
+  - [Using MERGE instead of UPDATE/INSERT](#using-merge-instead-of-updateinsert)
+  - [Duplicate table with SELECT](#duplicate-table-with-select)
+  - [Challenge: Insert a row into the film table](#challenge-insert-a-row-into-the-film-table)
+  - [Solution: Insert a row into the film table](#solution-insert-a-row-into-the-film-table)
 - [**5. Deleting Data**](#5-deleting-data) (6 videos)
-  - DELETE rows from a table
-  - DROP an entire table
-  - ALTER TABLE for modifying fields
-  - Problems with foreign key constraints
-  - Challenge: Delete from the country table
-  - Solution: Delete from the country table
+  - [DELETE rows from a table](#delete-rows-from-a-table)
+  - [DROP an entire table](#drop-an-entire-table)
+  - [ALTER TABLE for modifying fields](#alter-table-for-modifying-fields)
+  - [Problems with foreign key constraints](#problems-with-foreign-key-constraints)
+  - [Challenge: Delete from the country table](#challenge-delete-from-the-country-table)
+  - [Solution: Delete from the country table](#solution-delete-from-the-country-table)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn hands-on to extract, manipulate, edit, and delete real data
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1)
+> **Frameworks & Libraries:** data (6), [[SQL]] (3), database (2), [[Databases]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [emma] (1)
 
@@ -147,9 +147,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Manipulation]] (2), data (2), database (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (5)
 > **Prerequisites:** prerequisite (1), set up (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -195,8 +195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (4), database (3), [[MySQL]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (4), ddl (2), dml (2), dcl (1), tcl (1)
-> **Code Keywords:** function (1), delete (1), let (1)
 > **CLI Commands:** mysql (1)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
@@ -205,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Prepare to Code in SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with phpMyAdmin
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980)
@@ -258,10 +258,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[MySQL]] (8), [[SQL]] (5), [[Databases]] (2), power (1)
 > **CLI Commands:** mysql (8), find (1)
 > **Code Identifiers:** phpmyadmin (7)
 > **Env Vars:** sql (6)
-> **Code Keywords:** let (2), delete (1), switch (1)
 > **Prerequisites:** setup (1), set up (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -344,7 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), continue (1), let (1), static (1), finally, (1)
+> **Frameworks & Libraries:** data (5), database (3), business (1), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** inventory_id (2), customer_ids (1)
 > **Env Vars:** dvd (2), vhs (1)
 > **UI Navigation:** dropdown (2)
@@ -411,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), super (2), let (1), fn (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[SQL]] (1)
 > **Code Identifiers:** personid (2)
 > **Env Vars:** dsql (1), sql (1)
 > **UI Navigation:** select the (1)
@@ -421,7 +421,7 @@ created: 2026-04-29
 
 ### 2. Reporting Data with SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic SELECT query
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/the-basic-select-query?u=76281980)
@@ -464,11 +464,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2)
 > **Env Vars:** select (7), where (3), order (2), distinct (1)
 > **SQL:** select (7), where (3), order by (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Aggregated results with GROUP BY
@@ -518,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** data (3)
 > **Non-Speech:** (typing) (4)
 > **Code Identifiers:** payment_id (2)
 > **Env Vars:** instructor (1)
@@ -652,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), require (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Word|Word]] (3), database (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** sql (5)
 > **Analogies:** for example (2), similar to (1), it's like (1), such as (1)
@@ -744,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), else, (1), case, (1), match. (1), let (1)
+> **Frameworks & Libraries:** data (2), database (2), [[Microsoft Word|Word]] (1)
 > **SQL:** join (4)
 > **Env Vars:** join (4)
 > **CLI Commands:** find (1)
@@ -930,8 +930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Word|Word]] (5), [[MySQL]] (3), database (1), [[Microsoft]] (1)
 > **Env Vars:** sql (6), abc (6), select (5), replace (4), length (4)
-> **Code Keywords:** let (9), function (4), default, (1), this, (1), new. (1)
 > **CLI Commands:** mysql (3), find (2)
 > **SQL:** select (5)
 > **Code Identifiers:** first_name (2), last_name (2)
@@ -1082,7 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), raise (1)
+> **Frameworks & Libraries:** database (6), [[SQL]] (4), power (1), data (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.99 (3), 0.99 (2), 4.2 (2), 11.99 (1), 2.8 (1)
 > **Code Identifiers:** yr_mth (3), payment_id (3)
 > **Env Vars:** sql (4)
@@ -1195,10 +1195,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[SQL]] (6), [[MySQL]] (4), data (3), [[Databases]] (1)
 > **Env Vars:** sql (7), set (2), select (1), date_format (1), curdate (1)
 > **CLI Commands:** mysql (4), make (1)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** let (1), this, (1)
 > **Ports:** :28 (1), :06 (1)
 > **Definitions:** is a  (2)
 > **URLs:** [postgre.com](https://postgre.com) (1)
@@ -1225,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1276,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), this. (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** concat (1)
 > **Speakers:** - and (1)
@@ -1285,7 +1285,7 @@ created: 2026-04-29
 
 ### 3. Editing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### UPDATE fields in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980)
@@ -1434,7 +1434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), static (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2), database (2), feature (1), [[SQL]] (1)
 > **Env Vars:** sql (1), substr (1)
 > **Code Identifiers:** phpmyadmin (1)
 > **Definitions:** is an  (1)
@@ -1563,7 +1563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this: (1), case, (1)
+> **Frameworks & Libraries:** data (11), database (8), [[MySQL]] (4), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** mysql (4), find (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Speakers:** - things (1)
@@ -1649,9 +1649,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1), database (1)
 > **Env Vars:** update (3), where (3), set (2), concat (2)
 > **SQL:** update (3), where (3)
-> **Code Keywords:** static (2), this, (1), let (1), def, (1)
 > **Code Identifiers:** film_id (3), phpmyadmin (2)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** click on (1)
@@ -1703,6 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1884,7 +1885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (1), from, (1), delete (1), case. (1)
+> **Frameworks & Libraries:** database (5), hit (1), next (1), data (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
@@ -1911,7 +1912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), function (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1974,7 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), function (1)
+> **Frameworks & Libraries:** data (2), next (1), [[SQL]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -1984,7 +1985,7 @@ created: 2026-04-29
 
 ### 4. Inserting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### INSERT rows into a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980)
@@ -2151,7 +2152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), match. (2)
+> **Frameworks & Libraries:** data (4), database (2), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sqla (1), sql (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -2317,7 +2318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (7), database (5), [[SQL]] (2)
 > **Env Vars:** sql (2), null (1), unique (1)
 > **Versions:** 5.33333 (3), 5.33 (1)
 > **Analogies:** such as (2), for example (1)
@@ -2505,7 +2506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (6), include. (1), self (1), override (1)
+> **Frameworks & Libraries:** [[SQL]] (9), database (9), product (7), [[Microsoft Products|Products]] (6), [[MySQL]] (2)
 > **Env Vars:** sql (11)
 > **CLI Commands:** mysql (2), find (1)
 > **Warnings:** note that (2), be careful (1)
@@ -2631,7 +2632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), switch (1), delete (1), else. (1)
+> **Frameworks & Libraries:** database (6), data (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
@@ -2661,6 +2662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat pop music) (1)
@@ -2694,7 +2696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), default. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), database (1)
 > **Env Vars:** null (2)
 > **Versions:** 4.99 (1)
 > **Speakers:** - [instructor] (1)
@@ -2703,7 +2705,7 @@ created: 2026-04-29
 
 ### 5. Deleting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DELETE rows from a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980)
@@ -2814,7 +2816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (19), let (7), throw (2), this, (1)
+> **Frameworks & Libraries:** database (8), data (3), [[Databases]] (1), [[MySQL]] (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** mysql (1)
 > **Code Identifiers:** phpmyadmin (1)
@@ -2910,7 +2912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), case, (1)
+> **Frameworks & Libraries:** data (2), database (1)
 > **Env Vars:** drop (5)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
@@ -2983,7 +2985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (4), type. (3), type, (1)
+> **Frameworks & Libraries:** data (14), database (1), [[SQL]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -3051,7 +3053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (11), let (3), throw (1)
+> **Frameworks & Libraries:** database (3), hit (1), data (1), [[SQL]] (1)
 > **Code Identifiers:** film_id (2), category_id (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Env Vars:** sql (1)
@@ -3085,7 +3087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1)
+> **Frameworks & Libraries:** database (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3268,7 +3270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (21), let (11)
+> **Frameworks & Libraries:** database (3)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** fk_city_country (1)
 > **Cross-References:** go back to (1)
@@ -3278,7 +3280,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980)
@@ -3295,7 +3297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** database (2), [[SQL]] (1), data (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [emma] (1)
 

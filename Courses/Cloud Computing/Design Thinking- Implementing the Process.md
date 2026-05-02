@@ -29,7 +29,7 @@ tags:
   - skill/design-thinking
   - skill/process-implementation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Design%20Thinking-%20Implementing%20the%20Process.md)
@@ -48,39 +48,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Applying design thinking
-  - The focus of solving user problems
+  - [Applying design thinking](#applying-design-thinking)
+  - [The focus of solving user problems](#the-focus-of-solving-user-problems)
 - [**1. Assembling a Team**](#1-assembling-a-team) (3 videos)
-  - Who should be involved?
-  - Get commitment to attend and participate
-  - Find a location and gather supplies
+  - [Who should be involved?](#who-should-be-involved)
+  - [Get commitment to attend and participate](#get-commitment-to-attend-and-participate)
+  - [Find a location and gather supplies](#find-a-location-and-gather-supplies)
 - [**2. Finding the Right Problem to Solve**](#2-finding-the-right-problem-to-solve) (4 videos)
-  - Identify the pain points: Watch real users
-  - Experience mapping: Show the customer journey
-  - Extracting the pain points
-  - Pain points to goals
+  - [Identify the pain points: Watch real users](#identify-the-pain-points-watch-real-users)
+  - [Experience mapping: Show the customer journey](#experience-mapping-show-the-customer-journey)
+  - [Extracting the pain points](#extracting-the-pain-points)
+  - [Pain points to goals](#pain-points-to-goals)
 - [**3. Coming Up with Good Ideas**](#3-coming-up-with-good-ideas) (3 videos)
-  - Personas: An idea everyone can get behind
-  - Don't build your first idea: Ideate
-  - Scenarios: How will your idea be used
+  - [Personas: An idea everyone can get behind](#personas-an-idea-everyone-can-get-behind)
+  - [Don't build your first idea: Ideate](#dont-build-your-first-idea-ideate)
+  - [Scenarios: How will your idea be used](#scenarios-how-will-your-idea-be-used)
 - [**4. Testing Your Ideas with Real Customers**](#4-testing-your-ideas-with-real-customers) (3 videos)
-  - Paper prototypes: The fastest way to test your ideas
-  - Usability testing: Show your prototypes to customers
-  - Iterate: Make changes based on what you learn
+  - [Paper prototypes: The fastest way to test your ideas](#paper-prototypes-the-fastest-way-to-test-your-ideas)
+  - [Usability testing: Show your prototypes to customers](#usability-testing-show-your-prototypes-to-customers)
+  - [Iterate: Make changes based on what you learn](#iterate-make-changes-based-on-what-you-learn)
 - [**5. Planning Your Development Work**](#5-planning-your-development-work) (3 videos)
-  - Planning is the missing link
-  - Creating a story map
-  - Minimum usable product
+  - [Planning is the missing link](#planning-is-the-missing-link)
+  - [Creating a story map](#creating-a-story-map)
+  - [Minimum usable product](#minimum-usable-product)
 - [**6. What Design Thinking Gives You**](#6-what-design-thinking-gives-you) (3 videos)
-  - Design thinking isn't a magic process
-  - Design thinking isn't just for design agencies
-  - Design thinking gives you confidence
+  - [Design thinking isn't a magic process](#design-thinking-isnt-a-magic-process)
+  - [Design thinking isn't just for design agencies](#design-thinking-isnt-just-for-design-agencies)
+  - [Design thinking gives you confidence](#design-thinking-gives-you-confidence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional resources to support your design thinking process
+  - [Additional resources to support your design thinking process](#additional-resources-to-support-your-design-thinking-process)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (6), product (3), [[Microsoft Products|Products]] (1), [[Prototype Validation]] (1), teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - hello (1)
@@ -148,13 +148,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (2), next (1), teams (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Assembling a Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who should be involved?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980)
@@ -193,6 +194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (3), business (1), [[Internationalization]] (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
@@ -255,7 +257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), interface (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (5), product (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
@@ -305,6 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - i (1)
@@ -312,7 +315,7 @@ created: 2026-04-29
 
 ### 2. Finding the Right Problem to Solve
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify the pain points: Watch real users
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980)
@@ -381,8 +384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), next (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** for. (1), case, (1), let (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
@@ -430,6 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** picture (1)
 > **Speakers:** - after (1)
 
@@ -470,6 +474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -525,6 +530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), teams (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -533,7 +539,7 @@ created: 2026-04-29
 
 ### 3. Coming Up with Good Ideas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Personas: An idea everyone can get behind
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980)
@@ -586,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), let (1), for, (1)
+> **Frameworks & Libraries:** data (3), product (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - so (1)
 
@@ -635,6 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (2), product (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gps (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for instance (1)
@@ -683,14 +690,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** management (1), next (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Speakers:** - now (1)
 
 
 ### 4. Testing Your Ideas with Real Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Paper prototypes: The fastest way to test your ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980)
@@ -743,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4)
+> **Frameworks & Libraries:** product (1), [[Search]] (1), [[Design Thinking]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
@@ -792,8 +799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), product (2), [[Usability Testing]] (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** interface (3), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - paper (1)
 
@@ -822,6 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (3), teams (1), data (1), [[Usability Testing]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -829,7 +837,7 @@ created: 2026-04-29
 
 ### 5. Planning Your Development Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning is the missing link
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980)
@@ -882,8 +890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Design Thinking]] (3), [[Agile Development|Agile]] (2), [[Prototyping]] (2), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), interface (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - something (1)
 
@@ -966,8 +974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Prototyping]] (1), [[Microsoft Products|Products]] (1), next (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** interface (3)
 > **Analogies:** picture (2), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -1043,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else, (1), interface (1), continue (1)
+> **Frameworks & Libraries:** product (7), [[Agile Development|Agile]] (1), [[Design Thinking]] (1), next (1), feature (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** install (1)
@@ -1052,7 +1060,7 @@ created: 2026-04-29
 
 ### 6. What Design Thinking Gives You
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design thinking isn't a magic process
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980)
@@ -1087,6 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (5), product (2), [[Product Development]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -1125,6 +1134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (6), product (2), teams (2), business (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
@@ -1165,13 +1175,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (5), product (4), [[Agile Development|Agile]] (1), [[Product Development]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - working (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources to support your design thinking process
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980)
@@ -1208,7 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (6), [[Microsoft Products|Products]] (2), ux (1), business (1), next (1)
 > **Speakers:** - each (1)
 
 

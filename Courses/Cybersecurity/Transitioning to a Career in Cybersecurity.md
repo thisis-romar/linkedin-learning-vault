@@ -40,7 +40,7 @@ tags:
   - skill/cybersecurity
   - skill/career-transitioning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Transitioning%20to%20a%20Career%20in%20Cybersecurity.md)
@@ -59,49 +59,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Making the transition to a career in cybersecurity
-  - Why transition to cybersecurity?
-  - Maximizing your earning potential in cybersecurity
+  - [Making the transition to a career in cybersecurity](#making-the-transition-to-a-career-in-cybersecurity)
+  - [Why transition to cybersecurity?](#why-transition-to-cybersecurity)
+  - [Maximizing your earning potential in cybersecurity](#maximizing-your-earning-potential-in-cybersecurity)
 - [**1. Getting Started**](#1-getting-started) (7 videos)
-  - Leverage your current advantages
-  - Cybersecurity soft skills
-  - Choosing your first cybersecurity job
-  - Researching cybersecurity jobs
-  - Cybersecurity training options
-  - Cybersecurity laws and regulations
-  - Industry trends and emerging technologies
+  - [Leverage your current advantages](#leverage-your-current-advantages)
+  - [Cybersecurity soft skills](#cybersecurity-soft-skills)
+  - [Choosing your first cybersecurity job](#choosing-your-first-cybersecurity-job)
+  - [Researching cybersecurity jobs](#researching-cybersecurity-jobs)
+  - [Cybersecurity training options](#cybersecurity-training-options)
+  - [Cybersecurity laws and regulations](#cybersecurity-laws-and-regulations)
+  - [Industry trends and emerging technologies](#industry-trends-and-emerging-technologies)
 - [**2. Transitioning from an IT Career**](#2-transitioning-from-an-it-career) (5 videos)
-  - Assessing IT skills gaps
-  - IT jobs complementary to cybersecurity jobs
-  - Learning security systems
-  - Shadowing cybersecurity pros
-  - Earning cybersecurity certifications
+  - [Assessing IT skills gaps](#assessing-it-skills-gaps)
+  - [IT jobs complementary to cybersecurity jobs](#it-jobs-complementary-to-cybersecurity-jobs)
+  - [Learning security systems](#learning-security-systems)
+  - [Shadowing cybersecurity pros](#shadowing-cybersecurity-pros)
+  - [Earning cybersecurity certifications](#earning-cybersecurity-certifications)
 - [**3. Transitioning from a Non-IT Career**](#3-transitioning-from-a-non-it-career) (2 videos)
-  - Studying IT basics
-  - Benefits of entry-level IT jobs
+  - [Studying IT basics](#studying-it-basics)
+  - [Benefits of entry-level IT jobs](#benefits-of-entry-level-it-jobs)
 - [**4. Job Search Essentials**](#4-job-search-essentials) (3 videos)
-  - Revising your resume
-  - Updating your LinkedIn profile
-  - Job application and interview strategies
+  - [Revising your resume](#revising-your-resume)
+  - [Updating your LinkedIn profile](#updating-your-linkedin-profile)
+  - [Job application and interview strategies](#job-application-and-interview-strategies)
 - [**5. Increasing Your Chances of Success**](#5-increasing-your-chances-of-success) (7 videos)
-  - Personal development and goal-setting
-  - Networking in cybersecurity
-  - Creating a professional brand
-  - Building data analysis skills
-  - Career progression in cybersecurity
-  - Managing stress and avoiding burnout
-  - Cybersecurity career tips
+  - [Personal development and goal-setting](#personal-development-and-goal-setting)
+  - [Networking in cybersecurity](#networking-in-cybersecurity)
+  - [Creating a professional brand](#creating-a-professional-brand)
+  - [Building data analysis skills](#building-data-analysis-skills)
+  - [Career progression in cybersecurity](#career-progression-in-cybersecurity)
+  - [Managing stress and avoiding burnout](#managing-stress-and-avoiding-burnout)
+  - [Cybersecurity career tips](#cybersecurity-career-tips)
 - [**6. Practical Skills and Real-World Insights**](#6-practical-skills-and-real-world-insights) (4 videos)
-  - Hands-on tools and labs
-  - Cybersecurity incident response
-  - Case studies
-  - Day in the life of a cybersecurity pro
+  - [Hands-on tools and labs](#hands-on-tools-and-labs)
+  - [Cybersecurity incident response](#cybersecurity-incident-response)
+  - [Case studies](#case-studies)
+  - [Day in the life of a cybersecurity pro](#day-in-the-life-of-a-cybersecurity-pro)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your career transition action plan
+  - [Your career transition action plan](#your-career-transition-action-plan)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making the transition to a career in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980)
@@ -122,8 +122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (6), [[Cybersecurity]] (5)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - cybersecurity (1)
 
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (12), career (6), management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -196,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), career (3), [[Security]] (2), [[Soft Skills]] (2), [[Career Development]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** prerequisite (1)
@@ -205,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage your current advantages
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980)
@@ -258,8 +258,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), career (4), [[Security]] (4), [[LinkedIn]] (1), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -328,7 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1), finally, (1), public (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (13), [[Soft Skills]] (3), [[Security]] (3), career (1), [[Privacy]] (1)
 > **Analogies:** for instance (1), such as (1)
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** you'll need (1)
@@ -375,9 +375,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (6), leadership (1), [[Relationship Building]] (1), [[Windows]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -432,8 +432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (2), [[Search]] (1), next (1), job description (1)
 > **Env Vars:** iso (1), cissp (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Cybersecurity training options
@@ -479,6 +479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (12), [[LinkedIn]] (1), career (1)
 > **CLI Commands:** find (1)
 > **URLs:** [cyberdegrees.org](https://cyberdegrees.org) (1)
 > **Env Vars:** soc (1)
@@ -546,10 +547,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (15), data (8), [[Security]] (3), [[Incident Response]] (2), career (1)
 > **Env Vars:** hipaa (4), gdpr (2), ccpa (2), fisma (2), pci (2)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), protected (1)
 > **Speakers:** - [instructor] (1)
 
 #### Industry trends and emerging technologies
@@ -617,7 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[Security]] (6), data (3), [[Quantum Computing]] (3), [[DevSecOps]] (2)
 > **Definitions:** is a  (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - staying (1)
@@ -625,7 +626,7 @@ created: 2026-04-29
 
 ### 2. Transitioning from an IT Career
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing IT skills gaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980)
@@ -694,6 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (3), [[Programming]] (3), [[Cryptography]] (2), cloud (2)
 > **Env Vars:** api (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** find (1)
@@ -747,8 +749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (5), [[IT Help Desk]] (3), application (3), [[Programming]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1), let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -811,6 +813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), [[Windows]] (1), [[Active Directory]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (1), for instance (1)
 > **Prerequisites:** set up (2)
@@ -869,6 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (6)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -937,17 +941,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Security]] (7), [[Search]] (3), career (2), [[OSCP]] (2)
 > **Env Vars:** cisa (2), cissp (2), oscp (2), ceh (2), cism (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this. (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Transitioning from a Non-IT Career
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Studying IT basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980)
@@ -1014,10 +1018,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), career (4), [[Security]] (4), data (3), [[Hardware]] (2)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** tcp (1), dns (1), dhcp (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** require (1)
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -1064,8 +1068,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), [[Cybersecurity]] (3), [[Soft Skills]] (1), management (1), [[Troubleshooting]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** self (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1073,7 +1077,7 @@ created: 2026-04-29
 
 ### 4. Job Search Essentials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Revising your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980)
@@ -1138,9 +1142,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (5), strengths (2), [[Search]] (1), next (1)
 > **Analogies:** imagine (1), for example (1), for instance (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Updating your LinkedIn profile
@@ -1198,6 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (11), [[Cybersecurity]] (6), [[Security]] (4), [[Search]] (2), [[Google]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** cissp (1), iso (1), url (1)
 > **Definitions:** is a  (2)
@@ -1268,15 +1273,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (3), next (1), career (1), [[Penetration Testing]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Increasing Your Chances of Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Personal development and goal-setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980)
@@ -1341,9 +1346,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (16), [[Cybersecurity]] (11), [[Security]] (5), next (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** picture (1), such as (1), for instance (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - building (1)
@@ -1409,6 +1414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[Security]] (4), [[LinkedIn]] (2), career (1), [[Search]] (1)
 > **CLI Commands:** find (4)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -1464,6 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Cybersecurity]] (4), career (3), [[Security]] (2), strengths (1)
 > **Analogies:** imagine (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1521,10 +1528,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Cybersecurity]] (8), [[Security]] (4), [[Big Data]] (3), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Career progression in cybersecurity
@@ -1578,9 +1585,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), career (10), [[Cybersecurity]] (7), management (4), [[Incident Response]] (1)
 > **Env Vars:** ciso (2), soc (1), cio (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Managing stress and avoiding burnout
@@ -1650,8 +1657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), career (3), business (1), [[Cybersecurity Careers]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
-> **Code Keywords:** self (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
@@ -1704,13 +1711,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), career (10), [[Security]] (5), [[Soft Skills]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 6. Practical Skills and Real-World Insights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on tools and labs
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980)
@@ -1781,10 +1789,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Linux]] (5), web (4), [[Cybersecurity]] (4), [[Wireshark]] (3)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2), set up (1)
-> **Code Keywords:** delete (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1847,6 +1855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (12), [[Cybersecurity]] (6), [[Security]] (3), management (2), traffic (1)
 > **Env Vars:** ids (1), siem (1), edr (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1908,7 +1917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (3), data (3), [[Cybersecurity]] (2), [[Web Development]] (1), next (1)
 > **Env Vars:** mfa (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1968,6 +1977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[Cybersecurity]] (9), management (3), career (2), data (1)
 > **Env Vars:** siem (1), aws (1), cis (1), nist (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), aws (1)
@@ -1977,7 +1987,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your career transition action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980)
@@ -2016,6 +2026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (3), career (2), [[Interviewing]] (1)
 > **Speakers:** - benjamin (1)
 
 

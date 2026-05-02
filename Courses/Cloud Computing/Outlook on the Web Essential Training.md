@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Outlook%20on%20the%20Web%20Essential%20Training.md)
@@ -46,66 +46,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Manage your email and calendar with Outlook on the web
-  - What Outlook on the web is and isn't
+  - [Manage your email and calendar with Outlook on the web](#manage-your-email-and-calendar-with-outlook-on-the-web)
+  - [What Outlook on the web is and isn't](#what-outlook-on-the-web-is-and-isnt)
 - [**1. Get Started with Outlook on the Web**](#1-get-started-with-outlook-on-the-web) (4 videos)
-  - Sign in to Outlook on the web
-  - Navigate in Outlook on the web
-  - Work with the Outlook components
-  - Change your theme and set dark mode
+  - [Sign in to Outlook on the web](#sign-in-to-outlook-on-the-web)
+  - [Navigate in Outlook on the web](#navigate-in-outlook-on-the-web)
+  - [Work with the Outlook components](#work-with-the-outlook-components)
+  - [Change your theme and set dark mode](#change-your-theme-and-set-dark-mode)
 - [**2. Compose and Send Messages**](#2-compose-and-send-messages) (10 videos)
-  - Create a new message
-  - Open, edit, and send a message draft
-  - Attach files to a message
-  - Create and use an email signature
-  - Check spelling and grammar
-  - Include images with a message
-  - Add a loop component to a message
-  - Add a poll to a message
-  - Add a scheduling poll to a message
-  - Embed a video in a message
+  - [Create a new message](#create-a-new-message)
+  - [Open, edit, and send a message draft](#open-edit-and-send-a-message-draft)
+  - [Attach files to a message](#attach-files-to-a-message)
+  - [Create and use an email signature](#create-and-use-an-email-signature)
+  - [Check spelling and grammar](#check-spelling-and-grammar)
+  - [Include images with a message](#include-images-with-a-message)
+  - [Add a loop component to a message](#add-a-loop-component-to-a-message)
+  - [Add a poll to a message](#add-a-poll-to-a-message)
+  - [Add a scheduling poll to a message](#add-a-scheduling-poll-to-a-message)
+  - [Embed a video in a message](#embed-a-video-in-a-message)
 - [**3. Receive and Manage Messages**](#3-receive-and-manage-messages) (11 videos)
-  - View, reply to, and forward messages
-  - Other options for incoming messages
-  - Work with message attachments
-  - Use the Focused Inbox
-  - Print a message
-  - Pin, flag, or snooze a message
-  - Create and manage subfolders
-  - Add subfolders or people to Favorites
-  - Delete or move multiple messages
-  - Archive or sweep messages
-  - Set automatic replies (out-of-office messages)
+  - [View, reply to, and forward messages](#view-reply-to-and-forward-messages)
+  - [Other options for incoming messages](#other-options-for-incoming-messages)
+  - [Work with message attachments](#work-with-message-attachments)
+  - [Use the Focused Inbox](#use-the-focused-inbox)
+  - [Print a message](#print-a-message)
+  - [Pin, flag, or snooze a message](#pin-flag-or-snooze-a-message)
+  - [Create and manage subfolders](#create-and-manage-subfolders)
+  - [Add subfolders or people to Favorites](#add-subfolders-or-people-to-favorites)
+  - [Delete or move multiple messages](#delete-or-move-multiple-messages)
+  - [Archive or sweep messages](#archive-or-sweep-messages)
+  - [Set automatic replies (out-of-office messages)](#set-automatic-replies-out-of-office-messages)
 - [**4. Use the Calendar**](#4-use-the-calendar) (9 videos)
-  - Navigate in the Calendar app
-  - Create and edit an appointment or event
-  - Edit an appointment
-  - Use My Day to create an appointment from an email
-  - Create a repeating appointment
-  - Use categories for visual organization
-  - Modify calendar settings
-  - Share your calendar with colleagues
-  - Add or remove a calendar
+  - [Navigate in the Calendar app](#navigate-in-the-calendar-app)
+  - [Create and edit an appointment or event](#create-and-edit-an-appointment-or-event)
+  - [Edit an appointment](#edit-an-appointment)
+  - [Use My Day to create an appointment from an email](#use-my-day-to-create-an-appointment-from-an-email)
+  - [Create a repeating appointment](#create-a-repeating-appointment)
+  - [Use categories for visual organization](#use-categories-for-visual-organization)
+  - [Modify calendar settings](#modify-calendar-settings)
+  - [Share your calendar with colleagues](#share-your-calendar-with-colleagues)
+  - [Add or remove a calendar](#add-or-remove-a-calendar)
 - [**5. Work with Meetings and Bookings**](#5-work-with-meetings-and-bookings) (6 videos)
-  - Three ways to create a meeting including Teams
-  - Respond to a meeting invitation
-  - Update or cancel a meeting
-  - Create a repeating meeting
-  - Setup a calendar in Bookings
-  - Use Bookings to set up a meeting
+  - [Three ways to create a meeting including Teams](#three-ways-to-create-a-meeting-including-teams)
+  - [Respond to a meeting invitation](#respond-to-a-meeting-invitation)
+  - [Update or cancel a meeting](#update-or-cancel-a-meeting)
+  - [Create a repeating meeting](#create-a-repeating-meeting)
+  - [Setup a calendar in Bookings](#setup-a-calendar-in-bookings)
+  - [Use Bookings to set up a meeting](#use-bookings-to-set-up-a-meeting)
 - [**6. Work with People and To-Do**](#6-work-with-people-and-to-do) (6 videos)
-  - Use the People app
-  - Create a contact
-  - Create and use contact lists
-  - Create a Microsoft 365 group
-  - Create, view, and complete to-do items
-  - Create and share task lists
+  - [Use the People app](#use-the-people-app)
+  - [Create a contact](#create-a-contact)
+  - [Create and use contact lists](#create-and-use-contact-lists)
+  - [Create a Microsoft 365 group](#create-a-microsoft-365-group)
+  - [Create, view, and complete to-do items](#create-view-and-complete-to-do-items)
+  - [Create and share task lists](#create-and-share-task-lists)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage your email and calendar with Outlook on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980)
@@ -126,6 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), web (4), management (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [gini] (1)
@@ -185,9 +186,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (22), web (8), [[Windows]] (6), [[Microsoft Office|Office]] (3), product (3)
 > **URLs:** [outlook.com](https://outlook.com) (3), [hotmail.com](https://hotmail.com) (1), [live.com](https://live.com) (1), [msn.com](https://msn.com) (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** from. (1), let (1), continue (1)
 > **Analogies:** just like (2), similar to (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
@@ -196,7 +197,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Outlook on the Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in to Outlook on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980)
@@ -237,9 +238,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), web (3), [[Microsoft Office|Office]] (3), [[Microsoft]] (2), [[Microsoft Office]] (2)
 > **UI Navigation:** go to (3), scroll down (1)
 > **URLs:** [office.com](https://office.com) (3)
-> **Code Keywords:** this, (1), case, (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -316,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (2), default, (1), new, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (13), [[Search]] (4), [[OneNote]] (3), web (2), [[Microsoft 365]] (2)
 > **Definitions:** is a  (5)
 > **UI Navigation:** switch to (1), go to (1), click on (1)
 > **Analogies:** for example (3)
@@ -383,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1), from. (1)
+> **Frameworks & Libraries:** [[Search]] (13), [[Microsoft Outlook|Outlook]] (5), application (4), next (1), web (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** dropdown (1)
@@ -430,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), web (3), [[Search]] (3)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -439,7 +440,7 @@ created: 2026-04-29
 
 ### 2. Compose and Send Messages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new message
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980)
@@ -544,7 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), default, (1), delete (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), web (2), [[Privacy]] (2), [[Microsoft 365]] (2), hit (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -623,9 +624,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1), [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1), web (1)
 > **Ports:** :00 (4), :08 (1)
 > **UI Navigation:** click on (1), dropdown (1), go to (1)
-> **Code Keywords:** let (1), continue (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [teacher] (1)
@@ -697,7 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), case, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), hit (2), cloud (2), [[Microsoft Outlook|Outlook]] (1), web (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** pdf (3)
 > **UI Navigation:** go to (2), click on (1)
@@ -831,7 +832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), while. (1), case, (1), let (1), else, (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Microsoft Word]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Outlook]] (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Env Vars:** url (2)
 > **Analogies:** it's like (1), for example (1)
@@ -891,6 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (1), web (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (4), click on (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -955,7 +957,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), case, (1), this, (1)
 > **Analogies:** picture (2), for example (2)
 > **UI Navigation:** dropdown (1), click on (1)
 > **CLI Commands:** find (1)
@@ -1054,7 +1055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), throw (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), teams (1), feature (1), [[Microsoft Teams]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -1169,7 +1170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), switch (1), type: (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft 365]] (2), [[Microsoft Word|Word]] (2), cloud (2), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (4)
 > **Ports:** :00 (2)
 > **Definitions:** is a  (2)
@@ -1249,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), this, (1)
+> **Frameworks & Libraries:** next (1), teams (1), feature (1), application (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Ports:** :00 (2)
 > **UI Navigation:** go to (1)
@@ -1308,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), delete (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Env Vars:** url (5), psa (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -1318,7 +1319,7 @@ created: 2026-04-29
 
 ### 3. Receive and Manage Messages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### View, reply to, and forward messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980)
@@ -1415,7 +1416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), default, (1), else. (1), case, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), web (2), [[Jetpack Compose|Compose]] (1)
 > **UI Navigation:** open the (1), go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1507,8 +1508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Phishing]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** delete (1), case, (1), switch (1)
 > **Analogies:** for example (2), just like (1)
 > **Ports:** :00 (1)
 > **Cross-References:** in the next (1)
@@ -1582,7 +1583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Word]] (1), web (1)
 > **Definitions:** is an  (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
@@ -1661,7 +1662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), from, (1), else, (1), this. (1), switch (1)
+> **Frameworks & Libraries:** web (5), [[Microsoft Outlook|Outlook]] (5), [[Microsoft Outlook]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (2), go to (1), switch to (1)
 > **Analogies:** for example (1)
@@ -1692,8 +1693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), web (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1784,7 +1785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1), for. (1)
+> **Frameworks & Libraries:** next (4), feature (4), [[Microsoft Outlook|Outlook]] (1), [[Microsoft]] (1)
 > **Analogies:** just like (3), for example (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1), find (1)
@@ -1927,9 +1928,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (14), [[Microsoft]] (4), [[Microsoft 365|M365]] (3), [[Microsoft Outlook|Outlook]] (2), web (2)
 > **UI Navigation:** click on (2), go to (2), drag and drop (2), select the (1), checkbox (1)
 > **CLI Commands:** make (5), find (3)
-> **Code Keywords:** delete (5), this, (1)
 > **Env Vars:** m365 (3)
 > **Analogies:** for example (3)
 > **Cross-References:** in the last (1)
@@ -2035,7 +2036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), let (1), from. (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2139,7 +2140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (2), this, (1), this. (1)
+> **Frameworks & Libraries:** power (5), [[Representational State Transfer (REST)|Rest]] (4), [[Microsoft]] (3), [[Microsoft Outlook|Outlook]] (3), management (2)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (2), required to (1)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -2267,7 +2268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default. (1), else, (1), this, (1), from, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), feature (4), [[Microsoft Outlook|Outlook]] (3), next (2)
 > **UI Navigation:** checkbox (2), go to (1), scroll up (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2), you'll need (1)
@@ -2277,7 +2278,7 @@ created: 2026-04-29
 
 ### 4. Use the Calendar
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate in the Calendar app
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980)
@@ -2362,7 +2363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), default, (1), this. (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Outlook|Outlook]] (1), hit (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -2515,7 +2516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), private (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Microsoft Outlook|Outlook]] (2), [[Search]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **Analogies:** for example (3), just like (2)
 > **Ports:** :30 (3)
 > **Env Vars:** pdf (1)
@@ -2557,7 +2558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), delete (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), web (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
@@ -2650,7 +2651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), this. (1), from. (1), delete (1), case. (1)
+> **Frameworks & Libraries:** management (2), [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1), [[LinkedIn]] (1), power (1)
 > **Ports:** :00 (5)
 > **UI Navigation:** go to (2), click on (1), drag and drop (1)
 > **CLI Commands:** find (2)
@@ -2748,8 +2749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (4), just like (1)
-> **Code Keywords:** delete (2), let (1), switch (1)
 > **CLI Commands:** make (1), snap (1)
 > **Ports:** :00 (1), :30 (1)
 > **UI Navigation:** go to (1), switch to (1)
@@ -2839,7 +2840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), default. (1), default, (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), teams (2), [[Zoom]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Outlook]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **UI Navigation:** click on (1)
@@ -2988,7 +2989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (3), private (3), default, (2), default. (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), web (4), [[Microsoft Office|Office]] (2), next (1), feature (1)
 > **Ports:** :00 (4)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
@@ -3070,7 +3071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), this. (1), else. (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), web (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
@@ -3183,7 +3184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), case, (1), delete (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), web (2), [[Microsoft Teams]] (2), data (1), [[Microsoft]] (1)
 > **URLs:** [outlook.com](https://outlook.com) (1), [live.com](https://live.com) (1)
 > **Env Vars:** url (1), wnba (1)
 > **UI Navigation:** switch to (1), go to (1)
@@ -3195,7 +3196,7 @@ created: 2026-04-29
 
 ### 5. Work with Meetings and Bookings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three ways to create a meeting including Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980)
@@ -3292,8 +3293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), teams (2), [[Microsoft]] (2), [[Microsoft Teams]] (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
-> **Code Keywords:** case, (1), default, (1)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
 > **UI Navigation:** click on (1)
@@ -3414,8 +3415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (4), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Office|Office]] (1), next (1), teams (1)
 > **Ports:** :30 (5), :00 (3)
-> **Code Keywords:** let (4), this. (1), switch (1), this, (1)
 > **UI Navigation:** go to (2), scroll down (1), switch to (1)
 > **Env Vars:** rsvp (3)
 > **CLI Commands:** make (2)
@@ -3508,7 +3509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), else. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft Outlook|Outlook]] (1), web (1)
 > **Ports:** :30 (2), :00 (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -3574,7 +3575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), if, (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **CLI Commands:** make (2), snap (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** open the (1)
@@ -3735,7 +3736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), type. (2), function (1), this. (1)
+> **Frameworks & Libraries:** business (4), next (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (4)
 > **Definitions:** is an  (1), means that (1)
@@ -3791,8 +3792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** let (1), this, (1)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
 > **Cross-References:** in the last (1)
@@ -3803,7 +3804,7 @@ created: 2026-04-29
 
 ### 6. Work with People and To-Do
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the People app
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980)
@@ -3838,6 +3839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), [[Microsoft 365]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3927,9 +3929,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Search]] (1), [[LinkedIn]] (1), [[Microsoft Outlook]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** else, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4006,7 +4008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1)
+> **Frameworks & Libraries:** application (1), [[Microsoft Outlook|Outlook]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** dropdown (1)
@@ -4158,7 +4160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), self (1), private (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), next (2), [[Microsoft 365]] (2), [[SharePoint]] (2), [[Search]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
@@ -4268,7 +4270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Office|Office]] (2), [[Microsoft Teams]] (1), [[Microsoft Outlook]] (1), web (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
@@ -4481,7 +4483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), this. (1), case, (1)
+> **Frameworks & Libraries:** next (6), [[Microsoft Outlook|Outlook]] (4), [[Microsoft]] (3), application (2), teams (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** is a  (3)
@@ -4493,7 +4495,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980)
@@ -4526,9 +4528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[LinkedIn]] (3), web (3), management (3), [[Microsoft]] (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 

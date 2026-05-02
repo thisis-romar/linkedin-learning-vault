@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/technical-solution-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20OpenAI%20API-%20Building%20a%20Real-World%20Solution.md)
@@ -56,47 +56,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Building a real-world AI app
-  - What you need to know
-  - What you are going to build throughout this course
-  - Preparing the tools and development environment
+  - [Building a real-world AI app](#building-a-real-world-ai-app)
+  - [What you need to know](#what-you-need-to-know)
+  - [What you are going to build throughout this course](#what-you-are-going-to-build-throughout-this-course)
+  - [Preparing the tools and development environment](#preparing-the-tools-and-development-environment)
 - [**1. Using the Audio API to Transcribe Audio and the Chat Completions API to Create Documents**](#1-using-the-audio-api-to-transcribe-audio-and-the-chat-completions-api-to-create-documents) (4 videos)
-  - Extracting rich information from audio messages
-  - Installing the required library and preparing the code
-  - Transcribing the audio files by using the Audio API
-  - Creating the JSON document using the Chat Completions API
+  - [Extracting rich information from audio messages](#extracting-rich-information-from-audio-messages)
+  - [Installing the required library and preparing the code](#installing-the-required-library-and-preparing-the-code)
+  - [Transcribing the audio files by using the Audio API](#transcribing-the-audio-files-by-using-the-audio-api)
+  - [Creating the JSON document using the Chat Completions API](#creating-the-json-document-using-the-chat-completions-api)
 - [**2. Building the KinderLogger Assistant with the Assistants API**](#2-building-the-kinderlogger-assistant-with-the-assistants-api) (4 videos)
-  - Bringing the KinderLogger assistant idea to life
-  - Creating the assistant using the Assitants API
-  - Creating a new conversation thread and adding a message
-  - Running and testing the conversation thread
+  - [Bringing the KinderLogger assistant idea to life](#bringing-the-kinderlogger-assistant-idea-to-life)
+  - [Creating the assistant using the Assitants API](#creating-the-assistant-using-the-assitants-api)
+  - [Creating a new conversation thread and adding a message](#creating-a-new-conversation-thread-and-adding-a-message)
+  - [Running and testing the conversation thread](#running-and-testing-the-conversation-thread)
 - [**3. Implementing a Retrieval Augmented Generation (RAG) Process in the Assistant**](#3-implementing-a-retrieval-augmented-generation-rag-process-in-the-assistant) (4 videos)
-  - Using private documents and data in the KinderLogger project
-  - Uploading the transcription files to the assistant
-  - Improving the assistant with prompt engineering techniques
-  - Using the assistant on the Assistants Playground
+  - [Using private documents and data in the KinderLogger project](#using-private-documents-and-data-in-the-kinderlogger-project)
+  - [Uploading the transcription files to the assistant](#uploading-the-transcription-files-to-the-assistant)
+  - [Improving the assistant with prompt engineering techniques](#improving-the-assistant-with-prompt-engineering-techniques)
+  - [Using the assistant on the Assistants Playground](#using-the-assistant-on-the-assistants-playground)
 - [**4. Implementing the Web API to Expose the Assistant**](#4-implementing-the-web-api-to-expose-the-assistant) (6 videos)
-  - Exposing the assistant as a service
-  - Creating the Web API using the FastAPI library
-  - Calling the assistant from the Web API
-  - Implementing logging in the Web API
-  - Building and publishing the Docker container image
-  - Deploying the Azure Container App for the service
+  - [Exposing the assistant as a service](#exposing-the-assistant-as-a-service)
+  - [Creating the Web API using the FastAPI library](#creating-the-web-api-using-the-fastapi-library)
+  - [Calling the assistant from the Web API](#calling-the-assistant-from-the-web-api)
+  - [Implementing logging in the Web API](#implementing-logging-in-the-web-api)
+  - [Building and publishing the Docker container image](#building-and-publishing-the-docker-container-image)
+  - [Deploying the Azure Container App for the service](#deploying-the-azure-container-app-for-the-service)
 - [**5. Identifying Harmful Content Using the Moderations API**](#5-identifying-harmful-content-using-the-moderations-api) (4 videos)
-  - Applying responsible AI practices in KinderLogger
-  - Implementing the Moderations API in the transcription app
-  - Implementing the Moderations API in the Web API
-  - Building a new image and updating the Azure Container App
+  - [Applying responsible AI practices in KinderLogger](#applying-responsible-ai-practices-in-kinderlogger)
+  - [Implementing the Moderations API in the transcription app](#implementing-the-moderations-api-in-the-transcription-app)
+  - [Implementing the Moderations API in the Web API](#implementing-the-moderations-api-in-the-web-api)
+  - [Building a new image and updating the Azure Container App](#building-a-new-image-and-updating-the-azure-container-app)
 - [**6. Creating the KinderLogger GPT**](#6-creating-the-kinderlogger-gpt) (3 videos)
-  - Using a GPT as a frontend for the KinderLogger project
-  - Creating the GPT and the action for invoking the service
-  - Testing the KinderLogger GPT
+  - [Using a GPT as a frontend for the KinderLogger project](#using-a-gpt-as-a-frontend-for-the-kinderlogger-project)
+  - [Creating the GPT and the action for invoking the service](#creating-the-gpt-and-the-action-for-invoking-the-service)
+  - [Testing the KinderLogger GPT](#testing-the-kinderlogger-gpt)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a real-world AI app
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (1), [[Microsoft]] (1)
 > **Speakers:** - [rodrigo] (1)
 
 #### What you need to know
@@ -157,10 +157,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Azure|Azure]] (3), [[Programming]] (2), web (2), api (2)
 > **CLI Commands:** docker (6), python (4)
 > **Tools:** azure portal (1), visual studio (1), docker desktop (1)
 > **Env Vars:** api (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
@@ -209,8 +209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[JSON]] (3), ai (2), web (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** api (6), json (3), gpt (1)
-> **Code Keywords:** let (2), finally, (1), interface (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -262,9 +262,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Windows]] (2), [[Search]] (2), api (2), [[Microsoft]] (1)
 > **CLI Commands:** python (3), find (2), docker (1)
 > **Tools:** visual studio (2), docker desktop (1)
-> **Code Keywords:** let (2)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1), [openai.com](https://openai.com) (1)
 > **Env Vars:** api (2)
 > **Exercise Files:** download the (2)
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 ### 1. Using the Audio API to Transcribe Audio and the Chat Completions API to Create Documents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extracting rich information from audio messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980)
@@ -295,9 +295,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), data (1), [[JSON]] (1)
 > **Env Vars:** api (2), json (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Installing the required library and preparing the code
@@ -343,7 +343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class, (1), module (1)
+> **Frameworks & Libraries:** api (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **Env Vars:** openai_api_key (3), api (2)
 > **CLI Commands:** python (1), pip (1)
 > **Tools:** terminal (2)
@@ -427,7 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), pass (2), finally, (1), function (1), this. (1)
+> **Frameworks & Libraries:** api (2), ai (1), prompt (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Env Vars:** ogg (3), api (2), json (1)
 > **Analogies:** just like (1), such as (1), for instance (1)
 > **File Paths:** whatsapp_utils.py (1), transcription.py (1)
@@ -515,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (1), type. (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (9), api (4), prompt (2), ai (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** json (9), api (4)
 > **Code Identifiers:** audiofile_datetime (1), file_datetime (1)
 > **File Paths:** transcription.py (1)
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Building the KinderLogger Assistant with the Assistants API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing the KinderLogger assistant idea to life
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980)
@@ -546,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -631,7 +631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (2), finally, (2), function (2), this. (1)
+> **Frameworks & Libraries:** prompt (6), api (2), [[Large Language Models (LLM)|Large language models]] (1), [[OpenAI API]] (1), application (1)
 > **Env Vars:** api (3), gpt (1)
 > **Definitions:** is a  (2)
 > **File Paths:** assistance.py (1)
@@ -691,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), function (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), prompt (1), next (1)
 > **Code Identifiers:** client_beta (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll up (1)
@@ -754,14 +754,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[JSON]] (1), data (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Implementing a Retrieval Augmented Generation (RAG) Process in the Assistant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using private documents and data in the KinderLogger project
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980)
@@ -782,7 +782,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -837,7 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[JSON]] (2), next (2), ai (1), prompt (1)
 > **Env Vars:** json (2)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
@@ -903,7 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), module (1), function (1)
+> **Frameworks & Libraries:** [[Search]] (1), [[Prompt Engineering]] (1), prompt (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -939,7 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), prompt (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
@@ -949,7 +948,7 @@ created: 2026-04-29
 
 ### 4. Implementing the Web API to Expose the Assistant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exposing the assistant as a service
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980)
@@ -970,6 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), api (1), [[Forms]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
@@ -1038,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), function (2), continue (2), this. (1)
+> **Frameworks & Libraries:** web (5), application (3), api (2), [[Python (Programming Language)|Python]] (2), next (2)
 > **Env Vars:** api (2), gpt (1), http (1), post (1), json (1)
 > **CLI Commands:** python (2), pip (1)
 > **UI Navigation:** navigate to (2), open the (1)
@@ -1115,7 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (2)
+> **Frameworks & Libraries:** api (2), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1), application (1)
 > **UI Navigation:** navigate to (2), click on (2)
 > **CLI Commands:** ls (1), python (1)
 > **Env Vars:** api (2)
@@ -1183,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (4), module (3), this, (1), function (1)
+> **Frameworks & Libraries:** data (2), application (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **Code Identifiers:** conversation_id (2), basicconfig (1)
 > **Env Vars:** gpt (2), info (1)
 > **UI Navigation:** navigate to (2), scroll up (1)
@@ -1241,7 +1241,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), finally, (1), type, (1)
 > **CLI Commands:** docker (9)
 > **Code Identifiers:** openai (1), fastapi (1)
 > **Ports:** port 8000 (1)
@@ -1317,7 +1316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), application (2), api (1), ai (1), next (1)
 > **Env Vars:** openai_api_key (1), openai_ (1), assistant (1), url (1), dogs (1)
 > **UI Navigation:** click on (3), navigate to (2)
 > **CLI Commands:** docker (1)
@@ -1328,7 +1327,7 @@ created: 2026-04-29
 
 ### 5. Identifying Harmful Content Using the Moderations API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying responsible AI practices in KinderLogger
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980)
@@ -1347,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1380,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), this, (1)
+> **Frameworks & Libraries:** api (2), ai (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1439,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), raise (2), this. (2), function (1), pass (1)
+> **Frameworks & Libraries:** prompt (1), application (1), [[Microsoft Azure|Azure]] (1), next (1)
 > **CLI Commands:** docker (5)
 > **Env Vars:** http (2)
 > **Speakers:** - [instructor] (1)
@@ -1479,7 +1478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (1)
+> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (1), [[OpenAI API]] (1), next (1)
 > **Env Vars:** cpu (1), api (1), url (1), gpt (1)
 > **UI Navigation:** click on (2), navigate to (2)
 > **CLI Commands:** docker (3)
@@ -1491,7 +1490,7 @@ created: 2026-04-29
 
 ### 6. Creating the KinderLogger GPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a GPT as a frontend for the KinderLogger project
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980)
@@ -1510,7 +1509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** feature (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1597,7 +1596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), case, (3), type. (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Privacy]] (2), [[ChatGPT]] (1), api (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** gpt (6), url (2), api (1), dall (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **CLI Commands:** find (2), docker (1)
@@ -1665,7 +1664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class, (2), super (1), this. (1)
+> **Frameworks & Libraries:** ai (2), [[ChatGPT]] (1), application (1), game (1)
 > **Speakers:** - [instructor] (2), - [ai] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
@@ -1674,7 +1673,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980)
@@ -1709,7 +1708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** next (2), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Design Patterns]] (1), web (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [rodrigo] (1)
 

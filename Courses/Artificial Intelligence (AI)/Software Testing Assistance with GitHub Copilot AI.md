@@ -39,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Software%20Testing%20Assistance%20with%20GitHub%20Copilot%20AI.md)
@@ -58,35 +58,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Software testing assistance with GitHub Copilot AI
-  - What you should know
-  - Using the exercise files
+  - [Software testing assistance with GitHub Copilot AI](#software-testing-assistance-with-github-copilot-ai)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Overview**](#1-overview) (6 videos)
-  - What is GitHub Copilot?
-  - Copilot for code completion
-  - Chatting with Copilot
-  - Automated testing explained
-  - Configuring a test suite
-  - AI and automated testing
+  - [What is GitHub Copilot?](#what-is-github-copilot)
+  - [Copilot for code completion](#copilot-for-code-completion)
+  - [Chatting with Copilot](#chatting-with-copilot)
+  - [Automated testing explained](#automated-testing-explained)
+  - [Configuring a test suite](#configuring-a-test-suite)
+  - [AI and automated testing](#ai-and-automated-testing)
 - [**2. Adding Tests to Existing Code with Copilot**](#2-adding-tests-to-existing-code-with-copilot) (4 videos)
-  - Identifying testable code
-  - Generate your first tests
-  - Refactor with tests
-  - Use Copilot slash commands
+  - [Identifying testable code](#identifying-testable-code)
+  - [Generate your first tests](#generate-your-first-tests)
+  - [Refactor with tests](#refactor-with-tests)
+  - [Use Copilot slash commands](#use-copilot-slash-commands)
 - [**3. Use Copilot to Generate Code from Tests**](#3-use-copilot-to-generate-code-from-tests) (3 videos)
-  - Write your tests to document business logic
-  - Generate code from tests
-  - Update functionality by writing more tests
+  - [Write your tests to document business logic](#write-your-tests-to-document-business-logic)
+  - [Generate code from tests](#generate-code-from-tests)
+  - [Update functionality by writing more tests](#update-functionality-by-writing-more-tests)
 - [**4. Real-World Benefits**](#4-real-world-benefits) (3 videos)
-  - Code quality
-  - Running tests in CI/CD
-  - Limiting risk by limiting exposure
+  - [Code quality](#code-quality)
+  - [Running tests in CI/CD](#running-tests-in-cicd)
+  - [Limiting risk by limiting exposure](#limiting-risk-by-limiting-exposure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Software testing assistance with GitHub Copilot AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[GitHub Copilot]] (3)
 > **Tools:** github (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - would (1)
 
 #### What you should know
@@ -134,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Test-Driven Development]] (1), [[PHP]] (1), [[LinkedIn]] (1), [[Programming]] (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
@@ -161,6 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -169,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980)
@@ -230,9 +232,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), ai (4), [[GitHub]] (4), [[GitHub Copilot]] (2), next (1)
 > **Tools:** github (6), command line (1), vs code (1)
 > **Env Vars:** ide (4), json (1), cli (1)
-> **Code Keywords:** interface (1), this, (1), function (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** find (1)
@@ -296,7 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2), [[PHP]] (1), data (1), ai (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
@@ -401,8 +403,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[PHP]] (6), feature (1), prompt (1), [[Search]] (1)
 > **CLI Commands:** php (6), git (1), python (1), ruby (1), make (1)
-> **Code Keywords:** function (4), let (2), pass (1), for, (1), interface (1)
 > **Env Vars:** php (6), ide (1), aw3 (1), cobol (1)
 > **Versions:** php 8 (4)
 > **Definitions:** is a  (2), is an  (2)
@@ -493,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), case, (2), pass (1), class. (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[PHP]] (3), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** php (3), make (1)
 > **Code Identifiers:** setup (1), test_add_function (1)
 > **Env Vars:** php (2)
@@ -581,7 +583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), assert (2), finally, (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[PHP]] (5), database (3), [[Laravel]] (2), feature (2), application (2)
 > **CLI Commands:** php (5), find (1)
 > **Env Vars:** php (5), aaa (1)
 > **Analogies:** for example (1)
@@ -655,7 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this, (2), continue (1), assert (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (2), business (2)
 > **CLI Commands:** composer (1), make (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ide (1)
@@ -665,7 +667,7 @@ created: 2026-04-29
 
 ### 2. Adding Tests to Existing Code with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying testable code
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980)
@@ -846,7 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), pass (3), this. (3), this, (3), case. (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), data (1), [[Test-Driven Development]] (1)
 > **Code Identifiers:** link_array (7), generate_link_from_array (4), build_url (3), get_link_by_id (2), create_url (2)
 > **Env Vars:** url (15), filter_validate_url (1), tdd (1)
 > **CLI Commands:** make (2)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), this, (2), require (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[PHP]] (3), database (2), [[Search]] (1), hit (1)
 > **CLI Commands:** php (3), make (1), find (1)
 > **Env Vars:** php (3), url (1)
 > **Prerequisites:** setup (3), set up (1)
@@ -1080,7 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), this. (3), default, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[PHP]] (4), prompt (1)
 > **CLI Commands:** make (4), php (4)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** php (4)
@@ -1153,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case, (2), self (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Git]] (2), [[Microsoft Word|Word]] (1), [[GitHub]] (1), prompt (1)
 > **CLI Commands:** git (2), php (1)
 > **Env Vars:** php (1), ide (1)
 > **Tools:** github (1), visual studio (1)
@@ -1164,7 +1166,7 @@ created: 2026-04-29
 
 ### 3. Use Copilot to Generate Code from Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Write your tests to document business logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980)
@@ -1253,7 +1255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2), let (2), continue (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), business (3), [[PHP]] (1), [[Unit Testing]] (1), feature (1)
 > **CLI Commands:** php (1), make (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
@@ -1370,7 +1372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (4), pass (3), function (3), let (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), next (1), bi (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** url (1)
@@ -1483,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), assert (2), delete (1), this. (1), class. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[PHP]] (1), web (1), next (1)
 > **Env Vars:** url (2), php (1), psr (1), ide (1)
 > **CLI Commands:** make (2), php (1)
 > **Definitions:** is a  (2)
@@ -1494,7 +1496,7 @@ created: 2026-04-29
 
 ### 4. Real-World Benefits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980)
@@ -1597,7 +1599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (3), this, (1), class. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (1), functional (1)
 > **Env Vars:** url (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1679,11 +1681,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (7), cd (7), [[GitHub]] (5), [[PHP]] (3), [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** cd (7), php (3), find (2), composer (1)
 > **Env Vars:** yaml (4), php (3)
 > **Tools:** github (5)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1794,7 +1796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (1), require (1)
+> **Frameworks & Libraries:** feature (4), [[E-Commerce]] (1), hr (1), [[Programming]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdd (1)
 > **Analogies:** just like (1)
@@ -1803,7 +1805,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980)
@@ -1824,6 +1826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[GitHub Copilot]] (1), ai (1), [[Test-Driven Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** php (2), ide (1)
 > **CLI Commands:** php (2)
 > **Tools:** github (1)

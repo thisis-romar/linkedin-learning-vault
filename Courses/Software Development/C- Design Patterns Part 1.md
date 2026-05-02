@@ -31,7 +31,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Design%20Patterns%20Part%201.md)
@@ -50,50 +50,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Object-oriented design patterns in C#
-  - What you should know
-  - Review of terms
-  - Using the exercise files and installing .NET SDK
+  - [Object-oriented design patterns in C#](#object-oriented-design-patterns-in-c)
+  - [What you should know](#what-you-should-know)
+  - [Review of terms](#review-of-terms)
+  - [Using the exercise files and installing .NET SDK](#using-the-exercise-files-and-installing-net-sdk)
 - [**1. Defining Software Design Patterns**](#1-defining-software-design-patterns) (9 videos)
-  - Object-oriented programming
-  - What isn't OOP for design patterns
-  - C#, OOP, and design patterns
-  - What are design patterns?
-  - Why do you need design patterns?
-  - A short history of design patterns
-  - Categories of design patterns
-  - Challenge: Design patterns outside of software
-  - Solution: Design patterns outside of software
+  - [Object-oriented programming](#object-oriented-programming)
+  - [What isn't OOP for design patterns](#what-isnt-oop-for-design-patterns)
+  - [C#, OOP, and design patterns](#c-oop-and-design-patterns)
+  - [What are design patterns?](#what-are-design-patterns)
+  - [Why do you need design patterns?](#why-do-you-need-design-patterns)
+  - [A short history of design patterns](#a-short-history-of-design-patterns)
+  - [Categories of design patterns](#categories-of-design-patterns)
+  - [Challenge: Design patterns outside of software](#challenge-design-patterns-outside-of-software)
+  - [Solution: Design patterns outside of software](#solution-design-patterns-outside-of-software)
 - [**2. Get Started with Design Patterns**](#2-get-started-with-design-patterns) (5 videos)
-  - Using software design patterns
-  - Software design pattern drawbacks
-  - Overview of the creational patterns for C#
-  - Overview of the structural patterns for C#
-  - Overview of the behavioral patterns for C#
+  - [Using software design patterns](#using-software-design-patterns)
+  - [Software design pattern drawbacks](#software-design-pattern-drawbacks)
+  - [Overview of the creational patterns for C#](#overview-of-the-creational-patterns-for-c)
+  - [Overview of the structural patterns for C#](#overview-of-the-structural-patterns-for-c)
+  - [Overview of the behavioral patterns for C#](#overview-of-the-behavioral-patterns-for-c)
 - [**3. The Iterator Pattern**](#3-the-iterator-pattern) (5 videos)
-  - Iterator pattern definition
-  - Explicit iterator implementation in C# for generated data
-  - Combining iterators in C# with LINQ
-  - Challenge: Simultaneous iterators
-  - Solution: Simultaneous iterators
+  - [Iterator pattern definition](#iterator-pattern-definition)
+  - [Explicit iterator implementation in C# for generated data](#explicit-iterator-implementation-in-c-for-generated-data)
+  - [Combining iterators in C# with LINQ](#combining-iterators-in-c-with-linq)
+  - [Challenge: Simultaneous iterators](#challenge-simultaneous-iterators)
+  - [Solution: Simultaneous iterators](#solution-simultaneous-iterators)
 - [**4. The Factory Method Pattern**](#4-the-factory-method-pattern) (5 videos)
-  - Factory Method pattern definition
-  - Factory Method pattern to choose the implementation of an action dynamically
-  - Factory Method design pattern for unit testing
-  - Challenge: Factory Method with dependency injection
-  - Solution: Factory Method with dependency injection
+  - [Factory Method pattern definition](#factory-method-pattern-definition)
+  - [Factory Method pattern to choose the implementation of an action dynamically](#factory-method-pattern-to-choose-the-implementation-of-an-action-dynamically)
+  - [Factory Method design pattern for unit testing](#factory-method-design-pattern-for-unit-testing)
+  - [Challenge: Factory Method with dependency injection](#challenge-factory-method-with-dependency-injection)
+  - [Solution: Factory Method with dependency injection](#solution-factory-method-with-dependency-injection)
 - [**5. The Adapter Pattern**](#5-the-adapter-pattern) (5 videos)
-  - Adapter pattern definition
-  - Adapter in C#: Adapt FileStream to ILogger
-  - Adapter pattern for ViewModel mapping
-  - Challenge: Class adapter vs. object adapter
-  - Solution: Class adapter vs. object adapter
+  - [Adapter pattern definition](#adapter-pattern-definition)
+  - [Adapter in C#: Adapt FileStream to ILogger](#adapter-in-c-adapt-filestream-to-ilogger)
+  - [Adapter pattern for ViewModel mapping](#adapter-pattern-for-viewmodel-mapping)
+  - [Challenge: Class adapter vs. object adapter](#challenge-class-adapter-vs-object-adapter)
+  - [Solution: Class adapter vs. object adapter](#solution-class-adapter-vs-object-adapter)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented design patterns in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), web (2), [[Software Design Patterns]] (1), [[Software Development]] (1), next (1)
 > **Env Vars:** mvc (1)
 > **Versions:** 13.73 (1)
 > **Speakers:** - [instructor] (1)
@@ -144,6 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Language Integrated Query (LINQ)|Linq]] (2), [[Programming]] (1)
 > **Env Vars:** net (2), linq (2), asp (1), mvc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), abstract (2), class. (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (5), [[Software Design]] (2), application (1), [[Programming]] (1)
 > **Env Vars:** solid (1), dry (1), yagni (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -272,6 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Windows]] (1), [[GitHub]] (1), [[Git]] (1)
 > **Env Vars:** net (2), sdk (1), zip (1)
 > **Tools:** vs code (2), visual studio (1), github (1)
 > **Exercise Files:** clone the repo (1), download the (1), zip file (1)
@@ -283,7 +285,7 @@ created: 2026-04-29
 
 ### 1. Defining Software Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980)
@@ -360,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), class, (1), break. (1), class. (1), finally, (1)
+> **Frameworks & Libraries:** oop (3), [[Programming]] (3), [[JavaScript]] (2), [[Design Patterns]] (1), data (1)
 > **Definitions:** is a  (3), means that (3), is an  (1)
 > **Env Vars:** oop (3), sms (1)
 > **CLI Commands:** make (2)
@@ -417,6 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (5), [[Programming]] (5), oop (4), [[Functional Programming]] (3), [[Scripting]] (1)
 > **Env Vars:** oop (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -450,9 +453,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (5), oop (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), functional (1)
 > **Env Vars:** oop (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else, (1)
 > **Speakers:** - [instructor] (1)
 
 #### What are design patterns?
@@ -520,10 +523,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (11), [[Engineering]] (1), [[Software Design]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1), picture (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** coming up (1)
 > **Tools:** notion (1)
 > **Exercise Files:** sample code (1)
@@ -596,9 +599,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), application (2), next (1), [[Software Design]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -666,8 +669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Software Design Patterns]] (3), oop (2), next (2), [[Software Design]] (1)
 > **Env Vars:** oop (2), net (2)
-> **Code Keywords:** let (1), from. (1), new, (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -758,7 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (2), abstract (1), class, (1), from, (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Programming]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** mvc (2)
@@ -826,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Windows]] (2), application (1), [[Software Design Patterns]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -878,13 +881,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
 
 ### 2. Get Started with Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using software design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980)
@@ -959,8 +963,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Search]] (1), career (1), next (1), open-source (1)
 > **CLI Commands:** find (5), make (2)
-> **Code Keywords:** finally, (2), new. (1), public (1)
 > **Cross-References:** later in (1)
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
@@ -1023,8 +1027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), application (2), data (2), [[NoSQL]] (1), database (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** require (1)
 > **URLs:** [or.net](https://or.net) (1)
 > **Env Vars:** net (1)
 > **UI Navigation:** go to (1)
@@ -1121,8 +1125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), application (3), [[Design Patterns]] (2), data (2), next (1)
 > **Env Vars:** net (5), http (2), asp (2)
-> **Code Keywords:** interface (3), this, (1), let (1), abstract (1), require (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **Prerequisites:** configure (2), initialization (2)
 > **URLs:** [system.net](https://system.net) (1)
@@ -1203,7 +1207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), let (1), abstract (1), type. (1)
+> **Frameworks & Libraries:** data (7), [[Jetpack Compose|Compose]] (1), [[ASP.NET Core]] (1), application (1), database (1)
 > **Env Vars:** mvc (2), asp (1), net (1), cpu (1)
 > **Definitions:** is a  (5)
 > **Analogies:** just like (1), it's like (1)
@@ -1326,9 +1330,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (2), next (2), data (2), [[Design Patterns]] (2), [[Algorithms]] (2)
 > **Env Vars:** net (3), linq (2), asp (1), mbc (1)
 > **Definitions:** is a  (3), is an  (3), means that (1)
-> **Code Keywords:** interface (1), type. (1), pass (1), finally, (1), switch (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Exercise Files:** template (1)
@@ -1337,7 +1341,7 @@ created: 2026-04-29
 
 ### 3. The Iterator Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Iterator pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980)
@@ -1424,7 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), interface (2), public (1), this. (1), require (1)
+> **Frameworks & Libraries:** next (3), [[Software Design]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** net (1)
@@ -1544,7 +1548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), private (1), function (1), finally, (1)
+> **Frameworks & Libraries:** next (6), data (2), generic (1), application (1)
 > **Definitions:** is called (4), is an  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
@@ -1633,7 +1637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), async (1), var (1), case, (1), throw (1)
+> **Frameworks & Libraries:** application (5), [[GitHub]] (1), web (1), business (1), next (1)
 > **Tools:** github (1), vs code (1)
 > **UI Navigation:** select the (1), open the (1)
 > **Env Vars:** var (1)
@@ -1669,6 +1673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), generic (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1740,7 +1745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), yield (2), pass (2), function (1), type. (1)
+> **Frameworks & Libraries:** generic (3), next (3), web (1)
 > **Definitions:** is a  (1), is called (1)
 > **Code Identifiers:** getenumerator (1)
 > **UI Navigation:** select the (1)
@@ -1750,7 +1755,7 @@ created: 2026-04-29
 
 ### 4. The Factory Method Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Factory Method pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980)
@@ -1833,7 +1838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), type. (3), abstract (3), type, (2), implements (2)
+> **Frameworks & Libraries:** product (7), [[Design Patterns]] (2), [[Dependency Injection]] (2), data (1), application (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -1921,7 +1926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), return. (1), public (1), class. (1)
+> **Frameworks & Libraries:** application (4), [[GitHub]] (1), [[Debugging]] (1), business (1)
 > **Code Identifiers:** shippingservice (2), serviceprovider (1)
 > **Analogies:** picture (1), imagine (1), for example (1)
 > **Tools:** github (1), terminal (1)
@@ -2028,7 +2033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), let (2), pass (1), for. (1), type. (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (5), application (4), [[Microsoft]] (1), generic (1)
 > **Env Vars:** mvc (1), dll (1), moq (1), mlq (1)
 > **UI Navigation:** go to (2), navigate to (1)
 > **Prerequisites:** configure (3)
@@ -2065,7 +2070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** application (3), next (1), [[Dependency Injection]] (1)
 > **Env Vars:** net (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2118,7 +2123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), type. (1), default, (1)
+> **Frameworks & Libraries:** application (5), web (1), [[Design Patterns]] (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -2129,7 +2134,7 @@ created: 2026-04-29
 
 ### 5. The Adapter Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adapter pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980)
@@ -2232,7 +2237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (16), let (2), extends (1), implements (1), override (1)
+> **Frameworks & Libraries:** database (4), power (2), [[Windows]] (1), api (1), next (1)
 > **Env Vars:** net (3), soap (1), api (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -2328,7 +2333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (3), this, (1), finally, (1), override (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), application (4), generic (1), next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** terminal (2)
 > **URLs:** [system.io](https://system.io) (1)
@@ -2431,7 +2436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), let (2), class. (2), private (1), public (1)
+> **Frameworks & Libraries:** application (1), web (1)
 > **UI Navigation:** open the (1), go to (1), select the (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -2454,7 +2459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** application (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2503,7 +2508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), interface (2), type. (2), private (1), override (1)
+> **Frameworks & Libraries:** data (2), web (1), [[Software Architecture]] (1), application (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** poc (1)
@@ -2513,7 +2518,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980)
@@ -2552,6 +2557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (2), application (2), [[Forms]] (1), next (1), web (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [richard] (1)

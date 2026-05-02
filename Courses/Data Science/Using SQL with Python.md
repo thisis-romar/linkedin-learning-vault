@@ -32,7 +32,7 @@ tags:
   - skill/python-programming-language
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20SQL%20with%20Python.md)
@@ -51,39 +51,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Use SQL with Python
-  - Using the exercise files
-  - What do you need for this course?
-  - Installing the tools
+  - [Use SQL with Python](#use-sql-with-python)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [What do you need for this course?](#what-do-you-need-for-this-course)
+  - [Installing the tools](#installing-the-tools)
 - [**1. Common Interface**](#1-common-interface) (8 videos)
-  - The Python DB-API
-  - Creating a connection
-  - Simple queries
-  - Prepared statements
-  - Hello, SQLite
-  - Hello, MySQL
-  - Challenge
-  - Solution
+  - [The Python DB-API](#the-python-db-api)
+  - [Creating a connection](#creating-a-connection)
+  - [Simple queries](#simple-queries)
+  - [Prepared statements](#prepared-statements)
+  - [Hello, SQLite](#hello-sqlite)
+  - [Hello, MySQL](#hello-mysql)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**2. A CRUD Class**](#2-a-crud-class) (6 videos)
-  - The essential four
-  - SQL Wrapper
-  - Adding CRUD methods
-  - Using the module
-  - Challenge
-  - Solution
+  - [The essential four](#the-essential-four)
+  - [SQL Wrapper](#sql-wrapper)
+  - [Adding CRUD methods](#adding-crud-methods)
+  - [Using the module](#using-the-module)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**3. Final Project: URL Shortener**](#3-final-project-url-shortener) (6 videos)
-  - Defining the project
-  - Testing a web application
-  - Code demonstration
-  - Touring the code
-  - Challenge
-  - Solution
+  - [Defining the project](#defining-the-project)
+  - [Testing a web application](#testing-a-web-application)
+  - [Code demonstration](#code-demonstration)
+  - [Touring the code](#touring-the-code)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thank you
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use SQL with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980)
@@ -108,9 +108,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), database (2), web application (1), [[Database Applications]] (1)
 > **Env Vars:** sql (5), api (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** interface (2), finally, (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [bill] (1)
 
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), [[Python (Programming Language)|Python]] (1), [[MySQL]] (1), [[Windows]] (1)
 > **CLI Commands:** find (2), make (2), python (1), mysql (1)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** sql (2)
@@ -184,6 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[SQL]] (4), [[MySQL]] (2), [[Databases]] (1), [[Windows]] (1)
 > **CLI Commands:** python (11), mysql (2), find (1)
 > **Prerequisites:** you'll need (10), install (3)
 > **Env Vars:** sql (4)
@@ -477,8 +479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (24), [[MySQL]] (17), [[SQL]] (1)
 > **CLI Commands:** python (24), mysql (17), make (1), find (1)
-> **Code Keywords:** this. (7), module (5), this, (4)
 > **Prerequisites:** install (5), set up (3), configure (2), you'll need (1)
 > **Tools:** pycharm (10)
 > **Env Vars:** f10 (5), sql (1), ide (1)
@@ -489,7 +491,7 @@ created: 2026-04-29
 
 ### 1. Common Interface
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Python DB-API
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980)
@@ -528,9 +530,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), api (6), [[Python (Programming Language)|Python]] (3), [[SQL]] (2), management (1)
 > **Env Vars:** api (6), dbms (3), sql (2)
 > **CLI Commands:** python (3), find (1), mysql (1)
-> **Code Keywords:** interface (2), require (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Versions:** 2.0 (1)
 > **Prerequisites:** you'll need (1)
@@ -651,8 +653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (17), [[MySQL]] (10), [[Python (Programming Language)|Python]] (4), [[SQL]] (4), api (2)
 > **CLI Commands:** mysql (10), python (4), sqlite3 (4)
-> **Code Keywords:** module (4), case, (4), interface (3), function (2), let (1)
 > **Env Vars:** sql (4), api (2), f10 (1)
 > **Versions:** 3.34.0 (1), 8.0.23 (1)
 > **File Paths:** db-connect.py (1)
@@ -765,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), continue (1), this. (1)
+> **Frameworks & Libraries:** database (7), [[SQL]] (4), [[Fetch]] (2), [[Linux]] (2), [[Databases]] (1)
 > **Env Vars:** sql (4)
 > **Exercise Files:** exercise files (4)
 > **CLI Commands:** sqlite3 (3)
@@ -861,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), case, (1), pass (1)
+> **Frameworks & Libraries:** database (6), [[MySQL]] (3), [[Database Applications]] (1), [[SQL]] (1), [[Fetch]] (1)
 > **CLI Commands:** mysql (3), python (1), make (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** my_host (1), user (1), password (1), sql (1)
@@ -967,10 +969,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (13), database (10), [[Fetch]] (6), [[Python (Programming Language)|Python]] (3), api (1)
 > **Env Vars:** sql (13), api (1)
 > **CLI Commands:** make (3), python (3)
 > **Definitions:** is a  (3), is called (1), is an  (1)
-> **Code Keywords:** case, (1), require (1), module (1), this, (1)
 > **File Paths:** hello-sqlite.py (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - this (1)
@@ -1070,8 +1072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (13), database (6), [[Python (Programming Language)|Python]] (5), [[SQL]] (4), [[Fetch]] (4)
 > **CLI Commands:** mysql (13), python (5), make (2)
-> **Code Keywords:** case, (4), interface (1), this. (1), default, (1), switch (1)
 > **Env Vars:** sql (3), api (1), create_table (1), table_created (1)
 > **Definitions:** is a  (2)
 > **File Paths:** mysql.py (1)
@@ -1109,9 +1111,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (5), data (3), database (2)
 > **CLI Commands:** mysql (5)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -1228,8 +1230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (24), data (9), database (3), [[Python (Programming Language)|Python]] (1), [[Databases]] (1)
 > **Env Vars:** sql (24), sqli (1), abc (1)
-> **Code Keywords:** function (4), throw (1), let (1), from. (1)
 > **Prerequisites:** set up (5)
 > **Best Practices:** good practice (2)
 > **File Paths:** 01-solution1.py (1)
@@ -1240,7 +1242,7 @@ created: 2026-04-29
 
 ### 2. A CRUD Class
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The essential four
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980)
@@ -1259,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), delete (2), module (1)
+> **Frameworks & Libraries:** database (3), [[SQL]] (3), [[Python (Programming Language)|Python]] (2), api (2), management (1)
 > **Env Vars:** sql (3), api (2), dba (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
@@ -1484,8 +1486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (25), [[Python (Programming Language)|Python]] (5), database (3), [[Fetch]] (2), management (1)
 > **Env Vars:** sql (25), dbms (10), bwdb (2), dba (1), api (1)
-> **Code Keywords:** module (7), this. (3), function (3), class, (2), default. (2)
 > **CLI Commands:** python (5), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Prerequisites:** set up (2)
@@ -1586,9 +1588,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), database (3), [[Python (Programming Language)|Python]] (2), [[Search]] (1), [[Fetch]] (1)
 > **Code Identifiers:** table_name (3), update_string (3), add_row (3), values_string (3), column_names (2)
 > **Env Vars:** sql (8), crud (8), insert (3), bwdb (2), select (2)
-> **Code Keywords:** static (3), pass (2), function (1), this, (1), case, (1)
 > **Definitions:** is a  (4), is called (1)
 > **SQL:** select (2), insert into (1), update (1)
 > **CLI Commands:** python (2), mysql (1)
@@ -1666,7 +1668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), module (2), class. (2), import, (1), class, (1)
+> **Frameworks & Libraries:** [[SQL]] (4), hit (1), database (1), [[Search]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** sql (4)
 > **Cross-References:** in the next (1)
@@ -1747,8 +1749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Python (Programming Language)|Python]] (1), [[Scripting]] (1), next (1)
 > **CLI Commands:** find (2), python (1)
-> **Code Keywords:** module (1), delete (1), this. (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command line (1)
 > **UI Navigation:** open the (1)
@@ -1873,7 +1875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (6), for, (1), this. (1), function (1)
+> **Frameworks & Libraries:** database (4), [[Google]] (2), prompt (1), next (1), web (1)
 > **Code Identifiers:** find_domain (5), edit_domain (2), do_menu (1), add_domain (1), domain_name (1)
 > **URLs:** [bw.org](https://bw.org) (2), [lynda.com](https://lynda.com) (2)
 > **CLI Commands:** find (3)
@@ -1885,7 +1887,7 @@ created: 2026-04-29
 
 ### 3. Final Project: URL Shortener
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980)
@@ -1964,8 +1966,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), database (3), application (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** url (9), cgi (8), jurl (2), crud (2), html (2)
-> **Code Keywords:** interface (2), private (1), public (1), pass (1), finally, (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **Warnings:** keep in mind (1), note that (1)
@@ -2022,8 +2024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), [[Python (Programming Language)|Python]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (2), web application (1)
 > **Env Vars:** cgi (6), http (2), html (1)
-> **Code Keywords:** module (3), class, (1), switch (1), this, (1)
 > **Definitions:** means that (3), is a  (2)
 > **File Paths:** webserver.py (1), 9999/cgi-test.py (1), cgi-test.py (1)
 > **CLI Commands:** python (3)
@@ -2128,8 +2130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Google]] (4), database (3), next (2), [[HTML]] (2)
 > **Env Vars:** jurl (3), url (3), html (2), crud (1)
-> **Code Keywords:** delete (4), this. (2), let (2)
 > **URLs:** [google.com](https://google.com) (4)
 > **File Paths:** db.py (2), jurl.py (1)
 > **Cross-References:** in the next (2), later in (1)
@@ -2322,8 +2324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (13), [[Python (Programming Language)|Python]] (4), database (4), css (3), web application (2)
 > **Env Vars:** html (12), cgi (8), css (3), jurl (1), bwdb (1)
-> **Code Keywords:** let (3), this, (3), delete (3), function (2), module (2)
 > **CLI Commands:** python (4), make (2)
 > **File Paths:** db.py (1), main.html (1)
 > **Tools:** pycharm (1), command line (1)
@@ -2348,8 +2350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), web (1), next (1)
 > **Cross-References:** previous chapter (1), in the next (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2423,7 +2425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1), case, (1), this, (1), interface (1)
+> **Frameworks & Libraries:** database (4), [[Google]] (3), application (2), web (2), [[SQL]] (2)
 > **Env Vars:** ggl (3), sql (2), jurl (1), url (1), https (1)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [google.com](https://google.com) (2)
@@ -2435,7 +2437,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980)
@@ -2460,6 +2462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), [[Python (Programming Language)|Python]] (3), database (2), data (1), [[Databases]] (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (1)

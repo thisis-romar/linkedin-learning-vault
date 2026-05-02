@@ -28,7 +28,7 @@ tags:
   - skill/linkedin
   - skill/thought-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/The%20Step-by-Step%20Guide%20to%20Building%20your%20Thought%20Leadership%20on%20LinkedIn.md)
@@ -47,27 +47,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why become a thought leader on LinkedIn?
+  - [Why become a thought leader on LinkedIn?](#why-become-a-thought-leader-on-linkedin)
 - [**1. Who Am I?**](#1-who-am-i) (2 videos)
-  - What values do you embody?
-  - What makes you unique?
+  - [What values do you embody?](#what-values-do-you-embody)
+  - [What makes you unique?](#what-makes-you-unique)
 - [**2. Positioning Yourself as a SME**](#2-positioning-yourself-as-a-sme) (3 videos)
-  - What does your shop window say about you?
-  - What is your key message?
-  - Writing your career story
+  - [What does your shop window say about you?](#what-does-your-shop-window-say-about-you)
+  - [What is your key message?](#what-is-your-key-message)
+  - [Writing your career story](#writing-your-career-story)
 - [**3. Thought Leadership Strategy**](#3-thought-leadership-strategy) (2 videos)
-  - Your thought leadership content map
-  - Strategies to building your thought leadership
+  - [Your thought leadership content map](#your-thought-leadership-content-map)
+  - [Strategies to building your thought leadership](#strategies-to-building-your-thought-leadership)
 - [**4. Courageous Content**](#4-courageous-content) (3 videos)
-  - What holds you back?
-  - The power of authenticity and vulnerability
-  - Digital storytelling
+  - [What holds you back?](#what-holds-you-back)
+  - [The power of authenticity and vulnerability](#the-power-of-authenticity-and-vulnerability)
+  - [Digital storytelling](#digital-storytelling)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What impact will you make?
+  - [What impact will you make?](#what-impact-will-you-make)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why become a thought leader on LinkedIn?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Thought Leadership]] (3), power (1), career (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 ### 1. Who Am I?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What values do you embody?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980)
@@ -190,7 +190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[LinkedIn]] (2), leadership (1), [[Unity]] (1), [[Thought Leadership]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -289,15 +289,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (3), career (3), leadership (2), [[LinkedIn]] (1), power (1)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** super (2), self (1), continue (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
 
 ### 2. Positioning Yourself as a SME
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What does your shop window say about you?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980)
@@ -382,8 +382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Windows]] (1), next (1), leadership (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - imagine (1)
@@ -453,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Thought Leadership]] (3), next (1), career (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - being (1)
 
@@ -540,8 +540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (7), [[LinkedIn]] (4), next (2), [[Thought Leadership]] (1), [[Storytelling]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** usp (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
@@ -550,7 +550,7 @@ created: 2026-04-29
 
 ### 3. Thought Leadership Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your thought leadership content map
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980)
@@ -625,6 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Thought Leadership]] (5), [[LinkedIn]] (2), leadership (1), next (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
@@ -688,7 +689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (9), [[Thought Leadership]] (6), [[Personal Branding]] (1), [[Interviewing]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - when (1)
@@ -696,7 +697,7 @@ created: 2026-04-29
 
 ### 4. Courageous Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What holds you back?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980)
@@ -769,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1)
+> **Frameworks & Libraries:** business (2), [[Thought Leadership]] (2), [[Content Creation]] (1), hr (1), next (1)
 > **CLI Commands:** go run (1), make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -844,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), self (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Thought Leadership]] (2), business (1), hit (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 
@@ -923,15 +924,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Warnings:** note that (1)
 > **Speakers:** - i (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What impact will you make?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980)
@@ -986,8 +987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), leadership (2), [[Thought Leadership]] (2), power (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 

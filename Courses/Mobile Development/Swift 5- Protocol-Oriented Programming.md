@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Swift%205-%20Protocol-Oriented%20Programming.md)
@@ -46,51 +46,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Benefits: Protocol-oriented programming
-  - What you should know
+  - [Benefits: Protocol-oriented programming](#benefits-protocol-oriented-programming)
+  - [What you should know](#what-you-should-know)
 - [**1. The Pillars of Protocol Orientation**](#1-the-pillars-of-protocol-orientation) (10 videos)
-  - What is protocol-oriented programming?
-  - Introducing the protocol
-  - Adopting protocols
-  - Conforming to protocols via extensions
-  - Understanding polymorphism
-  - Protocol inheritance
-  - Adopting multiple protocols
-  - Protocol extensions
-  - Challenge: Removing tight coupling
-  - Solution: Removing tight coupling
+  - [What is protocol-oriented programming?](#what-is-protocol-oriented-programming)
+  - [Introducing the protocol](#introducing-the-protocol)
+  - [Adopting protocols](#adopting-protocols)
+  - [Conforming to protocols via extensions](#conforming-to-protocols-via-extensions)
+  - [Understanding polymorphism](#understanding-polymorphism)
+  - [Protocol inheritance](#protocol-inheritance)
+  - [Adopting multiple protocols](#adopting-multiple-protocols)
+  - [Protocol extensions](#protocol-extensions)
+  - [Challenge: Removing tight coupling](#challenge-removing-tight-coupling)
+  - [Solution: Removing tight coupling](#solution-removing-tight-coupling)
 - [**2. Protocol-Oriented Programming**](#2-protocol-oriented-programming) (6 videos)
-  - Why protocols?
-  - From unstructured code to POP
-  - Designing with classes: First try
-  - Designing with classes: Subclassing
-  - The benefits of thinking in protocols
-  - Highlighting the differences
+  - [Why protocols?](#why-protocols)
+  - [From unstructured code to POP](#from-unstructured-code-to-pop)
+  - [Designing with classes: First try](#designing-with-classes-first-try)
+  - [Designing with classes: Subclassing](#designing-with-classes-subclassing)
+  - [The benefits of thinking in protocols](#the-benefits-of-thinking-in-protocols)
+  - [Highlighting the differences](#highlighting-the-differences)
 - [**3. Generics**](#3-generics) (7 videos)
-  - The importance of generics
-  - Defining generic functions and methods
-  - Working with generic types
-  - Placeholder types in protocols
-  - Using generics with protocols
-  - Challenge: Implementing a generic stack
-  - Solution: Implementing a generic stack
+  - [The importance of generics](#the-importance-of-generics)
+  - [Defining generic functions and methods](#defining-generic-functions-and-methods)
+  - [Working with generic types](#working-with-generic-types)
+  - [Placeholder types in protocols](#placeholder-types-in-protocols)
+  - [Using generics with protocols](#using-generics-with-protocols)
+  - [Challenge: Implementing a generic stack](#challenge-implementing-a-generic-stack)
+  - [Solution: Implementing a generic stack](#solution-implementing-a-generic-stack)
 - [**4. Implement the Weather App Using POP**](#4-implement-the-weather-app-using-pop) (10 videos)
-  - Weather app design
-  - Defining the UI using SwiftUI
-  - The WebServiceController protocol
-  - Working with a third-party API
-  - Implementing the OpenWeatherMap controller
-  - Completing the OpenWeatherMap controller
-  - Introducing the view model
-  - Presenting weather data
-  - Challenge: Integrating a fallback service
-  - Solution: Integrating a fallback service
+  - [Weather app design](#weather-app-design)
+  - [Defining the UI using SwiftUI](#defining-the-ui-using-swiftui)
+  - [The WebServiceController protocol](#the-webservicecontroller-protocol)
+  - [Working with a third-party API](#working-with-a-third-party-api)
+  - [Implementing the OpenWeatherMap controller](#implementing-the-openweathermap-controller)
+  - [Completing the OpenWeatherMap controller](#completing-the-openweathermap-controller)
+  - [Introducing the view model](#introducing-the-view-model)
+  - [Presenting weather data](#presenting-weather-data)
+  - [Challenge: Integrating a fallback service](#challenge-integrating-a-fallback-service)
+  - [Solution: Integrating a fallback service](#solution-integrating-a-fallback-service)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits: Protocol-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980)
@@ -131,7 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[Programming Concepts]] (2), [[Swift (Programming Language)|Swift]] (2), [[iOS Development]] (1), power (1)
 > **Env Vars:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - most (1)
@@ -157,6 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Swift (Programming Language)|Swift]] (2), [[Xcode]] (2), [[Software Development]] (1)
 > **Versions:** 11.1 (1)
 > **Exercise Files:** sample code (1)
 > **Analogies:** for example (1)
@@ -165,7 +166,7 @@ created: 2026-04-29
 
 ### 1. The Pillars of Protocol Orientation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is protocol-oriented programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), abstract (1), class. (1), let (1), class, (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Programming]] (3), [[Java]] (1), [[PHP]] (1), functional (1)
 > **Env Vars:** php (1), pop (1)
 > **CLI Commands:** php (1)
 > **Definitions:** is a  (1)
@@ -351,7 +352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (5), type. (2), var (1)
+> **Frameworks & Libraries:** data (6), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), similar to (1), for instance (1)
 > **Code Identifiers:** incrementcounter (1)
@@ -411,7 +412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (2), static (2), type, (1), finally, (1)
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
@@ -492,7 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (2), self (1), finally, (1), type, (1)
+> **Frameworks & Libraries:** [[Cryptography]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Xcode]] (1), feature (1)
 > **Env Vars:** xor (7), utf (2)
 > **Exercise Files:** source code (2)
 > **CLI Commands:** make (1)
@@ -587,7 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (2), type. (2), var (1), type, (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[Forms]] (1), next (1)
 > **Env Vars:** var (1), vra (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -687,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), throw (1)
+> **Frameworks & Libraries:** data (3), feature (2), next (1)
 > **Env Vars:** url (3)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **UI Navigation:** open the (1), select the (1)
@@ -815,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), throw (2), finally, (2), try. (1), self (1)
+> **Frameworks & Libraries:** data (18), [[Programming]] (2), next (2), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** url (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -891,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1)
+> **Frameworks & Libraries:** next (1), [[Xcode]] (1), data (1)
 > **UI Navigation:** open the (1), scroll up (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -971,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), private (1), type, (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), api (1), next (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Env Vars:** api (1)
@@ -1165,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), private (7), public (5), finally, (2), this. (1)
+> **Frameworks & Libraries:** next (7), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (8)
 > **Non-Speech:** (typing) (2), (upbeat music) (1)
 > **File Paths:** services.swift (1)
@@ -1177,7 +1178,7 @@ created: 2026-04-29
 
 ### 2. Protocol-Oriented Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why protocols?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980)
@@ -1236,7 +1237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), while, (1), let (1), type. (1), override (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Programming]] (2), [[Microsoft Products|Products]] (1), hit (1), feature (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -1311,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1)
+> **Frameworks & Libraries:** [[Programming]] (7), feature (1), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** basic (1)
 > **Exercise Files:** source code (1)
@@ -1428,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), throw (3), try. (2), class. (1)
+> **Frameworks & Libraries:** data (18), [[Swift (Programming Language)|Swift]] (2), [[Programming]] (2), next (2), generic (1)
 > **Env Vars:** url (6)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ios (1)
@@ -1522,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (3), class. (1), class, (1)
+> **Frameworks & Libraries:** data (9), next (2), feature (2), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** select the (2), switch to (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** based64encodingstring (1)
@@ -1648,7 +1649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), throw (1), switch (1), class. (1), type, (1)
+> **Frameworks & Libraries:** data (16), feature (3), next (1), [[Xcode]] (1)
 > **Env Vars:** url (7)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** taggeddata (1)
@@ -1687,14 +1688,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), implements (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** known as (1)
 > **Speakers:** - let (1)
 
 
 ### 3. Generics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980)
@@ -1779,7 +1780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), generic (2), [[Programming]] (1)
 > **Env Vars:** dry (1)
 > **Versions:** 2.71 (1)
 > **Speakers:** - [instructor] (1)
@@ -1873,7 +1874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (7), type. (3), class. (1), pass (1)
+> **Frameworks & Libraries:** generic (5), data (4), [[Swift (Programming Language)|Swift]] (3), next (1)
 > **Versions:** 3.14 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1964,7 +1965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (5), let (5), type, (2), class, (1), pass (1)
+> **Frameworks & Libraries:** generic (7), [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** piwrapped (1), stringwrapped (1)
 > **Analogies:** imagine (1), for example (1)
 > **UI Navigation:** open the (1)
@@ -2029,7 +2030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (1), finally, (1), type, (1)
+> **Frameworks & Libraries:** data (5), next (3), generic (1), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -2075,7 +2076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (3), delete (1), super (1)
+> **Frameworks & Libraries:** generic (5), data (2), [[Swift (Programming Language)|Swift]] (2), [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** taggeddouble (1)
 > **Analogies:** for example (1)
@@ -2126,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), try. (1)
+> **Frameworks & Libraries:** generic (1), next (1)
 > **Code Identifiers:** isempty (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
@@ -2286,7 +2287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), public (7), type. (3), finally, (3), private (2)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (5), next (3), data (1), generic (1)
 > **CLI Commands:** make (5)
 > **Versions:** 5.1 (2)
 > **Definitions:** is an  (1)
@@ -2296,7 +2297,7 @@ created: 2026-04-29
 
 ### 4. Implement the Weather App Using POP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Weather app design
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980)
@@ -2367,7 +2368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), type, (1), let (1), switch (1)
+> **Frameworks & Libraries:** data (8), web (2), [[Fetch]] (2), functional (1), [[Programming]] (1)
 > **Env Vars:** mvvm (3), json (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
@@ -2494,7 +2495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (1), private (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), product (1), data (1), [[Swift (Programming Language)|Swift]] (1), feature (1)
 > **Code Identifiers:** ios (2)
 > **File Paths:** contentview.swift (1)
 > **CLI Commands:** make (1)
@@ -2624,7 +2625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (4), case. (2), continue (1), enum (1)
+> **Frameworks & Libraries:** web (6), data (5), [[Fetch]] (5), [[Swift (Programming Language)|Swift]] (4), [[JSON]] (3)
 > **Env Vars:** url (5), json (3), api (2), html (1)
 > **CLI Commands:** make (2)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (1), [weatherstack.com](https://weatherstack.com) (1)
@@ -2666,9 +2667,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), data (3), [[Fetch]] (1), web (1), next (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
@@ -2766,8 +2767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[Fetch]] (2), data (2), [[Swift (Programming Language)|Swift]] (1), next (1)
 > **Env Vars:** api (9), url (9), https (1), nil (1)
-> **Code Keywords:** let (5), function (3), static (2), for. (1), private (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** safeurlstring (1), invalidurl (1)
 > **UI Navigation:** go to (1), switch to (1)
@@ -2836,8 +2837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[JSON]] (4), [[Swift (Programming Language)|Swift]] (3), hit (1), next (1)
 > **Code Identifiers:** completionhandler (8), datatask (3), endpointurl (2), webservicecontrollererror (2), invalidpayload (2)
-> **Code Keywords:** let (5), pass (2), continue (1), return. (1), finally, (1)
 > **Env Vars:** url (4)
 > **UI Navigation:** right-click (1)
 > **Definitions:** is an  (1)
@@ -2918,7 +2919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (1), class. (1), private (1), return. (1)
+> **Frameworks & Libraries:** data (4), [[Fetch]] (3), next (3), [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** weatherinfo (5), weatherservice (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2981,7 +2982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), switch (1), class. (1), interface (1)
+> **Frameworks & Libraries:** data (4), [[Fetch]] (2), next (1), functional (1), application (1)
 > **Code Identifiers:** oneditingchanged (2), uncommit (2)
 > **UI Navigation:** switch to (1)
 > **Warnings:** note that (1)
@@ -3040,7 +3041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), switch (1), default. (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** web (5), [[Fetch]] (2), [[Security]] (2), next (2), data (2)
 > **Env Vars:** http (2), api (1), ssl (1), https (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
@@ -3142,7 +3143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2), switch (1), self (1), return, (1)
+> **Frameworks & Libraries:** web (5), data (4), next (3), [[Fetch]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3151,7 +3152,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980)
@@ -3178,6 +3179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Design Patterns]] (2), [[iOS Development]] (2), [[Programming]] (1), application (1)
 > **Code Identifiers:** ios (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)

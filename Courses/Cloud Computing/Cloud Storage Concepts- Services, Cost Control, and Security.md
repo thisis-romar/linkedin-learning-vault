@@ -34,7 +34,7 @@ tags:
   - skill/storage-management
   - skill/cloud-storage
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Storage%20Concepts-%20Services%2C%20Cost%20Control%2C%20and%20Security.md)
@@ -53,45 +53,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding cloud storage
-  - What you should know
+  - [Understanding cloud storage](#understanding-cloud-storage)
+  - [What you should know](#what-you-should-know)
 - [**1. Cloud Storage Basics**](#1-cloud-storage-basics) (8 videos)
-  - Cloud storage types
-  - Block storage
-  - Object storage
-  - File storage
-  - Planning your storage
-  - Creating the business case for cloud storage
-  - Challenge: Which type of storage should you leverage?
-  - Solution: How to think about storage types
+  - [Cloud storage types](#cloud-storage-types)
+  - [Block storage](#block-storage)
+  - [Object storage](#object-storage)
+  - [File storage](#file-storage)
+  - [Planning your storage](#planning-your-storage)
+  - [Creating the business case for cloud storage](#creating-the-business-case-for-cloud-storage)
+  - [Challenge: Which type of storage should you leverage?](#challenge-which-type-of-storage-should-you-leverage)
+  - [Solution: How to think about storage types](#solution-how-to-think-about-storage-types)
 - [**2. Cloud Services That Leverage Cloud Storage**](#2-cloud-services-that-leverage-cloud-storage) (7 videos)
-  - Cloud databases
-  - Cloud file storage
-  - Backup and recovery services
-  - Other cloud services that leverage cloud storage
-  - Sample applications
-  - Challenge: Selecting a backup and recovery storage solution
-  - Solution: Selecting a backup and recovery storage solution
+  - [Cloud databases](#cloud-databases)
+  - [Cloud file storage](#cloud-file-storage)
+  - [Backup and recovery services](#backup-and-recovery-services)
+  - [Other cloud services that leverage cloud storage](#other-cloud-services-that-leverage-cloud-storage)
+  - [Sample applications](#sample-applications)
+  - [Challenge: Selecting a backup and recovery storage solution](#challenge-selecting-a-backup-and-recovery-storage-solution)
+  - [Solution: Selecting a backup and recovery storage solution](#solution-selecting-a-backup-and-recovery-storage-solution)
 - [**3. Cloud Storage Planning**](#3-cloud-storage-planning) (7 videos)
-  - Understanding your storage requirements
-  - Defining costs and storage billing models
-  - Defining projected storage growth
-  - Implementation planning
-  - Storage operations
-  - Challenge: Setting up storage operations
-  - Solution: Setting up storage operations
+  - [Understanding your storage requirements](#understanding-your-storage-requirements)
+  - [Defining costs and storage billing models](#defining-costs-and-storage-billing-models)
+  - [Defining projected storage growth](#defining-projected-storage-growth)
+  - [Implementation planning](#implementation-planning)
+  - [Storage operations](#storage-operations)
+  - [Challenge: Setting up storage operations](#challenge-setting-up-storage-operations)
+  - [Solution: Setting up storage operations](#solution-setting-up-storage-operations)
 - [**4. AWS Cloud Storage**](#4-aws-cloud-storage) (5 videos)
-  - Allocating storage instances
-  - Placing data on cloud storage instances
-  - Securing cloud storage instances
-  - Removing storage instances
-  - Usage-based accounting
+  - [Allocating storage instances](#allocating-storage-instances)
+  - [Placing data on cloud storage instances](#placing-data-on-cloud-storage-instances)
+  - [Securing cloud storage instances](#securing-cloud-storage-instances)
+  - [Removing storage instances](#removing-storage-instances)
+  - [Usage-based accounting](#usage-based-accounting)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More about cloud storage
+  - [More about cloud storage](#more-about-cloud-storage)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980)
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[LinkedIn]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
 
@@ -140,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -147,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Cloud Storage Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud storage types
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980)
@@ -188,8 +190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (4), database (2), [[Databases]] (2), management (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Block storage
@@ -239,7 +241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), case, (1), require (1)
+> **Frameworks & Libraries:** data (6), cloud (3), application (2), next (1), management (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** scsi (2)
@@ -283,9 +285,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Metadata]] (3), cloud (2), [[Search]] (2), [[Scalability]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -338,10 +340,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), data (3), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1), [[Microsoft]] (1)
 > **CLI Commands:** aws (1), find (1), make (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** delete (1)
 > **URLs:** [box.net](https://box.net) (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
@@ -385,8 +387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), business (2), [[Databases]] (1), application (1), data (1)
 > **Definitions:** means that (2), defined as (1), refers to (1)
-> **Code Keywords:** public (1), let (1), finally, (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -425,7 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2)
+> **Frameworks & Libraries:** cloud (8), business (7), product (1), [[E-Commerce]] (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -460,7 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), return. (1)
+> **Frameworks & Libraries:** cloud (5), business (2), product (2), data (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -499,8 +501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (3), product (3), [[Unstructured Data]] (2), [[Databases]] (2)
 > **Analogies:** such as (3)
-> **Code Keywords:** case. (1), public (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
@@ -510,7 +512,7 @@ created: 2026-04-29
 
 ### 2. Cloud Services That Leverage Cloud Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980)
@@ -571,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), interface (2), delete (1), function (1)
+> **Frameworks & Libraries:** cloud (20), data (17), [[Databases]] (11), database (9), application (3)
 > **Analogies:** such as (7), for instance (1), for example (1)
 > **Env Vars:** api (2), aws (2)
 > **CLI Commands:** aws (2), mysql (1)
@@ -607,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1)
+> **Frameworks & Libraries:** cloud (7), management (1), [[Databases]] (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Analogies:** such as (2)
 > **URLs:** [box.net](https://box.net) (1)
@@ -658,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), continue (1)
+> **Frameworks & Libraries:** data (10), cloud (9), business (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Hardware]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -691,6 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), data (3), [[Databases]] (1), [[Microsoft Word|Word]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Code Identifiers:** iphone (2), icloud (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [narrator] (1)
@@ -734,7 +737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), case. (1)
+> **Frameworks & Libraries:** database (8), data (7), business (5), cloud (4), application (3)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** note that (1)
@@ -765,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), database (3), [[Databases]] (2), data (2), business (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -805,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (1), this, (1)
+> **Frameworks & Libraries:** cloud (10), data (4), [[Security]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -813,7 +816,7 @@ created: 2026-04-29
 
 ### 3. Cloud Storage Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your storage requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980)
@@ -874,9 +877,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), data (5), business (3), application (2), [[Security]] (2)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -944,8 +947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), data (4), [[Databases]] (1), database (1), [[Financial Operations]] (1)
 > **Definitions:** means that (2), known as (1), refers to (1), is a  (1)
-> **Code Keywords:** public (2)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
@@ -991,8 +994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), cloud (4), business (2), database (1), hit (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** let (1), public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Implementation planning
@@ -1042,8 +1045,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (4), [[Cost Management]] (2), data (2), database (2)
 > **Analogies:** such as (2), for instance (1), for example (1)
-> **Code Keywords:** require (1), public (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1088,11 +1091,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), data (7), [[Security]] (3), business (2), [[Cost Management]] (2)
 > **Analogies:** such as (5)
 > **Env Vars:** iam (1), mfa (1)
 > **Definitions:** refers to (1), means that (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [dave] (1)
 
@@ -1121,7 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (1), cloud (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1178,10 +1181,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (4), cloud (1), business (1), [[Cost Management]] (1)
 > **Analogies:** such as (3), for instance (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (3)
-> **Code Keywords:** case, (1), finally, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1189,7 +1192,7 @@ created: 2026-04-29
 
 ### 4. AWS Cloud Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Allocating storage instances
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980)
@@ -1238,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (3), case, (2), function (1)
+> **Frameworks & Libraries:** cloud (6), aws (5), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Databases]] (2), [[Security]] (2)
 > **CLI Commands:** aws (5), find (2), make (1)
 > **Env Vars:** aws (5)
 > **UI Navigation:** select the (1), go to (1)
@@ -1275,7 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), type. (1)
+> **Frameworks & Libraries:** data (5), cloud (3), web (1), api (1)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1318,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (8), cloud (8), data (5), product (2), [[Forms]] (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -1348,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), public (1)
+> **Frameworks & Libraries:** data (4), aws (1), api (1), cloud (1)
 > **Env Vars:** aws (1), api (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** means that (1)
@@ -1376,17 +1379,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), cloud (2), aws (1), [[Security]] (1), [[Financial Operations]] (1)
 > **Analogies:** such as (4)
 > **Warnings:** note that (1), keep in mind (1), warning (1)
 > **Env Vars:** aws (1), xml (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More about cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980)
@@ -1407,8 +1410,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), ai (1), data (1), [[Analytics]] (1), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

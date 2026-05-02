@@ -39,7 +39,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20Microsoft%20365%20Copilot%20for%20Work.md)
@@ -58,21 +58,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Explore Microsoft 365's AI assistant
+  - [Explore Microsoft 365's AI assistant](#explore-microsoft-365s-ai-assistant)
 - [**1. Using Copilot in Office Applications**](#1-using-copilot-in-office-applications) (9 videos)
-  - Use Copilot Chat with your work data
-  - Generate drafts and modify documents in Word
-  - Analyze data with Copilot in Excel
-  - Create and improve presentations in PowerPoint
-  - Draft and summarize messages in Outlook
-  - Summarize meetings and leverage Copilot in Teams
-  - Use guided prompts with Copilot's Researcher and Analyst agents
-  - Make your own infographics, slides, and forms with Create
-  - Vibe working: Agent Mode and Office Agent
+  - [Use Copilot Chat with your work data](#use-copilot-chat-with-your-work-data)
+  - [Generate drafts and modify documents in Word](#generate-drafts-and-modify-documents-in-word)
+  - [Analyze data with Copilot in Excel](#analyze-data-with-copilot-in-excel)
+  - [Create and improve presentations in PowerPoint](#create-and-improve-presentations-in-powerpoint)
+  - [Draft and summarize messages in Outlook](#draft-and-summarize-messages-in-outlook)
+  - [Summarize meetings and leverage Copilot in Teams](#summarize-meetings-and-leverage-copilot-in-teams)
+  - [Use guided prompts with Copilot's Researcher and Analyst agents](#use-guided-prompts-with-copilots-researcher-and-analyst-agents)
+  - [Make your own infographics, slides, and forms with Create](#make-your-own-infographics-slides-and-forms-with-create)
+  - [Vibe working: Agent Mode and Office Agent](#vibe-working-agent-mode-and-office-agent)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Microsoft 365's AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980)
@@ -91,13 +91,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft 365]] (3), [[Microsoft]] (1), ai (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - microsoft (1)
 
 
 ### 1. Using Copilot in Office Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot Chat with your work data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (4), public (2), for, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (23), web (9), [[Microsoft 365]] (6), [[Search]] (5), business (3)
 > **UI Navigation:** click on (4), go to (2), toggle (2), switch to (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
@@ -372,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (16), [[Microsoft 365]] (3), next (2), prompt (2), ai (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2), just like (1)
 > **UI Navigation:** scroll down (1)
@@ -489,7 +489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), [[Microsoft Excel|Excel]] (12), data (4), web (2), application (2)
 > **CLI Commands:** make (5)
 > **Non-Speech:** (computer keys clicking) (4)
 > **Prerequisites:** you'll need (1), make sure you have (1)
@@ -611,7 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), for. (1), new. (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft PowerPoint|Powerpoint]] (5), management (1), [[Microsoft 365]] (1), [[Microsoft Word]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Exercise Files:** template (2)
 > **Analogies:** picture (2)
@@ -698,8 +698,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Outlook|Outlook]] (5), next (2), [[Windows]] (1), web (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), case, (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
@@ -828,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (2), while, (1), finally, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), ai (8), teams (3), [[Microsoft Teams]] (2), business (2)
 > **UI Navigation:** click on (3), open the (1), select the (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (1)
@@ -946,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), function (1), this, (1), for, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Copilot|Copilot]] (5), prompt (4), [[Search]] (3), teams (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **URLs:** [microsoft365.com](https://microsoft365.com) (1)
@@ -1043,7 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), this. (1), finally, (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft]] (2), data (2), [[Infographics]] (2)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -1128,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Word|Word]] (6), [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Office|Office]] (5), data (4)
 > **Cross-References:** previous video (2), go back to (1)
 > **Analogies:** just like (2), it's like (1)
 > **Definitions:** is a  (2)

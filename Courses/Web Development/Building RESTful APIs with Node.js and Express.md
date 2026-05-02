@@ -37,7 +37,7 @@ tags:
   - skill/rest-apis
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20RESTful%20APIs%20with%20Node.js%20and%20Express.md)
@@ -56,39 +56,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - RESTful APIs with Node and Express
-  - What you should know
+  - [RESTful APIs with Node and Express](#restful-apis-with-node-and-express)
+  - [What you should know](#what-you-should-know)
 - [**1. Setting Up**](#1-setting-up) (5 videos)
-  - Introduction to APIs and the libraries
-  - Introduction to Postman
-  - Install Node and Express
-  - Install Mongo
-  - Basic Babel setup
+  - [Introduction to APIs and the libraries](#introduction-to-apis-and-the-libraries)
+  - [Introduction to Postman](#introduction-to-postman)
+  - [Install Node and Express](#install-node-and-express)
+  - [Install Mongo](#install-mongo)
+  - [Basic Babel setup](#basic-babel-setup)
 - [**2. Initial Server Build**](#2-initial-server-build) (5 videos)
-  - RESTful APIs refresher
-  - Initial server setup
-  - Initial server files and folders
-  - Basic routing endpoints
-  - Basics of middleware and uses
+  - [RESTful APIs refresher](#restful-apis-refresher)
+  - [Initial server setup](#initial-server-setup)
+  - [Initial server files and folders](#initial-server-files-and-folders)
+  - [Basic routing endpoints](#basic-routing-endpoints)
+  - [Basics of middleware and uses](#basics-of-middleware-and-uses)
 - [**3. Database Setup**](#3-database-setup) (3 videos)
-  - MongoDB basics refresher
-  - Database setup
-  - Schema setup
+  - [MongoDB basics refresher](#mongodb-basics-refresher)
+  - [Database setup](#database-setup)
+  - [Schema setup](#schema-setup)
 - [**4. CRUD Operations**](#4-crud-operations) (5 videos)
-  - Create POST endpoint
-  - Create all items GET endpoint
-  - Create specific ID GET endpoint
-  - Create PUT endpoint
-  - Create DELETE endpoint
+  - [Create POST endpoint](#create-post-endpoint)
+  - [Create all items GET endpoint](#create-all-items-get-endpoint)
+  - [Create specific ID GET endpoint](#create-specific-id-get-endpoint)
+  - [Create PUT endpoint](#create-put-endpoint)
+  - [Create DELETE endpoint](#create-delete-endpoint)
 - [**5. Other API Options**](#5-other-api-options) (2 videos)
-  - Static files serving
-  - Other potential libraries for API
+  - [Static files serving](#static-files-serving)
+  - [Other potential libraries for API](#other-potential-libraries-for-api)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RESTful APIs with Node and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980)
@@ -121,9 +121,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), express (4), node (3), database (2), [[JavaScript]] (1)
 > **Env Vars:** api (7)
 > **CLI Commands:** node (3), mongo (1)
-> **Code Keywords:** finally, (1), delete (1), let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -144,6 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), api (1), express (1), next (1), [[JavaScript]] (1)
 > **CLI Commands:** node (2)
 > **Env Vars:** api (1), mpm (1)
 > **Tools:** vs code (1), terminal (1)
@@ -153,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to APIs and the libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980)
@@ -206,8 +207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), data (5), application (3), express (3), database (2)
 > **Env Vars:** api (6)
-> **Code Keywords:** interface (3), for. (1), from. (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (2)
 > **URLs:** [nodejs.org](https://nodejs.org) (1), [expressjs.com](https://expressjs.com) (1)
@@ -266,9 +267,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), data (2), web (2), node (2), [[Windows]] (1)
 > **CLI Commands:** node (2), curl (1), php (1), python (1)
 > **Tools:** postman (5)
-> **Code Keywords:** delete (1), this. (1), let (1)
 > **Env Vars:** api (2), php (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (2)
@@ -340,8 +341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (7), [[npm]] (4), next (3), [[JSON]] (3), node (2)
 > **CLI Commands:** npm (4), node (3), make (2), cd (2)
-> **Code Keywords:** let (4), case, (1), this, (1), return, (1), return. (1)
 > **Prerequisites:** install (6)
 > **File Paths:** package.json (3), node.js (1), index.js (1)
 > **Tools:** terminal (3), visual studio (1)
@@ -432,10 +433,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), database (4), [[Windows]] (2), next (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6), brew (3), mongo (2), find (2), npm (1)
 > **Prerequisites:** install (13)
 > **Tools:** terminal (7), visual studio (3), command line (1)
-> **Code Keywords:** let (3), else, (1), this, (1)
 > **UI Navigation:** go to (4), open the (1)
 > **Code Identifiers:** macos (4)
 > **Definitions:** is a  (3)
@@ -512,10 +513,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[Java]] (2), [[JavaScript]] (1), application (1), [[CLI]] (1)
 > **Prerequisites:** install (3), set up (1)
 > **CLI Commands:** node (2), make (1)
 > **Tools:** terminal (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** cli (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -524,7 +525,7 @@ created: 2026-04-29
 
 ### 2. Initial Server Build
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RESTful APIs refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980)
@@ -557,8 +558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), data (6), application (2), [[HTML]] (2), front-end (1)
 > **Env Vars:** api (7), html (2), http (1), url (1)
-> **Code Keywords:** delete (3), let (1), finally, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -660,7 +661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), case. (1)
+> **Frameworks & Libraries:** express (6), node (3), [[npm]] (2), next (1), [[JSON]] (1)
 > **File Paths:** index.js (4), package.json (1)
 > **CLI Commands:** node (3), npm (2)
 > **Ports:** port 3000 (4)
@@ -718,7 +719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** crm (3), src (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** before we start (1), set up (1)
@@ -839,7 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (8), pass (5), function (2)
+> **Frameworks & Libraries:** application (2), front-end (1), web application (1), data (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** crmroutes (2), contactid (1)
 > **Tools:** postman (3)
@@ -951,7 +952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), from. (2), pass (2), type, (1)
+> **Frameworks & Libraries:** express (2), node (1), application (1)
 > **CLI Commands:** make (2), node (1)
 > **Exercise Files:** template (3)
 > **Env Vars:** url (2)
@@ -961,7 +962,7 @@ created: 2026-04-29
 
 ### 3. Database Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MongoDB basics refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980)
@@ -1026,10 +1027,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[MongoDB]] (5), data (5), [[JSON]] (1)
 > **Prerequisites:** install (3), set up (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type. (1), let (1)
 > **Env Vars:** json (1), uri (1)
 > **URLs:** [robomongo.org](https://robomongo.org) (1)
 > **UI Navigation:** click on (1)
@@ -1090,7 +1091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), database (3), [[JSON]] (2), api (1)
 > **Non-Speech:** (keyboard keys clicking) (5)
 > **CLI Commands:** make (2), mongo (2)
 > **Env Vars:** crmdb (1), url (1)
@@ -1167,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), else. (1)
+> **Frameworks & Libraries:** database (5), data (4), [[MongoDB]] (3), next (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** crmmodel (2)
 > **Tools:** terminal (2)
@@ -1179,7 +1180,7 @@ created: 2026-04-29
 
 ### 4. CRUD Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create POST endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980)
@@ -1370,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (4), pass (4), function (3), import, (2)
+> **Frameworks & Libraries:** database (10), data (2), [[JSON]] (1), [[LinkedIn]] (1)
 > **Env Vars:** crm (4), json (1), url (1)
 > **CLI Commands:** make (3)
 > **Tools:** postman (3)
@@ -1469,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (4), const (1), function (1)
+> **Frameworks & Libraries:** database (3), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[LinkedIn]] (1), data (1)
 > **CLI Commands:** find (4), make (1)
 > **Code Identifiers:** getcontacts (2), getcontact (1)
 > **Env Vars:** json (1), crm (1)
@@ -1581,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (6), function (4), pass (2), type. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (1), data (1)
 > **Code Identifiers:** getcontactwithid (3), getcontact (1), contactid (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** crm (2), url (2)
@@ -1673,7 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (7), function (4), this, (1), const (1)
+> **Frameworks & Libraries:** data (3), [[JSON]] (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** updatecontact (3), findoneandupdate (1), contactid (1)
 > **Env Vars:** json (2), url (2), crm (1)
 > **Tools:** postman (2), terminal (1)
@@ -1761,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (14), let (7), function (4), pass (4), this. (3)
+> **Frameworks & Libraries:** database (4), data (2), [[JSON]] (2), api (1)
 > **Env Vars:** json (2), url (1), api (1)
 > **Definitions:** is a  (2), means that (1)
 > **API Endpoints:** get  (2)
@@ -1772,7 +1773,7 @@ created: 2026-04-29
 
 ### 5. Other API Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Static files serving
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/static-files-serving?u=76281980)
@@ -1813,7 +1814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), let (5), public (5), case, (2), function (1)
+> **Frameworks & Libraries:** express (3)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** such as (1), for example (1)
@@ -1855,6 +1856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), express (3), [[CLI]] (1)
 > **Env Vars:** api (4), cli (1)
 > **URLs:** [koajs.com](https://koajs.com) (1), [swagger.io](https://swagger.io) (1), [loopback.io](https://loopback.io) (1)
 > **CLI Commands:** make (2)
@@ -1866,7 +1868,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980)
@@ -1889,10 +1891,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), node (1), express (1), application (1), database (1)
 > **Env Vars:** api (2), jwt (1)
 > **CLI Commands:** node (2)
 > **File Paths:** node.js (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [jwt.io](https://jwt.io) (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)

@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/virtual-collaboration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Working%20And%20Collaborating%20Online.md)
@@ -44,53 +44,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Computing with confidence, getting job skills, and staying safe online
+  - [Computing with confidence, getting job skills, and staying safe online](#computing-with-confidence-getting-job-skills-and-staying-safe-online)
 - [**1. Access Information Online**](#1-access-information-online) (10 videos)
-  - Methods of connecting to the internet
-  - Connect a Windows 10 device to the internet using Wi-Fi
-  - What is the World Wide Web?
-  - Browse the web with Microsoft Edge
-  - Understand accessibility options in Microsoft Edge
-  - Safely shop online
-  - Perform a basic search using Bing
-  - Search more effectively in Bing
-  - Evaluate online information
-  - Develop media literacy
+  - [Methods of connecting to the internet](#methods-of-connecting-to-the-internet)
+  - [Connect a Windows 10 device to the internet using Wi-Fi](#connect-a-windows-10-device-to-the-internet-using-wi-fi)
+  - [What is the World Wide Web?](#what-is-the-world-wide-web)
+  - [Browse the web with Microsoft Edge](#browse-the-web-with-microsoft-edge)
+  - [Understand accessibility options in Microsoft Edge](#understand-accessibility-options-in-microsoft-edge)
+  - [Safely shop online](#safely-shop-online)
+  - [Perform a basic search using Bing](#perform-a-basic-search-using-bing)
+  - [Search more effectively in Bing](#search-more-effectively-in-bing)
+  - [Evaluate online information](#evaluate-online-information)
+  - [Develop media literacy](#develop-media-literacy)
 - [**2. Participate Safely and Responsibly Online**](#2-participate-safely-and-responsibly-online) (8 videos)
-  - Methods of communicating online
-  - Protect yourself from phishing and online scams
-  - Communicate safely online
-  - Create strong passwords
-  - Avoid oversharing online
-  - Manage your digital footprint
-  - Responsibly use content you find online
-  - Treat others respectfully online
+  - [Methods of communicating online](#methods-of-communicating-online)
+  - [Protect yourself from phishing and online scams](#protect-yourself-from-phishing-and-online-scams)
+  - [Communicate safely online](#communicate-safely-online)
+  - [Create strong passwords](#create-strong-passwords)
+  - [Avoid oversharing online](#avoid-oversharing-online)
+  - [Manage your digital footprint](#manage-your-digital-footprint)
+  - [Responsibly use content you find online](#responsibly-use-content-you-find-online)
+  - [Treat others respectfully online](#treat-others-respectfully-online)
 - [**3. Collaborating with Outlook**](#3-collaborating-with-outlook) (4 videos)
-  - Collaborate via email and calendars
-  - Add a contact
-  - Create and email a group
-  - Create appointments and meetings
+  - [Collaborate via email and calendars](#collaborate-via-email-and-calendars)
+  - [Add a contact](#add-a-contact)
+  - [Create and email a group](#create-and-email-a-group)
+  - [Create appointments and meetings](#create-appointments-and-meetings)
 - [**4. Collaborate Online in Word**](#4-collaborate-online-in-word) (3 videos)
-  - Collaborate on Word documents
-  - Add comments
-  - Track and manage changes
+  - [Collaborate on Word documents](#collaborate-on-word-documents)
+  - [Add comments](#add-comments)
+  - [Track and manage changes](#track-and-manage-changes)
 - [**5. Sharing Content with OneDrive**](#5-sharing-content-with-onedrive) (5 videos)
-  - Understand cloud-based services
-  - Creating a OneDrive account
-  - Manage files
-  - Share a document
-  - Upload and create files and folders
+  - [Understand cloud-based services](#understand-cloud-based-services)
+  - [Creating a OneDrive account](#creating-a-onedrive-account)
+  - [Manage files](#manage-files)
+  - [Share a document](#share-a-document)
+  - [Upload and create files and folders](#upload-and-create-files-and-folders)
 - [**6. Using Chat, Video Calls, and Group Video Meetings**](#6-using-chat-video-calls-and-group-video-meetings) (6 videos)
-  - Understand instant messaging, voice, and video chat
-  - Sign into Skype
-  - Add contacts
-  - Set up audio and video
-  - Send text messages
-  - Make a call
+  - [Understand instant messaging, voice, and video chat](#understand-instant-messaging-voice-and-video-chat)
+  - [Sign into Skype](#sign-into-skype)
+  - [Add contacts](#add-contacts)
+  - [Set up audio and video](#set-up-audio-and-video)
+  - [Send text messages](#send-text-messages)
+  - [Make a call](#make-a-call)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing with confidence, getting job skills, and staying safe online
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/computing-with-confidence-getting-job-skills-and-staying-safe-online?u=76281980)
@@ -125,13 +125,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Speakers:** - computers (1)
 
 
 ### 1. Access Information Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods of connecting to the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980)
@@ -186,7 +186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), public (1)
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** isp (2)
@@ -270,7 +270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Security]] (3), next (2), [[Windows 10]] (1), web (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -303,6 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (11)
 > **Env Vars:** url (3)
 > **Definitions:** known as (1), is a  (1), stands for (1)
 > **Analogies:** similar to (1), just like (1)
@@ -388,8 +389,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (11), [[Microsoft]] (5), [[Windows]] (4), feature (2), application (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1), open the (1), switch to (1)
-> **Code Keywords:** switch (3), this, (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2)
 > **Tools:** safari (1), firefox (1)
@@ -474,11 +475,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[Zoom]] (4), [[Microsoft]] (2), feature (2), [[Forms]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (2), - [edge] (1)
 > **UI Navigation:** click on (1), right-click (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** f10 (1)
 
 #### Safely shop online
@@ -564,8 +565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (7), [[Search]] (3), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (9), find (3)
-> **Code Keywords:** public (2), for. (1), let (1)
 > **Analogies:** for example (2), just like (1)
 > **Prerequisites:** required to (2)
 > **Definitions:** means that (1)
@@ -642,8 +643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (17), web (6), [[Microsoft]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** for. (2), for, (2), type, (1), let (1)
 > **Analogies:** for example (3), just like (1)
 > **URLs:** [bing.com](https://bing.com) (2)
 > **Cross-References:** go back to (1), as you saw (1)
@@ -722,8 +723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (16), [[Microsoft Word|Word]] (2), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1), feature (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** type, (1), let (1), for. (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -773,6 +774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), data (1), next (1)
 > **CLI Commands:** find (3), make (2)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Analogies:** for example (1)
@@ -841,12 +843,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2), web (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Participate Safely and Responsibly Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods of communicating online
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980)
@@ -875,6 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Google]] (1), [[Slack]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
@@ -956,8 +960,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (2), data (2), web (2), business (1), game (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** private (1), let (1), delete (1)
 > **Env Vars:** https (2), http (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1070,7 +1074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), private (1), break, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Privacy]] (2), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), similar to (1)
 > **Best Practices:** general rule (1), avoid doing (1)
@@ -1137,9 +1141,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (2), web (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (2), for example (1), imagine (1)
-> **Code Keywords:** public (2), private (1)
 > **Best Practices:** you should never (1), general rule (1), remember to (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1214,8 +1218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), web (3), [[Privacy]] (2), data (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** delete (1), case. (1), public (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1251,10 +1255,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), web (1), product (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for example (2)
 > **Best Practices:** you should always (1), make sure to (1)
-> **Code Keywords:** if, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Treat others respectfully online
@@ -1306,14 +1310,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), else. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Collaborating with Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaborate via email and calendars
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980)
@@ -1330,6 +1333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Google]] (1), [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Speakers:** - digital (1)
 
 #### Add a contact
@@ -1381,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[Microsoft Outlook]] (2), next (2), web (1), business (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** right-click (1)
@@ -1414,6 +1418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Outlook]] (1), next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1470,7 +1475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3)
 > **UI Navigation:** switch to (1), select the (1)
 > **Prerequisites:** required to (1), set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1478,7 +1483,7 @@ created: 2026-04-29
 
 ### 4. Collaborate Online in Word
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaborate on Word documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980)
@@ -1549,7 +1554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), next (2), [[Microsoft]] (2), [[Microsoft Word]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** open the (2)
 > **Speakers:** - with (1)
 
@@ -1610,10 +1615,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), next (1)
 > **UI Navigation:** go to (1), right-click (1), scroll down (1), toggle (1), click on (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Track and manage changes
@@ -1663,15 +1668,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** break. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Sharing Content with OneDrive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand cloud-based services
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980)
@@ -1696,6 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Microsoft OneDrive|Onedrive]] (4), [[Google Drive]] (1), [[Microsoft OneDrive]] (1)
 > **Definitions:** means that (2)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
@@ -1741,6 +1747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), [[Microsoft]] (4), next (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1)
 > **URLs:** [onedrive.com](https://onedrive.com) (3), [outlook.com](https://outlook.com) (2)
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
@@ -1783,7 +1790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Search]] (2), web (1)
 > **UI Navigation:** in the toolbar (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1816,6 +1823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft]] (1), [[Microsoft Outlook]] (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** in the toolbar (1)
 > **Exercise Files:** download the (1)
@@ -1865,15 +1873,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Google]] (1), [[Microsoft]] (1)
 > **UI Navigation:** select the (3), in the toolbar (1)
-> **Code Keywords:** case, (2), let (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Using Chat, Video Calls, and Group Video Meetings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand instant messaging, voice, and video chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980)
@@ -1912,6 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2), [[Real-Time]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** similar to (1), for example (1)
@@ -1973,11 +1982,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Search]] (2), [[Microsoft]] (2), [[Google]] (1), [[Android]] (1)
 > **Exercise Files:** download the (3)
 > **Prerequisites:** you'll need (2), install (1)
 > **URLs:** [skype.com](https://skype.com) (1), [outlook.com](https://outlook.com) (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Code Identifiers:** ios (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -2013,7 +2022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** [[Search]] (5)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2116,9 +2125,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - no (3), - so (2), - before (1), - hello (1), - thanks (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** case, (2), switch (1), case. (1), let (1), this. (1)
 > **Prerequisites:** make sure you have (1), set up (1)
 > **Env Vars:** usb (1)
 > **UI Navigation:** scroll down (1)
@@ -2161,7 +2170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2206,9 +2215,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (2), - [operator] (1)
-> **Code Keywords:** require (1)
 > **URLs:** [skype.com](https://skype.com) (1)
 > **Analogies:** for example (1)
 

@@ -27,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Excel%20and%20ChatGPT-%20Data%20Analysis%20Power%20Tips.md)
@@ -46,45 +46,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The future is now: Intro to AI for data analytics
-  - Setting expectations
+  - [The future is now: Intro to AI for data analytics](#the-future-is-now-intro-to-ai-for-data-analytics)
+  - [Setting expectations](#setting-expectations)
 - [**1. How AI Is Revolutionizing Data Analysis**](#1-how-ai-is-revolutionizing-data-analysis) (2 videos)
-  - Why AI is a game-changer for data analysis
-  - AI use cases for data analytics
+  - [Why AI is a game-changer for data analysis](#why-ai-is-a-game-changer-for-data-analysis)
+  - [AI use cases for data analytics](#ai-use-cases-for-data-analytics)
 - [**2. A Crash Course in AI, LLMs, and ChatGPT**](#2-a-crash-course-in-ai-llms-and-chatgpt) (6 videos)
-  - The AI landscape
-  - Generative AI and large language models
-  - The road to ChatGPT
-  - Generative AI tools
-  - Warning: Pitfalls of ChatGPT
-  - Accessing ChatGPT and Google Bard
+  - [The AI landscape](#the-ai-landscape)
+  - [Generative AI and large language models](#generative-ai-and-large-language-models)
+  - [The road to ChatGPT](#the-road-to-chatgpt)
+  - [Generative AI tools](#generative-ai-tools)
+  - [Warning: Pitfalls of ChatGPT](#warning-pitfalls-of-chatgpt)
+  - [Accessing ChatGPT and Google Bard](#accessing-chatgpt-and-google-bard)
 - [**3. Prompt Engineering Tips**](#3-prompt-engineering-tips) (5 videos)
-  - Intro to prompt engineering
-  - Prompt tip: Be clear and specific
-  - Prompt tip: Provide context
-  - Prompt tip: Establish roles
-  - Prompt tip: Set the tone
+  - [Intro to prompt engineering](#intro-to-prompt-engineering)
+  - [Prompt tip: Be clear and specific](#prompt-tip-be-clear-and-specific)
+  - [Prompt tip: Provide context](#prompt-tip-provide-context)
+  - [Prompt tip: Establish roles](#prompt-tip-establish-roles)
+  - [Prompt tip: Set the tone](#prompt-tip-set-the-tone)
 - [**4. ChatGPT for Excel**](#4-chatgpt-for-excel) (14 videos)
-  - Intro to ChatGPT for Excel
-  - Explain fundamental Excel concepts
-  - Generate Excel formulas from descriptions
-  - Generate DAX and M Code
-  - Automate tasks with VBA macros
-  - Generate formulas from sample data
-  - Ask for Excel data visualization advice
-  - Produce step-by-step Excel tutorials
-  - Collaborate on data prep and EDA
-  - Generate sample datasets
-  - Single table analysis
-  - Multi-table analysis
-  - The Canvas interface
-  - Scraping data from the web
+  - [Intro to ChatGPT for Excel](#intro-to-chatgpt-for-excel)
+  - [Explain fundamental Excel concepts](#explain-fundamental-excel-concepts)
+  - [Generate Excel formulas from descriptions](#generate-excel-formulas-from-descriptions)
+  - [Generate DAX and M Code](#generate-dax-and-m-code)
+  - [Automate tasks with VBA macros](#automate-tasks-with-vba-macros)
+  - [Generate formulas from sample data](#generate-formulas-from-sample-data)
+  - [Ask for Excel data visualization advice](#ask-for-excel-data-visualization-advice)
+  - [Produce step-by-step Excel tutorials](#produce-step-by-step-excel-tutorials)
+  - [Collaborate on data prep and EDA](#collaborate-on-data-prep-and-eda)
+  - [Generate sample datasets](#generate-sample-datasets)
+  - [Single table analysis](#single-table-analysis)
+  - [Multi-table analysis](#multi-table-analysis)
+  - [The Canvas interface](#the-canvas-interface)
+  - [Scraping data from the web](#scraping-data-from-the-web)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Key takeaways and next steps
+  - [Key takeaways and next steps](#key-takeaways-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future is now: Intro to AI for data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
@@ -147,8 +147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (4), data (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **Definitions:** is a  (3), defined as (1)
-> **Code Keywords:** self (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -189,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (6), data (2), [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), next (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 ### 1. How AI Is Revolutionizing Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why AI is a game-changer for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
@@ -291,8 +291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (8), [[Strategic Thinking]] (4), career (3), business (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
@@ -342,6 +342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), data (2), [[Analytics]] (1), [[Troubleshooting]] (1), [[Debugging]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -349,7 +350,7 @@ created: 2026-04-29
 
 ### 2. A Crash Course in AI, LLMs, and ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980)
@@ -414,8 +415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (4), data (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** self (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [host] (1)
 
@@ -506,7 +507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), return. (1), finally, (1), self (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Generative AI]] (4), [[Deep Learning]] (4), prompt (3), [[Large Language Models (LLM)|Large language models]] (2)
 > **Env Vars:** gpt (2), dall (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), known as (1)
@@ -597,8 +598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Neural Networks]] (4), [[Deep Learning]] (3)
 > **Env Vars:** gpt4 (4), ibm (2), gpt1 (2), mit (1), eliza (1)
-> **Code Keywords:** let (2), super (1), finally, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -647,7 +648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), ai (5), [[Google]] (3), product (2), [[Microsoft]] (1)
 > **Versions:** 3.5 (1), 2.5 (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
@@ -706,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), data (2), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **CLI Commands:** make (1), python (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - [instructor] (1)
@@ -748,9 +749,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), [[ChatGPT]] (4), [[Microsoft]] (1), next (1)
 > **URLs:** [openai.com](https://openai.com) (2), [google.com](https://google.com) (2)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -758,7 +759,7 @@ created: 2026-04-29
 
 ### 3. Prompt Engineering Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980)
@@ -809,7 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this. (1), try. (1)
+> **Frameworks & Libraries:** prompt (8), ai (4), [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[Google]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** offset (1)
 > **Best Practices:** pro tip (1)
@@ -856,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Microsoft Excel|Excel]] (3), data (2), [[Prompt Engineering]] (1), prompt (1)
 > **Speakers:** - [presenter] (1)
 
 #### Prompt tip: Provide context
@@ -890,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1)
+> **Frameworks & Libraries:** ai (4), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1), prompt (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prompt tip: Establish roles
@@ -914,6 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (3), [[ChatGPT]] (2), next (1), [[Prompt Engineering]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prompt tip: Set the tone
@@ -951,13 +953,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), prompt (2), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [lecturer] (1)
 
 
 ### 4. ChatGPT for Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to ChatGPT for Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980)
@@ -996,8 +999,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (7), data (7), [[Microsoft Excel|Excel]] (2), [[DAX]] (2), [[Microsoft Excel]] (1)
 > **Env Vars:** dax (2), vba (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Warnings:** troubleshoot (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1208,7 +1211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (8), this. (6), for. (3), case, (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (21), [[ChatGPT]] (15), data (9), prompt (4), [[Google]] (2)
 > **Definitions:** is a  (5)
 > **Env Vars:** mac (1), div (1), css (1)
 > **Analogies:** for instance (1), imagine (1)
@@ -1400,8 +1403,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), [[ChatGPT]] (11), prompt (10), ai (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** counta (7), b50 (6), unique (5), count (5), countif (3)
-> **Code Keywords:** let (10), function (3), this. (3), return. (1), for. (1)
 > **Definitions:** is a  (3)
 > **Warnings:** important note (1), be careful (1), caution (1)
 > **CLI Commands:** make (2)
@@ -1554,7 +1557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), delete (2), function (1), case, (1), case. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[Microsoft Excel|Excel]] (4), [[DAX]] (4), data (4), [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** imdb (10), dax (4), csv (1)
 > **Versions:** 6.36 (3)
 > **Cross-References:** go back to (1)
@@ -1682,8 +1685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Excel|Excel]] (4), [[Automation]] (2), data (2), next (1)
 > **Env Vars:** pdf (11), vba (7), avba (2), imdb (1), f11 (1)
-> **Code Keywords:** let (11), static (2), for. (1), this, (1)
 > **Definitions:** is a  (3)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
@@ -1831,7 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), case, (2), for. (2), this, (1)
+> **Frameworks & Libraries:** data (17), [[ChatGPT]] (8), [[Microsoft Excel|Excel]] (5), [[Search]] (2), next (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Warnings:** note that (1), caution (1)
@@ -1931,7 +1934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), for, (1), continue (1)
+> **Frameworks & Libraries:** data (11), [[ChatGPT]] (7), prompt (5), [[Microsoft Excel|Excel]] (3), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
@@ -2166,7 +2169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (3), default, (1), this. (1)
+> **Frameworks & Libraries:** data (26), [[ChatGPT]] (14), [[Microsoft Excel|Excel]] (14), power (11), product (6)
 > **UI Navigation:** select the (2), go to (2), click on (1), dropdown (1), open the (1)
 > **Env Vars:** usd (2), f101 (1)
 > **Definitions:** is a  (3)
@@ -2338,7 +2341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), for, (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** data (33), [[ChatGPT]] (7), prompt (5), web (2), traffic (2)
 > **Env Vars:** csv (2), eda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** remember to (1), you should always (1)
@@ -2472,7 +2475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), this, (2), default, (1), continue (1)
+> **Frameworks & Libraries:** data (23), [[ChatGPT]] (5), web (5), [[Microsoft Excel|Excel]] (4), prompt (4)
 > **Code Identifiers:** visitor_id (1), page_url (1), referral_source (1), device_type (1), product_category (1)
 > **Env Vars:** csv (4)
 > **CLI Commands:** make (1)
@@ -2691,7 +2694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), require (1), type, (1), super (1), for. (1)
+> **Frameworks & Libraries:** data (24), [[ChatGPT]] (14), product (3), [[Microsoft Excel|Excel]] (3), next (2)
 > **Ports:** :00 (10)
 > **Warnings:** keep in mind (2), note that (2), warning (1)
 > **Env Vars:** csv (3), gpt (1)
@@ -2939,7 +2942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), continue (2), this: (2), for. (2), case, (1)
+> **Frameworks & Libraries:** data (13), [[ChatGPT]] (10), [[Microsoft Products|Products]] (3), prompt (3), power (2)
 > **Env Vars:** usd (9), csv (3), dax (1), sql (1)
 > **Versions:** 2.9 (1), 2.099 (1), 7.3 (1), 5.2 (1), 4.3 (1)
 > **CLI Commands:** find (2), make (2), python (1)
@@ -3013,7 +3016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), interface (2), let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[SQL]] (4), prompt (3), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** sql (4), csv (1), cte (1)
 > **CLI Commands:** python (3)
 > **Analogies:** imagine (1)
@@ -3080,7 +3083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), data (5), web (4), [[Microsoft Excel|Excel]] (3), [[Search]] (3)
 > **Env Vars:** csv (2), fifa (1), cbs (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
@@ -3091,7 +3094,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980)
@@ -3172,7 +3175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), finally, (2), let (2)
+> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (7), [[Analytics]] (3), [[Google]] (1), data (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** as we saw (2)
 > **Analogies:** just like (1), picture (1)

@@ -31,7 +31,7 @@ tags:
   - skill/cloud-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Essential%20Training%20for%20Developers.md)
@@ -50,62 +50,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Azure for Developers
+  - [Azure for Developers](#azure-for-developers)
 - [**1. Cloud Fundamentals**](#1-cloud-fundamentals) (1 videos)
-  - Cloud Models and Service Types
+  - [Cloud Models and Service Types](#cloud-models-and-service-types)
 - [**2. Core Azure Concepts**](#2-core-azure-concepts) (5 videos)
-  - What is an Azure Subscription?
-  - What is an Azure Resource Group?
-  - Using the Azure Resource Manager
-  - What is an Azure Region?
-  - What is an Azure Availability Zone?
+  - [What is an Azure Subscription?](#what-is-an-azure-subscription)
+  - [What is an Azure Resource Group?](#what-is-an-azure-resource-group)
+  - [Using the Azure Resource Manager](#using-the-azure-resource-manager)
+  - [What is an Azure Region?](#what-is-an-azure-region)
+  - [What is an Azure Availability Zone?](#what-is-an-azure-availability-zone)
 - [**3. Azure App Services**](#3-azure-app-services) (2 videos)
-  - What is an Azure App Service?
-  - Create an App Service to host an API
+  - [What is an Azure App Service?](#what-is-an-azure-app-service)
+  - [Create an App Service to host an API](#create-an-app-service-to-host-an-api)
 - [**4. Azure Storage**](#4-azure-storage) (3 videos)
-  - What is Azure Blob Storage?
-  - What is Cosmos DB?
-  - Using Azure SQL
+  - [What is Azure Blob Storage?](#what-is-azure-blob-storage)
+  - [What is Cosmos DB?](#what-is-cosmos-db)
+  - [Using Azure SQL](#using-azure-sql)
 - [**5. Azure Functions**](#5-azure-functions) (5 videos)
-  - What is an Azure Function?
-  - Create a Function with a BlobTrigger
-  - Other function trigger types
-  - When to use Durable Functions
-  - A closer look at Durable Functions
+  - [What is an Azure Function?](#what-is-an-azure-function)
+  - [Create a Function with a BlobTrigger](#create-a-function-with-a-blobtrigger)
+  - [Other function trigger types](#other-function-trigger-types)
+  - [When to use Durable Functions](#when-to-use-durable-functions)
+  - [A closer look at Durable Functions](#a-closer-look-at-durable-functions)
 - [**6. Virtual Machines and Batch**](#6-virtual-machines-and-batch) (3 videos)
-  - Provision a Virtual Machine
-  - Azure Resource Manager templates
-  - What is Azure Batch?
+  - [Provision a Virtual Machine](#provision-a-virtual-machine)
+  - [Azure Resource Manager templates](#azure-resource-manager-templates)
+  - [What is Azure Batch?](#what-is-azure-batch)
 - [**7. Kubernetes and Containers in Azure**](#7-kubernetes-and-containers-in-azure) (3 videos)
-  - Container and Kubernetes Basics
-  - Create a managed Kubernetes cluster
-  - Create, Publish image to Container Registry
+  - [Container and Kubernetes Basics](#container-and-kubernetes-basics)
+  - [Create a managed Kubernetes cluster](#create-a-managed-kubernetes-cluster)
+  - [Create, Publish image to Container Registry](#create-publish-image-to-container-registry)
 - [**8. Securing your applications**](#8-securing-your-applications) (3 videos)
-  - Authentication options in Azure
-  - Role-Based vs Claims-Based Authorization
-  - What is Azure Key Vault?
+  - [Authentication options in Azure](#authentication-options-in-azure)
+  - [Role-Based vs Claims-Based Authorization](#role-based-vs-claims-based-authorization)
+  - [What is Azure Key Vault?](#what-is-azure-key-vault)
 - [**9. Monitoring your applications**](#9-monitoring-your-applications) (2 videos)
-  - Using Azure Monitor
-  - What is Application Insights?
+  - [Using Azure Monitor](#using-azure-monitor)
+  - [What is Application Insights?](#what-is-application-insights)
 - [**10. Optimizing your applications**](#10-optimizing-your-applications) (3 videos)
-  - Using Azure Redis for caching
-  - Using the Azure Content Delivery Network
-  - Kubernetes Service scaling strategies
+  - [Using Azure Redis for caching](#using-azure-redis-for-caching)
+  - [Using the Azure Content Delivery Network](#using-the-azure-content-delivery-network)
+  - [Kubernetes Service scaling strategies](#kubernetes-service-scaling-strategies)
 - [**11. AI in Azure**](#11-ai-in-azure) (4 videos)
-  - Azure AI and Responsible AI
-  - Azure AI Services
-  - Azure Machine Learning
-  - GitHub Copilot with Azure
+  - [Azure AI and Responsible AI](#azure-ai-and-responsible-ai)
+  - [Azure AI Services](#azure-ai-services)
+  - [Azure Machine Learning](#azure-machine-learning)
+  - [GitHub Copilot with Azure](#github-copilot-with-azure)
 - [**12. Interesting Advancements for Developers**](#12-interesting-advancements-for-developers) (3 videos)
-  - Load testing on Azure App Service
-  - GitHub Advanced Security for Azure DevOps
-  - Azure AI Foundry
+  - [Load testing on Azure App Service](#load-testing-on-azure-app-service)
+  - [GitHub Advanced Security for Azure DevOps](#github-advanced-security-for-azure-devops)
+  - [Azure AI Foundry](#azure-ai-foundry)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure for Developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980)
@@ -134,12 +134,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Microsoft Azure|Azure]] (2), [[Software Development]] (1), teams (1), data (1)
 > **Speakers:** - cloud (1)
 
 
 ### 1. Cloud Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Models and Service Types
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980)
@@ -216,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (5), require (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** cloud (22), [[Microsoft Azure|Azure]] (10), [[Security]] (2), data (2), [[SaaS|Software as a service]] (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - by (1)
@@ -224,7 +225,7 @@ created: 2026-04-29
 
 ### 2. Core Azure Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Azure Subscription?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980)
@@ -287,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), cloud (6), [[Microsoft]] (2), [[SQL]] (2), database (2)
 > **Env Vars:** sql (2), cicd (1)
-> **Code Keywords:** let (1), for. (1)
 > **Tools:** azure portal (2)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** find (1)
@@ -364,8 +365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), application (3), [[Microsoft SQL Server|Sql server]] (2), database (2), data (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** sql (2)
 > **Analogies:** imagine (1), for example (1)
 > **Code Identifiers:** ecommerce (1)
@@ -469,9 +470,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (28), [[CLI]] (10), [[Powershell]] (4), api (3), management (3)
 > **Env Vars:** cli (10), arm (6), api (3), json (1)
 > **Tools:** powershell (4), azure portal (2), command line (1)
-> **Code Keywords:** this, (2), delete (1), type, (1), require (1)
 > **Definitions:** is a  (3), means that (1)
 > **Warnings:** caveat (1), keep in mind (1)
 > **CLI Commands:** make (1)
@@ -543,7 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (5)
 > **Best Practices:** general rule (1), good practice (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -598,6 +599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (5), power (2), [[Kubernetes]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1), cli (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -606,7 +608,7 @@ created: 2026-04-29
 
 ### 3. Azure App Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Azure App Service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980)
@@ -677,10 +679,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[DevOps]] (3), game (3), web (2), application (2)
 > **Env Vars:** net (2), api (2), php (1), ico (1), soc (1)
 > **CLI Commands:** node (1), python (1), ruby (1), php (1), make (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
-> **Code Keywords:** for . (1), default. (1), function (1)
 > **Tools:** powershell (1), azure portal (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - an (1)
@@ -754,9 +756,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[Microsoft Azure|Azure]] (5), [[Git]] (5), next (3), cloud (2)
 > **CLI Commands:** git (5), az (3), find (1)
 > **Env Vars:** api (3), url (2), free (1), json (1)
-> **Code Keywords:** this. (2), case, (1), finally, (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -765,7 +767,7 @@ created: 2026-04-29
 
 ### 4. Azure Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Azure Blob Storage?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980)
@@ -878,9 +880,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Microsoft Azure|Azure]] (10), cloud (3), application (3), [[Unstructured Data]] (2)
 > **Env Vars:** https (1), smb (1), giphy (1), aka (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** require (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - at (1)
@@ -986,9 +988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft SQL Server|Sql server]] (9), database (8), [[Microsoft Azure|Azure]] (3), cloud (3)
 > **Env Vars:** sql (12), api (2), sku (1), cpu (1)
 > **CLI Commands:** mongo (1), make (1), node (1)
-> **Code Keywords:** super (1), let (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Definitions:** means that (1)
@@ -1055,8 +1057,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), [[SQL]] (10), [[Microsoft Azure|Azure]] (9), [[Databases]] (9), [[Microsoft SQL Server|Sql server]] (6)
 > **Env Vars:** sql (16)
-> **Code Keywords:** require (1), from. (1), finally, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
@@ -1065,7 +1067,7 @@ created: 2026-04-29
 
 ### 5. Azure Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Azure Function?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980)
@@ -1148,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), web (2), data (2), [[JSON]] (1), [[Scripting]] (1)
 > **Tools:** powershell (1), command prompt (1), terminal (1), visual studio (1), azure portal (1)
 > **Env Vars:** http (1), net (1)
 > **Best Practices:** recommended (2)
@@ -1282,7 +1284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (29), continue (2), this, (1), this. (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Search]] (4), next (4), application (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (3), select the (2), go to (1)
 > **CLI Commands:** find (2), make (2)
 > **Prerequisites:** install (2), configure (1), set up (1)
@@ -1346,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), require (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), application (2), web (1), data (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
@@ -1438,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** [[Orchestration]] (3), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (2), api (2), application (1)
 > **Env Vars:** rest (2), api (2)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **CLI Commands:** make (1), snap (1)
@@ -1493,7 +1495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (2)
+> **Frameworks & Libraries:** api (1), [[Orchestration]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -1502,7 +1504,7 @@ created: 2026-04-29
 
 ### 6. Virtual Machines and Batch
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Provision a Virtual Machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980)
@@ -1589,13 +1591,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Virtual Machines]] (3), cloud (3), [[Search]] (2), next (1)
 > **CLI Commands:** make (4), az (3), find (1)
 > **Env Vars:** rgp (2), dev (1), cla (1), http (1)
 > **Tools:** bash (3), azure portal (1), command line (1)
 > **Prerequisites:** you'll need (4), configure (1)
 > **Best Practices:** make sure to (3)
 > **UI Navigation:** select the (2)
-> **Code Keywords:** public (1)
 > **URLs:** [http://www.shell.azure.com/bash](http://www.shell.azure.com/bash) (1)
 
 #### Azure Resource Manager templates
@@ -1709,8 +1711,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), web (5), [[GitHub]] (3), [[Search]] (2), next (2)
 > **Exercise Files:** template (18)
-> **Code Keywords:** let (2), from. (2), function (2), case, (1), continue (1)
 > **Env Vars:** arm (5), cdn (3)
 > **UI Navigation:** select the (5), in the menu (1)
 > **Tools:** github (3), azure portal (2)
@@ -1799,8 +1801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), data (3), [[CLI]] (3), parallel (2), [[Google]] (2)
 > **CLI Commands:** cat (5), make (1)
-> **Code Keywords:** let (1), public (1), case, (1), finally, (1), function (1)
 > **Env Vars:** cli (3)
 > **Tools:** azure portal (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -1811,7 +1813,7 @@ created: 2026-04-29
 
 ### 7. Kubernetes and Containers in Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Container and Kubernetes Basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980)
@@ -1882,8 +1884,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Kubernetes]] (6), [[Virtual Machines]] (3), cloud (2), [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** docker (4)
-> **Code Keywords:** private (1), public (1), this, (1)
 > **Documentation:** specification (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** known as (1)
@@ -1964,9 +1966,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), node (5), [[Kubernetes]] (3), cloud (3), next (2)
 > **CLI Commands:** node (5), ssh (4)
 > **Env Vars:** aks (4), ssh (4)
-> **Code Keywords:** super (1), let (1), default. (1), else. (1), public (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** click on (1)
 > **Best Practices:** recommended (1)
@@ -2058,8 +2060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[Microsoft Azure|Azure]] (3), web application (2), next (1), application (1)
 > **CLI Commands:** docker (5), make (4)
-> **Code Keywords:** let (2), this. (2), switch (2), case, (2), this, (1)
 > **UI Navigation:** checkbox (1), navigate to (1), click on (1), go to (1), scroll down (1)
 > **Env Vars:** gif (4)
 > **Non-Speech:** (typing on a keyboard) (2)
@@ -2070,7 +2072,7 @@ created: 2026-04-29
 
 ### 8. Securing your applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication options in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980)
@@ -2149,7 +2151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1), module (1), default, (1)
+> **Frameworks & Libraries:** application (8), [[Microsoft Azure|Azure]] (6), [[Tokens]] (4), [[Security]] (3), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Definitions:** in other words (1), means that (1)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
@@ -2244,7 +2246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), case. (1)
+> **Frameworks & Libraries:** [[Security]] (7), application (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2290,6 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), api (4), application (3), [[Tokens]] (1), data (1)
 > **Env Vars:** api (4)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** is a  (1)
@@ -2298,7 +2301,7 @@ created: 2026-04-29
 
 ### 9. Monitoring your applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure Monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980)
@@ -2365,7 +2368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), function (1), for, (1), case, (1)
+> **Frameworks & Libraries:** data (7), application (6), [[Microsoft Azure|Azure]] (5), database (4), [[Debugging]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** cpu (2)
 > **Prerequisites:** set up (2)
@@ -2421,6 +2424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[Microsoft Azure|Azure]] (2), data (1), teams (1)
 > **CLI Commands:** find (3), cat (1), make (1)
 > **Env Vars:** http (1)
 > **Tools:** visual studio (1)
@@ -2430,7 +2434,7 @@ created: 2026-04-29
 
 ### 10. Optimizing your applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure Redis for caching
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980)
@@ -2507,8 +2511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (9), [[Redis]] (6), database (3), application (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** static (1), super (1)
 > **Env Vars:** fast (1), gdpr (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** kind of like (1), similar to (1)
@@ -2569,9 +2573,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), feature (5), [[User Experience (UX)|User experience]] (1), data (1)
 > **Env Vars:** cdn (11), https (3)
 > **CLI Commands:** make (3)
-> **Code Keywords:** super (1), default. (1), pass (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - remember (1)
@@ -2631,7 +2635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), default, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microsoft Azure|Azure]] (4), application (3), api (3), node (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
@@ -2641,7 +2645,7 @@ created: 2026-04-29
 
 ### 11. AI in Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure AI and Responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980)
@@ -2722,7 +2726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** ai (34), [[Responsible AI]] (5), [[Microsoft]] (5), [[Privacy]] (5), [[Accountability]] (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2817,7 +2821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), this, (1), private (1), case, (1)
+> **Frameworks & Libraries:** ai (23), [[Microsoft Azure|Azure]] (19), data (9), [[Security]] (2), [[Cost Management]] (2)
 > **Env Vars:** ocr (1), gdpr (1), hipaa (1), iso (1), soc (1)
 > **Definitions:** known as (3), is a  (1)
 > **Warnings:** be aware (1)
@@ -2912,8 +2916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), data (11), ai (4), cloud (2), next (2)
 > **CLI Commands:** make (2), python (2), node (2), docker (1)
-> **Code Keywords:** for. (1), let (1), interface (1), static (1)
 > **Analogies:** similar to (1), think of it like (1), such as (1)
 > **Env Vars:** sdk (1), cli (1)
 > **Definitions:** is an  (1), refers to (1)
@@ -2982,9 +2986,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[GitHub Copilot]] (9), [[Microsoft Copilot|Copilot]] (6), [[CLI]] (3), web (3)
 > **Tools:** github (9), vs code (2)
 > **CLI Commands:** make (2), python (1), terraform (1), cd (1), node (1)
-> **Code Keywords:** let (5)
 > **Env Vars:** cli (3), net (1), sql (1)
 > **Analogies:** for example (4)
 > **Exercise Files:** boilerplate (1), download the (1)
@@ -2994,7 +2998,7 @@ created: 2026-04-29
 
 ### 12. Interesting Advancements for Developers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Load testing on Azure App Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980)
@@ -3137,7 +3141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), delete (2), let (1), case, (1), new. (1)
+> **Frameworks & Libraries:** [[Load Testing]] (16), [[Microsoft Azure|Azure]] (11), application (9), traffic (4), feature (2)
 > **Prerequisites:** configure (3), you'll need (3), setup (1), set up (1)
 > **UI Navigation:** click on (4), open the (1), scroll down (1)
 > **Env Vars:** url (2), cpu (1), http (1)
@@ -3239,8 +3243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[Microsoft Azure|Azure]] (9), [[DevOps]] (8), [[GitHub]] (4), feature (4)
 > **UI Navigation:** click on (2), toggle (2), select the (1), navigate to (1)
-> **Code Keywords:** finally, (1), let (1), for. (1), default. (1), new, (1)
 > **Tools:** github (4), notion (1)
 > **Env Vars:** sql (1), api (1)
 > **Warnings:** keep in mind (2)
@@ -3335,10 +3339,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Azure AI Foundry]] (7), open-source (3), ai (2), [[Microsoft]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** api (2), gpu (1)
 > **Analogies:** think of it as (1), similar to (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** navigate to (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
@@ -3346,7 +3350,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980)
@@ -3381,8 +3385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cloud Development]] (1), application (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** you'll need (1)

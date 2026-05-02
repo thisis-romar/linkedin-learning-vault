@@ -21,7 +21,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%20Terraform%20on%20Azure%20(2022).md)
@@ -40,38 +40,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started
-  - WYSK: What you should know
-  - Using the exercise files on GitHub
+  - [Getting started](#getting-started)
+  - [WYSK: What you should know](#wysk-what-you-should-know)
+  - [Using the exercise files on GitHub](#using-the-exercise-files-on-github)
 - [**1. Introduction to Terraform in Azure**](#1-introduction-to-terraform-in-azure) (4 videos)
-  - What is Infrastructure as Code?
-  - What is Terraform?
-  - Why is Terraform useful?
-  - Terraform vs. Bicep
+  - [What is Infrastructure as Code?](#what-is-infrastructure-as-code)
+  - [What is Terraform?](#what-is-terraform)
+  - [Why is Terraform useful?](#why-is-terraform-useful)
+  - [Terraform vs. Bicep](#terraform-vs-bicep)
 - [**2. Setting Up Your Environment**](#2-setting-up-your-environment) (3 videos)
-  - Installing Terraform
-  - Setting up Terraform for your Azure environment
-  - Setting up your code repo for Azure DevOps
+  - [Installing Terraform](#installing-terraform)
+  - [Setting up Terraform for your Azure environment](#setting-up-terraform-for-your-azure-environment)
+  - [Setting up your code repo for Azure DevOps](#setting-up-your-code-repo-for-azure-devops)
 - [**3. Getting Started with Terraform**](#3-getting-started-with-terraform) (3 videos)
-  - Terraform commands
-  - Terraform workspaces
-  - Terraform state
+  - [Terraform commands](#terraform-commands)
+  - [Terraform workspaces](#terraform-workspaces)
+  - [Terraform state](#terraform-state)
 - [**4. Creating with Terraform**](#4-creating-with-terraform) (3 videos)
-  - Resources
-  - Calling Terraform provider
-  - Creating a resource group in Terraform
+  - [Resources](#resources)
+  - [Calling Terraform provider](#calling-terraform-provider)
+  - [Creating a resource group in Terraform](#creating-a-resource-group-in-terraform)
 - [**5. Terraform in Action**](#5-terraform-in-action) (5 videos)
-  - Creating a virtual network
-  - Creating a subnet
-  - Creating an internal network interface
-  - Creating a virtual machine
-  - Deploying Terraform code
+  - [Creating a virtual network](#creating-a-virtual-network)
+  - [Creating a subnet](#creating-a-subnet)
+  - [Creating an internal network interface](#creating-an-internal-network-interface)
+  - [Creating a virtual machine](#creating-a-virtual-machine)
+  - [Deploying Terraform code](#deploying-terraform-code)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Experiment and continue to learn
+  - [Experiment and continue to learn](#experiment-and-continue-to-learn)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980)
@@ -92,6 +92,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Microsoft Azure|Azure]] (2), [[Cloud Infrastructure]] (1), cloud (1)
 > **CLI Commands:** terraform (4)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [alex] (1)
@@ -115,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Terraform]] (1), [[Powershell]] (1), [[Windows]] (1)
 > **Tools:** powershell (1), command line (1), visual studio (1)
 > **CLI Commands:** terraform (1)
 > **Speakers:** - [instructor] (1)
@@ -170,6 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Terraform]] (2), [[Git]] (1)
 > **Tools:** github (4), visual studio (4)
 > **UI Navigation:** go to (4), dropdown (2), click on (1)
 > **CLI Commands:** terraform (2), make (1), git (1)
@@ -177,12 +180,11 @@ created: 2026-04-29
 > **Env Vars:** url (1), zip (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is an  (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Terraform in Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Infrastructure as Code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980)
@@ -211,6 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[Terraform]] (4), [[Microsoft Azure|Azure]] (3), cloud (1), management (1)
 > **CLI Commands:** terraform (4)
 > **Env Vars:** arm (1), bicep (1)
 > **Definitions:** is a  (1)
@@ -239,9 +242,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (5), api (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Automation]] (1), cloud (1)
 > **CLI Commands:** terraform (5)
 > **Env Vars:** api (2)
-> **Code Keywords:** interface (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - what (1)
 
@@ -266,8 +269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (4), cloud (2), cross-platform (1), management (1)
 > **CLI Commands:** terraform (4)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -304,15 +307,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (5), [[Microsoft Azure|Azure]] (4), [[Microsoft]] (2), [[JSON]] (1), [[DevOps]] (1)
 > **Env Vars:** bicep (6), json (1), api (1)
 > **CLI Commands:** terraform (5), cd (1)
-> **Code Keywords:** module (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Setting Up Your Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980)
@@ -371,11 +374,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (10), [[Powershell]] (8), [[Microsoft Azure|Azure]] (5), [[Windows]] (2), [[CLI]] (2)
 > **CLI Commands:** terraform (10), rm (1), make (1)
 > **Tools:** powershell (8), visual studio (1), command line (1)
 > **Prerequisites:** install (6), set up (2)
 > **Env Vars:** cli (2), msi (1)
-> **Code Keywords:** module (1), interface (1)
 > **Definitions:** known as (1), is a  (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
@@ -417,9 +420,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Terraform]] (3), [[CLI]] (2), [[Powershell]] (1), web (1)
 > **CLI Commands:** terraform (3), az (3)
 > **Tools:** terminal (4), visual studio (1), powershell (1)
-> **Code Keywords:** let (3), this, (2)
 > **Env Vars:** cli (2)
 > **Speakers:** - [instructor] (1)
 
@@ -458,9 +461,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6), [[GitHub]] (4), [[Terraform]] (3), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** git (6), terraform (3)
 > **Tools:** github (4), visual studio (2)
-> **Code Keywords:** super (2), module (1), let (1)
 > **Prerequisites:** install (3)
 > **UI Navigation:** click on (1), right-click (1)
 > **Cross-References:** go back to (1)
@@ -470,7 +473,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Terraform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Terraform commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980)
@@ -513,8 +516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (17), next (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** terraform (17), make (1)
-> **Code Keywords:** let (1), super (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -558,8 +561,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (14), data (2), cloud (2), next (1), [[CLI]] (1)
 > **CLI Commands:** terraform (14)
-> **Code Keywords:** let (5), interface (2), module (1), require (1), new, (1)
 > **Tools:** command line (2), terminal (1)
 > **Env Vars:** cli (1)
 > **Cross-References:** go back to (1)
@@ -595,8 +598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (9), [[Microsoft Azure|Azure]] (5), [[Metadata]] (1), [[JSON]] (1), cloud (1)
 > **CLI Commands:** terraform (9), make (2)
-> **Code Keywords:** module (2), default, (1)
 > **Tools:** azure portal (3)
 > **Env Vars:** json (1)
 > **Analogies:** for example (1)
@@ -605,7 +608,7 @@ created: 2026-04-29
 
 ### 4. Creating with Terraform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980)
@@ -642,8 +645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (5), [[Virtual Machines]] (1)
 > **CLI Commands:** terraform (5), make (3)
-> **Code Keywords:** module (3), let (1), type. (1)
 > **Analogies:** such as (2), for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -686,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (11), cloud (1), [[SaaS]] (1), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** terraform (11), make (2)
-> **Code Keywords:** let (2), module (1), switch (1), super (1)
 > **Prerequisites:** configure (2), install (2)
 > **Tools:** github (1), visual studio (1), terminal (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -762,8 +765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (9), [[Microsoft Azure|Azure]] (5), next (2), prompt (1), [[GitHub]] (1)
 > **CLI Commands:** terraform (9), make (4), az (1)
-> **Code Keywords:** let (6), module (2)
 > **Tools:** terminal (1), github (1), azure portal (1)
 > **UI Navigation:** go to (3)
 > **Code Identifiers:** azurerm_resource_group (1)
@@ -773,7 +776,7 @@ created: 2026-04-29
 
 ### 5. Terraform in Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a virtual network
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980)
@@ -852,8 +855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (5), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Real-Time]] (1)
 > **CLI Commands:** terraform (5), make (1)
-> **Code Keywords:** let (3), module (2)
 > **Code Identifiers:** azurerm_resource_group (2), virtual_network (1), resource_group (1), resource_group_name (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), for example (1)
@@ -916,8 +919,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (1), [[Security]] (1)
 > **Code Identifiers:** azurerm_subnet (2), virtual_network (2), address_prefixes (2), azurerm_virtual_network (1), resource_group (1)
-> **Code Keywords:** module (1), let (1), interface (1)
 > **CLI Commands:** terraform (1), find (1)
 > **Versions:** 10.0.0 (1)
 > **Speakers:** - [instructor] (1)
@@ -1007,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), let (3), super (2), type. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (1), [[Security]] (1), [[Terraform]] (1)
 > **Code Identifiers:** ip_configuration (4), azurerm_resource_group (2), subnet_id (2), azurerm_network_interface (1), private_ip (1)
 > **CLI Commands:** make (5), terraform (1)
 > **Env Vars:** nic (3)
@@ -1141,8 +1144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows]] (5), [[Terraform]] (5), data (3), [[Linux]] (1)
 > **CLI Commands:** rm (6), make (5), terraform (5), find (1)
-> **Code Keywords:** interface (6), type, (1), super (1), pass (1), type. (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** sku (2), lrs (1)
 > **Tools:** azure portal (1)
@@ -1238,8 +1241,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (18), [[Microsoft Azure|Azure]] (8), [[Windows]] (2), [[CLI]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** terraform (18), make (3), az (1)
-> **Code Keywords:** let (4), module (1), this, (1)
 > **Env Vars:** cli (1), json (1), api (1)
 > **Tools:** azure portal (2)
 > **UI Navigation:** go to (2)
@@ -1250,7 +1253,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Experiment and continue to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980)
@@ -1267,6 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** terraform (4)
 > **Speakers:** - [alex] (1)
 

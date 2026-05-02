@@ -31,7 +31,7 @@ tags:
   - skill/ethical-hacking
   - skill/cryptography
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Cryptography.md)
@@ -50,48 +50,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction: Diving Into Cryptography**](#introduction-diving-into-cryptography) (3 videos)
-  - Take a crack at cryptography
-  - What you should know
-  - Why cryptography?
+  - [Take a crack at cryptography](#take-a-crack-at-cryptography)
+  - [What you should know](#what-you-should-know)
+  - [Why cryptography?](#why-cryptography)
 - [**1. Clarifying Cryptography Concepts**](#1-clarifying-cryptography-concepts) (2 videos)
-  - Understanding cryptography terminology
-  - Linking cryptography to cybersecurity
+  - [Understanding cryptography terminology](#understanding-cryptography-terminology)
+  - [Linking cryptography to cybersecurity](#linking-cryptography-to-cybersecurity)
 - [**2. Types of Cryptography Methods**](#2-types-of-cryptography-methods) (7 videos)
-  - Symmetric cryptography
-  - Symmetric cryptography, continued
-  - Asymmetric cryptography
-  - Asymmetric cryptography
-  - Hybrid cryptography
-  - Hashing
-  - Hashing, continued
+  - [Symmetric cryptography](#symmetric-cryptography)
+  - [Symmetric cryptography, continued](#symmetric-cryptography-continued)
+  - [Asymmetric cryptography](#asymmetric-cryptography)
+  - [Asymmetric cryptography](#asymmetric-cryptography)
+  - [Hybrid cryptography](#hybrid-cryptography)
+  - [Hashing](#hashing)
+  - [Hashing, continued](#hashing-continued)
 - [**3. Examining the Fundamental of Cryptographic Algorithms**](#3-examining-the-fundamental-of-cryptographic-algorithms) (5 videos)
-  - Desirable qualities of an algorithm and key
-  - Desirable qualities of an algorithm and key, continued
-  - Common symmetric algorithms
-  - Common asymmetric algorithms
-  - Common hashing algorithms
+  - [Desirable qualities of an algorithm and key](#desirable-qualities-of-an-algorithm-and-key)
+  - [Desirable qualities of an algorithm and key, continued](#desirable-qualities-of-an-algorithm-and-key-continued)
+  - [Common symmetric algorithms](#common-symmetric-algorithms)
+  - [Common asymmetric algorithms](#common-asymmetric-algorithms)
+  - [Common hashing algorithms](#common-hashing-algorithms)
 - [**4. Explaining Public Key Infrastructure (PKI)**](#4-explaining-public-key-infrastructure-pki) (5 videos)
-  - Fundamentals of public key infrastructure (PKI)
-  - Fundamentals of public key infrastructure (PKI), continued
-  - Implementations of public key infrastructure (PKI)
-  - The SSL and TSL handshake process
-  - Examine a x.509 digital certificate
+  - [Fundamentals of public key infrastructure (PKI)](#fundamentals-of-public-key-infrastructure-pki)
+  - [Fundamentals of public key infrastructure (PKI), continued](#fundamentals-of-public-key-infrastructure-pki-continued)
+  - [Implementations of public key infrastructure (PKI)](#implementations-of-public-key-infrastructure-pki)
+  - [The SSL and TSL handshake process](#the-ssl-and-tsl-handshake-process)
+  - [Examine a x.509 digital certificate](#examine-a-x509-digital-certificate)
 - [**5. Investigating Cryptoanalysis**](#5-investigating-cryptoanalysis) (6 videos)
-  - Cryptanalysis goals
-  - Frequency analysis: It’s all about randomness
-  - Three cryptanalytic attack categories
-  - Key management principles
-  - Discovering cryptoanalysis tools
-  - Prevention strategies
+  - [Cryptanalysis goals](#cryptanalysis-goals)
+  - [Frequency analysis: It’s all about randomness](#frequency-analysis-its-all-about-randomness)
+  - [Three cryptanalytic attack categories](#three-cryptanalytic-attack-categories)
+  - [Key management principles](#key-management-principles)
+  - [Discovering cryptoanalysis tools](#discovering-cryptoanalysis-tools)
+  - [Prevention strategies](#prevention-strategies)
 - [**6. Guidelines and Standards**](#6-guidelines-and-standards) (1 videos)
-  - Guidelines and standards in cryptography
+  - [Guidelines and standards in cryptography](#guidelines-and-standards-in-cryptography)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Fusion of AI and quantum cryptography: What's next?
-  - Summary of exam expectations
+  - [Fusion of AI and quantum cryptography: What's next?](#fusion-of-ai-and-quantum-cryptography-whats-next)
+  - [Summary of exam expectations](#summary-of-exam-expectations)
 
 ### Introduction: Diving Into Cryptography
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take a crack at cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Cryptography]] (2), [[Ethical Hacking]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Quantum Computing]] (1), [[Cybersecurity]] (1)
 > **Speakers:** - as (1)
 
 #### What you should know
@@ -174,7 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), module (1)
+> **Frameworks & Libraries:** [[Cryptography]] (7), [[Security]] (2), business (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** ceh (2)
 > **Versions:** version 12 (1)
@@ -232,14 +232,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (2)
+> **Frameworks & Libraries:** [[Cryptography]] (7), data (5), [[Microsoft Word|Word]] (2), [[Blockchain]] (1), [[Security]] (1)
 > **Definitions:** in other words (1), is called (1), is an  (1), is a  (1)
 > **Speakers:** - what (1)
 
 
 ### 1. Clarifying Cryptography Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cryptography terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980)
@@ -350,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Cryptography]] (5), data (3), [[Microsoft Word|Word]] (1), [[NIST]] (1)
 > **Definitions:** known as (4), is a  (3)
-> **Code Keywords:** let (5)
 > **Env Vars:** nist (1), aes (1), des (1), rsa (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** initialization (2)
@@ -452,9 +452,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Cryptography]] (4), [[Cybersecurity]] (3), data (3), [[Privacy]] (3)
 > **Env Vars:** cia (3), cain (3), pain (2), aes (1), rc6 (1)
 > **Definitions:** refers to (3), in other words (2), is a  (2), stands for (1)
-> **Code Keywords:** protected (3)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** keep in mind (1)
@@ -463,7 +463,7 @@ created: 2026-04-29
 
 ### 2. Types of Cryptography Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Symmetric cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980)
@@ -586,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (2), public (1), case, (1)
+> **Frameworks & Libraries:** [[Cryptography]] (10), data (2), [[Microsoft Word|Word]] (1), strengths (1), [[Algorithms]] (1)
 > **Definitions:** means that (2), defined as (1), known as (1)
 > **Prerequisites:** you'll need (1), required to (1)
 > **Cross-References:** later in (1)
@@ -746,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), private (3), require (1), continue (1), case, (1)
+> **Frameworks & Libraries:** [[Cryptography]] (6), [[Algorithms]] (6), data (3), next (1), [[Scalability]] (1)
 > **Env Vars:** ascii (1), rc4 (1), rc6 (1), aes (1), des (1)
 > **Analogies:** imagine (2), for example (1), kind of like (1), such as (1)
 > **Cross-References:** later in (2)
@@ -856,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), private (4), let (2), function (1)
+> **Frameworks & Libraries:** [[Cryptography]] (10), [[Security]] (2), strengths (1), [[Algorithms]] (1), next (1)
 > **Definitions:** known as (2), is called (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** you'll need (1)
@@ -953,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (4), let (3), require (3)
+> **Frameworks & Libraries:** [[Cryptography]] (6), [[Algorithms]] (5), [[Security]] (3), data (2), [[Google]] (1)
 > **Env Vars:** ecc (3), rsa (3), dsa (1), cpu (1)
 > **Cross-References:** we mentioned (1), later in (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1053,7 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), let (5), private (2), case, (1)
+> **Frameworks & Libraries:** [[Cryptography]] (5), [[Security]] (2), next (1)
 > **Analogies:** such as (2), imagine (2), kind of like (1)
 > **Definitions:** known as (1), means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1179,7 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), pass (2), public (1), private (1)
+> **Frameworks & Libraries:** data (7), [[Cryptography]] (5), [[Security]] (1)
 > **Definitions:** is a  (4), in other words (1), is called (1)
 > **Analogies:** for example (1), think of it as (1), such as (1)
 > **Env Vars:** ceh (2)
@@ -1282,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), private (3), let (2), function (2), match. (1)
+> **Frameworks & Libraries:** data (3), database (2), [[Algorithms]] (1), [[Cryptography]] (1), [[Security]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1294,7 +1294,7 @@ created: 2026-04-29
 
 ### 3. Examining the Fundamental of Cryptographic Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Desirable qualities of an algorithm and key
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980)
@@ -1415,8 +1415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Security]] (2), [[Cryptography]] (1), next (1)
 > **Analogies:** imagine (6), for example (4), think of it as (1), such as (1)
-> **Code Keywords:** let (9), case, (2)
 > **Definitions:** means that (2)
 > **Env Vars:** xor (1)
 > **Cross-References:** earlier in (1)
@@ -1482,7 +1482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), private (1), case, (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (4), next (3), [[Algorithms]] (2), [[Cryptography]] (2)
 > **Cross-References:** later in (1), we talked about (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** known as (1)
@@ -1613,10 +1613,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (6), data (4), next (2), power (1), ai (1)
 > **Env Vars:** des (11), aes (9), rc4 (5), rc5 (3), rc6 (2)
 > **Definitions:** stands for (2), known as (2), basically means (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (2), super (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
@@ -1768,8 +1768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptography]] (5), data (4), [[Algorithms]] (3), next (3), [[Security]] (3)
 > **Env Vars:** ecc (12), rsa (12), dsa (6), ssl (2), tls (2)
-> **Code Keywords:** private (3), function (3), let (1), case, (1), finally, (1)
 > **Analogies:** such as (4), it's like (1), imagine (1)
 > **Cross-References:** later in (3), in the next (1)
 > **Definitions:** is a  (2), defined as (1)
@@ -1882,8 +1882,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (8), data (3), next (1), [[Security]] (1), [[Hardware]] (1)
 > **Env Vars:** sha (26), md5 (8), rc4 (1), md2 (1), md4 (1)
-> **Code Keywords:** function (4), let (1), finally, (1)
 > **Analogies:** such as (2), think of it as (1), for example (1)
 > **CLI Commands:** find (2), ssh (1)
 > **Definitions:** stands for (3)
@@ -1894,7 +1894,7 @@ created: 2026-04-29
 
 ### 4. Explaining Public Key Infrastructure (PKI)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals of public key infrastructure (PKI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980)
@@ -2003,8 +2003,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Representational State Transfer (REST)|Rest]] (3), next (2), management (2), [[Algorithms]] (1)
 > **Env Vars:** pki (10), usb (1), crl (1)
-> **Code Keywords:** public (3), let (2), private (2), function (1), finally, (1)
 > **Analogies:** such as (2), similar to (1), think of it as (1)
 > **Definitions:** is a  (1), in other words (1), known as (1)
 > **Warnings:** be aware (1)
@@ -2143,7 +2143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (15), private (8), let (4), self (2), match. (2)
+> **Frameworks & Libraries:** data (1), power (1)
 > **Env Vars:** pki (2), crl (1), csr (1), x509 (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Analogies:** such as (2), imagine (1)
@@ -2264,8 +2264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), data (2), web (2), [[Telecommunications]] (1), management (1)
 > **Env Vars:** mime (4), pgp (4), ssl (3), tls (3), pki (2)
-> **Code Keywords:** public (4), private (2), finally, (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** ssh (2)
 > **Definitions:** is called (1), is an  (1)
@@ -2356,8 +2356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Google]] (2), [[Cryptography]] (2), [[Cybersecurity]] (1), [[Search]] (1)
 > **Env Vars:** tls (6), pki (4), ssl (4), vpn (1)
-> **Code Keywords:** public (3), let (2), private (2), else, (1), finally, (1)
 > **Definitions:** known as (2), is an  (1)
 > **Documentation:** spec (2)
 > **Analogies:** such as (2)
@@ -2442,7 +2442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (4), finally, (1), case, (1), private (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (8), next (3), [[Security]] (1), web (1)
 > **Env Vars:** https (3), http (2), rsa (2), url (1), tls (1)
 > **UI Navigation:** click on (6), double-click (1), scroll down (1)
 > **Analogies:** such as (1), for example (1)
@@ -2454,7 +2454,7 @@ created: 2026-04-29
 
 ### 5. Investigating Cryptoanalysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptanalysis goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980)
@@ -2551,7 +2551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), try. (1), private (1), break. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Cryptography]] (2), [[Security]] (2), [[Search]] (2), [[Cybersecurity]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** as we saw (1), later in (1)
 > **Definitions:** is a  (1), is called (1)
@@ -2663,7 +2663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Cryptography]] (4), [[Security]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), known as (1)
@@ -2805,9 +2805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (5), next (4), power (3), career (1), cloud (1)
 > **Definitions:** is called (4), means that (1), is a  (1)
 > **Analogies:** such as (5)
-> **Code Keywords:** finally, (2), continue (1), let (1)
 > **Env Vars:** wep (2), usb (1), irs (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
@@ -2855,7 +2855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (1), private (1), finally, (1)
+> **Frameworks & Libraries:** management (3)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2895,9 +2895,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Windows]] (1), [[Programming]] (1), [[Cryptography]] (1), [[Java]] (1)
 > **Env Vars:** cto (1), ct1 (1), ct2 (1), jct (1), rsa (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** finally, (1), public (1), private (1)
 > **URLs:** [md5hashgenerator.com](https://md5hashgenerator.com) (1), [onlinehashcrack.com](https://onlinehashcrack.com) (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** go to (1)
@@ -2955,7 +2955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Algorithms]] (1), next (1), data (1), [[Intrusion Detection]] (1)
 > **Env Vars:** ids (1), usb (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2966,7 +2966,7 @@ created: 2026-04-29
 
 ### 6. Guidelines and Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Guidelines and standards in cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980)
@@ -3045,9 +3045,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIST]] (5), data (4), next (4), management (2), [[Authentication Systems]] (1)
 > **Env Vars:** nist (5), fips (2), gak (2), des (1), fbi (1)
 > **Definitions:** is called (1), means that (1), refers to (1), is an  (1), stands for (1)
-> **Code Keywords:** public (2), let (1), require (1)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -3057,7 +3057,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fusion of AI and quantum cryptography: What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980)
@@ -3260,8 +3260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Cryptography]] (11), [[Quantum Computing]] (4), [[Algorithms]] (3), [[Probability]] (3)
 > **Env Vars:** nist (2), bike (1), hqc (1), sike (1), rsa (1)
-> **Code Keywords:** let (2), require (1), this, (1), switch (1), continue (1)
 > **Definitions:** is a  (2), in other words (2), is called (1), is an  (1)
 > **Analogies:** imagine (4), such as (1)
 > **CLI Commands:** make (1)
@@ -3327,7 +3327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2), let (1), module (1), while, (1)
+> **Frameworks & Libraries:** [[Cryptography]] (3), [[Algorithms]] (1), [[Hardware]] (1), management (1), [[LinkedIn]] (1)
 > **Env Vars:** ceh (1), pki (1), nis (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)

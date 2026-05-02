@@ -32,7 +32,7 @@ tags:
   - skill/product-security
   - skill/security-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Testing%2C%20Validation%2C%20and%20Maintenance.md)
@@ -51,60 +51,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Ensuring safe and responsible use of AI
-  - What you should know
-  - Disclaimer
+  - [Ensuring safe and responsible use of AI](#ensuring-safe-and-responsible-use-of-ai)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Test Case Management**](#1-test-case-management) (9 videos)
-  - Introduction to AI security
-  - Security testing for AI applications
-  - Setting up a testing lab
-  - Introduction to HuggingFace
-  - Managing local models with ollama
-  - Test case management with KiwiTCMS
-  - Security testing with KiwiTCMS
-  - Understanding AI threats
-  - Testing requirements in AI standards
+  - [Introduction to AI security](#introduction-to-ai-security)
+  - [Security testing for AI applications](#security-testing-for-ai-applications)
+  - [Setting up a testing lab](#setting-up-a-testing-lab)
+  - [Introduction to HuggingFace](#introduction-to-huggingface)
+  - [Managing local models with ollama](#managing-local-models-with-ollama)
+  - [Test case management with KiwiTCMS](#test-case-management-with-kiwitcms)
+  - [Security testing with KiwiTCMS](#security-testing-with-kiwitcms)
+  - [Understanding AI threats](#understanding-ai-threats)
+  - [Testing requirements in AI standards](#testing-requirements-in-ai-standards)
 - [**2. Understanding Attacks**](#2-understanding-attacks) (10 videos)
-  - Installing the vulnerable LLM application
-  - Testing for prompt injection
-  - Challenges with agentic code
-  - Injecting thoughts
-  - Solving the LOTR challenge
-  - Breaking the rules
-  - Predicting secrets
-  - Getting a shell
-  - Compromise during download
-  - The ART of AI testing
+  - [Installing the vulnerable LLM application](#installing-the-vulnerable-llm-application)
+  - [Testing for prompt injection](#testing-for-prompt-injection)
+  - [Challenges with agentic code](#challenges-with-agentic-code)
+  - [Injecting thoughts](#injecting-thoughts)
+  - [Solving the LOTR challenge](#solving-the-lotr-challenge)
+  - [Breaking the rules](#breaking-the-rules)
+  - [Predicting secrets](#predicting-secrets)
+  - [Getting a shell](#getting-a-shell)
+  - [Compromise during download](#compromise-during-download)
+  - [The ART of AI testing](#the-art-of-ai-testing)
 - [**3. Responsible and Secure AI Model Testing**](#3-responsible-and-secure-ai-model-testing) (10 videos)
-  - AI testing tools
-  - Introduction to DeepEval
-  - Testing for relevance
-  - Testing for toxicity
-  - Vulnerability scanning with garak
-  - Scanning pickle files
-  - All along the watchtower
-  - Advanced scanning for malicious models
-  - Guardrail models
-  - Hallucinations with lettuce
+  - [AI testing tools](#ai-testing-tools)
+  - [Introduction to DeepEval](#introduction-to-deepeval)
+  - [Testing for relevance](#testing-for-relevance)
+  - [Testing for toxicity](#testing-for-toxicity)
+  - [Vulnerability scanning with garak](#vulnerability-scanning-with-garak)
+  - [Scanning pickle files](#scanning-pickle-files)
+  - [All along the watchtower](#all-along-the-watchtower)
+  - [Advanced scanning for malicious models](#advanced-scanning-for-malicious-models)
+  - [Guardrail models](#guardrail-models)
+  - [Hallucinations with lettuce](#hallucinations-with-lettuce)
 - [**4. Red Teaming**](#4-red-teaming) (3 videos)
-  - What is AI red teaming?
-  - Preparing the target
-  - Red teaming our AI appliance
+  - [What is AI red teaming?](#what-is-ai-red-teaming)
+  - [Preparing the target](#preparing-the-target)
+  - [Red teaming our AI appliance](#red-teaming-our-ai-appliance)
 - [**5. Operational Testing**](#5-operational-testing) (4 videos)
-  - AI guardrails
-  - Running the LLM-guard
-  - Hidden layers of AI
-  - Testing the EnkryptAI guardrail
+  - [AI guardrails](#ai-guardrails)
+  - [Running the LLM-guard](#running-the-llm-guard)
+  - [Hidden layers of AI](#hidden-layers-of-ai)
+  - [Testing the EnkryptAI guardrail](#testing-the-enkryptai-guardrail)
 - [**Access Control**](#access-control) (3 videos)
-  - Preparing to control access
-  - Creating the access control model
-  - Access control in action
+  - [Preparing to control access](#preparing-to-control-access)
+  - [Creating the access control model](#creating-the-access-control-model)
+  - [Access control in action](#access-control-in-action)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring safe and responsible use of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ensuring-safe-and-responible-use-of-ai?u=76281980)
@@ -125,6 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), career (1)
 > **Speakers:** - [malcolm] (1)
 
 #### What you should know
@@ -142,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Security]] (1), management (1), [[Linux]] (1), [[Programming]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -165,12 +167,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Test Case Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/introduction-to-ai-security?u=76281980)
@@ -245,7 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** ai (18), data (4), chatbot (4), [[Tokens]] (3), prompt (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), known as (1)
@@ -318,9 +321,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), application (3), prompt (3), [[Cybersecurity]] (2), data (2)
 > **Versions:** 182.168.1 (1), 1.5 (1), 98.5 (1), 4.6 (1)
 > **CLI Commands:** make (1), find (1), ssh (1)
-> **Code Keywords:** let (2), override (1)
 > **Env Vars:** ssh (1), gpt (1)
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - [narrator] (1), - p1 (1)
@@ -456,10 +459,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Python (Programming Language)|Python]] (4), [[Google]] (3), [[Google Drive]] (2), [[Tokens]] (2)
 > **Env Vars:** gpu (8), cpu (6), rtx (2), npu (2), cuda (2)
 > **Tools:** colab (6), jupyter (4)
 > **CLI Commands:** python (4), pip (2), find (1), pip3 (1)
-> **Code Keywords:** let (6), type, (1)
 > **Prerequisites:** install (5), set up (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** such as (4)
@@ -564,7 +567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Hugging Face]] (3), ai (2), [[Search]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (3), python (2), cd (1), pip (1)
 > **Env Vars:** gpt (4), json (1), vllm (1), gpu (1)
 > **Prerequisites:** set up (3), install (2)
@@ -616,8 +619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ollama]] (7), ai (2)
 > **CLI Commands:** pip (1), find (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -652,8 +655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), management (2), [[Software Testing]] (2), [[Manual Testing]] (2), feature (1)
 > **Env Vars:** tcms (3)
-> **Code Keywords:** case, (1), let (1)
 > **Definitions:** known as (1), is called (1)
 > **Documentation:** the documentation (1)
 > **Prerequisites:** install (1)
@@ -786,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case. (3), case, (1), switch (1), this, (1)
+> **Frameworks & Libraries:** product (7), ai (5), next (2), [[Search]] (2), [[Security]] (1)
 > **UI Navigation:** select the (7), scroll down (2), go to (2), click on (1)
 > **Prerequisites:** set up (3), setup (1)
 > **URLs:** [example.com](https://example.com) (1)
@@ -904,9 +907,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), prompt (7), data (6), [[OWASP]] (2), llm (2)
 > **Env Vars:** owasp (2), llm (2), llmo3 (1), llmo7 (1), llmo8 (1)
 > **Definitions:** is a  (5), means that (1), refers to (1)
-> **Code Keywords:** let (2), super (1), override (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** scroll down (1)
@@ -959,10 +962,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (3), [[Security]] (2), [[NIST]] (2), [[Risk Management Framework (RMF)|Risk management framework]] (2)
 > **Versions:** 2.1 (2), 6.2.4 (1), 4.3 (1), 2.3 (1), 2.5 (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** iso (2), nist (2), raims (1)
-> **Code Keywords:** require (2), let (2)
 > **Documentation:** specification (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
@@ -971,7 +974,7 @@ created: 2026-04-29
 
 ### 2. Understanding Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the vulnerable LLM application
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/installing-the-vulnerable-llm-application?u=76281980)
@@ -1038,10 +1041,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), application (2), [[Python (Programming Language)|Python]] (2), api (2), [[Git]] (1)
 > **CLI Commands:** python (2), pip3 (2), git (1), make (1), python3 (1)
 > **Env Vars:** api (3), dvllm (2), llm (1)
 > **Prerequisites:** install (5), set up (1)
-> **Code Keywords:** let (2), module (1)
 > **File Paths:** requirements.txt (1), main.py (1)
 > **URLs:** [github.com](https://github.com) (1)
 > **Ports:** port 8501 (1)
@@ -1096,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** prompt (2), llm (1), application (1), [[Flux]] (1), ai (1)
 > **Env Vars:** llm (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1212,7 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), pass (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), ai (3), [[Gemini]] (3), application (2), [[Google]] (2)
 > **CLI Commands:** find (4), python3 (2), rm (2), python (2), pip3 (1)
 > **File Paths:** target.txt (5), codeman.py (3), temp.py (1)
 > **Prerequisites:** set up (6), install (3)
@@ -1286,8 +1289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), [[JSON]] (4), ai (2), application (2), database (2)
 > **Env Vars:** sql (8), json (3), llm (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** action_input (1)
 > **Cross-References:** in the next (1)
@@ -1378,7 +1381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1)
+> **Frameworks & Libraries:** prompt (4), data (2), [[Hugging Face]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Env Vars:** lotr (2), gpu (1), csv (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** go to (1)
@@ -1412,8 +1415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (1), [[Ollama]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1484,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), super (1), this. (1)
+> **Frameworks & Libraries:** data (5), api (3), prompt (2), ai (1), [[Hugging Face]] (1)
 > **Env Vars:** api (3), json (1)
 > **File Paths:** manastas.py (2)
 > **CLI Commands:** find (1), make (1)
@@ -1558,7 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), function (2)
+> **Frameworks & Libraries:** ai (3), [[Python (Programming Language)|Python]] (2), prompt (2)
 > **CLI Commands:** python3 (3), mkdir (2), python (2), pip3 (1)
 > **Code Identifiers:** prep_models (2), safe_model (2), get_payload (1), unsafe_model (1)
 > **File Paths:** sentiment.py (3), prep_models.py (2)
@@ -1632,8 +1635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (3), ai (1), prompt (1)
 > **CLI Commands:** find (6), python (3), unzip (2), python3 (1)
-> **Code Keywords:** let (7), case, (1)
 > **File Paths:** verysafe.py (3), youarehacked.txt (2)
 > **Code Identifiers:** pytorch_model (3)
 > **Env Vars:** youarehacked (2)
@@ -1712,7 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), function (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** ai (4), next (2), data (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** set up (3)
 > **File Paths:** requirements.txt (1)
@@ -1724,7 +1727,7 @@ created: 2026-04-29
 
 ### 3. Responsible and Secure AI Model Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI testing tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ai-testing-tools?u=76281980)
@@ -1741,7 +1744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - [instructor] (1)
 
 #### Introduction to DeepEval
@@ -1791,8 +1794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), ai (4), [[Python (Programming Language)|Python]] (1), prompt (1)
 > **CLI Commands:** find (1), python (1)
-> **Code Keywords:** match. (1), let (1)
 > **Env Vars:** csv (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1862,7 +1865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (2), this. (1), finally, (1), function (1)
+> **Frameworks & Libraries:** prompt (5), [[Ollama]] (3), ai (2), next (1), llm (1)
 > **Prerequisites:** set up (5), install (2)
 > **Versions:** 3.5 (3), 0.857 (1), 0.9 (1), 1.0 (1)
 > **File Paths:** relevance.py (2), test_relevance.py (1)
@@ -1916,7 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), pass (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** prompt (4), [[Ollama]] (3), ai (1), next (1), llm (1)
 > **File Paths:** test_toxicity.py (2), toxicity.py (1)
 > **Prerequisites:** set up (3)
 > **Code Identifiers:** test_toxicity (2)
@@ -2006,8 +2009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Hugging Face|Huggingface]] (2), [[JSON]] (2), [[HTML]] (1), prompt (1)
 > **Env Vars:** bert (4), gpt (2), json (2), html (1)
-> **Code Keywords:** let (6), implements (1)
 > **Code Identifiers:** model_type (2), model_name (2)
 > **Prerequisites:** install (3), set up (1)
 > **Definitions:** is called (1), stands for (1), is a  (1)
@@ -2070,7 +2073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), import. (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Hugging Face|Huggingface]] (1)
 > **CLI Commands:** find (2), pip3 (1)
 > **Prerequisites:** install (2)
 > **Code Identifiers:** unsafe_model (1)
@@ -2151,10 +2154,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), ai (2), [[Security]] (1), [[Git]] (1), cd (1)
 > **CLI Commands:** find (3), python3 (2), git (1), chmod (1), cd (1)
 > **Tools:** github (6), jupyter (1)
 > **Code Identifiers:** repo_type (1), repo_url (1), scanned_reports (1), severity_mapped (1), timeseries_notebook (1)
-> **Code Keywords:** let (4)
 > **File Paths:** install.sh (2), watchtower.py (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2), set up (1)
@@ -2199,7 +2202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Security]] (1), ai (1), [[TensorFlow]] (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** pip3 (1)
 > **Code Identifiers:** safe_model (1)
@@ -2245,8 +2248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (3), prompt (2), [[Google]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** module (1), case, (1)
 > **Env Vars:** xlmr (1), bert (1)
 > **Versions:** 0.9 (1)
 > **Tools:** colab (1)
@@ -2299,9 +2302,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Hugging Face]] (1), prompt (1), [[Google]] (1)
 > **Prerequisites:** set up (2), install (1)
 > **Tools:** colab (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** bert (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2309,7 +2312,7 @@ created: 2026-04-29
 
 ### 4. Red Teaming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI red teaming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/what-is-ai-red-teaming?u=76281980)
@@ -2326,7 +2329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (3), ai (3), [[Penetration Testing]] (1), api (1), application (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2408,7 +2411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), this, (2), case, (2), pass (2)
+> **Frameworks & Libraries:** application (10), prompt (4), ai (3), next (2), [[Red Teaming]] (1)
 > **File Paths:** bethany.py (2)
 > **Env Vars:** api (1), gpt (1)
 > **CLI Commands:** python3 (1)
@@ -2501,7 +2504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), class. (1), class, (1), for. (1)
+> **Frameworks & Libraries:** ai (5), application (3), [[Ollama]] (3), [[Red Teaming]] (2), prompt (2)
 > **File Paths:** test_beth.py (2), hal.py (1), test_hal.py (1)
 > **Env Vars:** gpt (3), api (1)
 > **Code Identifiers:** test_beth (2), test_hal (1)
@@ -2513,7 +2516,7 @@ created: 2026-04-29
 
 ### 5. Operational Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI guardrails
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ai-guardrails?u=76281980)
@@ -2550,8 +2553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), application (4), llm (4), prompt (2), [[Security]] (1)
 > **Env Vars:** llm (4)
-> **Code Keywords:** type, (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2618,8 +2621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), llm (4), prompt (4), data (3), next (3)
 > **Env Vars:** llm (4), sql (2)
-> **Code Keywords:** let (4)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)
@@ -2702,7 +2705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1)
+> **Frameworks & Libraries:** prompt (5), ai (4), llm (3), business (1), [[Hugging Face|Huggingface]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** llm (3), mitre (1), atlas (1)
 > **Cross-References:** go back to (1)
@@ -2754,7 +2757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (4), prompt (4), product (1), [[Red Teaming]] (1), [[JSON]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** json (1)
 > **UI Navigation:** select the (1)
@@ -2763,7 +2766,7 @@ created: 2026-04-29
 
 ### Access Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing to control access
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-to-control-access?u=76281980)
@@ -2842,6 +2845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[LangChain]] (5), api (4), [[Python (Programming Language)|Python]] (4), application (2)
 > **CLI Commands:** python (4), git (2), python3 (2), pip3 (2), ssh (1)
 > **Prerequisites:** install (7), set up (6)
 > **Env Vars:** api (4), fga (2), rag (1), carli (1), ssh (1)
@@ -2849,7 +2853,6 @@ created: 2026-04-29
 > **Speakers:** - ai (2), - [instructor] (1)
 > **URLs:** [github.com](https://github.com) (2)
 > **Tools:** github (2)
-> **File Paths:** requirements.txt (1)
 
 #### Creating the access control model
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/creating-the-access-control-model?u=76281980)
@@ -2914,7 +2917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), private (2), async (1), return. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), management (1)
 > **Env Vars:** fga (4), sdk (1)
 > **Prerequisites:** set up (3), initialization (2)
 > **File Paths:** init.py (1), scripts/fga_init.py (1)
@@ -2986,8 +2989,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (9), rag (5), ai (3), application (3), prompt (2)
 > **Env Vars:** rag (5), api (1), gpt (1), llm (1)
-> **Code Keywords:** let (2), function (2), case, (1), pass (1), private (1)
 > **CLI Commands:** python3 (2), python (1), make (1), pip (1)
 > **File Paths:** main.py (4)
 > **Prerequisites:** initialization (1), install (1)
@@ -2998,7 +3001,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/what-s-next?u=76281980)
@@ -3023,6 +3026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), ai (2), [[LinkedIn]] (2), [[Security]] (2)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)

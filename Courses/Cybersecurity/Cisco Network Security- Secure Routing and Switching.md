@@ -33,7 +33,7 @@ tags:
   - skill/network-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Secure%20Routing%20and%20Switching.md)
@@ -52,47 +52,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you need to know
-  - Packet Tracer and exercise files
+  - [Welcome](#welcome)
+  - [What you need to know](#what-you-need-to-know)
+  - [Packet Tracer and exercise files](#packet-tracer-and-exercise-files)
 - [**1. Secure Routing and Switching**](#1-secure-routing-and-switching) (3 videos)
-  - Secure routing and switching: Overview
-  - Control, data, and management planes
-  - Router and switch security basics
+  - [Secure routing and switching: Overview](#secure-routing-and-switching-overview)
+  - [Control, data, and management planes](#control-data-and-management-planes)
+  - [Router and switch security basics](#router-and-switch-security-basics)
 - [**2. Securing Cisco Routers**](#2-securing-cisco-routers) (9 videos)
-  - Layer 3 attacks: Overview
-  - Secure the control plane
-  - Examine privilege levels
-  - Assign privilege levels
-  - Configure IOS role-based CLI access
-  - Implement IOSR Resilient Configuration
-  - Routing update authentication
-  - Challenge: EIGRP authentication
-  - Solution: EIGRP authentication
+  - [Layer 3 attacks: Overview](#layer-3-attacks-overview)
+  - [Secure the control plane](#secure-the-control-plane)
+  - [Examine privilege levels](#examine-privilege-levels)
+  - [Assign privilege levels](#assign-privilege-levels)
+  - [Configure IOS role-based CLI access](#configure-ios-role-based-cli-access)
+  - [Implement IOSR Resilient Configuration](#implement-iosr-resilient-configuration)
+  - [Routing update authentication](#routing-update-authentication)
+  - [Challenge: EIGRP authentication](#challenge-eigrp-authentication)
+  - [Solution: EIGRP authentication](#solution-eigrp-authentication)
 - [**3. Security on Cisco Switches**](#3-security-on-cisco-switches) (8 videos)
-  - Layer 2 attacks: Overview
-  - Spanning-Tree Protocol
-  - STP attacks
-  - ARP spoofing
-  - MAC spoofing
-  - macof attack
-  - CDP/LLDP reconnaissance
-  - DHCP spoofing
+  - [Layer 2 attacks: Overview](#layer-2-attacks-overview)
+  - [Spanning-Tree Protocol](#spanning-tree-protocol)
+  - [STP attacks](#stp-attacks)
+  - [ARP spoofing](#arp-spoofing)
+  - [MAC spoofing](#mac-spoofing)
+  - [macof attack](#macof-attack)
+  - [CDP/LLDP reconnaissance](#cdplldp-reconnaissance)
+  - [DHCP spoofing](#dhcp-spoofing)
 - [**4. Mitigation Procedures**](#4-mitigation-procedures) (4 videos)
-  - Implement DHCP snooping
-  - Dynamic ARP inspection
-  - Implement port security
-  - BPDU guard, root guard, and loop guard
+  - [Implement DHCP snooping](#implement-dhcp-snooping)
+  - [Dynamic ARP inspection](#dynamic-arp-inspection)
+  - [Implement port security](#implement-port-security)
+  - [BPDU guard, root guard, and loop guard](#bpdu-guard-root-guard-and-loop-guard)
 - [**5. VLAN Security**](#5-vlan-security) (3 videos)
-  - VLAN attacks
-  - Security implications of a PVLAN
-  - Security implications of a native VLAN
+  - [VLAN attacks](#vlan-attacks)
+  - [Security implications of a PVLAN](#security-implications-of-a-pvlan)
+  - [Security implications of a native VLAN](#security-implications-of-a-native-vlan)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Routing]] (2), data (1), management (1)
 > **Env Vars:** arp (1), bpdu (1), vlan (1), ccna (1)
-> **Code Keywords:** switch (1), super (1), let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -141,9 +141,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), career (1)
 > **Env Vars:** ccna (3)
 > **Definitions:** is an  (2)
-> **Code Keywords:** super (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
@@ -170,6 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cisco Networking]] (1), [[Search]] (1), [[Security]] (1)
 > **Definitions:** is a  (2)
 > **URLs:** [netacad.com](https://netacad.com) (1)
 > **Env Vars:** ccna (1)
@@ -180,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Secure Routing and Switching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure routing and switching: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980)
@@ -223,7 +224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (1), interface (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Routing]] (2)
 > **Env Vars:** cam (1), dhcp (1), bpdu (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** good practice (2)
@@ -272,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), management (8), [[Routing Protocols]] (2)
 > **Env Vars:** ftp (1), eigrp (1), igmp (1), icmp (1), arp (1)
-> **Code Keywords:** interface (2), switch (1), static (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -321,7 +322,6 @@ created: 2026-04-29
 >
 > **Env Vars:** vty (1), ios (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** interface (1)
 > **Tools:** command line (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
@@ -330,7 +330,7 @@ created: 2026-04-29
 
 ### 2. Securing Cisco Routers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Layer 3 attacks: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-3-attacks-overview?u=76281980)
@@ -371,10 +371,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (4), traffic (3), [[Security]] (1)
 > **Env Vars:** icmp (2), osi (1), ios (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** interface (1)
 > **Tools:** command line (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -424,7 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), pass (2)
+> **Frameworks & Libraries:** data (14), traffic (11), management (2), express (1), feature (1)
 > **Env Vars:** cpu (3), cef (2)
 > **Definitions:** is a  (2), is an  (2)
 > **UI Navigation:** go to (1)
@@ -489,8 +489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), hit (1)
 > **Env Vars:** exec (8)
-> **Code Keywords:** interface (3), default. (1), require (1)
 > **Tools:** command line (2), terminal (2)
 > **Code Identifiers:** ios (3)
 > **Analogies:** for example (2), such as (1)
@@ -587,8 +587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), database (1)
 > **Prerequisites:** configure (5)
-> **Code Keywords:** let (3), require (1)
 > **Tools:** terminal (3)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** snmp (1)
@@ -670,11 +670,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (10)
 > **Env Vars:** cli (10), aaa (3), exec (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), it's like (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** interface (1)
 > **Tools:** command line (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -718,9 +718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Env Vars:** ios (6)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), delete (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -788,8 +788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (6), [[Security]] (2), [[Routing Protocols]] (1), data (1)
 > **Env Vars:** sha (2), eigrp (1), md5 (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
 > **URLs:** [cloudshark.org](https://cloudshark.org) (1)
@@ -828,7 +828,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** eigrp (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** baseeigrp (1)
 > **Speakers:** - [instructor] (1)
@@ -879,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2)
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 5.1.1 (4)
 > **UI Navigation:** go to (2)
 > **Env Vars:** eigrp (1)
@@ -889,7 +888,7 @@ created: 2026-04-29
 
 ### 3. Security on Cisco Switches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Layer 2 attacks: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980)
@@ -976,9 +975,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Kali Linux]] (4), data (4), traffic (2), [[Penetration Testing]] (1)
 > **Env Vars:** dhcp (4), arp (3), mac (3), ccna (2), cdp (2)
 > **Definitions:** is an  (2), is called (1), is a  (1)
-> **Code Keywords:** switch (2), interface (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1036,7 +1035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (7), interface (1)
+> **Frameworks & Libraries:** data (3), traffic (2), [[Local Area Network (LAN)|Local area network]] (1), next (1)
 > **Env Vars:** mac (3)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1081,7 +1080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), interface (2)
+> **Frameworks & Libraries:** data (1), traffic (1)
 > **Env Vars:** bpdu (3), cam (1), vlan (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1168,9 +1167,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[Windows]] (1), [[Wireshark]] (1), [[Security]] (1)
 > **Env Vars:** arp (25), mac (5), dhcp (3), arf (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** interface (1), let (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - address (1)
 
@@ -1237,10 +1236,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Windows]] (2), [[Local Area Network (LAN)|Local area network]] (1), data (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mac (20), apr (1), dhcp (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1), case, (1)
 > **Prerequisites:** set up (2)
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
@@ -1278,7 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (8), else. (1), continue (1)
+> **Frameworks & Libraries:** data (4), lan (1), [[Kali Linux]] (1), [[Security]] (1)
 > **Env Vars:** mac (5), cam (4), lan (1)
 > **Tools:** terminal (1)
 > **Best Practices:** best practice (1)
@@ -1319,10 +1318,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Wireshark]] (1), [[IP Addressing]] (1)
 > **Env Vars:** cdp (4), ios (2), ieee (1), vlan (1), snmp (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** switch (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1377,15 +1376,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (2), dns (1), traffic (1), [[Windows]] (1)
 > **Env Vars:** dhcp (14), arp (4), vlan (2), dns (1)
-> **Code Keywords:** switch (3), interface (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 4. Mitigation Procedures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement DHCP snooping
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-dhcp-snooping?u=76281980)
@@ -1460,8 +1459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), traffic (4)
 > **Env Vars:** dhcp (31), mac (2), arp (1)
-> **Code Keywords:** switch (3), let (2), case, (1), static (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1496,9 +1495,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), [[Wireshark]] (1)
 > **Env Vars:** arp (9), mac (3), dhcp (2)
 > **Versions:** 192.168.47 (1), 47.2 (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Implement port security
@@ -1558,7 +1557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (12), static (2), interface (1)
+> **Frameworks & Libraries:** [[Security]] (7), traffic (1)
 > **Env Vars:** mac (9), vlan (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
@@ -1614,8 +1613,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), [[Security]] (1)
 > **Env Vars:** bpdu (6), dhcp (1)
-> **Code Keywords:** switch (1), interface (1), default. (1)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1624,7 +1623,7 @@ created: 2026-04-29
 
 ### 5. VLAN Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### VLAN attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980)
@@ -1677,8 +1676,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Virtual Work]] (1), traffic (1)
 > **Env Vars:** vlan (14), vtp (2)
-> **Code Keywords:** switch (3)
 > **Warnings:** be aware (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1712,8 +1711,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), traffic (1)
 > **Env Vars:** vlans (11), vlan (9)
-> **Code Keywords:** private (5), switch (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1768,8 +1767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **Env Vars:** vlan (18)
-> **Code Keywords:** switch (6), default. (2), let (2), delete (1), interface (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Prerequisites:** configure (1)
@@ -1778,7 +1777,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980)
@@ -1815,8 +1814,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Routing]] (2), data (1), management (1), [[Ethical Hacking]] (1)
 > **Env Vars:** vlan (4), dhcp (1), arp (1), bpdu (1)
-> **Code Keywords:** switch (1), interface (1), private (1)
 > **Analogies:** such as (2)
 > **Tools:** command line (1)
 > **Speakers:** - [lisa] (1)

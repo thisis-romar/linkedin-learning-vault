@@ -32,7 +32,7 @@ tags:
   - skill/web-application-security
   - skill/wordpress
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Wordpress%20Building%20A%20Secure%20Site.md)
@@ -51,49 +51,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building a secure WordPress website
+  - [Building a secure WordPress website](#building-a-secure-wordpress-website)
 - [**1. WordPress Structure and Vulnerabilities**](#1-wordpress-structure-and-vulnerabilities) (3 videos)
-  - How to choose a secure WordPress hosting provider
-  - Overview of the WordPress structure
-  - How WordPress sites become vulnerable
+  - [How to choose a secure WordPress hosting provider](#how-to-choose-a-secure-wordpress-hosting-provider)
+  - [Overview of the WordPress structure](#overview-of-the-wordpress-structure)
+  - [How WordPress sites become vulnerable](#how-wordpress-sites-become-vulnerable)
 - [**2. WordPress User Accounts**](#2-wordpress-user-accounts) (3 videos)
-  - How to create a secure WordPress user account
-  - Best practices for keeping WordPress user accounts secure
-  - Tools for securing your WordPress login screen
+  - [How to create a secure WordPress user account](#how-to-create-a-secure-wordpress-user-account)
+  - [Best practices for keeping WordPress user accounts secure](#best-practices-for-keeping-wordpress-user-accounts-secure)
+  - [Tools for securing your WordPress login screen](#tools-for-securing-your-wordpress-login-screen)
 - [**3. SSL Certificates**](#3-ssl-certificates) (3 videos)
-  - How an SSL certificate keeps WordPress sites secure
-  - How to troubleshoot an SSL installation
-  - Tools for setting up an SSL certificate
+  - [How an SSL certificate keeps WordPress sites secure](#how-an-ssl-certificate-keeps-wordpress-sites-secure)
+  - [How to troubleshoot an SSL installation](#how-to-troubleshoot-an-ssl-installation)
+  - [Tools for setting up an SSL certificate](#tools-for-setting-up-an-ssl-certificate)
 - [**4. WordPress Plugins and Themes**](#4-wordpress-plugins-and-themes) (4 videos)
-  - How to choose secure WordPress plugins
-  - Best practices for keeping WordPress plugins secure
-  - How to choose secure WordPress themes
-  - Best practices for keeping WordPress themes secure
+  - [How to choose secure WordPress plugins](#how-to-choose-secure-wordpress-plugins)
+  - [Best practices for keeping WordPress plugins secure](#best-practices-for-keeping-wordpress-plugins-secure)
+  - [How to choose secure WordPress themes](#how-to-choose-secure-wordpress-themes)
+  - [Best practices for keeping WordPress themes secure](#best-practices-for-keeping-wordpress-themes-secure)
 - [**5. Comment Spam**](#5-comment-spam) (3 videos)
-  - Why spam comments are dangerous for WordPress sites
-  - How to prevent WordPress spam comments
-  - How to remove WordPress spam comments
+  - [Why spam comments are dangerous for WordPress sites](#why-spam-comments-are-dangerous-for-wordpress-sites)
+  - [How to prevent WordPress spam comments](#how-to-prevent-wordpress-spam-comments)
+  - [How to remove WordPress spam comments](#how-to-remove-wordpress-spam-comments)
 - [**6. Website File and Database Backups**](#6-website-file-and-database-backups) (2 videos)
-  - How to make secure WordPress website backups
-  - Best practices for taking WordPress website backups
+  - [How to make secure WordPress website backups](#how-to-make-secure-wordpress-website-backups)
+  - [Best practices for taking WordPress website backups](#best-practices-for-taking-wordpress-website-backups)
 - [**7. Firewalls**](#7-firewalls) (2 videos)
-  - How firewalls make your site more secure
-  - Tools for setting up a WordPress firewall
+  - [How firewalls make your site more secure](#how-firewalls-make-your-site-more-secure)
+  - [Tools for setting up a WordPress firewall](#tools-for-setting-up-a-wordpress-firewall)
 - [**8. Ecommerce Site Security**](#8-ecommerce-site-security) (2 videos)
-  - How to make your ecommerce site more secure
-  - Best practices for securing an ecommerce site
+  - [How to make your ecommerce site more secure](#how-to-make-your-ecommerce-site-more-secure)
+  - [Best practices for securing an ecommerce site](#best-practices-for-securing-an-ecommerce-site)
 - [**9. Editing WordPress Files**](#9-editing-wordpress-files) (5 videos)
-  - Secure your WordPress site by tweaking the wp-config file
-  - Secure your WordPress site by disabling XML-RPC
-  - Secure your WordPress site by disabling PHP executions
-  - Secure your WordPress site by disabling directory indexing and browsing
-  - Secure your WordPress site by tightening file/folder permissions
+  - [Secure your WordPress site by tweaking the wp-config file](#secure-your-wordpress-site-by-tweaking-the-wp-config-file)
+  - [Secure your WordPress site by disabling XML-RPC](#secure-your-wordpress-site-by-disabling-xml-rpc)
+  - [Secure your WordPress site by disabling PHP executions](#secure-your-wordpress-site-by-disabling-php-executions)
+  - [Secure your WordPress site by disabling directory indexing and browsing](#secure-your-wordpress-site-by-disabling-directory-indexing-and-browsing)
+  - [Secure your WordPress site by tightening file/folder permissions](#secure-your-wordpress-site-by-tightening-filefolder-permissions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a secure WordPress website
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980)
@@ -118,15 +118,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Security]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ssl (1)
 > **Speakers:** - these (1)
 
 
 ### 1. WordPress Structure and Vulnerabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to choose a secure WordPress hosting provider
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980)
@@ -207,8 +207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[WordPress]] (4), [[WooCommerce]] (3), [[Google]] (1), traffic (1)
 > **Env Vars:** ssl (1), cdn (1), ddos (1)
-> **Code Keywords:** throw (1), for. (1)
 > **Tools:** safari (1), firefox (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** just like (1), for example (1)
@@ -269,9 +269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (8), database (7), [[JavaScript]] (2), [[PHP]] (2), [[Content Management]] (1)
 > **CLI Commands:** make (3), php (2)
 > **Env Vars:** php (2), cms (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -300,6 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (8), cms (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** cms (2)
 > **Definitions:** means that (2)
@@ -308,7 +309,7 @@ created: 2026-04-29
 
 ### 2. WordPress User Accounts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create a secure WordPress user account
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-create-a-secure-wordpress-user-account?u=76281980)
@@ -373,9 +374,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), next (1), [[Security]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** think of it like (1), for example (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -414,9 +415,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Security]] (1)
 > **Env Vars:** url (5)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -461,14 +462,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), [[Security]] (1), data (1)
 > **Definitions:** is called (2), is a  (1)
-> **Code Keywords:** let (1), public (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. SSL Certificates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How an SSL certificate keeps WordPress sites secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980)
@@ -503,8 +504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), data (2), web (1), [[E-Commerce]] (1)
 > **Env Vars:** ssl (5)
-> **Code Keywords:** private (2), let (1), protected (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -562,9 +563,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), database (1), [[PHP]] (1), [[Windows]] (1), next (1)
 > **Env Vars:** url (8), ssl (6), https (6), http (3), php (1)
 > **CLI Commands:** make (3), php (1), find (1)
-> **Code Keywords:** let (1), this. (1)
 > **UI Navigation:** go to (2)
 > **Warnings:** troubleshoot (1), warning (1)
 > **Cross-References:** next video (1)
@@ -595,7 +596,7 @@ created: 2026-04-29
 
 ### 4. WordPress Plugins and Themes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to choose secure WordPress plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980)
@@ -676,8 +677,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (10), [[Security]] (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1), require (1)
 > **Analogies:** such as (1), just like (1)
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** keep in mind (1)
@@ -725,6 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Microsoft Word|Word]] (1), feature (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [wordfence.com](https://wordfence.com) (1)
 > **Versions:** 0.2 (1)
@@ -773,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Security]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), this, (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
@@ -801,8 +803,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -810,7 +812,7 @@ created: 2026-04-29
 
 ### 5. Comment Spam
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why spam comments are dangerous for WordPress sites
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980)
@@ -845,8 +847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), database (2), [[WordPress]] (1), [[Databases]] (1), [[Security]] (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** delete (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -892,7 +894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** [[WordPress]] (4), feature (1)
 > **Env Vars:** captcha (2)
 > **Code Identifiers:** recaptcha (1)
 > **UI Navigation:** go to (1)
@@ -937,8 +939,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), business (1), [[Microsoft Products|Products]] (1), [[WordPress]] (1), [[Privacy]] (1)
 > **Prerequisites:** set up (1), you'll need (1), configure (1)
-> **Code Keywords:** this. (2)
 > **Env Vars:** api (2)
 > **UI Navigation:** click on (1), select the (1)
 > **Definitions:** is a  (2)
@@ -947,7 +949,7 @@ created: 2026-04-29
 
 ### 6. Website File and Database Backups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make secure WordPress website backups
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-secure-wordpress-website-backups?u=76281980)
@@ -972,6 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), database (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1005,6 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[WordPress]] (1), [[Google Drive]] (1), cloud (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
@@ -1014,7 +1018,7 @@ created: 2026-04-29
 
 ### 7. Firewalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How firewalls make your site more secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-firewalls-make-your-site-more-secure?u=76281980)
@@ -1043,8 +1047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Security]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1079,6 +1083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[WordPress]] (2), [[SQL]] (1), [[Scripting]] (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** ithemes (2)
 > **Prerequisites:** set up (1), install (1)
@@ -1088,7 +1093,7 @@ created: 2026-04-29
 
 ### 8. Ecommerce Site Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make your ecommerce site more secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980)
@@ -1121,6 +1126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (8), [[WordPress]] (3), [[E-Commerce]] (2), [[Security]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pci (3)
 > **Definitions:** is an  (1), is a  (1), means that (1)
@@ -1172,16 +1178,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (4), business (2), data (2), css (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ssl (4), css (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), private (1)
 > **URLs:** [authorize.net](https://authorize.net) (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 9. Editing WordPress Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure your WordPress site by tweaking the wp-config file
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980)
@@ -1228,8 +1234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (8), database (3), web (1), [[Security]] (1), feature (1)
 > **CLI Commands:** make (2), find (2), php (1)
-> **Code Keywords:** this. (1), default, (1), else, (1), finally, (1), match. (1)
 > **Env Vars:** wp_ (1), php (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -1254,8 +1260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), web (1), [[Windows]] (1)
 > **Env Vars:** rpc (3), xml (2), cml (1)
-> **Code Keywords:** default, (1), default. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1288,6 +1294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[WordPress]] (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** php (2)
 > **UI Navigation:** go to (1)
@@ -1353,9 +1360,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (2), right-click (1), go to (1)
-> **Code Keywords:** for. (1), this. (1)
 > **Code Identifiers:** cpanel (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1363,7 +1370,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980)
@@ -1378,6 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (1), [[Search]] (1), [[LinkedIn]] (1), [[E-Commerce]] (1)
 > **Speakers:** - congratulations (1)
 
 

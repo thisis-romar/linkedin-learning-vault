@@ -31,7 +31,7 @@ tags:
   - skill/solidity
   - skill/blockchain
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain-%20Learning%20Solidity.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Blockchain: Learning Solidity
-  - Course prerequisites
+  - [Blockchain: Learning Solidity](#blockchain-learning-solidity)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. Introduction and Setup**](#1-introduction-and-setup) (4 videos)
-  - Introduction to Solidity
-  - Introduction to smart contracts
-  - The Ethereum virtual machine
-  - Installing the Solidity compiler
+  - [Introduction to Solidity](#introduction-to-solidity)
+  - [Introduction to smart contracts](#introduction-to-smart-contracts)
+  - [The Ethereum virtual machine](#the-ethereum-virtual-machine)
+  - [Installing the Solidity compiler](#installing-the-solidity-compiler)
 - [**2. Solidity Basics**](#2-solidity-basics) (8 videos)
-  - Solidity syntax basics
-  - Basic syntax of a contract
-  - Types in Solidity
-  - Units and global variables
-  - Other special variables
-  - Functions overview
-  - Operators in Solidity
-  - Conditionals in Solidity
+  - [Solidity syntax basics](#solidity-syntax-basics)
+  - [Basic syntax of a contract](#basic-syntax-of-a-contract)
+  - [Types in Solidity](#types-in-solidity)
+  - [Units and global variables](#units-and-global-variables)
+  - [Other special variables](#other-special-variables)
+  - [Functions overview](#functions-overview)
+  - [Operators in Solidity](#operators-in-solidity)
+  - [Conditionals in Solidity](#conditionals-in-solidity)
 - [**3. Your First Contract**](#3-your-first-contract) (4 videos)
-  - Set the initial variables
-  - Add your modifiers
-  - Finalize the functions
-  - Test your contract
+  - [Set the initial variables](#set-the-initial-variables)
+  - [Add your modifiers](#add-your-modifiers)
+  - [Finalize the functions](#finalize-the-functions)
+  - [Test your contract](#test-your-contract)
 - [**4. Solidity Considerations**](#4-solidity-considerations) (2 videos)
-  - Review the style guide
-  - Documentation
+  - [Review the style guide](#review-the-style-guide)
+  - [Documentation](#documentation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning Solidity
+  - [Continue learning Solidity](#continue-learning-solidity)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain: Learning Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Solidity]] (5), [[Blockchain]] (4), [[Programming]] (2), [[Ethereum]] (1), [[Smart Contracts]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
@@ -127,12 +127,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Solidity]] (2), [[Blockchain]] (2), [[Ethereum]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Speakers:** - being (1)
 
 
 ### 1. Introduction and Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980)
@@ -187,13 +188,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Solidity]] (9), [[Search]] (3), [[Google]] (3), [[Ethereum]] (2), [[Remix]] (2)
 > **Code Identifiers:** dapp (8)
 > **Prerequisites:** install (6)
 > **Tools:** visual studio (2), github (1), vs code (1), atom (1)
 > **Definitions:** is a  (2), stands for (1), in other words (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** for, (1)
 > **Env Vars:** evm (1)
 
 #### Introduction to smart contracts
@@ -225,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (1), [[Smart Contracts]] (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** dapps (1)
 > **Cross-References:** go back to (1)
@@ -264,9 +265,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (6), [[Blockchain]] (2), [[Smart Contracts]] (2), [[Solidity]] (2), node (1)
 > **Env Vars:** evm (3)
 > **CLI Commands:** node (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** dapp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -308,11 +309,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Remix]] (3), node (1), [[npm]] (1), [[Solidity]] (1), feature (1)
 > **CLI Commands:** docker (3), make (2), node (1), npm (1)
 > **Prerequisites:** install (4), getting started (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** case, (1)
 > **Code Identifiers:** macos (1)
 > **Cross-References:** next video (1)
 > **Tools:** vs code (1)
@@ -320,7 +321,7 @@ created: 2026-04-29
 
 ### 2. Solidity Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solidity syntax basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980)
@@ -425,7 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), import, (1), import. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Solidity]] (6), [[Remix]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** dapp (2), sol (1), fiy (1)
 > **CLI Commands:** make (2)
 > **Versions:** 8.2 (1), 0.90 (1)
@@ -549,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), case, (4), this. (3), pass (3)
+> **Frameworks & Libraries:** [[Solidity]] (3), data (3), [[JavaScript]] (2), next (1)
 > **Code Identifiers:** storedata (8), onlydata (1), storedate (1)
 > **Definitions:** is a  (4), means that (1), is an  (1)
 > **CLI Commands:** find (1), make (1)
@@ -677,7 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (8), this, (4), function (4), let (3), case, (3)
+> **Frameworks & Libraries:** [[Solidity]] (4), [[JavaScript]] (4), [[Java]] (1), [[Ethereum]] (1), next (1)
 > **Analogies:** for example (6), similar to (2), such as (1)
 > **Definitions:** is a  (5), in other words (1), is called (1)
 > **Code Identifiers:** atrueorfalsevalue (1), walletaddress (1), usertype (1)
@@ -797,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1), if, (1), throw (1), this, (1)
+> **Frameworks & Libraries:** application (2), [[Solidity]] (1), [[Ethereum]] (1), next (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** isequal (1), istime (1)
 > **Env Vars:** fyi (2)
@@ -865,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), this, (1), class. (1), function (1)
+> **Frameworks & Libraries:** [[Solidity]] (3), next (2), [[Blockchain]] (2), data (1)
 > **Analogies:** for example (3), such as (1)
 > **Cross-References:** next video (1), go back to (1)
 > **Env Vars:** fyi (1)
@@ -954,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (4), pass (3), this. (2), case, (2)
+> **Frameworks & Libraries:** product (4), [[Solidity]] (3), [[Programming]] (1), [[JavaScript]] (1), next (1)
 > **Code Identifiers:** o_sum (3), o_product (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
@@ -1041,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Solidity]] (2), [[Programming]] (1), web (1), data (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), similar to (1)
@@ -1115,7 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (2), if, (1), switch (1), else, (1)
+> **Frameworks & Libraries:** next (4), [[Solidity]] (1), [[JavaScript]] (1), [[Programming]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
@@ -1125,7 +1126,7 @@ created: 2026-04-29
 
 ### 3. Your First Contract
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set the initial variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980)
@@ -1214,7 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (2), public (2), continue (1)
+> **Frameworks & Libraries:** [[Solidity]] (5), [[Remix]] (5), [[Search]] (1), [[Google]] (1), [[Ethereum]] (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Tools:** vs code (3)
 > **CLI Commands:** make (2)
@@ -1294,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (2), function (2), case, (1)
+> **Frameworks & Libraries:** next (4)
 > **Cross-References:** in the next (1), go back to (1), next video (1)
 > **Code Identifiers:** onlyowner (1), onlyrecipient (1)
 > **Env Vars:** fyi (1)
@@ -1381,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), require (3), throw (1), pass (1)
+> **Frameworks & Libraries:** next (1), [[Remix]] (1)
 > **Code Identifiers:** declaredeceased (2), onlyowner (1), isownerdeceased (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
@@ -1497,7 +1498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), default, (1)
+> **Frameworks & Libraries:** [[Solidity]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
@@ -1509,7 +1510,7 @@ created: 2026-04-29
 
 ### 4. Solidity Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review the style guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980)
@@ -1538,7 +1539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Solidity]] (1), [[Programming]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Documentation:** the documentation (1)
@@ -1585,8 +1586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (5), [[Solidity]] (4), [[Security]] (2)
 > **CLI Commands:** find (3)
-> **Code Keywords:** finally, (2)
 > **Documentation:** the documentation (1), the docs (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -1595,7 +1596,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980)
@@ -1616,7 +1617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Solidity]] (2), [[Ethereum]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 

@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Maps%20and%20Sets.md)
@@ -47,44 +47,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Get to know JavaScript maps and sets
-  - What you should know
+  - [Get to know JavaScript maps and sets](#get-to-know-javascript-maps-and-sets)
+  - [What you should know](#what-you-should-know)
 - [**1. Maps**](#1-maps) (12 videos)
-  - The Map object defined
-  - Build your Map object with the set method
-  - Access a value with get
-  - Does the map have your key?
-  - Determine map size
-  - Remove key-value pairs with clear and delete
-  - Map: Keys and values methods
-  - Map contents with the entries method
-  - Loop over a map with forEach
-  - Group entries with groupBy
-  - Solution: Maps 1
-  - Solution: Maps 2
+  - [The Map object defined](#the-map-object-defined)
+  - [Build your Map object with the set method](#build-your-map-object-with-the-set-method)
+  - [Access a value with get](#access-a-value-with-get)
+  - [Does the map have your key?](#does-the-map-have-your-key)
+  - [Determine map size](#determine-map-size)
+  - [Remove key-value pairs with clear and delete](#remove-key-value-pairs-with-clear-and-delete)
+  - [Map: Keys and values methods](#map-keys-and-values-methods)
+  - [Map contents with the entries method](#map-contents-with-the-entries-method)
+  - [Loop over a map with forEach](#loop-over-a-map-with-foreach)
+  - [Group entries with groupBy](#group-entries-with-groupby)
+  - [Solution: Maps 1](#solution-maps-1)
+  - [Solution: Maps 2](#solution-maps-2)
 - [**2. WeakMaps**](#2-weakmaps) (2 videos)
-  - What is the WeakMap object?
-  - Same methods, different map
+  - [What is the WeakMap object?](#what-is-the-weakmap-object)
+  - [Same methods, different map](#same-methods-different-map)
 - [**3. Sets**](#3-sets) (10 videos)
-  - The Set object defined
-  - Add values to your set
-  - Does Set have your value?
-  - Get your set size
-  - Delete and clear values in your set
-  - Iterate over values in a set
-  - Iterate over a set with entries
-  - Iterate over your set with forEach
-  - Solution: Sets 1
-  - Solution: Sets 2
+  - [The Set object defined](#the-set-object-defined)
+  - [Add values to your set](#add-values-to-your-set)
+  - [Does Set have your value?](#does-set-have-your-value)
+  - [Get your set size](#get-your-set-size)
+  - [Delete and clear values in your set](#delete-and-clear-values-in-your-set)
+  - [Iterate over values in a set](#iterate-over-values-in-a-set)
+  - [Iterate over a set with entries](#iterate-over-a-set-with-entries)
+  - [Iterate over your set with forEach](#iterate-over-your-set-with-foreach)
+  - [Solution: Sets 1](#solution-sets-1)
+  - [Solution: Sets 2](#solution-sets-2)
 - [**4. WeakSets**](#4-weaksets) (2 videos)
-  - What is the WeakSet object?
-  - Same methods, different set
+  - [What is the WeakSet object?](#what-is-the-weakset-object)
+  - [Same methods, different set](#same-methods-different-set)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get to know JavaScript maps and sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Programming]] (1)
 > **Speakers:** - [jamie] (1)
 
 #### What you should know
@@ -151,10 +151,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), [[JavaScript]] (4)
 > **CLI Commands:** node (5), make (1)
 > **Tools:** terminal (3), vs code (2)
 > **Prerequisites:** you'll need (2), install (1), set up (1)
-> **Code Keywords:** require (1), let (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Exercise Files:** exercise files (1)
@@ -163,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Maps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Map object defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** es2015 (1)
 > **Analogies:** similar to (1)
@@ -298,7 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (1), function (1)
+> **Frameworks & Libraries:** data (1), node (1), next (1)
 > **CLI Commands:** make (2), node (1)
 > **Tools:** terminal (2), vs code (1)
 > **Prerequisites:** set up (2), you'll need (1)
@@ -402,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), continue (2), return. (1)
+> **Frameworks & Libraries:** next (1)
 > **Ports:** :00 (2)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -486,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (1), for. (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -537,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), const (1), pass (1), super (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Exercise Files:** template (2), exercise file (1)
 > **Code Identifiers:** saturdaysize (2)
 > **Definitions:** is a  (2)
@@ -614,7 +614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (15), pass (4), let (2)
+> **Frameworks & Libraries:** next (3)
 > **Cross-References:** in the next (1), we talked about (1), in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -709,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1), this, (1)
+> **Frameworks & Libraries:** next (10), [[JavaScript]] (1)
 > **Env Vars:** mdn (1)
 > **Documentation:** mdn (1)
 > **Analogies:** just like (1)
@@ -764,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (5)
 > **Code Identifiers:** saturdayentries (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -830,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), pass (1), for, (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** template (1)
 > **Best Practices:** the key is (1)
@@ -888,7 +888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), function (2), static (1), let (1), return, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), data (1)
 > **Code Identifiers:** groupby (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** we talked about (1)
@@ -943,7 +943,6 @@ created: 2026-04-29
 >
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -988,7 +987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** next (1), [[JavaScript]] (1)
 > **Code Identifiers:** allusers (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -998,7 +997,7 @@ created: 2026-04-29
 
 ### 2. WeakMaps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the WeakMap object?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980)
@@ -1039,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** data (2), [[JavaScript]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** the key is (1)
@@ -1084,7 +1083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), pass (4), finally, (1), let (1)
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1092,7 +1091,7 @@ created: 2026-04-29
 
 ### 3. Sets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Set object defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980)
@@ -1121,6 +1120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[JavaScript]] (1), [[Programming]] (1), next (1)
 > **Env Vars:** es6 (1), es2015 (1)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -1191,7 +1191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (1)
+> **Frameworks & Libraries:** [[Vanilla]] (6), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Analogies:** imagine (1)
@@ -1258,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** hascoffee (2), hasmintchocchip (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1306,7 +1306,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
 > **Code Identifiers:** invitesize (1), icecream (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
@@ -1381,7 +1380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), pass (3), let (3)
+> **Frameworks & Libraries:** [[Vanilla]] (5), next (1)
 > **CLI Commands:** make (1)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Definitions:** means that (1)
@@ -1458,7 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1)
+> **Frameworks & Libraries:** next (8), [[Vanilla]] (1)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
@@ -1513,7 +1512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** next (5), api (2)
 > **Env Vars:** api (2)
 > **Definitions:** is an  (2)
 > **Analogies:** similar to (1), just like (1)
@@ -1586,7 +1585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), pass (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[Vanilla]] (4), [[JavaScript]] (1)
 > **Cross-References:** we mentioned (1), in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1643,7 +1642,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** petset (3), namesforfamilypet (2), foreach (2)
-> **Code Keywords:** this. (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1701,7 +1699,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
 > **Code Identifiers:** guessesset (3), hasnumber (1)
 > **Analogies:** similar to (2)
 > **Prerequisites:** set up (1)
@@ -1711,7 +1708,7 @@ created: 2026-04-29
 
 ### 4. WeakSets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the WeakSet object?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakset-object?u=76281980)
@@ -1746,7 +1743,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1789,13 +1785,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), delete (2), for. (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980)
@@ -1824,6 +1820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[LinkedIn]] (2), [[Angular]] (1), [[React.js|React]] (1)
 > **URLs:** [jamiepittman.com](https://jamiepittman.com) (1)
 > **Speakers:** - [jamie] (1)
 

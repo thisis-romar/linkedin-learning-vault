@@ -30,7 +30,7 @@ tags:
   - skill/it-security-policies-procedures
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity-%20Key%20Policies%20and%20Resources.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Navigating cybersecurity: Essential policies and resources
-  - Who is this course for?
+  - [Navigating cybersecurity: Essential policies and resources](#navigating-cybersecurity-essential-policies-and-resources)
+  - [Who is this course for?](#who-is-this-course-for)
 - [**1. Overview of the Cybersecurity Problem (and Solutions)**](#1-overview-of-the-cybersecurity-problem-and-solutions) (3 videos)
-  - The cooperative origins of the internet
-  - The market incentives and disincentives for security
-  - The role of users in cybersecurity
+  - [The cooperative origins of the internet](#the-cooperative-origins-of-the-internet)
+  - [The market incentives and disincentives for security](#the-market-incentives-and-disincentives-for-security)
+  - [The role of users in cybersecurity](#the-role-of-users-in-cybersecurity)
 - [**2. Overview of Federal Law and Policy**](#2-overview-of-federal-law-and-policy) (3 videos)
-  - Who does what in the federal government?
-  - Privacy and consumer protection
-  - Contacting law enforcement
+  - [Who does what in the federal government?](#who-does-what-in-the-federal-government)
+  - [Privacy and consumer protection](#privacy-and-consumer-protection)
+  - [Contacting law enforcement](#contacting-law-enforcement)
 - [**3. Overview of International Law and Regulation**](#3-overview-of-international-law-and-regulation) (2 videos)
-  - International bodies and organizations
-  - Privacy in the European Union
+  - [International bodies and organizations](#international-bodies-and-organizations)
+  - [Privacy in the European Union](#privacy-in-the-european-union)
 - [**4. Engaging with Federal Agencies and Law Enforcement**](#4-engaging-with-federal-agencies-and-law-enforcement) (2 videos)
-  - Combatting ransomware
-  - Protecting critical infrastructure
+  - [Combatting ransomware](#combatting-ransomware)
+  - [Protecting critical infrastructure](#protecting-critical-infrastructure)
 - [**5. Making Your Family and Organization More Secure and Resilient**](#5-making-your-family-and-organization-more-secure-and-resilient) (2 videos)
-  - Personal security checkup
-  - Protecting your organization
+  - [Personal security checkup](#personal-security-checkup)
+  - [Protecting your organization](#protecting-your-organization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating cybersecurity: Essential policies and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Privacy]] (1), [[Cybersecurity]] (1)
 > **Speakers:** - [gregory] (1)
 
 #### Who is this course for?
@@ -114,13 +114,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Overview of the Cybersecurity Problem (and Solutions)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The cooperative origins of the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980)
@@ -185,8 +186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Cybersecurity]] (2), data (1), business (1), [[Security]] (1)
 > **Env Vars:** arpanet (3), arpa (1), cern (1)
-> **Code Keywords:** new. (1), private (1), public (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -227,8 +228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (4), data (3), [[Microsoft Products|Products]] (2), [[Privacy]] (1)
 > **Env Vars:** cobol (1), fortran (1), basic (1)
-> **Code Keywords:** break, (1), private (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -263,15 +264,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Phishing]] (1), next (1), product (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Overview of Federal Law and Policy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who does what in the federal government?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980)
@@ -322,8 +323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Security]] (4), business (4), data (3), [[NIST]] (3)
 > **Env Vars:** cisa (6), nist (3), ftc (1)
-> **Code Keywords:** public (1), let (1), private (1), finally, (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [cisa.gov](https://cisa.gov) (1), [staysafeonline.org](https://staysafeonline.org) (1)
 > **Definitions:** is a  (2)
@@ -398,8 +399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (13), data (8), [[Security]] (5), [[Accountability]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** pii (4), hipaa (3)
-> **Code Keywords:** protected (2), private (2), require (1)
 > **Warnings:** be aware (2), be careful (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -456,8 +457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (2), business (1), [[Security]] (1), data (1)
 > **Env Vars:** fbi (3), ic3 (2), dhs (1), ice (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -465,7 +466,7 @@ created: 2026-04-29
 
 ### 3. Overview of International Law and Regulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### International bodies and organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980)
@@ -516,10 +517,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Security]] (2), dns (2), [[Search]] (1), [[Hardware]] (1)
 > **Env Vars:** icann (4), dns (2), itu (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [presenter] (1)
 
@@ -564,6 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Privacy]] (5), [[Phishing]] (1), [[Security]] (1)
 > **Env Vars:** gdpr (8), wired (1), pii (1)
 > **Definitions:** known as (2)
 > **Cross-References:** previous chapter (1)
@@ -573,7 +575,7 @@ created: 2026-04-29
 
 ### 4. Engaging with Federal Agencies and Law Enforcement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combatting ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980)
@@ -634,9 +636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (2), [[Cybersecurity]] (2), database (1), [[Cryptocurrency]] (1)
 > **Env Vars:** fbi (2), ibm (1), cisa (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** public (2), require (1)
 > **Definitions:** refers to (1), known as (1)
 > **Speakers:** - [instructor] (1), - aside (1)
 > **Versions:** 9.5 (1)
@@ -701,7 +703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (2), let (1), protected (1), function (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (3), [[Public Health]] (1), business (1), [[Banking]] (1)
 > **Env Vars:** cisa (4), dhs (1), cikr (1), isac (1), pii (1)
 > **Warnings:** be aware (1), warning (1), note that (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -711,7 +713,7 @@ created: 2026-04-29
 
 ### 5. Making Your Family and Organization More Secure and Resilient
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Personal security checkup
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980)
@@ -770,6 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1), web (1), [[Phishing]] (1)
 > **Env Vars:** cisa (2)
 > **Cross-References:** coming up (1)
 > **Warnings:** caution (1)
@@ -826,16 +829,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Security]] (3), business (2), [[NIST]] (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nist (1), cisa (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980)
@@ -866,6 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [gregory] (1)
 

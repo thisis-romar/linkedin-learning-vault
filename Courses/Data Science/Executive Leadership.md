@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/executive-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Executive%20Leadership.md)
@@ -43,33 +43,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Take action to lead
-  - Build trust: Essential first steps
+  - [Take action to lead](#take-action-to-lead)
+  - [Build trust: Essential first steps](#build-trust-essential-first-steps)
 - [**1. Set Direction**](#1-set-direction) (4 videos)
-  - Establish purpose and vision
-  - Think strategically
-  - Be courageous and decisive
-  - Realign towards the greater good
+  - [Establish purpose and vision](#establish-purpose-and-vision)
+  - [Think strategically](#think-strategically)
+  - [Be courageous and decisive](#be-courageous-and-decisive)
+  - [Realign towards the greater good](#realign-towards-the-greater-good)
 - [**2. Motivate Commitment**](#2-motivate-commitment) (4 videos)
-  - Energize and empower
-  - Encourage personal excellence
-  - Develop diverse talent
-  - Design advancement paths
+  - [Energize and empower](#energize-and-empower)
+  - [Encourage personal excellence](#encourage-personal-excellence)
+  - [Develop diverse talent](#develop-diverse-talent)
+  - [Design advancement paths](#design-advancement-paths)
 - [**3. Drive for Results**](#3-drive-for-results) (4 videos)
-  - Prioritize with accountability
-  - Create collaboration opportunities
-  - Lead through change and disruption
-  - Cultivate creativity
+  - [Prioritize with accountability](#prioritize-with-accountability)
+  - [Create collaboration opportunities](#create-collaboration-opportunities)
+  - [Lead through change and disruption](#lead-through-change-and-disruption)
+  - [Cultivate creativity](#cultivate-creativity)
 - [**4. Develop Yourself**](#4-develop-yourself) (3 videos)
-  - Apply the Executive Learning Cycle
-  - Build resilience and resourcefulness
-  - Expand and nurture your relationships
+  - [Apply the Executive Learning Cycle](#apply-the-executive-learning-cycle)
+  - [Build resilience and resourcefulness](#build-resilience-and-resourcefulness)
+  - [Expand and nurture your relationships](#expand-and-nurture-your-relationships)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Create possibility
+  - [Create possibility](#create-possibility)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take action to lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980)
@@ -98,7 +98,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
 > **Speakers:** - john (1)
 
 #### Build trust: Essential first steps
@@ -204,6 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Microsoft Excel|Excel]] (1), business (1)
 > **CLI Commands:** make (2), find (2)
 > **Ports:** :30 (1), :00 (1)
 > **Speakers:** - i (1)
@@ -211,7 +211,7 @@ created: 2026-04-29
 
 ### 1. Set Direction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establish purpose and vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980)
@@ -310,9 +310,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** ceo (5)
-> **Code Keywords:** let (2), for. (1)
 > **Definitions:** stands for (2), is a  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - when (1)
@@ -418,9 +418,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Strategic Thinking]] (4), business (2), teams (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type. (1)
 > **Tools:** terminal (1)
 > **Analogies:** just like (1)
 > **Speakers:** - most (1)
@@ -512,8 +512,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), leadership (1), [[Executive Leadership]] (1), [[Strategic Thinking]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** require (1), from. (1), this, (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - pythagoras (1)
 
@@ -624,7 +624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), from. (1), let (1), raise (1), function (1)
+> **Frameworks & Libraries:** next (2), express (1), product (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - leading (1)
@@ -632,7 +632,7 @@ created: 2026-04-29
 
 ### 2. Motivate Commitment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Energize and empower
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/energize-and-empower?u=76281980)
@@ -749,8 +749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), business (1), leadership (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (4), private (1)
 > **Env Vars:** ceo (3)
 > **Analogies:** picture (1)
 > **Speakers:** - former (1)
@@ -862,8 +862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1), [[Microsoft Excel|Excel]] (1), leadership (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), continue (1)
 > **Speakers:** - educator (1)
 
 #### Develop diverse talent
@@ -943,9 +943,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), career (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - larry (1)
 
@@ -1042,15 +1042,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5), next (4), leadership (3), [[Microsoft Word|Word]] (1), functional (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), abstract (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
 
 ### 3. Drive for Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prioritize with accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980)
@@ -1151,7 +1151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), else. (1), for. (1), this: (1), let (1)
+> **Frameworks & Libraries:** [[Accountability]] (4), next (3), management (2), leadership (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ceo (2)
 > **Cross-References:** in the next (1)
@@ -1269,6 +1269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (4), teams (3), next (2), career (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1385,8 +1386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), teams (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (2), case, (1), this. (1)
 > **URLs:** [donorschoose.org](https://donorschoose.org) (2)
 > **Env Vars:** ceo (2)
 > **Definitions:** is a  (1)
@@ -1498,9 +1499,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), product (2), [[Search]] (1), game (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** ceo (2), mri (1)
-> **Code Keywords:** let (1), this: (1)
 > **Code Identifiers:** ipod (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
@@ -1508,7 +1509,7 @@ created: 2026-04-29
 
 ### 4. Develop Yourself
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the Executive Learning Cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980)
@@ -1621,8 +1622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), leadership (1), [[Learning Agility]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** super (1), new. (1)
 > **Analogies:** picture (1)
 > **Speakers:** - out (1)
 
@@ -1729,8 +1730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wellness]] (4), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Executive Leadership]] (1)
 > **Env Vars:** ceo (4)
-> **Code Keywords:** raise (1), finally, (1), self (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -1821,7 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), this, (1), raise (1), finally, (1)
+> **Frameworks & Libraries:** career (5), business (2), management (2), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (2)
 > **Cross-References:** earlier in (1)
@@ -1830,7 +1831,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create possibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980)
@@ -1901,6 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (3), [[Executive Leadership]] (1), power (1), career (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Cross-References:** we covered (1)

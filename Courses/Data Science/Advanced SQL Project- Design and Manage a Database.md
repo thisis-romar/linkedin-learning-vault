@@ -34,7 +34,7 @@ tags:
   - skill/database-design
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20Project-%20Design%20and%20Manage%20a%20Database.md)
@@ -53,44 +53,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Advanced SQL project intro
-  - What you should know
-  - Using the course exercise files
+  - [Advanced SQL project intro](#advanced-sql-project-intro)
+  - [What you should know](#what-you-should-know)
+  - [Using the course exercise files](#using-the-course-exercise-files)
 - [**Module 1: Understanding Database Needs and Planning**](#module-1-understanding-database-needs-and-planning) (4 videos)
-  - Conceptualizing the music database
-  - Identifying requirements and purpose
-  - Brainstorming entities and relationships
-  - Creating an initial conceptual model
+  - [Conceptualizing the music database](#conceptualizing-the-music-database)
+  - [Identifying requirements and purpose](#identifying-requirements-and-purpose)
+  - [Brainstorming entities and relationships](#brainstorming-entities-and-relationships)
+  - [Creating an initial conceptual model](#creating-an-initial-conceptual-model)
 - [**Module 2: Implementing Database Design**](#module-2-implementing-database-design) (4 videos)
-  - Introduction to database normalization
-  - Normalization forms
-  - Applying normalization
-  - Refine normalized schema
+  - [Introduction to database normalization](#introduction-to-database-normalization)
+  - [Normalization forms](#normalization-forms)
+  - [Applying normalization](#applying-normalization)
+  - [Refine normalized schema](#refine-normalized-schema)
 - [**Module 3: Extract, Transform, Load (ETL) Basics**](#module-3-extract-transform-load-etl-basics) (2 videos)
-  - Overview of ETL processes and tools
-  - ETL in the music database
+  - [Overview of ETL processes and tools](#overview-of-etl-processes-and-tools)
+  - [ETL in the music database](#etl-in-the-music-database)
 - [**Module 4: Loading Data into the Database**](#module-4-loading-data-into-the-database) (4 videos)
-  - Understanding data pipelines
-  - Building the data pipeline
-  - Validation techniques
-  - Advanced error handling and logging
+  - [Understanding data pipelines](#understanding-data-pipelines)
+  - [Building the data pipeline](#building-the-data-pipeline)
+  - [Validation techniques](#validation-techniques)
+  - [Advanced error handling and logging](#advanced-error-handling-and-logging)
 - [**Module 5: Writing Basic to Complex SQL Queries**](#module-5-writing-basic-to-complex-sql-queries) (2 videos)
-  - Introduction to SQL queries (basic, aggregate, joins)
-  - Exploring and analyzing music data
+  - [Introduction to SQL queries (basic, aggregate, joins)](#introduction-to-sql-queries-basic-aggregate-joins)
+  - [Exploring and analyzing music data](#exploring-and-analyzing-music-data)
 - [**Module 6: Query Optimization and Large Dataset Management**](#module-6-query-optimization-and-large-dataset-management) (2 videos)
-  - Techniques for optimizing SQL queries
-  - Handling and querying large datasets efficiently
+  - [Techniques for optimizing SQL queries](#techniques-for-optimizing-sql-queries)
+  - [Handling and querying large datasets efficiently](#handling-and-querying-large-datasets-efficiently)
 - [**Module 7: Bringing It All Together**](#module-7-bringing-it-all-together) (2 videos)
-  - Final project
-  - Final project solution
+  - [Final project](#final-project)
+  - [Final project solution](#final-project-solution)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Reflect on the knowledge and skills acquired
-  - Career opportunities
-  - Further learning resources and pathways
+  - [Reflect on the knowledge and skills acquired](#reflect-on-the-knowledge-and-skills-acquired)
+  - [Career opportunities](#career-opportunities)
+  - [Further learning resources and pathways](#further-learning-resources-and-pathways)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced SQL project intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SQL]] (4), [[Analytics]] (2), [[Decision-Making]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (4), etl (1)
 > **Speakers:** - did (1)
 
@@ -149,9 +150,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), functional (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Warnings:** heads up (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -187,6 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), database (1), etl (1)
 > **UI Navigation:** go to (3), click on (1), right-click (1), double-click (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **CLI Commands:** unzip (2)
@@ -196,7 +198,7 @@ created: 2026-04-29
 
 ### Module 1: Understanding Database Needs and Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conceptualizing the music database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980)
@@ -305,8 +307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (16), [[Windows]] (7), data (5), management (2), [[User Experience (UX)|User experience]] (2)
 > **UI Navigation:** click on (6), navigate to (2), select the (2), scroll down (2), double-click (2)
-> **Code Keywords:** let (7), interface (1), this, (1), case, (1)
 > **Code Identifiers:** imedia (7), macos (1)
 > **Prerequisites:** install (5), set up (1)
 > **CLI Commands:** unzip (2), find (1)
@@ -379,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), [[Search]] (4), data (2), management (2), business (2)
 > **Code Identifiers:** imedia (6)
-> **Code Keywords:** let (2), require (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -451,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2)
+> **Frameworks & Libraries:** database (5), [[Sketching]] (3), data (2), next (1)
 > **Env Vars:** erd (5)
 > **Definitions:** is a  (4), is called (1)
 > **Exercise Files:** template (2), exercise file (1), exercise files (1)
@@ -533,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (2), this, (1)
+> **Frameworks & Libraries:** database (9), [[SQL]] (4), next (3), data (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (4), create (1), table (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Code Identifiers:** imedia (1)
@@ -544,7 +546,7 @@ created: 2026-04-29
 
 ### Module 2: Implementing Database Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to database normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980)
@@ -643,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (4)
+> **Frameworks & Libraries:** database (13), data (10), next (3), [[SQL]] (2), [[Databases]] (1)
 > **Code Identifiers:** imedia (4)
 > **Env Vars:** sql (2)
 > **UI Navigation:** navigate to (1), scroll down (1)
@@ -733,8 +735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (4), [[Forms]] (3), game (3), next (1)
 > **Definitions:** is a  (5), means that (1)
-> **Code Keywords:** let (3), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** imedia (1)
 > **Env Vars:** bcnf (1)
@@ -801,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2), new. (1)
+> **Frameworks & Libraries:** database (5), [[SQL]] (1), next (1)
 > **Code Identifiers:** genreid (6)
 > **Env Vars:** sql (1), drop (1), table (1)
 > **Cross-References:** in the last (2)
@@ -916,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (2)
+> **Frameworks & Libraries:** database (6), data (6), [[SQL]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Code Identifiers:** imedia (1), idx_artist_name (1)
 > **Env Vars:** sql (1)
@@ -926,7 +928,7 @@ created: 2026-04-29
 
 ### Module 3: Extract, Transform, Load (ETL) Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of ETL processes and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980)
@@ -1125,8 +1127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (39), etl (24), database (15), next (4), [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** etl (24), csv (5), sql (3), ssis (2), api (1)
-> **Code Keywords:** let (5), module (4), finally, (2), interface (2)
 > **Definitions:** stands for (3), is a  (2), known as (1), is an  (1)
 > **Analogies:** for example (2), just like (1), such as (1), imagine (1), for instance (1)
 > **Code Identifiers:** imedia (3)
@@ -1355,7 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (4), case, (1), finally, (1), switch (1)
+> **Frameworks & Libraries:** data (17), database (7), etl (4), [[SQL]] (3), prompt (3)
 > **Env Vars:** csv (6), etl (4), sql (3), pragma (2)
 > **Tools:** command line (6)
 > **CLI Commands:** make (3), sqlite3 (1)
@@ -1367,7 +1369,7 @@ created: 2026-04-29
 
 ### Module 4: Loading Data into the Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980)
@@ -1436,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** data (18), database (5), etl (3), [[Automation]] (3), game (2)
 > **Env Vars:** etl (3), csv (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** imedia (3)
@@ -1534,9 +1536,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), etl (2), database (2), next (1), cd (1)
 > **CLI Commands:** make (5), cd (1), chmod (1)
 > **Code Identifiers:** etl_script (4), imedia (3)
-> **Code Keywords:** let (3), delete (2), this, (1)
 > **File Paths:** etl_script.sh (4)
 > **Cross-References:** in the last (1), we mentioned (1)
 > **Tools:** terminal (1), command line (1)
@@ -1682,7 +1684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), switch (2), type. (1)
+> **Frameworks & Libraries:** data (8), database (3), [[SQL]] (2), next (2), etl (1)
 > **Env Vars:** sql (2), etl (1), pragma (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1)
@@ -1730,7 +1732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (6), database (3), [[SQL]] (1)
 > **Code Identifiers:** imedia (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for instance (1)
@@ -1741,7 +1743,7 @@ created: 2026-04-29
 
 ### Module 5: Writing Basic to Complex SQL Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to SQL queries (basic, aggregate, joins)
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-sql-queries-basic-aggrigate-joins?u=76281980)
@@ -1898,7 +1900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (2), module (1)
+> **Frameworks & Libraries:** data (15), [[SQL]] (4), database (2), etl (1), next (1)
 > **Env Vars:** sql (4), select (3), count (2), etl (1), where (1)
 > **SQL:** select (3), where (1), having (1), left join (1)
 > **Definitions:** in other words (2)
@@ -1960,7 +1962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), finally, (1)
+> **Frameworks & Libraries:** [[SQL]] (4), data (4), management (4), business (4)
 > **Code Identifiers:** imediamusic (3), imediamanagement (1), imedia (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2), find (1)
@@ -1971,7 +1973,7 @@ created: 2026-04-29
 
 ### Module 6: Query Optimization and Large Dataset Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Techniques for optimizing SQL queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980)
@@ -2092,8 +2094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), data (6), [[SQL]] (3), next (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** sql (3), explain (2), query (2), plan (2), scan (2)
-> **Code Keywords:** let (8), module (2), include: (1), this, (1)
 > **Code Identifiers:** idx_duration (4), imedia (1)
 > **Analogies:** for example (2), for instance (2), imagine (1)
 > **Cross-References:** in the last (1), as we saw (1), in the next (1)
@@ -2350,8 +2352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), database (23), parallel (8), [[Batch Processing]] (7), next (4)
 > **Env Vars:** update (6), select (5), create (4), sql (3), table (2)
-> **Code Keywords:** let (21), this, (3), continue (2), this. (2), function (1)
 > **SQL:** update (6), select (5), create table (2), where (2), inner join (1)
 > **Code Identifiers:** imedia (8)
 > **Definitions:** is a  (4), is called (2), is an  (1)
@@ -2362,7 +2364,7 @@ created: 2026-04-29
 
 ### Module 7: Bringing It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project?u=76281980)
@@ -2415,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** database (2), business (2), next (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Analogies:** imagine (1), for example (1)
 > **Code Identifiers:** imedia (1)
@@ -2569,7 +2571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), type, (2), type. (1), this. (1), this, (1)
+> **Frameworks & Libraries:** next (6), data (5), business (4), database (2), management (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
@@ -2581,7 +2583,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reflect on the knowledge and skills acquired
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/reflect-on-the-knowledge-and-skills-acquired?u=76281980)
@@ -2600,7 +2602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** database (2), etl (1), data (1), next (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - and (1)
 
@@ -2649,7 +2651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (5), career (1), [[SQL]] (1), database (1), management (1)
 > **Env Vars:** sql (1)
 > **Tools:** github (1)
 > **Best Practices:** the key is (1)
@@ -2682,8 +2684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (3), career (3), [[SQL]] (3), [[LinkedIn]] (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** continue (2)
 > **Speakers:** - [instructor] (1)
 
 

@@ -30,7 +30,7 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Project%20Management%20with%20Jira%20Cloud-%203%20Advanced%20Topics.md)
@@ -49,26 +49,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course overview
+  - [Course overview](#course-overview)
 - [**1. Filters**](#1-filters) (3 videos)
-  - Filters
-  - Lab: Cloud company-managed
-  - Lab: Cloud team-managed
+  - [Filters](#filters)
+  - [Lab: Cloud company-managed](#lab-cloud-company-managed)
+  - [Lab: Cloud team-managed](#lab-cloud-team-managed)
 - [**2. Epics**](#2-epics) (3 videos)
-  - Epics
-  - Lab: Cloud company-managed
-  - Lab: Cloud team-managed
+  - [Epics](#epics)
+  - [Lab: Cloud company-managed](#lab-cloud-company-managed)
+  - [Lab: Cloud team-managed](#lab-cloud-team-managed)
 - [**3. Dashboards**](#3-dashboards) (2 videos)
-  - Dashboards
-  - Lab: Cloud
+  - [Dashboards](#dashboards)
+  - [Lab: Cloud](#lab-cloud)
 - [**4. Putting It All Together**](#4-putting-it-all-together) (3 videos)
-  - Putting it all together
-  - Lab: Cloud company-managed
-  - Lab: Cloud team-managed
+  - [Putting it all together](#putting-it-all-together)
+  - [Lab: Cloud company-managed](#lab-cloud-company-managed)
+  - [Lab: Cloud team-managed](#lab-cloud-team-managed)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), [[Agile Development|Agile]] (4), cloud (4), [[Atlassian]] (4), next (3)
 > **Tools:** jira (6)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Prerequisites:** configure (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Filters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980)
@@ -223,8 +223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), next (2), [[Jira]] (1), [[Metadata]] (1)
 > **UI Navigation:** click on (7), in the sidebar (2), dropdown (1)
-> **Code Keywords:** case, (4), private (1), default, (1), interface (1)
 > **Env Vars:** prjct (2), jql (1), prj (1)
 > **Definitions:** known as (1), is a  (1)
 > **Tools:** jira (1)
@@ -347,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (7), next (4), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), select the (2), in the sidebar (1), switch to (1), dropdown (1)
 > **Cross-References:** go back to (2), in the last (1)
 > **Analogies:** for example (1), just like (1), such as (1)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2), type. (1)
+> **Frameworks & Libraries:** [[Search]] (5), next (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** switch to (2), go to (1), in the sidebar (1)
 > **Analogies:** for example (2), for instance (1), just like (1)
 > **Env Vars:** jql (3)
@@ -452,7 +452,7 @@ created: 2026-04-29
 
 ### 2. Epics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Epics
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980)
@@ -559,10 +559,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), next (2), [[Search]] (2), [[Jira]] (1), teams (1)
 > **UI Navigation:** select the (3), open the (1), navigate to (1), click on (1), dropdown (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** jql (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
@@ -762,8 +762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (14), next (4), [[Jira]] (1)
 > **UI Navigation:** click on (20), go to (6), in the sidebar (3), dropdown (2)
-> **Code Keywords:** let (3), case, (2), finally, (1), case. (1)
 > **Cross-References:** go back to (7)
 > **Definitions:** is a  (3)
 > **Tools:** jira (1)
@@ -837,9 +837,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (9)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** go to (1), in the sidebar (1), open the (1), dropdown (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** projecta (1)
 > **Definitions:** is a  (1)
@@ -848,7 +848,7 @@ created: 2026-04-29
 
 ### 3. Dashboards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980)
@@ -907,6 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (9), [[Jira]] (2), [[Search]] (1), [[Atlassian]] (1)
 > **UI Navigation:** select the (2), go to (1), dropdown (1)
 > **Env Vars:** jira (2)
 > **Tools:** jira (2)
@@ -992,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), next (1), [[Scrum]] (1)
 > **UI Navigation:** select the (4), scroll down (1), go to (1)
 > **Prerequisites:** configure (2), setup (1)
 > **Cross-References:** go back to (1)
@@ -1002,7 +1003,7 @@ created: 2026-04-29
 
 ### 4. Putting It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980)
@@ -1067,6 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (17), [[Atlassian]] (7), teams (4), [[Agile Development|Agile]] (3), next (1)
 > **Tools:** jira (17)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -1074,7 +1076,6 @@ created: 2026-04-29
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** configure (1)
-> **Speakers:** - [instructor] (1)
 
 #### Lab: Cloud company-managed
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14287210?u=76281980)
@@ -1185,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (3), finally, (1), delete (1), continue (1)
+> **Frameworks & Libraries:** next (3), [[Jira]] (2)
 > **UI Navigation:** go to (5), dropdown (1), click on (1), in the sidebar (1), select the (1)
 > **Code Identifiers:** projectfinal (3)
 > **Cross-References:** go back to (3)
@@ -1303,7 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), delete (2), default, (1)
+> **Frameworks & Libraries:** next (7), feature (1)
 > **UI Navigation:** dropdown (2), in the sidebar (2), open the (1), go to (1)
 > **Cross-References:** go back to (2)
 > **Prerequisites:** configure (1)

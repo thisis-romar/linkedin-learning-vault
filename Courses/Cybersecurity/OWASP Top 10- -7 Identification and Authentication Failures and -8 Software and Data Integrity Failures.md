@@ -36,7 +36,7 @@ tags:
   - skill/identity-and-access-management-iam
   - skill/data-integrity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-7%20Identification%20and%20Authentication%20Failures%20and%20-8%20Software%20and%20Data%20Integrity%20Failures.md)
@@ -55,28 +55,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - OWASP Top 10
-  - OWASP Top 10 series
+  - [OWASP Top 10](#owasp-top-10)
+  - [OWASP Top 10 series](#owasp-top-10-series)
 - [**1. Identification and Authentication Failures**](#1-identification-and-authentication-failures) (6 videos)
-  - What are identification and authentication failures?
-  - Example 1: Pwned Passwords
-  - Example 2: 2021 Verkada data breach
-  - Prevention technique: Check for weak passwords
-  - Prevention technique: Use multi-factor authentication
-  - Prevention technique: Log and limit repeated login attempts
+  - [What are identification and authentication failures?](#what-are-identification-and-authentication-failures)
+  - [Example 1: Pwned Passwords](#example-1-pwned-passwords)
+  - [Example 2: 2021 Verkada data breach](#example-2-2021-verkada-data-breach)
+  - [Prevention technique: Check for weak passwords](#prevention-technique-check-for-weak-passwords)
+  - [Prevention technique: Use multi-factor authentication](#prevention-technique-use-multi-factor-authentication)
+  - [Prevention technique: Log and limit repeated login attempts](#prevention-technique-log-and-limit-repeated-login-attempts)
 - [**2. Software and Data Integrity Failures**](#2-software-and-data-integrity-failures) (6 videos)
-  - What are software and data integrity failures?
-  - Example 1: Solar Winds software supply chain attack
-  - Example 2: 2021 Codecov bash uploader compromise
-  - Prevention technique: Use digital signatures
-  - Prevention technique: Ensure repositories are trustworthy
-  - Prevention technique: Review code and configuration changes
+  - [What are software and data integrity failures?](#what-are-software-and-data-integrity-failures)
+  - [Example 1: Solar Winds software supply chain attack](#example-1-solar-winds-software-supply-chain-attack)
+  - [Example 2: 2021 Codecov bash uploader compromise](#example-2-2021-codecov-bash-uploader-compromise)
+  - [Prevention technique: Use digital signatures](#prevention-technique-use-digital-signatures)
+  - [Prevention technique: Ensure repositories are trustworthy](#prevention-technique-ensure-repositories-are-trustworthy)
+  - [Prevention technique: Review code and configuration changes](#prevention-technique-review-code-and-configuration-changes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - OWASP Top 10 keep learning
+  - [OWASP Top 10 keep learning](#owasp-top-10-keep-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980)
@@ -103,10 +103,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Security]] (2), [[OWASP]] (2), web application (1), data (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - we (1)
 
 #### OWASP Top 10 series
@@ -130,15 +130,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (2), web (1), product (1), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Identification and Authentication Failures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are identification and authentication failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980)
@@ -185,9 +185,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (5), [[OWASP]] (3), web (2), [[Multi-factor Authentication]] (2), [[Security]] (2)
 > **Env Vars:** owasp (3)
 > **Definitions:** is a  (1), is an  (1), known as (1)
-> **Code Keywords:** require (2)
 > **Speakers:** - [instructor] (1)
 
 #### Example 1: Pwned Passwords
@@ -245,7 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this, (1), protected (1)
+> **Frameworks & Libraries:** data (6), [[Security]] (2), feature (2), web application (1), [[NIST]] (1)
 > **Definitions:** is called (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nist (1)
@@ -295,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), super (2), public (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (4), data (4), [[Microsoft Office|Office]] (1), [[Privacy]] (1), power (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -360,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), protected (2)
+> **Frameworks & Libraries:** web (7), [[Security]] (2), application (1), data (1), [[Cybersecurity]] (1)
 > **Env Vars:** pci (2), dss (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
@@ -411,8 +411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Multi-factor Authentication]] (1), [[Security]] (1), application (1)
 > **Env Vars:** sms (3), pin (2), mfa (1)
-> **Code Keywords:** let (1), this. (1), pass (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -483,6 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), web application (3), application (2), [[OWASP]] (1), [[Security]] (1)
 > **Definitions:** is called (1), known as (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
@@ -492,7 +493,7 @@ created: 2026-04-29
 
 ### 2. Software and Data Integrity Failures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are software and data integrity failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980)
@@ -535,10 +536,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (5), ci (5), cd (5), data (4), web (2)
 > **Env Vars:** owasp (5), nvd (1)
 > **CLI Commands:** cd (5)
 > **Prerequisites:** install (2), set up (1)
-> **Code Keywords:** new, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -575,8 +576,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[NIST]] (1), management (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** switch (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - [narrator] (1)
 
@@ -633,9 +634,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Google]] (1), [[Atlassian]] (1), [[Software Development]] (1)
 > **Tools:** bash (3)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** private (1), case, (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - [narrator] (1)
@@ -675,8 +676,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[OWASP]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -737,10 +738,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (2), [[Automation]] (2), [[Security]] (2), web (2), [[Web Application Development]] (1)
 > **CLI Commands:** npm (2), git (1), node (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -779,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), pass (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[OWASP]] (2), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2)
 > **Env Vars:** owasp (2), cicd (1)
 > **Prerequisites:** install (3)
 > **Definitions:** means that (1)
@@ -788,7 +789,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OWASP Top 10 keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980)
@@ -815,8 +816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[OWASP]] (2), data (1), web (1), next (1)
 > **Env Vars:** owasp (2), ssrf (1)
-> **Code Keywords:** continue (1), let (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)

@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20for%20Developers-%20Retrieval-Augmented%20Generation%20(RAG)%20with%20Azure%20AI.md)
@@ -55,44 +55,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Intro to RAG with Azure AI
-  - Course prerequisites
+  - [Intro to RAG with Azure AI](#intro-to-rag-with-azure-ai)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. RAG Core Concepts**](#1-rag-core-concepts) (5 videos)
-  - Fundamental concepts of RAG
-  - RAG process and architecture
-  - Vector databases
-  - Azure OpenAI embeddings model
-  - Creating a RAG solution with Azure AI Foundry
+  - [Fundamental concepts of RAG](#fundamental-concepts-of-rag)
+  - [RAG process and architecture](#rag-process-and-architecture)
+  - [Vector databases](#vector-databases)
+  - [Azure OpenAI embeddings model](#azure-openai-embeddings-model)
+  - [Creating a RAG solution with Azure AI Foundry](#creating-a-rag-solution-with-azure-ai-foundry)
 - [**2. Azure AI Search**](#2-azure-ai-search) (11 videos)
-  - RAG using Azure AI Search
-  - Preparing your resources for RAG
-  - Creating a search index
-  - Creating a data source
-  - Creating a skillset and indexer
-  - Querying your data
-  - Azure AI Search: Import and vectorize data
-  - Sending query results to a language model
-  - Other approaches
-  - Challenge: Create a RAG solution using Azure AI Search
-  - Solution: Create a RAG solution using Azure AI Search
+  - [RAG using Azure AI Search](#rag-using-azure-ai-search)
+  - [Preparing your resources for RAG](#preparing-your-resources-for-rag)
+  - [Creating a search index](#creating-a-search-index)
+  - [Creating a data source](#creating-a-data-source)
+  - [Creating a skillset and indexer](#creating-a-skillset-and-indexer)
+  - [Querying your data](#querying-your-data)
+  - [Azure AI Search: Import and vectorize data](#azure-ai-search-import-and-vectorize-data)
+  - [Sending query results to a language model](#sending-query-results-to-a-language-model)
+  - [Other approaches](#other-approaches)
+  - [Challenge: Create a RAG solution using Azure AI Search](#challenge-create-a-rag-solution-using-azure-ai-search)
+  - [Solution: Create a RAG solution using Azure AI Search](#solution-create-a-rag-solution-using-azure-ai-search)
 - [**3. Azure Cosmos DB**](#3-azure-cosmos-db) (5 videos)
-  - RAG using Azure Cosmos DB
-  - Creating Azure Cosmos DB resource
-  - Set up Azure Cosmos DB for RAG
-  - Challenge: Create a RAG solution using Azure Cosmos DB
-  - Solution: Create a RAG solution using Azure Cosmos DB
+  - [RAG using Azure Cosmos DB](#rag-using-azure-cosmos-db)
+  - [Creating Azure Cosmos DB resource](#creating-azure-cosmos-db-resource)
+  - [Set up Azure Cosmos DB for RAG](#set-up-azure-cosmos-db-for-rag)
+  - [Challenge: Create a RAG solution using Azure Cosmos DB](#challenge-create-a-rag-solution-using-azure-cosmos-db)
+  - [Solution: Create a RAG solution using Azure Cosmos DB](#solution-create-a-rag-solution-using-azure-cosmos-db)
 - [**4. Evaluating RAG**](#4-evaluating-rag) (5 videos)
-  - Evaluation metrics in generative AI
-  - Preparing your evaluation dataset
-  - Evaluate with the Azure AI Evaluation SDK
-  - Challenge: Evaluating a RAG application
-  - Solution: Evaluating a RAG application
+  - [Evaluation metrics in generative AI](#evaluation-metrics-in-generative-ai)
+  - [Preparing your evaluation dataset](#preparing-your-evaluation-dataset)
+  - [Evaluate with the Azure AI Evaluation SDK](#evaluate-with-the-azure-ai-evaluation-sdk)
+  - [Challenge: Evaluating a RAG application](#challenge-evaluating-a-rag-application)
+  - [Solution: Evaluating a RAG application](#solution-evaluating-a-rag-application)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to RAG with Azure AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/intro-video-to-be-renamed?u=76281980)
@@ -119,9 +119,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (4), [[Python (Programming Language)|Python]] (3), data (3), ai (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** rag (4)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (2)
 > **Speakers:** - [ziggy] (1)
 
 #### Course prerequisites
@@ -141,16 +141,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Codespaces]] (1), ai (1)
 > **CLI Commands:** python (2)
 > **Tools:** github (1), visual studio (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. RAG Core Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamental concepts of RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980)
@@ -209,10 +209,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (11), data (7), [[Tokens]] (6), prompt (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** rag (11)
 > **CLI Commands:** cat (2), find (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** private (2)
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -297,8 +297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (10), [[Search]] (9), [[Microsoft Azure|Azure]] (6), data (6), application (3)
 > **Env Vars:** rag (10)
-> **Code Keywords:** finally, (2), interface (2), let (1)
 > **Analogies:** such as (3), imagine (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** python (1)
@@ -367,9 +367,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Search]] (13), [[Vector Databases]] (8), [[Microsoft Azure|Azure]] (6), database (5)
 > **Env Vars:** rag (1), hnsw (1), knn (1), ivf (1), pdf (1)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** type. (1), finally, (1)
 > **Cross-References:** we mentioned (1), previous video (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -426,8 +426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (1), database (1), [[Search]] (1), [[Microsoft Azure|Azure]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** finally, (2)
 > **Env Vars:** rag (1), mteb (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** such as (1)
@@ -519,8 +519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Azure|Azure]] (6), rag (5), prompt (4), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** rag (5), rest (2), pdf (1), json (1)
-> **Code Keywords:** while, (2), interface (1), while. (1), type, (1)
 > **CLI Commands:** python (3), make (1)
 > **Tools:** azure portal (1), postman (1)
 > **Prerequisites:** set up (2)
@@ -531,7 +531,7 @@ created: 2026-04-29
 
 ### 2. Azure AI Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RAG using Azure AI Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980)
@@ -594,8 +594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (25), [[Microsoft Azure|Azure]] (18), ai (15), data (5), prompt (3)
 > **CLI Commands:** python (2), find (2)
-> **Code Keywords:** let (2), interface (1)
 > **Env Vars:** rag (2), rrf (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
@@ -677,10 +677,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Search]] (15), ai (12), data (5), [[GitHub]] (3)
 > **Tools:** github (3), azure portal (2)
 > **UI Navigation:** go to (5)
 > **Env Vars:** rag (1), url (1), gpt (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
@@ -772,7 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), default. (1), default, (1)
+> **Frameworks & Libraries:** [[Search]] (19), [[Microsoft Azure|Azure]] (6), ai (4), data (4), database (1)
 > **Env Vars:** hnsw (2), knn (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Analogies:** such as (2)
@@ -816,8 +816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (6), [[Search]] (6), ai (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Tools:** azure portal (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -915,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), finally, (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), ai (11), [[Search]] (11), data (7), next (2)
 > **Tools:** azure portal (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -979,7 +979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Search]] (22), [[Microsoft Azure|Azure]] (4), ai (2), [[Microsoft]] (1), data (1)
 > **Code Identifiers:** parent_id (1), chunk_id (1)
 > **Cross-References:** we discussed (1)
 > **Tools:** azure portal (1)
@@ -1044,10 +1044,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (5), data (4), [[Python (Programming Language)|Python]] (3), [[Search]] (2)
 > **CLI Commands:** python (3), make (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** go to (1), select the (1)
-> **Code Keywords:** type. (1)
 > **Env Vars:** json (1)
 > **Tools:** azure portal (1)
 > **Best Practices:** make sure to (1)
@@ -1100,6 +1100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (12), [[Microsoft Azure|Azure]] (3), data (2), ai (2), prompt (1)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** search_client (1)
 > **Env Vars:** system_prompt (1)
@@ -1180,8 +1181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (19), [[Microsoft Azure|Azure]] (14), ai (6), [[JSON]] (5), data (4)
 > **Env Vars:** json (5), knn (1)
-> **Code Keywords:** finally, (1), while. (1), this, (1), case, (1), pass (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Tools:** azure portal (2)
 > **Definitions:** is a  (1)
@@ -1238,9 +1239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Microsoft Azure|Azure]] (6), [[Search]] (4), ai (3), data (2)
 > **Env Vars:** rag (1), pdf (1)
 > **Prerequisites:** set up (1), setup (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** contentvector (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1294,8 +1295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (6), ai (5), [[Search]] (4), product (2)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** finally, (2)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Tools:** azure portal (1)
@@ -1306,7 +1307,7 @@ created: 2026-04-29
 
 ### 3. Azure Cosmos DB
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RAG using Azure Cosmos DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980)
@@ -1359,10 +1360,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Search]] (10), ai (5), data (5), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** rag (2), json (1), knn (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** python (3)
-> **Code Keywords:** finally, (3)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** quantizedflat (1)
 > **Prerequisites:** set up (1)
@@ -1397,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[Microsoft Azure|Azure]] (4), database (3), rag (2), application (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
@@ -1514,7 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), require (2), finally, (2), type, (1)
+> **Frameworks & Libraries:** [[Search]] (14), [[Microsoft Azure|Azure]] (13), database (9), data (8), rag (3)
 > **Prerequisites:** setup (5), set up (3), install (1)
 > **Env Vars:** rag (3), json (1), sql (1)
 > **CLI Commands:** python (1), make (1)
@@ -1568,7 +1569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (6), data (4), database (4), [[Microsoft Azure|Azure]] (3), rag (2)
 > **File Paths:** recipes.json (1)
 > **Env Vars:** json (1)
 > **Tools:** azure portal (1)
@@ -1627,7 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), database (2), data (2), [[Python (Programming Language)|Python]] (1), [[Search]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** rag (1)
 > **Tools:** azure portal (1)
@@ -1638,7 +1639,7 @@ created: 2026-04-29
 
 ### 4. Evaluating RAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluation metrics in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980)
@@ -1679,6 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (3), data (3), rag (2), application (2)
 > **Env Vars:** rag (2), sdk (2), jsonl (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1757,6 +1759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (5), ai (4), [[Search]] (4), rag (3)
 > **Env Vars:** rag (3), jsonl (2)
 > **Prerequisites:** you'll need (1), install (1), set up (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1842,9 +1845,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), data (6), [[Azure AI Foundry]] (4), ai (3), rag (1)
 > **Env Vars:** rag (1), sdk (1), csv (1), url (1)
 > **Tools:** terminal (2), github (1), azure portal (1)
-> **Code Keywords:** interface (1), finally, (1), let (1)
 > **Prerequisites:** install (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1869,8 +1872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), rag (1), ai (1), [[Search]] (1), product (1)
 > **Env Vars:** rag (1), pdf (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
@@ -1906,9 +1909,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), product (2), data (2), rag (1), application (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (1), rag (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1916,7 +1919,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980)
@@ -1995,7 +1998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (5), let (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (10), [[Search]] (7), rag (5), database (4)
 > **Env Vars:** rag (5), sdk (1)
 > **Cross-References:** we discussed (6)
 > **Analogies:** such as (2)

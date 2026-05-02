@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI-%20The%20Big%20Picture.md)
@@ -52,55 +52,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Azure AI from a 10,000-foot view
-  - Getting the most out of this course
+  - [Azure AI from a 10,000-foot view](#azure-ai-from-a-10000-foot-view)
+  - [Getting the most out of this course](#getting-the-most-out-of-this-course)
 - [**1. Azure AI Big Picture**](#1-azure-ai-big-picture) (3 videos)
-  - The Azure AI services names
-  - An overview of Azure AI
-  - A short tour of the Azure AI services
+  - [The Azure AI services names](#the-azure-ai-services-names)
+  - [An overview of Azure AI](#an-overview-of-azure-ai)
+  - [A short tour of the Azure AI services](#a-short-tour-of-the-azure-ai-services)
 - [**2. Azure Machine Learning**](#2-azure-machine-learning) (3 videos)
-  - The basics of Azure machine learning
-  - Azure Machine Learning Studio
-  - Build better prompts with Prompt Flow
+  - [The basics of Azure machine learning](#the-basics-of-azure-machine-learning)
+  - [Azure Machine Learning Studio](#azure-machine-learning-studio)
+  - [Build better prompts with Prompt Flow](#build-better-prompts-with-prompt-flow)
 - [**3. Azure OpenAI Service**](#3-azure-openai-service) (6 videos)
-  - The basics of Azure OpenAI Service
-  - Explore the Azure AI Studio
-  - Choose and deploy an OpenAI model
-  - Create a chat with OpenAI’s chat playground
-  - Call the OpenAI REST API
-  - Generative images with DALL-E
+  - [The basics of Azure OpenAI Service](#the-basics-of-azure-openai-service)
+  - [Explore the Azure AI Studio](#explore-the-azure-ai-studio)
+  - [Choose and deploy an OpenAI model](#choose-and-deploy-an-openai-model)
+  - [Create a chat with OpenAI’s chat playground](#create-a-chat-with-openais-chat-playground)
+  - [Call the OpenAI REST API](#call-the-openai-rest-api)
+  - [Generative images with DALL-E](#generative-images-with-dall-e)
 - [**4. Image and Video Analysis**](#4-image-and-video-analysis) (5 videos)
-  - The Azure Studios
-  - Extract text from images
-  - Analyze spatial data in real time
-  - Detect faces in an image
-  - Tag and categorize images with image analysis
+  - [The Azure Studios](#the-azure-studios)
+  - [Extract text from images](#extract-text-from-images)
+  - [Analyze spatial data in real time](#analyze-spatial-data-in-real-time)
+  - [Detect faces in an image](#detect-faces-in-an-image)
+  - [Tag and categorize images with image analysis](#tag-and-categorize-images-with-image-analysis)
 - [**5. Text Analysis and Services**](#5-text-analysis-and-services) (4 videos)
-  - Explore the features of Azure AI language analysis
-  - Extract information from text
-  - Sentiment analysis and language detection
-  - Summarize text
+  - [Explore the features of Azure AI language analysis](#explore-the-features-of-azure-ai-language-analysis)
+  - [Extract information from text](#extract-information-from-text)
+  - [Sentiment analysis and language detection](#sentiment-analysis-and-language-detection)
+  - [Summarize text](#summarize-text)
 - [**6. Speech Analysis and Creation**](#6-speech-analysis-and-creation) (5 videos)
-  - Call transcription and analysis
-  - Pronunciation assessment and correction
-  - Explore the built-in voice agents
-  - Create a custom voice agent
-  - Create a life-like video avatar
+  - [Call transcription and analysis](#call-transcription-and-analysis)
+  - [Pronunciation assessment and correction](#pronunciation-assessment-and-correction)
+  - [Explore the built-in voice agents](#explore-the-built-in-voice-agents)
+  - [Create a custom voice agent](#create-a-custom-voice-agent)
+  - [Create a life-like video avatar](#create-a-life-like-video-avatar)
 - [**7. Azure Applied AI Services**](#7-azure-applied-ai-services) (5 videos)
-  - Build intelligent bots with Azure Bot Service
-  - Streamline data extraction with Azure Document Intelligence
-  - Improve accessibility with Immersive Reader
-  - Detect anomalies with Azure Metrics Advisor
-  - Unlock smarter search with Azure Cognitive Search
+  - [Build intelligent bots with Azure Bot Service](#build-intelligent-bots-with-azure-bot-service)
+  - [Streamline data extraction with Azure Document Intelligence](#streamline-data-extraction-with-azure-document-intelligence)
+  - [Improve accessibility with Immersive Reader](#improve-accessibility-with-immersive-reader)
+  - [Detect anomalies with Azure Metrics Advisor](#detect-anomalies-with-azure-metrics-advisor)
+  - [Unlock smarter search with Azure Cognitive Search](#unlock-smarter-search-with-azure-cognitive-search)
 - [**8. Additional Services**](#8-additional-services) (2 videos)
-  - Reveal genetic insights with Microsoft Genomics
-  - Enhance content moderation with Azure AI Content Safety
+  - [Reveal genetic insights with Microsoft Genomics](#reveal-genetic-insights-with-microsoft-genomics)
+  - [Enhance content moderation with Azure AI Content Safety](#enhance-content-moderation-with-azure-ai-content-safety)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure AI from a 10,000-foot view
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980)
@@ -131,9 +131,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Microsoft Azure|Azure]] (4), next (1), data (1), [[DALL-E]] (1)
 > **Env Vars:** dna (1), gtp (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [walt] (1)
 
@@ -172,6 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** picture (3)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -179,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Azure AI Big Picture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Azure AI services names
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980)
@@ -230,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (11), [[Microsoft Azure|Azure]] (10), [[Microsoft]] (7), cloud (2), data (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -387,9 +388,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), ai (17), [[Microsoft Azure|Azure]] (16), [[Algorithms]] (8), [[Large Language Models (LLM)|Large language models]] (5)
 > **Definitions:** is a  (7), in other words (1), stands for (1), means that (1), refers to (1)
 > **Analogies:** such as (5), for example (3)
-> **Code Keywords:** require (2), let (2), this, (2), finally, (1)
 > **Env Vars:** luis (2), gpt (2), dall (2)
 > **CLI Commands:** make (4)
 > **Tools:** azure portal (1)
@@ -545,18 +546,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (26), [[Microsoft Azure|Azure]] (20), data (10), [[Search]] (3), [[Microsoft]] (3)
 > **Definitions:** is a  (7), known as (1), is an  (1)
 > **Analogies:** such as (7), for example (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** gpt (2), ocr (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Versions:** 3.5 (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Azure Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of Azure machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980)
@@ -657,12 +658,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Microsoft Azure|Azure]] (15), [[Python (Programming Language)|Python]] (8), cloud (2), [[Programming]] (2)
 > **CLI Commands:** python (8), make (3), docker (1)
 > **Definitions:** is a  (7), means that (2), refers to (2), is an  (1)
 > **Tools:** jupyter (4), azure portal (1), command line (1)
 > **Env Vars:** cli (1), sdk (1), rest (1), api (1), http (1)
 > **Analogies:** such as (3), think of it as (1)
-> **Code Keywords:** interface (2)
 > **Code Identifiers:** macos (1)
 > **Cross-References:** later in (1)
 
@@ -797,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2), this. (1), require (1)
+> **Frameworks & Libraries:** data (26), [[Microsoft Azure|Azure]] (15), [[Feature Engineering]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (2), cloud (2)
 > **Analogies:** such as (5), for example (1)
 > **UI Navigation:** drag and drop (1), in the sidebar (1), select the (1)
 > **Definitions:** refers to (1), known as (1), is a  (1)
@@ -909,10 +910,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (15), data (6), [[Microsoft Azure|Azure]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4)
 > **Env Vars:** url (7), llm (4), api (1)
 > **Definitions:** is a  (5), is an  (3), refers to (1)
 > **CLI Commands:** python (3), find (1)
-> **Code Keywords:** case, (1), finally, (1)
 > **Analogies:** such as (1), for example (1)
 > **URLs:** [imdb.com](https://imdb.com) (1)
 > **Warnings:** troubleshoot (1)
@@ -921,7 +922,7 @@ created: 2026-04-29
 
 ### 3. Azure OpenAI Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of Azure OpenAI Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980)
@@ -990,11 +991,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), ai (6), [[Microsoft]] (4), [[Programming]] (3), [[DALL-E]] (3)
 > **Env Vars:** gpt (3), dall (3), rest (2), clip (1), api (1)
 > **Definitions:** is a  (9), is an  (1), means that (1)
 > **CLI Commands:** python (2)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** interface (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1069,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** ai (6), prompt (4), [[Fine Tuning]] (2), [[Microsoft Azure|Azure]] (1), [[Conversational AI]] (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1133,9 +1134,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (1), [[Speech Recognition]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this. (1), this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Create a chat with OpenAI’s chat playground
@@ -1233,10 +1234,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), data (2), prompt (1), chatbot (1), next (1)
 > **Cross-References:** in the last (2), in the next (1)
 > **UI Navigation:** dropdown (1), click on (1), go to (1)
 > **Env Vars:** rest (1), api (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1308,8 +1309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[Representational State Transfer (REST)|Rest]] (4), [[JSON]] (4), [[Microsoft Azure|Azure]] (3), prompt (2)
 > **Env Vars:** api (8), json (4), url (3), uri (1), post (1)
-> **Code Keywords:** pass (5), let (3), for. (1), this, (1), switch (1)
 > **CLI Commands:** make (2), python (1), curl (1), find (1)
 > **Tools:** postman (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1356,8 +1357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (2), [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), prompt (1)
 > **Env Vars:** dall (2), rest (1), api (1), json (1)
-> **Code Keywords:** case, (2), pass (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** picture (2)
 > **Exercise Files:** sample code (1)
@@ -1367,7 +1368,7 @@ created: 2026-04-29
 
 ### 4. Image and Video Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Azure Studios
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980)
@@ -1416,10 +1417,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), web (4), [[Representational State Transfer (REST)|Rest]] (3), [[CLI]] (2), [[Powershell]] (1)
 > **Env Vars:** rest (3), cli (2), sdk (1), api (1)
 > **Tools:** azure portal (3), powershell (1), github (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** interface (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1489,8 +1490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Word|Word]] (5), ai (2), [[Microsoft]] (2), product (1)
 > **Env Vars:** ocr (3), api (1), json (1)
-> **Code Keywords:** let (2), this, (1)
 > **UI Navigation:** checkbox (1), dropdown (1), click on (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), picture (1)
@@ -1567,7 +1568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1)
+> **Frameworks & Libraries:** data (2), [[Real-Time]] (2), traffic (2), [[Microsoft Azure|Azure]] (1), ai (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1611,10 +1612,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), feature (3), [[Search]] (2), [[Microsoft Azure|Azure]] (1), ai (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Tag and categorize images with image analysis
@@ -1686,10 +1687,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (2), feature (2), api (1), [[Search]] (1)
 > **Analogies:** picture (9)
 > **Definitions:** is a  (2), refers to (2), in other words (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [speaker] (1)
@@ -1697,7 +1698,7 @@ created: 2026-04-29
 
 ### 5. Text Analysis and Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the features of Azure AI language analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980)
@@ -1760,6 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), feature (5), ai (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Analytics]] (2)
 > **Definitions:** is a  (5), known as (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** api (2), pii (1)
@@ -1838,7 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), type, (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Azure|Azure]] (1), [[Banking]] (1), [[JSON]] (1), data (1)
 > **Env Vars:** pii (1), json (1)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Definitions:** is a  (2)
@@ -1898,7 +1900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1951,7 +1953,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this. (1)
 > **CLI Commands:** brew (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
@@ -1960,7 +1961,7 @@ created: 2026-04-29
 
 ### 6. Speech Analysis and Creation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Call transcription and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980)
@@ -2029,11 +2030,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Analytics]] (1), [[Customer Support]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Speakers:** - [instructor] (2), - [agent] (2), - [mary] (1)
 > **Env Vars:** rest (1), api (1), json (1), pii (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), python (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** sample code (1)
@@ -2129,7 +2130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Speech Recognition]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** such as (1), for instance (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -2298,8 +2299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (3), data (2), next (2), [[Storytelling]] (1)
 > **Speakers:** - [narrator] (6), - [nancy] (2), - [ava] (1), - [emma] (1), - [ryan] (1)
-> **Code Keywords:** switch (4), case. (2), let (2), require (1), this, (1)
 > **UI Navigation:** scroll down (2), switch to (2), click on (1), go to (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** xml (2), ssml (1)
@@ -2400,8 +2401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **Speakers:** - [instructor] (7), - [narrator] (6)
-> **Code Keywords:** this. (2), let (1), this, (1), case, (1)
 
 #### Create a life-like video avatar
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980)
@@ -2440,8 +2441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (2), feature (1), [[Microsoft Azure]] (1), cloud (1)
 > **Speakers:** - [instructor] (1), - welcome (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** mp4 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -2449,7 +2450,7 @@ created: 2026-04-29
 
 ### 7. Azure Applied AI Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build intelligent bots with Azure Bot Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980)
@@ -2542,11 +2543,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), teams (5), [[Analytics]] (3), chatbot (2), [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **Analogies:** such as (8), for example (3)
 > **Env Vars:** sdk (6), http (1)
 > **Definitions:** is a  (4), is an  (1), known as (1)
 > **Tools:** visual studio (2), slack (1), azure portal (1)
-> **Code Keywords:** type, (1), interface (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2720,7 +2721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), case, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Azure|Azure]] (6), [[Forms]] (5), [[Microsoft]] (5), ai (3)
 > **Env Vars:** pdf (3), ocr (1), html (1)
 > **Definitions:** is called (2), is a  (2), known as (1)
 > **CLI Commands:** make (1), find (1)
@@ -2822,7 +2823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), this, (1), interface (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), application (3), feature (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1)
 > **Speakers:** - [instructor] (2), - [computer (2), - and (1), - i (1)
 > **UI Navigation:** click on (3), toggle (1)
 > **Analogies:** picture (2), for example (1), such as (1)
@@ -2895,8 +2896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), [[Microsoft Azure|Azure]] (3), web (2), [[Algorithms]] (1), [[E-Commerce]] (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** continue (1), interface (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
@@ -2997,16 +2998,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (37), data (16), [[Microsoft Azure|Azure]] (8), [[Semantic Search]] (3), [[Algorithms]] (2)
 > **Analogies:** for example (5), such as (4)
 > **CLI Commands:** find (5), make (2)
 > **Definitions:** is a  (3), means that (2), in other words (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Additional Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reveal genetic insights with Microsoft Genomics
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980)
@@ -3065,6 +3066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft]] (3), cloud (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** dna (3), rna (1), hipaa (1), gdpr (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), known as (1)
@@ -3137,17 +3139,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (2), [[Software Development]] (2), application (1), [[Messaging Platforms]] (1)
 > **Env Vars:** rest (1), sdk (1), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** interface (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980)
@@ -3186,6 +3188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), ai (3), next (1), [[DevOps]] (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
 > **Analogies:** picture (1)

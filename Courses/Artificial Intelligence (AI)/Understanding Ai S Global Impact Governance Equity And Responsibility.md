@@ -27,7 +27,7 @@ tags:
   - skill/ai-equity
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md)
@@ -46,37 +46,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Artificial intelligence: From everyday tasks to global challenges
+  - [Artificial intelligence: From everyday tasks to global challenges](#artificial-intelligence-from-everyday-tasks-to-global-challenges)
 - [**1. The Basics of AI**](#1-the-basics-of-ai) (4 videos)
-  - AI: The basics
-  - AI in everyday life
-  - A brief history of AI
-  - The limitations of AI
+  - [AI: The basics](#ai-the-basics)
+  - [AI in everyday life](#ai-in-everyday-life)
+  - [A brief history of AI](#a-brief-history-of-ai)
+  - [The limitations of AI](#the-limitations-of-ai)
 - [**2. Critical Perspectives on AI**](#2-critical-perspectives-on-ai) (6 videos)
-  - AI accuracy vs. truth
-  - Cross-border data flows
-  - Bias in AI systems
-  - The geography of AI development
-  - The global digital divide
-  - Synthetic data in AI training
+  - [AI accuracy vs. truth](#ai-accuracy-vs-truth)
+  - [Cross-border data flows](#cross-border-data-flows)
+  - [Bias in AI systems](#bias-in-ai-systems)
+  - [The geography of AI development](#the-geography-of-ai-development)
+  - [The global digital divide](#the-global-digital-divide)
+  - [Synthetic data in AI training](#synthetic-data-in-ai-training)
 - [**3. AI and the United Nations System**](#3-ai-and-the-united-nations-system) (3 videos)
-  - AI for Global goals
-  - AI governance
-  - UN and UNESCO frameworks on AI
+  - [AI for Global goals](#ai-for-global-goals)
+  - [AI governance](#ai-governance)
+  - [UN and UNESCO frameworks on AI](#un-and-unesco-frameworks-on-ai)
 - [**4. The Mechanics of AI**](#4-the-mechanics-of-ai) (5 videos)
-  - Types of machine learning
-  - Neural networks and data learning
-  - Gradient descent and model training
-  - Big data and AI
-  - Introduction to generative AI
+  - [Types of machine learning](#types-of-machine-learning)
+  - [Neural networks and data learning](#neural-networks-and-data-learning)
+  - [Gradient descent and model training](#gradient-descent-and-model-training)
+  - [Big data and AI](#big-data-and-ai)
+  - [Introduction to generative AI](#introduction-to-generative-ai)
 - [**5. Practical Applications of AI**](#5-practical-applications-of-ai) (3 videos)
-  - Accessible AI tools for beginners
-  - AI in everyday apps
-  - A real-world AI mini project
+  - [Accessible AI tools for beginners](#accessible-ai-tools-for-beginners)
+  - [AI in everyday apps](#ai-in-everyday-apps)
+  - [A real-world AI mini project](#a-real-world-ai-mini-project)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence: From everyday tasks to global challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980)
@@ -115,12 +115,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** make (1)
 
 
 ### 1. The Basics of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980)
@@ -231,8 +232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), prompt (3), [[Search]] (1)
 > **CLI Commands:** make (3), cat (2), find (1)
-> **Code Keywords:** let (3)
 > **Definitions:** refers to (2), is a  (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** llm (1)
@@ -302,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** ai (13), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[Search]] (1)
 > **CLI Commands:** make (1)
 
 #### A brief history of AI
@@ -398,6 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (3), [[Algorithms]] (2), power (1)
 > **Env Vars:** ibm (1), dall (1)
 > **Analogies:** just like (1), such as (1)
 > **Cross-References:** go back to (1)
@@ -496,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2)
+> **Frameworks & Libraries:** ai (19), data (7), [[Algorithms]] (4), prompt (2), database (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -506,7 +508,7 @@ created: 2026-04-29
 
 ### 2. Critical Perspectives on AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI accuracy vs. truth
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980)
@@ -575,6 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Calculus]] (3), ai (2), [[Deep Learning]] (2), [[Engineering]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -655,10 +658,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), vpn (2), [[Climate Change]] (1), [[Environmental Sustainability]] (1), ai (1)
 > **Env Vars:** vpn (2), covid (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** require (1)
 > **UI Navigation:** go to (1)
 
 #### Bias in AI systems
@@ -746,8 +749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (2), database (1), [[Algorithms]] (1)
 > **Analogies:** picture (2), such as (1)
-> **Code Keywords:** pass (2)
 > **Definitions:** basically means (1), is a  (1)
 > **CLI Commands:** make (1)
 
@@ -776,6 +779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), teams (1)
 > **Definitions:** is a  (2)
 
 #### The global digital divide
@@ -809,7 +813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** ai (5), data (2)
 > **Versions:** 2.6 (1)
 
 #### Synthetic data in AI training
@@ -855,15 +859,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), ai (3), [[Privacy]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
 
 ### 3. AI and the United Nations System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for Global goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-and-the-global-goals?u=76281980)
@@ -906,6 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15)
 > **Env Vars:** sdg (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -956,6 +961,10 @@ created: 2026-04-29
 > **[1:51](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-governance?u=76281980&t=111)** And lastly, we need to create institutions that are going to regulate AI.
 >
 > **[1:57](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-governance?u=76281980&t=117)** The United Nations, through the Pact of the Future, has the scientific panel on AI that is going to help in the global regulation of AI.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** ai (16), data (1), application (1)
 
 #### UN and UNESCO frameworks on AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/un-and-unesco-frameworks-on-ai?u=76281980)
@@ -1032,8 +1041,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), application (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **Env Vars:** unesco (1)
@@ -1041,7 +1050,7 @@ created: 2026-04-29
 
 ### 4. The Mechanics of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980)
@@ -1126,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), while, (1), self (1)
+> **Frameworks & Libraries:** data (8), [[Reinforcement Learning]] (3), ai (2), next (2), [[Supervised Learning]] (1)
 > **CLI Commands:** make (1), cat (1)
 > **Analogies:** imagine (1), picture (1)
 > **Definitions:** is called (1)
@@ -1202,8 +1211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (2), is called (2)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** imagine (1)
 
 #### Gradient descent and model training
@@ -1239,6 +1248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (6)
 > **Definitions:** is called (2)
 > **UI Navigation:** select the (1)
 
@@ -1309,6 +1319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), data (15), [[Big Data]] (5), [[Privacy]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** cat (1)
 > **Env Vars:** gps (1)
@@ -1391,6 +1402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (8), data (6), ai (5), [[Microsoft Word|Word]] (2), prompt (2)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** cat (1)
@@ -1398,7 +1410,7 @@ created: 2026-04-29
 
 ### 5. Practical Applications of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible AI tools for beginners
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980)
@@ -1525,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), try, (1), require (1)
+> **Frameworks & Libraries:** ai (9), [[Microsoft Copilot|Copilot]] (4), [[Search]] (4), prompt (4), data (3)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [copilotmicrosoft.com](https://copilotmicrosoft.com) (1), [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** is a  (1)
@@ -1598,6 +1610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (5), next (1), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
@@ -1672,6 +1685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (5), next (1), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)

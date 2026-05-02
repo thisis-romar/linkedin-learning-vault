@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/traditional-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20vs.%20Traditional%20AI.md)
@@ -60,41 +60,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Explore generative AI vs. traditional AI
+  - [Explore generative AI vs. traditional AI](#explore-generative-ai-vs-traditional-ai)
 - [**1. Predictive AI Architecture**](#1-predictive-ai-architecture) (4 videos)
-  - Machine learning
-  - Supervised and unsupervised learning
-  - Artificial neural networks
-  - Data models
+  - [Machine learning](#machine-learning)
+  - [Supervised and unsupervised learning](#supervised-and-unsupervised-learning)
+  - [Artificial neural networks](#artificial-neural-networks)
+  - [Data models](#data-models)
 - [**2. Generative AI Models**](#2-generative-ai-models) (5 videos)
-  - Foundation models
-  - Large language models (LLMs)
-  - Small language models (SLMs)
-  - Image diffusion models
-  - Generative pre-trained transformer (GPT)
+  - [Foundation models](#foundation-models)
+  - [Large language models (LLMs)](#large-language-models-llms)
+  - [Small language models (SLMs)](#small-language-models-slms)
+  - [Image diffusion models](#image-diffusion-models)
+  - [Generative pre-trained transformer (GPT)](#generative-pre-trained-transformer-gpt)
 - [**3. Generative AI Architecture**](#3-generative-ai-architecture) (5 videos)
-  - Prompt engineering
-  - Generative adversarial networks (GANs)
-  - Self-supervised learning
-  - Variational autoencoder (VAE)
-  - Building a generative AI system
+  - [Prompt engineering](#prompt-engineering)
+  - [Generative adversarial networks (GANs)](#generative-adversarial-networks-gans)
+  - [Self-supervised learning](#self-supervised-learning)
+  - [Variational autoencoder (VAE)](#variational-autoencoder-vae)
+  - [Building a generative AI system](#building-a-generative-ai-system)
 - [**4. Improving Generative AI**](#4-improving-generative-ai) (4 videos)
-  - Inferencing
-  - Filling gaps
-  - Agents
-  - Context windows
+  - [Inferencing](#inferencing)
+  - [Filling gaps](#filling-gaps)
+  - [Agents](#agents)
+  - [Context windows](#context-windows)
 - [**5. Generative AI Legal and Ethical Issues**](#5-generative-ai-legal-and-ethical-issues) (5 videos)
-  - Traceable decision-making
-  - Hallucination liability
-  - Copyright training
-  - Mass data collection and privacy
-  - The expertise death spiral
+  - [Traceable decision-making](#traceable-decision-making)
+  - [Hallucination liability](#hallucination-liability)
+  - [Copyright training](#copyright-training)
+  - [Mass data collection and privacy](#mass-data-collection-and-privacy)
+  - [The expertise death spiral](#the-expertise-death-spiral)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for AI
+  - [Next steps for AI](#next-steps-for-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore generative AI vs. traditional AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/explore-generative-ai-vs-traditional-ai-25810008?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Predictive AI]] (2), ai (2), [[Supervised Learning]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** cat (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
@@ -123,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Predictive AI Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/machine-learning-25805087?u=76281980)
@@ -186,6 +186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (4), [[Microsoft OneDrive|Onedrive]] (2), cloud (2), [[Algorithms]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
@@ -250,7 +251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), require (1), let (1)
+> **Frameworks & Libraries:** data (6), [[Supervised Learning]] (2), ai (2), [[Predictive AI]] (1)
 > **Definitions:** is called (2)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
@@ -326,6 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (6), [[Deep Learning]] (6), data (5), [[Artificial Neural Networks]] (4), next (1)
 > **CLI Commands:** find (6), cat (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -405,15 +407,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Neural Networks]] (1)
 > **Definitions:** means that (3), is an  (1), is a  (1)
-> **Code Keywords:** new. (1), let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
 
 ### 2. Generative AI Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/foundation-models-25807058?u=76281980)
@@ -486,8 +488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), ai (4), [[Google]] (2), [[Generative AI]] (2)
 > **CLI Commands:** cat (2)
-> **Code Keywords:** new. (2)
 > **Definitions:** is called (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - you (1)
@@ -567,9 +569,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[ChatGPT]] (2), [[Jetpack Compose|Compose]] (2), [[Probability]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is called (1), means that (1)
 > **Analogies:** imagine (1), just like (1)
-> **Code Keywords:** new. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -656,6 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Electronics]] (1), llm (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** llm (1)
 > **Analogies:** imagine (1)
@@ -732,6 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), data (1), [[Artificial Neural Networks]] (1), [[Neural Networks]] (1), [[Midjourney]] (1)
 > **CLI Commands:** make (2), find (1), cat (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** imagine (1), similar to (1), just like (1)
@@ -821,6 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Supervised Learning]] (3), next (3), [[Microsoft Word|Word]] (3), data (2), [[ChatGPT]] (1)
 > **Env Vars:** gpt (8)
 > **Definitions:** stands for (1), is a  (1), means that (1)
 > **CLI Commands:** make (2)
@@ -830,7 +835,7 @@ created: 2026-04-29
 
 ### 3. Generative AI Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/prompt-engineering?u=76281980)
@@ -899,9 +904,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Predictive AI]] (3), [[Generative AI]] (2), product (2), [[Supervised Learning]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this, (1), case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -990,8 +995,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), game (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** gan (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
@@ -1055,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4)
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (5), [[Supervised Learning]] (4), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), cat (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** means that (1)
@@ -1138,10 +1143,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Probability]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), feature (1)
 > **CLI Commands:** cat (23)
 > **Definitions:** is called (3), means that (2), is an  (1)
 > **Analogies:** picture (3), imagine (1), similar to (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** vae (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1218,8 +1223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Generative AI]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Supervised Learning]] (2), [[Predictive AI]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** dall (1)
 > **Tools:** github (1)
 > **Prerequisites:** you'll need (1)
@@ -1228,7 +1233,7 @@ created: 2026-04-29
 
 ### 4. Improving Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inferencing
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/inferencing?u=76281980)
@@ -1305,8 +1310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Large Language Models (LLM)|Large language models]] (2), ai (1), [[Supervised Learning]] (1), data (1)
 > **CLI Commands:** make (3), cat (1)
-> **Code Keywords:** self (1), new. (1)
 > **Analogies:** it's like (1), just like (1)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
@@ -1389,6 +1394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), llm (6), [[Fine Tuning]] (3), [[Large Language Models (LLM)|Large language models]] (2), database (2)
 > **Env Vars:** llm (6), cag (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
@@ -1478,9 +1484,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (5), llm (2), prompt (2), business (1)
 > **Env Vars:** llm (2), hbo (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - if (1)
 
@@ -1559,6 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), [[Tokens]] (3), product (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (3)
 > **CLI Commands:** make (2)
 > **Analogies:** think of it like (1), imagine (1)
@@ -1569,7 +1576,7 @@ created: 2026-04-29
 
 ### 5. Generative AI Legal and Ethical Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Traceable decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/traceable-decision-making?u=76281980)
@@ -1642,7 +1649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), data (5), ai (4), business (1), product (1)
 > **Env Vars:** ibm (1), lgbtq (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1716,9 +1723,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Google]] (2), llm (2), [[Large Language Models (LLM)|Large language models]] (2), next (1)
 > **Env Vars:** llm (2), vlt (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1791,8 +1798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), data (2), prompt (1), [[Copyright Law]] (1), business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** protected (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1860,6 +1867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (3), [[Privacy]] (3), [[Unstructured Data]] (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -1943,7 +1951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (5), switch (1)
+> **Frameworks & Libraries:** ai (6), data (5), [[Generative AI]] (4), [[Algorithms]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), similar to (1)
 > **Warnings:** be careful (1)
@@ -1952,7 +1960,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/next-steps-for-ai-25806074?u=76281980)
@@ -1985,6 +1993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Traditional AI]] (2), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - i (1)

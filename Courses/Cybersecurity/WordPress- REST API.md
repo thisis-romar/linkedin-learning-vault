@@ -31,7 +31,7 @@ tags:
   - skill/rest-apis
   - skill/wordpress
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20REST%20API.md)
@@ -50,45 +50,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - RESTful WordPress through an API
-  - Prerequisites for this course
+  - [RESTful WordPress through an API](#restful-wordpress-through-an-api)
+  - [Prerequisites for this course](#prerequisites-for-this-course)
 - [**1. Exploring the WordPress REST API**](#1-exploring-the-wordpress-rest-api) (9 videos)
-  - What is the WordPress REST API?
-  - What are RESTful APIs and JSON?
-  - Routes and endpoints
-  - Communicating with the REST API
-  - Explore the REST API response
-  - Useful routes: A quick reference
-  - Expanding the response with embeds
-  - Challenge: Find posts in a category
-  - Solution: Find posts in a category
+  - [What is the WordPress REST API?](#what-is-the-wordpress-rest-api)
+  - [What are RESTful APIs and JSON?](#what-are-restful-apis-and-json)
+  - [Routes and endpoints](#routes-and-endpoints)
+  - [Communicating with the REST API](#communicating-with-the-rest-api)
+  - [Explore the REST API response](#explore-the-rest-api-response)
+  - [Useful routes: A quick reference](#useful-routes-a-quick-reference)
+  - [Expanding the response with embeds](#expanding-the-response-with-embeds)
+  - [Challenge: Find posts in a category](#challenge-find-posts-in-a-category)
+  - [Solution: Find posts in a category](#solution-find-posts-in-a-category)
 - [**2. Modify the REST API Response**](#2-modify-the-rest-api-response) (5 videos)
-  - Notes on modifying a REST API response
-  - Add custom post types and taxonomies
-  - Add custom fields to the response
-  - Challenge: Add fields to the response
-  - Solution: Add fields to the response
+  - [Notes on modifying a REST API response](#notes-on-modifying-a-rest-api-response)
+  - [Add custom post types and taxonomies](#add-custom-post-types-and-taxonomies)
+  - [Add custom fields to the response](#add-custom-fields-to-the-response)
+  - [Challenge: Add fields to the response](#challenge-add-fields-to-the-response)
+  - [Solution: Add fields to the response](#solution-add-fields-to-the-response)
 - [**3. Authentication and Authorization**](#3-authentication-and-authorization) (6 videos)
-  - Authentication and authorization
-  - Basic authentication (development only)
-  - Cookie authentication
-  - JWT: JSON Web Token authentication
-  - Add JWT support with a plugin
-  - Test JWT authentication via REST client
+  - [Authentication and authorization](#authentication-and-authorization)
+  - [Basic authentication (development only)](#basic-authentication-development-only)
+  - [Cookie authentication](#cookie-authentication)
+  - [JWT: JSON Web Token authentication](#jwt-json-web-token-authentication)
+  - [Add JWT support with a plugin](#add-jwt-support-with-a-plugin)
+  - [Test JWT authentication via REST client](#test-jwt-authentication-via-rest-client)
 - [**4. Practical Examples**](#4-practical-examples) (7 videos)
-  - Four practical examples
-  - Read only: Load next post using REST API
-  - Cookie authentication: Front-end editing
-  - Basic standalone app
-  - JWT authentication: Third-party editing
-  - Challenge: Add dynamic related posts navigation
-  - Solution: Add dynamic related posts navigation
+  - [Four practical examples](#four-practical-examples)
+  - [Read only: Load next post using REST API](#read-only-load-next-post-using-rest-api)
+  - [Cookie authentication: Front-end editing](#cookie-authentication-front-end-editing)
+  - [Basic standalone app](#basic-standalone-app)
+  - [JWT authentication: Third-party editing](#jwt-authentication-third-party-editing)
+  - [Challenge: Add dynamic related posts navigation](#challenge-add-dynamic-related-posts-navigation)
+  - [Solution: Add dynamic related posts navigation](#solution-add-dynamic-related-posts-navigation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RESTful WordPress through an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (11), api (5), [[Representational State Transfer (REST)|Rest]] (4), data (2), web (1)
 > **Env Vars:** api (5), rest (4)
-> **Code Keywords:** delete (2), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prerequisites for this course
@@ -140,8 +140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[JavaScript]] (4), [[WordPress]] (3), api (2)
 > **Env Vars:** rest (4), api (2)
-> **Code Keywords:** default, (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Exploring the WordPress REST API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the WordPress REST API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980)
@@ -204,9 +204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (24), api (14), [[Representational State Transfer (REST)|Rest]] (11), data (8), database (2)
 > **Env Vars:** api (14), rest (11), php (2), http (1), json (1)
 > **CLI Commands:** php (2)
-> **Code Keywords:** delete (1), pass (1)
 > **Definitions:** is a  (2)
 > **Versions:** version 4 (1)
 > **Analogies:** for example (1)
@@ -262,9 +262,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), [[Representational State Transfer (REST)|Rest]] (11), [[JSON]] (6), data (6), [[WordPress]] (5)
 > **Env Vars:** api (13), rest (11), json (6), url (4), uri (1)
 > **Definitions:** is a  (4), stands for (2), known as (1), is called (1), in other words (1)
-> **Code Keywords:** delete (3), let (1), interface (1), case, (1), return. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Routes and endpoints
@@ -300,8 +300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (4), api (4), [[WordPress]] (3), database (1)
 > **Env Vars:** rest (4), api (4), uri (3), json (1), put (1)
-> **Code Keywords:** function (2), case, (1), let (1), delete (1)
 > **Definitions:** is a  (2), known as (1)
 > **API Endpoints:** get  (1), /v2/posts/456 (1)
 > **Cross-References:** later in (1)
@@ -380,11 +380,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (9), data (9), [[Representational State Transfer (REST)|Rest]] (8), [[WordPress]] (7), api (3)
 > **Env Vars:** rest (8), json (6), api (3), html (3), css (3)
 > **API Endpoints:** get  (6), /v2/posts (2)
 > **URLs:** [mor10.com](https://mor10.com) (3), [yoursite.com](https://yoursite.com) (1), [getpostman.com](https://getpostman.com) (1)
 > **Tools:** postman (5)
-> **Code Keywords:** return, (1), case, (1), this, (1), let (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** known as (1), is a  (1)
@@ -550,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (6), return. (2), for. (2), self (1)
+> **Frameworks & Libraries:** api (9), [[Representational State Transfer (REST)|Rest]] (6), data (4), next (4), [[WordPress]] (3)
 > **Env Vars:** api (9), rest (6), json (2), url (1), wpv2 (1)
 > **CLI Commands:** find (2)
 > **URLs:** [morton.com](https://morton.com) (1)
@@ -662,11 +662,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Representational State Transfer (REST)|Rest]] (6), [[WordPress]] (2), next (1)
 > **Env Vars:** api (7), rest (5), url (2), wp_rest_api (1)
 > **CLI Commands:** make (9)
 > **Code Identifiers:** base_url (6), postman_collection (1)
 > **UI Navigation:** go to (2), click on (2), scroll up (1), navigate to (1), open the (1)
-> **Code Keywords:** delete (2), let (1), case, (1), switch (1), this. (1)
 > **URLs:** [mor10.com](https://mor10.com) (2), [https://mor10.com](https://mor10.com) (2), [http://restful.local](http://restful.local) (1)
 > **Tools:** postman (5)
 > **API Endpoints:** get  (3)
@@ -772,8 +772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), api (6), [[WordPress]] (3)
 > **Env Vars:** rest (7), api (6), uri (1)
-> **Code Keywords:** this, (2), let (1), self (1), else. (1), this. (1)
 > **UI Navigation:** scroll down (2), select the (1)
 > **URLs:** [mor10.com](https://mor10.com) (2)
 > **Tools:** postman (2)
@@ -832,11 +832,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), api (4), [[WordPress]] (3), next (2), data (1)
 > **Env Vars:** rest (4), api (4)
 > **Prerequisites:** setup (4), set up (2)
 > **Tools:** postman (4)
 > **CLI Commands:** find (2)
-> **Code Keywords:** else. (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -968,8 +968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), api (8), [[Search]] (7), [[WordPress]] (1), data (1)
 > **Env Vars:** api (8), rest (7)
-> **Code Keywords:** let (3), else. (2), for. (1), self (1), type. (1)
 > **CLI Commands:** find (6), make (1)
 > **Definitions:** is called (3)
 > **UI Navigation:** click on (2)
@@ -980,7 +980,7 @@ created: 2026-04-29
 
 ### 2. Modify the REST API Response
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Notes on modifying a REST API response
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/notes-on-modifying-a-rest-api-response?u=76281980)
@@ -1023,10 +1023,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), [[WordPress]] (3), [[Representational State Transfer (REST)|Rest]] (3), data (3), feature (2)
 > **Env Vars:** api (10)
 > **Prerequisites:** setup (1), before we start (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1105,9 +1105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (16), api (12), [[WordPress]] (2), next (1)
 > **Env Vars:** rest (16), api (12), cpt (1)
 > **Code Identifiers:** show_in_rest (7), rest_base (3), register_post_type (1), register_taxonomy (1), wp_block (1)
-> **Code Keywords:** let (2), else. (1), finally, (1), type. (1), else, (1)
 > **CLI Commands:** find (4), make (3)
 > **UI Navigation:** go to (4), scroll down (2), toggle (1)
 > **Documentation:** the documentation (3)
@@ -1237,8 +1237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (19), api (12), [[PHP]] (3), data (2), [[WordPress]] (2)
 > **Env Vars:** rest (12), api (12), php (2), rdp (1), json (1)
-> **Code Keywords:** function (11), case, (3), let (1), type. (1), type, (1)
 > **CLI Commands:** find (6), php (3)
 > **UI Navigation:** go to (7), scroll down (1)
 > **Prerequisites:** set up (3), install (2)
@@ -1277,8 +1277,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), api (2), [[PHP]] (1), next (1)
 > **Env Vars:** rest (2), api (2), php (1)
-> **Code Keywords:** function (1), continue (1)
 > **CLI Commands:** php (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1357,8 +1357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[WordPress]] (2), next (2), data (1), api (1)
 > **Code Identifiers:** get_previous_post (3), previous_post_title (2), previous_post_link (2), get_the_title (2), get_previous_post_title (1)
-> **Code Keywords:** function (6), let (2), case, (1), else, (1), continue (1)
 > **Env Vars:** hello (2), world (2), rest (1), api (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** scroll down (2)
@@ -1369,7 +1369,7 @@ created: 2026-04-29
 
 ### 3. Authentication and Authorization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980)
@@ -1450,8 +1450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (22), api (11), [[Representational State Transfer (REST)|Rest]] (9), application (8), data (5)
 > **Env Vars:** api (11), rest (9), crud (1)
-> **Code Keywords:** public (5), private (4), delete (4), else, (2), interface (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
@@ -1567,10 +1567,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), [[Representational State Transfer (REST)|Rest]] (12), [[WordPress]] (3), [[Security]] (2), next (2)
 > **Env Vars:** post (26), api (13), rest (12), json (2), crud (1)
 > **API Endpoints:** post  (17), get  (2), post
  (1)
-> **Code Keywords:** delete (5), let (3), else, (2), pass (2), public (1)
 > **UI Navigation:** go to (5), click on (1), open the (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **CLI Commands:** find (2)
@@ -1694,8 +1694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (22), [[Representational State Transfer (REST)|Rest]] (7), api (7), application (5), database (3)
 > **Env Vars:** rest (7), api (7), url (3), jwt (1), csrf (1)
-> **Code Keywords:** delete (3), let (2), if, (1), match. (1), finally, (1)
 > **Definitions:** is called (2), is a  (2), known as (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -1744,9 +1744,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (7), [[Representational State Transfer (REST)|Rest]] (6), api (6), application (2), [[JSON]] (2)
 > **Env Vars:** jwt (11), rest (6), api (6), json (2), post (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** this. (1), continue (1)
 > **File Paths:** wp-config.php (1)
 > **CLI Commands:** php (1)
 > **API Endpoints:** post  (1)
@@ -1840,10 +1840,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), api (4), [[Representational State Transfer (REST)|Rest]] (3), next (2), [[WordPress]] (1)
 > **Env Vars:** jwt (8), api (4), http (2), cors (1)
 > **CLI Commands:** make (4), find (3)
 > **Prerequisites:** install (3), set up (2), configure (1)
-> **Code Keywords:** new, (1), return. (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** scroll down (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -1946,8 +1946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), api (4), [[Representational State Transfer (REST)|Rest]] (2), [[WordPress]] (1), next (1)
 > **Env Vars:** jwt (5), json (4), api (4), post (2), rest (2)
-> **Code Keywords:** let (2), self (2), this, (1), pass (1), case, (1)
 > **UI Navigation:** go to (3), open the (1), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1958,7 +1958,7 @@ created: 2026-04-29
 
 ### 4. Practical Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Four practical examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/four-practical-examples?u=76281980)
@@ -1987,8 +1987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), api (8), [[WordPress]] (4), front-end (1), next (1)
 > **Env Vars:** rest (8), api (8), jwt (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Read only: Load next post using REST API
@@ -2186,10 +2186,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (12), api (11), [[JavaScript]] (9), [[JSON]] (7), [[PHP]] (6)
 > **Env Vars:** api (11), rest (7), json (7), html (5), php (3)
 > **Code Identifiers:** rest_url (4), buildnewpost (3), postobject (3), getfeaturedimage (3), getpreviouspost (2)
 > **CLI Commands:** php (6), make (4), find (3), node (1)
-> **Code Keywords:** function (4), pass (2), continue (1), for. (1), this. (1)
 > **UI Navigation:** go to (2), click on (2), scroll down (1), open the (1), scroll up (1)
 > **Definitions:** is a  (5), is called (1), we call this (1)
 > **File Paths:** previous.js (3), functions.php (2)
@@ -2266,8 +2266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (15), [[WordPress]] (9), api (8), front-end (5), [[PHP]] (5)
 > **Env Vars:** api (8), rest (6), url (6), php (5), json (2)
-> **Code Keywords:** pass (6), function (5), let (1), finally, (1)
 > **Code Identifiers:** editform (4), formfield (2), editbutton (1), edittitle (1), entrytitle (1)
 > **CLI Commands:** php (5), find (3), make (2)
 > **UI Navigation:** go to (5), click on (3)
@@ -2418,9 +2418,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (10), application (9), [[Representational State Transfer (REST)|Rest]] (6), api (6), [[Fetch]] (5)
 > **Env Vars:** url (9), rest (6), api (6), html (3), json (2)
 > **Code Identifiers:** queryurl (5), postobject (3), navitem (2), rawurl (2), buildpost (2)
-> **Code Keywords:** function (7), return, (1), for. (1), finally, (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **CLI Commands:** make (3), find (1), php (1)
 > **Definitions:** is a  (3)
@@ -2558,9 +2558,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (10), application (9), [[Representational State Transfer (REST)|Rest]] (5), api (5), [[JavaScript]] (2)
 > **Code Identifiers:** gettoken (3), resturl (3), postid (3), updatetitle (3), restroot (2)
 > **Env Vars:** jwt (7), rest (5), api (5), url (2), json (2)
-> **Code Keywords:** function (10), pass (3), else, (2), else. (1), case, (1)
 > **UI Navigation:** toggle (3), go to (2), scroll down (1), click on (1)
 > **Cross-References:** go back to (2), we covered (1), previous chapter (1)
 > **Prerequisites:** set up (4)
@@ -2652,7 +2652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), finally, (2), pass (2), else. (1), return, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), hit (4), api (4), [[Fetch]] (3), [[JavaScript]] (2)
 > **Env Vars:** rest (4), api (4), url (2), html (1)
 > **Code Identifiers:** sendrestquery (4), relatedchild (1), postid (1), catids (1), resturl (1)
 > **UI Navigation:** go to (3), scroll down (2), click on (1)
@@ -2758,8 +2758,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (2), api (2), [[HTML]] (2), [[WordPress]] (1)
 > **Code Identifiers:** postobject (8), queryurl (3), displayrelatedposts (2), relatedcontainer (2), thepost (2)
-> **Code Keywords:** function (8), let (2), finally, (1), else. (1), pass (1)
 > **Env Vars:** rest (2), api (2), html (2)
 > **CLI Commands:** php (1), make (1), find (1)
 > **Exercise Files:** exercise files (2)
@@ -2770,7 +2770,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980)
@@ -2801,11 +2801,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[Representational State Transfer (REST)|Rest]] (8), [[WordPress]] (5), [[JavaScript]] (3), next (2)
 > **Env Vars:** api (9), rest (8)
 > **CLI Commands:** find (1), go build (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1), [mdn.com](https://mdn.com) (1)
 > **Documentation:** mdn (1), the documentation (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [morten] (1)
 

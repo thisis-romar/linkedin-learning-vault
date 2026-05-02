@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/business-decision-making
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Removing%20Noise%20and%20Bias%20from%20Strategic%20Decision-Making.md)
@@ -47,32 +47,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - What causes strategic decision errors
-  - Separating noise from bias
-  - Do you practice decision hygiene?
+  - [What causes strategic decision errors](#what-causes-strategic-decision-errors)
+  - [Separating noise from bias](#separating-noise-from-bias)
+  - [Do you practice decision hygiene?](#do-you-practice-decision-hygiene)
 - [**1. Recognizing Decision Noise**](#1-recognizing-decision-noise) (4 videos)
-  - What causes noise?
-  - How to see noise
-  - Identifying types of noise
-  - Reducing hidden noise
+  - [What causes noise?](#what-causes-noise)
+  - [How to see noise](#how-to-see-noise)
+  - [Identifying types of noise](#identifying-types-of-noise)
+  - [Reducing hidden noise](#reducing-hidden-noise)
 - [**2. Reducing Decision Bias**](#2-reducing-decision-bias) (5 videos)
-  - Avoiding the cascade bias
-  - Recognizing algorithm bias
-  - Addressing unfairness
-  - Maximizing the benefits of diversity
-  - Designating and training a decision observer
+  - [Avoiding the cascade bias](#avoiding-the-cascade-bias)
+  - [Recognizing algorithm bias](#recognizing-algorithm-bias)
+  - [Addressing unfairness](#addressing-unfairness)
+  - [Maximizing the benefits of diversity](#maximizing-the-benefits-of-diversity)
+  - [Designating and training a decision observer](#designating-and-training-a-decision-observer)
 - [**3. Performing Decision Hygiene**](#3-performing-decision-hygiene) (5 videos)
-  - Becoming a decision architect
-  - Agreeing on what matters
-  - Taking the outside view
-  - Judging independently
-  - Making the decision
+  - [Becoming a decision architect](#becoming-a-decision-architect)
+  - [Agreeing on what matters](#agreeing-on-what-matters)
+  - [Taking the outside view](#taking-the-outside-view)
+  - [Judging independently](#judging-independently)
+  - [Making the decision](#making-the-decision)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Making personal strategic decisions
+  - [Making personal strategic decisions](#making-personal-strategic-decisions)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What causes strategic decision errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-strategic-decision-errors?u=76281980)
@@ -107,7 +107,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - every (1)
 
 #### Separating noise from bias
@@ -159,8 +158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** case. (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
@@ -345,9 +344,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Speakers:** - so (2), - when (1), - okay (1), - there (1), - wait (1)
 > **CLI Commands:** make (4), find (1), snap (1)
-> **Code Keywords:** case, (2), function (1), let (1)
 > **Analogies:** just like (1), for example (1), it's like (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
@@ -355,7 +354,7 @@ created: 2026-04-29
 
 ### 1. Recognizing Decision Noise
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What causes noise?
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-noise?u=76281980)
@@ -432,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), case. (1), this. (1)
+> **Frameworks & Libraries:** hr (1)
 > **Ports:** :00 (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** later in (1)
@@ -521,7 +520,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (2)
 > **Definitions:** is a  (1)
@@ -588,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2)
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
@@ -688,6 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -697,7 +696,7 @@ created: 2026-04-29
 
 ### 2. Reducing Decision Bias
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding the cascade bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980)
@@ -774,7 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this: (1)
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** cia (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** known as (1)
@@ -880,9 +879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (9), data (5), power (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3)
-> **Code Keywords:** public (1)
 > **Env Vars:** gpa (1)
 > **Speakers:** - every (1)
 
@@ -982,7 +981,6 @@ created: 2026-04-29
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - what (1)
 
@@ -1055,8 +1053,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), leadership (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** from, (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - how (1)
 
@@ -1129,6 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1137,7 +1136,7 @@ created: 2026-04-29
 
 ### 3. Performing Decision Hygiene
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a decision architect
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/becoming-a-decision-architect?u=76281980)
@@ -1216,6 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -1309,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (2), [[Decision-Making]] (1), job description (1), product (1)
 > **Env Vars:** ceo (1)
 > **Versions:** 1.7 (1)
 > **Analogies:** imagine (1)
@@ -1392,7 +1392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), for, (1), finally, (1)
+> **Frameworks & Libraries:** data (3), business (2), next (2)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** switch to (1), open the (1)
 > **Cross-References:** in the next (1)
@@ -1481,8 +1481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - raj (1)
 
@@ -1545,14 +1545,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (1), this, (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - strategic (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making personal strategic decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980)
@@ -1627,10 +1627,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[LinkedIn]] (2), career (1), business (1), leadership (1)
 > **CLI Commands:** find (2), make (2)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - you (1)

@@ -35,7 +35,7 @@ tags:
   - skill/rest-apis
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Securing%20RESTful%20APIs.md)
@@ -54,33 +54,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securing Node RESTful APIs
-  - What you should know
+  - [Securing Node RESTful APIs](#securing-node-restful-apis)
+  - [What you should know](#what-you-should-know)
 - [**1. Setting Up**](#1-setting-up) (4 videos)
-  - Overview of the security threats
-  - Introduction to OWASP
-  - Introduction to JWT
-  - Introduction to Postman
+  - [Overview of the security threats](#overview-of-the-security-threats)
+  - [Introduction to OWASP](#introduction-to-owasp)
+  - [Introduction to JWT](#introduction-to-jwt)
+  - [Introduction to Postman](#introduction-to-postman)
 - [**2. Setting Up the Node API**](#2-setting-up-the-node-api) (4 videos)
-  - Base project template intro
-  - Finalize the setup for the project
-  - Create the user model
-  - Add bcrypt password hashing
+  - [Base project template intro](#base-project-template-intro)
+  - [Finalize the setup for the project](#finalize-the-setup-for-the-project)
+  - [Create the user model](#create-the-user-model)
+  - [Add bcrypt password hashing](#add-bcrypt-password-hashing)
 - [**3. Securing the Node API**](#3-securing-the-node-api) (6 videos)
-  - Add the handlers for loginRequired
-  - Add the handlers for registration
-  - Add the handlers for login
-  - Finalize secured endpoints
-  - Add JWT setup into index
-  - Test the API with Postman
+  - [Add the handlers for loginRequired](#add-the-handlers-for-loginrequired)
+  - [Add the handlers for registration](#add-the-handlers-for-registration)
+  - [Add the handlers for login](#add-the-handlers-for-login)
+  - [Finalize secured endpoints](#finalize-secured-endpoints)
+  - [Add JWT setup into index](#add-jwt-setup-into-index)
+  - [Test the API with Postman](#test-the-api-with-postman)
 - [**4. Other Options**](#4-other-options) (1 videos)
-  - Alternatives for securing APIs
+  - [Alternatives for securing APIs](#alternatives-for-securing-apis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Explore and build your skills
+  - [Explore and build your skills](#explore-and-build-your-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing Node RESTful APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980)
@@ -107,8 +107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), application (2), node (2), data (1), web application (1)
 > **CLI Commands:** node (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** owasp (1), api (1)
 > **Speakers:** - [emmanuel] (1)
 
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[npm]] (1), next (1), [[JavaScript]] (1)
 > **CLI Commands:** node (2), npm (1)
 > **Tools:** vs code (1), terminal (1)
 > **Definitions:** is an  (1)
@@ -135,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the security threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980)
@@ -178,10 +179,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[OWASP]] (2), web (1), [[Security]] (1), [[Tokens]] (1)
 > **Env Vars:** xml (3), owasp (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - there (1)
 
 #### Introduction to OWASP
@@ -221,10 +222,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[OWASP]] (4), web application (1), [[Slack]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** owasp (3)
 > **UI Navigation:** go to (2), click on (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Tools:** slack (1)
@@ -271,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), web (2), [[Metadata]] (1), data (1)
 > **Env Vars:** jwt (4), json (2)
-> **Code Keywords:** finally, (1), let (1)
 > **URLs:** [jwt.io](https://jwt.io) (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -325,9 +326,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), data (2), [[Linux]] (2), api (1), [[Windows]] (1)
 > **CLI Commands:** make (4), node (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** delete (1), this. (1), from, (1)
 > **Env Vars:** api (1), url (1), crm (1)
 > **UI Navigation:** go to (1), select the (1), click on (1)
 > **Exercise Files:** download the (2)
@@ -337,7 +338,7 @@ created: 2026-04-29
 
 ### 2. Setting Up the Node API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Base project template intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980)
@@ -434,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1), switch (1), case, (1), return, (1)
+> **Frameworks & Libraries:** database (6), node (5), express (3), [[MongoDB]] (3), [[npm]] (3)
 > **Prerequisites:** install (14), you need to have (1)
 > **CLI Commands:** node (5), make (3), npm (3), mongo (1), find (1)
 > **Tools:** vs code (5), terminal (3)
@@ -546,7 +547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (1)
+> **Frameworks & Libraries:** database (8), [[JSON]] (3), node (2), [[npm]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (3), node (2), npm (2), mongo (2)
 > **Code Identifiers:** firstname (3), getcontacts (2), lastname (2), crmmodel (1)
 > **File Paths:** package.json (3), index.js (1)
@@ -616,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1)
+> **Frameworks & Libraries:** data (2), next (1), api (1), application (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Tools:** vs code (1)
@@ -684,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), pass (1), case, (1)
+> **Frameworks & Libraries:** database (2), data (1), [[npm]] (1), hit (1), [[JSON]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Prerequisites:** install (4)
 > **File Paths:** package.json (1)
@@ -696,7 +697,7 @@ created: 2026-04-29
 
 ### 3. Securing the Node API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add the handlers for loginRequired
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980)
@@ -757,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), pass (3), case, (1), this, (1)
+> **Frameworks & Libraries:** data (5), next (4), api (1), [[JSON]] (1), database (1)
 > **Env Vars:** jwt (1), api (1)
 > **Definitions:** is a  (2)
 > **File Paths:** usercontrollers.js (1)
@@ -837,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (6), let (5), this. (2), this, (1)
+> **Frameworks & Libraries:** database (5), next (1), data (1), api (1), [[JSON]] (1)
 > **Code Identifiers:** hashpassword (3), newuser (2), hashsync (1)
 > **CLI Commands:** make (1), mongo (1)
 > **Env Vars:** api (1), json (1)
@@ -921,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), if, (2), match, (2), throw (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), database (4), api (3), [[JSON]] (3), application (1)
 > **CLI Commands:** make (5), find (2)
 > **Env Vars:** api (3)
 > **Code Identifiers:** findone (1)
@@ -1012,7 +1013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (6), pass (4), this. (2)
+> **Frameworks & Libraries:** database (2)
 > **Code Identifiers:** loginrequired (6), usercontroller (2), crmroutes (1), getcontacts (1), getcontactwithid (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), click on (1)
@@ -1124,7 +1125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (5), function (3), this. (2), else, (1)
+> **Frameworks & Libraries:** next (6), [[Microsoft Word|Word]] (5), data (5), [[JSON]] (2), web (2)
 > **CLI Commands:** make (17)
 > **Env Vars:** jwt (9), json (2), restful (1)
 > **Prerequisites:** setup (5)
@@ -1226,7 +1227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (1), this. (1)
+> **Frameworks & Libraries:** api (4), data (2), database (2), [[npm]] (1), node (1)
 > **Env Vars:** api (4), post (3), jwt (3)
 > **CLI Commands:** make (4), npm (1), node (1)
 > **API Endpoints:** post  (2), get
@@ -1240,7 +1241,7 @@ created: 2026-04-29
 
 ### 4. Other Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Alternatives for securing APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980)
@@ -1279,8 +1280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Firebase]] (2), application (2), api (2), management (2)
 > **Analogies:** such as (3), similar to (1)
-> **Code Keywords:** let (1), for. (1), finally, (1)
 > **Env Vars:** api (2), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
@@ -1289,7 +1290,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore and build your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980)
@@ -1314,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (2), node (1), data (1), application (1), [[OWASP]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
 > **Env Vars:** owasp (1)

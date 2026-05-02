@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Using%20ChatGPT%20for%20Marketers%20with%20Ross%20Simmonds.md)
@@ -51,20 +51,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Marketing with ChatGPT**](#marketing-with-chatgpt) (10 videos)
-  - Introduction to ChatGPT and AI for marketers
-  - Why every prompt you write for ChatGPT needs a task
-  - Why you should give ChatGPT an exemplar for better results
-  - Why you should give ChatGPT context in your prompt
-  - Why you should always give ChatGPT a role to play
-  - How to ensure ChatGPT delivers the right tone
-  - How to use temperature in ChatGPT
-  - How to use AI correctly as a marketer
-  - How to make amazing visuals using ChatGPT
-  - The dos and don'ts of ChatGPT as a marketer
+  - [Introduction to ChatGPT and AI for marketers](#introduction-to-chatgpt-and-ai-for-marketers)
+  - [Why every prompt you write for ChatGPT needs a task](#why-every-prompt-you-write-for-chatgpt-needs-a-task)
+  - [Why you should give ChatGPT an exemplar for better results](#why-you-should-give-chatgpt-an-exemplar-for-better-results)
+  - [Why you should give ChatGPT context in your prompt](#why-you-should-give-chatgpt-context-in-your-prompt)
+  - [Why you should always give ChatGPT a role to play](#why-you-should-always-give-chatgpt-a-role-to-play)
+  - [How to ensure ChatGPT delivers the right tone](#how-to-ensure-chatgpt-delivers-the-right-tone)
+  - [How to use temperature in ChatGPT](#how-to-use-temperature-in-chatgpt)
+  - [How to use AI correctly as a marketer](#how-to-use-ai-correctly-as-a-marketer)
+  - [How to make amazing visuals using ChatGPT](#how-to-make-amazing-visuals-using-chatgpt)
+  - [The dos and don'ts of ChatGPT as a marketer](#the-dos-and-donts-of-chatgpt-as-a-marketer)
 
 ### Marketing with ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ChatGPT and AI for marketers
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980)
@@ -85,6 +85,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (2), prompt (2)
 > **Speakers:** - chatgpt (1)
 > **Non-Speech:** (cheerful music) (1)
 
@@ -115,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), prompt (1)
 > **Env Vars:** aida (1)
 > **Analogies:** just like (1)
 > **Speakers:** - as (1)
@@ -143,6 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1)
 > **Env Vars:** gpt (3)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -165,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (2), prompt (1), business (1), [[Google]] (1)
 > **Env Vars:** aka (1), seo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -199,7 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (1)
 > **Analogies:** for example (1), kind of like (1), just like (1)
 > **Speakers:** - as (1)
 
@@ -228,6 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (7)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 > **Non-Speech:** (light upbeat music) (1)
@@ -257,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), prompt (1)
 > **Versions:** 0.5 (1)
 > **Speakers:** - an (1)
 > **Non-Speech:** (light upbeat music) (1)
@@ -285,6 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[ChatGPT]] (3), [[LinkedIn]] (2), traffic (2), ai (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -308,6 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), prompt (2), ai (1), [[DALL-E]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** dall (1)
 > **Speakers:** - one (1)
@@ -344,6 +351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (1), business (1)
 > **Definitions:** is called (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (light upbeat music) (1)

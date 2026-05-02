@@ -34,7 +34,7 @@ tags:
   - skill/hadoop
   - skill/apache-spark
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Big%20Data%20Analytics%20with%20Hadoop%20and%20Apache%20Spark.md)
@@ -53,49 +53,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The combined power of Spark and Hadoop Distributed File System (HDFS)
+  - [The combined power of Spark and Hadoop Distributed File System (HDFS)](#the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs)
 - [**1. Introduction and Setup**](#1-introduction-and-setup) (4 videos)
-  - Apache Hadoop overview
-  - Apache Spark overview
-  - Integrating Spark and Hadoop
-  - Using exercise files
+  - [Apache Hadoop overview](#apache-hadoop-overview)
+  - [Apache Spark overview](#apache-spark-overview)
+  - [Integrating Spark and Hadoop](#integrating-spark-and-hadoop)
+  - [Using exercise files](#using-exercise-files)
 - [**2. HDFS Data Modeling for Analytics**](#2-hdfs-data-modeling-for-analytics) (5 videos)
-  - Storage formats
-  - Compression
-  - Partitioning
-  - Bucketing
-  - Best practices for data storage
+  - [Storage formats](#storage-formats)
+  - [Compression](#compression)
+  - [Partitioning](#partitioning)
+  - [Bucketing](#bucketing)
+  - [Best practices for data storage](#best-practices-for-data-storage)
 - [**3. Data Ingestion with Spark**](#3-data-ingestion-with-spark) (5 videos)
-  - Reading external files into Spark
-  - Writing to HDFS
-  - Parallel writes with partitioning
-  - Parallel writes with bucketing
-  - Best practices for ingestion
+  - [Reading external files into Spark](#reading-external-files-into-spark)
+  - [Writing to HDFS](#writing-to-hdfs)
+  - [Parallel writes with partitioning](#parallel-writes-with-partitioning)
+  - [Parallel writes with bucketing](#parallel-writes-with-bucketing)
+  - [Best practices for ingestion](#best-practices-for-ingestion)
 - [**4. Data Extraction with Spark**](#4-data-extraction-with-spark) (5 videos)
-  - How Spark works
-  - Reading HDFS files with schema
-  - Reading partitioned data
-  - Reading bucketed data
-  - Best practices for data extraction
+  - [How Spark works](#how-spark-works)
+  - [Reading HDFS files with schema](#reading-hdfs-files-with-schema)
+  - [Reading partitioned data](#reading-partitioned-data)
+  - [Reading bucketed data](#reading-bucketed-data)
+  - [Best practices for data extraction](#best-practices-for-data-extraction)
 - [**5. Optimizing Spark Processing**](#5-optimizing-spark-processing) (6 videos)
-  - Pushing down projections
-  - Pushing down filters
-  - Managing partitions
-  - Improving joins
-  - Storing intermediate results
-  - Best practices for data processing
+  - [Pushing down projections](#pushing-down-projections)
+  - [Pushing down filters](#pushing-down-filters)
+  - [Managing partitions](#managing-partitions)
+  - [Improving joins](#improving-joins)
+  - [Storing intermediate results](#storing-intermediate-results)
+  - [Best practices for data processing](#best-practices-for-data-processing)
 - [**6. Use Case Project**](#6-use-case-project) (5 videos)
-  - Problem definition
-  - Data loading
-  - Total score analytics
-  - Average score analytics
-  - Top student analytics
+  - [Problem definition](#problem-definition)
+  - [Data loading](#data-loading)
+  - [Total score analytics](#total-score-analytics)
+  - [Average score analytics](#average-score-analytics)
+  - [Top student analytics](#top-student-analytics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with big data analytics
+  - [Continuing on with big data analytics](#continuing-on-with-big-data-analytics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The combined power of Spark and Hadoop Distributed File System (HDFS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980)
@@ -118,14 +118,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Hadoop]] (4), [[Analytics]] (2), [[Scalability]] (1), [[PySpark]] (1), power (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction and Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apache Hadoop overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980)
@@ -166,10 +166,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Hadoop]] (5), [[Big Data]] (1), [[Hardware]] (1), [[Programming]] (1)
 > **Env Vars:** hdfs (4), aws (1)
 > **CLI Commands:** apache (3), aws (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Apache Spark overview
@@ -193,6 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Spark]] (2), data (2), [[Hadoop]] (1), [[Batch Processing]] (1), [[Real-Time]] (1)
 > **CLI Commands:** apache (2), python (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -228,6 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Hadoop]] (4), [[Big Data Analytics]] (1), parallel (1), management (1)
 > **Env Vars:** hdfs (5), yarn (1)
 > **CLI Commands:** make (1), yarn (1)
 > **Analogies:** for example (1)
@@ -316,9 +318,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PySpark]] (4), [[Python (Programming Language)|Python]] (4), [[Java]] (4), [[Hadoop]] (4), [[Windows]] (3)
 > **Prerequisites:** set up (8), install (4), setup (1)
 > **Tools:** jupyter (5), anaconda (3), command prompt (1), powershell (1)
-> **Code Keywords:** let (8)
 > **Env Vars:** htfs (2), java_home (1), pyspark_python (1), hadoop_home (1), path (1)
 > **Exercise Files:** exercise files (6), download the (1)
 > **CLI Commands:** python (4), make (1)
@@ -328,7 +330,7 @@ created: 2026-04-29
 
 ### 2. HDFS Data Modeling for Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980)
@@ -391,8 +393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Analytics]] (3), parallel (2), [[JSON]] (1), [[Databases]] (1)
 > **Env Vars:** hdfs (3), csv (2), xml (1), json (1), orc (1)
-> **Code Keywords:** require (2), self (1)
 > **Analogies:** similar to (2)
 > **Cross-References:** later in (1)
 > **Best Practices:** recommended (1)
@@ -445,9 +447,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), parallel (2), [[Big Data]] (1), [[Google]] (1), [[Analytics]] (1)
 > **Env Vars:** lzo (2), gzip (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** case. (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -499,6 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (3), [[Relational Databases]] (1), [[Hadoop]] (1), next (1)
 > **Env Vars:** hdfs (3)
 > **Analogies:** similar to (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -534,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), case. (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
@@ -569,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** hdfs (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** required to (1)
@@ -578,7 +581,7 @@ created: 2026-04-29
 
 ### 3. Data Ingestion with Spark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading external files into Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980)
@@ -617,10 +620,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** hdfs (4), csv (1)
 > **File Paths:** salesorders.csv (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** inferschema (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -665,8 +668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), parallel (1), next (1)
 > **Code Identifiers:** raw_parquet (2), rawsalesdata (1), dummy_hdfs (1)
-> **Code Keywords:** function (1), override (1), let (1)
 > **Env Vars:** csv (1), hdfs (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** specification (1)
@@ -704,9 +707,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (2), parallel (1), product (1), next (1)
 > **Code Identifiers:** partitioned_parquet (2), partitionby (1)
 > **Env Vars:** hdfs (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -744,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** data (3), product (2), [[Databases]] (2)
 > **Env Vars:** htfs (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -776,15 +779,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Hadoop]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), next (1)
 > **Env Vars:** append (1), jdbc (1), hdfs (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Data Extraction with Spark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How Spark works
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980)
@@ -849,8 +852,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), parallel (3), node (2), [[Apache Spark]] (1), [[Scalability]] (1)
 > **CLI Commands:** node (2), apache (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Reading HDFS files with schema
@@ -890,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** raw_parquet (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -936,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (3), data (3), next (1)
 > **Code Identifiers:** partition_parquet (1)
 > **Versions:** 4.3 (1)
 > **Cross-References:** later in (1)
@@ -970,8 +973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (2), [[PySpark]] (1), [[SQL]] (1), next (1)
 > **Cross-References:** in the last (1), in the next (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1006,6 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), parallel (2), [[Analytics]] (1), next (1)
 > **Env Vars:** hdfs (2), cpu (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
@@ -1015,7 +1019,7 @@ created: 2026-04-29
 
 ### 5. Optimizing Spark Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pushing down projections
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980)
@@ -1056,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** data (4), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1), product (1), [[Troubleshooting]] (1)
 > **Env Vars:** hdfs (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is called (1)
@@ -1106,8 +1110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Fetch]] (1), data (1), next (1)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1173,7 +1177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** data (6), next (3), node (1)
 > **Env Vars:** hdfs (1), rdd (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** node (1)
@@ -1223,8 +1227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Analytics]] (1), [[SQL]] (1), parallel (1), product (1)
 > **Code Identifiers:** autobroadcastjointhreshold (1), product_vendor (1), product_data (1), sales_data (1)
-> **Code Keywords:** require (1), function (1), let (1)
 > **File Paths:** spark.sql (1), product_vendor.csv (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1278,8 +1282,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Analytics]] (2), [[Google]] (2)
 > **Definitions:** is a  (2), means that (2)
-> **Code Keywords:** function (2), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Best practices for data processing
@@ -1343,7 +1347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2)
+> **Frameworks & Libraries:** data (10), [[Analytics]] (2), next (2), product (2)
 > **Definitions:** is a  (2), means that (2), is an  (1)
 > **Env Vars:** rdd (3)
 > **UI Navigation:** go to (1)
@@ -1352,7 +1356,7 @@ created: 2026-04-29
 
 ### 6. Use Case Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980)
@@ -1401,9 +1405,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), [[Apache Spark]] (1), [[Hadoop]] (1), [[Analytics]] (1)
 > **Env Vars:** hdfs (2), csv (1), gzip (1)
 > **CLI Commands:** find (2), apache (1)
-> **Code Keywords:** case. (2), finally, (1)
 > **File Paths:** student_scores.csv (1)
 > **Code Identifiers:** student_scores (1)
 > **Best Practices:** recommended (1)
@@ -1452,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** data (5), next (3), [[Analytics]] (1)
 > **Env Vars:** hdfs (1), csv (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** student_data (1)
@@ -1485,7 +1489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Analytics]] (1)
 > **Code Identifiers:** withcolumn (1)
 > **Env Vars:** hdfs (1)
 > **Cross-References:** in the next (1)
@@ -1519,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -1560,15 +1564,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (1), case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with big data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980)
@@ -1593,8 +1597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Spark]] (1), [[SQL]] (1), [[Analytics]] (1), [[Hadoop]] (1), data (1)
 > **CLI Commands:** apache (1), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [kumaran] (1)
 

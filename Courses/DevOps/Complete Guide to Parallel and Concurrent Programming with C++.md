@@ -33,7 +33,7 @@ tags:
   - skill/c
   - skill/parallel-programming
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Complete%20Guide%20to%20Parallel%20and%20Concurrent%20Programming%20with%20C%2B%2B.md)
@@ -52,90 +52,90 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn parallel programming basics
-  - What you should know
-  - Installing Cygwin and Visual Studio Code
+  - [Learn parallel programming basics](#learn-parallel-programming-basics)
+  - [What you should know](#what-you-should-know)
+  - [Installing Cygwin and Visual Studio Code](#installing-cygwin-and-visual-studio-code)
 - [**1. Parallel Computing Hardware**](#1-parallel-computing-hardware) (3 videos)
-  - Sequential vs. parallel computing
-  - Parallel computing architectures
-  - Shared versus distributed memory
+  - [Sequential vs. parallel computing](#sequential-vs-parallel-computing)
+  - [Parallel computing architectures](#parallel-computing-architectures)
+  - [Shared versus distributed memory](#shared-versus-distributed-memory)
 - [**2. Threads and Processes**](#2-threads-and-processes) (9 videos)
-  - Thread versus process
-  - Thread versus process: C++ demo
-  - Concurrent versus parallel execution
-  - Execution scheduling
-  - Execution scheduling: C++ demo
-  - Thread life cycle
-  - Thread life cycle: C++ demo
-  - Detached thread
-  - Detached thread: C++ demo
+  - [Thread versus process](#thread-versus-process)
+  - [Thread versus process: C++ demo](#thread-versus-process-c-demo)
+  - [Concurrent versus parallel execution](#concurrent-versus-parallel-execution)
+  - [Execution scheduling](#execution-scheduling)
+  - [Execution scheduling: C++ demo](#execution-scheduling-c-demo)
+  - [Thread life cycle](#thread-life-cycle)
+  - [Thread life cycle: C++ demo](#thread-life-cycle-c-demo)
+  - [Detached thread](#detached-thread)
+  - [Detached thread: C++ demo](#detached-thread-c-demo)
 - [**3. Mutual Exclusion**](#3-mutual-exclusion) (5 videos)
-  - Data race
-  - Data race: C++ demo
-  - Mutual exclusion
-  - Mutual exclusion: C++ demo
-  - Atomic objects: C++ demo
+  - [Data race](#data-race)
+  - [Data race: C++ demo](#data-race-c-demo)
+  - [Mutual exclusion](#mutual-exclusion)
+  - [Mutual exclusion: C++ demo](#mutual-exclusion-c-demo)
+  - [Atomic objects: C++ demo](#atomic-objects-c-demo)
 - [**4. Locks**](#4-locks) (6 videos)
-  - Recursive mutex
-  - Recursive mutex: C++ demo
-  - Try lock
-  - Try lock: C++ demo
-  - Shared mutex
-  - Shared mutex: C++ demo
+  - [Recursive mutex](#recursive-mutex)
+  - [Recursive mutex: C++ demo](#recursive-mutex-c-demo)
+  - [Try lock](#try-lock)
+  - [Try lock: C++ demo](#try-lock-c-demo)
+  - [Shared mutex](#shared-mutex)
+  - [Shared mutex: C++ demo](#shared-mutex-c-demo)
 - [**5. Liveness**](#5-liveness) (8 videos)
-  - Deadlock
-  - Deadlock: C++ demo
-  - Abandoned lock
-  - Abandoned lock: C++ demo
-  - Starvation
-  - Starvation: C++ demo
-  - Livelock
-  - Livelock: C++ demo
+  - [Deadlock](#deadlock)
+  - [Deadlock: C++ demo](#deadlock-c-demo)
+  - [Abandoned lock](#abandoned-lock)
+  - [Abandoned lock: C++ demo](#abandoned-lock-c-demo)
+  - [Starvation](#starvation)
+  - [Starvation: C++ demo](#starvation-c-demo)
+  - [Livelock](#livelock)
+  - [Livelock: C++ demo](#livelock-c-demo)
 - [**6. Synchronization**](#6-synchronization) (6 videos)
-  - Condition variable
-  - Condition variable: C++ demo
-  - Producer-consumer
-  - Producer-consumer: C++ demo
-  - Semaphore
-  - Semaphore: C++ demo
+  - [Condition variable](#condition-variable)
+  - [Condition variable: C++ demo](#condition-variable-c-demo)
+  - [Producer-consumer](#producer-consumer)
+  - [Producer-consumer: C++ demo](#producer-consumer-c-demo)
+  - [Semaphore](#semaphore)
+  - [Semaphore: C++ demo](#semaphore-c-demo)
 - [**7. Barriers**](#7-barriers) (5 videos)
-  - Race condition
-  - Race condition: C++ demo
-  - Barrier
-  - Barrier: C++ demo
-  - Latch: C++ demo
+  - [Race condition](#race-condition)
+  - [Race condition: C++ demo](#race-condition-c-demo)
+  - [Barrier](#barrier)
+  - [Barrier: C++ demo](#barrier-c-demo)
+  - [Latch: C++ demo](#latch-c-demo)
 - [**8. Asynchronous Tasks**](#8-asynchronous-tasks) (7 videos)
-  - Computational graph
-  - Thread pool
-  - Thread pool: C++ demo
-  - Future
-  - Future: C++ demo
-  - Divide and conquer
-  - Divide and conquer: C++ demo
+  - [Computational graph](#computational-graph)
+  - [Thread pool](#thread-pool)
+  - [Thread pool: C++ demo](#thread-pool-c-demo)
+  - [Future](#future)
+  - [Future: C++ demo](#future-c-demo)
+  - [Divide and conquer](#divide-and-conquer)
+  - [Divide and conquer: C++ demo](#divide-and-conquer-c-demo)
 - [**9. Evaluating Parallel Performance**](#9-evaluating-parallel-performance) (4 videos)
-  - Speedup, latency, and throughput
-  - Amdahl's law
-  - Measure speedup
-  - Measure speedup: C++ demo
+  - [Speedup, latency, and throughput](#speedup-latency-and-throughput)
+  - [Amdahl's law](#amdahls-law)
+  - [Measure speedup](#measure-speedup)
+  - [Measure speedup: C++ demo](#measure-speedup-c-demo)
 - [**10. Designing Parallel Programs**](#10-designing-parallel-programs) (4 videos)
-  - Partitioning
-  - Communication
-  - Agglomeration
-  - Mapping
+  - [Partitioning](#partitioning)
+  - [Communication](#communication)
+  - [Agglomeration](#agglomeration)
+  - [Mapping](#mapping)
 - [**11. Challenge Problems**](#11-challenge-problems) (7 videos)
-  - Welcome to the challenges!
-  - Challenge: Matrix multiply
-  - Solution: Matrix multiply
-  - Challenge: Merge sort
-  - Solution: Merge sort
-  - Challenge: Download images
-  - Solution: Download images
+  - [Welcome to the challenges!](#welcome-to-the-challenges)
+  - [Challenge: Matrix multiply](#challenge-matrix-multiply)
+  - [Solution: Matrix multiply](#solution-matrix-multiply)
+  - [Challenge: Merge sort](#challenge-merge-sort)
+  - [Solution: Merge sort](#solution-merge-sort)
+  - [Challenge: Download images](#challenge-download-images)
+  - [Solution: Download images](#solution-download-images)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn parallel programming basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980)
@@ -164,8 +164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Parallel Programming]] (3), concurrent (2), parallel (1), [[Hardware]] (1), [[Programming]] (1)
 > **Speakers:** - there (1), - well (1), - and (1), - these (1), - [olivia] (1)
-> **Code Keywords:** abstract (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -188,6 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), concurrent (2), parallel (1), [[Parallel Programming]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - the (1), - if (1)
 
@@ -216,11 +217,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Windows]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** gcc (2), cpp (1)
 > **Versions:** version 7 (1), 4.0 (1), 4.2.1 (1)
 > **Prerequisites:** setup (1), install (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** visual studio (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
@@ -228,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Parallel Computing Hardware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequential vs. parallel computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980)
@@ -323,9 +324,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (9), next (1), [[Programming]] (1), web (1), [[Search]] (1)
 > **Speakers:** - and (4), - let (1), - that (1), - while (1), - hold (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** finally, (2), let (1), continue (1)
 
 #### Parallel computing architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980)
@@ -416,12 +417,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), parallel (4), [[Parallel Programming]] (2), [[Hardware]] (1), concurrent (1)
 > **Env Vars:** simd (7), mimd (4), spmd (4), mpmd (3), sisd (2)
 > **Speakers:** - parallel (1), - it (1), - and (1), - yeah (1), - as (1)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** while, (1)
 
 #### Shared versus distributed memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980)
@@ -524,6 +525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), parallel (4), [[Parallel Programming]] (1), [[Hardware]] (1), [[Programming]] (1)
 > **Speakers:** - in (1), - memory (1), - right (1), - hey (1), - every (1)
 > **Env Vars:** smp (5), uma (2), numa (1)
 > **CLI Commands:** find (2), make (1)
@@ -534,7 +536,7 @@ created: 2026-04-29
 
 ### 2. Threads and Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thread versus process
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process?u=76281980)
@@ -619,8 +621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), application (2), [[Programming]] (2), next (1), parallel (1)
 > **Speakers:** - now (3), - when (1), - to (1), - we (1), - and (1)
-> **Code Keywords:** switch (2), continue (1)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1), for example (1)
 > **Cross-References:** later in (1)
@@ -712,8 +714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), prompt (2), data (2), application (1)
 > **Env Vars:** cpu (11), pid (1), posix (1)
-> **Code Keywords:** function (7), let (1), class, (1), switch (1), type, (1)
 > **Code Identifiers:** cpu_waster (5), thread_process_demo (2), get_id (1), cpu_wasting (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -820,8 +822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (14), concurrent (4), [[Hardware]] (3), [[Forms]] (1), [[Concurrent Programming]] (1)
 > **Speakers:** - and (2), - just (1), - we (1), - thanks (1), - now (1)
-> **Code Keywords:** let (1), while. (1), interface (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
@@ -893,8 +895,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Windows]] (1), [[Real-Time]] (1)
 > **Speakers:** - and (2), - threads (1), - that (1)
-> **Code Keywords:** switch (2), case, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Warnings:** keep in mind (1)
@@ -944,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), finally, (1), pass (1), switch (1)
+> **Frameworks & Libraries:** prompt (1)
 > **Code Identifiers:** vegetable_chopper (4), vegetable_count (1), execution_scheduling_demo (1)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
@@ -1024,8 +1026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **Speakers:** - ah (2), - when (1), - hello (1), - this (1), - i (1)
-> **Code Keywords:** continue (5), finally, (1), function (1), require (1), else, (1)
 > **Env Vars:** cpu (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
@@ -1095,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), continue (3), finally, (2)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** chef_olivia (2)
 > **Speakers:** - [narrator] (1)
@@ -1158,10 +1160,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Memory Management]] (1), data (1)
 > **Speakers:** - we (1), - man (1), - olivia (1), - well (1), - this (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1), default, (1)
 > **Prerequisites:** setup (1)
 
 #### Detached thread: C++ demo
@@ -1187,7 +1189,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), continue (1), delete (1)
 > **Code Identifiers:** kitchen_cleaner (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1195,7 +1196,7 @@ created: 2026-04-29
 
 ### 3. Mutual Exclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data race
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/data-race?u=76281980)
@@ -1290,8 +1291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), concurrent (3)
 > **Speakers:** - and (3), - one (1), - even (1), - oh (1), - it (1)
-> **Code Keywords:** finally, (2)
 > **CLI Commands:** make (1)
 
 #### Data race: C++ demo
@@ -1353,7 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (7), concurrent (2), prompt (1)
 > **Code Identifiers:** data_race_demo (1), garlic_count (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1441,8 +1442,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - i (3), - anytime (1), - baron (1), - hey (1), - now (1)
-> **Code Keywords:** protected (2), require (2), override (1)
 > **Definitions:** is an  (2), short for (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
@@ -1506,9 +1507,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), prompt (1)
 > **Code Identifiers:** garlic_count (6), sleep_for (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** function (2), require (1), finally, (1)
 > **Tools:** command prompt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1540,7 +1541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), function (1)
+> **Frameworks & Libraries:** data (3), parallel (1), next (1), concurrent (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** garlic_count (1)
 > **UI Navigation:** scroll down (1)
@@ -1550,7 +1551,7 @@ created: 2026-04-29
 
 ### 4. Locks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recursive mutex
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/recursive-mutex?u=76281980)
@@ -1625,7 +1626,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), case, (1), protected (1), this, (1)
 > **Speakers:** - olivia (1), - if (1), - and (1), - it (1), - oh (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1681,8 +1681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** add_garlic (7), add_potato (6), garlic_count (2), potato_count (2)
-> **Code Keywords:** function (9), let (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1747,7 +1747,6 @@ created: 2026-04-29
 >
 > **Speakers:** - when (1), - and (1), - i (1), - there (1)
 > **Cross-References:** go back to (3)
-> **Code Keywords:** continue (1), require (1)
 > **Definitions:** is a  (1)
 
 #### Try lock: C++ demo
@@ -1805,7 +1804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), delete (1)
+> **Frameworks & Libraries:** prompt (1), [[Search]] (1)
 > **Code Identifiers:** try_lock (6), items_to_add (2)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 6.5 (1)
@@ -1887,9 +1886,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Database Applications]] (1)
 > **Speakers:** - i (2), - but (2), - now (2), - we (1), - that (1)
 > **Definitions:** in other words (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
 
@@ -1950,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), function (2), protected (2)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** shared_mutex (1)
 > **Definitions:** is a  (1)
@@ -1960,7 +1959,7 @@ created: 2026-04-29
 
 ### 5. Liveness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deadlock
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980)
@@ -2047,8 +2046,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** concurrent (3), [[Banking]] (1), application (1)
 > **Speakers:** - well (2), - olivia (1), - ah (1), - and (1), - eureka (1)
-> **Code Keywords:** finally, (1), continue (1), require (1), let (1), try. (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
@@ -2135,8 +2134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[Programming]] (1), parallel (1)
 > **Code Identifiers:** scoped_lock (5), first_chopstick (3), second_chopstick (2), sushi_count (2)
-> **Code Keywords:** function (2), continue (1), break. (1), let (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cpu (2)
 > **UI Navigation:** open the (1), go to (1)
@@ -2168,7 +2167,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - now (1), - well (1), - sorry (1)
-> **Code Keywords:** let (1)
 
 #### Abandoned lock: C++ demo
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/abandoned-lock-c-plus-plus-demo?u=76281980)
@@ -2217,7 +2215,6 @@ created: 2026-04-29
 >
 > **Code Identifiers:** scoped_lock (6)
 > **CLI Commands:** make (3)
-> **Code Keywords:** function (2), delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Starvation
@@ -2265,9 +2262,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** concurrent (1)
 > **Speakers:** - it (1), - too (1), - then (1), - in (1), - and (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 
 #### Starvation: C++ demo
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/starvation-c-plus-plus-demo?u=76281980)
@@ -2306,7 +2303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), switch (1), let (1)
+> **Frameworks & Libraries:** prompt (1), web (1), management (1)
 > **CLI Commands:** make (2)
 > **Tools:** command prompt (1)
 > **Analogies:** for example (1)
@@ -2357,6 +2354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Speakers:** - our (1), - thank (1), - oh (1), - well (1), - rock (1)
 > **Definitions:** known as (1)
 > **Analogies:** similar to (1)
@@ -2418,7 +2416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), yield (3), let (2), case, (1), continue (1)
+> **Frameworks & Libraries:** prompt (1)
 > **Code Identifiers:** second_chopstick (3), try_lock (3), first_chopstick (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** cpu (1)
@@ -2429,7 +2427,7 @@ created: 2026-04-29
 
 ### 6. Synchronization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Condition variable
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/condition-variable?u=76281980)
@@ -2530,8 +2528,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2), business (1)
 > **Speakers:** - baron (1), - but (1), - mm (1), - olivia (1), - what (1)
-> **Code Keywords:** continue (2), protected (1), finally, (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** think of it as (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -2631,8 +2629,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), prompt (1)
 > **Code Identifiers:** hungry_person (9), soup_servings (5), notify_one (4), hungry_people (3), slow_cooker_lid (2)
-> **Code Keywords:** function (15), continue (3), switch (2), let (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Tools:** command prompt (1)
@@ -2731,8 +2729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), application (1)
 > **Code Identifiers:** serve_soup (5), take_soup (4), serving_line (3), condition_variable (3), soup_queue (2)
-> **Code Keywords:** function (12), let (5), class, (2), pass (1), finally, (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** fifo (1)
 > **Definitions:** is a  (1)
@@ -2826,11 +2824,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Speakers:** - lucky (2), - [instructor] (1), - hmm (1), - nice (1), - i (1)
 > **Code Identifiers:** fillcount (5), emptycount (5)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** just like (1), for example (1)
-> **Code Keywords:** continue (1)
 
 #### Semaphore: C++ demo
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/semaphore-c-plus-plus-demo?u=76281980)
@@ -2887,7 +2885,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), class. (1), class, (1)
 > **Code Identifiers:** cell_phone (4)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -2897,7 +2894,7 @@ created: 2026-04-29
 
 ### 7. Barriers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Race condition
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980)
@@ -2982,8 +2979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), concurrent (1), [[Microsoft Word|Word]] (1), next (1), [[Search]] (1)
 > **Speakers:** - that (2), - i (2), - data (1), - it (1), - well (1)
-> **Code Keywords:** override (1), let (1), this. (1)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (quirky music) (1)
 
@@ -3024,8 +3021,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** bag_of_chips (2), barron_shopper (2), olivia_shopper (2), cpu_work (1), olivia_shoppers (1)
-> **Code Keywords:** function (3), finally, (1), protected (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3091,8 +3088,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **Speakers:** - i (2), - to (1), - we (1), - sounds (1), - when (1)
-> **Code Keywords:** continue (2), break. (2), break, (1)
 > **Definitions:** is a  (1)
 
 #### Barrier: C++ demo
@@ -3150,7 +3147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), continue (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
@@ -3219,7 +3216,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), continue (4), this. (1), require (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** fist_bump (1), olivia_shopper (1)
 > **Best Practices:** always make sure (1)
@@ -3229,7 +3225,7 @@ created: 2026-04-29
 
 ### 8. Asynchronous Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computational graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980)
@@ -3308,9 +3304,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (7), node (7), next (2), [[Parallel Programming]] (1), [[Vertex]] (1)
 > **CLI Commands:** node (7), make (2)
 > **Definitions:** is a  (3), is called (1), means that (1)
-> **Code Keywords:** this, (1), abstract (1), case, (1)
 > **Env Vars:** dag (1)
 > **Versions:** 1.33 (1)
 > **Speakers:** - the (1)
@@ -3378,8 +3374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (2)
 > **Speakers:** - and (2), - after (1), - a (1), - sure (1), - hey (1)
-> **Code Keywords:** require (1), case, (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
 
@@ -3426,7 +3422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), class. (1), lambda (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** vegetable_chopper (1)
 > **Env Vars:** asio (1)
@@ -3490,7 +3486,6 @@ created: 2026-04-29
 >
 > **Speakers:** - sure (2), - launching (1), - while (1), - heyo (1), - hey (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (2)
 > **Env Vars:** iou (2)
 > **Definitions:** is a  (1), is called (1)
 > **Warnings:** note that (1)
@@ -3540,7 +3535,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (3), async (2), finally, (1)
 > **Code Identifiers:** how_many_vegetables (3)
 > **Cross-References:** previous video (1)
 > **Speakers:** - to (1)
@@ -3606,7 +3600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), continue (2), finally, (1), let (1), case. (1)
+> **Frameworks & Libraries:** parallel (5), [[Algorithms]] (4), next (1)
 > **Speakers:** - one (1), - it (1), - do (1), - sure (1), - my (1)
 
 #### Divide and conquer: C++ demo
@@ -3672,7 +3666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4), async (2), finally, (1), case. (1)
+> **Frameworks & Libraries:** parallel (3), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [narrator] (1)
@@ -3680,7 +3674,7 @@ created: 2026-04-29
 
 ### 9. Evaluating Parallel Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Speedup, latency, and throughput
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/speedup-latency-and-throughput?u=76281980)
@@ -3745,8 +3739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (8)
 > **Speakers:** - there (1), - another (1), - a (1), - now (1)
-> **Code Keywords:** case, (1), case. (1), let (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -3802,11 +3796,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (9), [[Parallel Programming]] (1)
 > **Versions:** 1.9 (1), 2.7 (1), 3.5 (1), 19.6 (1)
 > **Speakers:** - there (1), - 95 (1), - when (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Measure speedup
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup?u=76281980)
@@ -3893,9 +3887,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (8), [[Programming]] (2)
 > **Speakers:** - done (2), - amdahl (1), - i (1), - well (1), - ready (1)
 > **Versions:** 1.47 (3), 73.5 (1), 2.2 (1), 27.5 (1)
-> **Code Keywords:** let (4), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -3969,7 +3963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), finally, (1), let (1)
+> **Frameworks & Libraries:** parallel (13), [[Algorithms]] (2), next (1)
 > **Versions:** 260.2 (1), 72.7 (1), 3.58 (1), 89.47 (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
@@ -3978,7 +3972,7 @@ created: 2026-04-29
 
 ### 10. Designing Parallel Programs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980)
@@ -4047,9 +4041,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), parallel (5), functional (5), concurrent (1), next (1)
 > **Speakers:** - we (1), - or (1), - sure (1), - the (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** continue (1)
 > **Warnings:** keep in mind (1)
 
 #### Communication
@@ -4127,8 +4121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), parallel (2), next (1)
 > **Speakers:** - after (1), - hang (1), - well (1), - yeah (1), - sure (1)
-> **Code Keywords:** require (3), let (1), continue (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -4215,8 +4209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (4), data (4), [[Hardware]] (1), [[Scalability]] (1), power (1)
 > **Speakers:** - too (2), - in (1), - now (1), - when (1), - then (1)
-> **Code Keywords:** abstract (1), require (1), let (1)
 > **CLI Commands:** make (2)
 
 #### Mapping
@@ -4256,14 +4250,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** parallel (3), [[Hardware]] (3), [[Algorithms]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
 
 ### 11. Challenge Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the challenges!
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980)
@@ -4282,6 +4276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (2), next (1), [[Algorithms]] (1), concurrent (1)
 > **Speakers:** - all (1), - over (1), - keep (1)
 > **Warnings:** keep in mind (1)
 
@@ -4354,7 +4349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), this, (1), finally, (1)
+> **Frameworks & Libraries:** parallel (7), product (4), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** for example (3)
 > **Cross-References:** we covered (1), previous video (1)
@@ -4426,7 +4421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), require (1), while, (1), let (1)
+> **Frameworks & Libraries:** parallel (9), next (1)
 > **Env Vars:** cpu (3)
 > **Versions:** 2.78 (1)
 > **UI Navigation:** select the (1)
@@ -4487,7 +4482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), new, (1), finally, (1)
+> **Frameworks & Libraries:** parallel (3), next (1)
 > **Code Identifiers:** sequential_merge_sort (2), parallel_merge_sort (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4548,7 +4543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), case, (1), default, (1), case. (1), let (1)
+> **Frameworks & Libraries:** parallel (6)
 > **Code Identifiers:** merge_sort (6)
 > **CLI Commands:** find (1)
 > **Versions:** 2.28 (1)
@@ -4604,7 +4599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), pass (2)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** url (3), jpeg (1)
 > **Exercise Files:** download the (1), template (1), source code (1)
 > **Prerequisites:** install (2), setup (1)
@@ -4668,7 +4663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), finally, (1), while, (1), let (1)
+> **Frameworks & Libraries:** parallel (3), feature (1), concurrent (1), data (1)
 > **Env Vars:** cpu (5)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -4679,7 +4674,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/next-steps?u=76281980)
@@ -4706,9 +4701,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** concurrent (1), parallel (1), [[Programming]] (1)
 > **Speakers:** - you (1), - we (1), - and (1), - if (1), - or (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 
 

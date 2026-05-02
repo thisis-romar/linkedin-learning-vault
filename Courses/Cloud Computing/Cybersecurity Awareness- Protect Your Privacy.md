@@ -37,7 +37,7 @@ tags:
   - skill/privacy
   - skill/privacy-protection
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Protect%20Your%20Privacy.md)
@@ -56,30 +56,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Protect your privacy
+  - [Protect your privacy](#protect-your-privacy)
 - [**1. Privacy Is a Critical Part of Your Security**](#1-privacy-is-a-critical-part-of-your-security) (2 videos)
-  - Understanding your cybersecurity crown jewels
-  - Learn the key components of identity to keep private
+  - [Understanding your cybersecurity crown jewels](#understanding-your-cybersecurity-crown-jewels)
+  - [Learn the key components of identity to keep private](#learn-the-key-components-of-identity-to-keep-private)
 - [**2. How Bad Actors Use Your Personal Information**](#2-how-bad-actors-use-your-personal-information) (2 videos)
-  - The internet is full of your personal information
-  - All the ways your personal information is used against you
+  - [The internet is full of your personal information](#the-internet-is-full-of-your-personal-information)
+  - [All the ways your personal information is used against you](#all-the-ways-your-personal-information-is-used-against-you)
 - [**3. Reduce Your Digital Footprint**](#3-reduce-your-digital-footprint) (4 videos)
-  - Minimizing your digital footprint
-  - How to protect your email address
-  - How to protect your phone number
-  - How to protect your name
+  - [Minimizing your digital footprint](#minimizing-your-digital-footprint)
+  - [How to protect your email address](#how-to-protect-your-email-address)
+  - [How to protect your phone number](#how-to-protect-your-phone-number)
+  - [How to protect your name](#how-to-protect-your-name)
 - [**4. Prevent Accidental Leaks of Your Private Information**](#4-prevent-accidental-leaks-of-your-private-information) (2 videos)
-  - Check the privacy settings of your apps and accounts
-  - Common pitfalls with social media to avoid
+  - [Check the privacy settings of your apps and accounts](#check-the-privacy-settings-of-your-apps-and-accounts)
+  - [Common pitfalls with social media to avoid](#common-pitfalls-with-social-media-to-avoid)
 - [**5. Keep Your Device Private**](#5-keep-your-device-private) (2 videos)
-  - How your phone collects personal information
-  - Techniques to maximize your privacy on your device
+  - [How your phone collects personal information](#how-your-phone-collects-personal-information)
+  - [Techniques to maximize your privacy on your device](#techniques-to-maximize-your-privacy-on-your-device)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect your privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980)
@@ -102,14 +102,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Banking]] (1), [[Cybersecurity]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** private (1)
 > **Speakers:** - your (1)
 
 
 ### 1. Privacy Is a Critical Part of Your Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your cybersecurity crown jewels
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980)
@@ -180,8 +180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Privacy]] (2), cloud (1), [[Google Drive]] (1), management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** protected (1)
 > **Code Identifiers:** icloud (1)
 > **Env Vars:** sms (1)
 > **Definitions:** means that (1)
@@ -291,7 +291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), from, (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Databases]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (3), means that (3)
 > **CLI Commands:** find (5)
 > **Env Vars:** dna (2), swat (1)
@@ -303,7 +303,7 @@ created: 2026-04-29
 
 ### 2. How Bad Actors Use Your Personal Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The internet is full of your personal information
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980)
@@ -470,8 +470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), web (6), open-source (4), data (4), [[Google]] (4)
 > **Env Vars:** osint (12), fdny (1)
-> **Code Keywords:** public (3), this, (2), for. (2), this. (2), from. (1)
 > **Definitions:** is a  (7), is called (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
 > **CLI Commands:** find (5)
@@ -596,8 +596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Engineering]] (2), [[Generative AI]] (2), web (1), [[Google]] (1)
 > **CLI Commands:** find (8), make (1)
-> **Code Keywords:** else, (1), finally, (1), this. (1), from, (1)
 > **Definitions:** means that (2), known as (1), is a  (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** sms (1)
@@ -608,7 +608,7 @@ created: 2026-04-29
 
 ### 3. Reduce Your Digital Footprint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Minimizing your digital footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/minimizing-your-digital-footprint?u=76281980)
@@ -645,8 +645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), open-source (1), database (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** public (1), else, (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - think (1)
@@ -744,8 +744,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Outlook|Outlook]] (1), next (1)
 > **CLI Commands:** make (7), find (4)
-> **Code Keywords:** this, (2), for, (2), switch (2), delete (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** sms (1)
 > **Analogies:** for example (1)
@@ -832,10 +832,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (5), web (2), [[Engineering]] (1), next (1), [[Algorithms]] (1)
 > **Env Vars:** sms (6), sim (2), swim (1)
 > **CLI Commands:** make (4), find (3)
 > **Analogies:** just like (2), for example (1)
-> **Code Keywords:** this. (1), protected (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** set up (1)
@@ -930,8 +930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), [[Google]] (5), [[Databases]] (3), [[Privacy]] (2), database (1)
 > **CLI Commands:** find (8), make (1)
-> **Code Keywords:** continue (2), case, (2), this, (1)
 > **UI Navigation:** click on (2), navigate to (1), scroll down (1)
 > **URLs:** [whitepages.com](https://whitepages.com) (3)
 > **Definitions:** is a  (3)
@@ -942,7 +942,7 @@ created: 2026-04-29
 
 ### 4. Prevent Accidental Leaks of Your Private Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Check the privacy settings of your apps and accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980)
@@ -1213,7 +1213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), case, (7), let (4), finally, (3), for. (2)
+> **Frameworks & Libraries:** [[Privacy]] (35), [[LinkedIn]] (14), data (8), feature (2), [[Search]] (2)
 > **CLI Commands:** make (15), find (11)
 > **UI Navigation:** click on (4), go to (3), scroll down (2)
 > **Analogies:** just like (3), for example (2), picture (1), such as (1), similar to (1)
@@ -1289,8 +1289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), [[Privacy]] (1)
 > **Analogies:** picture (3), for example (1)
-> **Code Keywords:** else, (1), private (1), public (1)
 > **Warnings:** be careful (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** covid (1)
@@ -1301,7 +1301,7 @@ created: 2026-04-29
 
 ### 5. Keep Your Device Private
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How your phone collects personal information
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980)
@@ -1382,9 +1382,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Privacy]] (1), business (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gps (1), nfc (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1556,10 +1556,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (10), data (10), [[Privacy]] (9), [[Google]] (9), [[Security]] (4)
 > **UI Navigation:** scroll down (8), go to (6), click on (2)
 > **CLI Commands:** make (10), find (2)
 > **Analogies:** for example (5), just like (3), similar to (2)
-> **Code Keywords:** delete (4), let (1), else, (1), interface (1)
 > **Code Identifiers:** iphone (4), ios (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** we discussed (1)
@@ -1568,7 +1568,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980)
@@ -1595,6 +1595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Privacy]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - thank (1)
 

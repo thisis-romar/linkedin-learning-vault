@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-power-query
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Power%20Query%20for%20Beginners.md)
@@ -47,23 +47,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is Power Query in Excel?
-  - What you should know
+  - [What is Power Query in Excel?](#what-is-power-query-in-excel)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Data with Power Query**](#1-getting-data-with-power-query) (2 videos)
-  - Getting data from another file
-  - Getting data from an open workbook
+  - [Getting data from another file](#getting-data-from-another-file)
+  - [Getting data from an open workbook](#getting-data-from-an-open-workbook)
 - [**2. Cleaning and Transforming Data with Power Query**](#2-cleaning-and-transforming-data-with-power-query) (5 videos)
-  - Common cleaning tasks
-  - Filtering and sorting data
-  - Splitting columns
-  - Conditional columns
-  - Column by example
+  - [Common cleaning tasks](#common-cleaning-tasks)
+  - [Filtering and sorting data](#filtering-and-sorting-data)
+  - [Splitting columns](#splitting-columns)
+  - [Conditional columns](#conditional-columns)
+  - [Column by example](#column-by-example)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Power Query in Excel?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980)
@@ -88,7 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Power Query|Power query]] (3), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - often (1)
 
 #### What you should know
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), delete (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (1), [[Windows]] (1), [[Microsoft 365|M365]] (1), web (1)
 > **Warnings:** warning (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** m365 (1)
@@ -132,7 +132,7 @@ created: 2026-04-29
 
 ### 1. Getting Data with Power Query
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting data from another file
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980)
@@ -211,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (2), [[Zoom]] (1), [[Windows]] (1)
 > **Env Vars:** csv (8)
-> **Code Keywords:** switch (3), let (2)
 > **UI Navigation:** go to (3), double-click (1)
 > **Analogies:** for example (2)
 > **File Paths:** 01_01_salesdata.csv (1)
@@ -285,7 +285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (20), [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (4), database (1)
 > **Env Vars:** csv (2), j215 (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
@@ -295,7 +295,7 @@ created: 2026-04-29
 
 ### 2. Cleaning and Transforming Data with Power Query
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common cleaning tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980)
@@ -354,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (8), [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sku (1)
@@ -443,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), super (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -497,8 +497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (1), product (1)
 > **UI Navigation:** double-click (2), go to (1), select the (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [narrator] (1)
 
 #### Conditional columns
@@ -584,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), else. (1)
+> **Frameworks & Libraries:** product (10), [[Microsoft Power Query|Power query]] (4), data (4), [[Microsoft Products|Products]] (1), business (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -661,7 +661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (6), data (5), hit (2), product (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -671,7 +671,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980)
@@ -734,7 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), super (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Power Query|Power query]] (8), [[Microsoft Excel|Excel]] (2), ai (1), [[Pivot Tables]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** recommended (1)

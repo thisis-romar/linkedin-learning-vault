@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/zoom
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Zoom%20Essential%20Training.md)
@@ -44,48 +44,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Stay connected with Zoom meetings
+  - [Stay connected with Zoom meetings](#stay-connected-with-zoom-meetings)
 - [**1. Getting Started**](#1-getting-started) (4 videos)
-  - Access your account from the web
-  - Download the desktop app
-  - Check your video and audio settings
-  - Explore virtual backgrounds and filters
+  - [Access your account from the web](#access-your-account-from-the-web)
+  - [Download the desktop app](#download-the-desktop-app)
+  - [Check your video and audio settings](#check-your-video-and-audio-settings)
+  - [Explore virtual backgrounds and filters](#explore-virtual-backgrounds-and-filters)
 - [**2. Hosting and Attending Meetings**](#2-hosting-and-attending-meetings) (8 videos)
-  - Start a meeting
-  - Join a meeting from your Zoom account
-  - Join a meeting as a guest
-  - Options during a meeting
-  - Secure your meeting with a Waiting Room
-  - Share your screen and control screens
-  - Other sharing options
-  - Record and review meetings
+  - [Start a meeting](#start-a-meeting)
+  - [Join a meeting from your Zoom account](#join-a-meeting-from-your-zoom-account)
+  - [Join a meeting as a guest](#join-a-meeting-as-a-guest)
+  - [Options during a meeting](#options-during-a-meeting)
+  - [Secure your meeting with a Waiting Room](#secure-your-meeting-with-a-waiting-room)
+  - [Share your screen and control screens](#share-your-screen-and-control-screens)
+  - [Other sharing options](#other-sharing-options)
+  - [Record and review meetings](#record-and-review-meetings)
 - [**3. Scheduling Meetings and Co-host Options**](#3-scheduling-meetings-and-co-host-options) (2 videos)
-  - Schedule a meeting
-  - Set co-host options
+  - [Schedule a meeting](#schedule-a-meeting)
+  - [Set co-host options](#set-co-host-options)
 - [**4. Collaborating in Meetings**](#4-collaborating-in-meetings) (3 videos)
-  - Use non-verbal feedback
-  - Poll your attendees
-  - Create and use breakout rooms
+  - [Use non-verbal feedback](#use-non-verbal-feedback)
+  - [Poll your attendees](#poll-your-attendees)
+  - [Create and use breakout rooms](#create-and-use-breakout-rooms)
 - [**5. Using Zoom Chat**](#5-using-zoom-chat) (3 videos)
-  - Chat outside of meetings
-  - Add attachments
-  - Organize chats
+  - [Chat outside of meetings](#chat-outside-of-meetings)
+  - [Add attachments](#add-attachments)
+  - [Organize chats](#organize-chats)
 - [**6. Ensuring Inclusion in a Hybrid Work Environment**](#6-ensuring-inclusion-in-a-hybrid-work-environment) (3 videos)
-  - The importance of fostering inclusion
-  - Helping remote employees feel seen and heard
-  - Zoom-based icebreakers
+  - [The importance of fostering inclusion](#the-importance-of-fostering-inclusion)
+  - [Helping remote employees feel seen and heard](#helping-remote-employees-feel-seen-and-heard)
+  - [Zoom-based icebreakers](#zoom-based-icebreakers)
 - [**7. Accessibility**](#7-accessibility) (3 videos)
-  - Enable live transcriptions
-  - Multi-spotlight and multi-pinning
-  - Accessibility settings
+  - [Enable live transcriptions](#enable-live-transcriptions)
+  - [Multi-spotlight and multi-pinning](#multi-spotlight-and-multi-pinning)
+  - [Accessibility settings](#accessibility-settings)
 - [**8. Zoom on Mobile Devices**](#8-zoom-on-mobile-devices) (1 videos)
-  - Zoom meetings on mobile devices
+  - [Zoom meetings on mobile devices](#zoom-meetings-on-mobile-devices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Keep learning about Zoom
+  - [Keep learning about Zoom](#keep-learning-about-zoom)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay connected with Zoom meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980)
@@ -102,12 +102,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (7)
 > **Speakers:** - zoom (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access your account from the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980)
@@ -144,10 +145,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (11), web (1), next (1)
 > **Prerequisites:** set up (2), you'll need (1), install (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** sso (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -208,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), case, (2), let (1)
+> **Frameworks & Libraries:** [[Zoom]] (11), [[Windows]] (2), web (1), [[Android]] (1), [[Google]] (1)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** install (2), you'll need (1)
 > **CLI Commands:** make (2)
@@ -304,12 +305,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Hardware]] (1), [[Troubleshooting]] (1), next (1)
 > **CLI Commands:** make (7), find (2)
 > **UI Navigation:** select the (3)
 > **Analogies:** for example (3)
 > **Env Vars:** usb (2)
 > **Prerequisites:** you'll need (1), make sure you have (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Explore virtual backgrounds and filters
@@ -369,8 +370,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (5), business (2), feature (1), [[Microsoft Office|Office]] (1), express (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this, (1), case, (1), throw (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -381,7 +382,7 @@ created: 2026-04-29
 
 ### 2. Hosting and Attending Meetings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start a meeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980)
@@ -472,7 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), switch (3), let (2), interface (1), from. (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), next (1), teams (1), [[Slack]] (1)
 > **Speakers:** - there (1), - hi (1), - no (1), - all (1), - oh (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **CLI Commands:** find (1)
@@ -550,8 +551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (12), web (4), [[Security]] (3), [[Microsoft Outlook|Outlook]] (2), next (1)
 > **Prerequisites:** set up (6)
-> **Code Keywords:** case, (2), switch (1), let (1), protected (1)
 > **Ports:** :30 (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1)
@@ -634,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), require (1)
+> **Frameworks & Libraries:** [[Zoom]] (10), [[Microsoft Outlook|Outlook]] (1), hit (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -807,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), this, (1), private (1), raise (1)
+> **Frameworks & Libraries:** next (7), [[Zoom]] (3), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (2), hit (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1), switch to (1)
@@ -907,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (2), case, (2), continue (1)
+> **Frameworks & Libraries:** feature (4), [[Zoom]] (4), [[Security]] (2), web (2), next (1)
 > **UI Navigation:** go to (2), checkbox (2), scroll down (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for example (2)
@@ -1065,8 +1066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Word|Word]] (4), [[Zoom]] (3), [[Microsoft Excel|Excel]] (2), application (2)
 > **Speakers:** - no (3), - all (3), - that (3), - right (3), - thanks (2)
-> **Code Keywords:** switch (5), let (3), this, (2), case. (1)
 > **CLI Commands:** find (4), make (1)
 > **Cross-References:** coming up (2), as we saw (1)
 > **Warnings:** troubleshoot (2), be aware (1)
@@ -1134,8 +1135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Microsoft PowerPoint|Powerpoint]] (3), application (2), [[Windows]] (1), next (1)
 > **Code Identifiers:** iphone (4), ios (1), ipad (1)
-> **Code Keywords:** let (2), switch (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1353,8 +1354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[Zoom]] (7), next (1), application (1), feature (1)
 > **Speakers:** - [computer] (6), - and (3), - okay (3), - hello (2), - thanks (2)
-> **Code Keywords:** let (4), continue (4), type. (1), break. (1), default. (1)
 > **CLI Commands:** find (6)
 > **UI Navigation:** go to (5)
 > **Env Vars:** mp4 (2)
@@ -1364,7 +1365,7 @@ created: 2026-04-29
 
 ### 3. Scheduling Meetings and Co-host Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Schedule a meeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980)
@@ -1507,7 +1508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), default, (2), from. (2), case. (1)
+> **Frameworks & Libraries:** [[Zoom]] (8), next (5), [[Microsoft Outlook|Outlook]] (5), [[Security]] (2), [[Google]] (1)
 > **Prerequisites:** set up (6)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (2), open the (1)
@@ -1579,16 +1580,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (3), web (1), cloud (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2), scroll down (1), switch to (1)
-> **Code Keywords:** switch (3)
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 4. Collaborating in Meetings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use non-verbal feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980)
@@ -1669,9 +1670,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Word|Word]] (1), next (1), web (1), [[React.js|React]] (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (2), scroll down (1), open the (1)
-> **Code Keywords:** let (1), raise (1), require (1)
 > **Analogies:** for example (3)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
@@ -1801,7 +1802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), case. (2), let (2), continue (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), web (2), feature (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), scroll down (1), open the (1), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Exercise Files:** download the (2)
@@ -1941,7 +1942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (3), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), web (1), next (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -1950,7 +1951,7 @@ created: 2026-04-29
 
 ### 5. Using Zoom Chat
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Chat outside of meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980)
@@ -2073,7 +2074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), private (1), continue (1), for. (1), switch (1)
+> **Frameworks & Libraries:** [[Zoom]] (9), next (5), feature (2), [[Slack]] (1), [[Microsoft Teams]] (1)
 > **Analogies:** kind of like (1), for example (1), picture (1)
 > **CLI Commands:** find (2)
 > **Tools:** slack (1)
@@ -2136,8 +2137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Windows]] (2), cloud (1), web (1), [[Microsoft Word]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2190,8 +2191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Zoom]] (2), next (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** case, (2), let (1), case. (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [garrick] (1)
@@ -2199,7 +2200,7 @@ created: 2026-04-29
 
 ### 6. Ensuring Inclusion in a Hybrid Work Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of fostering inclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980)
@@ -2230,8 +2231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (7), business (1), [[Microsoft Office|Office]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (1), let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2280,8 +2281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** raise (1)
 > **Cross-References:** we covered (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -2341,8 +2342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Google]] (1), [[Search]] (1), feature (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** else. (1), this, (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -2351,7 +2352,7 @@ created: 2026-04-29
 
 ### 7. Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable live transcriptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980)
@@ -2464,7 +2465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1), switch (1), this, (1), require (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), next (3), web (1), [[Search]] (1)
 > **Speakers:** - great (2), - zoom (1), - hi (1), - so (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), open the (1)
@@ -2542,7 +2543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), if, (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), feature (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -2600,15 +2601,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Windows]] (1), application (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (1), switch (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [speaker] (1)
 
 
 ### 8. Zoom on Mobile Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Zoom meetings on mobile devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980)
@@ -2661,6 +2662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (9), [[Android]] (2), [[Microsoft Office|Office]] (1), [[Security]] (1), cloud (1)
 > **Code Identifiers:** ios (2), ipad (2), iphones (1), ipads (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -2671,7 +2673,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep learning about Zoom
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980)
@@ -2690,7 +2692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), next (1)
 > **Speakers:** - [garrick] (1)
 
 

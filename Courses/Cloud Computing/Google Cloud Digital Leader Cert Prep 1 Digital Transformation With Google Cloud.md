@@ -28,7 +28,7 @@ tags:
   - skill/digital-transformation
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep%201%20Digital%20Transformation%20With%20Google%20Cloud.md)
@@ -47,45 +47,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Executive introduction
-  - Course introduction
+  - [Executive introduction](#executive-introduction)
+  - [Course introduction](#course-introduction)
 - [**1. Why Cloud Technology Is Transforming Business**](#1-why-cloud-technology-is-transforming-business) (10 videos)
-  - Introduction
-  - Innovations, paradigm shifts, and digital transformation
-  - What is the cloud?
-  - The benefits of cloud computing
-  - Real-world examples: Why it’s critical to transform and embrace new technology
-  - Cloud eras
-  - Challenges that lead to a digital transformation
-  - Google transformation cloud
-  - The Google Cloud Adoption Framework
-  - Summary
+  - [Introduction](#introduction)
+  - [Innovations, paradigm shifts, and digital transformation](#innovations-paradigm-shifts-and-digital-transformation)
+  - [What is the cloud?](#what-is-the-cloud)
+  - [The benefits of cloud computing](#the-benefits-of-cloud-computing)
+  - [Real-world examples: Why it’s critical to transform and embrace new technology](#real-world-examples-why-its-critical-to-transform-and-embrace-new-technology)
+  - [Cloud eras](#cloud-eras)
+  - [Challenges that lead to a digital transformation](#challenges-that-lead-to-a-digital-transformation)
+  - [Google transformation cloud](#google-transformation-cloud)
+  - [The Google Cloud Adoption Framework](#the-google-cloud-adoption-framework)
+  - [Summary](#summary)
 - [**2. Fundamental Cloud Concepts**](#2-fundamental-cloud-concepts) (9 videos)
-  - Introduction
-  - Total cost of ownership (TCO)
-  - Capital expenditures (CapEx) versus operating expenses (OpEx)
-  - Private cloud, hybrid cloud, and multi-cloud strategies
-  - How a network supports digital transformation
-  - Network performance: Bandwidth and latency
-  - Google Cloud regions and zones
-  - Google’s edge network
-  - Summary
+  - [Introduction](#introduction)
+  - [Total cost of ownership (TCO)](#total-cost-of-ownership-tco)
+  - [Capital expenditures (CapEx) versus operating expenses (OpEx)](#capital-expenditures-capex-versus-operating-expenses-opex)
+  - [Private cloud, hybrid cloud, and multi-cloud strategies](#private-cloud-hybrid-cloud-and-multi-cloud-strategies)
+  - [How a network supports digital transformation](#how-a-network-supports-digital-transformation)
+  - [Network performance: Bandwidth and latency](#network-performance-bandwidth-and-latency)
+  - [Google Cloud regions and zones](#google-cloud-regions-and-zones)
+  - [Google’s edge network](#googles-edge-network)
+  - [Summary](#summary)
 - [**3. Cloud Computing Models and Shared Responsibility**](#3-cloud-computing-models-and-shared-responsibility) (9 videos)
-  - Introduction to cloud computing models and shared responsibility
-  - Cloud computing service models
-  - IaaS (infrastructure as a service)
-  - PaaS (platform as a service)
-  - SaaS (software as a service)
-  - Choosing a cloud computing model
-  - The shared responsibility model
-  - How the shared responsibility model works
-  - Summary
+  - [Introduction to cloud computing models and shared responsibility](#introduction-to-cloud-computing-models-and-shared-responsibility)
+  - [Cloud computing service models](#cloud-computing-service-models)
+  - [IaaS (infrastructure as a service)](#iaas-infrastructure-as-a-service)
+  - [PaaS (platform as a service)](#paas-platform-as-a-service)
+  - [SaaS (software as a service)](#saas-software-as-a-service)
+  - [Choosing a cloud computing model](#choosing-a-cloud-computing-model)
+  - [The shared responsibility model](#the-shared-responsibility-model)
+  - [How the shared responsibility model works](#how-the-shared-responsibility-model-works)
+  - [Summary](#summary)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course summary
+  - [Course summary](#course-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Executive introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/executive-introduction?u=76281980)
@@ -130,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[Microsoft Products|Products]] (2), business (1), [[Google]] (1), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 
@@ -176,13 +176,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), pass (1), let (1)
+> **Frameworks & Libraries:** cloud (11), [[Digital Transformation]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[IaaS]] (1), [[IaaS|Infrastructure as a service]] (1)
 > **Analogies:** for example (1)
 
 
 ### 1. Why Cloud Technology Is Transforming Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction-22233541?u=76281980)
@@ -199,7 +199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), let (1)
+> **Frameworks & Libraries:** cloud (8), [[Digital Transformation]] (3), [[Hybrid Cloud]] (1)
 
 #### Innovations, paradigm shifts, and digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/innovations-paradigm-shifts-and-digital-transformation?u=76281980)
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (7), cloud (5), business (4), ai (3), data (2)
 > **Env Vars:** idc (2)
 > **Analogies:** such as (1)
 
@@ -369,7 +369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (14), private (11), require (3), self (1), let (1)
+> **Frameworks & Libraries:** cloud (36), data (6), [[Hybrid Cloud]] (3), [[Hardware]] (2), power (2)
 > **Definitions:** is a  (2), known as (2), refers to (1)
 > **Analogies:** such as (1), think of it like (1)
 > **Prerequisites:** configure (1)
@@ -411,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** cloud (7), business (2), [[Security]] (2), data (2), [[Agile Development|Agile]] (1)
 
 #### Real-world examples: Why it’s critical to transform and embrace new technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/real-world-examples-why-it-s-critical-to-transform-and-embrace-new-technology?u=76281980)
@@ -482,8 +482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), cloud (3), next (2), cd (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (1), switch (1), continue (1)
 > **CLI Commands:** cd (2)
 > **Env Vars:** rom (1)
 > **Cross-References:** later in (1)
@@ -539,6 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (14), [[Digital Transformation]] (2), data (2), business (2), [[Hardware]] (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1)
 > **Analogies:** such as (1)
 
@@ -587,8 +588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (3), [[Digital Transformation]] (3), [[Security]] (2), [[Google]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** new, (1), finally, (1)
 
 #### Google transformation cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/google-transformation-cloud-25336233?u=76281980)
@@ -687,8 +688,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (21), data (19), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Google]] (5), ai (4)
 > **Env Vars:** ups (1), http (1), xml (1), covid (1), idc (1)
-> **Code Keywords:** let (2), finally, (2), public (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 26.5 (1), 10.5 (1)
 > **Definitions:** is a  (1), refers to (1)
@@ -733,6 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Forms]] (1), business (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 
@@ -755,12 +757,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (5), business (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Digital Transformation]] (1), next (1)
 
 
 ### 2. Fundamental Cloud Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction?u=76281980)
@@ -839,8 +841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), [[Google Cloud Platform (GCP)|Google cloud]] (5), business (4), data (4), management (2)
 > **Env Vars:** hsbc (5)
-> **Code Keywords:** let (3), private (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 
@@ -871,8 +873,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (2), [[Hardware]] (1), power (1)
 > **Env Vars:** tco (3)
-> **Code Keywords:** static (1), finally, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -937,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), public (1), require (1)
+> **Frameworks & Libraries:** cloud (10), business (4), next (4), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Warnings:** troubleshoot (1)
@@ -1018,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), private (8), let (3), self (1), finally, (1)
+> **Frameworks & Libraries:** cloud (24), data (5), [[Hybrid Cloud]] (4), business (4), [[Google Cloud Platform (GCP)|Google cloud]] (3)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1), is an  (1)
 
@@ -1111,9 +1113,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Google]] (6), dns (4), traffic (3), web (3)
 > **URLs:** [google.com](https://google.com) (2), [example.com](https://example.com) (1), [youtube.com](https://youtube.com) (1)
 > **Env Vars:** dns (4)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Versions:** 198.102.434 (1)
@@ -1179,8 +1181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), cloud (1), application (1)
 > **Analogies:** picture (1), such as (1), for example (1), imagine (1)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** is a  (1)
 
 #### Google Cloud regions and zones
@@ -1220,6 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Google]] (2), cloud (2), data (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1254,8 +1257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), traffic (5), [[Microsoft Products|Products]] (1), [[Search]] (1), web (1)
 > **Best Practices:** recommended (1), best practice (1)
-> **Code Keywords:** private (1)
 > **Definitions:** defined as (1)
 
 #### Summary
@@ -1279,13 +1282,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1), private (1), finally, (1)
+> **Frameworks & Libraries:** cloud (4), business (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[User Experience (UX)|User experience]] (1)
 > **Cross-References:** we covered (1)
 
 
 ### 3. Cloud Computing Models and Shared Responsibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud computing models and shared responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction-to-cloud-computing-models-and-shared-responsibility?u=76281980)
@@ -1306,6 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[IaaS]] (3), [[PaaS]] (3), [[SaaS]] (3), business (2)
 > **CLI Commands:** make (1)
 
 #### Cloud computing service models
@@ -1389,8 +1393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), [[IaaS]] (4), [[PaaS]] (4), [[SaaS]] (4), business (3)
 > **Definitions:** refers to (1), is a  (1), is an  (1), means that (1), is called (1)
-> **Code Keywords:** self (1), require (1), let (1)
 > **Analogies:** such as (2)
 > **Cross-References:** coming up (1)
 
@@ -1461,7 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), require (1)
+> **Frameworks & Libraries:** [[IaaS]] (15), cloud (6), data (5), business (4), [[Hardware]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
@@ -1506,6 +1510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PaaS]] (10), cloud (4), management (4), data (2), [[PaaS|Platform as a service]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
 
@@ -1556,10 +1561,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SaaS]] (9), cloud (6), [[Google]] (4), application (2), product (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (2)
-> **Code Keywords:** require (1)
 
 #### Choosing a cloud computing model
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/choosing-a-cloud-computing-model?u=76281980)
@@ -1606,7 +1611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case, (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** management (8), cloud (3), business (3), [[IaaS]] (2), [[SaaS]] (2)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** crm (1)
 > **Definitions:** is a  (1)
@@ -1642,6 +1647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), [[Security]] (10), data (4), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Definitions:** is called (1), is a  (1)
 
 #### How the shared responsibility model works
@@ -1699,8 +1705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), data (9), cloud (7), [[Google Cloud Platform (GCP)|Google cloud]] (5), application (2)
 > **Analogies:** such as (5)
-> **Code Keywords:** let (2), for. (2)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** configure (1), required to (1)
 
@@ -1727,13 +1733,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** cloud (5), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[IaaS]] (1), [[IaaS|Infrastructure as a service]] (1), [[PaaS]] (1)
 > **CLI Commands:** make (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/course-summary?u=76281980)
@@ -1752,7 +1758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (1)
+> **Frameworks & Libraries:** cloud (14), [[Digital Transformation]] (6), business (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), data (4)
 
 
 ## Skills Covered

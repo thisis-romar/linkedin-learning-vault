@@ -30,7 +30,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Openai%20Api%20Introduction.md)
@@ -49,13 +49,13 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building AI-powered apps with the OpenAI API
+  - [Building AI-powered apps with the OpenAI API](#building-ai-powered-apps-with-the-openai-api)
 - [**1. Using the OpenAI API**](#1-using-the-openai-api) (1 videos)
-  - Five steps to using the OpenAI API
+  - [Five steps to using the OpenAI API](#five-steps-to-using-the-openai-api)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI-powered apps with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction/building-ai-powered-apps-with-the-openai-api?u=76281980)
@@ -72,14 +72,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (1), [[OpenAI API]] (1), power (1)
 > **Env Vars:** api (1)
 > **Speakers:** - give (1)
 
 
 ### 1. Using the OpenAI API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Five steps to using the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction/5-steps-to-using-the-openai-api?u=76281980)
@@ -182,9 +182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (17), [[OpenAI API]] (11), ai (7), [[Python (Programming Language)|Python]] (5), application (5)
 > **Env Vars:** api (28), json (1), http (1), rest (1), npx (1)
 > **CLI Commands:** python (5), make (4), node (4), find (1), curl (1)
-> **Code Keywords:** for. (1), delete (1), throw (1), finally, (1), pass (1)
 > **URLs:** [openai.com](https://openai.com) (5)
 > **Prerequisites:** set up (4), setup (1)
 > **File Paths:** node.js (3)

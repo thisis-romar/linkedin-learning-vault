@@ -34,7 +34,7 @@ tags:
   - skill/continuous-delivery-cd
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Continuous%20Delivery%20for%20Cloud%20Native%20Java%20Apps.md)
@@ -53,66 +53,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Delivering modern Java applications
-  - What you should know
-  - Lab setup
+  - [Delivering modern Java applications](#delivering-modern-java-applications)
+  - [What you should know](#what-you-should-know)
+  - [Lab setup](#lab-setup)
 - [**1. Foundations of Continuous Delivery**](#1-foundations-of-continuous-delivery) (5 videos)
-  - What is continuous delivery?
-  - Principles of continuous delivery
-  - Continuous integration, delivery, and deployment
-  - Delivery pipelines
-  - Modern Java applications
+  - [What is continuous delivery?](#what-is-continuous-delivery)
+  - [Principles of continuous delivery](#principles-of-continuous-delivery)
+  - [Continuous integration, delivery, and deployment](#continuous-integration-delivery-and-deployment)
+  - [Delivery pipelines](#delivery-pipelines)
+  - [Modern Java applications](#modern-java-applications)
 - [**2. Developing Modern Java Apps**](#2-developing-modern-java-apps) (5 videos)
-  - Developer workflow
-  - Course project overview
-  - Local workstation setup
-  - Monorepo vs. polyrepo
-  - Creating polyrepos in GitHub
+  - [Developer workflow](#developer-workflow)
+  - [Course project overview](#course-project-overview)
+  - [Local workstation setup](#local-workstation-setup)
+  - [Monorepo vs. polyrepo](#monorepo-vs-polyrepo)
+  - [Creating polyrepos in GitHub](#creating-polyrepos-in-github)
 - [**3. Building Applications with Gradle**](#3-building-applications-with-gradle) (8 videos)
-  - Build tools
-  - Getting started with Gradle
-  - Gradle build structure
-  - Gradle Wrapper
-  - Gradle tasks and plug-ins
-  - Gradle task graph
-  - Managing dependencies with Gradle
-  - Building Spring Boot applications with Gradle
+  - [Build tools](#build-tools)
+  - [Getting started with Gradle](#getting-started-with-gradle)
+  - [Gradle build structure](#gradle-build-structure)
+  - [Gradle Wrapper](#gradle-wrapper)
+  - [Gradle tasks and plug-ins](#gradle-tasks-and-plug-ins)
+  - [Gradle task graph](#gradle-task-graph)
+  - [Managing dependencies with Gradle](#managing-dependencies-with-gradle)
+  - [Building Spring Boot applications with Gradle](#building-spring-boot-applications-with-gradle)
 - [**4. Packaging Applications with Maven**](#4-packaging-applications-with-maven) (6 videos)
-  - Getting started with Maven
-  - Maven Java configuration
-  - Maven plug-ins
-  - Maven life cycle and phases
-  - Adding dependencies with Maven
-  - Building Spring Boot applications with Maven
+  - [Getting started with Maven](#getting-started-with-maven)
+  - [Maven Java configuration](#maven-java-configuration)
+  - [Maven plug-ins](#maven-plug-ins)
+  - [Maven life cycle and phases](#maven-life-cycle-and-phases)
+  - [Adding dependencies with Maven](#adding-dependencies-with-maven)
+  - [Building Spring Boot applications with Maven](#building-spring-boot-applications-with-maven)
 - [**5. Continuous Integration with Jenkins**](#5-continuous-integration-with-jenkins) (11 videos)
-  - Continuous integration overview
-  - Getting started with Jenkins
-  - Creating a Jenkins pipeline
-  - Pipeline stages
-  - Environment variables
-  - Jenkins projects
-  - Maven builds in Jenkins
-  - Containers
-  - Creating a Dockerfile
-  - Building container images in Jenkins
-  - Publishing container images to GitHub packages
+  - [Continuous integration overview](#continuous-integration-overview)
+  - [Getting started with Jenkins](#getting-started-with-jenkins)
+  - [Creating a Jenkins pipeline](#creating-a-jenkins-pipeline)
+  - [Pipeline stages](#pipeline-stages)
+  - [Environment variables](#environment-variables)
+  - [Jenkins projects](#jenkins-projects)
+  - [Maven builds in Jenkins](#maven-builds-in-jenkins)
+  - [Containers](#containers)
+  - [Creating a Dockerfile](#creating-a-dockerfile)
+  - [Building container images in Jenkins](#building-container-images-in-jenkins)
+  - [Publishing container images to GitHub packages](#publishing-container-images-to-github-packages)
 - [**6. Continuous Delivery with Argo CD**](#6-continuous-delivery-with-argo-cd) (10 videos)
-  - Continuous delivery overview
-  - Container orchestration
-  - Managing Kubernetes resources with Kustomize
-  - Creating a CD pipeline
-  - Triggering the CD pipeline
-  - Automated deployment
-  - Configuring Kubernetes security
-  - Deploying microservices with Argo CD
-  - Continuous delivery with Argo CD
-  - Continuous deployment with Argo CD
+  - [Continuous delivery overview](#continuous-delivery-overview)
+  - [Container orchestration](#container-orchestration)
+  - [Managing Kubernetes resources with Kustomize](#managing-kubernetes-resources-with-kustomize)
+  - [Creating a CD pipeline](#creating-a-cd-pipeline)
+  - [Triggering the CD pipeline](#triggering-the-cd-pipeline)
+  - [Automated deployment](#automated-deployment)
+  - [Configuring Kubernetes security](#configuring-kubernetes-security)
+  - [Deploying microservices with Argo CD](#deploying-microservices-with-argo-cd)
+  - [Continuous delivery with Argo CD](#continuous-delivery-with-argo-cd)
+  - [Continuous deployment with Argo CD](#continuous-deployment-with-argo-cd)
 - [**Course Wrap-Up**](#course-wrap-up) (1 videos)
-  - Course wrap-up
+  - [Course wrap-up](#course-wrap-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Delivering modern Java applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980)
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), cloud (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Microservices]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (1), cd (1)
 > **Speakers:** - [instructor] (1)
 
@@ -183,7 +184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Java]] (5), next (1), [[Git]] (1), [[Ubuntu]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** git (1)
 > **Env Vars:** ram (1)
@@ -286,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Ubuntu]] (1), next (1), [[Microservices]] (1)
 > **UI Navigation:** click on (2), scroll down (2), select the (2)
 > **Prerequisites:** install (3), you'll need (1), set up (1), setup (1)
 > **Exercise Files:** exercise files (3), download the (1), source code (1)
@@ -298,7 +299,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Continuous Delivery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980)
@@ -369,9 +370,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (6), teams (5), product (3), [[Automation]] (2), [[Java]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -435,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), teams (1), feature (1), [[Version Control]] (1), [[Automation]] (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [presenter] (1)
 
@@ -496,8 +497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (8), [[Continuous Integration (CI)|Continuous integration]] (5), teams (3), ci (2), [[Automation]] (2)
 > **Env Vars:** cicd (3)
-> **Code Keywords:** let (1), pass (1)
 > **Analogies:** picture (2)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [presenter] (1)
@@ -551,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** feature (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Automation]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Security]] (1)
 > **Exercise Files:** source code (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -625,14 +626,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), cloud (5), teams (4), [[Agile Development|Agile]] (3), [[DevOps]] (3)
 > **CLI Commands:** cd (2), docker (1)
-> **Code Keywords:** let (1), require (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Developing Modern Java Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developer workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980)
@@ -671,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), management (1), [[Jira]] (1), application (1), [[Gradle]] (1)
 > **Env Vars:** ide (3)
-> **Code Keywords:** let (1), this, (1)
 > **Tools:** jira (1), intellij (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -755,9 +756,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), web (8), [[Java]] (6), [[Spring Boot]] (5), api (4)
 > **Env Vars:** api (4), war (2)
 > **Definitions:** is a  (4), known as (1)
-> **Code Keywords:** default, (2), let (1)
 > **CLI Commands:** make (1), docker (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Exercise Files:** source code (1)
@@ -921,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default, (2), class, (2), import, (1), class. (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (13), application (13), hit (3), web (3), [[Java]] (3)
 > **UI Navigation:** click on (10), go to (3), navigate to (2), double-click (1), scroll down (1)
 > **Env Vars:** pom (6), ide (1), jar (1), url (1)
 > **Exercise Files:** exercise files (3), source code (1)
@@ -977,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), require (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), ci (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Security]] (1), [[Jenkins]] (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1130,8 +1131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (18), next (7), [[Microservices]] (4), [[Security]] (1), [[CLI]] (1)
 > **Tools:** github (18), command line (1)
-> **Code Keywords:** let (7), finally, (3), public (3), private (1)
 > **UI Navigation:** click on (12), select the (2)
 > **Env Vars:** ssh (7), rsa (3), gpg (1), yaml (1), cli (1)
 > **CLI Commands:** ssh (8), make (1), find (1)
@@ -1142,7 +1143,7 @@ created: 2026-04-29
 
 ### 3. Building Applications with Gradle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980)
@@ -1207,7 +1208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Gradle]] (3), [[Selenium]] (3), [[Dependency Management]] (2), next (1), [[Java]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** source code (2)
 > **Env Vars:** ide (1)
@@ -1337,7 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Gradle]] (27), [[Java]] (3), hit (3), [[Linux]] (2), next (2)
 > **Env Vars:** sdkman (6), dsl (4)
 > **Prerequisites:** install (8), set up (1)
 > **UI Navigation:** click on (3), select the (3), in the menu (1)
@@ -1405,7 +1406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1), override (1)
+> **Frameworks & Libraries:** [[Gradle]] (11), [[Java]] (3), application (3), next (1)
 > **Exercise Files:** source code (4)
 > **CLI Commands:** find (2)
 > **Env Vars:** dsl (1)
@@ -1524,7 +1525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), default, (2), from. (1), case, (1)
+> **Frameworks & Libraries:** [[Gradle]] (22), application (4), [[Windows]] (1), [[HTML]] (1)
 > **Tools:** firefox (1), terminal (1)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
@@ -1632,7 +1633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), import. (1), default, (1), case, (1)
+> **Frameworks & Libraries:** [[Gradle]] (15), application (5), [[Java]] (5), hit (2), next (1)
 > **UI Navigation:** go to (1), navigate to (1), click on (1), scroll up (1), scroll down (1)
 > **CLI Commands:** find (4)
 > **Tools:** terminal (3)
@@ -1726,7 +1727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Gradle]] (8), [[LinkedIn]] (1), next (1)
 > **Tools:** terminal (3)
 > **Definitions:** known as (1), is a  (1)
 > **File Paths:** build.gradle (1)
@@ -1816,7 +1817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), pass (1), continue (1)
+> **Frameworks & Libraries:** [[Gradle]] (6), [[JUnit]] (2), [[Java]] (1), [[Spring Framework]] (1), [[Dependency Management]] (1)
 > **UI Navigation:** scroll down (3), click on (1), switch to (1), navigate to (1), scroll up (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dsl (1)
@@ -1936,7 +1937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (3), require (1)
+> **Frameworks & Libraries:** [[Gradle]] (9), application (7), [[Java]] (4), web (3), next (3)
 > **UI Navigation:** click on (3), navigate to (1), scroll up (1)
 > **Exercise Files:** source code (2), zip file (2), exercise files (1)
 > **File Paths:** build.gradle (1)
@@ -1948,7 +1949,7 @@ created: 2026-04-29
 
 ### 4. Packaging Applications with Maven
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Maven
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980)
@@ -2067,8 +2068,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[Gradle]] (3), hit (2), next (2), [[Ubuntu]] (1)
 > **CLI Commands:** find (4), mvn (2), sudo (1), apt (1), make (1)
-> **Code Keywords:** let (7), default, (1)
 > **Prerequisites:** install (5)
 > **Tools:** terminal (2), github (1)
 > **UI Navigation:** go to (1), scroll down (1), navigate to (1)
@@ -2167,8 +2168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (12), hit (2), application (1), [[Gradle]] (1), [[Search]] (1)
 > **Versions:** java 11 (5), version 3 (3), 1.8 (2), java 1 (1), 3.5 (1)
-> **Code Keywords:** let (5), switch (4), default, (1), default. (1)
 > **UI Navigation:** click on (3), go to (2), switch to (1)
 > **Env Vars:** xml (4)
 > **CLI Commands:** make (2), apache (1)
@@ -2269,7 +2270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from, (1), pass (1), class. (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[GitHub]] (2), application (1), [[Fetch]] (1), [[OWASP]] (1)
 > **Tools:** github (2), terminal (1), command line (1), firefox (1)
 > **UI Navigation:** navigate to (1), scroll down (1), open the (1)
 > **Exercise Files:** source code (2)
@@ -2385,7 +2386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), pass (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** imagine (1), just like (1)
 > **Cross-References:** we talked about (1)
@@ -2494,7 +2495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), default, (1), class. (1), class, (1), this, (1)
+> **Frameworks & Libraries:** application (7), [[Dependency Management]] (2), [[LinkedIn]] (1), [[Spring Boot]] (1), next (1)
 > **Env Vars:** xml (4), url (1)
 > **Prerequisites:** you'll need (3), set up (1), configure (1)
 > **CLI Commands:** apache (4)
@@ -2596,7 +2597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (1)
+> **Frameworks & Libraries:** application (5), [[Spring Boot]] (3), [[Java]] (2), [[LinkedIn]] (1), web (1)
 > **Env Vars:** pom (4), jpa (1), api (1)
 > **Exercise Files:** zip file (2), exercise files (2), source code (1)
 > **CLI Commands:** find (1), git (1)
@@ -2608,7 +2609,7 @@ created: 2026-04-29
 
 ### 5. Continuous Integration with Jenkins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous integration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980)
@@ -2669,7 +2670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), pass (1), static (1)
+> **Frameworks & Libraries:** ci (6), [[Continuous Integration (CI)|Continuous integration]] (3), teams (3), [[Automation]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** find (2), git (1)
 > **Definitions:** is a  (1), known as (1)
 > **Exercise Files:** source code (1)
@@ -2782,9 +2783,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (21), [[GitHub]] (11), hit (2), next (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Tools:** github (11), terminal (1)
 > **CLI Commands:** ssh (5), docker (2), make (2), find (2)
-> **Code Keywords:** let (4), private (4), interface (1)
 > **UI Navigation:** click on (4), navigate to (1), scroll down (1), scroll up (1)
 > **Env Vars:** ssh (5), pat (1)
 > **Cross-References:** earlier in (2)
@@ -2860,9 +2861,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (20), node (4), hit (2), generic (1), next (1)
 > **CLI Commands:** node (4), make (2), docker (2), find (1)
 > **UI Navigation:** click on (5), go to (1)
-> **Code Keywords:** let (5)
 > **Env Vars:** dsl (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2927,7 +2928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** application (6), ci (3), [[Jenkins]] (1), generic (1), next (1)
 > **Code Identifiers:** withmaven (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** known as (1)
@@ -3028,7 +3029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Jenkins]] (3), application (2), [[Java]] (1), next (1)
 > **Code Identifiers:** artifactid (6), getartifactid (1)
 > **Env Vars:** pom (4), jar (3)
 > **Tools:** github (4)
@@ -3166,8 +3167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (18), [[Jenkins]] (11), application (3), [[Microservices]] (2), api (2)
 > **Tools:** github (18), terminal (1)
-> **Code Keywords:** let (10), case, (1), public (1), finally, (1)
 > **UI Navigation:** click on (9), scroll down (4)
 > **Prerequisites:** set up (3), configure (2)
 > **CLI Commands:** find (1), make (1)
@@ -3286,8 +3287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Jenkins]] (3), [[GitHub]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Java]] (1)
 > **CLI Commands:** docker (11), make (1), node (1)
-> **Code Keywords:** let (7), case, (1), pass (1), override (1)
 > **Tools:** github (2), terminal (1)
 > **UI Navigation:** scroll down (1), go to (1), scroll up (1)
 > **Prerequisites:** set up (3)
@@ -3350,8 +3351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Java]] (4), [[GitHub]] (4), next (2), ci (1)
 > **Tools:** github (4)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** make (1), docker (1)
 > **Env Vars:** jvm (1)
 > **Definitions:** known as (1)
@@ -3429,9 +3430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Java]] (3), next (2), traffic (2), hit (1)
 > **CLI Commands:** docker (11), make (2)
 > **Env Vars:** jdk (2), jar_file (2), tcp (1)
-> **Code Keywords:** new, (1), from. (1), from, (1), finally, (1)
 > **Ports:** port 8080 (2)
 > **Versions:** version 11 (1)
 > **Definitions:** is a  (1)
@@ -3515,8 +3516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (2), application (1), next (1)
 > **CLI Commands:** docker (6), make (3), find (1)
-> **Code Keywords:** let (5), pass (1), require (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [tutor] (1)
 
@@ -3601,9 +3602,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Jenkins]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), next (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** docker (6)
 > **Tools:** github (5), terminal (1)
-> **Code Keywords:** let (5)
 > **Env Vars:** url (3)
 > **Cross-References:** earlier in (2), next chapter (1)
 > **UI Navigation:** click on (2)
@@ -3613,7 +3614,7 @@ created: 2026-04-29
 
 ### 6. Continuous Delivery with Argo CD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous delivery overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980)
@@ -3674,6 +3675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (5), cd (4), next (2), [[Kubernetes]] (2), [[Argo CD]] (2)
 > **CLI Commands:** cd (6)
 > **Cross-References:** later in (1)
 > **Tools:** bash (1)
@@ -3728,10 +3730,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (7), application (3), api (3), [[Orchestration]] (2), node (2)
 > **Env Vars:** api (3), yaml (2), ctl (1)
 > **Definitions:** known as (3), is a  (1)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3832,7 +3834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Kubernetes]] (2), application (2), [[GitHub]] (1), traffic (1)
 > **CLI Commands:** find (2), make (2), cd (2)
 > **File Paths:** kustomization.yaml (4), app-ingress.yaml (1)
 > **Env Vars:** yaml (5)
@@ -3942,7 +3944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), override (1), include, (1), pass (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), ci (4), [[Jenkins]] (3), [[Microservices]] (2), next (2)
 > **Tools:** github (8), terminal (1)
 > **Env Vars:** ssh (4), url (3)
 > **CLI Commands:** ssh (4), git (2)
@@ -4062,7 +4064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), pass (2)
+> **Frameworks & Libraries:** [[GitHub]] (6), cd (4), [[Continuous Integration (CI)|Continuous integration]] (2), ci (2), [[Jenkins]] (2)
 > **CLI Commands:** cd (4), find (2), make (1)
 > **Tools:** github (6), terminal (1)
 > **UI Navigation:** open the (1), select the (1), navigate to (1)
@@ -4120,6 +4122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Argo CD]] (8), [[Kubernetes]] (5), [[Git]] (3), [[GitHub]] (1), [[Microservices]] (1)
 > **CLI Commands:** cd (8), git (3)
 > **Prerequisites:** configure (2), setup (1)
 > **Cross-References:** earlier in (1)
@@ -4196,7 +4199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Security]] (2), [[Microservices]] (1), [[Kubernetes]] (1), next (1)
 > **CLI Commands:** kubectl (4), docker (1)
 > **Tools:** github (4), terminal (1)
 > **Prerequisites:** set up (3)
@@ -4381,8 +4384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Argo CD|Argocd]] (17), application (8), [[Git]] (3), [[GitHub]] (2), hit (2)
 > **UI Navigation:** click on (9), select the (6), scroll down (5), dropdown (1)
-> **Code Keywords:** let (15), private (3), self (1), continue (1)
 > **Env Vars:** ssh (4), url (4)
 > **CLI Commands:** ssh (4), git (3)
 > **Cross-References:** go back to (6), earlier in (1)
@@ -4485,7 +4488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11)
+> **Frameworks & Libraries:** [[Argo CD]] (6), application (5), web (4), [[GitHub]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3)
 > **CLI Commands:** cd (6), make (2), find (1)
 > **UI Navigation:** click on (3), scroll down (2), open the (1)
 > **Tools:** github (4), terminal (1)
@@ -4625,7 +4628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (3), from. (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), application (3), [[Jenkins]] (3), [[Git]] (2), [[HTML]] (2)
 > **CLI Commands:** make (3), git (2), cd (1)
 > **Tools:** github (4), terminal (2)
 > **File Paths:** bookings.html (2)
@@ -4636,7 +4639,7 @@ created: 2026-04-29
 
 ### Course Wrap-Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980)
@@ -4673,6 +4676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Quality Assurance]] (1), [[LinkedIn]] (1), [[Microservices]] (1)
 > **CLI Commands:** git (1)
 > **Speakers:** - [kevin] (1)
 

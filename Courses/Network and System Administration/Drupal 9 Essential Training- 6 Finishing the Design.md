@@ -27,7 +27,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%206%20Finishing%20the%20Design.md)
@@ -46,23 +46,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to the course
+  - [Introduction to the course](#introduction-to-the-course)
 - [**1. Finishing the Design**](#1-finishing-the-design) (4 videos)
-  - Finishing the design: Adding the logo
-  - Finishing the design: Updating the front page, part 1
-  - Finishing the design: Updating the front page, part 2
-  - CSS and JS Injector
+  - [Finishing the design: Adding the logo](#finishing-the-design-adding-the-logo)
+  - [Finishing the design: Updating the front page, part 1](#finishing-the-design-updating-the-front-page-part-1)
+  - [Finishing the design: Updating the front page, part 2](#finishing-the-design-updating-the-front-page-part-2)
+  - [CSS and JS Injector](#css-and-js-injector)
 - [**2. Site Management**](#2-site-management) (2 videos)
-  - How to update Drupal
-  - How to synchronize between servers
+  - [How to update Drupal](#how-to-update-drupal)
+  - [How to synchronize between servers](#how-to-synchronize-between-servers)
 - [**3. Bonus**](#3-bonus) (3 videos)
-  - Bonus: Creating a digital asset management system, part 1
-  - Bonus: Creating a digital asset management system, part 2
-  - Final thoughts
+  - [Bonus: Creating a digital asset management system, part 1](#bonus-creating-a-digital-asset-management-system-part-1)
+  - [Bonus: Creating a digital asset management system, part 2](#bonus-creating-a-digital-asset-management-system-part-2)
+  - [Final thoughts](#final-thoughts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/introduction-to-the-course?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (1)
+> **Frameworks & Libraries:** [[Drupal]] (3), css (2), next (1), management (1)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - hi (1)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Finishing the Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finishing the design: Adding the logo
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980)
@@ -228,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (1)
+> **Frameworks & Libraries:** [[Drupal]] (2), node (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** node (1)
 > **URLs:** [ostraining.com](https://ostraining.com) (1)
@@ -436,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (2), type, (2), delete (1), type. (1)
+> **Frameworks & Libraries:** node (6), next (4), [[Drupal]] (2)
 > **CLI Commands:** node (6), make (5), find (1)
 > **UI Navigation:** click on (8), scroll down (2)
 > **Cross-References:** go back to (4), in the next (1)
@@ -642,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (12), let (9), this, (1), static (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Drupal]] (3), [[HTML]] (2), business (1), [[Search]] (1)
 > **UI Navigation:** click on (7), scroll down (2), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2), lat (1)
@@ -746,8 +746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (12), [[Drupal]] (2), [[JavaScript]] (2), node (2), next (1)
 > **Env Vars:** css (12)
-> **Code Keywords:** let (2), module (2), pass (1), this, (1), this. (1)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Prerequisites:** install (2), set up (1), configure (1)
 > **Versions:** version 8 (1), 2.7 (1), 8.8 (1)
@@ -758,7 +758,7 @@ created: 2026-04-29
 
 ### 2. Site Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to update Drupal
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980)
@@ -883,8 +883,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (14), [[PHP]] (7), web (1), next (1), database (1)
 > **CLI Commands:** composer (7), php (7), make (2), find (1)
-> **Code Keywords:** this. (4), let (3), default, (3), case, (1), continue (1)
 > **UI Navigation:** click on (4), go to (3)
 > **File Paths:** settings.php (3), php.ini (1), update.php (1)
 > **Tools:** terminal (3), command line (1)
@@ -965,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2), export. (2), let (2), type, (1), import, (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), database (5), web (2), business (2), [[Forms]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Env Vars:** yaml (2)
 > **Best Practices:** you should never (2)
@@ -977,7 +977,7 @@ created: 2026-04-29
 
 ### 3. Bonus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bonus: Creating a digital asset management system, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-1?u=76281980)
@@ -1096,7 +1096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (2), type, (1)
+> **Frameworks & Libraries:** management (3), [[Drupal]] (2), business (2), next (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** checkbox (2), click on (2), go to (1)
 > **Versions:** 8.5 (1)
@@ -1218,7 +1218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (2)
+> **Frameworks & Libraries:** management (4), [[Drupal]] (1), [[Search]] (1), next (1)
 > **UI Navigation:** click on (2), scroll down (1), dropdown (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1318,7 +1318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (1), try. (1), type. (1)
+> **Frameworks & Libraries:** [[Drupal]] (6), management (4), [[Content Management Systems (CMS)|Content management systems]] (1), web (1), node (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Cross-References:** we talked about (3)
 > **Definitions:** is a  (2)

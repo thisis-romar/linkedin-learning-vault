@@ -28,7 +28,7 @@ tags:
   - skill/content-management-systems-cms
   - skill/laravel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Winter%20CMS%20with%20Laravel.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - How to turn a static website into a content-managed one
-  - What you should know
-  - Course project: The sample website
-  - Access the course files
-  - Local development configurations
+  - [How to turn a static website into a content-managed one](#how-to-turn-a-static-website-into-a-content-managed-one)
+  - [What you should know](#what-you-should-know)
+  - [Course project: The sample website](#course-project-the-sample-website)
+  - [Access the course files](#access-the-course-files)
+  - [Local development configurations](#local-development-configurations)
 - [**1. Introduction to Winter CMS**](#1-introduction-to-winter-cms) (3 videos)
-  - Winter CMS overview and installation
-  - Admin section overview: Dashboard, media, and settings pages
-  - The CMS page
+  - [Winter CMS overview and installation](#winter-cms-overview-and-installation)
+  - [Admin section overview: Dashboard, media, and settings pages](#admin-section-overview-dashboard-media-and-settings-pages)
+  - [The CMS page](#the-cms-page)
 - [**2. Moving to Winter**](#2-moving-to-winter) (6 videos)
-  - Exploring the default theme and creating your own
-  - Moving your website to Winter
-  - Extracting the layout
-  - Home and error pages
-  - Turning the main sections modular with partials
-  - Extracting text into content
+  - [Exploring the default theme and creating your own](#exploring-the-default-theme-and-creating-your-own)
+  - [Moving your website to Winter](#moving-your-website-to-winter)
+  - [Extracting the layout](#extracting-the-layout)
+  - [Home and error pages](#home-and-error-pages)
+  - [Turning the main sections modular with partials](#turning-the-main-sections-modular-with-partials)
+  - [Extracting text into content](#extracting-text-into-content)
 - [**3. Using Winter Features**](#3-using-winter-features) (5 videos)
-  - Using a plug-in to set the navbar
-  - Winter asset compilation
-  - Winter theme variables and asset customization
-  - Challenge: Customizing the 404 page
-  - Solution: Customizing the 404 page
+  - [Using a plug-in to set the navbar](#using-a-plug-in-to-set-the-navbar)
+  - [Winter asset compilation](#winter-asset-compilation)
+  - [Winter theme variables and asset customization](#winter-theme-variables-and-asset-customization)
+  - [Challenge: Customizing the 404 page](#challenge-customizing-the-404-page)
+  - [Solution: Customizing the 404 page](#solution-customizing-the-404-page)
 - [**4. Winter Plug-Ins and Prepping for Production**](#4-winter-plug-ins-and-prepping-for-production) (4 videos)
-  - Magic Forms plug-in
-  - Clear cache widget
-  - Google Analytics plug-in
-  - Prepping your website for production
+  - [Magic Forms plug-in](#magic-forms-plug-in)
+  - [Clear cache widget](#clear-cache-widget)
+  - [Google Analytics plug-in](#google-analytics-plug-in)
+  - [Prepping your website for production](#prepping-your-website-for-production)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further your knowledge and connect to the community
+  - [Further your knowledge and connect to the community](#further-your-knowledge-and-connect-to-the-community)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to turn a static website into a content-managed one
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2)
+> **Frameworks & Libraries:** cms (2), web (2), [[Laravel]] (1), [[Content Management]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cms (2)
 > **Speakers:** - [ana] (1)
 
@@ -127,8 +127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cms (3), [[Content Management]] (1), [[HTML]] (1), css (1), [[Programming]] (1)
 > **Env Vars:** cms (3), html (1), css (1)
-> **Code Keywords:** static (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -147,6 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cms (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - [instructor] (1)
 
@@ -171,12 +172,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[HTML]] (1), cms (1), web (1), [[PHP]] (1)
 > **Exercise Files:** exercise files (2), download the (1), starter files (1), zip file (1)
 > **Env Vars:** html (1), cms (1)
 > **Prerequisites:** set up (2)
 > **File Paths:** config/database.php (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** open the (1)
 > **Best Practices:** recommended (1)
 
@@ -247,8 +248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), database (3), cms (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** php (4), url (2), cms (1), xampp (1), ide (1)
-> **Code Keywords:** let (8)
 > **Prerequisites:** install (6)
 > **CLI Commands:** php (4), make (1)
 > **Versions:** version 4 (1), 8.5 (1)
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Winter CMS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Winter CMS overview and installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980)
@@ -358,7 +359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (2), continue (1)
+> **Frameworks & Libraries:** database (7), cms (6), next (4), web (2), [[Content Management]] (1)
 > **Env Vars:** cms (6), html (1), url (1)
 > **Prerequisites:** install (5), set up (1)
 > **CLI Commands:** find (3), make (1)
@@ -396,7 +397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** cms (1), next (1), [[Google]] (1), [[Analytics]] (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
@@ -495,9 +496,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (2), cms (1), [[PHP]] (1), product (1)
 > **Env Vars:** url (2), html (2), cms (1), php (1), cmh (1)
 > **Exercise Files:** template (5)
-> **Code Keywords:** let (1), this. (1), if, (1), finally, (1)
 > **CLI Commands:** php (1), make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -506,7 +507,7 @@ created: 2026-04-29
 
 ### 2. Moving to Winter
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the default theme and creating your own
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980)
@@ -583,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (1), delete (1), require (1), this, (1)
+> **Frameworks & Libraries:** cms (2), hit (2), [[JSON]] (1), front-end (1)
 > **File Paths:** composer.json (1), readme.md (1), theme.yaml (1)
 > **Env Vars:** cms (2), readme (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -697,7 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (1)
+> **Frameworks & Libraries:** css (8), [[HTML]] (5), [[JavaScript]] (4), cms (3), teams (1)
 > **Env Vars:** html (5), css (5), cms (3), url (2)
 > **UI Navigation:** open the (3), go to (2), select the (1), navigate to (1)
 > **File Paths:** css/style.css (1), styles.css (1), home.html (1), prefixfree.min.js (1), myscript.js (1)
@@ -763,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (4), cms (2), application (1), next (1)
 > **Env Vars:** html (4), cms (2)
 > **Code Identifiers:** onecolumn (2)
 > **CLI Commands:** make (1)
@@ -830,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), delete (1)
+> **Frameworks & Libraries:** cms (2), seo (1), next (1), [[User Experience (UX)|User experience]] (1), [[HTML]] (1)
 > **Env Vars:** cms (2), seo (1)
 > **File Paths:** error.html (1)
 > **CLI Commands:** make (1)
@@ -970,7 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (6), function (1), pass (1), delete (1)
+> **Frameworks & Libraries:** next (3), [[Fetch]] (2), feature (1), cms (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
 > **Env Vars:** cms (1)
@@ -1050,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1)
+> **Frameworks & Libraries:** cms (2), [[HTML]] (1)
 > **Env Vars:** txt (3), cms (2), html (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1061,7 +1062,7 @@ created: 2026-04-29
 
 ### 3. Using Winter Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a plug-in to set the navbar
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980)
@@ -1180,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), this, (2)
+> **Frameworks & Libraries:** cms (3), [[Search]] (1), hit (1), next (1), [[JavaScript]] (1)
 > **UI Navigation:** go to (4), click on (4), scroll down (1), open the (1)
 > **Env Vars:** cms (3), url (1)
 > **Cross-References:** go back to (2), we discussed (1)
@@ -1258,8 +1259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), cms (3), [[JavaScript]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[PHP]] (1)
 > **Env Vars:** css (9), cms (2), ide (1), url (1)
-> **Code Keywords:** let (6)
 > **File Paths:** config/cms.php (1), config/app.css (1), bootstrap.main.css (1), style.css (1)
 > **CLI Commands:** php (1)
 > **UI Navigation:** open the (1)
@@ -1350,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (1), var (1), from. (1), finally, (1)
+> **Frameworks & Libraries:** hit (3), cms (1), css (1), front-end (1)
 > **Code Identifiers:** show_staff_section (3), menu_background (1), menu_background_color (1), our_staff_title (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Env Vars:** ide (1), cms (1), css (1)
@@ -1413,7 +1414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** rcms (1), html (1)
 > **UI Navigation:** open the (2)
@@ -1422,7 +1423,7 @@ created: 2026-04-29
 
 ### 4. Winter Plug-Ins and Prepping for Production
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Magic Forms plug-in
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980)
@@ -1555,7 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (3), override (1), case, (1), delete (1)
+> **Frameworks & Libraries:** generic (6), [[Forms]] (4), cms (2), [[AJAX]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** recaptcha (5)
 > **Env Vars:** cms (2), gdpr (1), ajax (1), html (1)
@@ -1591,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **UI Navigation:** go to (1), select the (1), click on (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** find (1), make (1)
@@ -1668,7 +1669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), private (1), finally, (1)
+> **Frameworks & Libraries:** [[Analytics]] (17), [[Google]] (14), api (5), [[Statistics]] (1), [[GitHub]] (1)
 > **Env Vars:** api (5), json (1), ssl (1), cms (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Prerequisites:** install (2), configure (1), you'll need (1)
@@ -1712,9 +1713,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[PHP]] (3), next (2), cms (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** php (3), make (1)
 > **File Paths:** config/database.php (1), config/app.php (1), config/cms.php (1)
-> **Code Keywords:** public (1), this, (1), finally, (1)
 > **Code Identifiers:** restrictbasedir (2)
 > **Env Vars:** url (1), cms (1)
 > **Best Practices:** don't forget (1)
@@ -1723,7 +1724,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further your knowledge and connect to the community
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980)
@@ -1756,9 +1757,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cms (5), next (2), [[LinkedIn]] (1)
 > **Env Vars:** cms (5)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** discord (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [ana] (1)

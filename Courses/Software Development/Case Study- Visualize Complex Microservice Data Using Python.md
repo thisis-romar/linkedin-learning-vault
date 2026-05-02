@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/microservices
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Case%20Study-%20Visualize%20Complex%20Microservice%20Data%20Using%20Python.md)
@@ -53,44 +53,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - How to make an impact in your organization as an engineer
-  - Why use Python to build automation simple tools?
-  - Using GitHub Codespaces
+  - [How to make an impact in your organization as an engineer](#how-to-make-an-impact-in-your-organization-as-an-engineer)
+  - [Why use Python to build automation simple tools?](#why-use-python-to-build-automation-simple-tools)
+  - [Using GitHub Codespaces](#using-github-codespaces)
 - [**1. Defining the Problem and Researching a Solution**](#1-defining-the-problem-and-researching-a-solution) (4 videos)
-  - What are microservices?
-  - Disadvantages of the microservice architecture
-  - How to solve for the challenges introduced by microservices
-  - How to research and find a technology that will help solve technical problems
+  - [What are microservices?](#what-are-microservices)
+  - [Disadvantages of the microservice architecture](#disadvantages-of-the-microservice-architecture)
+  - [How to solve for the challenges introduced by microservices](#how-to-solve-for-the-challenges-introduced-by-microservices)
+  - [How to research and find a technology that will help solve technical problems](#how-to-research-and-find-a-technology-that-will-help-solve-technical-problems)
 - [**2. Learning PlantUML**](#2-learning-plantuml) (4 videos)
-  - What is PlantUML?
-  - Experiment with PlantUML
-  - How can you work with PlantUML in a maintainable way?
-  - How to decide if PlantUML will work for a use case
+  - [What is PlantUML?](#what-is-plantuml)
+  - [Experiment with PlantUML](#experiment-with-plantuml)
+  - [How can you work with PlantUML in a maintainable way?](#how-can-you-work-with-plantuml-in-a-maintainable-way)
+  - [How to decide if PlantUML will work for a use case](#how-to-decide-if-plantuml-will-work-for-a-use-case)
 - [**3. Planning for the Development**](#3-planning-for-the-development) (3 videos)
-  - Create an implementation plan for the initiative
-  - How to convince your team to pursue the initiative
-  - Divide work into user stories
+  - [Create an implementation plan for the initiative](#create-an-implementation-plan-for-the-initiative)
+  - [How to convince your team to pursue the initiative](#how-to-convince-your-team-to-pursue-the-initiative)
+  - [Divide work into user stories](#divide-work-into-user-stories)
 - [**4. Building a Python Script to Convert Data into PlantUML Code**](#4-building-a-python-script-to-convert-data-into-plantuml-code) (9 videos)
-  - Establish input of the script
-  - Establish the output of the script
-  - Design implementation for script code
-  - Load JSON data from a file
-  - Iterate through JSON data and store effectively
-  - Write simple PlantUML code to a file
-  - Export PlantUML code to a PNG diagram with Python
-  - Add data to each node in the PlantUML graph
-  - Add edges to the PlantUML graph
+  - [Establish input of the script](#establish-input-of-the-script)
+  - [Establish the output of the script](#establish-the-output-of-the-script)
+  - [Design implementation for script code](#design-implementation-for-script-code)
+  - [Load JSON data from a file](#load-json-data-from-a-file)
+  - [Iterate through JSON data and store effectively](#iterate-through-json-data-and-store-effectively)
+  - [Write simple PlantUML code to a file](#write-simple-plantuml-code-to-a-file)
+  - [Export PlantUML code to a PNG diagram with Python](#export-plantuml-code-to-a-png-diagram-with-python)
+  - [Add data to each node in the PlantUML graph](#add-data-to-each-node-in-the-plantuml-graph)
+  - [Add edges to the PlantUML graph](#add-edges-to-the-plantuml-graph)
 - [**5. Going Above and Beyond**](#5-going-above-and-beyond) (4 videos)
-  - Review your code for inefficiencies and unnecessary complication
-  - Create a README
-  - Add live call to generate live graph
-  - Prepare a demo for greater organization
+  - [Review your code for inefficiencies and unnecessary complication](#review-your-code-for-inefficiencies-and-unnecessary-complication)
+  - [Create a README](#create-a-readme)
+  - [Add live call to generate live graph](#add-live-call-to-generate-live-graph)
+  - [Prepare a demo for greater organization](#prepare-a-demo-for-greater-organization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Contributing to your engineering organization
+  - [Contributing to your engineering organization](#contributing-to-your-engineering-organization)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make an impact in your organization as an engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-make-an-impact-in-your-organization-as-an-engineer?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [kathryn] (1)
 
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Automation]] (3), data (1), [[Java]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [software (1)
@@ -212,11 +213,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Python (Programming Language)|Python]] (3), [[Codespaces]] (2), cloud (1)
 > **Tools:** github (6)
 > **CLI Commands:** python (3), make (2)
 > **Exercise Files:** exercise files (2), download the (2), starter code (1)
 > **UI Navigation:** go to (3)
-> **Code Keywords:** let (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Env Vars:** ide (1)
@@ -224,7 +225,7 @@ created: 2026-04-29
 
 ### 1. Defining the Problem and Researching a Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are microservices?
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980)
@@ -283,6 +284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), teams (3), [[Microservices]] (2), feature (2), [[Software Development]] (1)
 > **Env Vars:** solid (1), oop (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
@@ -323,6 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (6), application (2), [[Security]] (1), [[Automation]] (1), management (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
@@ -402,7 +405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1)
+> **Frameworks & Libraries:** [[Microservices]] (6), data (6), [[JSON]] (2)
 > **Analogies:** picture (2), for example (1), imagine (1)
 > **Env Vars:** json (2)
 > **Cross-References:** we mentioned (1), in the last (1)
@@ -469,15 +472,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (2), data (1), [[Python (Programming Language)|Python]] (1), open-source (1), feature (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 2. Learning PlantUML
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PlantUML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-is-plantuml?u=76281980)
@@ -532,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** data (5), open-source (1)
 > **UI Navigation:** go to (2)
 > **URLs:** [plantuml.com](https://plantuml.com) (1)
 > **Env Vars:** uml (1)
@@ -620,8 +623,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), data (5), [[Microservices]] (2), management (1)
 > **CLI Commands:** node (9), find (1)
-> **Code Keywords:** let (4), this, (2)
 > **Non-Speech:** (keyboard clicking) (5)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** link_in_bio (1)
@@ -658,8 +661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (2), [[Java]] (1), [[Automation]] (1), [[Microservices]] (1)
 > **CLI Commands:** python (8), make (1)
-> **Code Keywords:** case, (2), let (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -728,8 +731,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3), [[Google]] (3), feature (1), [[Security]] (1)
 > **CLI Commands:** python (3), find (1)
-> **Code Keywords:** let (3), new, (1)
 > **Documentation:** the documentation (1), stack overflow (1)
 > **Env Vars:** faq (1)
 > **Cross-References:** go back to (1)
@@ -740,7 +743,7 @@ created: 2026-04-29
 
 ### 3. Planning for the Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an implementation plan for the initiative
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980)
@@ -801,9 +804,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (6), [[Microservices]] (3), next (2), [[Analytics]] (1)
 > **Env Vars:** uml (6), poc (2)
 > **CLI Commands:** python (6)
-> **Code Keywords:** this, (1), super (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to convince your team to pursue the initiative
@@ -855,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), case. (1)
+> **Frameworks & Libraries:** data (4), [[Microservices]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -911,6 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Agile Development|Agile]] (2), [[Python (Programming Language)|Python]] (2), [[Software Development]] (1), feature (1)
 > **Env Vars:** lil (2), poc (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** python (2)
@@ -919,7 +923,7 @@ created: 2026-04-29
 
 ### 4. Building a Python Script to Convert Data into PlantUML Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establish input of the script
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980)
@@ -994,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (2), [[Microservices]] (2), management (2)
 > **Code Identifiers:** is_manual (3), reported_by (3), is_reported (1)
-> **Code Keywords:** let (3), from. (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1071,8 +1075,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), data (7), [[Python (Programming Language)|Python]] (2), [[JSON]] (1), management (1)
 > **CLI Commands:** node (8), python (2)
-> **Code Keywords:** let (5)
 > **Definitions:** is an  (2)
 > **Env Vars:** json (1)
 > **Speakers:** - to (1)
@@ -1123,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (13), [[Microservices]] (4), [[JSON]] (2), [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** json (2), http (1)
 > **CLI Commands:** python (1), make (1)
 > **Prerequisites:** before we start (1)
@@ -1204,9 +1208,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (12), data (12), application (6), [[Python (Programming Language)|Python]] (5), management (1)
 > **Env Vars:** json (10), utf (1)
 > **CLI Commands:** python (5), make (2)
-> **Code Keywords:** let (6), module (1)
 > **File Paths:** main.py (2), profile_service_response.json (1), posts_management_service.json (1)
 > **Code Identifiers:** profile_service_response (1), profile_json (1), posts_management_service (1)
 > **UI Navigation:** open the (1)
@@ -1283,8 +1287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (8), data (8), [[Python (Programming Language)|Python]] (2), next (1), management (1)
 > **Env Vars:** json (8)
-> **Code Keywords:** let (5)
 > **CLI Commands:** python (2)
 > **File Paths:** main.py (1)
 > **URLs:** [curiousconcept.com](https://curiousconcept.com) (1)
@@ -1367,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), pass (2), require (1)
+> **Frameworks & Libraries:** node (8), data (5), [[JSON]] (1)
 > **CLI Commands:** node (8)
 > **Code Identifiers:** load_data (1), write_plantuml_file (1), post_id (1)
 > **Env Vars:** json (1), utf (1)
@@ -1449,7 +1453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), default. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), application (1)
 > **CLI Commands:** python (5), pip (2)
 > **Env Vars:** url (2)
 > **Tools:** terminal (2)
@@ -1535,9 +1539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (10), data (6), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (10), make (3), python (1)
 > **Code Identifiers:** post_caption (2), nameofnode (1), nameofattribute (1), attributevalue (1), post_id (1)
-> **Code Keywords:** let (7)
 > **File Paths:** main.py (1)
 > **Speakers:** - while (1)
 
@@ -1600,8 +1604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), data (3), [[Microservices]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (4), make (3), python (1)
-> **Code Keywords:** let (4), case, (1)
 > **File Paths:** main.py (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1609,7 +1613,7 @@ created: 2026-04-29
 
 ### 5. Going Above and Beyond
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review your code for inefficiencies and unnecessary complication
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980)
@@ -1712,7 +1716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), from. (1)
+> **Frameworks & Libraries:** data (10), [[JSON]] (2), node (1), management (1), [[Search]] (1)
 > **Code Identifiers:** profile_data (2), moderation_data (2), profile_json (1), post_json (1), moderation_json (1)
 > **CLI Commands:** make (2), node (1)
 > **Env Vars:** json (2)
@@ -1780,8 +1784,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (3), [[GitHub]] (3), next (2), data (2)
 > **CLI Commands:** python (4), pip (1)
-> **Code Keywords:** let (2), case, (1), require (1), continue (1)
 > **Versions:** version 0 (1), 3.0 (1), version 1 (1), 16.0 (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (2), stands for (1)
@@ -1900,7 +1904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (2), function (2), continue (1)
+> **Frameworks & Libraries:** data (12), api (8), [[JSON]] (5), node (3), [[Microservices]] (2)
 > **Env Vars:** api (8), json (1)
 > **File Paths:** response.json (4), requirements.txt (2), app.py (2)
 > **CLI Commands:** node (3), python (2), pip (1)
@@ -1966,8 +1970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Teams]] (1), data (1), application (1), [[Software Development]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1975,7 +1979,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Contributing to your engineering organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980)
@@ -2024,8 +2028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), data (2), [[Programming]] (2), [[LinkedIn]] (2), [[JSON]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [kathryn] (1)
 

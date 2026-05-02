@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Rust%20Essential%20Training.md)
@@ -48,136 +48,136 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Learn Rust programming
-  - What you should know
-  - What is Rust?
-  - Rust versions
+  - [Learn Rust programming](#learn-rust-programming)
+  - [What you should know](#what-you-should-know)
+  - [What is Rust?](#what-is-rust)
+  - [Rust versions](#rust-versions)
 - [**1. Write Your First Program**](#1-write-your-first-program) (5 videos)
-  - Installing Rust on Windows
-  - Installing Rust on Linux and macOS
-  - Anatomy of a Rust program
-  - Adding comments
-  - Building programs using Cargo
+  - [Installing Rust on Windows](#installing-rust-on-windows)
+  - [Installing Rust on Linux and macOS](#installing-rust-on-linux-and-macos)
+  - [Anatomy of a Rust program](#anatomy-of-a-rust-program)
+  - [Adding comments](#adding-comments)
+  - [Building programs using Cargo](#building-programs-using-cargo)
 - [**2. Primitive Data Types**](#2-primitive-data-types) (11 videos)
-  - Declaring variables
-  - Integer data types
-  - Floating-point data types
-  - Arithmetic operations
-  - Formatting print statements
-  - Bitwise operations
-  - Boolean data type and operations
-  - Comparison operations
-  - Char data types
-  - Challenge: Find the average
-  - Solution: Find the average
+  - [Declaring variables](#declaring-variables)
+  - [Integer data types](#integer-data-types)
+  - [Floating-point data types](#floating-point-data-types)
+  - [Arithmetic operations](#arithmetic-operations)
+  - [Formatting print statements](#formatting-print-statements)
+  - [Bitwise operations](#bitwise-operations)
+  - [Boolean data type and operations](#boolean-data-type-and-operations)
+  - [Comparison operations](#comparison-operations)
+  - [Char data types](#char-data-types)
+  - [Challenge: Find the average](#challenge-find-the-average)
+  - [Solution: Find the average](#solution-find-the-average)
 - [**3. Compound Data Types**](#3-compound-data-types) (3 videos)
-  - Arrays
-  - Multidimensional arrays
-  - Tuples
+  - [Arrays](#arrays)
+  - [Multidimensional arrays](#multidimensional-arrays)
+  - [Tuples](#tuples)
 - [**4. Functions**](#4-functions) (5 videos)
-  - Function parameters
-  - Statements vs. expressions
-  - Function return values
-  - Challenge: Convert temperature
-  - Solution: Convert temperature
+  - [Function parameters](#function-parameters)
+  - [Statements vs. expressions](#statements-vs-expressions)
+  - [Function return values](#function-return-values)
+  - [Challenge: Convert temperature](#challenge-convert-temperature)
+  - [Solution: Convert temperature](#solution-convert-temperature)
 - [**5. Program Flow Control**](#5-program-flow-control) (9 videos)
-  - Conditional execution
-  - Multiple conditions
-  - Conditional assignment
-  - Loops
-  - While loops
-  - For loops
-  - Nested loops
-  - Challenge: Max, min, mean
-  - Solution: Max, min, mean
+  - [Conditional execution](#conditional-execution)
+  - [Multiple conditions](#multiple-conditions)
+  - [Conditional assignment](#conditional-assignment)
+  - [Loops](#loops)
+  - [While loops](#while-loops)
+  - [For loops](#for-loops)
+  - [Nested loops](#nested-loops)
+  - [Challenge: Max, min, mean](#challenge-max-min-mean)
+  - [Solution: Max, min, mean](#solution-max-min-mean)
 - [**6. Ownership**](#6-ownership) (7 videos)
-  - Variable scope
-  - Shadowing variables
-  - Stack and heap memory
-  - String data type
-  - Ownership
-  - Moving, cloning, and copying data
-  - Transferring ownership
+  - [Variable scope](#variable-scope)
+  - [Shadowing variables](#shadowing-variables)
+  - [Stack and heap memory](#stack-and-heap-memory)
+  - [String data type](#string-data-type)
+  - [Ownership](#ownership)
+  - [Moving, cloning, and copying data](#moving-cloning-and-copying-data)
+  - [Transferring ownership](#transferring-ownership)
 - [**7. References**](#7-references) (7 videos)
-  - Borrowing references
-  - Mutable references
-  - Dangling references
-  - Slices
-  - Slices as function parameters
-  - Challenge: Trim spaces
-  - Solution: Trim spaces
+  - [Borrowing references](#borrowing-references)
+  - [Mutable references](#mutable-references)
+  - [Dangling references](#dangling-references)
+  - [Slices](#slices)
+  - [Slices as function parameters](#slices-as-function-parameters)
+  - [Challenge: Trim spaces](#challenge-trim-spaces)
+  - [Solution: Trim spaces](#solution-trim-spaces)
 - [**8. Modules**](#8-modules) (6 videos)
-  - Rust Standard Library and prelude
-  - Standard input
-  - Parse strings
-  - Crates
-  - Challenge: Higher or lower
-  - Solution: Higher or lower
+  - [Rust Standard Library and prelude](#rust-standard-library-and-prelude)
+  - [Standard input](#standard-input)
+  - [Parse strings](#parse-strings)
+  - [Crates](#crates)
+  - [Challenge: Higher or lower](#challenge-higher-or-lower)
+  - [Solution: Higher or lower](#solution-higher-or-lower)
 - [**9. Input and Output**](#9-input-and-output) (5 videos)
-  - Command-line arguments
-  - Reading from files
-  - Writing to files
-  - Challenge: Check the roster
-  - Solution: Check the roster
+  - [Command-line arguments](#command-line-arguments)
+  - [Reading from files](#reading-from-files)
+  - [Writing to files](#writing-to-files)
+  - [Challenge: Check the roster](#challenge-check-the-roster)
+  - [Solution: Check the roster](#solution-check-the-roster)
 - [**10. Structs**](#10-structs) (7 videos)
-  - Defining structs
-  - Struct update syntax
-  - Struct methods
-  - Associated functions
-  - Tuple structs
-  - Challenge: Represent shapes
-  - Solution: Represent shapes
+  - [Defining structs](#defining-structs)
+  - [Struct update syntax](#struct-update-syntax)
+  - [Struct methods](#struct-methods)
+  - [Associated functions](#associated-functions)
+  - [Tuple structs](#tuple-structs)
+  - [Challenge: Represent shapes](#challenge-represent-shapes)
+  - [Solution: Represent shapes](#solution-represent-shapes)
 - [**11. Generic Types**](#11-generic-types) (6 videos)
-  - Generic struct definitions
-  - Generic method definitions
-  - Generic function definitions
-  - Box data type
-  - Challenge: Sum boxes
-  - Solution: Sum boxes
+  - [Generic struct definitions](#generic-struct-definitions)
+  - [Generic method definitions](#generic-method-definitions)
+  - [Generic function definitions](#generic-function-definitions)
+  - [Box data type](#box-data-type)
+  - [Challenge: Sum boxes](#challenge-sum-boxes)
+  - [Solution: Sum boxes](#solution-sum-boxes)
 - [**12. Traits**](#12-traits) (8 videos)
-  - Implement traits
-  - Default trait implementation
-  - Derive traits
-  - Trait bounds
-  - Multiple trait bounds
-  - Return types with implemented traits
-  - Challenge: Implement the display trait
-  - Solution: Implement the display trait
+  - [Implement traits](#implement-traits)
+  - [Default trait implementation](#default-trait-implementation)
+  - [Derive traits](#derive-traits)
+  - [Trait bounds](#trait-bounds)
+  - [Multiple trait bounds](#multiple-trait-bounds)
+  - [Return types with implemented traits](#return-types-with-implemented-traits)
+  - [Challenge: Implement the display trait](#challenge-implement-the-display-trait)
+  - [Solution: Implement the display trait](#solution-implement-the-display-trait)
 - [**13. Lifetimes**](#13-lifetimes) (6 videos)
-  - The borrow checker
-  - Lifetime annotation syntax
-  - Multiple lifetime annotations
-  - Lifetime elision rules
-  - Struct lifetime annotations
-  - Static lifetime
+  - [The borrow checker](#the-borrow-checker)
+  - [Lifetime annotation syntax](#lifetime-annotation-syntax)
+  - [Multiple lifetime annotations](#multiple-lifetime-annotations)
+  - [Lifetime elision rules](#lifetime-elision-rules)
+  - [Struct lifetime annotations](#struct-lifetime-annotations)
+  - [Static lifetime](#static-lifetime)
 - [**14. Enums**](#14-enums) (9 videos)
-  - Define enums
-  - Match operator
-  - Match with default placeholder
-  - Enum methods
-  - Option<T> enum
-  - Matching Option<T>
-  - If-let syntax
-  - Challenge: Represent a location
-  - Solution: Represent a location
+  - [Define enums](#define-enums)
+  - [Match operator](#match-operator)
+  - [Match with default placeholder](#match-with-default-placeholder)
+  - [Enum methods](#enum-methods)
+  - [Option<T> enum](#optiont-enum)
+  - [Matching Option<T>](#matching-optiont)
+  - [If-let syntax](#if-let-syntax)
+  - [Challenge: Represent a location](#challenge-represent-a-location)
+  - [Solution: Represent a location](#solution-represent-a-location)
 - [**15. Error Handling**](#15-error-handling) (6 videos)
-  - Unrecoverable errors
-  - Result<T, E> enum
-  - Matching Result<T, E> to recover from errors
-  - Propagating errors
-  - Challenge: Handle errors
-  - Solution: Handle errors
+  - [Unrecoverable errors](#unrecoverable-errors)
+  - [Result<T, E> enum](#resultt-e-enum)
+  - [Matching Result<T, E> to recover from errors](#matching-resultt-e-to-recover-from-errors)
+  - [Propagating errors](#propagating-errors)
+  - [Challenge: Handle errors](#challenge-handle-errors)
+  - [Solution: Handle errors](#solution-handle-errors)
 - [**16. Collections**](#16-collections) (4 videos)
-  - Vectors
-  - HashMaps
-  - Challenge: Count words
-  - Solution: Count words
+  - [Vectors](#vectors)
+  - [HashMaps](#hashmaps)
+  - [Challenge: Count words](#challenge-count-words)
+  - [Solution: Count words](#solution-count-words)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go next
+  - [Where to go next](#where-to-go-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Rust programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980)
@@ -202,7 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), let (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Programming]] (2), web (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -249,6 +249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Programming]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -313,10 +314,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (27), [[Programming]] (3), data (3), [[Concurrent Programming]] (1), [[Memory Management]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (4)
 > **Analogies:** similar to (2), such as (1)
-> **Code Keywords:** let (1), default. (1)
 > **URLs:** [rustlearn.org](https://rustlearn.org) (1)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** getting started (1)
@@ -343,8 +344,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[Programming]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **URLs:** [rust-lang.org](https://rust-lang.org) (1)
 > **Versions:** version 1 (1)
 > **Definitions:** is an  (1)
@@ -354,7 +355,7 @@ created: 2026-04-29
 
 ### 1. Write Your First Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Rust on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980)
@@ -423,11 +424,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (14), [[Windows]] (3), web (2), [[Search]] (2), prompt (2)
 > **Tools:** visual studio (5), vs code (2), command line (1), command prompt (1)
 > **Prerequisites:** install (8)
 > **UI Navigation:** go to (3), switch to (1), scroll down (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** switch (3)
 > **URLs:** [rust-lang.org](https://rust-lang.org) (2), [visualstudio.com](https://visualstudio.com) (1)
 > **Exercise Files:** download the (2)
 > **Warnings:** warning (2)
@@ -457,9 +458,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Windows]] (1), [[Linux]] (1), next (1)
 > **Prerequisites:** install (3), configure (1)
 > **CLI Commands:** cargo (2), make (1)
-> **Code Keywords:** switch (1), finally, (1)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** scroll down (1), navigate to (1)
 > **Code Identifiers:** macos (1)
@@ -561,7 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), pass (2), let (1), fn (1), finally, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Programming]] (2), next (1), [[Debugging]] (1), [[Windows]] (1)
 > **Tools:** terminal (4), vs code (2)
 > **File Paths:** main.rs (4), extension.rs (1)
 > **CLI Commands:** ls (2), make (1)
@@ -631,7 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** similar to (1), for example (1)
 > **File Paths:** main.rs (1)
 > **Tools:** terminal (1)
@@ -767,19 +768,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Git]] (4), next (2), [[Debugging]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** cargo (30), git (4), cd (1)
 > **File Paths:** cargo.toml (5), main.rs (1), cargo.lock (1)
 > **Versions:** version 1 (5)
 > **Definitions:** is a  (3), stands for (1), refers to (1)
 > **Tools:** terminal (3), vs code (1)
-> **Code Keywords:** pass (1), default, (1)
 > **Exercise Files:** source code (2)
 > **Code Identifiers:** hello_world (1)
 
 
 ### 2. Primitive Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Declaring variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980)
@@ -894,7 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (2), else. (1), case. (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (13), [[Programming]] (3), data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cargo (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** known as (1)
@@ -1009,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (1), from, (1), default, (1), type. (1)
+> **Frameworks & Libraries:** data (15), [[Rust (Programming Language)|Rust]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), [[Java]] (1)
 > **CLI Commands:** make (5), cargo (1)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** for example (1)
@@ -1126,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), default, (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Rust (Programming Language)|Rust]] (5), power (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.7 (1)
@@ -1253,8 +1254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), data (6), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 3.333 (2), 3.33 (1), 3.9 (1), 4.3 (1), 3.3 (1)
-> **Code Keywords:** let (2), delete (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1372,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), feature (3), next (1)
 > **Versions:** 3.3 (2), version 1 (2), 3.333 (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1563,7 +1564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), default, (1), type. (1), type, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), data (7), [[Programming]] (5), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** xor (6)
 > **Analogies:** for example (2), such as (1), think of it like (1)
 > **Definitions:** is a  (1), stands for (1)
@@ -1639,9 +1640,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (2)
 > **Env Vars:** xor (7)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), case. (1)
 > **Analogies:** for example (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -1693,8 +1694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1743,8 +1744,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), data (4), prompt (2), [[Windows]] (1)
 > **Tools:** command prompt (2), vs code (1), terminal (1)
-> **Code Keywords:** let (2), type, (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1781,8 +1782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Rust (Programming Language)|Rust]] (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** assert (1)
 > **Versions:** 45.1 (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
@@ -1853,7 +1854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), assert (3), this, (1), function (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Env Vars:** f64 (3), f32 (2)
 > **Versions:** 45.1 (2), 45.100002 (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1865,7 +1866,7 @@ created: 2026-04-29
 
 ### 3. Compound Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/arrays?u=76281980)
@@ -1982,7 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (3), this, (1), function (1), raise (1)
+> **Frameworks & Libraries:** data (11), [[Rust (Programming Language)|Rust]] (9), [[Programming]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we covered (1)
 > **Analogies:** for example (1)
@@ -2075,7 +2076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else, (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Rust (Programming Language)|Rust]] (3), next (1)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -2159,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1)
+> **Frameworks & Libraries:** data (6), [[Rust (Programming Language)|Rust]] (1)
 > **Versions:** 3.14 (4)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
@@ -2169,7 +2170,7 @@ created: 2026-04-29
 
 ### 4. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Function parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980)
@@ -2280,7 +2281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (29), let (7), pass (3), fn (1), require (1)
+> **Frameworks & Libraries:** data (9), [[Rust (Programming Language)|Rust]] (5), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -2321,6 +2322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **Definitions:** is an  (3), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -2408,7 +2410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), let (5), type. (3), this, (2), pass (1)
+> **Frameworks & Libraries:** data (9), [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -2454,7 +2456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** [[Programming]] (1), [[Rust (Programming Language)|Rust]] (1), next (1)
 > **Versions:** 1.8 (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
@@ -2484,7 +2486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), type. (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (1), cargo (1)
 > **Versions:** 1.8 (1)
 > **Speakers:** - [instructor] (1)
@@ -2493,7 +2495,7 @@ created: 2026-04-29
 
 ### 5. Program Flow Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditional execution
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980)
@@ -2550,7 +2552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else, (1), super (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Programming]] (1), data (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
@@ -2615,7 +2617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), delete (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2687,8 +2689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), data (2)
 > **CLI Commands:** make (9)
-> **Code Keywords:** let (3), else, (2), type. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
@@ -2774,7 +2776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (2), pass (2), for. (1), finally, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), feature (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -2861,7 +2863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Programming]] (1), data (1)
 > **Env Vars:** abc (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -2961,7 +2963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), implements (1), function (1), break. (1), from, (1)
+> **Frameworks & Libraries:** next (6), [[Rust (Programming Language)|Rust]] (6), data (1)
 > **Versions:** version 1 (2), 1.53 (1)
 > **Cross-References:** previous video (1), later in (1)
 > **Analogies:** such as (1)
@@ -3021,7 +3023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Code Identifiers:** iter_mute (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3067,6 +3069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
@@ -3113,7 +3116,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), finally, (1), type, (1), assert (1)
 > **CLI Commands:** cargo (1)
 > **Definitions:** is a  (1)
 > **Non-Speech:** (electronic music) (1)
@@ -3121,7 +3123,7 @@ created: 2026-04-29
 
 ### 6. Ownership
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Variable scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/variable-scope?u=76281980)
@@ -3166,7 +3168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Programming]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -3229,7 +3231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type, (1), function (1)
+> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
 > **Warnings:** keep in mind (1)
@@ -3320,7 +3322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), return, (2), type, (1)
+> **Frameworks & Libraries:** data (24), [[Rust (Programming Language)|Rust]] (3), [[Programming]] (2), [[Python (Programming Language)|Python]] (1), [[Search]] (1)
 > **Definitions:** is a  (4), is called (3)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** lifo (1)
@@ -3410,7 +3412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), function (2), require (1), from, (1), this : (1)
+> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** later in (1)
@@ -3483,7 +3485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), else. (1), require (1), continue (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), data (4), [[Programming]] (4), [[Memory Management]] (4), [[Java]] (1)
 > **CLI Commands:** make (2), python (1), ruby (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3607,7 +3609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (1)
+> **Frameworks & Libraries:** data (17), [[Rust (Programming Language)|Rust]] (7), [[Programming]] (1)
 > **Analogies:** similar to (1), such as (1)
 > **Env Vars:** i32 (1)
 > **Definitions:** is called (1)
@@ -3734,8 +3736,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Rust (Programming Language)|Rust]] (5)
 > **Code Identifiers:** rocket_fuel (15), process_fuel (12), new_fuel (2)
-> **Code Keywords:** function (19), let (7), pass (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** lng (2)
 > **Definitions:** is an  (1)
@@ -3744,7 +3746,7 @@ created: 2026-04-29
 
 ### 7. References
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Borrowing references
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980)
@@ -3811,7 +3813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (4), pass (4), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Rust (Programming Language)|Rust]] (3), next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3862,7 +3864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), pass (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), data (4), database (1), [[Programming]] (1)
 > **Definitions:** refers to (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -3923,7 +3925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (2), let (2), from. (1), delete (1)
+> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (2)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -4012,7 +4014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (4), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** utf (2), str (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** similar to (1), such as (1)
@@ -4086,7 +4088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), type. (1), let (1), from, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), data (7), [[Rust (Programming Language)|Rust]] (1)
 > **Code Identifiers:** get_first_word (4)
 > **Env Vars:** utf (1)
 > **Definitions:** known as (1)
@@ -4136,7 +4138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** next (2), [[Rust (Programming Language)|Rust]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -4181,7 +4183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -4191,7 +4193,7 @@ created: 2026-04-29
 
 ### 8. Modules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rust Standard Library and prelude
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980)
@@ -4246,7 +4248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (10), function (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Programming]] (2), data (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (2)
@@ -4300,7 +4302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), module (3), finally, (1), pass (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
 > **Tools:** command line (2)
 > **Speakers:** - [instructor] (1)
 
@@ -4367,7 +4369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), enum (3), type, (1), type. (1)
+> **Frameworks & Libraries:** data (6), next (1), [[Rust (Programming Language)|Rust]] (1)
 > **Cross-References:** later in (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -4518,7 +4520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (7), switch (2), from. (1), delete (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **CLI Commands:** cargo (6), find (1)
 > **URLs:** [crates.io](https://crates.io) (3)
 > **Exercise Files:** source code (2)
@@ -4560,7 +4562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** game (1), next (1)
 > **Cross-References:** next video (1)
 > **Tools:** command line (1)
 > **Exercise Files:** exercise files (1)
@@ -4645,7 +4647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (1), enum (1), if, (1), case, (1)
+> **Frameworks & Libraries:** game (3), data (1), next (1), [[Programming]] (1)
 > **CLI Commands:** cargo (1), find (1)
 > **Code Identifiers:** read_line (2)
 > **File Paths:** cargo.toml (1)
@@ -4657,7 +4659,7 @@ created: 2026-04-29
 
 ### 9. Input and Output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980)
@@ -4744,7 +4746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (8), pass (3), module (2), case. (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), next (1)
 > **CLI Commands:** make (2), cargo (1)
 > **Code Identifiers:** argsiterator (2)
 > **Tools:** command line (2)
@@ -4838,7 +4840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), module (5), let (2), enum (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Rust (Programming Language)|Rust]] (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -4932,7 +4934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), module (6), let (5), pass (3), finally, (1)
+> **Frameworks & Libraries:** data (9)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** previous video (1), later in (1)
 > **Documentation:** the documentation (1)
@@ -4978,7 +4980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), for. (1)
+> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **Tools:** command line (3)
 > **File Paths:** roster.txt (1), moonwalkers.txt (1)
 > **CLI Commands:** cargo (1)
@@ -5024,7 +5026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), module (2), for. (1), match, (1)
+> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** make (1), cargo (1)
 > **Tools:** command line (1)
 > **Speakers:** - [presenter] (1)
@@ -5033,7 +5035,7 @@ created: 2026-04-29
 
 ### 10. Structs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining structs
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980)
@@ -5152,7 +5154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (26), let (9), type. (2), finally, (1), function (1)
+> **Frameworks & Libraries:** data (17), [[Rust (Programming Language)|Rust]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (2)
 > **Analogies:** similar to (1), such as (1)
@@ -5213,7 +5215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (6), let (5), from. (1), delete (1)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -5276,7 +5278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (8), let (4), self (3), function (3), fn (1)
+> **Frameworks & Libraries:** data (4), [[Rust (Programming Language)|Rust]] (2)
 > **Code Identifiers:** get_name (4), vehicle_name (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1)
@@ -5323,7 +5325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), struct (5), type. (2), let (2), pass (2)
+> **Frameworks & Libraries:** data (4)
 > **Analogies:** similar to (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -5399,7 +5401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (9), let (7), function (5), type, (1)
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), for example (1)
 > **UI Navigation:** go to (1)
@@ -5444,7 +5446,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (3), function (2), finally, (1), new, (1)
 > **Versions:** 0.5 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
@@ -5488,7 +5489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), struct (4), self (2), new. (1), pass (1)
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 1.2 (1), 3.4 (1), 4.08 (1), 1.02 (1)
 > **Code Identifiers:** get_area (1)
 > **Definitions:** is a  (1)
@@ -5499,7 +5500,7 @@ created: 2026-04-29
 
 ### 11. Generic Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generic struct definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980)
@@ -5592,7 +5593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (20), let (4), type. (3), abstract (1), type, (1)
+> **Frameworks & Libraries:** generic (11), data (9), [[Rust (Programming Language)|Rust]] (3), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** u16 (3), i32 (1)
 > **Definitions:** is a  (2)
@@ -5661,7 +5662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), struct (3), function (2), type, (1), case, (1)
+> **Frameworks & Libraries:** generic (6), data (5), [[Rust (Programming Language)|Rust]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5730,7 +5731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), struct (2), module (1)
+> **Frameworks & Libraries:** data (5), generic (4), [[Rust (Programming Language)|Rust]] (2), next (1)
 > **Analogies:** for example (1), such as (1)
 > **Code Identifiers:** partialord (1)
 > **Cross-References:** in the next (1)
@@ -5865,7 +5866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (14), let (4), function (4), type. (2), pass (2)
+> **Frameworks & Libraries:** data (19), [[Rust (Programming Language)|Rust]] (3), generic (2), next (1), [[Programming]] (1)
 > **Code Identifiers:** boxed_vehicle (1), unboxed_vehicle (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -5914,7 +5915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), type, (1)
+> **Frameworks & Libraries:** generic (3), data (1), next (1)
 > **Code Identifiers:** sum_boxes (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -5977,7 +5978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), finally, (1), return. (1)
+> **Frameworks & Libraries:** generic (2), next (1), data (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Analogies:** similar to (1), for example (1)
 > **Tools:** terminal (1)
@@ -5987,7 +5988,7 @@ created: 2026-04-29
 
 ### 12. Traits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement traits
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980)
@@ -6054,7 +6055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (5), implements (4), let (3), abstract (1), function (1)
+> **Frameworks & Libraries:** data (9), [[Rust (Programming Language)|Rust]] (2), generic (1), [[Programming]] (1), [[Java]] (1)
 > **Env Vars:** iss (1)
 > **Versions:** 4.72 (1)
 > **Analogies:** similar to (1)
@@ -6091,7 +6092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (1), struct (1), let (1), delete (1), implements (1)
+> **Frameworks & Libraries:** data (1), generic (1)
 > **Env Vars:** iss (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -6171,7 +6172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (9), default, (1), type. (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** gps (5)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
@@ -6226,7 +6227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), module (3), let (3), implements (1), require (1)
+> **Frameworks & Libraries:** data (5), generic (4), [[Rust (Programming Language)|Rust]] (1)
 > **Code Identifiers:** print_type (4), type_name (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -6316,7 +6317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), module (3), type. (1), super (1)
+> **Frameworks & Libraries:** data (9), generic (5), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rest (1)
 > **Versions:** 1.1 (1)
@@ -6384,7 +6385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (6), implements (6), module (1), impl (1)
+> **Frameworks & Libraries:** data (8), generic (1), [[Rust (Programming Language)|Rust]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6429,7 +6430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (2), function (1), module (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** next video (1)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** exercise files (1)
@@ -6466,7 +6467,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (3), module (2), finally, (1), continue (1)
 > **CLI Commands:** make (1)
 > **Versions:** 4.72 (1)
 > **Documentation:** the documentation (1)
@@ -6477,7 +6477,7 @@ created: 2026-04-29
 
 ### 13. Lifetimes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The borrow checker
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/the-borrow-checker?u=76281980)
@@ -6548,7 +6548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), this. (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), next (1)
 > **Cross-References:** earlier in (2), later in (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -6647,7 +6647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (3), require (1), type, (1), type. (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), generic (3), data (3), [[Programming]] (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Definitions:** is a  (1), is called (1)
 > **Exercise Files:** source code (1)
@@ -6689,7 +6689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), delete (1)
+> **Frameworks & Libraries:** generic (2)
 > **Code Identifiers:** best_fuel (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -6776,7 +6776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), require (4), self (4), raise (1), struct (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), next (1)
 > **Code Identifiers:** get_first_word (3), get_longest (3), send_transition (1)
 > **Warnings:** keep in mind (3), be aware (1)
 > **Analogies:** for example (3)
@@ -6866,7 +6866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (10), self (3), let (2), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (5), generic (2), [[Rust (Programming Language)|Rust]] (1)
 > **Speakers:** - instructor] (1)
 
 #### Static lifetime
@@ -6898,7 +6898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (10), function (1)
+> **Frameworks & Libraries:** data (6), generic (2), [[Rust (Programming Language)|Rust]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -6907,7 +6907,7 @@ created: 2026-04-29
 
 ### 14. Enums
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define enums
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/define-enums?u=76281980)
@@ -6980,7 +6980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (13), let (7), struct (2), function (2), type, (1)
+> **Frameworks & Libraries:** data (4), [[Rust (Programming Language)|Rust]] (2), [[Programming]] (1)
 > **Definitions:** is a  (2), short for (1)
 > **Versions:** 1.2 (1), 3.4 (1)
 > **CLI Commands:** make (1)
@@ -7034,7 +7034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), pass (1), case, (1), enum (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** is a  (5)
 > **Versions:** 1.2 (1), 3.4 (1)
 > **Analogies:** similar to (2)
@@ -7131,7 +7131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2), match. (2), else. (2), type. (1)
+> **Frameworks & Libraries:** next (3), data (1), [[Rust (Programming Language)|Rust]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1), later in (1)
 > **Analogies:** similar to (1)
@@ -7179,7 +7179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (5), let (3), function (2), self (2), type, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), next (1)
 > **Versions:** version 1 (1), 1.2 (1), 3.4 (1), 9.2 (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), just like (1)
@@ -7307,7 +7307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (15), let (6), type. (2), implements (1), type, (1)
+> **Frameworks & Libraries:** data (6), [[Rust (Programming Language)|Rust]] (3), [[Programming]] (2), generic (2)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -7346,7 +7346,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (2), case, (2), let (1)
 > **CLI Commands:** cargo (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -7384,7 +7383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), enum (2), else, (1), for, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Programming]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Represent a location
@@ -7418,7 +7417,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (2), let (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -7453,13 +7451,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (6), let (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 15. Error Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unrecoverable errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980)
@@ -7552,8 +7550,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), [[Programming]] (1), [[Windows]] (1), [[Powershell]] (1), feature (1)
 > **File Paths:** main.rs (3), arith.rs (1)
-> **Code Keywords:** enum (1), let (1), function (1)
 > **CLI Commands:** make (1), cargo (1)
 > **Tools:** vs code (1), powershell (1)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -7634,7 +7632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (10), function (4), let (2), continue (1)
+> **Frameworks & Libraries:** generic (2), data (1), next (1)
 > **Code Identifiers:** read_to_string (3), the_ultimate_question (3)
 > **File Paths:** the_ultimate_question.txt (2)
 > **Analogies:** for example (2)
@@ -7706,7 +7704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), enum (6), module (2), delete (1), finally, (1)
+> **Frameworks & Libraries:** next (3)
 > **Definitions:** is an  (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
@@ -7761,7 +7759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), enum (8), let (2), type, (1), match. (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **File Paths:** planets.txt (1), planet.txt (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **CLI Commands:** find (1)
@@ -7811,7 +7809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (1)
+> **Frameworks & Libraries:** game (1), prompt (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -7849,7 +7847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1)
+> **Frameworks & Libraries:** game (1), prompt (1)
 > **Versions:** 50.2 (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -7859,7 +7857,7 @@ created: 2026-04-29
 
 ### 16. Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980)
@@ -7954,7 +7952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (6), let (4), finally, (1), pass (1)
+> **Frameworks & Libraries:** data (7), [[Git]] (3), [[Programming]] (1), [[Rust (Programming Language)|Rust]] (1), next (1)
 > **CLI Commands:** git (3), make (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** similar to (2)
@@ -8081,7 +8079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), pass (2), function (1), type. (1)
+> **Frameworks & Libraries:** data (7), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), generic (1)
 > **Code Identifiers:** or_insert (4), missions_flown (2)
 > **Env Vars:** rest (1)
 > **Cross-References:** previous video (1)
@@ -8171,7 +8169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Search]] (1), [[Programming]] (1)
 > **Documentation:** the documentation (2)
 > **Tools:** command line (2)
 > **Prerequisites:** you'll need (2)
@@ -8233,7 +8231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), pass (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), [[Search]] (1)
 > **CLI Commands:** make (1), cargo (1), find (1)
 > **Env Vars:** lcf (1)
 > **Definitions:** is a  (1)
@@ -8243,7 +8241,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980)
@@ -8288,9 +8286,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Programming]] (3), next (2), concurrent (1), parallel (1)
 > **CLI Commands:** cargo (2)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we covered (1)
 > **Tools:** command line (1)
 > **UI Navigation:** go to (1)

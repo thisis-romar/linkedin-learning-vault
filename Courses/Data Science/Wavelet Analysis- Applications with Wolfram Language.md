@@ -32,7 +32,7 @@ tags:
   - skill/data-analysis
   - skill/wavelets
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Wavelet%20Analysis-%20Applications%20with%20Wolfram%20Language.md)
@@ -51,25 +51,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction: Wavelet Analysis
+  - [Introduction: Wavelet Analysis](#introduction-wavelet-analysis)
 - [**1. Frequency Detection in a Time Series**](#1-frequency-detection-in-a-time-series) (1 videos)
-  - Frequency Detection in a Time Series
+  - [Frequency Detection in a Time Series](#frequency-detection-in-a-time-series)
 - [**2. Filtering Frequencies from Time Series**](#2-filtering-frequencies-from-time-series) (1 videos)
-  - Filtering Frequencies from Time Series
+  - [Filtering Frequencies from Time Series](#filtering-frequencies-from-time-series)
 - [**3. Applying Wavelet Analysis to Finance**](#3-applying-wavelet-analysis-to-finance) (1 videos)
-  - Applying Wavelet Analysis to Finance
+  - [Applying Wavelet Analysis to Finance](#applying-wavelet-analysis-to-finance)
 - [**4. Edge Detection on Images**](#4-edge-detection-on-images) (1 videos)
-  - Edge Detection on Images
+  - [Edge Detection on Images](#edge-detection-on-images)
 - [**5. Denoising Images**](#5-denoising-images) (1 videos)
-  - Denoising Images
+  - [Denoising Images](#denoising-images)
 - [**6. Wavelet Thresholding**](#6-wavelet-thresholding) (1 videos)
-  - Wavelet Thresholding
+  - [Wavelet Thresholding](#wavelet-thresholding)
 - [**References**](#references) (1 videos)
-  - References
+  - [References](#references)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction: Wavelet Analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/introduction-wavelet-analysis?u=76281980)
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), case, (1)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is called (3), is a  (2), is an  (1)
 > **Analogies:** for example (2), picture (1)
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 ### 1. Frequency Detection in a Time Series
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequency Detection in a Time Series
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980)
@@ -320,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), case, (5), this, (2), for, (1)
+> **Frameworks & Libraries:** [[Wavelets]] (5), data (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **UI Navigation:** select the (1)
@@ -330,7 +330,7 @@ created: 2026-04-29
 
 ### 2. Filtering Frequencies from Time Series
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering Frequencies from Time Series
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/filtering-frequencies-from-time-series?u=76281980)
@@ -415,7 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), this. (1)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -423,7 +423,7 @@ created: 2026-04-29
 
 ### 3. Applying Wavelet Analysis to Finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying Wavelet Analysis to Finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/applying-wavelet-analysis-to-finance?u=76281980)
@@ -484,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), case, (1)
+> **Frameworks & Libraries:** next (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ibm (1)
@@ -492,7 +492,7 @@ created: 2026-04-29
 
 ### 4. Edge Detection on Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Edge Detection on Images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980)
@@ -631,7 +631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (5), function (3), case. (1), finally, (1)
+> **Frameworks & Libraries:** [[Image Processing]] (6), data (2), [[Wavelets]] (1), [[Microsoft Products|Products]] (1), [[Vanilla]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** similar to (1), picture (1)
@@ -639,7 +639,7 @@ created: 2026-04-29
 
 ### 5. Denoising Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Denoising Images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980)
@@ -734,7 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2)
+> **Frameworks & Libraries:** [[Image Processing]] (1), [[Wavelets]] (1), database (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), is called (1)
 > **Env Vars:** sure (1)
@@ -743,7 +743,7 @@ created: 2026-04-29
 
 ### 6. Wavelet Thresholding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wavelet Thresholding
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980)
@@ -1004,7 +1004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), let (9), case, (9), require (2), finally, (2)
+> **Frameworks & Libraries:** data (14), [[Image Processing]] (3), [[Wavelets]] (2)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (6), is called (2), is an  (1), means that (1)
 > **Env Vars:** sure (2), gcv (2)
@@ -1014,7 +1014,7 @@ created: 2026-04-29
 
 ### References
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### References
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/references?u=76281980)
@@ -1029,8 +1029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** finally, (1), for. (1)
 > **URLs:** [wolfram.com](https://wolfram.com) (1)
 
 

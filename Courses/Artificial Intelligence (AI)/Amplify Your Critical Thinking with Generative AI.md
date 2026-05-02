@@ -26,7 +26,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI.md)
@@ -45,27 +45,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - A timeless framework for an evolving technology
-  - Putting generative AI to the critical thinking test
+  - [A timeless framework for an evolving technology](#a-timeless-framework-for-an-evolving-technology)
+  - [Putting generative AI to the critical thinking test](#putting-generative-ai-to-the-critical-thinking-test)
 - [**1. Rooting Out Biases**](#1-rooting-out-biases) (3 videos)
-  - Putting generative AI through the truth filter
-  - Identifying biases in generative AI
-  - Identifying biases in your thinking using generative AI
+  - [Putting generative AI through the truth filter](#putting-generative-ai-through-the-truth-filter)
+  - [Identifying biases in generative AI](#identifying-biases-in-generative-ai)
+  - [Identifying biases in your thinking using generative AI](#identifying-biases-in-your-thinking-using-generative-ai)
 - [**2. Critical Thinking Framework for Generative AI**](#2-critical-thinking-framework-for-generative-ai) (8 videos)
-  - Using the PIQPACC critical thinking framework with generative AI
-  - Establishing purpose boundaries when researching with generative AI
-  - Testing information quality using generative AI
-  - Using generative AI to create empowered questions
-  - Using generative AI for perspective simulation
-  - Using generative AI to probe assumptions
-  - Clarifying concepts using generative AI
-  - Improving your conclusions using generative AI
+  - [Using the PIQPACC critical thinking framework with generative AI](#using-the-piqpacc-critical-thinking-framework-with-generative-ai)
+  - [Establishing purpose boundaries when researching with generative AI](#establishing-purpose-boundaries-when-researching-with-generative-ai)
+  - [Testing information quality using generative AI](#testing-information-quality-using-generative-ai)
+  - [Using generative AI to create empowered questions](#using-generative-ai-to-create-empowered-questions)
+  - [Using generative AI for perspective simulation](#using-generative-ai-for-perspective-simulation)
+  - [Using generative AI to probe assumptions](#using-generative-ai-to-probe-assumptions)
+  - [Clarifying concepts using generative AI](#clarifying-concepts-using-generative-ai)
+  - [Improving your conclusions using generative AI](#improving-your-conclusions-using-generative-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Choose three ways others can use critical thinking with generative AI
+  - [Choose three ways others can use critical thinking with generative AI](#choose-three-ways-others-can-use-critical-thinking-with-generative-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A timeless framework for an evolving technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980)
@@ -84,6 +84,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), ai (1)
 > **Speakers:** - by (1)
 
 #### Putting generative AI to the critical thinking test
@@ -173,8 +174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[React.js|React]] (1), data (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
@@ -182,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Rooting Out Biases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting generative AI through the truth filter
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980)
@@ -251,8 +252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Strategic Thinking]] (1), game (1), next (1), [[Social Media Marketing]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - at (1)
 
@@ -329,8 +330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), ai (4), career (2), [[Statistics]] (1), [[Algorithms]] (1)
 > **Env Vars:** mba (10)
-> **Code Keywords:** let (2), from, (1), continue (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -407,7 +408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1)
+> **Frameworks & Libraries:** game (10), data (6), next (1), ai (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (2), for example (1)
 > **Cross-References:** in the last (1), we talked about (1)
@@ -416,7 +417,7 @@ created: 2026-04-29
 
 ### 2. Critical Thinking Framework for Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the PIQPACC critical thinking framework with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980)
@@ -477,9 +478,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[LinkedIn]] (1)
 > **Env Vars:** piqpacc (5)
 > **CLI Commands:** make (3)
-> **Code Keywords:** from, (1), for. (1)
 > **Definitions:** is an  (1), stands for (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - from (1)
@@ -579,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), extends (1), let (1)
+> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (5), [[Higher Education]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - my (1)
 
@@ -684,6 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (3), data (1), [[Google]] (1), chatbot (1)
 > **Env Vars:** rrv (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -772,8 +774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), gis (2), [[ChatGPT]] (2), power (1), [[Storytelling]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** require (1), this, (1), finally, (1), let (1)
 > **Env Vars:** gis (2)
 > **Speakers:** - think (1)
 
@@ -852,9 +854,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Simulation]] (2), next (2), [[ChatGPT]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nasa (1)
 > **Speakers:** - what (1)
 
@@ -925,8 +927,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[ChatGPT]] (3), [[Financial Analysis]] (3), next (2), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** caution (1)
 > **Speakers:** - assumptions (1)
@@ -1006,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** management (2), [[Microsoft Word|Word]] (1), next (1), [[Sustainability]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
@@ -1120,8 +1122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (8), management (4), game (3), ai (3), [[Statistics]] (3)
 > **Definitions:** is a  (7), is an  (3)
-> **Code Keywords:** require (3), let (1), finally, (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)
@@ -1130,7 +1132,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose three ways others can use critical thinking with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980)
@@ -1197,8 +1199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), power (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** pass (1)
 > **Speakers:** - congratulations (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/continuous-integration-ci
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Continuous%20Integration-%20Tools.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Building your CI/CD pipeline
-  - What you should know
-  - CI/CD tool categories
-  - Pros and cons
-  - The experimental pipeline
-  - About the exercise files
+  - [Building your CI/CD pipeline](#building-your-cicd-pipeline)
+  - [What you should know](#what-you-should-know)
+  - [CI/CD tool categories](#cicd-tool-categories)
+  - [Pros and cons](#pros-and-cons)
+  - [The experimental pipeline](#the-experimental-pipeline)
+  - [About the exercise files](#about-the-exercise-files)
 - [**1. Self-Hosted**](#1-self-hosted) (4 videos)
-  - Jenkins
-  - Bamboo
-  - TeamCity
-  - Comparing self-hosted tools
+  - [Jenkins](#jenkins)
+  - [Bamboo](#bamboo)
+  - [TeamCity](#teamcity)
+  - [Comparing self-hosted tools](#comparing-self-hosted-tools)
 - [**2. Software as a Service (SaaS)**](#2-software-as-a-service-saas) (3 videos)
-  - Travis CI
-  - CircleCI
-  - Comparing SaaS tools
+  - [Travis CI](#travis-ci)
+  - [CircleCI](#circleci)
+  - [Comparing SaaS tools](#comparing-saas-tools)
 - [**3. Cloud Service Providers**](#3-cloud-service-providers) (4 videos)
-  - Amazon Web Services (AWS) CodePipeline and CodeBuild
-  - Azure Pipelines
-  - Google Cloud Platform (GCP) Cloud Build
-  - Comparing cloud service provider tools
+  - [Amazon Web Services (AWS) CodePipeline and CodeBuild](#amazon-web-services-aws-codepipeline-and-codebuild)
+  - [Azure Pipelines](#azure-pipelines)
+  - [Google Cloud Platform (GCP) Cloud Build](#google-cloud-platform-gcp-cloud-build)
+  - [Comparing cloud service provider tools](#comparing-cloud-service-provider-tools)
 - [**4. Code Repositories**](#4-code-repositories) (4 videos)
-  - GitHub Actions
-  - GitLab CI
-  - Bitbucket Pipelines
-  - Comparing code repository tools
+  - [GitHub Actions](#github-actions)
+  - [GitLab CI](#gitlab-ci)
+  - [Bitbucket Pipelines](#bitbucket-pipelines)
+  - [Comparing code repository tools](#comparing-code-repository-tools)
 - [**5. Selecting a CI Tool**](#5-selecting-a-ci-tool) (1 videos)
-  - Selecting the right CI tool
+  - [Selecting the right CI tool](#selecting-the-right-ci-tool)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your CI/CD pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980)
@@ -98,8 +98,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (4), cd (4), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Jenkins]] (1)
 > **CLI Commands:** cd (4)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 
 #### What you should know
@@ -145,7 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), case, (1)
+> **Frameworks & Libraries:** application (4), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), product (1), [[Software Development]] (1)
 > **Tools:** github (1), bitbucket (1), gitlab (1)
 > **Exercise Files:** exercise files (2), source code (1)
 > **Definitions:** in other words (1), is a  (1), known as (1)
@@ -184,7 +184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2), self (2), case, (1), let (1)
+> **Frameworks & Libraries:** ci (4), cd (4), cloud (3), [[SaaS]] (2), [[Hardware]] (1)
 > **CLI Commands:** cd (4)
 > **Definitions:** is an  (1)
 
@@ -261,8 +261,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (12), cd (11), cloud (5), data (4), [[SaaS]] (3)
 > **CLI Commands:** cd (11), make (1)
-> **Code Keywords:** let (1), self (1), super (1), case, (1)
 > **Prerequisites:** install (1), getting started (1), set up (1), configure (1)
 > **Speakers:** - [presenter] (1)
 
@@ -329,8 +329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), ci (4), cd (4), [[Python (Programming Language)|Python]] (2), web application (1)
 > **CLI Commands:** cd (4), make (3), python (2), aws (1), git (1)
-> **Code Keywords:** lambda (1), function (1), pass (1), let (1)
 > **Env Vars:** json (1), api (1), aws (1)
 > **Cross-References:** in the last (1)
 > **Documentation:** specification (1)
@@ -409,19 +409,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), aws (5), next (4), ci (2), cd (2)
 > **CLI Commands:** aws (5), find (3), cd (2), make (1)
 > **Exercise Files:** exercise files (4), template (3), download the (1)
 > **Prerequisites:** configure (3), you'll need (2), you need to have (1), set up (1)
 > **Env Vars:** aws (4), readme (1), iam (1)
 > **UI Navigation:** open the (2), select the (2), checkbox (1)
-> **Code Keywords:** interface (1), default. (1)
 > **File Paths:** sample-application.yml (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 
 
 ### 1. Self-Hosted
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980)
@@ -512,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3), self (1)
+> **Frameworks & Libraries:** [[Jenkins]] (20), [[Continuous Integration (CI)|Continuous integration]] (3), [[Automation]] (3), application (3), open-source (2)
 > **CLI Commands:** aws (1), git (1)
 > **Env Vars:** aws (1)
 > **Prerequisites:** set up (1)
@@ -586,8 +586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Atlassian]] (5), ci (3), [[Jira]] (3), cd (2), [[Confluence]] (2)
 > **Tools:** jira (3), confluence (2), bitbucket (2)
-> **Code Keywords:** let (3), interface (2), self (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** cd (2)
 > **Env Vars:** yaml (2)
@@ -672,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (5), [[Java]] (3), ci (1), cd (1), application (1)
 > **Tools:** intellij (2), pycharm (2), command line (2), visual studio (1)
-> **Code Keywords:** let (3), type. (2), interface (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), cd (1)
 > **Env Vars:** xml (3)
@@ -706,14 +706,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), interface (1), let (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), ci (1), cd (1), [[Hardware]] (1), open-source (1)
 > **CLI Commands:** cd (1)
 > **Tools:** visual studio (1)
 
 
 ### 2. Software as a Service (SaaS)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Travis CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/travis-ci?u=76281980)
@@ -777,9 +777,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (3), cd (3), teams (2), [[Workflow Management]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** cd (3), docker (1), find (1)
 > **File Paths:** config.yml (2)
-> **Code Keywords:** require (1), let (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** arm (1)
 > **Tools:** command line (1)
@@ -813,14 +813,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ci (3), [[SaaS|Software as a service]] (1), open-source (1), [[GitHub]] (1), feature (1)
 > **Env Vars:** yaml (1)
 > **Tools:** github (1)
 
 
 ### 3. Cloud Service Providers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Amazon Web Services (AWS) CodePipeline and CodeBuild
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980)
@@ -909,9 +909,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), application (4), cloud (2), ci (2), cd (2)
 > **CLI Commands:** aws (5), cd (2), make (1), git (1)
 > **Env Vars:** aws (5), ecr (1), cpu (1), ram (1)
-> **Code Keywords:** let (3), from, (1), lambda (1), pass (1)
 > **Tools:** github (2)
 > **Definitions:** known as (2)
 > **File Paths:** buildspec.yml (1)
@@ -964,7 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[DevOps]] (2), open-source (2), product (1), [[Application Development]] (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** azure-pipelines.yml (1)
 > **CLI Commands:** make (1)
@@ -1042,11 +1042,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), gcp (3), [[JSON]] (3), ci (2), cd (2)
 > **Env Vars:** gcp (3), json (2), env (1), aws (1)
 > **CLI Commands:** cd (2), docker (1), aws (1), make (1)
 > **File Paths:** cloudbuild.yml (2), cloudbuild.json (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (2)
 > **Tools:** bitbucket (1), github (1)
 > **Versions:** 0.003 (1)
 
@@ -1077,14 +1077,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), ci (3), management (3), [[Microsoft Azure|Azure]] (3), cd (2)
 > **CLI Commands:** cd (2), aws (1)
 > **Env Vars:** aws (1), gcp (1)
-> **Code Keywords:** let (1)
 
 
 ### 4. Code Repositories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980)
@@ -1149,8 +1149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (17), ci (2), cd (2), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Tools:** github (17)
-> **Code Keywords:** let (2), public (1), private (1), interface (1)
 > **CLI Commands:** cd (2), git (1), find (1)
 > **Env Vars:** yaml (1), api (1)
 > **Code Identifiers:** macos (1)
@@ -1204,8 +1204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (7), management (3), [[Continuous Integration (CI)|Continuous integration]] (2), open-source (2), cd (2)
 > **Tools:** gitlab (14), github (1)
-> **Code Keywords:** raise (1), public (1), private (1), this, (1), self (1)
 > **URLs:** [gitlab.com](https://gitlab.com) (3), [github.com](https://github.com) (1)
 > **CLI Commands:** cd (2), git (1)
 > **File Paths:** gitlab-ci.yml (1)
@@ -1265,8 +1265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (10), [[Atlassian]] (2), management (2), teams (2), [[Jira]] (1)
 > **Tools:** bitbucket (10), jira (1), confluence (1)
-> **Code Keywords:** let (2), self (1)
 > **CLI Commands:** cd (1), git (1)
 > **File Paths:** bitbucket-pipeline.yml (1)
 > **Env Vars:** yaml (1)
@@ -1302,15 +1302,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (5), [[GitHub]] (4), next (1), [[Analytics]] (1), [[Bitbucket]] (1)
 > **Tools:** github (4), gitlab (2), bitbucket (1)
-> **Code Keywords:** self (1), let (1)
 > **Env Vars:** yaml (1)
 > **Exercise Files:** github repo (1)
 
 
 ### 5. Selecting a CI Tool
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting the right CI tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980)
@@ -1369,8 +1369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (10), cd (6), cloud (4), [[SaaS|Software as a service]] (2), business (2)
 > **CLI Commands:** cd (6), make (1), find (1)
-> **Code Keywords:** self (3), let (1), require (1), this, (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you'll need (1)
 

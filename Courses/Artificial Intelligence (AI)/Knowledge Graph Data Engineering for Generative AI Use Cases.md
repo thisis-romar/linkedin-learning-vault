@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/knowledge-graphs
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Knowledge%20Graph%20Data%20Engineering%20for%20Generative%20AI%20Use%20Cases.md)
@@ -56,45 +56,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The power of knowledge graphs in data engineering
-  - What you need to know for the course
+  - [The power of knowledge graphs in data engineering](#the-power-of-knowledge-graphs-in-data-engineering)
+  - [What you need to know for the course](#what-you-need-to-know-for-the-course)
 - [**1. Setup: Data Engineering Foundations**](#1-setup-data-engineering-foundations) (4 videos)
-  - What is data engineering?
-  - Aspects of data engineering
-  - Importance of data engineering for semantic AI
-  - Use case: Two Trees Olive Oil
+  - [What is data engineering?](#what-is-data-engineering)
+  - [Aspects of data engineering](#aspects-of-data-engineering)
+  - [Importance of data engineering for semantic AI](#importance-of-data-engineering-for-semantic-ai)
+  - [Use case: Two Trees Olive Oil](#use-case-two-trees-olive-oil)
 - [**2. Extraction**](#2-extraction) (4 videos)
-  - What data do you need?
-  - Where is the data?
-  - What state is the data in?
-  - Translating relational to graph data
+  - [What data do you need?](#what-data-do-you-need)
+  - [Where is the data?](#where-is-the-data)
+  - [What state is the data in?](#what-state-is-the-data-in)
+  - [Translating relational to graph data](#translating-relational-to-graph-data)
 - [**3. Data Modeling**](#3-data-modeling) (7 videos)
-  - Creating your design document
-  - Options for data modeling
-  - Thinking about nodes
-  - Thinking about relations
-  - Thinking about retrieval/traversal
-  - Thinking about updates
-  - Thinking about storage
+  - [Creating your design document](#creating-your-design-document)
+  - [Options for data modeling](#options-for-data-modeling)
+  - [Thinking about nodes](#thinking-about-nodes)
+  - [Thinking about relations](#thinking-about-relations)
+  - [Thinking about retrieval/traversal](#thinking-about-retrievaltraversal)
+  - [Thinking about updates](#thinking-about-updates)
+  - [Thinking about storage](#thinking-about-storage)
 - [**4. Transform**](#4-transform) (2 videos)
-  - Data transformation
-  - Missing data
+  - [Data transformation](#data-transformation)
+  - [Missing data](#missing-data)
 - [**5. Load**](#5-load) (5 videos)
-  - Setting up our Stardog project, part 1
-  - Setting up our Stardog project, part 2
-  - Load instances in Stardog
-  - Test the load
-  - Test the query
+  - [Setting up our Stardog project, part 1](#setting-up-our-stardog-project-part-1)
+  - [Setting up our Stardog project, part 2](#setting-up-our-stardog-project-part-2)
+  - [Load instances in Stardog](#load-instances-in-stardog)
+  - [Test the load](#test-the-load)
+  - [Test the query](#test-the-query)
 - [**6. Using the Knowledge Graph with AI**](#6-using-the-knowledge-graph-with-ai) (3 videos)
-  - Architecture
-  - Query options
-  - Using a knowledge graph with AI
+  - [Architecture](#architecture)
+  - [Query options](#query-options)
+  - [Using a knowledge graph with AI](#using-a-knowledge-graph-with-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your learning journey
+  - [Continuing your learning journey](#continuing-your-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of knowledge graphs in data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980)
@@ -117,6 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Knowledge Graphs]] (2), [[Data Engineering]] (2), [[Unstructured Data]] (1), [[Engineering]] (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - llms (1)
 
@@ -157,9 +158,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Data Engineering]] (5), etl (5), ai (4), product (1)
 > **Env Vars:** etl (5)
 > **CLI Commands:** apache (1), python (1), make (1)
-> **Code Keywords:** function (1), let (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -168,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Setup: Data Engineering Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980)
@@ -219,8 +220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Data Engineering]] (6), business (4), rag (4), etl (3)
 > **Env Vars:** rag (4), etl (3), rdf (2)
-> **Code Keywords:** let (2), case, (2), pass (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
 > **Best Practices:** make sure to (1)
@@ -251,7 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), from, (1), this. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (10), [[Data Engineering]] (2), ai (2), management (1)
 > **Speakers:** - [instructor] (1)
 
 #### Importance of data engineering for semantic AI
@@ -285,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Knowledge Graphs]] (3), data (3), rag (2), application (1)
 > **Env Vars:** rag (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Use case: Two Trees Olive Oil
@@ -324,8 +325,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Engineering]] (2), [[Data Engineering]] (1), business (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** case, (1), let (1)
 > **Env Vars:** ttoo (2)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is an  (1)
@@ -334,7 +335,7 @@ created: 2026-04-29
 
 ### 2. Extraction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What data do you need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980)
@@ -405,7 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), case, (3), this. (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (17), database (4), [[Google Drive]] (2), ai (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** select the (1), go to (1)
 > **Cross-References:** in the next (1)
@@ -439,7 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (2)
+> **Frameworks & Libraries:** data (17), api (2), [[Databases]] (1), [[Google]] (1), ai (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -521,8 +522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), product (4), database (1), next (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (2), case. (1), function (1)
 > **Cross-References:** later in (2), next video (1)
 > **Env Vars:** ttoo (1)
 > **Speakers:** - to (1)
@@ -568,10 +569,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (2), node (2), [[Metadata]] (2), ai (2)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for instance (1), such as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** etl (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -579,7 +580,7 @@ created: 2026-04-29
 
 ### 3. Data Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your design document
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980)
@@ -694,7 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case. (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (16), product (4), etl (3), node (3), next (2)
 > **CLI Commands:** node (3), make (2)
 > **Env Vars:** etl (3)
 > **Definitions:** is a  (1)
@@ -727,8 +728,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** etl (7), data (5), [[Data Transformation]] (2), [[Microsoft Excel|Excel]] (1), [[Hadoop]] (1)
 > **Env Vars:** etl (7)
-> **Code Keywords:** require (1), let (1), case, (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** select the (1)
@@ -805,10 +806,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), node (10), llm (3), product (2), business (1)
 > **CLI Commands:** node (10), find (2), make (1)
 > **Env Vars:** llm (3), zip (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -879,7 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), case. (1), continue (1), let (1)
+> **Frameworks & Libraries:** data (9), node (3), llm (2), [[Relational Databases]] (1), next (1)
 > **CLI Commands:** node (3)
 > **Env Vars:** llm (2)
 > **Analogies:** just like (1), such as (1)
@@ -939,11 +940,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (3), [[Algorithms]] (3), [[Analytics]] (2), database (1)
 > **Env Vars:** uid (1), sparql (1), rdf (1), ntt (1), etl (1)
 > **CLI Commands:** make (2), apache (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **Analogies:** such as (2), for instance (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** opencypher (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -1013,9 +1014,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), node (6), etl (3), database (2), [[Databases]] (1)
 > **CLI Commands:** node (6), make (5), git (1)
 > **Analogies:** such as (2), for instance (1), just like (1)
-> **Code Keywords:** this. (1), require (1), let (1)
 > **Env Vars:** etl (3)
 > **Definitions:** is a  (3)
 > **Warnings:** keep in mind (1)
@@ -1072,8 +1073,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (6), ai (6), etl (5), [[Neo4j]] (2)
 > **Env Vars:** etl (5), rdf (4), rds (1), rag (1), api (1)
-> **Code Keywords:** let (2), case, (2), require (1), case. (1)
 > **Analogies:** such as (5), for instance (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Exercise Files:** exercise files (1)
@@ -1083,7 +1084,7 @@ created: 2026-04-29
 
 ### 4. Transform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980)
@@ -1222,7 +1223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (3), this. (1)
+> **Frameworks & Libraries:** data (26), etl (5), product (3), business (2), api (1)
 > **Env Vars:** etl (5), api (1), uid (1), csv (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is an  (6), means that (1)
@@ -1304,7 +1305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), case. (1)
+> **Frameworks & Libraries:** ai (6), data (5), [[Unstructured Data]] (3), business (3), node (2)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -1313,7 +1314,7 @@ created: 2026-04-29
 
 ### 5. Load
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up our Stardog project, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980)
@@ -1386,7 +1387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new. (1), this. (1)
+> **Frameworks & Libraries:** ai (5), data (5), next (2), [[Data Transformation]] (1), feature (1)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** go to (2)
@@ -1470,7 +1471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), for, (1), case. (1), case, (1)
+> **Frameworks & Libraries:** data (6), node (3), ai (2), next (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** node (3)
 > **Env Vars:** etl (1)
 > **Definitions:** is a  (1)
@@ -1697,7 +1698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), type. (1)
+> **Frameworks & Libraries:** product (9), data (8), next (4), database (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (6), find (2), node (2), git (1)
 > **Code Identifiers:** customerreview (3), authorof (2), hasproduct (1), orderid (1)
 > **Definitions:** is an  (4), is a  (3)
@@ -1775,7 +1776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type. (1)
+> **Frameworks & Libraries:** data (5), product (3), [[Search]] (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), node (1)
 > **Definitions:** is a  (2)
 > **Versions:** 4.5 (1)
@@ -1981,7 +1982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), for, (1), this. (1), for. (1), this, (1)
+> **Frameworks & Libraries:** ai (10), business (6), database (2), data (2), product (1)
 > **CLI Commands:** make (6), find (2), node (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** go to (2)
@@ -1993,7 +1994,7 @@ created: 2026-04-29
 
 ### 6. Using the Knowledge Graph with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980)
@@ -2030,9 +2031,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (8), etl (3), [[Search]] (2), database (1)
 > **Env Vars:** etl (3), uid (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2071,8 +2072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), api (4), [[Analytics]] (3), prompt (2), application (1)
 > **Env Vars:** api (4), sparql (1)
-> **Code Keywords:** let (2), this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using a knowledge graph with AI
@@ -2178,7 +2179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for, (1)
+> **Frameworks & Libraries:** ai (13), product (12), data (3), database (2), prompt (2)
 > **Env Vars:** uid (2), llm (2), rdf (1), json (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -2187,7 +2188,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980)
@@ -2218,9 +2219,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), next (2), [[LinkedIn]] (2), [[Data Engineering]] (1), [[Knowledge Graphs]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1), remember to (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - and (1)

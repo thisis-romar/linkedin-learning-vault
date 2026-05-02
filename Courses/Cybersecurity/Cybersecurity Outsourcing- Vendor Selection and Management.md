@@ -30,7 +30,7 @@ tags:
   - skill/third-party-vendor-management
   - skill/security-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Outsourcing-%20Vendor%20Selection%20and%20Management.md)
@@ -49,53 +49,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Outsourcing cybersecurity
-  - 2024 update
-  - What you should know
+  - [Outsourcing cybersecurity](#outsourcing-cybersecurity)
+  - [2024 update](#2024-update)
+  - [What you should know](#what-you-should-know)
 - [**1. Prepare to Outsource Cybersecurity Work**](#1-prepare-to-outsource-cybersecurity-work) (7 videos)
-  - What is outsourcing?
-  - Why outsource?
-  - Why outsource cybersecurity?
-  - What are the benefits of outsourcing?
-  - How is managing outsourced work different from managing staff?
-  - What are the risks of outsourcing cybersecurity?
-  - The seven steps to successfully outsourcing cybersecurity work
+  - [What is outsourcing?](#what-is-outsourcing)
+  - [Why outsource?](#why-outsource)
+  - [Why outsource cybersecurity?](#why-outsource-cybersecurity)
+  - [What are the benefits of outsourcing?](#what-are-the-benefits-of-outsourcing)
+  - [How is managing outsourced work different from managing staff?](#how-is-managing-outsourced-work-different-from-managing-staff)
+  - [What are the risks of outsourcing cybersecurity?](#what-are-the-risks-of-outsourcing-cybersecurity)
+  - [The seven steps to successfully outsourcing cybersecurity work](#the-seven-steps-to-successfully-outsourcing-cybersecurity-work)
 - [**2. Identify Candidate Work to Outsource**](#2-identify-candidate-work-to-outsource) (3 videos)
-  - What should you outsource?
-  - Examples of work to outsource
-  - Case study 1: Identify candidate work to outsource
+  - [What should you outsource?](#what-should-you-outsource)
+  - [Examples of work to outsource](#examples-of-work-to-outsource)
+  - [Case study 1: Identify candidate work to outsource](#case-study-1-identify-candidate-work-to-outsource)
 - [**3. Document Requirements**](#3-document-requirements) (4 videos)
-  - Outcomes
-  - How the work gets done
-  - Service Level Agreements (SLA)
-  - Case study 2: Document requirements
+  - [Outcomes](#outcomes)
+  - [How the work gets done](#how-the-work-gets-done)
+  - [Service Level Agreements (SLA)](#service-level-agreements-sla)
+  - [Case study 2: Document requirements](#case-study-2-document-requirements)
 - [**4. Select a Vendor**](#4-select-a-vendor) (4 videos)
-  - What is an MSSP?
-  - Recognize and manage conflicting goals—profit vs. outcomes
-  - How do I evaluate an MSSP?
-  - Case study 3: Select a vendor
+  - [What is an MSSP?](#what-is-an-mssp)
+  - [Recognize and manage conflicting goals—profit vs. outcomes](#recognize-and-manage-conflicting-goalsprofit-vs-outcomes)
+  - [How do I evaluate an MSSP?](#how-do-i-evaluate-an-mssp)
+  - [Case study 3: Select a vendor](#case-study-3-select-a-vendor)
 - [**5. Contract with the Vendor**](#5-contract-with-the-vendor) (3 videos)
-  - How do I contract with a vendor?
-  - Tips for contracting with a vendor
-  - Case study 4: Contract with the vendor
+  - [How do I contract with a vendor?](#how-do-i-contract-with-a-vendor)
+  - [Tips for contracting with a vendor](#tips-for-contracting-with-a-vendor)
+  - [Case study 4: Contract with the vendor](#case-study-4-contract-with-the-vendor)
 - [**6. Implement the Agreement**](#6-implement-the-agreement) (3 videos)
-  - Plan and perform transition to the vendor
-  - Tips for transitioning to the vendor
-  - Case study 5: Implement the agreement
+  - [Plan and perform transition to the vendor](#plan-and-perform-transition-to-the-vendor)
+  - [Tips for transitioning to the vendor](#tips-for-transitioning-to-the-vendor)
+  - [Case study 5: Implement the agreement](#case-study-5-implement-the-agreement)
 - [**7. Managing the Vendor**](#7-managing-the-vendor) (3 videos)
-  - Manage by Service Level Agreements (SLA)
-  - Manage by contractual terms
-  - Case study 6: Manage the vendor
+  - [Manage by Service Level Agreements (SLA)](#manage-by-service-level-agreements-sla)
+  - [Manage by contractual terms](#manage-by-contractual-terms)
+  - [Case study 6: Manage the vendor](#case-study-6-manage-the-vendor)
 - [**8. Renewing the Agreement**](#8-renewing-the-agreement) (3 videos)
-  - How to renew the agreement
-  - When to not renew the agreement
-  - Case study 7: Renew the agreement
+  - [How to renew the agreement](#how-to-renew-the-agreement)
+  - [When to not renew the agreement](#when-to-not-renew-the-agreement)
+  - [Case study 7: Renew the agreement](#case-study-7-renew-the-agreement)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Outsourcing cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outsourcing-cybersecurity?u=76281980)
@@ -124,8 +124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (1), management (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [kip] (1)
 
 #### 2024 update
@@ -155,6 +155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Automation]] (1)
 > **Env Vars:** covid (1)
 > **Versions:** 9.5 (1)
 > **Definitions:** is an  (1)
@@ -184,6 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), leadership (1), [[Human Resources (HR)|Human resources]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -192,7 +194,7 @@ created: 2026-04-29
 
 ### 1. Prepare to Outsource Cybersecurity Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is outsourcing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980)
@@ -233,7 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), private (1)
+> **Frameworks & Libraries:** business (4), [[Microsoft Word|Word]] (1), [[Forms]] (1), management (1), [[IaaS|Infrastructure as a service]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -293,9 +295,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), management (1), [[Representational State Transfer (REST)|Rest]] (1), parallel (1), teams (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case. (1)
 > **Code Identifiers:** iphone (1), iphones (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -339,8 +341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), business (1), strengths (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Versions:** 3.5 (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -390,8 +392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (2), [[Decision-Making]] (1), business (1), management (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -445,9 +447,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Intrusion Detection]] (1), [[System Monitoring]] (1), business (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mssp (5)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -500,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[Cybersecurity]] (2), business (2), next (1)
 > **Env Vars:** mssp (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
@@ -555,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** business (4), [[Cybersecurity]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -563,7 +565,7 @@ created: 2026-04-29
 
 ### 2. Identify Candidate Work to Outsource
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What should you outsource?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980)
@@ -610,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (1)
+> **Frameworks & Libraries:** business (4), [[Cybersecurity]] (3), [[Security]] (1), [[Digital Forensics]] (1), management (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [presenter] (1)
@@ -662,9 +664,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), business (2), [[Network Security]] (1)
 > **Env Vars:** soc (4), mssp (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
@@ -717,13 +719,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), self (1)
+> **Frameworks & Libraries:** business (2), [[Security]] (1), [[Digital Forensics]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Document Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outcomes?u=76281980)
@@ -776,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), finally, (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), teams (1)
 > **Analogies:** for example (2)
 > **Env Vars:** ucsf (1)
 > **Speakers:** - [instructor] (1)
@@ -822,8 +824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -868,8 +870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), business (1)
 > **Env Vars:** sla (5), mssp (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -903,14 +905,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** next (1), business (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Select a Vendor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an MSSP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980)
@@ -939,8 +941,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Hardware]] (1), business (1), [[Intrusion Detection]] (1), [[Incident Response]] (1)
 > **Env Vars:** mssp (5), isp (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -991,6 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Intrusion Detection]] (1), [[System Monitoring]] (1), [[Security]] (1)
 > **Env Vars:** mssp (7), ids (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
@@ -1050,8 +1053,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Security]] (2), next (2), data (1), [[Scalability]] (1)
 > **Env Vars:** mssp (4), soc2 (1)
-> **Code Keywords:** finally, (3), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -1088,15 +1091,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Microsoft Office|Office]] (1), management (1), [[Cybersecurity]] (1)
 > **Env Vars:** mssp (8), sla (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Contract with the Vendor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do I contract with a vendor?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980)
@@ -1135,6 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), cloud (1), [[Intrusion Detection]] (1), traffic (1)
 > **Env Vars:** mssp (4), ids (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -1191,9 +1195,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), data (3), [[Cybersecurity]] (2), [[NIST]] (1)
 > **Env Vars:** mssp (7), raci (1), nist (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1226,8 +1230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1)
 > **Env Vars:** mssp (4)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -1235,7 +1239,7 @@ created: 2026-04-29
 
 ### 6. Implement the Agreement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan and perform transition to the vendor
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/plan-and-perform-transition-to-the-vendor?u=76281980)
@@ -1282,9 +1286,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Intrusion Detection]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** mssp (5)
-> **Code Keywords:** finally, (1), for. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1329,7 +1333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), finally, (1)
+> **Frameworks & Libraries:** power (1)
 > **Env Vars:** mssp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -1361,8 +1365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), database (1), business (1), strengths (1), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** mssp (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
@@ -1371,7 +1375,7 @@ created: 2026-04-29
 
 ### 7. Managing the Vendor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage by Service Level Agreements (SLA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-service-level-agreements-sla?u=76281980)
@@ -1410,6 +1414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** sla (6), mssp (5)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1449,6 +1454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Cybersecurity]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), cloud (1)
 > **Env Vars:** mssp (4), sla (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1493,15 +1499,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), management (1), [[Security]] (1)
 > **Env Vars:** mssp (7), sla (1)
-> **Code Keywords:** let (1), self (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 8. Renewing the Agreement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to renew the agreement
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-to-renew-the-agreement?u=76281980)
@@ -1548,8 +1554,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), hit (1), next (1)
 > **Env Vars:** mssp (6), sla (1)
-> **Code Keywords:** continue (4), let (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1587,7 +1593,6 @@ created: 2026-04-29
 >
 > **Env Vars:** mssp (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Warnings:** watch out (1)
@@ -1618,14 +1623,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Env Vars:** mssp (4), sla (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/next-steps?u=76281980)
@@ -1650,7 +1655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Security]] (3), business (2), management (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 

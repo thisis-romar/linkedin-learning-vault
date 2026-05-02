@@ -33,7 +33,7 @@ tags:
   - skill/serverless-computing
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Serverless%20Apps%20with%20AI%20Services%20on%20AWS.md)
@@ -52,61 +52,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Serverless apps with AI services on AWS
-  - What you should know
-  - What you are going to build in this course
+  - [Serverless apps with AI services on AWS](#serverless-apps-with-ai-services-on-aws)
+  - [What you should know](#what-you-should-know)
+  - [What you are going to build in this course](#what-you-are-going-to-build-in-this-course)
 - [**1. Introduction to AI**](#1-introduction-to-ai) (5 videos)
-  - Introduction to AI
-  - Introduction to Amazon AI Services
-  - Introduction to Gen AI
-  - Introduction to Amazon Bedrock
-  - Challenges when building AI and Gen AI applications
+  - [Introduction to AI](#introduction-to-ai)
+  - [Introduction to Amazon AI Services](#introduction-to-amazon-ai-services)
+  - [Introduction to Gen AI](#introduction-to-gen-ai)
+  - [Introduction to Amazon Bedrock](#introduction-to-amazon-bedrock)
+  - [Challenges when building AI and Gen AI applications](#challenges-when-building-ai-and-gen-ai-applications)
 - [**2. Getting started with Serverless**](#2-getting-started-with-serverless) (3 videos)
-  - What is serverless?
-  - Why serverless is great to build AI apps
-  - Using Amazon Bedrock from serverless services
+  - [What is serverless?](#what-is-serverless)
+  - [Why serverless is great to build AI apps](#why-serverless-is-great-to-build-ai-apps)
+  - [Using Amazon Bedrock from serverless services](#using-amazon-bedrock-from-serverless-services)
 - [**3. Infrastructure as code**](#3-infrastructure-as-code) (4 videos)
-  - The important role of infrastructure as code
-  - Introducing AWS SAM
-  - Installing and configuring AWS SAM
-  - Getting started with the project
+  - [The important role of infrastructure as code](#the-important-role-of-infrastructure-as-code)
+  - [Introducing AWS SAM](#introducing-aws-sam)
+  - [Installing and configuring AWS SAM](#installing-and-configuring-aws-sam)
+  - [Getting started with the project](#getting-started-with-the-project)
 - [**4. Introduction to Step Functions**](#4-introduction-to-step-functions) (9 videos)
-  - Understanding Step Functions
-  - Creating your first workflow in the AWS console
-  - Creating a workflow as IaC
-  - Introduction to ASL
-  - Introduction to flow states
-  - Step Functions integrations
-  - Modifying the workflow with simple integration
-  - Challenge: Modify the state machine to add an integration to AI service
-  - Solution: Modify the state machine to add an integration to AI service
+  - [Understanding Step Functions](#understanding-step-functions)
+  - [Creating your first workflow in the AWS console](#creating-your-first-workflow-in-the-aws-console)
+  - [Creating a workflow as IaC](#creating-a-workflow-as-iac)
+  - [Introduction to ASL](#introduction-to-asl)
+  - [Introduction to flow states](#introduction-to-flow-states)
+  - [Step Functions integrations](#step-functions-integrations)
+  - [Modifying the workflow with simple integration](#modifying-the-workflow-with-simple-integration)
+  - [Challenge: Modify the state machine to add an integration to AI service](#challenge-modify-the-state-machine-to-add-an-integration-to-ai-service)
+  - [Solution: Modify the state machine to add an integration to AI service](#solution-modify-the-state-machine-to-add-an-integration-to-ai-service)
 - [**5. Building a Workflow with AI**](#5-building-a-workflow-with-ai) (8 videos)
-  - Modifying the existing state machine to use Amazon Bedrock
-  - Challenge: Integrate with Amazon Bedrock
-  - Solution:  Integrate with Amazon Bedrock
-  - What is event-driven architecture?
-  - How to trigger a state machine when there is a new S3 file
-  - How to send an email from the state machine
-  - Challenge: Integrate to EventBridge event bus to send an event
-  - Solution: Integrate to EventBridge event bus to send an event
+  - [Modifying the existing state machine to use Amazon Bedrock](#modifying-the-existing-state-machine-to-use-amazon-bedrock)
+  - [Challenge: Integrate with Amazon Bedrock](#challenge-integrate-with-amazon-bedrock)
+  - [Solution:  Integrate with Amazon Bedrock](#solution-integrate-with-amazon-bedrock)
+  - [What is event-driven architecture?](#what-is-event-driven-architecture)
+  - [How to trigger a state machine when there is a new S3 file](#how-to-trigger-a-state-machine-when-there-is-a-new-s3-file)
+  - [How to send an email from the state machine](#how-to-send-an-email-from-the-state-machine)
+  - [Challenge: Integrate to EventBridge event bus to send an event](#challenge-integrate-to-eventbridge-event-bus-to-send-an-event)
+  - [Solution: Integrate to EventBridge event bus to send an event](#solution-integrate-to-eventbridge-event-bus-to-send-an-event)
 - [**6. Build a Chatbot with GenAI**](#6-build-a-chatbot-with-genai) (9 videos)
-  - What is an Amazon Bedrock agent?
-  - What you are going to build
-  - Creating a Lambda function for the agent
-  - Creating an Open API for the function
-  - What is an Amazon Bedrock knowledge base?
-  - Creating a knowledge base
-  - Creating an Amazon Bedrock agent
-  - Challenge: Add another function to the agent
-  - Solution: Add another function to the agent
+  - [What is an Amazon Bedrock agent?](#what-is-an-amazon-bedrock-agent)
+  - [What you are going to build](#what-you-are-going-to-build)
+  - [Creating a Lambda function for the agent](#creating-a-lambda-function-for-the-agent)
+  - [Creating an Open API for the function](#creating-an-open-api-for-the-function)
+  - [What is an Amazon Bedrock knowledge base?](#what-is-an-amazon-bedrock-knowledge-base)
+  - [Creating a knowledge base](#creating-a-knowledge-base)
+  - [Creating an Amazon Bedrock agent](#creating-an-amazon-bedrock-agent)
+  - [Challenge: Add another function to the agent](#challenge-add-another-function-to-the-agent)
+  - [Solution: Add another function to the agent](#solution-add-another-function-to-the-agent)
 - [**Conclusion**](#conclusion) (3 videos)
-  - What we built
-  - Cleaning up the environment
-  - Next steps
+  - [What we built](#what-we-built)
+  - [Cleaning up the environment](#cleaning-up-the-environment)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Serverless apps with AI services on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980)
@@ -133,9 +133,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), aws (3), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
-> **Code Keywords:** for. (1), let (1)
 > **Speakers:** - artificial (1)
 
 #### What you should know
@@ -173,6 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[Node.js]] (2), [[JavaScript]] (1), [[Programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (3), node (2), find (1)
 > **Env Vars:** aws (3)
 > **File Paths:** node.js (2)
@@ -180,7 +181,6 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you need to have (1)
-> **Speakers:** - [instructor] (1)
 
 #### What you are going to build in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build-in-this-course?u=76281980)
@@ -211,14 +211,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (3), ai (2), application (1), [[Generative AI]] (1), data (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Introduction to AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980)
@@ -307,8 +307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Deep Learning]] (3), data (2), [[Algorithms]] (2)
 > **Definitions:** is a  (4), is called (1)
-> **Code Keywords:** require (1), finally, (1), while. (1), this, (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -373,11 +373,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), aws (8), [[Amazon EC2]] (1), [[Generative AI]] (1), api (1)
 > **CLI Commands:** aws (8), find (5)
 > **Env Vars:** aws (8), ec2 (1), api (1), sdk (1)
 > **Cross-References:** later in (2), previous video (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), pass (1)
 > **UI Navigation:** navigate to (2)
 > **Speakers:** - [instructor] (1)
 
@@ -450,9 +450,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (6), ai (5), next (4), chatbot (2)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), type, (1)
 > **Env Vars:** ide (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -490,8 +490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (2), next (1), api (1), application (1)
 > **Env Vars:** api (1), ai21 (1), rag (1)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -542,6 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), aws (2), data (2), api (2), application (1)
 > **Env Vars:** aws (2), api (2)
 > **CLI Commands:** aws (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -552,7 +553,7 @@ created: 2026-04-29
 
 ### 2. Getting started with Serverless
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is serverless?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980)
@@ -615,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (4), function (2)
+> **Frameworks & Libraries:** aws (5), cloud (3), ai (2), business (2), application (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (5)
 > **Speakers:** - [instructor] (1)
@@ -667,10 +668,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), aws (7), ai (4), data (3), [[Scalability]] (2)
 > **Env Vars:** aws (7), api (1)
 > **CLI Commands:** aws (7)
 > **Definitions:** is a  (5)
-> **Code Keywords:** lambda (2), let (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** boilerplate (1)
 > **Best Practices:** recommended (1)
@@ -715,9 +716,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), [[Software Development]] (1), api (1), [[JavaScript]] (1), prompt (1)
 > **Env Vars:** aws (8), sdk (4), sam (2), api (1)
 > **CLI Commands:** aws (8)
-> **Code Keywords:** lambda (4), function (3), pass (1)
 > **Prerequisites:** configure (2)
 > **Versions:** version 3 (1)
 > **UI Navigation:** drag and drop (1)
@@ -727,7 +728,7 @@ created: 2026-04-29
 
 ### 3. Infrastructure as code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The important role of infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980)
@@ -794,10 +795,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (8), aws (8), application (2), ai (1), [[Programming]] (1)
 > **Env Vars:** aws (8), sam (2), yaml (1), json (1), cdk (1)
 > **CLI Commands:** aws (8), python (1), cd (1), terraform (1)
 > **Definitions:** means that (2), is a  (1)
-> **Code Keywords:** let (1), lambda (1)
 > **Cross-References:** later in (1)
 > **Tools:** aws console (1)
 > **UI Navigation:** go to (1)
@@ -876,9 +877,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (17), cloud (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), application (2), ci (2)
 > **Env Vars:** aws (17), sam (14), yaml (1), cli (1)
 > **CLI Commands:** aws (17), cd (2), make (1)
-> **Code Keywords:** this, (1), lambda (1)
 > **Tools:** aws console (1), terminal (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
@@ -918,10 +919,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), [[CLI]] (6), application (1), [[LinkedIn]] (1)
 > **Env Vars:** aws (12), sam (8), cli (6), iam (3)
 > **CLI Commands:** aws (13), find (1), docker (1), make (1)
 > **Prerequisites:** install (4), configure (2), you need to have (2)
-> **Code Keywords:** let (1), lambda (1), finally, (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1023,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), super (1), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** aws (4), cloud (2), [[LinkedIn]] (2), node (1)
 > **CLI Commands:** aws (4), make (1), mkdir (1), find (1), node (1)
 > **Exercise Files:** template (7)
 > **File Paths:** app.js (2), template.yml (1), samconfig.toml (1)
@@ -1035,7 +1036,7 @@ created: 2026-04-29
 
 ### 4. Introduction to Step Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Step Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980)
@@ -1134,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), lambda (2), this. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (6), aws (5), [[Orchestration]] (4), application (3), parallel (3)
 > **Env Vars:** aws (5), api (1), htp (1)
 > **CLI Commands:** aws (5), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1238,7 +1239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (14), function (12), case, (2), let (2), throw (2)
+> **Frameworks & Libraries:** [[Search]] (2), aws (1), management (1), [[Microsoft Word|Word]] (1), api (1)
 > **UI Navigation:** go to (4), dropdown (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Env Vars:** aws (1), api (1)
@@ -1358,7 +1359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), lambda (4), let (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** aws (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[JSON]] (2), next (1)
 > **Env Vars:** yaml (4), aws (3), json (2), sam (1), asl (1)
 > **CLI Commands:** aws (3), make (2), find (1)
 > **Tools:** visual studio (3), aws console (1)
@@ -1456,8 +1457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[JSON]] (1), data (1), feature (1), [[Programming]] (1)
 > **Env Vars:** asl (5), json (1), yaml (1), ide (1)
-> **Code Keywords:** let (1), type. (1), pass (1), function (1), case. (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Cross-References:** as you saw (1), previous video (1), in the next (1)
 > **Analogies:** for example (2)
@@ -1550,7 +1551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), lambda (1), function (1), case, (1)
+> **Frameworks & Libraries:** parallel (7), data (2), concurrent (2), [[JSON]] (2), aws (1)
 > **Env Vars:** json (2), asl (1), aws (1), http (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** aws (1), make (1)
@@ -1664,7 +1665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), lambda (4), let (1), pass (1), for, (1)
+> **Frameworks & Libraries:** api (10), next (8), aws (3), data (2), [[Microservices]] (1)
 > **Env Vars:** api (10), aws (3), http (2), ecs (1), sdk (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **CLI Commands:** aws (3)
@@ -1994,7 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (7), lambda (4), pass (4), this. (2)
+> **Frameworks & Libraries:** api (10), ai (3), aws (2), [[LinkedIn]] (1), [[CLI]] (1)
 > **Env Vars:** api (10), sam (3), aws (2), asl (1), uri (1)
 > **UI Navigation:** go to (9), open the (2)
 > **CLI Commands:** make (5), aws (2), find (1)
@@ -2068,7 +2069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), this, (2), let (2), this. (2), case, (1)
+> **Frameworks & Libraries:** api (4), [[JSON]] (2), aws (1), ai (1)
 > **Env Vars:** api (4), json (2), aws (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** aws (1)
@@ -2236,7 +2237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (3), this, (2), function (1), case, (1)
+> **Frameworks & Libraries:** api (6), [[Search]] (1), aws (1), next (1), [[JSON]] (1)
 > **Env Vars:** api (6), uri (1), aws (1), json (1), yaml (1)
 > **CLI Commands:** find (3), make (2), aws (1)
 > **Code Identifiers:** getobject (2)
@@ -2248,7 +2249,7 @@ created: 2026-04-29
 
 ### 5. Building a Workflow with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modifying the existing state machine to use Amazon Bedrock
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980)
@@ -2457,7 +2458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (4), finally, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** prompt (13), data (3), [[Generative AI]] (2), ai (2), next (1)
 > **Env Vars:** uri (6), api (1), yaml (1), aws (1)
 > **UI Navigation:** go to (6), select the (1)
 > **Definitions:** is a  (6)
@@ -2503,9 +2504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (3), [[JSON]] (1), next (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), imagine (1)
-> **Code Keywords:** for. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (intriguing music) (1)
@@ -2655,7 +2656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (2), finally, (2), case, (1), function (1)
+> **Frameworks & Libraries:** parallel (11), prompt (9), next (2), functional (1), [[Generative AI]] (1)
 > **Env Vars:** uri (4), yawl (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (4)
@@ -2777,7 +2778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), require (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** application (9), teams (2), feature (1), [[Scalability]] (1), [[E-Commerce]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (2), aws (1)
 > **Env Vars:** aws (1)
@@ -2941,7 +2942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this, (2), lambda (1), type, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), aws (3), api (2), [[Data Transformation]] (1), [[Zoom]] (1)
 > **CLI Commands:** aws (3), make (2)
 > **Env Vars:** api (2), aws (2), sdk (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -3073,7 +3074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (3), case, (2), pass (2), this, (1)
+> **Frameworks & Libraries:** next (3), prompt (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), api (1), [[Data Transformation]] (1)
 > **Env Vars:** sns (5), api (1), arn (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
@@ -3167,7 +3168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), case, (2)
+> **Frameworks & Libraries:** api (1), [[JSON]] (1), next (1)
 > **Env Vars:** yaml (2), api (1), json (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -3299,7 +3300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), this, (2), default. (1), case, (1)
+> **Frameworks & Libraries:** next (1), api (1), cloud (1), [[Search]] (1)
 > **Env Vars:** yaml (2), api (1), arn (1), url (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (3), find (1)
@@ -3311,7 +3312,7 @@ created: 2026-04-29
 
 ### 6. Build a Chatbot with GenAI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Amazon Bedrock agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980)
@@ -3362,8 +3363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (1), [[Data Transformation]] (1), [[Generative AI]] (1), [[Databases]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** this, (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3430,7 +3431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), lambda (5), pass (1), let (1)
+> **Frameworks & Libraries:** next (3), api (2), aws (1), data (1), [[Fetch]] (1)
 > **Cross-References:** in the next (3), later in (1)
 > **CLI Commands:** aws (1), find (1), make (1)
 > **Env Vars:** api (2), aws (1)
@@ -3622,7 +3623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (8), lambda (8), case, (2), pass (2)
+> **Frameworks & Libraries:** api (13), [[JSON]] (5), [[LinkedIn]] (2), data (2), next (2)
 > **Env Vars:** api (13), json (2), pdf (1), url (1)
 > **Code Identifiers:** apipath (3), actiongroup (2), httpmethod (2), sessionattributes (1), promptsessionattributes (1)
 > **CLI Commands:** make (5), find (2), node (2)
@@ -3762,8 +3763,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (15), [[JSON]] (5), [[Generative AI]] (2), aws (2), [[Search]] (1)
 > **Env Vars:** api (15), aws (1)
-> **Code Keywords:** let (5), function (4), lambda (4), this, (1), continue (1)
 > **CLI Commands:** make (3), aws (2), cp (1)
 > **File Paths:** openapi.json (2)
 > **Code Identifiers:** openapi (2)
@@ -3804,8 +3805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), rag (4), prompt (2), [[Fetch]] (1), next (1)
 > **Env Vars:** rag (4)
-> **Code Keywords:** let (1), lambda (1), function (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -3916,7 +3917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), while. (1), this, (1), default, (1)
+> **Frameworks & Libraries:** data (6), next (5), aws (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), database (2)
 > **CLI Commands:** find (2), aws (2), make (1)
 > **Env Vars:** aws (2), url (2), csv (1)
 > **UI Navigation:** go to (2), select the (1)
@@ -4078,7 +4079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), lambda (9), function (8), this, (3), pass (3)
+> **Frameworks & Libraries:** api (5), [[Search]] (4), next (2), prompt (2), [[JSON]] (2)
 > **Env Vars:** api (5), arn (3), uri (2), yaml (2), json (2)
 > **Code Identifiers:** openapi (2)
 > **UI Navigation:** go to (2)
@@ -4122,6 +4123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), api (2), [[LinkedIn]] (1), [[JSON]] (1)
 > **Env Vars:** api (2)
 > **File Paths:** openapi.json (1)
 > **CLI Commands:** make (1)
@@ -4129,7 +4131,6 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (lively music) (1)
 
 #### Solution: Add another function to the agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980)
@@ -4258,7 +4259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (7), lambda (1), this, (1), this. (1)
+> **Frameworks & Libraries:** api (4), next (3), cloud (1), [[JSON]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** api (4), json (1)
 > **UI Navigation:** go to (1)
@@ -4269,7 +4270,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What we built
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980)
@@ -4320,8 +4321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Orchestration]] (7), data (6), application (4), ai (4), [[Generative AI]] (4)
 > **Env Vars:** api (3)
-> **Code Keywords:** let (1), lambda (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -4396,8 +4397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[CLI]] (2), [[JSON]] (1), application (1), [[GitHub]] (1)
 > **Env Vars:** aws (9), sam (8), cli (2), delete (1)
-> **Code Keywords:** delete (12), lambda (2), case, (1), finally, (1)
 > **CLI Commands:** aws (9), make (3), find (1)
 > **UI Navigation:** go to (7)
 > **File Paths:** openapi.json (1), wolrdcities.csv (1)
@@ -4438,9 +4439,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[LinkedIn]] (2), ai (1), application (1)
 > **Env Vars:** aws (7), sam (2), cdk (1)
 > **CLI Commands:** aws (7), find (1), terraform (1)
-> **Code Keywords:** lambda (1), case, (1), continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)

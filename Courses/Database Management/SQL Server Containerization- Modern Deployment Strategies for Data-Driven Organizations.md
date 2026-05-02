@@ -33,7 +33,7 @@ tags:
   - skill/sql
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/SQL%20Server%20Containerization-%20Modern%20Deployment%20Strategies%20for%20Data-Driven%20Organizations.md)
@@ -52,31 +52,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - SQL Server on Linux, containers, and Kubernetes
-  - Demo environment and prerequisites
+  - [SQL Server on Linux, containers, and Kubernetes](#sql-server-on-linux-containers-and-kubernetes)
+  - [Demo environment and prerequisites](#demo-environment-and-prerequisites)
 - [**1. SQL Server on Linux**](#1-sql-server-on-linux) (4 videos)
-  - How to run SQL Server on Linux
-  - Deploying SQL Server on Linux
-  - Accessing a SQL Server on Linux
-  - Integrating SQL Server on Linux with Active Directory
+  - [How to run SQL Server on Linux](#how-to-run-sql-server-on-linux)
+  - [Deploying SQL Server on Linux](#deploying-sql-server-on-linux)
+  - [Accessing a SQL Server on Linux](#accessing-a-sql-server-on-linux)
+  - [Integrating SQL Server on Linux with Active Directory](#integrating-sql-server-on-linux-with-active-directory)
 - [**2. SQL Server on Containers**](#2-sql-server-on-containers) (4 videos)
-  - Container fundamentals and Docker installation
-  - Deploying and accessing SQL Server using Docker
-  - Working with a SQL Server using Docker
-  - Integrating SQL Server on containers with Active Directory
+  - [Container fundamentals and Docker installation](#container-fundamentals-and-docker-installation)
+  - [Deploying and accessing SQL Server using Docker](#deploying-and-accessing-sql-server-using-docker)
+  - [Working with a SQL Server using Docker](#working-with-a-sql-server-using-docker)
+  - [Integrating SQL Server on containers with Active Directory](#integrating-sql-server-on-containers-with-active-directory)
 - [**3. SQL Server on Kubernetes**](#3-sql-server-on-kubernetes) (6 videos)
-  - Kubernetes fundamentals
-  - Installing Kubernetes
-  - Deploying and accessing SQL Server on Kubernetes
-  - Working with and maintaining SQL Server on Kubernetes
-  - Integrating SQL Server on Kubernetes with Active Directory
-  - Azure Arc-enabled data services
+  - [Kubernetes fundamentals](#kubernetes-fundamentals)
+  - [Installing Kubernetes](#installing-kubernetes)
+  - [Deploying and accessing SQL Server on Kubernetes](#deploying-and-accessing-sql-server-on-kubernetes)
+  - [Working with and maintaining SQL Server on Kubernetes](#working-with-and-maintaining-sql-server-on-kubernetes)
+  - [Integrating SQL Server on Kubernetes with Active Directory](#integrating-sql-server-on-kubernetes-with-active-directory)
+  - [Azure Arc-enabled data services](#azure-arc-enabled-data-services)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL Server on Linux, containers, and Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980)
@@ -91,6 +91,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Windows]] (2), [[Kubernetes]] (2), [[Linux]] (1), [[SQL]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
@@ -147,9 +148,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (10), [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (5), [[Kubernetes]] (1), [[Ubuntu]] (1)
 > **Env Vars:** sql (5), nfs (5), ram (4), dns (1), dhcp (1)
 > **Prerequisites:** setup (2), install (2)
-> **Code Keywords:** let (1), module (1), from. (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** curl (1), grep (1)
 > **Tools:** vs code (1), powershell (1)
@@ -159,7 +160,7 @@ created: 2026-04-29
 
 ### 1. SQL Server on Linux
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to run SQL Server on Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980)
@@ -208,8 +209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (14), [[Microsoft SQL Server|Sql server]] (10), [[Windows]] (9), [[Ubuntu]] (5), application (3)
 > **Env Vars:** sql (10), sqlpal (4), suse (1)
-> **Code Keywords:** let (2), case, (1), super (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** install (3)
 > **CLI Commands:** python (1)
@@ -300,9 +301,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (26), [[Linux]] (6), [[Microsoft]] (2), [[Microsoft Products|Products]] (1), [[Windows]] (1)
 > **Env Vars:** sql (28)
 > **Prerequisites:** install (7), configure (2), setup (2)
-> **Code Keywords:** let (3), for. (1), public (1), case, (1), switch (1)
 > **CLI Commands:** make (3), journalctl (2), find (1), apt (1)
 > **Tools:** vs code (1)
 > **Analogies:** for example (1)
@@ -351,11 +352,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), [[Microsoft SQL Server|Sql server]] (7), [[Windows]] (5), [[SQL]] (2), [[CLI]] (1)
 > **Env Vars:** sql (9), ssms (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Integrating SQL Server on Linux with Active Directory
@@ -427,9 +428,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Active Directory]] (6), [[Linux]] (4), [[SQL]] (2), dns (2)
 > **Env Vars:** sql (11), spn (4), dns (2), demo (1), local (1)
 > **CLI Commands:** make (3), find (1), mysql (1)
-> **Code Keywords:** let (3), super (1), match. (1)
 > **Prerequisites:** install (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -437,7 +438,7 @@ created: 2026-04-29
 
 ### 2. SQL Server on Containers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Container fundamentals and Docker installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980)
@@ -524,10 +525,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (14), [[Windows]] (11), [[Microsoft SQL Server|Sql server]] (3), application (3), [[Virtualization]] (2)
 > **CLI Commands:** docker (13), make (4), mysql (1)
 > **Env Vars:** sql (4), cpu (1), iso (1), wsl (1), bios (1)
 > **Prerequisites:** install (6)
-> **Code Keywords:** let (2), module (1), super (1), default. (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), similar to (1)
 > **Versions:** version 2 (1)
@@ -594,9 +595,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (15), [[Linux]] (7), [[Windows]] (5), [[SQL]] (2), web (1)
 > **Env Vars:** sql (17), sqlcmd (2), tcp (1)
 > **CLI Commands:** docker (6)
-> **Code Keywords:** self (1), public (1), let (1), super (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Ports:** port 3133 (1), port 1433 (1)
 > **Cross-References:** go back to (1)
@@ -640,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), switch (2), pass (1), case, (1)
+> **Frameworks & Libraries:** database (2), [[Databases]] (2), [[SQL]] (1), data (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (2), mssql (1), t3205 (1), ssms (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** mysql (1)
@@ -713,9 +714,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (12), dns (6), [[Microsoft SQL Server|Sql server]] (4), [[Linux]] (4), [[Active Directory]] (3)
 > **Env Vars:** sql (16), dns (6), spn (3), ptr (1), svc (1)
 > **CLI Commands:** docker (8), make (3)
-> **Code Keywords:** module (1), super (1)
 > **File Paths:** logger.ini (1)
 > **Ports:** port 32433 (1)
 > **Cross-References:** go back to (1)
@@ -724,7 +725,7 @@ created: 2026-04-29
 
 ### 3. SQL Server on Kubernetes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kubernetes fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980)
@@ -801,10 +802,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (7), [[Microsoft SQL Server|Sql server]] (5), node (3), data (2), [[Orchestration]] (1)
 > **Env Vars:** sql (5), yaml (2), nfs (2), pvc (2), cpu (2)
 > **CLI Commands:** kubectl (3), node (3), make (2)
 > **Analogies:** for example (5), kind of like (1), such as (1)
-> **Code Keywords:** let (2), this, (2), pass (1), class, (1)
 > **Code Identifiers:** iscsi (1)
 > **Speakers:** - [instructor] (1)
 
@@ -985,9 +986,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (18), [[Microsoft SQL Server|Sql server]] (3), [[Linux]] (3), cloud (3), node (3)
 > **CLI Commands:** make (8), kubectl (4), node (3)
 > **Env Vars:** nfs (6), sql (4), cli (2), cidr (1), atc (1)
-> **Code Keywords:** this, (3), let (3), self (2), function (2), from. (1)
 > **Prerequisites:** install (8)
 > **Code Identifiers:** strictarp (2), localstorage (1)
 > **Analogies:** just like (1), for example (1), similar to (1)
@@ -1095,9 +1096,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), data (3), node (3), [[Kubernetes]] (2), [[Windows]] (1)
 > **CLI Commands:** kubectl (5), make (3), node (3), docker (2)
 > **Env Vars:** sql (6), yaml (1), tcp (1), mssql_sa_password (1)
-> **Code Keywords:** case. (1), let (1), pass (1), var (1), this, (1)
 > **Best Practices:** recommended (2), make sure to (1)
 > **Ports:** port 1433 (1), port 32588 (1)
 > **Analogies:** just like (1), for example (1)
@@ -1193,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[SQL]] (3), data (2), database (2), [[Kubernetes]] (2)
 > **Env Vars:** sql (25), pvc (5), nfs (4), yaml (2), mssql (2)
-> **Code Keywords:** delete (4), let (3), this, (3), class. (2)
 > **CLI Commands:** kubectl (4), make (1), cp (1), docker (1), node (1)
 > **Analogies:** for example (3), just like (1)
 > **Definitions:** is a  (1)
@@ -1283,9 +1284,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), data (3), [[Kubernetes]] (2), [[SQL]] (2), [[Linux]] (2)
 > **Env Vars:** dns (5), sql (3), spn (1), ptr (1)
 > **CLI Commands:** docker (4), make (3)
-> **Code Keywords:** let (1), this. (1), this, (1), case, (1)
 > **Analogies:** just like (4)
 > **File Paths:** logger.ini (1)
 > **Speakers:** - [instructor] (1)
@@ -1313,6 +1314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (4), data (3), [[Kubernetes]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4), cli (1)
 > **CLI Commands:** kubectl (1), az (1)
 > **Tools:** azure portal (1)
@@ -1322,7 +1324,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980)
@@ -1351,8 +1353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Linux]] (3), application (2), [[Windows]] (2), [[Microsoft]] (1)
 > **Env Vars:** sql (5), sqlpal (1)
-> **Code Keywords:** let (1), this. (1), self (1)
 > **CLI Commands:** docker (1), cd (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)

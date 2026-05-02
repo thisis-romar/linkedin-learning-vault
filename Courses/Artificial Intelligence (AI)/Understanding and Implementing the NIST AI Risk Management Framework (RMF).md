@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/risk-management-framework-rmf
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20and%20Implementing%20the%20NIST%20AI%20Risk%20Management%20Framework%20(RMF).md)
@@ -54,41 +54,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Implement the NIST risk management framework
+  - [Implement the NIST risk management framework](#implement-the-nist-risk-management-framework)
 - [**1. Overview: The Need of an AI Risk Management Framework**](#1-overview-the-need-of-an-ai-risk-management-framework) (2 videos)
-  - Why the need for an AI RMF
-  - The origin and overview of NIST AI RMF
+  - [Why the need for an AI RMF](#why-the-need-for-an-ai-rmf)
+  - [The origin and overview of NIST AI RMF](#the-origin-and-overview-of-nist-ai-rmf)
 - [**2. Sections 1-2: Foundational Information – Framing Risk**](#2-sections-1-2-foundational-information-framing-risk) (4 videos)
-  - Understanding and addressing risks, impacts, and harms: Sections 1.1
-  - Challenges, measurement, and tolerance: Sections 1.2-1.2.2
-  - Prioritization and integration: Sections 1.2.3-1.2.4
-  - Audience: Section 2
+  - [Understanding and addressing risks, impacts, and harms: Sections 1.1](#understanding-and-addressing-risks-impacts-and-harms-sections-11)
+  - [Challenges, measurement, and tolerance: Sections 1.2-1.2.2](#challenges-measurement-and-tolerance-sections-12-122)
+  - [Prioritization and integration: Sections 1.2.3-1.2.4](#prioritization-and-integration-sections-123-124)
+  - [Audience: Section 2](#audience-section-2)
 - [**3. Sections 3-4: AI Risks, Trustworthiness, and Effectiveness**](#3-sections-3-4-ai-risks-trustworthiness-and-effectiveness) (5 videos)
-  - Trustworthiness, valid, and reliable: Sections 3–3.1
-  - Safe, secure, resilient, accountable, and transparent: Sections 3.2–3.4
-  - Explainable, interpretable, and privacy: Sections 3.5–3.6
-  - Fair, with harmful bias managed: Section 3.7
-  - Effectiveness: Section 4
+  - [Trustworthiness, valid, and reliable: Sections 3–3.1](#trustworthiness-valid-and-reliable-sections-331)
+  - [Safe, secure, resilient, accountable, and transparent: Sections 3.2–3.4](#safe-secure-resilient-accountable-and-transparent-sections-3234)
+  - [Explainable, interpretable, and privacy: Sections 3.5–3.6](#explainable-interpretable-and-privacy-sections-3536)
+  - [Fair, with harmful bias managed: Section 3.7](#fair-with-harmful-bias-managed-section-37)
+  - [Effectiveness: Section 4](#effectiveness-section-4)
 - [**4. Section 5: Core**](#4-section-5-core) (10 videos)
-  - AI RMF Core: Section 5
-  - Govern: Section 5.1, C1
-  - Govern: Section 5.1, C2–3
-  - Govern: Section 5.1, C4–6
-  - Map: Section 5.2, C1
-  - Map: Section 5.2, C2–5
-  - Measure: Section 5.3, C1
-  - Measure: Section 5.3, C2–4
-  - Manage: Section 5.4
-  - Using the Playbook to operationalize AI RMF Core
+  - [AI RMF Core: Section 5](#ai-rmf-core-section-5)
+  - [Govern: Section 5.1, C1](#govern-section-51-c1)
+  - [Govern: Section 5.1, C2–3](#govern-section-51-c23)
+  - [Govern: Section 5.1, C4–6](#govern-section-51-c46)
+  - [Map: Section 5.2, C1](#map-section-52-c1)
+  - [Map: Section 5.2, C2–5](#map-section-52-c25)
+  - [Measure: Section 5.3, C1](#measure-section-53-c1)
+  - [Measure: Section 5.3, C2–4](#measure-section-53-c24)
+  - [Manage: Section 5.4](#manage-section-54)
+  - [Using the Playbook to operationalize AI RMF Core](#using-the-playbook-to-operationalize-ai-rmf-core)
 - [**5. Section 6, Appendix A–D: AI RMF Profiles**](#5-section-6-appendix-ad-ai-rmf-profiles) (2 videos)
-  - Overview of profiles: Section 6
-  - Overview of Appendices A–D
+  - [Overview of profiles: Section 6](#overview-of-profiles-section-6)
+  - [Overview of Appendices A–D](#overview-of-appendices-ad)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where do you begin?
+  - [Where do you begin?](#where-do-you-begin)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement the NIST risk management framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980)
@@ -111,14 +111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), rmf (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), [[NIST]] (1)
 > **Env Vars:** rmf (2), nist (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - artificial (1)
 
 
 ### 1. Overview: The Need of an AI Risk Management Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why the need for an AI RMF
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980)
@@ -171,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (2), [[NIST]] (2), rmf (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** nist (2), rmf (2), mit (1)
-> **Code Keywords:** static (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
@@ -238,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), rmf (10), [[NIST]] (7), [[Security]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** rmf (10), nist (7), fips (1)
-> **Code Keywords:** private (1), public (1), let (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for instance (1)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 ### 2. Sections 1-2: Foundational Information – Framing Risk
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding and addressing risks, impacts, and harms: Sections 1.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980)
@@ -325,8 +325,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), rmf (4), management (2), [[Security]] (2), hit (1)
 > **Env Vars:** rmf (4)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - an (1)
 
@@ -399,7 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), super (1), case, (1), let (1)
+> **Frameworks & Libraries:** ai (12), management (1), [[Automation]] (1), express (1), next (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** rand (1)
@@ -451,9 +451,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (5), management (3), [[Cybersecurity]] (3), [[Privacy]] (3)
 > **Env Vars:** rmf (2), pii (2)
 > **Analogies:** for instance (2), for example (2)
-> **Code Keywords:** protected (1), case, (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -502,16 +502,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[NIST]] (4), rmf (4), data (3)
 > **Env Vars:** nist (4), rmf (4), oecd (3), tevv (2)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** let (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Sections 3-4: AI Risks, Trustworthiness, and Effectiveness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trustworthiness, valid, and reliable: Sections 3–3.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980)
@@ -582,10 +582,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Privacy]] (2), [[NIST]] (1), rmf (1), application (1)
 > **Env Vars:** nist (1), rmf (1), iso (1)
 > **Definitions:** refers to (1), defined as (1), known as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** private (1), let (1)
 > **Analogies:** for example (2)
 > **Speakers:** - what (1)
 
@@ -642,8 +642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Accountability]] (5), data (2), chatbot (2), rmf (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** rmf (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -697,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** ai (6), [[Privacy]] (6), [[Debugging]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[NIST]] (1)
 > **Env Vars:** nist (1), pet (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -751,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[NIST]] (3), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), rmf (1)
 > **Env Vars:** nist (3), rmf (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -796,15 +796,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), rmf (7), [[NIST]] (4), [[Accountability]] (1), [[Organizational Culture]] (1)
 > **Env Vars:** rmf (7), nist (4)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Section 5: Core
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI RMF Core: Section 5
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980)
@@ -853,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), rmf (10), [[NIST]] (4), [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Env Vars:** rmf (10), nist (4)
-> **Code Keywords:** function (3), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - think (1)
 
@@ -915,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** ai (13), management (4), rmf (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), functional (1)
 > **Env Vars:** rmf (3)
 > **Definitions:** is an  (2)
 > **Speakers:** - [host] (1)
@@ -965,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), continue (1)
+> **Frameworks & Libraries:** [[Accountability]] (6), ai (5), [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), teams (1)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
 > **Analogies:** imagine (1)
@@ -1028,7 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** ai (4), teams (2), data (2), business (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [nist.gov](https://nist.gov) (1)
 > **Env Vars:** nist (1)
@@ -1100,7 +1100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** ai (14), data (2), [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), management (1)
 > **Env Vars:** gps (1), nist (1), rmf (1), pii (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - [presenter] (1)
@@ -1186,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (3)
+> **Frameworks & Libraries:** ai (8), data (2), next (2), [[Predictive AI]] (1), application (1)
 > **CLI Commands:** make (2)
 > **URLs:** [nist.gov](https://nist.gov) (1)
 > **Speakers:** - [instructor] (1)
@@ -1236,7 +1236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1), continue (1)
+> **Frameworks & Libraries:** ai (6), data (2), business (1), rmf (1), product (1)
 > **Env Vars:** cio (2), rmf (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1323,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (1)
+> **Frameworks & Libraries:** ai (21), [[Security]] (1), [[Accountability]] (1), [[Privacy]] (1), data (1)
 > **Analogies:** for instance (4), for example (2)
 > **Env Vars:** tevv (2), coppa (1), rmf (1)
 > **URLs:** [nist.gov](https://nist.gov) (1)
@@ -1413,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), override (2), let (1)
+> **Frameworks & Libraries:** ai (12), management (7), rmf (2), business (2), [[Decision-Making]] (1)
 > **Env Vars:** rmf (2), isaca (1), cobit (1)
 > **Definitions:** is a  (1), known as (1)
 > **URLs:** [nist.gov](https://nist.gov) (1)
@@ -1471,9 +1471,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), rmf (9), [[NIST]] (1), [[Responsible AI]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** rmf (9), nist (1), pdf (1), csv (1), json (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case. (1), let (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is an  (1)
@@ -1483,7 +1483,7 @@ created: 2026-04-29
 
 ### 5. Section 6, Appendix A–D: AI RMF Profiles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of profiles: Section 6
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980)
@@ -1528,10 +1528,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), rmf (5), application (2), management (1), [[Banking]] (1)
 > **Env Vars:** rmf (5)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [host] (1)
 
 #### Overview of Appendices A–D
@@ -1585,9 +1585,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[NIST]] (8), rmf (7), management (2), [[Responsible AI]] (1)
 > **Env Vars:** nist (7), rmf (7), oecd (2)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **URLs:** [nist.gov](https://nist.gov) (1)
 > **Versions:** 1.0 (1)
 > **Definitions:** known as (1)
@@ -1597,7 +1597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where do you begin?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980)
@@ -1638,8 +1638,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), rmf (5), [[NIST]] (4), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rmf (5), nist (4)
-> **Code Keywords:** private (1), public (1), continue (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)

@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/sql-server-integration-services-ssis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/SQL%20Server%20Integration%20Services.md)
@@ -48,62 +48,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Integrate your data with SQL Server Integration Services (SSIS)
-  - What you should know
-  - Set up the example database
+  - [Integrate your data with SQL Server Integration Services (SSIS)](#integrate-your-data-with-sql-server-integration-services-ssis)
+  - [What you should know](#what-you-should-know)
+  - [Set up the example database](#set-up-the-example-database)
 - [**1. Get Started with Integration Services**](#1-get-started-with-integration-services) (4 videos)
-  - What is SSIS?
-  - Add SSIS to a SQL Server instance
-  - Connect to the SSIS catalog database
-  - Explore SSIS packages
+  - [What is SSIS?](#what-is-ssis)
+  - [Add SSIS to a SQL Server instance](#add-ssis-to-a-sql-server-instance)
+  - [Connect to the SSIS catalog database](#connect-to-the-ssis-catalog-database)
+  - [Explore SSIS packages](#explore-ssis-packages)
 - [**2. SSIS Designer**](#2-ssis-designer) (6 videos)
-  - Install SQL Server Data Tools (SSDT)
-  - View SSIS solutions and projects
-  - Define control flow tasks
-  - Create a precedence constraint
-  - Create a sequence container
-  - Run a package
+  - [Install SQL Server Data Tools (SSDT)](#install-sql-server-data-tools-ssdt)
+  - [View SSIS solutions and projects](#view-ssis-solutions-and-projects)
+  - [Define control flow tasks](#define-control-flow-tasks)
+  - [Create a precedence constraint](#create-a-precedence-constraint)
+  - [Create a sequence container](#create-a-sequence-container)
+  - [Run a package](#run-a-package)
 - [**3. Control Flow Tasks**](#3-control-flow-tasks) (8 videos)
-  - Understanding tasks in control flow
-  - The Data Flow task
-  - The File System tasks
-  - Modify file attributes
-  - The Execute Package task
-  - The Send Mail task
-  - SQL Server tasks
-  - Maintenance tasks
+  - [Understanding tasks in control flow](#understanding-tasks-in-control-flow)
+  - [The Data Flow task](#the-data-flow-task)
+  - [The File System tasks](#the-file-system-tasks)
+  - [Modify file attributes](#modify-file-attributes)
+  - [The Execute Package task](#the-execute-package-task)
+  - [The Send Mail task](#the-send-mail-task)
+  - [SQL Server tasks](#sql-server-tasks)
+  - [Maintenance tasks](#maintenance-tasks)
 - [**4. Data Sources and Connections**](#4-data-sources-and-connections) (5 videos)
-  - Project level connections
-  - Convert package connections
-  - The Excel connection manager
-  - Connect to flat file data sources
-  - Additional connection managers
+  - [Project level connections](#project-level-connections)
+  - [Convert package connections](#convert-package-connections)
+  - [The Excel connection manager](#the-excel-connection-manager)
+  - [Connect to flat file data sources](#connect-to-flat-file-data-sources)
+  - [Additional connection managers](#additional-connection-managers)
 - [**5. The Data Flow Task and Transformations**](#5-the-data-flow-task-and-transformations) (8 videos)
-  - Data flow components
-  - Extracting data from a source
-  - Understand transformations
-  - Character Map row transformation
-  - Conditional Split transformation
-  - Rowset transformations
-  - Loading data to a destination
-  - Prevent duplicate records
+  - [Data flow components](#data-flow-components)
+  - [Extracting data from a source](#extracting-data-from-a-source)
+  - [Understand transformations](#understand-transformations)
+  - [Character Map row transformation](#character-map-row-transformation)
+  - [Conditional Split transformation](#conditional-split-transformation)
+  - [Rowset transformations](#rowset-transformations)
+  - [Loading data to a destination](#loading-data-to-a-destination)
+  - [Prevent duplicate records](#prevent-duplicate-records)
 - [**6. Controlling Package Execution**](#6-controlling-package-execution) (6 videos)
-  - Work with variables and scope
-  - Add execution parameters
-  - Change a variable’s value
-  - Group tasks in looping containers
-  - Event handlers
-  - Error handling in data flows
+  - [Work with variables and scope](#work-with-variables-and-scope)
+  - [Add execution parameters](#add-execution-parameters)
+  - [Change a variable’s value](#change-a-variables-value)
+  - [Group tasks in looping containers](#group-tasks-in-looping-containers)
+  - [Event handlers](#event-handlers)
+  - [Error handling in data flows](#error-handling-in-data-flows)
 - [**7. Deploy and Run SSIS Projects**](#7-deploy-and-run-ssis-projects) (3 videos)
-  - Deploy projects to SQL Server
-  - Run packages with T-SQL
-  - Schedule packages with SQL Server Agent
+  - [Deploy projects to SQL Server](#deploy-projects-to-sql-server)
+  - [Run packages with T-SQL](#run-packages-with-t-sql)
+  - [Schedule packages with SQL Server Agent](#schedule-packages-with-sql-server-agent)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate your data with SQL Server Integration Services (SSIS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980)
@@ -126,6 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft SQL Server|Sql server]] (2), business (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
@@ -147,6 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2), database (1), management (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (5), select (1)
 > **CLI Commands:** make (1)
 > **SQL:** select (1)
@@ -232,9 +234,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Databases]] (5), database (5), data (3), management (2)
 > **Env Vars:** sql (9), mssql (2)
 > **Prerequisites:** you'll need (3), set up (3)
-> **Code Keywords:** case, (1), let (1), switch (1), finally, (1)
 > **UI Navigation:** switch to (1), click on (1), select the (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (2)
@@ -244,7 +246,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Integration Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SSIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980)
@@ -291,12 +293,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (6), database (4), [[Databases]] (3), etl (2)
 > **Env Vars:** sql (7), ssis (2), etl (2), fat (1), csv (1)
 > **Tools:** visual studio (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), just like (1)
 > **Prerequisites:** you'll need (1), install (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Add SSIS to a SQL Server instance
@@ -378,12 +380,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (17), next (3), [[Hardware]] (2), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** sql (18), sql2019ctp3 (1)
 > **CLI Commands:** find (3), make (3)
 > **UI Navigation:** click on (2), scroll down (1), dropdown (1), checkbox (1)
 > **Exercise Files:** download the (2)
 > **Warnings:** warning (2)
-> **Code Keywords:** switch (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
@@ -464,8 +466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), management (6), database (3), [[Microsoft SQL Server]] (2), application (1)
 > **Env Vars:** sql (10), ssms (3), ctp (1)
-> **Code Keywords:** let (4), switch (2), type, (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (3)
 > **Versions:** 3.0 (1), version 18 (1)
@@ -582,8 +584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[Microsoft SQL Server|Sql server]] (6), management (5), data (4), [[Databases]] (1)
 > **Env Vars:** msdb (9), sql (7), ssis (5), dts (1), ssms (1)
-> **Code Keywords:** let (8), switch (1), default. (1)
 > **CLI Commands:** find (8)
 > **UI Navigation:** right-click (5), click on (1), scroll down (1)
 > **Analogies:** for instance (2)
@@ -593,7 +595,7 @@ created: 2026-04-29
 
 ### 2. SSIS Designer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install SQL Server Data Tools (SSDT)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980)
@@ -702,11 +704,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (4), next (4), [[Microsoft]] (3), [[Search]] (2)
 > **Prerequisites:** install (7), getting started (3), set up (1), make sure you have (1)
 > **Tools:** visual studio (8)
 > **Env Vars:** sql (4), ssis (2), exe (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** let (3), continue (1), interface (1), finally, (1)
 > **Exercise Files:** download the (1), template (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **UI Navigation:** click on (1)
@@ -804,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Search]] (3), data (1), business (1), database (1)
 > **Env Vars:** sql (4), ssis (2), dtsx (1)
 > **CLI Commands:** make (3), find (2)
 > **Tools:** visual studio (2)
@@ -986,9 +988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[SQL]] (12), next (5), [[Control Flow]] (4), [[Databases]] (3)
 > **UI Navigation:** dropdown (7), click on (6), scroll down (2), right-click (2), double-click (2)
 > **Env Vars:** sql (14), ole (1), sqlserver2019 (1)
-> **Code Keywords:** let (6), case, (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is an  (1), is called (1), means that (1), is a  (1)
 > **Analogies:** for instance (1), just like (1)
@@ -1096,7 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), case, (1), this, (1)
+> **Frameworks & Libraries:** database (7), [[Control Flow]] (4), [[Zoom]] (4), [[SQL]] (3), next (2)
 > **Env Vars:** sql (3), ssis (1)
 > **Definitions:** is called (1), in other words (1), means that (1)
 > **UI Navigation:** click on (2)
@@ -1158,8 +1160,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (2), [[Control Flow]] (1), [[Zoom]] (1), [[SQL]] (1), database (1)
 > **UI Navigation:** right-click (3), double-click (1), drag and drop (1), click on (1)
-> **Code Keywords:** let (1), this. (1), interface (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for instance (1)
@@ -1246,7 +1248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (4)
+> **Frameworks & Libraries:** database (7), [[SQL]] (4), [[Control Flow]] (2), [[Debugging]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** scroll down (2), click on (2), right-click (2), dropdown (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (1), find (1)
@@ -1256,7 +1258,7 @@ created: 2026-04-29
 
 ### 3. Control Flow Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding tasks in control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980)
@@ -1299,8 +1301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (6), database (2), next (1), [[Windows]] (1)
 > **Env Vars:** sql (6), ssis (1), ftp (1), xml (1), wmi (1)
-> **Code Keywords:** from, (2), delete (2), require (1), finally, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
@@ -1475,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (2), this, (2), interface (1), from. (1)
+> **Frameworks & Libraries:** data (33), database (19), [[Microsoft SQL Server|Sql server]] (6), [[Control Flow]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** double-click (6), dropdown (4), right-click (3), click on (3), select the (2)
 > **Env Vars:** sql (7), ssis (3), oledb (2), csv (1)
 > **CLI Commands:** find (2), make (2)
@@ -1625,8 +1627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Hadoop]] (2), [[Control Flow]] (1)
 > **UI Navigation:** click on (6), dropdown (3), right-click (2), double-click (2), select the (1)
-> **Code Keywords:** from. (3), let (2), require (1), delete (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ftp (2), ssis (1), csv (1)
 > **File Paths:** people.csv (1), peoplecopy.csv (1)
@@ -1677,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Control Flow]] (1)
 > **UI Navigation:** double-click (2), click on (2), in the menu (1), right-click (1)
 > **File Paths:** peoplecopy.csv (2)
 > **Env Vars:** csv (2)
@@ -1734,7 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), pass (2), this. (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Windows]] (1)
 > **UI Navigation:** double-click (2), dropdown (2), right-click (1)
 > **Env Vars:** ssis (1), sql (1), dtx (1)
 > **Cross-References:** in the last (2)
@@ -1848,8 +1850,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (5), dropdown (1), go to (1)
-> **Code Keywords:** let (3), from, (1), case. (1), switch (1)
 > **Env Vars:** smtp (3), ssis (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [connetico.com](https://connetico.com) (2)
@@ -1938,9 +1940,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (18), database (4), [[Microsoft Products|Products]] (3), management (3), [[Microsoft]] (2)
 > **Env Vars:** sql (18), ssis (1), ole (1)
 > **UI Navigation:** click on (6), scroll down (1), open the (1)
-> **Code Keywords:** let (4), type, (1), interface (1)
 > **CLI Commands:** find (3), make (2)
 > **Exercise Files:** exercise files (3)
 > **Tools:** visual studio (2)
@@ -2038,8 +2040,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (8), database (7), [[Microsoft SQL Server|Sql server]] (3), next (2), [[Windows]] (1)
 > **CLI Commands:** find (4), make (3)
-> **Code Keywords:** interface (2), let (1), switch (1), case, (1)
 > **Env Vars:** sql (3), ssis (1), wwi (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1)
 > **Analogies:** such as (1), just like (1)
@@ -2048,7 +2050,7 @@ created: 2026-04-29
 
 ### 4. Data Sources and Connections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project level connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980)
@@ -2159,9 +2161,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (6), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (2), management (1)
 > **Env Vars:** sql (3), oledb (3), wwi (1), ssis (1), ado (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (3), switch (2), new, (1)
 > **UI Navigation:** click on (3), dropdown (2)
 > **Analogies:** for instance (2), for example (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -2229,7 +2231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), continue (1), new, (1)
+> **Frameworks & Libraries:** database (9)
 > **UI Navigation:** double-click (2), select the (1), click on (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ssis (1)
@@ -2317,8 +2319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (18), data (12), next (2), database (2), business (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** switch (1), let (1), for. (1)
 > **UI Navigation:** scroll down (1), click on (1), select the (1)
 > **Exercise Files:** exercise files (2), download the (1)
 > **Env Vars:** url (2)
@@ -2421,8 +2423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (3), utf (1), guid (1)
-> **Code Keywords:** switch (2), for. (1), let (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** dropdown (2), right-click (1)
 > **Analogies:** just like (2), such as (1)
@@ -2489,8 +2491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Excel|Excel]] (1), database (1), [[Hadoop]] (1)
 > **Env Vars:** sql (2), oledb (2), ado (2), ftp (2), net (1)
-> **Code Keywords:** let (3), type. (2), this. (2)
 > **Analogies:** for instance (1), just like (1)
 > **URLs:** [ado.net](https://ado.net) (1)
 > **Documentation:** the documentation (1)
@@ -2501,7 +2503,7 @@ created: 2026-04-29
 
 ### 5. The Data Flow Task and Transformations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data flow components
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980)
@@ -2544,7 +2546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), from. (1), type, (1), function (1), finally, (1)
+> **Frameworks & Libraries:** data (19), [[Microsoft SQL Server|Sql server]] (3), database (3), [[Control Flow]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (3), etl (1)
 > **Analogies:** for instance (1), just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2662,7 +2664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (2), interface (1), type, (1), for. (1)
+> **Frameworks & Libraries:** data (32), database (7), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Excel|Excel]] (3), next (1)
 > **UI Navigation:** click on (3), select the (3), switch to (1), scroll down (1)
 > **Env Vars:** sql (5), oledb (2)
 > **Analogies:** for instance (5)
@@ -2702,8 +2704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Control Flow]] (1), database (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Character Map row transformation
@@ -2799,7 +2801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), switch (1), this, (1)
+> **Frameworks & Libraries:** data (33), [[SQL]] (1), database (1), next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Tools:** visual studio (1)
@@ -2935,7 +2937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), switch (2), else. (1), require (1)
+> **Frameworks & Libraries:** data (21)
 > **UI Navigation:** click on (6), scroll down (1), select the (1), scroll up (1), checkbox (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -3034,7 +3036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (7), [[Statistical Analysis]] (1), next (1)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** configure (2)
@@ -3196,9 +3198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), data (15), [[Microsoft SQL Server|Sql server]] (4), next (2), management (2)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** click on (6), select the (1), scroll down (1)
-> **Code Keywords:** switch (2), let (2), type, (1), case, (1)
 > **Env Vars:** sql (4), oledb (2)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Prerequisites:** configure (2)
@@ -3266,7 +3268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1), for. (1), delete (1)
+> **Frameworks & Libraries:** data (9), [[SQL]] (3), database (2), management (2), [[Control Flow]] (2)
 > **Env Vars:** sql (3)
 > **UI Navigation:** right-click (1), double-click (1), click on (1)
 > **CLI Commands:** make (2)
@@ -3278,7 +3280,7 @@ created: 2026-04-29
 
 ### 6. Controlling Package Execution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with variables and scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980)
@@ -3375,7 +3377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), interface (1), type. (1), function (1), let (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Control Flow]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **UI Navigation:** right-click (2), navigate to (1), dropdown (1)
 > **Env Vars:** ftp (2), sql (1)
 > **Analogies:** for instance (2)
@@ -3465,9 +3467,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), data (4), database (4), [[Microsoft Products|Products]] (2), [[Control Flow]] (1)
 > **Env Vars:** sql (6), ole (2)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** switch (1), let (1), this, (1)
 > **UI Navigation:** dropdown (3)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** exercise files (1)
@@ -3567,7 +3569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), switch (1), import. (1), continue (1)
+> **Frameworks & Libraries:** data (5), next (3), [[Scripting]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (2), double-click (1), scroll down (1), drag and drop (1)
 > **Env Vars:** ole (1), sql (1), ssis (1)
@@ -3667,8 +3669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Control Flow]] (2), [[Programming]] (1), data (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** type, (1), switch (1)
 > **Env Vars:** ado (1), n32 (1)
 > **Tools:** visual studio (2)
 > **UI Navigation:** drag and drop (1), scroll down (1)
@@ -3739,7 +3741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), interface (1)
+> **Frameworks & Libraries:** [[Control Flow]] (3)
 > **UI Navigation:** right-click (1), dropdown (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -3879,7 +3881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (3), new. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (16), database (5), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** csv (3), sql (2), ole (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** dropdown (2), select the (1), go to (1), scroll down (1)
@@ -3889,7 +3891,7 @@ created: 2026-04-29
 
 ### 7. Deploy and Run SSIS Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploy projects to SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980)
@@ -4050,9 +4052,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), data (7), [[Microsoft SQL Server|Sql server]] (6), management (5), [[SQL]] (4)
 > **Env Vars:** sql (10), ssis (4)
 > **UI Navigation:** right-click (3), click on (2), select the (1)
-> **Code Keywords:** default. (1), case, (1), import. (1), switch (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -4094,6 +4096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1), management (1), next (1)
 > **Env Vars:** sql (3), ssis (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** right-click (1), click on (1)
@@ -4101,7 +4104,6 @@ created: 2026-04-29
 > **Code Identifiers:** create_execution (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** required to (1)
-> **Speakers:** - [instructor] (1)
 
 #### Schedule packages with SQL Server Agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/schedule-packages-with-sql-server-agent?u=76281980)
@@ -4194,9 +4196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), prompt (2), database (2), etl (1), business (1)
 > **Env Vars:** ssis (4), sql (4), etl (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** switch (2), import. (1)
 > **UI Navigation:** right-click (2), double-click (1)
 > **Ports:** :00 (1)
 > **Analogies:** for instance (1)
@@ -4205,7 +4207,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/next-steps?u=76281980)
@@ -4228,9 +4230,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), next (2), [[Programming]] (1), data (1)
 > **Env Vars:** sql (4)
 > **Tools:** visual studio (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [adam] (1)
 
 

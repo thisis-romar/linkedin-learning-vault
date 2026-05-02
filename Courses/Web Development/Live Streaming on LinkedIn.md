@@ -28,7 +28,7 @@ tags:
   - skill/live-streaming
   - skill/linkedin
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Live%20Streaming%20on%20LinkedIn.md)
@@ -47,24 +47,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Live Streaming on LinkedIn**](#1-live-streaming-on-linkedin) (14 videos)
-  - Get ready to go live!
-  - Know your goals
-  - Tech requirements and recommendations
-  - Format, frequency, and timing
-  - How to plan each episode
-  - Branding your show
-  - Equipment you'll need
-  - How to be an engaging live host
-  - How to promote your show
-  - How to develop your promo plan
-  - Showtime
-  - How to be ready for live fails
-  - How to repurpose your live stream
-  - How to monetize your LinkedIn Live content
+  - [Get ready to go live!](#get-ready-to-go-live)
+  - [Know your goals](#know-your-goals)
+  - [Tech requirements and recommendations](#tech-requirements-and-recommendations)
+  - [Format, frequency, and timing](#format-frequency-and-timing)
+  - [How to plan each episode](#how-to-plan-each-episode)
+  - [Branding your show](#branding-your-show)
+  - [Equipment you'll need](#equipment-youll-need)
+  - [How to be an engaging live host](#how-to-be-an-engaging-live-host)
+  - [How to promote your show](#how-to-promote-your-show)
+  - [How to develop your promo plan](#how-to-develop-your-promo-plan)
+  - [Showtime](#showtime)
+  - [How to be ready for live fails](#how-to-be-ready-for-live-fails)
+  - [How to repurpose your live stream](#how-to-repurpose-your-live-stream)
+  - [How to monetize your LinkedIn Live content](#how-to-monetize-your-linkedin-live-content)
 
 ### 1. Live Streaming on LinkedIn
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get ready to go live!
 > [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), business (1), career (1), [[Personal Branding]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - whether (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - everything (1)
@@ -275,7 +275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (2), require (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), cloud (4), next (2), feature (1), business (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Prerequisites:** assuming you have (1)
@@ -330,7 +330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), finally, (1)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **Speakers:** - now (1)
 
 #### How to plan each episode
@@ -390,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Live Streaming]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - it (1)
 
@@ -499,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), case, (1), else, (1), this. (1)
+> **Frameworks & Libraries:** next (2), [[LinkedIn]] (1), [[Live Streaming]] (1)
 > **Definitions:** is an  (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -570,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), finally, (1)
+> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** usb (1)
 > **Speakers:** - this (1)
@@ -704,8 +704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Live Streaming]] (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** this. (5), let (1), this, (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - when (1)
 
@@ -786,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), next (3), hit (2)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), finally, (1), continue (1)
 > **Ports:** :00 (1)
 > **Env Vars:** rsvp (1)
 > **UI Navigation:** go to (1)
@@ -832,8 +832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** opp (1)
 > **Speakers:** - want (1)
 
@@ -906,8 +906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), hit (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (10), find (1)
-> **Code Keywords:** let (2), this. (1), this, (1)
 > **Prerequisites:** make sure you have (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
@@ -1030,8 +1030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), next (3)
 > **CLI Commands:** make (5)
-> **Code Keywords:** for. (1), case. (1)
 > **Env Vars:** ptsd (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
@@ -1096,7 +1096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Remix]] (3), next (2), [[LinkedIn]] (1)
 > **Env Vars:** fomo (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - linkedin (1)
@@ -1180,9 +1180,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), [[Interviewing]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (2)
 > **Analogies:** just like (1)
 > **Speakers:** - if (1)
 

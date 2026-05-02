@@ -35,7 +35,7 @@ tags:
   - skill/job-search-strategies
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Searching%2C%20Interviewing%2C%20and%20Landing%20a%20Job.md)
@@ -54,54 +54,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding the Hiring Landscape
-  - How people are finding jobs now
+  - [Understanding the Hiring Landscape](#understanding-the-hiring-landscape)
+  - [How people are finding jobs now](#how-people-are-finding-jobs-now)
 - [**1. Understanding the Tech Hiring Process**](#1-understanding-the-tech-hiring-process) (4 videos)
-  - The tech hiring process
-  - Impact of hybrid/RTO on the hiring process
-  - Power dynamics during the hiring process
-  - Setting realistic expectations
+  - [The tech hiring process](#the-tech-hiring-process)
+  - [Impact of hybrid/RTO on the hiring process](#impact-of-hybridrto-on-the-hiring-process)
+  - [Power dynamics during the hiring process](#power-dynamics-during-the-hiring-process)
+  - [Setting realistic expectations](#setting-realistic-expectations)
 - [**2. The Well-Rounded Engineer: What Employers Want**](#2-the-well-rounded-engineer-what-employers-want) (2 videos)
-  - Technical candidates need soft skills
-  - The struggle for soft skills
+  - [Technical candidates need soft skills](#technical-candidates-need-soft-skills)
+  - [The struggle for soft skills](#the-struggle-for-soft-skills)
 - [**3. Better Defining Your Tech Job Search**](#3-better-defining-your-tech-job-search) (3 videos)
-  - Avoid prejudging the role
-  - Avoid creating a laundry-list resume
-  - Customize your presentation
+  - [Avoid prejudging the role](#avoid-prejudging-the-role)
+  - [Avoid creating a laundry-list resume](#avoid-creating-a-laundry-list-resume)
+  - [Customize your presentation](#customize-your-presentation)
 - [**4. Identifying the Key Players in a Tech Interview**](#4-identifying-the-key-players-in-a-tech-interview) (7 videos)
-  - Different types of interviewers
-  - Tech hiring roles: The recruiter
-  - Tech hiring roles: Product and program
-  - Tech hiring roles: Policy, PR, and sales
-  - Tech hiring roles: Engineering
-  - Tech hiring roles: Hiring manager
-  - Tips for Remote Interviews
+  - [Different types of interviewers](#different-types-of-interviewers)
+  - [Tech hiring roles: The recruiter](#tech-hiring-roles-the-recruiter)
+  - [Tech hiring roles: Product and program](#tech-hiring-roles-product-and-program)
+  - [Tech hiring roles: Policy, PR, and sales](#tech-hiring-roles-policy-pr-and-sales)
+  - [Tech hiring roles: Engineering](#tech-hiring-roles-engineering)
+  - [Tech hiring roles: Hiring manager](#tech-hiring-roles-hiring-manager)
+  - [Tips for Remote Interviews](#tips-for-remote-interviews)
 - [**5. Preparing for Your Technical Interview**](#5-preparing-for-your-technical-interview) (4 videos)
-  - The job description
-  - Using LinkedIn
-  - The company’s technical footprint
-  - Online presence and branding
+  - [The job description](#the-job-description)
+  - [Using LinkedIn](#using-linkedin)
+  - [The company’s technical footprint](#the-companys-technical-footprint)
+  - [Online presence and branding](#online-presence-and-branding)
 - [**6. Common Tech Interview Mistakes**](#6-common-tech-interview-mistakes) (4 videos)
-  - Getting too tactical in a tech interview
-  - Speaking negatively about your previous jobs
-  - Coming off as too desperate or arrogant
-  - Coming off as rusty and/or unprepared
+  - [Getting too tactical in a tech interview](#getting-too-tactical-in-a-tech-interview)
+  - [Speaking negatively about your previous jobs](#speaking-negatively-about-your-previous-jobs)
+  - [Coming off as too desperate or arrogant](#coming-off-as-too-desperate-or-arrogant)
+  - [Coming off as rusty and/or unprepared](#coming-off-as-rusty-andor-unprepared)
 - [**7. Presenting Yourself in a Tech Interview**](#7-presenting-yourself-in-a-tech-interview) (5 videos)
-  - Setting the stage
-  - Answering technical questions
-  - Showing judgment and empathy
-  - Demonstrating your desire for growth
-  - Acing the hiring manager interview
+  - [Setting the stage](#setting-the-stage)
+  - [Answering technical questions](#answering-technical-questions)
+  - [Showing judgment and empathy](#showing-judgment-and-empathy)
+  - [Demonstrating your desire for growth](#demonstrating-your-desire-for-growth)
+  - [Acing the hiring manager interview](#acing-the-hiring-manager-interview)
 - [**8. Post-Interview Advice**](#8-post-interview-advice) (3 videos)
-  - Communicating with the recruiter
-  - Communicating with the interview team
-  - Communicating with the hiring manager
+  - [Communicating with the recruiter](#communicating-with-the-recruiter)
+  - [Communicating with the interview team](#communicating-with-the-interview-team)
+  - [Communicating with the hiring manager](#communicating-with-the-hiring-manager)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Closing thoughts and next steps
+  - [Closing thoughts and next steps](#closing-thoughts-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Hiring Landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980)
@@ -132,7 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** career (3), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (2)
 
 #### How people are finding jobs now
@@ -192,7 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** business (8), [[Search]] (2), data (2), career (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -200,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Tech Hiring Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The tech hiring process
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-tech-hiring-process?u=76281980)
@@ -269,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** power (2), teams (2), [[Engineering]] (1), business (1), application (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
@@ -340,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), match. (1), new, (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** teams (1), [[Search]] (1), next (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** just like (1)
@@ -396,8 +396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), job description (1), data (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), function (1)
 > **Speakers:** - let (1)
 
 #### Setting realistic expectations
@@ -467,7 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (2), teams (1), next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** warning (1)
@@ -476,7 +476,7 @@ created: 2026-04-29
 
 ### 2. The Well-Rounded Engineer: What Employers Want
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical candidates need soft skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980)
@@ -545,10 +545,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Soft Skills]] (4), [[Engineering]] (3), teams (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cto (1), ceo (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 
 #### The struggle for soft skills
@@ -670,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), continue (1), raise (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (7), career (2), [[Engineering]] (2), product (2), business (2)
 > **Definitions:** means that (3), is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -679,7 +679,7 @@ created: 2026-04-29
 
 ### 3. Better Defining Your Tech Job Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid prejudging the role
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/avoid-prejudging-the-role?u=76281980)
@@ -752,7 +752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), let (2), this, (1)
+> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpa (1)
 > **Analogies:** just like (1)
@@ -785,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), for. (1)
+> **Frameworks & Libraries:** product (1), teams (1), api (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
@@ -822,15 +822,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Soft Skills]] (1), [[Interviewing]] (1)
 > **Cross-References:** in the next (1), next chapter (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
 
 ### 4. Identifying the Key Players in a Tech Interview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Different types of interviewers
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/different-types-of-interviewers?u=76281980)
@@ -881,8 +881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - depending (1)
 
 #### Tech hiring roles: The recruiter
@@ -958,8 +958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), data (1), [[Interviewing]] (1), [[Soft Skills]] (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
@@ -1024,8 +1024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Soft Skills]] (4), [[Engineering]] (2), management (2), functional (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Env Vars:** pov (1)
 > **Documentation:** spec (1)
 > **Speakers:** - increasingly (1)
@@ -1075,7 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** teams (1), [[Engineering]] (1), business (1), [[Soft Skills]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
@@ -1117,9 +1117,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soft Skills]] (5), [[Google]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** self (1)
 > **Speakers:** - most (1)
 
 #### Tech hiring roles: Hiring manager
@@ -1167,7 +1167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (1), finally, (1), let (1)
+> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -1264,16 +1264,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[ChatGPT]] (2), [[Microsoft Office|Office]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 
 
 ### 5. Preparing for Your Technical Interview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The job description
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-job-description?u=76281980)
@@ -1330,10 +1330,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** job description (7), business (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - the (1)
 
 #### Using LinkedIn
@@ -1395,9 +1395,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Search]] (1), power (1), [[Interview Preparation]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - with (1)
 
 #### The company’s technical footprint
@@ -1439,6 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Troubleshooting]] (1), [[Lifelong Learning]] (1)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - i (1)
 
@@ -1533,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[LinkedIn]] (3), career (2), functional (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Best Practices:** don't forget (1)
@@ -1541,7 +1542,7 @@ created: 2026-04-29
 
 ### 6. Common Tech Interview Mistakes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting too tactical in a tech interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980)
@@ -1696,8 +1697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), api (3), [[Java]] (2), [[Microsoft Word|Word]] (2), [[Soft Skills]] (2)
 > **Speakers:** - okay (6), - yeah (3), - so (2), - what (1), - then (1)
-> **Code Keywords:** let (7), finally, (2), this. (1), self (1), include. (1)
 > **CLI Commands:** make (2), apache (1)
 > **Env Vars:** api (3)
 > **Cross-References:** in the next (1), coming up (1)
@@ -1863,8 +1864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[DevOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), data (2), next (2)
 > **Speakers:** - okay (5), - so (4), - well (2), - yeah (2), - one (1)
-> **Code Keywords:** let (5), this. (2)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), set up (1)
@@ -1932,7 +1933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), throw (1), let (1)
+> **Frameworks & Libraries:** next (1), [[Interviewing]] (1), career (1)
 > **CLI Commands:** find (1), make (1)
 
 #### Coming off as rusty and/or unprepared
@@ -1996,12 +1997,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), game (1), data (1)
 > **CLI Commands:** make (1)
 
 
 ### 7. Presenting Yourself in a Tech Interview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting the stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-the-stage?u=76281980)
@@ -2048,8 +2050,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Soft Skills]] (1)
 > **Speakers:** - how (1), - good (1), - same (1), - so (1), - sure (1)
-> **Code Keywords:** let (2), continue (1)
 > **CLI Commands:** make (1)
 
 #### Answering technical questions
@@ -2111,8 +2113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soft Skills]] (1), business (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1), for. (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - just (1)
@@ -2198,8 +2200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
@@ -2255,6 +2257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), business (1), cloud (1), [[Security]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - i (1)
 
@@ -2375,15 +2378,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11), data (2), job description (2), [[Executive Leadership]] (2), [[Engineering]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
 
 ### 8. Post-Interview Advice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating with the recruiter
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/communicating-with-the-recruiter?u=76281980)
@@ -2473,14 +2476,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - sending (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Closing thoughts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/closing-thoughts-and-next-steps?u=76281980)
@@ -2511,7 +2513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), continue (1)
+> **Frameworks & Libraries:** career (5), [[LinkedIn]] (2), management (1), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 
 
 ## Instructor

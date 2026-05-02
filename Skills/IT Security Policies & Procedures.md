@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/it-security-policies-procedures
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/IT%20Security%20Policies%20%26%20Procedures.md)

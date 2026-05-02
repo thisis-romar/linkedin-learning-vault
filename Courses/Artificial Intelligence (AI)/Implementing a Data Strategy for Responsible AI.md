@@ -38,7 +38,7 @@ tags:
   - skill/data-strategies
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Implementing%20a%20Data%20Strategy%20for%20Responsible%20AI.md)
@@ -57,45 +57,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Data strategy essentials for responsible generative AI
+  - [Data strategy essentials for responsible generative AI](#data-strategy-essentials-for-responsible-generative-ai)
 - [**1. Data Strategy Basics for Responsible AI**](#1-data-strategy-basics-for-responsible-ai) (5 videos)
-  - Origins of data
-  - Transparency: What happens to data
-  - Accountability: Data-guiding decision
-  - Governance: Data ethics and data equity
-  - Data and the AI development lifecycle
+  - [Origins of data](#origins-of-data)
+  - [Transparency: What happens to data](#transparency-what-happens-to-data)
+  - [Accountability: Data-guiding decision](#accountability-data-guiding-decision)
+  - [Governance: Data ethics and data equity](#governance-data-ethics-and-data-equity)
+  - [Data and the AI development lifecycle](#data-and-the-ai-development-lifecycle)
 - [**2. Data Preparation**](#2-data-preparation) (4 videos)
-  - Expansion of data sources
-  - Real-time data processing
-  - Scalability and efficiency changes
-  - Enhanced data governance
+  - [Expansion of data sources](#expansion-of-data-sources)
+  - [Real-time data processing](#real-time-data-processing)
+  - [Scalability and efficiency changes](#scalability-and-efficiency-changes)
+  - [Enhanced data governance](#enhanced-data-governance)
 - [**3. Model Building**](#3-model-building) (4 videos)
-  - Foundation models of generative AI
-  - Adapting foundation models
-  - Scaling foundation models
-  - Societal impacts of foundation models
+  - [Foundation models of generative AI](#foundation-models-of-generative-ai)
+  - [Adapting foundation models](#adapting-foundation-models)
+  - [Scaling foundation models](#scaling-foundation-models)
+  - [Societal impacts of foundation models](#societal-impacts-of-foundation-models)
 - [**4. Model Training and Tuning**](#4-model-training-and-tuning) (4 videos)
-  - Securing generative AI
-  - Fine-tuning fundamentals
-  - Fine-tuning methods
-  - Retrieval augmented generation
+  - [Securing generative AI](#securing-generative-ai)
+  - [Fine-tuning fundamentals](#fine-tuning-fundamentals)
+  - [Fine-tuning methods](#fine-tuning-methods)
+  - [Retrieval augmented generation](#retrieval-augmented-generation)
 - [**5. Model Deployment**](#5-model-deployment) (4 videos)
-  - Model deployment strategies
-  - Batch deployment
-  - API endpoint integration
-  - Real-time response systems
+  - [Model deployment strategies](#model-deployment-strategies)
+  - [Batch deployment](#batch-deployment)
+  - [API endpoint integration](#api-endpoint-integration)
+  - [Real-time response systems](#real-time-response-systems)
 - [**6. Model Management**](#6-model-management) (5 videos)
-  - Model management strategies
-  - Data versioning
-  - Code versioning
-  - Experiment tracking
-  - Model monitoring
+  - [Model management strategies](#model-management-strategies)
+  - [Data versioning](#data-versioning)
+  - [Code versioning](#code-versioning)
+  - [Experiment tracking](#experiment-tracking)
+  - [Model monitoring](#model-monitoring)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data strategy essentials for responsible generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980)
@@ -122,13 +122,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (7), [[Generative AI Tools]] (2), [[Generative AI]] (2), [[Responsible AI]] (1), [[Product Development]] (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Data Strategy Basics for Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Origins of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980)
@@ -175,7 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (14), ai (2), [[Forms]] (1), web (1), [[Banking]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -232,6 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Algorithms]] (4), next (3), ai (2), [[Metadata]] (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -294,6 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (7), [[Accountability]] (6), teams (3), leadership (2)
 > **Env Vars:** oced (1), fair (1)
 > **URLs:** [oced.ai](https://oced.ai) (1)
 > **Definitions:** stands for (1)
@@ -355,8 +357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), ai (13), management (3), [[NIST]] (3), rmf (2)
 > **Env Vars:** nist (3), gdpr (2), rmf (2)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -437,14 +439,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this. (1), case. (1)
+> **Frameworks & Libraries:** data (17), ai (8), [[Generative AI]] (5), next (2), [[Predictive AI]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Data Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expansion of data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980)
@@ -507,7 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), pass (1), type, (1), from. (1)
+> **Frameworks & Libraries:** data (19), ai (6), web (2), next (2), [[Generative AI]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -563,6 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Scalability]] (4), [[Generative AI]] (3), ai (3), next (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -616,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), from. (1)
+> **Frameworks & Libraries:** data (14), ai (4), [[Generative AI]] (3), [[Scalability]] (2), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** set up (1)
@@ -673,16 +676,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Privacy]] (1), database (1), ai (1)
 > **Env Vars:** gdpr (6), pii (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** delete (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Model Building
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundation models of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980)
@@ -733,7 +736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), data (3), ai (1), [[Generative AI Tools]] (1), [[Microsoft Copilot]] (1)
 > **Env Vars:** dalle (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
@@ -793,7 +796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), function (1), this. (1), new, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Statistics]] (1), [[Fine Tuning]] (1), [[Prompt Engineering]] (1), prompt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -864,6 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), business (1), prompt (1), ai (1), next (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -930,8 +934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Privacy]] (3), [[Generative AI]] (3), [[Generative AI Tools]] (2), data (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -939,7 +943,7 @@ created: 2026-04-29
 
 ### 4. Model Training and Tuning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980)
@@ -1002,6 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Security]] (7), [[Generative AI]] (3), ai (3), llm (3)
 > **Env Vars:** llm (3)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1055,8 +1060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), power (2), [[Fine Tuning]] (1), [[Generative AI]] (1), llm (1)
 > **Env Vars:** llm (1), bert (1), gpt (1)
-> **Code Keywords:** for. (1), for, (1)
 > **Versions:** 2.0 (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
@@ -1109,8 +1114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3), [[Generative AI]] (2), [[Prompt Engineering]] (2), data (2), rag (2)
 > **Env Vars:** rag (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1171,6 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), rag (6), llm (4), [[Information Retrieval]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2)
 > **Env Vars:** rag (6), llm (4), aka (1), bert (1)
 > **Analogies:** similar to (2)
 > **Cross-References:** in the next (1)
@@ -1180,7 +1186,7 @@ created: 2026-04-29
 
 ### 5. Model Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Model deployment strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980)
@@ -1237,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), case. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Generative AI Tools]] (4), data (3), next (3), open-source (2)
 > **URLs:** [jasper.ai](https://jasper.ai) (1)
 > **Env Vars:** dall (1)
 > **Cross-References:** in the next (1)
@@ -1300,6 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Generative AI]] (2), [[Batch Processing]] (2), cloud (2), [[TensorFlow]] (2)
 > **CLI Commands:** apache (2), aws (1), make (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** aws (1), api (1)
@@ -1353,8 +1360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Generative AI]] (5), [[JSON]] (4), prompt (2), next (2)
 > **Env Vars:** api (7), json (4), http (2), post (1), put (1)
-> **Code Keywords:** require (1), interface (1), delete (1)
 > **API Endpoints:** put  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1406,15 +1413,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4), data (2), [[Algorithms]] (2), management (2), chatbot (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** break. (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Model Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Model management strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980)
@@ -1461,6 +1468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), data (4), management (3), ai (2), business (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [speaker] (1)
@@ -1530,7 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), self (1)
+> **Frameworks & Libraries:** data (13), [[Algorithms]] (1), database (1), management (1), [[Version Control]] (1)
 > **Env Vars:** aka (1), dvc (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **CLI Commands:** make (1)
@@ -1593,8 +1601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Generative AI]] (1), management (1), [[Version Control]] (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dvc (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be careful (1)
@@ -1647,8 +1655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Generative AI]] (1), management (1), [[MLflow]] (1), [[Search]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1), let (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (2)
 > **Best Practices:** remember to (1)
@@ -1705,15 +1713,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Windows]] (1), [[Performance Metrics]] (1), [[Microsoft Azure]] (1), next (1)
 > **Env Vars:** gpu (1), cpu (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980)
@@ -1738,6 +1746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (3), data (2), [[Ethics]] (1), [[LinkedIn]] (1)
 > **URLs:** [dataedx.com](https://dataedx.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)

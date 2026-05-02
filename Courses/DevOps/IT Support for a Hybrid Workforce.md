@@ -23,7 +23,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Support%20for%20a%20Hybrid%20Workforce.md)
@@ -42,32 +42,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Understanding the needs of a hybrid team
+  - [Understanding the needs of a hybrid team](#understanding-the-needs-of-a-hybrid-team)
 - [**1. Planning for a Hybrid Environment**](#1-planning-for-a-hybrid-environment) (3 videos)
-  - What are the workforce types that exist today?
-  - What are my risks in a hybrid environment?
-  - Create a security plan for a hybrid workforce
+  - [What are the workforce types that exist today?](#what-are-the-workforce-types-that-exist-today)
+  - [What are my risks in a hybrid environment?](#what-are-my-risks-in-a-hybrid-environment)
+  - [Create a security plan for a hybrid workforce](#create-a-security-plan-for-a-hybrid-workforce)
 - [**2. Implementing Security in a Hybrid Workforce**](#2-implementing-security-in-a-hybrid-workforce) (5 videos)
-  - How do users need to connect?
-  - Cloud vs. on-premises access
-  - VPN risks
-  - Circumventing malware and ransomware
-  - Testing security
+  - [How do users need to connect?](#how-do-users-need-to-connect)
+  - [Cloud vs. on-premises access](#cloud-vs-on-premises-access)
+  - [VPN risks](#vpn-risks)
+  - [Circumventing malware and ransomware](#circumventing-malware-and-ransomware)
+  - [Testing security](#testing-security)
 - [**3. Wrangling User Hardware to Work Properly**](#3-wrangling-user-hardware-to-work-properly) (3 videos)
-  - What devices will cause the biggest headaches?
-  - How do we get files out to remote users?
-  - Wi-Fi at home and in the office
+  - [What devices will cause the biggest headaches?](#what-devices-will-cause-the-biggest-headaches)
+  - [How do we get files out to remote users?](#how-do-we-get-files-out-to-remote-users)
+  - [Wi-Fi at home and in the office](#wi-fi-at-home-and-in-the-office)
 - [**4. Collaboration and Communication**](#4-collaboration-and-communication) (4 videos)
-  - How will users communicate with each other?
-  - Audio and video conferencing applications
-  - Managing mobile devices and bring your own device (BYOD)
-  - Securing IOT for users
+  - [How will users communicate with each other?](#how-will-users-communicate-with-each-other)
+  - [Audio and video conferencing applications](#audio-and-video-conferencing-applications)
+  - [Managing mobile devices and bring your own device (BYOD)](#managing-mobile-devices-and-bring-your-own-device-byod)
+  - [Securing IOT for users](#securing-iot-for-users)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Protecting data and remote users
+  - [Protecting data and remote users](#protecting-data-and-remote-users)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the needs of a hybrid team
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), data (1), [[Microsoft]] (1), vpn (1), [[Security]] (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** vpn (1)
 > **Warnings:** troubleshoot (1)
@@ -114,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Planning for a Hybrid Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the workforce types that exist today?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980)
@@ -167,7 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), data (4), [[Security]] (2), business (1), next (1)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -227,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), module (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Office|Office]] (2), business (1)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tessian.com](https://tessian.com) (1)
@@ -289,7 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), private (1)
+> **Frameworks & Libraries:** data (4), [[Security]] (2), [[Phishing]] (2), [[Multi-factor Authentication]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Analogies:** such as (3), for instance (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** vpn (1)
@@ -299,7 +300,7 @@ created: 2026-04-29
 
 ### 2. Implementing Security in a Hybrid Workforce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do users need to connect?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980)
@@ -370,6 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (10), [[Security]] (3), web (2), data (1), [[Windows]] (1)
 > **Env Vars:** vpn (10), ssl (3), l2tp (1)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
@@ -428,9 +430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), data (8), [[Microsoft Office|Office]] (3), vpn (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** vpn (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - many (1)
 
 #### VPN risks
@@ -490,7 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (2), while, (1), protected (1), type, (1)
+> **Frameworks & Libraries:** vpn (5), data (3), [[Microsoft Office|Office]] (2), cloud (2), application (2)
 > **Env Vars:** vpn (5), vlan (1), ssl (1)
 > **Definitions:** known as (1), means that (1)
 > **Analogies:** such as (2)
@@ -565,8 +567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), data (1), [[Phishing]] (1), next (1), dns (1)
 > **Env Vars:** usb (2), dns (1), vpn (1)
-> **Code Keywords:** from. (1), require (1), continue (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** imagine (1), such as (1)
 > **UI Navigation:** go to (1)
@@ -628,6 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (2), next (2), [[Incident Response]] (2), power (2)
 > **Analogies:** such as (3)
 > **Env Vars:** cissp (1), isc (1)
 > **CLI Commands:** find (1)
@@ -639,7 +642,7 @@ created: 2026-04-29
 
 ### 3. Wrangling User Hardware to Work Properly
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What devices will cause the biggest headaches?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980)
@@ -698,6 +701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (4), [[Microsoft Office|Office]] (3), dns (1), parallel (1), [[Linux]] (1)
 > **Env Vars:** vpn (4), nat (2), dns (1), usb (1), sip (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -752,10 +756,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), cloud (3), [[Windows]] (2), [[Security]] (2), application (1)
 > **Env Vars:** vpn (1), ftp (1), radius (1), hipaa (1), sox (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (1), set up (1)
-> **Code Keywords:** require (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - one (1)
 
@@ -872,11 +876,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Microsoft Office|Office]] (3), [[Active Directory]] (2), next (1), [[Windows Server]] (1)
 > **Env Vars:** wpa3 (4), ssid (4), mac (4), wpa2 (2), radius (1)
 > **Analogies:** such as (5), for instance (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** new, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** dropdown (1)
 > **Best Practices:** it's best to (1)
@@ -884,7 +888,7 @@ created: 2026-04-29
 
 ### 4. Collaboration and Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How will users communicate with each other?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980)
@@ -953,8 +957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Privacy]] (2), teams (2), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (6), for example (1)
-> **Code Keywords:** protected (2), this, (1), require (1)
 > **Env Vars:** pgp (1), sms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1054,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (1), interface (1), type, (1)
+> **Frameworks & Libraries:** teams (19), [[Security]] (11), [[Zoom]] (10), [[Microsoft Products|Products]] (3), application (2)
 > **Analogies:** such as (3), for instance (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Prerequisites:** set up (2)
@@ -1222,8 +1226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (6), [[Windows]] (5), management (4), [[Security]] (3), business (3)
 > **Env Vars:** sim (4), eap (3), tls (2), dc1 (2), ssid (1)
-> **Code Keywords:** type. (3), this, (2), let (2), require (1), type, (1)
 > **CLI Commands:** make (5), find (1)
 > **Prerequisites:** install (3), set up (1), setup (1)
 > **Analogies:** such as (3), for instance (1)
@@ -1296,8 +1300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), [[Security]] (4), [[Internet of Things (IoT)|Internet of things]] (2), [[IP Addressing]] (1), functional (1)
 > **Env Vars:** iot (5), nat (1)
-> **Code Keywords:** require (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), you'll need (1)
 > **Analogies:** such as (1)
@@ -1306,7 +1310,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting data and remote users
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/protecting-data-and-remote-users?u=76281980)
@@ -1335,6 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (3), cloud (2), [[Troubleshooting]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sis (1)
 > **Cross-References:** we talked about (1)

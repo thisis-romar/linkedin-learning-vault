@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/personal-branding
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Your%20Personal%20Brand.md)
@@ -45,27 +45,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What is personal branding?
+  - [What is personal branding?](#what-is-personal-branding)
 - [**1. Personal Branding**](#1-personal-branding) (3 videos)
-  - Creating your personal brand
-  - Creating career opportunities
-  - Building influence
+  - [Creating your personal brand](#creating-your-personal-brand)
+  - [Creating career opportunities](#creating-career-opportunities)
+  - [Building influence](#building-influence)
 - [**2. Creating Your Brand**](#2-creating-your-brand) (3 videos)
-  - Defining your current brand
-  - Creating your desired brand
-  - Identifying your target audience
+  - [Defining your current brand](#defining-your-current-brand)
+  - [Creating your desired brand](#creating-your-desired-brand)
+  - [Identifying your target audience](#identifying-your-target-audience)
 - [**3. Marketing and Positioning Your Brand**](#3-marketing-and-positioning-your-brand) (5 videos)
-  - Creating a personal marketing strategy
-  - Networking your personal brand
-  - Managing your online reputation
-  - Conveying your personal brand authentically
-  - Creating a perfect elevator pitch
+  - [Creating a personal marketing strategy](#creating-a-personal-marketing-strategy)
+  - [Networking your personal brand](#networking-your-personal-brand)
+  - [Managing your online reputation](#managing-your-online-reputation)
+  - [Conveying your personal brand authentically](#conveying-your-personal-brand-authentically)
+  - [Creating a perfect elevator pitch](#creating-a-perfect-elevator-pitch)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Start today to take control of your brand
+  - [Start today to take control of your brand](#start-today-to-take-control-of-your-brand)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is personal branding?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980)
@@ -88,13 +88,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (2), management (1), teams (1), career (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Personal Branding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your personal brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980)
@@ -137,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Personal Branding]] (4), career (2), power (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - what (1)
@@ -178,6 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5), [[Personal Branding]] (2), business (1), game (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - when (1)
 
@@ -250,8 +252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), leadership (1), [[Personal Branding]] (1), career (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dna (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - so (1)
@@ -259,7 +261,7 @@ created: 2026-04-29
 
 ### 2. Creating Your Brand
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining your current brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980)
@@ -322,6 +324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Personal Branding]] (4), teams (1), career (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
@@ -379,6 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Personal Branding]] (1), next (1), business (1), career (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - remember (1)
@@ -460,16 +464,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), functional (2), [[Personal Branding]] (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1), just like (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - imagine (1)
 
 
 ### 3. Marketing and Positioning Your Brand
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a personal marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980)
@@ -532,7 +536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), case, (1), let (1), raise (1), else, (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (1), hit (1), next (1), management (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)
 
@@ -599,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1)
+> **Frameworks & Libraries:** business (2), career (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -694,7 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (2), for, (1), case, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), business (3), [[Personal Branding]] (2), express (1), [[Privacy]] (1)
 > **Analogies:** for instance (2), picture (2), just like (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -786,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), else. (1), match, (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (2), business (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dna (1)
 > **Definitions:** is a  (1)
@@ -879,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), else. (1), finally, (1), for, (1), throw (1)
+> **Frameworks & Libraries:** business (1), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1), imagine (1)
 > **Speakers:** - if (1)
@@ -887,7 +891,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start today to take control of your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980)
@@ -926,8 +930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Personal Branding]] (2), career (1), power (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** for, (1), let (1), default. (1)
 > **Speakers:** - your (1)
 
 

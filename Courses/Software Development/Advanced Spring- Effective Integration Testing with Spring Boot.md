@@ -33,7 +33,7 @@ tags:
   - skill/integration-testing
   - skill/spring-boot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Spring-%20Effective%20Integration%20Testing%20with%20Spring%20Boot.md)
@@ -52,37 +52,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Take advantage of Spring events
-  - What you need to know
-  - Why bother testing?
+  - [Take advantage of Spring events](#take-advantage-of-spring-events)
+  - [What you need to know](#what-you-need-to-know)
+  - [Why bother testing?](#why-bother-testing)
 - [**1. Explore the Power of Spring Boot Libraries**](#1-explore-the-power-of-spring-boot-libraries) (2 videos)
-  - Creating a Spring Boot application from start.spring.io
-  - Creating human-readable tests with Mockito and AssertJ
+  - [Creating a Spring Boot application from start.spring.io](#creating-a-spring-boot-application-from-startspringio)
+  - [Creating human-readable tests with Mockito and AssertJ](#creating-human-readable-tests-with-mockito-and-assertj)
 - [**2. Integration Testing Against a Real Database**](#2-integration-testing-against-a-real-database) (4 videos)
-  - Effective ways to test your data access
-  - Writing integration tests for a JPA repository
-  - Challenge: Write tests for a custom query
-  - Solution: Write tests for a custom query
+  - [Effective ways to test your data access](#effective-ways-to-test-your-data-access)
+  - [Writing integration tests for a JPA repository](#writing-integration-tests-for-a-jpa-repository)
+  - [Challenge: Write tests for a custom query](#challenge-write-tests-for-a-custom-query)
+  - [Solution: Write tests for a custom query](#solution-write-tests-for-a-custom-query)
 - [**3. Integration Testing Against Services with Caching Support**](#3-integration-testing-against-services-with-caching-support) (4 videos)
-  - Writing integration tests for the service layer
-  - Writing integration tests for cache
-  - Challenge: Write an integration test for exceptions
-  - Solution: Write an integration test for exceptions
+  - [Writing integration tests for the service layer](#writing-integration-tests-for-the-service-layer)
+  - [Writing integration tests for cache](#writing-integration-tests-for-cache)
+  - [Challenge: Write an integration test for exceptions](#challenge-write-an-integration-test-for-exceptions)
+  - [Solution: Write an integration test for exceptions](#solution-write-an-integration-test-for-exceptions)
 - [**4. Integration Testing Against a Web Controller**](#4-integration-testing-against-a-web-controller) (3 videos)
-  - Which type of web controller responsibilities to test?
-  - Writing integration tests for a web controller
-  - Testing custom exception returns
+  - [Which type of web controller responsibilities to test?](#which-type-of-web-controller-responsibilities-to-test)
+  - [Writing integration tests for a web controller](#writing-integration-tests-for-a-web-controller)
+  - [Testing custom exception returns](#testing-custom-exception-returns)
 - [**5. Integration Testing for the Client App**](#5-integration-testing-for-the-client-app) (4 videos)
-  - Integration testing without making an external API call
-  - Writing integration tests for rest endpoints
-  - Introduction to Spring Cloud Contract
-  - Ensuring client app (rest call) and web app (controller) are in sync
+  - [Integration testing without making an external API call](#integration-testing-without-making-an-external-api-call)
+  - [Writing integration tests for rest endpoints](#writing-integration-tests-for-rest-endpoints)
+  - [Introduction to Spring Cloud Contract](#introduction-to-spring-cloud-contract)
+  - [Ensuring client app (rest call) and web app (controller) are in sync](#ensuring-client-app-rest-call-and-web-app-controller-are-in-sync)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More Spring Boot integration testing resources
+  - [More Spring Boot integration testing resources](#more-spring-boot-integration-testing-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take advantage of Spring events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (1), database (1), web (1), [[Java]] (1), [[Integration Testing]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
@@ -124,9 +124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[Spring Boot]] (2), [[Spring Framework]] (1), [[Functional Programming]] (1), [[JUnit]] (1)
 > **Versions:** java 8 (1), java 15 (1), 2.4 (1)
 > **Env Vars:** ide (2)
-> **Code Keywords:** let (1)
 > **Tools:** intellij (1)
 > **Speakers:** - [narrator] (1)
 
@@ -175,16 +175,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), database (4), application (3), [[Spring Boot]] (2), [[Unit Testing]] (2)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** api (2), sftp (1)
-> **Code Keywords:** let (1), class. (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Explore the Power of Spring Boot Libraries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a Spring Boot application from start.spring.io
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980)
@@ -239,9 +239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (10), [[Spring Boot]] (7), application (4), [[JSON]] (2), web application (1)
 > **Env Vars:** ide (2), json (2), rest (1), gpa (1), idea (1)
 > **CLI Commands:** make (2), unzip (1)
-> **Code Keywords:** let (2), assert (1)
 > **Versions:** java 15 (2), java 11 (1)
 > **Tools:** intellij (2), terminal (1)
 > **UI Navigation:** click on (1), open the (1)
@@ -299,8 +299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[JUnit]] (1), api (1), feature (1)
 > **Env Vars:** bdd (4), agl (1), tdd (1), api (1)
-> **Code Keywords:** let (1), case. (1), super (1), assert (1)
 > **Warnings:** common mistake (1), note that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** assertthat (1)
@@ -311,7 +311,7 @@ created: 2026-04-29
 
 ### 2. Integration Testing Against a Real Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Effective ways to test your data access
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980)
@@ -398,10 +398,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[SQL]] (8), [[Spring Data]] (6), [[Spring Boot]] (4), [[Databases]] (3)
 > **Env Vars:** sql (8), jpql (2), orm (1)
 > **Analogies:** such as (4), imagine (1), for example (1)
 > **CLI Commands:** make (3), docker (1)
-> **Code Keywords:** let (3), module (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** required to (1), set up (1)
 > **Exercise Files:** template (1)
@@ -506,7 +506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (2), case, (1), class, (1), class. (1)
+> **Frameworks & Libraries:** database (7), data (3), teams (2), application (2), [[Spring Data]] (1)
 > **Env Vars:** gpa (7), tdd (1)
 > **Definitions:** is called (2), known as (1)
 > **CLI Commands:** make (1), find (1)
@@ -540,6 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Fetch]] (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft music) (1)
@@ -627,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Code Identifiers:** getavggrade (1), calculatesavg (1), persistflushfind (1)
 > **Env Vars:** sql (2), gpql (1)
 > **Analogies:** similar to (2)
@@ -639,7 +640,7 @@ created: 2026-04-29
 
 ### 3. Integration Testing Against Services with Caching Support
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing integration tests for the service layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980)
@@ -718,7 +719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1), type, (1)
+> **Frameworks & Libraries:** application (4), data (2), next (1), [[Orchestration]] (1), [[Fetch]] (1)
 > **Code Identifiers:** studentservice (2), findbyid (2), getstudentbyid (1), argsconstructor (1)
 > **Env Vars:** none (1), gpi (1), tdd (1), gpa (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
@@ -812,7 +813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (1), assert (1), pass (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), database (3), web (3), application (3), [[Dependency Injection]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), is called (1)
@@ -846,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** tdd (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -914,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (4), let (3), throw (2), class. (1), case, (1)
+> **Frameworks & Libraries:** data (1), database (1)
 > **Env Vars:** bdd (3), tdd (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -924,7 +925,7 @@ created: 2026-04-29
 
 ### 4. Integration Testing Against a Web Controller
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Which type of web controller responsibilities to test?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980)
@@ -1013,8 +1014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), application (5), web (4), [[Spring Boot]] (3), [[Java]] (2)
 > **Env Vars:** http (9), url (3), json (1)
-> **Code Keywords:** let (1), pass (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - testing (1)
@@ -1104,7 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), assert (1), class. (1), else. (1), type. (1)
+> **Frameworks & Libraries:** web (5), [[Spring Boot]] (2), application (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** http (5), mvc (5)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
@@ -1178,7 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (1), assert (1)
+> **Frameworks & Libraries:** api (4), [[Spring Boot]] (3), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), http (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (1)
@@ -1187,7 +1188,7 @@ created: 2026-04-29
 
 ### 5. Integration Testing for the Client App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integration testing without making an external API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980)
@@ -1250,6 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), api (5), [[Integration Testing]] (1), [[Google]] (1), web (1)
 > **Env Vars:** api (5), http (3), uri (2)
 > **Exercise Files:** template (6)
 > **Analogies:** imagine (1), for example (1), such as (1)
@@ -1257,7 +1259,6 @@ created: 2026-04-29
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
-> **Speakers:** - [instructor] (1)
 
 #### Writing integration tests for rest endpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980)
@@ -1374,7 +1375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1), class, (1), assert (1), class. (1)
+> **Frameworks & Libraries:** application (5), [[Java]] (2), [[Flux]] (2), api (2), [[LinkedIn]] (1)
 > **Env Vars:** api (2), tdd (1), uri (1), http (1)
 > **Prerequisites:** configure (5)
 > **Versions:** java 15 (2)
@@ -1456,10 +1457,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), application (3), [[Microservices]] (3), web (1), api (1)
 > **Analogies:** imagine (2), such as (2), for example (1)
 > **Env Vars:** api (1), yaml (1), http (1)
 > **Prerequisites:** set up (1), setup (1), configure (1)
-> **Code Keywords:** case, (1), let (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** artifactid (1)
 > **Definitions:** is called (1)
@@ -1578,7 +1579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (3), class, (1), pass (1), from. (1)
+> **Frameworks & Libraries:** cloud (4), application (3), [[JSON]] (3), web (2), api (1)
 > **Env Vars:** json (3), dsl (2), http (1), api (1), mvc (1)
 > **CLI Commands:** make (4), find (2)
 > **Prerequisites:** configure (2), set up (1), setup (1), install (1)
@@ -1590,7 +1591,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More Spring Boot integration testing resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980)
@@ -1613,8 +1614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Integration Testing]] (2), [[Spring Boot]] (2), next (1), [[Programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 

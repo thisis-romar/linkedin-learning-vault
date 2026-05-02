@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Vanilla%20JavaScript-%20Web%20Performance%20Optimization%20APIs.md)
@@ -48,46 +48,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Optimize APIs with JavaScript
-  - What you should know
+  - [Optimize APIs with JavaScript](#optimize-apis-with-javascript)
+  - [What you should know](#what-you-should-know)
 - [**1. Reactive Web Performance**](#1-reactive-web-performance) (5 videos)
-  - The need for web performance APIs
-  - Summary of what we can do
-  - Real user monitoring (RUM) and reactive web performance
-  - Measure time
-  - High-resolution timings
+  - [The need for web performance APIs](#the-need-for-web-performance-apis)
+  - [Summary of what we can do](#summary-of-what-we-can-do)
+  - [Real user monitoring (RUM) and reactive web performance](#real-user-monitoring-rum-and-reactive-web-performance)
+  - [Measure time](#measure-time)
+  - [High-resolution timings](#high-resolution-timings)
 - [**2. Performance Basics**](#2-performance-basics) (5 videos)
-  - Navigation Timing Level 1
-  - Understand timings available
-  - Calculate milestones in the timeline
-  - The Performance Timeline interface
-  - Navigation Timing Level 2
+  - [Navigation Timing Level 1](#navigation-timing-level-1)
+  - [Understand timings available](#understand-timings-available)
+  - [Calculate milestones in the timeline](#calculate-milestones-in-the-timeline)
+  - [The Performance Timeline interface](#the-performance-timeline-interface)
+  - [Navigation Timing Level 2](#navigation-timing-level-2)
 - [**3. Measure Performance**](#3-measure-performance) (8 videos)
-  - Measuring our websites
-  - Add the Navigation Timing API
-  - Use the Resource Timing API
-  - Create custom user timing
-  - Get paint timing
-  - Detect long tasks
-  - Detect frame rate drops
-  - Add server timing information
+  - [Measuring our websites](#measuring-our-websites)
+  - [Add the Navigation Timing API](#add-the-navigation-timing-api)
+  - [Use the Resource Timing API](#use-the-resource-timing-api)
+  - [Create custom user timing](#create-custom-user-timing)
+  - [Get paint timing](#get-paint-timing)
+  - [Detect long tasks](#detect-long-tasks)
+  - [Detect frame rate drops](#detect-frame-rate-drops)
+  - [Add server timing information](#add-server-timing-information)
 - [**4. Decision-Making Helpers**](#4-decision-making-helpers) (4 videos)
-  - Read network information
-  - Read device memory
-  - Save data for your users
-  - Receive client hints on the server
+  - [Read network information](#read-network-information)
+  - [Read device memory](#read-device-memory)
+  - [Save data for your users](#save-data-for-your-users)
+  - [Receive client hints on the server](#receive-client-hints-on-the-server)
 - [**5. Execute Code More Efficiently**](#5-execute-code-more-efficiently) (5 videos)
-  - Send low-priority requests with beacons
-  - Understand frame rate execution
-  - Execute animation control code
-  - Execute background tasks
-  - Efficient script yielding
+  - [Send low-priority requests with beacons](#send-low-priority-requests-with-beacons)
+  - [Understand frame rate execution](#understand-frame-rate-execution)
+  - [Execute animation control code](#execute-animation-control-code)
+  - [Execute background tasks](#execute-background-tasks)
+  - [Efficient script yielding](#efficient-script-yielding)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize APIs with JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Vanilla]] (1), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1), [[Android]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -136,15 +137,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[JavaScript]] (2), [[HTML]] (1), css (1)
 > **Env Vars:** http (2), html (1), css (1), es6 (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Reactive Web Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for web performance APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980)
@@ -201,7 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (2)
+> **Frameworks & Libraries:** web (5), [[Android]] (3), [[Google]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** lte (1), cpu (1)
 > **Analogies:** for example (2)
@@ -269,9 +270,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Fetch]] (2), [[Android]] (2), web (1), dns (1)
 > **Env Vars:** http (3), cpu (3), dns (1), tcp (1), ssl (1)
 > **Analogies:** for example (5), such as (2)
-> **Code Keywords:** let (1), case, (1), finally, (1), function (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -374,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** data (7), web (5), [[User Experience (UX)|User experience]] (3), [[Android]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), similar to (1)
 > **Env Vars:** rum (1), http (1)
@@ -461,7 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), this. (3), let (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), api (2), [[Databases]] (1), [[Web Development]] (1)
 > **Code Identifiers:** timeorigin (2), gettime (1), navigationstart (1)
 > **Ports:** :00 (2), :28 (1)
 > **Env Vars:** api (2), utc (1)
@@ -517,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), interface (1), let (1), private (1)
+> **Frameworks & Libraries:** web (4), data (3), [[JavaScript]] (2), api (2), [[Security]] (1)
 > **Definitions:** known as (4)
 > **Env Vars:** api (2), w3c (1)
 > **Documentation:** w3c (1), spec (1)
@@ -527,7 +528,7 @@ created: 2026-04-29
 
 ### 2. Performance Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigation Timing Level 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980)
@@ -578,9 +579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), web (3), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (7), url (1)
 > **Code Identifiers:** timeorigin (2), timeorgin (1), redirectcount (1), rediectcount (1)
-> **Code Keywords:** let (2), interface (1), type. (1)
 > **URLs:** [facebook.com](https://facebook.com) (3)
 > **Definitions:** means that (2), known as (1)
 > **Analogies:** for example (2)
@@ -681,9 +682,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), next (4), [[JavaScript]] (4), css (3), api (2)
 > **Code Identifiers:** dominteractive (3), fetchstart (2), domcontentloaded (2), navigationstart (1), unloadeventstart (1)
 > **Env Vars:** html (5), tcp (3), css (3), api (2), dns (2)
-> **Code Keywords:** case, (9), this. (1), let (1), async (1), finally, (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** open the (1)
@@ -726,6 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), api (1), dns (1), [[HTML]] (1), [[Analytics]] (1)
 > **Code Identifiers:** fetchstart (3), responsestart (1), domload (1), dominteractive (1), domcomplete (1)
 > **Env Vars:** api (1), dns (1), tcp (1), ssl (1), html (1)
 > **CLI Commands:** make (2)
@@ -840,7 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), interface (3), type, (3), for, (1), let (1)
+> **Frameworks & Libraries:** api (9), web (4), generic (2), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
 > **Env Vars:** api (9), url (1), adi (1)
 > **Analogies:** for example (7), such as (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -914,10 +916,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Fetch]] (2), web (1), next (1), [[HTML]] (1)
 > **Code Identifiers:** workerstart (3), dominteractive (2), transfersize (2), decodedbodysize (2), getentriesbytype (1)
 > **Env Vars:** api (7), url (1), htp2 (1)
 > **Analogies:** for example (5)
-> **Code Keywords:** case, (2), interface (1), type, (1)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
@@ -926,7 +928,7 @@ created: 2026-04-29
 
 ### 3. Measure Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring our websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980)
@@ -1033,7 +1035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), case, (1), this. (1), type, (1)
+> **Frameworks & Libraries:** data (8), api (4), web (3), css (3), [[Node.js]] (2)
 > **Env Vars:** api (4), ajax (1), es6 (1)
 > **CLI Commands:** node (2), sudo (1), npm (1), make (1)
 > **File Paths:** node.js (2), app.js (1)
@@ -1135,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (4), type. (2), for, (1)
+> **Frameworks & Libraries:** api (7), [[Fetch]] (4), data (1)
 > **Code Identifiers:** fetchstart (3), getentriesbytype (2), responsestart (1), naventries (1)
 > **Env Vars:** api (7)
 > **Analogies:** for example (4)
@@ -1235,8 +1237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), css (5), [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** api (7), css (5), cdn (3), url (2), svg (1)
-> **Code Keywords:** case, (7), let (4), type, (3), type. (2)
 > **Code Identifiers:** resentries (1), getentriesbytype (1), foreach (1), initiatortype (1), getentriesbyname (1)
 > **Analogies:** for example (2), similar to (1)
 > **Definitions:** known as (2)
@@ -1319,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (10), let (3), this, (2), type, (2), finally, (2)
+> **Frameworks & Libraries:** api (9), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** weatherstart (4), weatherend (4), entrytype (2), starttime (2), getentriesbytype (1)
 > **Env Vars:** api (9)
 > **Analogies:** for example (6), such as (1)
@@ -1423,8 +1425,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), web (1)
 > **Env Vars:** api (8)
-> **Code Keywords:** type, (1), function (1), throw (1), catch, (1)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **Cross-References:** we mentioned (1)
@@ -1482,7 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), while, (2), catch, (1), this, (1)
+> **Frameworks & Libraries:** api (4), web (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Analogies:** for example (2), such as (1), similar to (1), it's like (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** find (1), make (1)
@@ -1532,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), break. (1), case. (1), this, (1)
+> **Frameworks & Libraries:** api (4), css (1), data (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (4), w3c (1), css (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** frameobserver (1), entrytypes (1)
@@ -1610,11 +1612,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), web (3), [[npm]] (2), database (2), data (2)
 > **Code Identifiers:** servertiming (4), getentriesbytype (2), foreach (2)
 > **CLI Commands:** find (2), npm (2), node (1), php (1), make (1)
 > **Env Vars:** api (5), php (1), net (1)
 > **File Paths:** server.js (1), express.js (1), node.js (1)
-> **Code Keywords:** let (2), interface (1)
 > **UI Navigation:** open the (1), scroll down (1)
 > **Definitions:** known as (2)
 > **Prerequisites:** install (2)
@@ -1622,7 +1624,7 @@ created: 2026-04-29
 
 ### 4. Decision-Making Helpers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Read network information
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980)
@@ -1713,7 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (3), finally, (2), case, (1)
+> **Frameworks & Libraries:** api (3), [[User Experience (UX)|User experience]] (2), [[Windows]] (1), web (1), next (1)
 > **Analogies:** for example (6), such as (3)
 > **Definitions:** is a  (3), means that (2), known as (2)
 > **Documentation:** spec (5)
@@ -1769,11 +1771,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[Android]] (1)
 > **Env Vars:** api (4), ram (2)
 > **CLI Commands:** make (2)
 > **Versions:** 0.5 (1), 0.25 (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** devicememory (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1807,11 +1809,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), api (2), [[Android]] (1), [[JavaScript]] (1), [[HTML]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** api (2), html (1)
 > **Code Identifiers:** savedata (2)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** case. (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -1919,8 +1921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), web (7), [[HTML]] (5), next (4), api (3)
 > **Env Vars:** html (5), api (3), http (3), dpr (3), ect (3)
-> **Code Keywords:** let (8), case, (3), type, (2), default. (1)
 > **Analogies:** such as (6), for example (5), picture (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** iphone (3)
@@ -1931,7 +1933,7 @@ created: 2026-04-29
 
 ### 5. Execute Code More Efficiently
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Send low-priority requests with beacons
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980)
@@ -1970,9 +1972,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[JavaScript]] (2), [[Analytics]] (2), [[Vanilla]] (1), [[AJAX]] (1)
 > **Env Vars:** api (4), url (2), ajax (1), json (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** sendbeacon (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2071,7 +2073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this. (1), let (1)
+> **Frameworks & Libraries:** next (2), [[HTML]] (1), css (1), api (1)
 > **Env Vars:** html (1), css (1), api (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
@@ -2106,8 +2108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), api (1)
 > **Env Vars:** html5 (2), api (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** requestanimationframe (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
@@ -2167,9 +2169,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), api (3)
 > **Env Vars:** api (3), w3c (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1), case, (1)
 > **Documentation:** w3c (1), spec (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
@@ -2197,15 +2199,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), web (1)
 > **Code Identifiers:** settimeout (3), setimmediate (1)
-> **Code Keywords:** yield (1), case, (1), this, (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980)
@@ -2236,8 +2238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[User Experience (UX)|User experience]] (1), api (1), [[Vanilla]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [maximiliano] (1)

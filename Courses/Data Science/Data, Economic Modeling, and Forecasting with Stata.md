@@ -30,7 +30,7 @@ tags:
   - skill/stata
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%2C%20Economic%20Modeling%2C%20and%20Forecasting%20with%20Stata.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Be prepared for the data jobs of the future
+  - [Be prepared for the data jobs of the future](#be-prepared-for-the-data-jobs-of-the-future)
 - [**1. Overview**](#1-overview) (2 videos)
-  - Purpose of modeling in Stata
-  - The value of good data and good big data
+  - [Purpose of modeling in Stata](#purpose-of-modeling-in-stata)
+  - [The value of good data and good big data](#the-value-of-good-data-and-good-big-data)
 - [**2. Modeling Basics**](#2-modeling-basics) (5 videos)
-  - Statistics and econometrics
-  - Univariate and multivariate linear regression models
-  - Correlation is not causation
-  - Overly tight model fit
-  - Models are always wrong
+  - [Statistics and econometrics](#statistics-and-econometrics)
+  - [Univariate and multivariate linear regression models](#univariate-and-multivariate-linear-regression-models)
+  - [Correlation is not causation](#correlation-is-not-causation)
+  - [Overly tight model fit](#overly-tight-model-fit)
+  - [Models are always wrong](#models-are-always-wrong)
 - [**3. Screencap Basics in Stata**](#3-screencap-basics-in-stata) (11 videos)
-  - Overview and enter data
-  - Data preparation and selection
-  - Inputting data
-  - Mean and summary statistics
-  - Standard deviation and SE
-  - Correlation
-  - Key output validity measures
-  - Univariate model
-  - Multivariate model
-  - Appling univariate model to forecast
-  - Saving and files
+  - [Overview and enter data](#overview-and-enter-data)
+  - [Data preparation and selection](#data-preparation-and-selection)
+  - [Inputting data](#inputting-data)
+  - [Mean and summary statistics](#mean-and-summary-statistics)
+  - [Standard deviation and SE](#standard-deviation-and-se)
+  - [Correlation](#correlation)
+  - [Key output validity measures](#key-output-validity-measures)
+  - [Univariate model](#univariate-model)
+  - [Multivariate model](#multivariate-model)
+  - [Appling univariate model to forecast](#appling-univariate-model-to-forecast)
+  - [Saving and files](#saving-and-files)
 - [**4. Advanced Topics**](#4-advanced-topics) (1 videos)
-  - Advanced topics
+  - [Advanced topics](#advanced-topics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be prepared for the data jobs of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980)
@@ -99,13 +99,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Stata]] (2), [[LinkedIn]] (1), [[Economic Modeling]] (1), [[Forecasting]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - people (1)
 
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of modeling in Stata
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980)
@@ -136,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Stata]] (2), business (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** stata (2), sas (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** eviews (1)
@@ -169,13 +171,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1)
+> **Frameworks & Libraries:** data (10), [[Big Data]] (4)
 > **Speakers:** - big (1)
 
 
 ### 2. Modeling Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Statistics and econometrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980)
@@ -204,6 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Statistics]] (5), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - analyzing (1)
@@ -249,7 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), data (2), [[Forecasting]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
@@ -283,6 +286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
@@ -316,8 +320,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
@@ -360,13 +364,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Forecasting]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - one (1)
 
 
 ### 3. Screencap Basics in Stata
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview and enter data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980)
@@ -419,9 +424,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Stata]] (3), [[Microsoft Excel|Excel]] (2), prompt (1), business (1)
 > **Env Vars:** stata (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** eviews (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** go to (1)
@@ -488,9 +493,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Stata]] (2), next (1), hit (1)
 > **Env Vars:** pmi (3), lme (1), ism (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jason] (1)
@@ -540,6 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Stata]] (1), hit (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [jason] (1)
 
@@ -632,11 +638,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (1), next (1)
 > **Versions:** 154.5 (1), 152.7 (1), 156.3 (1)
 > **Env Vars:** lme (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Standard deviation and SE
@@ -728,9 +734,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pmi (2), sem (1)
-> **Code Keywords:** this. (1), case, (1)
 > **Versions:** 11.37 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -797,8 +803,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Forecasting]] (1), [[Stata]] (1)
 > **Env Vars:** pmi (5), ism (2), emi (1)
-> **Code Keywords:** let (6)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** find (2)
 > **Versions:** 0.5 (1), 68.4 (1)
@@ -857,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Linear Regression]] (1), [[Statistics]] (1), data (1), [[Forecasting]] (1)
 > **Env Vars:** pmi (3)
 > **Speakers:** - [jason] (1)
 
@@ -910,10 +916,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), product (2), [[Probability]] (1), [[Forecasting]] (1)
 > **Env Vars:** pmi (4), lme (1)
 > **Versions:** 93.07 (1), 2338.45 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -973,8 +979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), [[Statistics]] (1)
 > **Env Vars:** pmi (11), ism (6)
-> **Code Keywords:** let (5), case, (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 25.6 (1), 2.40 (1)
 > **Analogies:** just like (1), similar to (1)
@@ -1026,9 +1032,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **Env Vars:** pmi (6), lme (1)
 > **Versions:** 3025.54 (2), 16.25 (2), 81.74 (1)
-> **Code Keywords:** function (1), let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1061,16 +1067,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Stata]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** dta (2), pdf (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [jason] (1)
 
 
 ### 4. Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980)
@@ -1173,7 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), include: (1), this. (1), for, (1)
+> **Frameworks & Libraries:** data (10), next (3), [[Forecasting]] (2), [[Probability]] (1)
 > **Env Vars:** kmi (1), arima (1), arch (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (2), similar to (1)
@@ -1184,7 +1190,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980)
@@ -1207,6 +1213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Stata]] (3), [[LinkedIn]] (1), [[Economic Modeling]] (1), [[Forecasting]] (1)
 > **Speakers:** - thank (1)
 
 

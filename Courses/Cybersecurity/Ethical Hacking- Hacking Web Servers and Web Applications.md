@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Hacking%20Web%20Servers%20and%20Web%20Applications.md)
@@ -48,48 +48,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Testing to make sure your website is safe
-  - What you should know
-  - Disclaimer
+  - [Testing to make sure your website is safe](#testing-to-make-sure-your-website-is-safe)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Introduction to Web Servers**](#1-introduction-to-web-servers) (9 videos)
-  - Elements of web-based applications
-  - Introduction to web servers
-  - Dissecting the HTTP/HTTPS protocol
-  - Moving on to WebSockets
-  - Looking at the Google QUIC protocol
-  - Understanding cookies
-  - Introducing HTML
-  - Visiting OWASP
-  - Web access APIs
+  - [Elements of web-based applications](#elements-of-web-based-applications)
+  - [Introduction to web servers](#introduction-to-web-servers)
+  - [Dissecting the HTTP/HTTPS protocol](#dissecting-the-httphttps-protocol)
+  - [Moving on to WebSockets](#moving-on-to-websockets)
+  - [Looking at the Google QUIC protocol](#looking-at-the-google-quic-protocol)
+  - [Understanding cookies](#understanding-cookies)
+  - [Introducing HTML](#introducing-html)
+  - [Visiting OWASP](#visiting-owasp)
+  - [Web access APIs](#web-access-apis)
 - [**2. Getting Ready to Test**](#2-getting-ready-to-test) (6 videos)
-  - Introducing the Zero Bank
-  - Installing the WebGoat Server
-  - Introducing Burp Suite
-  - Scanning with ZAP
-  - Proxying with ZAP
-  - Introducing WebScarab
+  - [Introducing the Zero Bank](#introducing-the-zero-bank)
+  - [Installing the WebGoat Server](#installing-the-webgoat-server)
+  - [Introducing Burp Suite](#introducing-burp-suite)
+  - [Scanning with ZAP](#scanning-with-zap)
+  - [Proxying with ZAP](#proxying-with-zap)
+  - [Introducing WebScarab](#introducing-webscarab)
 - [**3. Running Basic Web Application Tests**](#3-running-basic-web-application-tests) (4 videos)
-  - Fingerprinting web servers
-  - Looking for credentials in HTML code
-  - Using Cookie Jars
-  - Hijacking sessions with cookies
+  - [Fingerprinting web servers](#fingerprinting-web-servers)
+  - [Looking for credentials in HTML code](#looking-for-credentials-in-html-code)
+  - [Using Cookie Jars](#using-cookie-jars)
+  - [Hijacking sessions with cookies](#hijacking-sessions-with-cookies)
 - [**4. Advanced Web Application Tests**](#4-advanced-web-application-tests) (6 videos)
-  - Manipulating URL parameters
-  - Testing for SQL injections
-  - Cross-site scripting
-  - Injecting commands through the URL
-  - Testing with Uniscan
-  - Using the modsecurity WAF
+  - [Manipulating URL parameters](#manipulating-url-parameters)
+  - [Testing for SQL injections](#testing-for-sql-injections)
+  - [Cross-site scripting](#cross-site-scripting)
+  - [Injecting commands through the URL](#injecting-commands-through-the-url)
+  - [Testing with Uniscan](#testing-with-uniscan)
+  - [Using the modsecurity WAF](#using-the-modsecurity-waf)
 - [**5. Practicing Your Skills**](#5-practicing-your-skills) (3 videos)
-  - Practicing with online banking websites
-  - Hacking the cheese
-  - Training in the Web Security Dojo
+  - [Practicing with online banking websites](#practicing-with-online-banking-websites)
+  - [Hacking the cheese](#hacking-the-cheese)
+  - [Training in the Web Security Dojo](#training-in-the-web-security-dojo)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing to make sure your website is safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980)
@@ -120,8 +120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (13), [[E-Commerce]] (1), [[Banking]] (1), career (1), [[LinkedIn]] (1)
 > **Env Vars:** owasp (1), zap (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [malcolm] (1)
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Virtualization]] (1), [[Windows]] (1), [[Linux]] (1), [[HTML]] (1)
 > **Env Vars:** html (1), php (1)
 > **CLI Commands:** php (1)
 > **Definitions:** is a  (1)
@@ -173,13 +174,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Kali Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Web Servers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elements of web-based applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980)
@@ -270,9 +271,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), application (9), web application (8), data (6), [[HTML]] (3)
 > **Env Vars:** http (4), html (3), mvc (3), soap (3), rest (3)
 > **Analogies:** such as (6)
-> **Code Keywords:** interface (2), public (1)
 > **API Endpoints:** get  (1), put  (1)
 > **Definitions:** is a  (1), known as (1)
 > **File Paths:** ember.js (1)
@@ -328,11 +329,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (17), [[Linux]] (3), [[Windows]] (3), management (3), web application (2)
 > **CLI Commands:** nginx (6), apache (4), php (2), find (1)
 > **Env Vars:** iis (4), nginx (3), php (1), http (1), https (1)
 > **File Paths:** index.html (1), index.php (1), applicationhost.config (1), administration.config (1)
 > **Analogies:** such as (2), for instance (1)
-> **Code Keywords:** var (1), default. (1)
 > **Ports:** port 80 (1), port 443 (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** configure (1)
@@ -494,8 +495,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (14), data (4), web application (3), [[Wireshark]] (3), next (3)
 > **Env Vars:** http (17), url (4), tcp (2), head (1), post (1)
-> **Code Keywords:** this, (4), case, (3), delete (2), default, (1), override (1)
 > **API Endpoints:** get  (6), head  (1), post  (1), options  (1), put  (1)
 > **Definitions:** is a  (5), is an  (4), in other words (1), known as (1)
 > **Versions:** 1.1 (3), 10.0.2 (2)
@@ -550,11 +551,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), [[WebSocket|Websockets]] (7), [[Ubuntu]] (2), [[HTML]] (1), management (1)
 > **Env Vars:** http (2), https (2), html (1), wss (1), api (1)
 > **Tools:** bash (2), github (1)
 > **Ports:** port 8008 (1), port 8088 (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Documentation:** rfc (1)
 > **Exercise Files:** zip file (1)
 > **Prerequisites:** setup (1)
@@ -648,8 +649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (5), [[Security]] (2), traffic (2), [[Wireshark]] (2), web (1)
 > **Env Vars:** quic (16), tcp (6), tls (5), udp (3), http (3)
-> **Code Keywords:** let (3), default, (1)
 > **Definitions:** is a  (2)
 > **URLs:** [google.com](https://google.com) (1)
 > **UI Navigation:** scroll down (1)
@@ -713,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), this, (1), pass (1)
+> **Frameworks & Libraries:** web (4), [[Windows]] (2), data (2), [[PHP]] (2)
 > **Env Vars:** php (2), url (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** php (2)
@@ -800,8 +801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (11), web (5), [[OWASP]] (1), application (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** html (9), url (1)
-> **Code Keywords:** let (4), this. (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **File Paths:** page1.html (1)
 > **CLI Commands:** make (1)
@@ -896,11 +897,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (14), [[OWASP]] (13), web application (4), [[Security]] (4), [[Android]] (1)
 > **Env Vars:** owasp (13), owtf (2), sql (1), zap (1)
 > **UI Navigation:** click on (4), scroll down (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Tools:** github (1)
 > **Warnings:** note that (1)
@@ -966,8 +967,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), web (3), [[Python (Programming Language)|Python]] (1), [[Microsoft]] (1), web application (1)
 > **Env Vars:** api (4), otp (3), url (2), http (1)
-> **Code Keywords:** let (5), class. (1), self (1), finally, (1), this, (1)
 > **Prerequisites:** install (4), set up (1)
 > **CLI Commands:** pip (3), python (1)
 > **File Paths:** otp.py (2)
@@ -978,7 +979,7 @@ created: 2026-04-29
 
 ### 2. Getting Ready to Test
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the Zero Bank
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980)
@@ -1013,6 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Banking]] (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Installing the WebGoat Server
@@ -1054,7 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** web (4), [[OWASP]] (1), [[Security]] (1)
 > **Env Vars:** owasp (1), url (1)
 > **CLI Commands:** go run (1)
 > **Ports:** port 8080 (1)
@@ -1142,8 +1144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (8), traffic (2), web (1)
 > **UI Navigation:** select the (2), go to (2), click on (2), right-click (1)
-> **Code Keywords:** let (3), this, (1), default, (1)
 > **URLs:** [http://zero.webappsecurity.com](http://zero.webappsecurity.com) (1), [webappsecurity.com](https://webappsecurity.com) (1)
 > **Ports:** port 8080 (2)
 > **Prerequisites:** set up (2)
@@ -1212,9 +1214,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (1), [[OWASP]] (1), application (1), web application (1), web (1)
 > **Env Vars:** zap (7), url (2), owasp (1)
 > **UI Navigation:** click on (4), open the (1), double-click (1), scroll down (1)
-> **Code Keywords:** let (3)
 > **Versions:** 2.23 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1277,7 +1279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), continue (1), break. (1), this. (1)
+> **Frameworks & Libraries:** web application (2), web (1), [[OWASP]] (1), [[Security]] (1)
 > **Env Vars:** zap (5), owasp (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Ports:** port 8080 (2)
@@ -1381,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), this, (1)
+> **Frameworks & Libraries:** web (6), web application (3), next (2), [[Scripting]] (2), [[Search]] (2)
 > **Env Vars:** pdf (1), xxs (1), crlf (1)
 > **Cross-References:** go back to (2), later in (1)
 > **UI Navigation:** go to (1), double-click (1), dropdown (1)
@@ -1393,7 +1395,7 @@ created: 2026-04-29
 
 ### 3. Running Basic Web Application Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fingerprinting web servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980)
@@ -1464,8 +1466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), application (2), web application (1), [[Banking]] (1), [[HTML]] (1)
 > **CLI Commands:** apache (2), nginx (1), find (1)
-> **Code Keywords:** let (4)
 > **Env Vars:** gui (1), icmp (1), ssl (1), nginx (1)
 > **Versions:** 1.3.37 (1), 1.10.3 (1), 1.8.2 (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1506,7 +1508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (2), data (1), database (1)
 > **Env Vars:** html (2)
 > **UI Navigation:** select the (1), right-click (1)
 > **Ports:** port 8080 (1)
@@ -1555,7 +1557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (2)
+> **Frameworks & Libraries:** [[Burp Suite]] (7), web (2), traffic (1)
 > **UI Navigation:** go to (2), select the (1), open the (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** jsessionid (1)
@@ -1637,8 +1639,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Banking]] (2), web (1), [[Windows 10]] (1)
 > **UI Navigation:** select the (1), open the (1), go to (1), click on (1)
-> **Code Keywords:** let (2), public (1)
 > **Env Vars:** http (2)
 > **Prerequisites:** install (2)
 > **URLs:** [webappsecurity.com](https://webappsecurity.com) (1)
@@ -1649,7 +1651,7 @@ created: 2026-04-29
 
 ### 4. Advanced Web Application Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manipulating URL parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980)
@@ -1728,8 +1730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (5), data (3), web (2), application (2)
 > **Env Vars:** url (10), php (5), html (3), urlacc (1)
-> **Code Keywords:** let (5), this, (3), pass (1), function (1), var (1)
 > **CLI Commands:** php (7), make (1)
 > **Non-Speech:** (keys clicking) (7)
 > **File Paths:** urlacc.html (1), urltest2.php (1), urlnotes.html (1), urltest3.php (1)
@@ -1816,7 +1818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (7), database (5), data (3), web (1), [[Forms]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -1871,9 +1873,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (3), [[Scripting]] (3), web application (2)
 > **File Paths:** xssblog.html (1), xssblog.php (1), xssblog.txt (1), xssread.php (1)
 > **CLI Commands:** php (4)
-> **Code Keywords:** let (2), var (1), this. (1)
 > **Env Vars:** html (2), php (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1954,9 +1956,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[PHP]] (4), [[Google]] (2), [[Windows]] (2), [[HTML]] (1)
 > **Env Vars:** gwee (5), url (4), php (3), html (1), tar (1)
 > **CLI Commands:** php (4), ls (1), make (1), tar (1)
-> **Code Keywords:** let (3), var (1), this. (1), return. (1)
 > **Definitions:** is a  (2)
 > **File Paths:** commandget.php (1)
 > **Analogies:** such as (1)
@@ -2065,7 +2067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (1), static (1), while, (1)
+> **Frameworks & Libraries:** [[SQL]] (3), web (2), [[PHP]] (2), web application (1), [[Forms]] (1)
 > **Env Vars:** sql (3), php (2), url (1)
 > **CLI Commands:** php (2), apache (1)
 > **Exercise Files:** source code (2)
@@ -2137,7 +2139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), var (1), protected (1)
+> **Frameworks & Libraries:** web (4), [[SQL]] (3), web application (1), [[Forms]] (1), [[HTML]] (1)
 > **CLI Commands:** apache (5), sudo (1), cat (1)
 > **Env Vars:** sql (3), http (1), url (1), waf (1)
 > **Definitions:** is an  (2)
@@ -2149,7 +2151,7 @@ created: 2026-04-29
 
 ### 5. Practicing Your Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practicing with online banking websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980)
@@ -2204,7 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Banking]] (5), web (3), web application (2), application (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -2261,7 +2263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Google]] (1), application (1)
 > **Code Identifiers:** is_author (1), is_admin (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2354,7 +2356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), case, (1)
+> **Frameworks & Libraries:** web (6), [[Security]] (5), web application (4), database (3), [[OWASP]] (2)
 > **Env Vars:** dvwa (4), phpids (1)
 > **CLI Commands:** find (1), ls (1), make (1), cat (1)
 > **Versions:** 198.11.132 (2)
@@ -2366,7 +2368,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980)
@@ -2399,8 +2401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), web (2), [[Ethical Hacking]] (2), [[Kali Linux]] (2), cloud (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm (1)
 

@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/change-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leading%20with%20Generative%20AI-%20Master%20Change%20Management%20for%20Success.md)
@@ -56,25 +56,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Leading with Generative AI: Master Change Management for Success**](#1-leading-with-generative-ai-master-change-management-for-success) (15 videos)
-  - Introduction to generative AI and change management: Leading the future
-  - Comparing generative AI to past innovations: Insights for effective change management
-  - The impact of generative AI on the job market and change management strategies
-  - Preparing for generative AI: Essential change management techniques
-  - Introduction to the FASTER framework: Generative AI and change management
-  - Building a foundation for generative AI with the FASTER change management framework
-  - Aligning your team with generative AI: A change management approach
-  - Bridging the gap: Integrating generative AI into change management processes
-  - Safeguarding change management with generative AI and the FASTER framework
-  - Training for change: Leveraging generative AI in the FASTER management framework
-  - Evolving change management practices with generative AI and the FASTER framework
-  - Replicating success: Generative AI in the FASTER change management framework
-  - Establishing urgency for generative AI in change management
-  - Preparing employees for change with generative AI and effective change management
-  - Closing insights: Generative AI and change management for future leaders
+  - [Introduction to generative AI and change management: Leading the future](#introduction-to-generative-ai-and-change-management-leading-the-future)
+  - [Comparing generative AI to past innovations: Insights for effective change management](#comparing-generative-ai-to-past-innovations-insights-for-effective-change-management)
+  - [The impact of generative AI on the job market and change management strategies](#the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies)
+  - [Preparing for generative AI: Essential change management techniques](#preparing-for-generative-ai-essential-change-management-techniques)
+  - [Introduction to the FASTER framework: Generative AI and change management](#introduction-to-the-faster-framework-generative-ai-and-change-management)
+  - [Building a foundation for generative AI with the FASTER change management framework](#building-a-foundation-for-generative-ai-with-the-faster-change-management-framework)
+  - [Aligning your team with generative AI: A change management approach](#aligning-your-team-with-generative-ai-a-change-management-approach)
+  - [Bridging the gap: Integrating generative AI into change management processes](#bridging-the-gap-integrating-generative-ai-into-change-management-processes)
+  - [Safeguarding change management with generative AI and the FASTER framework](#safeguarding-change-management-with-generative-ai-and-the-faster-framework)
+  - [Training for change: Leveraging generative AI in the FASTER management framework](#training-for-change-leveraging-generative-ai-in-the-faster-management-framework)
+  - [Evolving change management practices with generative AI and the FASTER framework](#evolving-change-management-practices-with-generative-ai-and-the-faster-framework)
+  - [Replicating success: Generative AI in the FASTER change management framework](#replicating-success-generative-ai-in-the-faster-change-management-framework)
+  - [Establishing urgency for generative AI in change management](#establishing-urgency-for-generative-ai-in-change-management)
+  - [Preparing employees for change with generative AI and effective change management](#preparing-employees-for-change-with-generative-ai-and-effective-change-management)
+  - [Closing insights: Generative AI and change management for future leaders](#closing-insights-generative-ai-and-change-management-for-future-leaders)
 
 ### 1. Leading with Generative AI: Master Change Management for Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to generative AI and change management: Leading the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980)
@@ -125,6 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), teams (2), career (1)
 > **Speakers:** - welcome (1), - i (1), - yes (1), - yeah (1), - right (1)
 > **Env Vars:** ceo (1)
 
@@ -199,7 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), case. (1), let (1)
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), business (2), [[Ethics]] (1), [[Engineering]] (1)
 > **Speakers:** - jules (1), - well (1), - right (1)
 > **Env Vars:** usa (1)
 
@@ -266,6 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), data (2), cloud (1), [[Hardware]] (1), [[Generative AI]] (1)
 > **Speakers:** - there (1), - yes (1), - you (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)
@@ -358,8 +360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), ai (2), game (2), [[React.js|React]] (1), data (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** private (4)
 > **Speakers:** - one (1), - yes (1), - you (1), - it (1)
 > **Env Vars:** ceo (2), cio (1)
 > **Analogies:** imagine (1), just like (1), think of it as (1)
@@ -416,8 +418,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4), functional (3), power (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - now (1)
 
@@ -470,8 +472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (6), [[Generative AI]] (3)
 > **Env Vars:** cto (1), cio (1), ceo (1)
-> **Code Keywords:** extends (1), let (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - now (1)
@@ -553,10 +555,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), functional (5), [[Microsoft Office|Office]] (3), ai (2), hr (2)
 > **Speakers:** - now (1), - you (1), - right (1), - yeah (1), - that (1)
 > **Env Vars:** ceo (2), faster (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), for. (1)
 > **Analogies:** imagine (1)
 
 #### Bridging the gap: Integrating generative AI into change management processes
@@ -608,10 +610,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (2), leadership (1), [[Generative AI]] (1), next (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ceo (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - now (1)
 
 #### Safeguarding change management with generative AI and the FASTER framework
@@ -675,8 +677,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), data (2), [[ChatGPT]] (2), [[Ethical Leadership]] (2), ai (1)
 > **Speakers:** - now (1), - absolutely (1), - that (1)
-> **Code Keywords:** private (1), public (1)
 > **Env Vars:** faster (1)
 > **Analogies:** kind of like (1)
 
@@ -739,7 +741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), module (1), let (1), this, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Representational State Transfer (REST)|Rest]] (2), leadership (1), functional (1), management (1)
 > **Speakers:** - training (1), - absolutely (1), - so (1)
 > **Definitions:** is a  (2)
 
@@ -838,7 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), this. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), next (4), business (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - now (1), - there (1), - if (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gui (1)
@@ -908,6 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), data (3), functional (1), [[Microsoft Office|Office]] (1), teams (1)
 > **Speakers:** - now (1), - absolutely (1), - right (1)
 > **Env Vars:** roi (2)
 > **CLI Commands:** make (1)
@@ -1091,8 +1094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (10), teams (2), [[Computer Vision]] (2), data (2), functional (2)
 > **CLI Commands:** make (6)
-> **Code Keywords:** private (3), extends (2)
 > **Speakers:** - jules (1), - absolutely (1), - right (1), - you (1), - great (1)
 > **Analogies:** for example (2), kind of like (1), just like (1)
 > **Env Vars:** ceo (1), gpt (1)
@@ -1197,9 +1200,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), business (2), data (1), [[Engineering]] (1), management (1)
 > **Speakers:** - we (1), - right (1), - so (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 
 #### Closing insights: Generative AI and change management for future leaders
@@ -1221,6 +1224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - thank (1), - i (1)
 

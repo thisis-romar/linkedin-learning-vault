@@ -32,7 +32,7 @@ tags:
   - skill/test-driven-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Test-Driven%20Development.md)
@@ -51,37 +51,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Testing web applications and APIs
-  - What you should know
+  - [Testing web applications and APIs](#testing-web-applications-and-apis)
+  - [What you should know](#what-you-should-know)
 - [**1. TDD Theory**](#1-tdd-theory) (4 videos)
-  - About testing
-  - What is TDD?
-  - Advantages and disadvantages of TDD
-  - Software and tooling
+  - [About testing](#about-testing)
+  - [What is TDD?](#what-is-tdd)
+  - [Advantages and disadvantages of TDD](#advantages-and-disadvantages-of-tdd)
+  - [Software and tooling](#software-and-tooling)
 - [**2. Getting Started with TDD**](#2-getting-started-with-tdd) (7 videos)
-  - Demo project introduction
-  - Creating a test
-  - Fixing the code
-  - Adding another test
-  - Satisfying the next test
-  - Challenge: Making the test pass
-  - Solution: Making the test pass
+  - [Demo project introduction](#demo-project-introduction)
+  - [Creating a test](#creating-a-test)
+  - [Fixing the code](#fixing-the-code)
+  - [Adding another test](#adding-another-test)
+  - [Satisfying the next test](#satisfying-the-next-test)
+  - [Challenge: Making the test pass](#challenge-making-the-test-pass)
+  - [Solution: Making the test pass](#solution-making-the-test-pass)
 - [**3. Advanced TDD Techniques**](#3-advanced-tdd-techniques) (9 videos)
-  - Introduction to mocking
-  - Adding an interface
-  - Using a test with a mock
-  - Testing without a database: Preparations
-  - Demo: Testing without a database
-  - Testing ASP.NET Core applications: Preparations
-  - Demo: Testing ASP.NET Core applications
-  - Challenge: Testing an API
-  - Solution: Testing an API
+  - [Introduction to mocking](#introduction-to-mocking)
+  - [Adding an interface](#adding-an-interface)
+  - [Using a test with a mock](#using-a-test-with-a-mock)
+  - [Testing without a database: Preparations](#testing-without-a-database-preparations)
+  - [Demo: Testing without a database](#demo-testing-without-a-database)
+  - [Testing ASP.NET Core applications: Preparations](#testing-aspnet-core-applications-preparations)
+  - [Demo: Testing ASP.NET Core applications](#demo-testing-aspnet-core-applications)
+  - [Challenge: Testing an API](#challenge-testing-an-api)
+  - [Solution: Testing an API](#solution-testing-an-api)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with C#
+  - [Next steps with C#](#next-steps-with-c)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing web applications and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980)
@@ -118,8 +118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), web (1), database (1)
 > **Env Vars:** tdd (4), net (3)
-> **Code Keywords:** let (1)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -191,6 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), database (1), [[ASP.NET Core]] (1), api (1), [[Software Development]] (1)
 > **Env Vars:** net (8), ide (3), asp (1), api (1), mvc (1)
 > **Tools:** visual studio (8)
 > **URLs:** [asp.net](https://asp.net) (1), [api.net](https://api.net) (1)
@@ -201,7 +202,7 @@ created: 2026-04-29
 
 ### 1. TDD Theory
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/about-testing?u=76281980)
@@ -288,7 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), assert (2), let (1), super (1)
+> **Frameworks & Libraries:** database (2), application (1)
 > **Definitions:** is a  (3), is called (1)
 > **Cross-References:** later in (2)
 > **Analogies:** for instance (2)
@@ -346,8 +347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Test-Driven Development]] (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), assert (1)
 > **Definitions:** basically means (1), is an  (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** required to (1)
@@ -432,9 +433,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), [[Test-Driven Development]] (1), [[Databases]] (1), api (1), management (1)
 > **Env Vars:** tdd (6), ide (1), api (1)
 > **Analogies:** for instance (2), it's like (1)
-> **Code Keywords:** super (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
@@ -499,8 +500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Microsoft]] (3), [[Unit Testing]] (2), [[Java]] (1), feature (1)
 > **Env Vars:** net (3), tdd (2), ide (1), api (1)
-> **Code Keywords:** new, (1), let (1)
 > **Analogies:** for instance (2)
 > **Code Identifiers:** xunit (1)
 > **Cross-References:** later in (1)
@@ -510,7 +511,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with TDD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demo project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980)
@@ -541,7 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1), application (1)
 > **Env Vars:** tdd (1)
 > **Speakers:** - [instructor] (1)
 
@@ -710,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (3), class, (2), let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** hit (2), data (2), [[Search]] (1), api (1), web application (1)
 > **Prerequisites:** set up (4), setup (3)
 > **Env Vars:** tdd (3), api (1), var (1)
 > **UI Navigation:** click on (2), go to (2)
@@ -764,7 +765,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
@@ -806,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), assert (2), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -857,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), let (1), super (1)
+> **Frameworks & Libraries:** application (1), generic (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** tdd (1)
 > **Cross-References:** go back to (1)
@@ -898,7 +898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (2), this, (1)
+> **Frameworks & Libraries:** game (1), next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -969,7 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), assert (1)
+> **Frameworks & Libraries:** application (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is an  (2)
@@ -980,7 +980,7 @@ created: 2026-04-29
 
 ### 3. Advanced TDD Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to mocking
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/introduction-to-mocking?u=76281980)
@@ -1039,7 +1039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this, (1), type, (1)
+> **Frameworks & Libraries:** database (4), next (1), application (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1114,7 +1114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), interface (4), let (2)
+> **Frameworks & Libraries:** database (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** shoppingcart (1)
@@ -1196,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), public (2), let (2), for . (1), assert (1)
+> **Frameworks & Libraries:** hit (1), next (1), database (1)
 > **Code Identifiers:** mockmanager (4)
 > **Prerequisites:** configure (2), install (1), setup (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1266,7 +1266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1)
+> **Frameworks & Libraries:** database (9), application (2), data (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1369,7 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), case, (1), var (1), assert (1)
+> **Frameworks & Libraries:** feature (2), database (1)
 > **Code Identifiers:** initialitems (5), mockcontext (2), mockmanager (1)
 > **Prerequisites:** setup (2), install (1)
 > **UI Navigation:** go to (2)
@@ -1424,7 +1424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (2), static (2), class, (1)
+> **Frameworks & Libraries:** web (2), [[Search]] (2), [[ASP.NET Core]] (1), application (1), database (1)
 > **Env Vars:** mvc (1), http (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -1519,8 +1519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Search]] (3), web (1), data (1), [[ASP.NET Core]] (1)
 > **Env Vars:** mvc (4), asp (1), net (1)
-> **Code Keywords:** class. (1), assert (1), let (1), switch (1)
 > **Code Identifiers:** viewresult (2)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Cross-References:** go back to (1)
@@ -1577,8 +1577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), web (1), application (1)
 > **Env Vars:** api (7), http (3)
-> **Code Keywords:** static (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -1692,8 +1692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), web (1), [[JSON]] (1), [[Search]] (1)
 > **Env Vars:** api (8), http (2), json (1)
-> **Code Keywords:** let (4), case, (1), continue (1), for. (1), case. (1)
 > **UI Navigation:** go to (3)
 > **Cross-References:** go back to (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1704,7 +1704,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980)
@@ -1733,6 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), application (2), [[LinkedIn]] (1)
 > **Env Vars:** tdd (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [christian] (1)

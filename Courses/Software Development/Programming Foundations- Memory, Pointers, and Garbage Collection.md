@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Memory%2C%20Pointers%2C%20and%20Garbage%20Collection.md)
@@ -40,36 +40,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with memory management
-  - Are you ready to learn memory management?
+  - [Getting started with memory management](#getting-started-with-memory-management)
+  - [Are you ready to learn memory management?](#are-you-ready-to-learn-memory-management)
 - [**1. Memory Management Concepts**](#1-memory-management-concepts) (9 videos)
-  - What is memory?
-  - Why do we need to manage the memory?
-  - Stack memory
-  - Heap memory
-  - Heap vs. stack memory
-  - Allocating memory
-  - Deallocating memory
-  - Garbage collection
-  - Actual removing or sweeping
+  - [What is memory?](#what-is-memory)
+  - [Why do we need to manage the memory?](#why-do-we-need-to-manage-the-memory)
+  - [Stack memory](#stack-memory)
+  - [Heap memory](#heap-memory)
+  - [Heap vs. stack memory](#heap-vs-stack-memory)
+  - [Allocating memory](#allocating-memory)
+  - [Deallocating memory](#deallocating-memory)
+  - [Garbage collection](#garbage-collection)
+  - [Actual removing or sweeping](#actual-removing-or-sweeping)
 - [**2. Memory Management in Code**](#2-memory-management-in-code) (5 videos)
-  - The C way: Allocating memory
-  - The C way: Deallocating and reallocating memory
-  - The automagic way in modern languages
-  - Memory management in Python
-  - Memory in Python visualized
+  - [The C way: Allocating memory](#the-c-way-allocating-memory)
+  - [The C way: Deallocating and reallocating memory](#the-c-way-deallocating-and-reallocating-memory)
+  - [The automagic way in modern languages](#the-automagic-way-in-modern-languages)
+  - [Memory management in Python](#memory-management-in-python)
+  - [Memory in Python visualized](#memory-in-python-visualized)
 - [**3. Memory Leaks and Best Practices**](#3-memory-leaks-and-best-practices) (4 videos)
-  - What are memory leaks?
-  - Out of Memory error
-  - Avoiding memory leaks
-  - Best practices with memory
+  - [What are memory leaks?](#what-are-memory-leaks)
+  - [Out of Memory error](#out-of-memory-error)
+  - [Avoiding memory leaks](#avoiding-memory-leaks)
+  - [Best practices with memory](#best-practices-with-memory)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in memory management
+  - [Next steps in memory management](#next-steps-in-memory-management)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980)
@@ -132,7 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Memory Management]] (3), [[Programming]] (1), next (1), application (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [maaike] (1)
 
@@ -155,8 +155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Memory Management]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Memory Management Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is memory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980)
@@ -257,8 +257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Zoom]] (2), next (1), [[Programming]] (1)
 > **Env Vars:** ram (15), rom (4), cpu (2)
-> **Code Keywords:** let (3), case. (1), for, (1), switch (1), this. (1)
 > **Analogies:** for example (4), such as (3), just like (1)
 > **Definitions:** is an  (1), stands for (1)
 > **UI Navigation:** switch to (1)
@@ -341,8 +341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Memory Management]] (8), application (2), [[Hardware]] (1), management (1), [[Programming]] (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** static (2), let (1)
 > **Env Vars:** cpu (1), ram (1)
 > **Exercise Files:** boilerplate (2)
 > **Definitions:** means that (1), is called (1)
@@ -441,7 +441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** [[Java]] (1), data (1), [[Troubleshooting]] (1), [[Google]] (1), next (1)
 > **Env Vars:** lifo (1), ram (1)
 > **Documentation:** stack overflow (2)
 > **Definitions:** is a  (2)
@@ -523,7 +523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), case, (3), from. (1), let (1)
+> **Frameworks & Libraries:** application (1), next (1)
 > **Env Vars:** ram (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -680,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (6), continue (1), case, (1)
+> **Frameworks & Libraries:** application (6), business (2), next (1), [[Search]] (1), api (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** ram (1), api (1)
@@ -729,8 +729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Memory Management]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** static (2)
 > **Definitions:** is called (1), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -786,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4)
+> **Frameworks & Libraries:** application (1), next (1)
 > **Definitions:** is called (1), means that (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -952,7 +952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), require (2), case, (2)
+> **Frameworks & Libraries:** application (5), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **Env Vars:** ccr (1)
@@ -1029,7 +1029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), this. (1)
+> **Frameworks & Libraries:** application (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
@@ -1038,7 +1038,7 @@ created: 2026-04-29
 
 ### 2. Memory Management in Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The C way: Allocating memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980)
@@ -1191,7 +1191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), static (3), function (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Memory Management]] (5), [[Python (Programming Language)|Python]] (2), data (2), next (2), [[Java]] (1)
 > **Definitions:** is a  (3), means that (2), is called (2), stands for (1)
 > **CLI Commands:** python (2), make (2), find (1)
 > **Analogies:** for example (1), just like (1), imagine (1)
@@ -1345,7 +1345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), case, (2), function (2), type, (1)
+> **Frameworks & Libraries:** data (1), [[Memory Management]] (1), next (1)
 > **Env Vars:** null (3)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (1)
@@ -1399,8 +1399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Memory Management]] (8), [[Python (Programming Language)|Python]] (2), application (1), management (1), [[Java]] (1)
 > **CLI Commands:** python (2), ruby (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
@@ -1551,9 +1551,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Memory Management]] (3), data (1), business (1), [[Simulation]] (1)
 > **CLI Commands:** python (20), find (2)
 > **Definitions:** is a  (6), means that (3), is an  (1)
-> **Code Keywords:** let (2), private (2), this. (2)
 > **Env Vars:** ram (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1622,8 +1622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Memory Management]] (2), data (1), next (1)
 > **CLI Commands:** python (5), make (1)
-> **Code Keywords:** let (4)
 > **Warnings:** note that (2), be aware (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1631,7 +1631,7 @@ created: 2026-04-29
 
 ### 3. Memory Leaks and Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are memory leaks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980)
@@ -1698,7 +1698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (1)
+> **Frameworks & Libraries:** application (5), [[Memory Management]] (4), cloud (3), database (1), next (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** ram (1)
 > **Cross-References:** in the next (1)
@@ -1788,7 +1788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this, (1), continue (1)
+> **Frameworks & Libraries:** application (8), cloud (2), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** null (2)
 > **Analogies:** for example (2)
@@ -1902,8 +1902,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (8), [[TensorFlow]] (1), [[Java]] (1), [[Memory Management]] (1)
 > **CLI Commands:** python (12), make (2)
-> **Code Keywords:** let (5), case, (1), continue (1), super (1), this. (1)
 > **Env Vars:** ram (2)
 > **Code Identifiers:** some_list (1)
 > **Versions:** python 3 (1)
@@ -2228,7 +2228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (5), this. (5), class, (2), this, (2)
+> **Frameworks & Libraries:** [[Memory Management]] (3), [[Python (Programming Language)|Python]] (3), [[Security]] (2), next (2), application (1)
 > **CLI Commands:** pip (4), python (3), make (1), python3 (1), find (1)
 > **Prerequisites:** install (6), you'll need (1)
 > **Definitions:** is a  (3), means that (1), we call this (1)
@@ -2240,12 +2240,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980)
@@ -2286,9 +2286,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Design Patterns]] (2), [[JavaScript]] (2), [[LinkedIn]] (2), [[Memory Management]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 

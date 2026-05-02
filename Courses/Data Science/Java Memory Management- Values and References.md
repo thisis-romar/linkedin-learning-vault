@@ -32,7 +32,7 @@ tags:
   - skill/memory-management
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Memory%20Management-%20Values%20and%20References.md)
@@ -51,41 +51,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Make beautiful stack overflow errors
-  - What you should know
-  - Explore the code challenge environment
+  - [Make beautiful stack overflow errors](#make-beautiful-stack-overflow-errors)
+  - [What you should know](#what-you-should-know)
+  - [Explore the code challenge environment](#explore-the-code-challenge-environment)
 - [**1. Java Memory Explained**](#1-java-memory-explained) (6 videos)
-  - What is Java memory?
-  - The importance of understanding Java memory
-  - JVM and memory management
-  - Stack memory
-  - Heap memory
-  - Heap vs. stack
+  - [What is Java memory?](#what-is-java-memory)
+  - [The importance of understanding Java memory](#the-importance-of-understanding-java-memory)
+  - [JVM and memory management](#jvm-and-memory-management)
+  - [Stack memory](#stack-memory)
+  - [Heap memory](#heap-memory)
+  - [Heap vs. stack](#heap-vs-stack)
 - [**2. Values vs. References**](#2-values-vs-references) (6 videos)
-  - Primitives
-  - Objects
-  - Final classes and immutable objects
-  - Strings in memory
-  - Primitives and objects in memory
-  - Solution: Making an object immutable
+  - [Primitives](#primitives)
+  - [Objects](#objects)
+  - [Final classes and immutable objects](#final-classes-and-immutable-objects)
+  - [Strings in memory](#strings-in-memory)
+  - [Primitives and objects in memory](#primitives-and-objects-in-memory)
+  - [Solution: Making an object immutable](#solution-making-an-object-immutable)
 - [**3. Careful: Escaping References**](#3-careful-escaping-references) (6 videos)
-  - The problem of escaping references
-  - Collections and escaping references
-  - Avoiding escaping collection references
-  - Example custom objects: References on the loose
-  - Avoiding escaping references
-  - Solution: Fixing an escaping reference
+  - [The problem of escaping references](#the-problem-of-escaping-references)
+  - [Collections and escaping references](#collections-and-escaping-references)
+  - [Avoiding escaping collection references](#avoiding-escaping-collection-references)
+  - [Example custom objects: References on the loose](#example-custom-objects-references-on-the-loose)
+  - [Avoiding escaping references](#avoiding-escaping-references)
+  - [Solution: Fixing an escaping reference](#solution-fixing-an-escaping-reference)
 - [**4. Quick Peek at Next Steps**](#4-quick-peek-at-next-steps) (4 videos)
-  - Garbage collection
-  - JVM tuning
-  - Spotting and avoiding memory leaks
-  - Solution: Fix the memory leak
+  - [Garbage collection](#garbage-collection)
+  - [JVM tuning](#jvm-tuning)
+  - [Spotting and avoiding memory leaks](#spotting-and-avoiding-memory-leaks)
+  - [Solution: Fix the memory leak](#solution-fix-the-memory-leak)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with Java memory management
+  - [Next steps with Java memory management](#next-steps-with-java-memory-management)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make beautiful stack overflow errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[Java]] (4), application (1), [[Memory Management]] (1), [[LinkedIn]] (1)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - [maaike] (1)
 
@@ -135,7 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Java]] (7), [[Memory Management]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** java 11 (1)
 > **Speakers:** - [instructor] (1)
@@ -146,7 +146,7 @@ created: 2026-04-29
 
 ### 1. Java Memory Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Java memory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980)
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (9), application (3), data (2), [[Microsoft Word|Word]] (2), [[Metadata]] (1)
 > **Env Vars:** ram (7), jvm (1)
-> **Code Keywords:** this. (1), let (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -249,7 +249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), pass (2), class. (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (8), data (2), [[Memory Management]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** jvm (1)
@@ -310,9 +310,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (12), application (2), management (1), [[Memory Management]] (1)
 > **Env Vars:** jvm (12), ram (1)
 > **Definitions:** stands for (1), is called (1), is a  (1)
-> **Code Keywords:** let (2)
 > **Analogies:** compare this to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -369,7 +369,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -434,8 +433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3)
 > **Definitions:** is a  (2), we call this (1), means that (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Heap vs. stack
@@ -575,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (2), class, (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Metadata]] (1), application (1), next (1)
 > **Analogies:** for example (1), such as (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** setcity (1), setaddress (1)
@@ -587,7 +586,7 @@ created: 2026-04-29
 
 ### 2. Values vs. References
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Primitives
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980)
@@ -678,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), class, (1), pass (1)
+> **Frameworks & Libraries:** [[Java]] (1), next (1), data (1)
 > **Warnings:** be careful (1), keep in mind (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** short for (1)
@@ -792,7 +791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (3), override (2), pass (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Security]] (1), next (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Code Identifiers:** setyearofbirth (3)
 > **Analogies:** such as (2), for example (1)
@@ -862,7 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), else, (2), this, (2), let (2), private (1)
+> **Frameworks & Libraries:** next (2), [[Security]] (1), [[Java]] (1)
 > **Definitions:** means that (2), is an  (2)
 > **Cross-References:** in the next (1), as we saw (1), next video (1)
 > **Analogies:** for example (1), just like (1), such as (1)
@@ -949,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), this. (1)
+> **Frameworks & Libraries:** [[Java]] (7), [[Memory Management]] (1)
 > **Code Identifiers:** getname (1), setname (1)
 > **Definitions:** is called (1), means that (1)
 > **CLI Commands:** cat (1)
@@ -1021,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), class. (1), class, (1)
+> **Frameworks & Libraries:** next (4), [[Java]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** lovesjava (2)
 > **Analogies:** for example (1), picture (1)
@@ -1035,7 +1034,7 @@ created: 2026-04-29
 
 ### 3. Careful: Escaping References
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The problem of escaping references
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980)
@@ -1098,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (2), for. (1), this. (1)
+> **Frameworks & Libraries:** application (1), [[Security]] (1), [[Java]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** intellij (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** we call this (1)
@@ -1399,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (8), this, (4), case, (2), else, (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (23), product (17), generic (3), [[Java]] (3), [[JavaScript]] (2)
 > **CLI Commands:** make (10)
 > **Code Identifiers:** createorder (3), processproducts (3), getproducts (2), setname (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1607,7 +1606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (9), override (3), this, (2), class. (2)
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (8), [[JavaScript]] (3), [[Java]] (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** copyof (1)
 > **Tools:** intellij (1)
@@ -1672,7 +1671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (1), case, (1), class, (1), this. (1)
+> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** in the next (1)
 > **Tools:** intellij (1)
@@ -1751,7 +1750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (3), function (2), override (2), this, (2), class. (1)
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1762,7 +1761,7 @@ created: 2026-04-29
 
 ### 4. Quick Peek at Next Steps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Garbage collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/garbage-collection?u=76281980)
@@ -1876,7 +1875,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** jvm (4)
-> **Code Keywords:** let (2), this. (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -1923,8 +1921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Java]] (2), [[Memory Management]] (1), [[Hardware]] (1), [[Programming]] (1)
 > **Env Vars:** jvm (10), jvn (1)
-> **Code Keywords:** static (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2032,7 +2030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), this, (3), let (2), super (1)
+> **Frameworks & Libraries:** application (13), [[Java]] (2), management (1), database (1), [[Memory Management]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** gpm (1), cpu (1)
@@ -2046,7 +2044,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Java memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980)
@@ -2077,7 +2075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Java]] (5), [[Memory Management]] (2), next (1), parallel (1), [[Concurrent Programming]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** jvm (1)
 > **Versions:** java 1 (1)

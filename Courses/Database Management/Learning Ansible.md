@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ansible
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20Ansible.md)
@@ -45,38 +45,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Starting your Ansible journey
+  - [Starting your Ansible journey](#starting-your-ansible-journey)
 - [**1. What Is Ansible?**](#1-what-is-ansible) (3 videos)
-  - An introduction to Ansible
-  - Life before Ansible
-  - Ansible and Red Hat
+  - [An introduction to Ansible](#an-introduction-to-ansible)
+  - [Life before Ansible](#life-before-ansible)
+  - [Ansible and Red Hat](#ansible-and-red-hat)
 - [**2. Why Choose Ansible?**](#2-why-choose-ansible) (2 videos)
-  - Ansible ease of use
-  - Advantages to using Ansible
+  - [Ansible ease of use](#ansible-ease-of-use)
+  - [Advantages to using Ansible](#advantages-to-using-ansible)
 - [**3. Getting Started with Ansible**](#3-getting-started-with-ansible) (4 videos)
-  - The parts that make up Ansible
-  - Installing Ansible
-  - Challenge: Install Ansible
-  - Solution: Install Ansible
+  - [The parts that make up Ansible](#the-parts-that-make-up-ansible)
+  - [Installing Ansible](#installing-ansible)
+  - [Challenge: Install Ansible](#challenge-install-ansible)
+  - [Solution: Install Ansible](#solution-install-ansible)
 - [**4. Working with Ansible**](#4-working-with-ansible) (5 videos)
-  - Working with hosts and variables in Ansible
-  - Working with code in Ansible
-  - Working with playbooks in Ansible
-  - Challenge: Write a playbook with Ansible
-  - Solution: Write a playbook with Ansible
+  - [Working with hosts and variables in Ansible](#working-with-hosts-and-variables-in-ansible)
+  - [Working with code in Ansible](#working-with-code-in-ansible)
+  - [Working with playbooks in Ansible](#working-with-playbooks-in-ansible)
+  - [Challenge: Write a playbook with Ansible](#challenge-write-a-playbook-with-ansible)
+  - [Solution: Write a playbook with Ansible](#solution-write-a-playbook-with-ansible)
 - [**5. What Can Ansible Do for You?**](#5-what-can-ansible-do-for-you) (6 videos)
-  - Ansible and remote management
-  - Ansible for orchestration
-  - Ansible for system configuration management
-  - React to configuration changes with Ansible
-  - Infrastructure management with Ansible
-  - Repeating tasks across fleets with Ansible
+  - [Ansible and remote management](#ansible-and-remote-management)
+  - [Ansible for orchestration](#ansible-for-orchestration)
+  - [Ansible for system configuration management](#ansible-for-system-configuration-management)
+  - [React to configuration changes with Ansible](#react-to-configuration-changes-with-ansible)
+  - [Infrastructure management with Ansible](#infrastructure-management-with-ansible)
+  - [Repeating tasks across fleets with Ansible](#repeating-tasks-across-fleets-with-ansible)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with Ansible
+  - [Continuing on with Ansible](#continuing-on-with-ansible)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting your Ansible journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980)
@@ -103,8 +103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (4), management (1), cloud (1), [[LinkedIn]] (1)
 > **CLI Commands:** ansible (4), make (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** ccie (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [anthony] (1)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 ### 1. What Is Ansible?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980)
@@ -211,9 +211,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (30), node (4), [[Linux]] (2), product (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (30), node (4), ssh (3), find (1), make (1)
 > **Env Vars:** ssh (3), yaml (2), awx (1), tcp (1)
-> **Code Keywords:** interface (2), module (2), finally, (1), let (1)
 > **Prerequisites:** set up (2), install (1)
 > **Definitions:** is a  (1), is called (1)
 > **Tools:** command line (1)
@@ -269,9 +269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), teams (2), management (2), database (2), web (2)
 > **CLI Commands:** ansible (6), make (3), apache (1)
 > **Env Vars:** yaml (5), yml (1)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** set up (2)
 > **Warnings:** note that (1)
@@ -312,8 +312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (24), management (3), [[GitHub]] (3), product (3), [[Search]] (3)
 > **CLI Commands:** ansible (24)
-> **Code Keywords:** let (1), function (1), interface (1)
 > **Tools:** github (3)
 > **URLs:** [redhat.com](https://redhat.com) (2)
 > **Definitions:** is a  (2)
@@ -324,7 +324,7 @@ created: 2026-04-29
 
 ### 2. Why Choose Ansible?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ansible ease of use
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980)
@@ -391,8 +391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (14), product (4), web (2), node (1), aws (1)
 > **CLI Commands:** ansible (14), node (1), aws (1)
-> **Code Keywords:** module (2), continue (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** aws (1)
 > **Analogies:** for example (1)
@@ -459,8 +459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (17), [[Python (Programming Language)|Python]] (5), management (2), [[GitHub]] (1), product (1)
 > **CLI Commands:** ansible (17), python (5)
-> **Code Keywords:** module (4), let (1), extends (1)
 > **Env Vars:** gns3 (4), yaml (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Prerequisites:** install (3)
@@ -471,7 +471,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Ansible
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The parts that make up Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980)
@@ -604,8 +604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (18), next (2), [[Ubuntu]] (2), node (1), management (1)
 > **CLI Commands:** ansible (18), make (3), apache (3), node (1), yum (1)
-> **Code Keywords:** module (5), let (3), function (2), default. (1), this, (1)
 > **Env Vars:** yaml (5), cfg (3)
 > **Definitions:** is a  (6), is an  (1)
 > **Tools:** vim (3)
@@ -672,10 +672,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (16), [[Python (Programming Language)|Python]] (12), [[Package Management]] (1)
 > **CLI Commands:** ansible (16), python (12), pip3 (3), brew (2), sudo (2)
 > **Versions:** python 3 (6), 2.7.16 (1), 2.9.9 (1), 3.7.7 (1)
 > **Prerequisites:** install (5), set up (1)
-> **Code Keywords:** let (1), from, (1), default, (1), case, (1), this, (1)
 > **Documentation:** the documentation (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -716,8 +716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (9), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (9), make (1), python (1)
-> **Code Keywords:** let (2)
 > **Versions:** python 3 (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -823,8 +823,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (20), [[Python (Programming Language)|Python]] (12), [[Ubuntu]] (4), [[Package Management]] (2), [[Linux]] (1)
 > **CLI Commands:** ansible (20), python (12), sudo (5), apt (4), python3 (1)
-> **Code Keywords:** this, (2), this. (2), let (1), module (1)
 > **Prerequisites:** install (6)
 > **Versions:** 2.9.9 (2), 2.7 (1), 2.7.17 (1), 3.6.9 (1)
 > **Documentation:** the documentation (2)
@@ -835,7 +835,7 @@ created: 2026-04-29
 
 ### 4. Working with Ansible
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with hosts and variables in Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980)
@@ -892,9 +892,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (9), [[Microsoft Word|Word]] (1), [[Ubuntu]] (1), node (1)
 > **CLI Commands:** ansible (9), ssh (3), make (1), node (1)
 > **URLs:** [example.com](https://example.com) (4)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** ssh (3)
 > **Versions:** 10.10.100 (1)
 > **Definitions:** is an  (1)
@@ -1019,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (12), let (4), this, (2), type, (1), this. (1)
+> **Frameworks & Libraries:** [[Ansible]] (5), [[Search]] (1), hit (1), [[JSON]] (1), data (1)
 > **CLI Commands:** ansible (5), find (5)
 > **Documentation:** the documentation (6)
 > **UI Navigation:** go to (2), scroll up (1)
@@ -1121,8 +1121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), power (1), next (1)
 > **CLI Commands:** ansible (7), make (4)
-> **Code Keywords:** module (7), let (2), this, (1)
 > **Tools:** atom (2), command line (1), terminal (1)
 > **File Paths:** first.yml (3)
 > **Prerequisites:** install (3)
@@ -1157,6 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (4), product (1), node (1)
 > **CLI Commands:** ansible (4), node (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - well (1)
@@ -1204,9 +1205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (4)
 > **CLI Commands:** ansible (4), find (2), make (1)
 > **File Paths:** challenge.yml (3), testone.txt (1), testtwo.txt (1)
-> **Code Keywords:** let (2), module (2)
 > **Code Identifiers:** file_type (1), stdout_callback (1), bin_ansible_callbacks (1)
 > **Tools:** terminal (1), vim (1)
 > **UI Navigation:** go to (1)
@@ -1216,7 +1217,7 @@ created: 2026-04-29
 
 ### 5. What Can Ansible Do for You?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ansible and remote management
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980)
@@ -1271,8 +1272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (3), management (1), node (1), [[Linux]] (1), [[Security]] (1)
 > **CLI Commands:** ssh (7), ansible (3), make (1), node (1)
-> **Code Keywords:** let (6), public (2), this: (1), case. (1)
 > **Env Vars:** ssh (5)
 > **Code Identifiers:** id_rsa (1)
 > **Prerequisites:** configure (1)
@@ -1351,8 +1352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Orchestration]] (7), [[Ansible]] (5), next (3), [[Automation]] (2), management (1)
 > **CLI Commands:** ansible (5), make (2), find (1)
-> **Code Keywords:** let (3), module (1), this. (1), case. (1)
 > **Env Vars:** vim (1)
 > **Tools:** vim (1)
 > **UI Navigation:** scroll up (1)
@@ -1417,9 +1418,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), [[Configuration Management]] (2), product (1), node (1), next (1)
 > **Env Vars:** ntp (10), apt (1)
 > **CLI Commands:** ansible (7), node (1), make (1), apt (1)
-> **Code Keywords:** let (8), this, (2)
 > **File Paths:** ntp.yml (2)
 > **Definitions:** refers to (1)
 > **Prerequisites:** install (1)
@@ -1482,8 +1483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (5), [[React.js|React]] (2), web (2), feature (1)
 > **CLI Commands:** nginx (7), ansible (5), make (3)
-> **Code Keywords:** let (4), case. (2), case, (2), try. (1)
 > **Prerequisites:** configure (2), install (1)
 > **File Paths:** change.yml (1)
 > **Code Identifiers:** changed_when (1)
@@ -1513,8 +1514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), cloud (5), [[Virtualization]] (2), management (1), [[Hardware]] (1)
 > **CLI Commands:** ansible (7), make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Repeating tasks across fleets with Ansible
@@ -1596,8 +1597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (10), next (1)
 > **CLI Commands:** ansible (10), make (1)
-> **Code Keywords:** this. (2), module (2), let (2), case, (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Prerequisites:** configure (1), set up (1)
 > **File Paths:** ansible.cfg (1)
@@ -1608,7 +1609,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980)
@@ -1631,6 +1632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (4), [[Linux]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** ansible (4)
 > **Speakers:** - [anthony (1)
 

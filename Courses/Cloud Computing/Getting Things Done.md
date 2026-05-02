@@ -33,7 +33,7 @@ tags:
   - skill/time-management
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Getting%20Things%20Done.md)
@@ -52,26 +52,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Benefits of Getting Things Done
-  - The five steps of Getting Things Done
+  - [Benefits of Getting Things Done](#benefits-of-getting-things-done)
+  - [The five steps of Getting Things Done](#the-five-steps-of-getting-things-done)
 - [**1. Getting Things Done**](#1-getting-things-done) (6 videos)
-  - Step 1: Capturing things
-  - Step 2: Clarifying meaning
-  - Do, delegate, defer
-  - Step 3: Organizing where things belong
-  - Step 4: Reflecting on and reviewing your tasks
-  - Step 5: Engaging the tasks
+  - [Step 1: Capturing things](#step-1-capturing-things)
+  - [Step 2: Clarifying meaning](#step-2-clarifying-meaning)
+  - [Do, delegate, defer](#do-delegate-defer)
+  - [Step 3: Organizing where things belong](#step-3-organizing-where-things-belong)
+  - [Step 4: Reflecting on and reviewing your tasks](#step-4-reflecting-on-and-reviewing-your-tasks)
+  - [Step 5: Engaging the tasks](#step-5-engaging-the-tasks)
 - [**2. Implications of Getting Things Done**](#2-implications-of-getting-things-done) (4 videos)
-  - What makes getting things done different?
-  - How long does it take to implement?
-  - How do I stick with it?
-  - How to scale Getting Things Done
+  - [What makes getting things done different?](#what-makes-getting-things-done-different)
+  - [How long does it take to implement?](#how-long-does-it-take-to-implement)
+  - [How do I stick with it?](#how-do-i-stick-with-it)
+  - [How to scale Getting Things Done](#how-to-scale-getting-things-done)
 - [**3. Conclusion**](#3-conclusion) (1 videos)
-  - Getting started with Getting Things Done
+  - [Getting started with Getting Things Done](#getting-started-with-getting-things-done)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of Getting Things Done
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/benefits-of-getting-things-done-23474905?u=76281980)
@@ -92,7 +92,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - you (1)
 
@@ -159,6 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** picture (2)
@@ -168,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Getting Things Done
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Step 1: Capturing things
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980)
@@ -271,8 +271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), cat (1)
-> **Code Keywords:** let (2), for, (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** best practice (2)
 > **Cross-References:** coming up (1)
@@ -389,7 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (2), while. (1), pass (1), else, (1)
+> **Frameworks & Libraries:** next (7), [[Decision-Making]] (3)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2)
@@ -473,8 +473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - once (1)
 
 #### Step 3: Organizing where things belong
@@ -528,8 +528,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - well (1)
@@ -595,8 +595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - well (1)
@@ -656,8 +656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** else. (1), this. (1)
 > **Best Practices:** best practice (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - getting (1)
@@ -665,7 +665,7 @@ created: 2026-04-29
 
 ### 2. Implications of Getting Things Done
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes getting things done different?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980)
@@ -710,6 +710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **Env Vars:** gtd (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
@@ -765,6 +766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), game (1), power (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is called (1)
 > **Speakers:** - we (1)
@@ -806,6 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), game (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** kind of like (1)
@@ -848,6 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), business (1)
 > **Env Vars:** gtd (4)
 > **Analogies:** it's like (1)
 > **Speakers:** - this (1)
@@ -855,7 +859,7 @@ created: 2026-04-29
 
 ### 3. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Getting Things Done
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/getting-started-with-getting-things-done?u=76281980)
@@ -898,7 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), assert (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)

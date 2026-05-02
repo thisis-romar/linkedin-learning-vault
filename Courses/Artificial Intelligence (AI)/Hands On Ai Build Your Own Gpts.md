@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands%20On%20Ai%20Build%20Your%20Own%20Gpts.md)
@@ -51,30 +51,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build your own GPTs using English
-  - OpenAI GPT store
+  - [Build your own GPTs using English](#build-your-own-gpts-using-english)
+  - [OpenAI GPT store](#openai-gpt-store)
 - [**1. Action Item Generator KK**](#1-action-item-generator-kk) (6 videos)
-  - OpenAI GPTs user interface
-  - Talk to KK in the playground
-  - Pentagram framework for prompt engineering
-  - Upgrading KK using Pentagram
-  - Chain-of-thought prompting
-  - Publish your GPT
+  - [OpenAI GPTs user interface](#openai-gpts-user-interface)
+  - [Talk to KK in the playground](#talk-to-kk-in-the-playground)
+  - [Pentagram framework for prompt engineering](#pentagram-framework-for-prompt-engineering)
+  - [Upgrading KK using Pentagram](#upgrading-kk-using-pentagram)
+  - [Chain-of-thought prompting](#chain-of-thought-prompting)
+  - [Publish your GPT](#publish-your-gpt)
 - [**2. Sun Tzu Career Coaching**](#2-sun-tzu-career-coaching) (4 videos)
-  - Custom knowledge base
-  - Personalized output
-  - Prompt injection
-  - Test case generation
+  - [Custom knowledge base](#custom-knowledge-base)
+  - [Personalized output](#personalized-output)
+  - [Prompt injection](#prompt-injection)
+  - [Test case generation](#test-case-generation)
 - [**3. Gift Advisor Lilis**](#3-gift-advisor-lilis) (3 videos)
-  - User intent detection
-  - Few-shot learning
-  - DALL-E visualization
+  - [User intent detection](#user-intent-detection)
+  - [Few-shot learning](#few-shot-learning)
+  - [DALL-E visualization](#dall-e-visualization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Build your own GPTs
+  - [Build your own GPTs](#build-your-own-gpts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your own GPTs using English
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), [[Large Language Models (LLM)|Large language models]] (1), [[Programming]] (1), data (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -150,8 +150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Custom GPTs]] (2), [[ChatGPT]] (1), [[Programming]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** gpt (5)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it like (1)
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Action Item Generator KK
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OpenAI GPTs user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980)
@@ -255,8 +255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (4), teams (2), next (2), [[DALL-E]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gpt (13), dall (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Tools:** slack (4)
 > **Analogies:** for example (2), picture (1)
 > **Prerequisites:** configure (2), setup (1)
@@ -303,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** product (2), [[SaaS]] (1), [[Engineering]] (1), next (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpt (1)
@@ -381,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), data (2), next (1)
 > **Env Vars:** gpt (7), mba (2), pdf (1), csv (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** prompt (2), next (2), [[Large Language Models (LLM)|Large language models]] (1), ai (1), chatbot (1)
 > **Env Vars:** gpt (2), pdf (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -524,7 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1)
+> **Frameworks & Libraries:** data (3), [[Google]] (1), prompt (1)
 > **Speakers:** - [instructor] (1)
 
 #### Publish your GPT
@@ -604,8 +604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (3), data (2), [[Search]] (1), [[SaaS]] (1), prompt (1)
 > **Env Vars:** gpt (6)
-> **Code Keywords:** let (4), public (1)
 > **Tools:** slack (3)
 > **UI Navigation:** go to (1), select the (1), click on (1)
 > **CLI Commands:** find (1)
@@ -616,7 +616,7 @@ created: 2026-04-29
 
 ### 2. Sun Tzu Career Coaching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom knowledge base
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980)
@@ -723,8 +723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (7), [[ChatGPT]] (6), business (5), data (2), next (2)
 > **Env Vars:** gpt (9), mba (2), reg (1)
-> **Code Keywords:** let (3), public (1), this, (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
@@ -808,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** career (6), prompt (2), next (2), leadership (2), business (1)
 > **Analogies:** for example (3)
 > **Env Vars:** gpt (2)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -858,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), new, (1)
+> **Frameworks & Libraries:** prompt (7), [[Security]] (2), [[GitHub Copilot]] (1)
 > **Env Vars:** gpt (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
@@ -903,9 +903,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Large Language Models (LLM)|Large language models]] (1), data (1), [[Software Development]] (1), [[Quality Assurance]] (1)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
@@ -913,7 +913,7 @@ created: 2026-04-29
 
 ### 3. Gift Advisor Lilis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User intent detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980)
@@ -1062,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1)
+> **Frameworks & Libraries:** traffic (3), prompt (2), [[Tokens]] (1), [[Microsoft Office|Office]] (1), next (1)
 > **UI Navigation:** go to (3), switch to (1)
 > **Env Vars:** gpt (2), mba (1)
 > **Analogies:** for example (3)
@@ -1133,7 +1133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** prompt (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1206,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (2), prompt (1), power (1)
 > **Env Vars:** ceo (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1216,7 +1216,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your own GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980)
@@ -1243,6 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Programming]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gpt (2)
 > **Speakers:** - [alina] (1)
 

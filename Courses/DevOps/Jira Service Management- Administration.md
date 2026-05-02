@@ -31,7 +31,7 @@ tags:
   - skill/it-service-management
   - skill/jira
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira%20Service%20Management-%20Administration.md)
@@ -50,60 +50,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Administration in Jira Service Management
-  - Who is this course for?
-  - What do you need for this course?
+  - [Administration in Jira Service Management](#administration-in-jira-service-management)
+  - [Who is this course for?](#who-is-this-course-for)
+  - [What do you need for this course?](#what-do-you-need-for-this-course)
 - [**1. Using Jira Service Management**](#1-using-jira-service-management) (6 videos)
-  - What is Jira Service Management?
-  - How is JSM used?
-  - Which application type do you have?
-  - Which deployment type do you have?
-  - Important terms and definitions
-  - Navigating the admin area
+  - [What is Jira Service Management?](#what-is-jira-service-management)
+  - [How is JSM used?](#how-is-jsm-used)
+  - [Which application type do you have?](#which-application-type-do-you-have)
+  - [Which deployment type do you have?](#which-deployment-type-do-you-have)
+  - [Important terms and definitions](#important-terms-and-definitions)
+  - [Navigating the admin area](#navigating-the-admin-area)
 - [**2. Jira and JSM Differences**](#2-jira-and-jsm-differences) (4 videos)
-  - JSM feature overview
-  - Types of users
-  - Additional permissions
-  - Additional notifications
+  - [JSM feature overview](#jsm-feature-overview)
+  - [Types of users](#types-of-users)
+  - [Additional permissions](#additional-permissions)
+  - [Additional notifications](#additional-notifications)
 - [**3. Setting Up a Test Environment**](#3-setting-up-a-test-environment) (3 videos)
-  - Test environment tips
-  - Choose a test environment
-  - Create a test environment
+  - [Test environment tips](#test-environment-tips)
+  - [Choose a test environment](#choose-a-test-environment)
+  - [Create a test environment](#create-a-test-environment)
 - [**4. Managing Project Settings**](#4-managing-project-settings) (9 videos)
-  - Create a service project
-  - Leverage workflow differences
-  - Use and create request types
-  - Add agents, customers, and organizations
-  - Configure the customer portal
-  - Manage email requests
-  - Connect to a Confluence knowledge base
-  - Challenge: Create a request type
-  - Solution: Create a request type
+  - [Create a service project](#create-a-service-project)
+  - [Leverage workflow differences](#leverage-workflow-differences)
+  - [Use and create request types](#use-and-create-request-types)
+  - [Add agents, customers, and organizations](#add-agents-customers-and-organizations)
+  - [Configure the customer portal](#configure-the-customer-portal)
+  - [Manage email requests](#manage-email-requests)
+  - [Connect to a Confluence knowledge base](#connect-to-a-confluence-knowledge-base)
+  - [Challenge: Create a request type](#challenge-create-a-request-type)
+  - [Solution: Create a request type](#solution-create-a-request-type)
 - [**5. Creating Service Level Agreements**](#5-creating-service-level-agreements) (6 videos)
-  - SLA overview
-  - Use and create SLAs
-  - Manage SLA calendars
-  - Troubleshoot SLAs
-  - Challenge: Create an SLA
-  - Solution: Create an SLA
+  - [SLA overview](#sla-overview)
+  - [Use and create SLAs](#use-and-create-slas)
+  - [Manage SLA calendars](#manage-sla-calendars)
+  - [Troubleshoot SLAs](#troubleshoot-slas)
+  - [Challenge: Create an SLA](#challenge-create-an-sla)
+  - [Solution: Create an SLA](#solution-create-an-sla)
 - [**6. Using Automation**](#6-using-automation) (4 videos)
-  - Automation overview
-  - Create automation rules
-  - Challenge: Create an automation
-  - Solution: Create an automation
+  - [Automation overview](#automation-overview)
+  - [Create automation rules](#create-automation-rules)
+  - [Challenge: Create an automation](#challenge-create-an-automation)
+  - [Solution: Create an automation](#solution-create-an-automation)
 - [**7. Using Reporting**](#7-using-reporting) (6 videos)
-  - Reporting overview
-  - Using reports
-  - Using queues
-  - Measuring customer satisfaction
-  - Challenge: Create a report
-  - Solution: Create a report
+  - [Reporting overview](#reporting-overview)
+  - [Using reports](#using-reports)
+  - [Using queues](#using-queues)
+  - [Measuring customer satisfaction](#measuring-customer-satisfaction)
+  - [Challenge: Create a report](#challenge-create-a-report)
+  - [Solution: Create a report](#solution-create-a-report)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Administration in Jira Service Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980)
@@ -130,9 +130,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), management (4), [[Confluence]] (2), next (1), [[LinkedIn]] (1)
 > **Tools:** jira (6), confluence (2)
 > **Env Vars:** jsm (6)
-> **Code Keywords:** extends (2), interface (1), self (1), let (1)
 > **Prerequisites:** configure (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [rachel] (1)
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (8), management (2), cloud (2), data (2), application (2)
 > **Tools:** jira (8)
-> **Code Keywords:** extends (1), interface (1)
 > **Prerequisites:** configure (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [tutor] (1)
@@ -201,16 +201,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (8), management (3), application (2), [[Atlassian]] (1), cloud (1)
 > **Tools:** jira (8)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** jsm (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Using Jira Service Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Jira Service Management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980)
@@ -239,9 +239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), management (7), [[Atlassian]] (3), teams (2), [[Confluence]] (2)
 > **Tools:** jira (9), confluence (2)
 > **Env Vars:** jsm (5)
-> **Code Keywords:** self (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -373,8 +373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (21), management (8), hr (3), [[Hardware]] (2), teams (2)
 > **Tools:** jira (21), confluence (1)
-> **Code Keywords:** self (3), let (2), interface (2), function (1), type. (1)
 > **Env Vars:** jsm (7), jira (2), ceo (1)
 > **CLI Commands:** make (4), find (3)
 > **Analogies:** for example (3)
@@ -423,9 +423,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (13), teams (6), management (5), business (5), cloud (2)
 > **Tools:** jira (13), bitbucket (1)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** type, (1)
 > **Env Vars:** jsm (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -561,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), type, (2), type. (1), switch (1)
+> **Frameworks & Libraries:** cloud (14), application (11), [[Jira]] (11), [[Atlassian]] (10), data (9)
 > **Tools:** jira (11)
 > **Env Vars:** url (5), jsm (2), aws (1)
 > **CLI Commands:** find (3), make (3), aws (1)
@@ -741,10 +741,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (23), management (13), [[Atlassian]] (5), business (3), teams (3)
 > **Env Vars:** jira (23), jsm (9), itsm (5), itil (2), it1 (1)
 > **Tools:** jira (23)
 > **Definitions:** is a  (6), stands for (3), is an  (2), in other words (1)
-> **Code Keywords:** finally, (3), function (2), self (2), let (1), require (1)
 > **Analogies:** for example (3), similar to (1)
 > **Cross-References:** later in (1)
 > **Warnings:** note that (1)
@@ -855,9 +855,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (22), application (7), management (6), data (5), cloud (4)
 > **Tools:** jira (22)
 > **Env Vars:** jsm (6), sla (2), url (1)
-> **Code Keywords:** default. (2), let (1), default, (1), continue (1)
 > **UI Navigation:** in the menu (2), scroll down (1), go to (1)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is called (1)
@@ -867,7 +867,7 @@ created: 2026-04-29
 
 ### 2. Jira and JSM Differences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JSM feature overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980)
@@ -1060,9 +1060,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (13), feature (7), management (6), next (5), [[Confluence]] (4)
 > **Env Vars:** jsm (15), itsm (1), sla (1), rest (1), api (1)
 > **Tools:** jira (13), confluence (4), slack (1), bitbucket (1)
-> **Code Keywords:** self (3), extends (1), let (1), type. (1), require (1)
 > **Analogies:** for example (5)
 > **Cross-References:** later in (3)
 > **Definitions:** is a  (3)
@@ -1168,9 +1168,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), management (5), [[Atlassian]] (4), cloud (4), [[Confluence]] (3)
 > **Tools:** jira (10), confluence (3)
 > **Env Vars:** jsm (5), jira (3), url (1)
-> **Code Keywords:** let (1), public (1), case, (1), for, (1), finally, (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), select the (1)
 > **Analogies:** for example (1)
@@ -1282,13 +1282,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (17), application (7), management (6), cloud (4), data (4)
 > **Tools:** jira (17)
 > **Env Vars:** jsm (9)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is called (3)
 > **Analogies:** just like (2), imagine (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), interface (1)
 > **Warnings:** be aware (1)
 
 #### Additional notifications
@@ -1384,7 +1384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), public (1)
+> **Frameworks & Libraries:** [[Jira]] (5), feature (4), [[HTML]] (3), [[Automation]] (3), cloud (2)
 > **Tools:** jira (5)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (3)
@@ -1396,7 +1396,7 @@ created: 2026-04-29
 
 ### 3. Setting Up a Test Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test environment tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980)
@@ -1467,9 +1467,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), data (6), application (4), next (2), database (2)
 > **Tools:** jira (7)
 > **CLI Commands:** cat (2), find (1), make (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -1546,12 +1546,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Atlassian]] (5), cloud (4), application (3), data (2), next (2)
 > **Env Vars:** url (4), jsm (1), ssl (1)
 > **Analogies:** for example (2), similar to (1), just like (1), it's like (1)
 > **CLI Commands:** make (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** jira (1)
 > **Best Practices:** don't forget (1)
 
@@ -1602,18 +1602,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Atlassian]] (6), [[Jira]] (3), next (3), data (3), cloud (2)
 > **Env Vars:** jsm (4), jira (3), url (2), aws (2)
 > **Prerequisites:** setup (2), getting started (1), install (1)
 > **CLI Commands:** aws (2), find (1)
 > **Tools:** jira (3)
-> **Code Keywords:** let (1), finally, (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Managing Project Settings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a service project
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980)
@@ -1806,8 +1806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), [[Jira]] (8), cloud (7), data (5), teams (4)
 > **Exercise Files:** template (17)
-> **Code Keywords:** let (7), finally, (4), interface (2), from. (1), from, (1)
 > **Tools:** jira (8)
 > **UI Navigation:** select the (4), click on (1), scroll down (1)
 > **CLI Commands:** make (5)
@@ -2006,8 +2006,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), next (3), management (2), feature (2), data (2)
 > **Env Vars:** jsm (10), cab (4), itsm (1), jql (1)
-> **Code Keywords:** default, (2), finally, (2), let (2), type. (1), require (1)
 > **UI Navigation:** checkbox (2), go to (2), click on (1), in the sidebar (1)
 > **Tools:** jira (3)
 > **Analogies:** for example (2)
@@ -2302,7 +2302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (6), let (6), type, (3), finally, (3), require (2)
+> **Frameworks & Libraries:** [[Forms]] (13), [[Jira]] (12), next (7), [[Hardware]] (3), data (3)
 > **Tools:** jira (12)
 > **CLI Commands:** make (8), find (2)
 > **Analogies:** for example (5), just like (1)
@@ -2506,7 +2506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), finally, (2), let (1), function (1)
+> **Frameworks & Libraries:** application (10), [[Jira]] (8), [[User Management]] (5), management (4), cloud (4)
 > **Tools:** jira (8)
 > **UI Navigation:** go to (4)
 > **Prerequisites:** getting started (1), setup (1), required to (1)
@@ -2666,9 +2666,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), data (4), next (3), [[Microsoft Products|Products]] (2), [[Search]] (2)
 > **Env Vars:** url (14), jsm (1)
 > **UI Navigation:** in the sidebar (2), go to (1), select the (1), scroll down (1)
-> **Code Keywords:** interface (1), let (1), function (1), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (1), is called (1)
 > **Best Practices:** recommended (1), make sure to (1)
@@ -2866,8 +2866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (6), [[Jira]] (5), [[Atlassian]] (5), next (4)
 > **Env Vars:** jsm (13), help (1)
-> **Code Keywords:** finally, (4), raise (1), let (1), type. (1), function (1)
 > **CLI Commands:** make (4), find (2)
 > **Tools:** jira (5)
 > **Ports:** :54 (1), :23 (1)
@@ -3010,8 +3010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Confluence]] (20), application (5), [[Jira]] (4), [[Search]] (4), cloud (3)
 > **Tools:** confluence (20), jira (4)
-> **Code Keywords:** public (3), self (2), let (2), private (2), finally, (1)
 > **Env Vars:** jsm (6)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (1)
@@ -3036,7 +3036,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1)
 > **Env Vars:** jsm (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -3079,8 +3078,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), cloud (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type. (1), finally, (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -3089,7 +3088,7 @@ created: 2026-04-29
 
 ### 5. Creating Service Level Agreements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SLA overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980)
@@ -3208,8 +3207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), data (3), [[Jira]] (2), [[Atlassian]] (1)
 > **Env Vars:** sla (28), jql (2), jsm (2)
-> **Code Keywords:** type, (1), new, (1), case, (1), continue (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Tools:** jira (2)
@@ -3280,8 +3279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Jira]] (2), data (1)
 > **Env Vars:** sla (5), jira (2), vip (2), jsm (2), jql (1)
-> **Code Keywords:** delete (1), let (1), finally, (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** jira (2)
 > **UI Navigation:** drag and drop (1), select the (1)
@@ -3352,9 +3351,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sla (4), jsm (2), jql (1)
 > **Ports:** :00 (3)
-> **Code Keywords:** let (1), delete (1)
 > **Prerequisites:** configure (1), you'll need (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** means that (1)
@@ -3488,8 +3487,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Troubleshooting]] (2), [[Jira]] (2), data (2), [[Automation]] (1)
 > **Env Vars:** sla (12), jql (2), jira (2), jsm (1)
-> **Code Keywords:** finally, (1), case, (1), require (1), let (1)
 > **Definitions:** defined as (3)
 > **CLI Commands:** find (2)
 > **Tools:** jira (2)
@@ -3519,7 +3518,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** sla (3), jsm (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bouncy music) (1)
 
@@ -3558,8 +3556,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), cloud (1), data (1)
 > **Env Vars:** sla (4)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** don't forget (1)
@@ -3569,7 +3567,7 @@ created: 2026-04-29
 
 ### 6. Using Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980)
@@ -3744,7 +3742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (3), interface (1), type, (1), continue (1)
+> **Frameworks & Libraries:** [[Automation]] (19), data (6), cloud (5), [[Atlassian]] (5), [[Jira]] (4)
 > **Env Vars:** sla (6), jql (2)
 > **Tools:** jira (4), slack (2)
 > **CLI Commands:** make (4), find (1)
@@ -3898,7 +3896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2), default, (1), case. (1)
+> **Frameworks & Libraries:** [[Automation]] (9), next (9), cloud (3), application (2), [[Atlassian]] (2)
 > **Env Vars:** sla (5), jql (3), url (1), jira (1)
 > **UI Navigation:** go to (1), scroll down (1), select the (1), dropdown (1)
 > **CLI Commands:** make (3)
@@ -3920,6 +3918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), teams (1), [[Jira]] (1), management (1)
 > **Env Vars:** jira (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
@@ -3956,6 +3955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Automation]] (2), cloud (1), management (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** jql (1)
 > **Cross-References:** in the last (1)
@@ -3966,7 +3966,7 @@ created: 2026-04-29
 
 ### 7. Using Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reporting overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980)
@@ -4011,9 +4011,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), data (5), management (2), [[Dashboards]] (2), [[Search]] (2)
 > **Tools:** jira (5)
 > **Env Vars:** jsm (1), rest (1), api (1), jql (1)
-> **Code Keywords:** let (1), private (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -4091,6 +4091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Dashboards]] (3), management (2), cloud (2), [[Jira]] (2)
 > **Env Vars:** url (2), jql (2), csv (1), jsm (1)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
@@ -4208,7 +4209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), finally, (2), let (2), public (1), switch (1)
+> **Frameworks & Libraries:** cloud (6), [[Jira]] (3), data (3), next (3), management (1)
 > **UI Navigation:** in the sidebar (2), scroll down (1), dropdown (1), switch to (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** jql (3), itsm (1)
@@ -4270,9 +4271,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), data (3), [[Jira]] (2), [[Automation]] (2), [[Atlassian]] (2)
 > **Env Vars:** jsm (4), csat (1)
 > **Tools:** jira (2)
-> **Code Keywords:** default. (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **Speakers:** - in (1)
 
@@ -4295,9 +4296,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2), [[User Management]] (1), next (1), management (1)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
@@ -4334,6 +4335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), management (1)
 > **Env Vars:** vip (2), jql (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -4342,7 +4344,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980)
@@ -4417,10 +4419,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (12), [[Atlassian]] (11), cloud (4), next (3), [[Microsoft Products|Products]] (3)
 > **Tools:** jira (12)
 > **Env Vars:** jsm (4), url (3)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** continue (2), switch (1), type, (1)
 > **URLs:** [supportatlassian.com](https://supportatlassian.com) (1), [atlassian.com](https://atlassian.com) (1)
 > **Prerequisites:** configure (1), getting started (1)
 > **UI Navigation:** switch to (1)

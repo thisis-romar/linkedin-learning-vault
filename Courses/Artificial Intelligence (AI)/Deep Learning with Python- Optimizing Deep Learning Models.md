@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20Python-%20Optimizing%20Deep%20Learning%20Models.md)
@@ -52,48 +52,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Optimizing deep learning models
-  - What you should know
-  - Using the exercise files
+  - [Optimizing deep learning models](#optimizing-deep-learning-models)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Optimizing Deep Learning Models**](#1-optimizing-deep-learning-models) (1 videos)
-  - The importance of optimizing deep learning models
+  - [The importance of optimizing deep learning models](#the-importance-of-optimizing-deep-learning-models)
 - [**2. Regularization Techniques**](#2-regularization-techniques) (7 videos)
-  - The bias-variance trade-off
-  - Lasso and ridge regularization
-  - Applying L1 regularization to a deep learning model
-  - Applying L2 regularization to a deep learning model
-  - Elastic Net regularization
-  - Dropout regularization
-  - Applying dropout regularization to a deep learning model
+  - [The bias-variance trade-off](#the-bias-variance-trade-off)
+  - [Lasso and ridge regularization](#lasso-and-ridge-regularization)
+  - [Applying L1 regularization to a deep learning model](#applying-l1-regularization-to-a-deep-learning-model)
+  - [Applying L2 regularization to a deep learning model](#applying-l2-regularization-to-a-deep-learning-model)
+  - [Elastic Net regularization](#elastic-net-regularization)
+  - [Dropout regularization](#dropout-regularization)
+  - [Applying dropout regularization to a deep learning model](#applying-dropout-regularization-to-a-deep-learning-model)
 - [**3. Loss Functions and Optimization Algorithms**](#3-loss-functions-and-optimization-algorithms) (8 videos)
-  - Common loss functions in deep learning
-  - Batch gradient descent
-  - Stochastic gradient descent (SGD)
-  - Mini-batch gradient descent
-  - Adaptive Gradient Algorithm (AdaGrad)
-  - Root Mean Square Propagation (RMSProp)
-  - Adaptive Delta (AdaDelta)
-  - Adaptive Moment Estimation (Adam)
+  - [Common loss functions in deep learning](#common-loss-functions-in-deep-learning)
+  - [Batch gradient descent](#batch-gradient-descent)
+  - [Stochastic gradient descent (SGD)](#stochastic-gradient-descent-sgd)
+  - [Mini-batch gradient descent](#mini-batch-gradient-descent)
+  - [Adaptive Gradient Algorithm (AdaGrad)](#adaptive-gradient-algorithm-adagrad)
+  - [Root Mean Square Propagation (RMSProp)](#root-mean-square-propagation-rmsprop)
+  - [Adaptive Delta (AdaDelta)](#adaptive-delta-adadelta)
+  - [Adaptive Moment Estimation (Adam)](#adaptive-moment-estimation-adam)
 - [**4. Hyperparameter Tuning Techniques**](#4-hyperparameter-tuning-techniques) (5 videos)
-  - Parameters versus hyperparameters
-  - Key hyperparameters in deep learning
-  - Methods for hyperparameter tuning
-  - Defining a tunable deep learning model in Keras
-  - Using KerasTuner for hyperparameter tuning
+  - [Parameters versus hyperparameters](#parameters-versus-hyperparameters)
+  - [Key hyperparameters in deep learning](#key-hyperparameters-in-deep-learning)
+  - [Methods for hyperparameter tuning](#methods-for-hyperparameter-tuning)
+  - [Defining a tunable deep learning model in Keras](#defining-a-tunable-deep-learning-model-in-keras)
+  - [Using KerasTuner for hyperparameter tuning](#using-kerastuner-for-hyperparameter-tuning)
 - [**5. Advanced Training Techniques**](#5-advanced-training-techniques) (7 videos)
-  - Batch normalization
-  - Applying batch normalization to a deep learning model
-  - Gradient clipping
-  - Applying gradient clipping to a deep learning model
-  - Early stopping and checkpointing
-  - Learning rate scheduling
-  - Training a deep learning model using callbacks
+  - [Batch normalization](#batch-normalization)
+  - [Applying batch normalization to a deep learning model](#applying-batch-normalization-to-a-deep-learning-model)
+  - [Gradient clipping](#gradient-clipping)
+  - [Applying gradient clipping to a deep learning model](#applying-gradient-clipping-to-a-deep-learning-model)
+  - [Early stopping and checkpointing](#early-stopping-and-checkpointing)
+  - [Learning rate scheduling](#learning-rate-scheduling)
+  - [Training a deep learning model using callbacks](#training-a-deep-learning-model-using-callbacks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to optimize deep learning models
+  - [Continuing to optimize deep learning models](#continuing-to-optimize-deep-learning-models)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980)
@@ -124,8 +124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (1), data (1), ai (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - achieving (1)
 
 #### What you should know
@@ -147,8 +147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Deep Learning]] (2), [[Neural Networks]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1), function (1), finally, (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [presenter] (1)
 
@@ -193,10 +193,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (1), cloud (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Tools:** github (3)
 > **Exercise Files:** exercise files (2), github repo (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** install (1), set up (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -204,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Optimizing Deep Learning Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of optimizing deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980)
@@ -255,8 +255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (4), data (3), [[Algorithms]] (1), [[Neural Networks]] (1), [[Continuous Monitoring]] (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** function (1), new, (1)
 > **Env Vars:** adam (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -264,7 +264,7 @@ created: 2026-04-29
 
 ### 2. Regularization Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The bias-variance trade-off
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980)
@@ -313,10 +313,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Linear Regression]] (1), application (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** refers to (2), known as (2), is a  (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Lasso and ridge regularization
@@ -372,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this, (1), lambda (1)
+> **Frameworks & Libraries:** data (6), feature (5), [[Deep Learning]] (1)
 > **Definitions:** is a  (2), known as (2)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -438,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[Deep Learning]] (2), [[TensorFlow]] (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** kernel_regularizer (2), batch_size (1), validation_split (1)
 > **Versions:** 0.001 (2), 0.1 (1)
 > **CLI Commands:** make (1), python (1)
@@ -509,9 +509,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), [[TensorFlow]] (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** kernel_regularizer (2), batch_size (1), validation_split (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1), python (1)
 > **Versions:** 0.001 (1), 0.1 (1)
 > **Best Practices:** make sure to (1)
@@ -552,8 +552,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), data (1)
 > **Definitions:** defined as (1), is a  (1)
-> **Code Keywords:** function (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), data (4), [[Deep Learning]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -670,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1)
+> **Frameworks & Libraries:** data (4), [[Deep Learning]] (2), [[TensorFlow]] (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Versions:** 0.5 (1), 0.1 (1)
 > **Definitions:** is a  (1), means that (1)
@@ -681,7 +681,7 @@ created: 2026-04-29
 
 ### 3. Loss Functions and Optimization Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common loss functions in deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980)
@@ -746,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), class. (2), class, (1), require (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), data (2), [[Probability]] (2), [[Neural Networks]] (1)
 > **Definitions:** is a  (6), defined as (2), known as (1)
 > **Env Vars:** mse (4), mae (2), yij (1)
 > **Analogies:** for example (1), similar to (1), for instance (1)
@@ -816,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), yield (1), pass (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Deep Learning]] (3), data (2), [[Neural Networks]] (1), strengths (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** means that (1)
@@ -871,9 +871,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Deep Learning]] (1), parallel (1)
 > **Env Vars:** sgd (8)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -936,8 +936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Hardware]] (3), power (2), parallel (1), [[Deep Learning]] (1)
 > **Env Vars:** sgd (5)
-> **Code Keywords:** require (2), function (1)
 > **Analogies:** similar to (2), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
@@ -1015,8 +1015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), [[Deep Learning]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** means that (2), is a  (1), in other words (1), short for (1)
-> **Code Keywords:** function (3), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1061,6 +1061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1092,6 +1093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), [[Deep Learning]] (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** similar to (2)
@@ -1150,6 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), [[Neural Networks]] (2), [[Hardware]] (1)
 > **Env Vars:** adam (9)
 > **Definitions:** known as (2), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1157,7 +1160,7 @@ created: 2026-04-29
 
 ### 4. Hyperparameter Tuning Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Parameters versus hyperparameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980)
@@ -1236,7 +1239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), finally, (1), require (1)
+> **Frameworks & Libraries:** data (5), [[Deep Learning]] (3), [[Linear Regression]] (1), feature (1), next (1)
 > **Analogies:** for example (1), similar to (1), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
@@ -1362,8 +1365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Deep Learning]] (2), [[Search]] (1), [[Hardware]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Prerequisites:** initialization (7)
-> **Code Keywords:** finally, (2), require (2), yield (1)
 > **Analogies:** such as (4)
 > **Versions:** 0.001 (1), 0.0001 (1), 0.1 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1458,10 +1461,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (21), [[Deep Learning]] (1), next (1)
 > **Versions:** 0.1 (2), 0.00001 (1), 0.0001 (1)
 > **Analogies:** for instance (2), for example (1), think of it like (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1586,7 +1589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), finally, (3), continue (1), try, (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (4), next (4), [[Deep Learning]] (2), [[TensorFlow]] (2), data (1)
 > **Versions:** 0.1 (5), 0.5 (3), 0.2 (1), 0.3 (1), 0.4 (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1), find (1)
@@ -1674,7 +1677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), this. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (11), next (2), data (2), [[Python (Programming Language)|Python]] (1)
 > **Versions:** 0.1 (1), 0.40 (1), 0.20 (1), 0.001 (1), 0.0649 (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Definitions:** means that (3), is a  (1)
@@ -1686,7 +1689,7 @@ created: 2026-04-29
 
 ### 5. Advanced Training Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980)
@@ -1735,8 +1738,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (1), feature (1), next (1), data (1), [[Statistics]] (1)
 > **Definitions:** is a  (3), known as (1)
-> **Code Keywords:** yield (1), finally, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** initialization (1)
@@ -1809,8 +1812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Python (Programming Language)|Python]] (4), next (4), data (2)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2), function (1)
 > **Env Vars:** gpu (2)
 > **UI Navigation:** select the (1), click on (1)
 > **Versions:** python 3 (1)
@@ -1887,8 +1890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Neural Networks]] (1)
 > **Versions:** 11.75 (3), 0.51 (1), 1.02 (1), 3.06 (1), 4.08 (1)
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** means that (2), known as (1)
 > **Prerequisites:** setup (2), initialization (1)
 > **CLI Commands:** make (1)
@@ -1956,7 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), default, (1), case, (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Python (Programming Language)|Python]] (3), next (2)
 > **CLI Commands:** python (3), make (1)
 > **Versions:** 1.0 (2), 3.10 (1)
 > **UI Navigation:** click on (1), scroll up (1)
@@ -2020,9 +2023,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), data (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Learning rate scheduling
@@ -2102,8 +2105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Fine Tuning]] (1), data (1)
 > **Analogies:** analogous to (2), think of it as (1), such as (1), for example (1)
-> **Code Keywords:** require (1), function (1), switch (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -2221,7 +2224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), implements (1), pass (1), while, (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Python (Programming Language)|Python]] (3), data (2)
 > **Code Identifiers:** early_stopping (2), restore_best_weights (1), my_callbacks (1)
 > **Definitions:** means that (2), is an  (1), known as (1)
 > **CLI Commands:** python (3)
@@ -2233,7 +2236,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to optimize deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980)
@@ -2294,8 +2297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (6), ai (4), [[Python (Programming Language)|Python]] (2), next (2), [[Algorithms]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** continue (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 

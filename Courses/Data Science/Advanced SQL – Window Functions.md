@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20%E2%80%93%20Window%20Functions.md)
@@ -49,45 +49,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Course introduction
-  - Course agenda
+  - [Course introduction](#course-introduction)
+  - [Course agenda](#course-agenda)
 - [**1. Tools, Files, and Query Processing Review**](#1-tools-files-and-query-processing-review) (3 videos)
-  - Tools and demo database
-  - Using the demo and exercise files
-  - Logical query processing review
+  - [Tools and demo database](#tools-and-demo-database)
+  - [Using the demo and exercise files](#using-the-demo-and-exercise-files)
+  - [Logical query processing review](#logical-query-processing-review)
 - [**2. Window Functions and the OVER Clause**](#2-window-functions-and-the-over-clause) (3 videos)
-  - How window functions fit in query processing
-  - Overview and filter clause
-  - PARTITION BY and ORDER BY
+  - [How window functions fit in query processing](#how-window-functions-fit-in-query-processing)
+  - [Overview and filter clause](#overview-and-filter-clause)
+  - [PARTITION BY and ORDER BY](#partition-by-and-order-by)
 - [**3. Framing, Exclusions, and Shortcuts**](#3-framing-exclusions-and-shortcuts) (3 videos)
-  - Framing rows and ranges
-  - Practical framing examples
-  - Defaults, shortcuts, exclusions, and null handling
+  - [Framing rows and ranges](#framing-rows-and-ranges)
+  - [Practical framing examples](#practical-framing-examples)
+  - [Defaults, shortcuts, exclusions, and null handling](#defaults-shortcuts-exclusions-and-null-handling)
 - [**4. Aggregate Window Functions**](#4-aggregate-window-functions) (5 videos)
-  - Aggregate grouped functions
-  - Aggregate window functions
-  - Combining grouped and window aggregate functions
-  - Challenge: Aggregate window functions
-  - Solution: Aggregate window functions
+  - [Aggregate grouped functions](#aggregate-grouped-functions)
+  - [Aggregate window functions](#aggregate-window-functions)
+  - [Combining grouped and window aggregate functions](#combining-grouped-and-window-aggregate-functions)
+  - [Challenge: Aggregate window functions](#challenge-aggregate-window-functions)
+  - [Solution: Aggregate window functions](#solution-aggregate-window-functions)
 - [**5. Rank and Distribution Window Functions**](#5-rank-and-distribution-window-functions) (6 videos)
-  - The concept of rank
-  - ROW_NUMBER and NTILE
-  - RANK and DENSE_RANK
-  - Distribution window functions
-  - Challenge: Rank window functions
-  - Solution: Rank window functions
+  - [The concept of rank](#the-concept-of-rank)
+  - [ROW_NUMBER and NTILE](#row_number-and-ntile)
+  - [RANK and DENSE_RANK](#rank-and-dense_rank)
+  - [Distribution window functions](#distribution-window-functions)
+  - [Challenge: Rank window functions](#challenge-rank-window-functions)
+  - [Solution: Rank window functions](#solution-rank-window-functions)
 - [**6. Offset Window Functions**](#6-offset-window-functions) (5 videos)
-  - Offset window functions
-  - Row offset window functions
-  - Frame offset window functions
-  - Challenge: Offset window functions
-  - Solution: Offset window functions
+  - [Offset window functions](#offset-window-functions)
+  - [Row offset window functions](#row-offset-window-functions)
+  - [Frame offset window functions](#frame-offset-window-functions)
+  - [Challenge: Offset window functions](#challenge-offset-window-functions)
+  - [Solution: Offset window functions](#solution-offset-window-functions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Review, conclusion, and next steps
+  - [Review, conclusion, and next steps](#review-conclusion-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980)
@@ -150,6 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Windows]] (1), feature (1)
 > **Env Vars:** sql (4)
 > **Speakers:** - [ami] (1)
 > **Non-Speech:** (bright music) (1)
@@ -201,15 +202,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), database (1), data (1), [[SQL]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** type, (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Tools, Files, and Query Processing Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and demo database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980)
@@ -304,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), data (7), [[PostgreSQL|Postgres]] (4), [[Databases]] (3), [[PostgreSQL]] (2)
 > **CLI Commands:** find (4)
-> **Code Keywords:** function (1), default, (1), let (1)
 > **Env Vars:** sql (2)
 > **Tools:** notion (1), github (1)
 > **Definitions:** means that (1), is a  (1)
@@ -337,6 +338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
@@ -429,16 +431,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Fetch]] (2), application (1), next (1), [[SQL]] (1)
 > **Env Vars:** select (6), group (4), having (4), where (3), order (3)
 > **SQL:** select (6), group by (4), having (4), where (3), order by (3)
-> **Code Keywords:** let (3), case. (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Window Functions and the OVER Clause
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How window functions fit in query processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980)
@@ -529,7 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2)
+> **Frameworks & Libraries:** next (2), data (1), [[SQL]] (1)
 > **CLI Commands:** make (2), cat (1)
 > **Env Vars:** where (2), sql (1)
 > **SQL:** where (2)
@@ -631,7 +633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (2), require (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), [[PostgreSQL]] (1)
 > **Env Vars:** filter (4), where (4), max (2), count (2)
 > **SQL:** where (4)
 > **Definitions:** is a  (3)
@@ -734,7 +736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (2), case, (1), require (1)
+> **Frameworks & Libraries:** next (1), [[SQL]] (1)
 > **CLI Commands:** cat (1), find (1), make (1)
 > **Env Vars:** ascii (1), sql (1)
 > **Definitions:** is a  (2)
@@ -743,7 +745,7 @@ created: 2026-04-29
 
 ### 3. Framing, Exclusions, and Shortcuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Framing rows and ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/framing-rows-and-ranges?u=76281980)
@@ -886,8 +888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), data (2)
 > **Env Vars:** preceding (8), range (7), current (7), row (7), following (6)
-> **Code Keywords:** let (8), function (7), type, (1), require (1), type. (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), refers to (1), is a  (1)
 > **Analogies:** for example (2), similar to (1)
@@ -1018,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (6), type. (2), type, (1)
+> **Frameworks & Libraries:** data (3), database (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** previous chapter (1), coming up (1)
 > **Definitions:** is a  (2)
@@ -1121,9 +1123,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (3), next (2), functional (1), feature (1)
 > **Env Vars:** order (5), ansi (4), sql (4), null (1)
 > **SQL:** order by (5)
-> **Code Keywords:** let (2), function (1), require (1)
 > **Cross-References:** later in (1), next chapter (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -1133,7 +1135,7 @@ created: 2026-04-29
 
 ### 4. Aggregate Window Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aggregate grouped functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-grouped-functions?u=76281980)
@@ -1212,7 +1214,6 @@ created: 2026-04-29
 >
 > **SQL:** group by (4), select (4)
 > **Env Vars:** group (4), select (4)
-> **Code Keywords:** function (3), case. (1), let (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** cat (1)
 > **Documentation:** specification (1)
@@ -1305,7 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), feature (2), [[Microsoft Word|Word]] (1), [[JSON]] (1)
 > **Env Vars:** sql (2), cte (2), json (1), xml (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1403,7 +1404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (1)
+> **Frameworks & Libraries:** database (2), [[SQL]] (1)
 > **Env Vars:** count (6), sum (4), sql (1), cte (1)
 > **CLI Commands:** make (4), find (1)
 > **Warnings:** pitfall (1)
@@ -1452,8 +1453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), [[PostgreSQL|Postgres]] (2), generic (1), database (1)
 > **CLI Commands:** find (5)
-> **Code Keywords:** require (1), let (1), from. (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1519,8 +1520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Debugging]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** function (1), extends (1), case, (1)
 > **Env Vars:** cte (2)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (1)
@@ -1529,7 +1530,7 @@ created: 2026-04-29
 
 ### 5. Rank and Distribution Window Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The concept of rank
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980)
@@ -1570,10 +1571,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ansi (3), order (3), row_number (2), ntile (2), sql (1)
 > **SQL:** order by (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1686,7 +1687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (3), continue (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** cte (6)
 > **CLI Commands:** find (3), cat (1)
 > **Definitions:** is called (1)
@@ -1778,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** cat (1), find (1)
 > **Code Identifiers:** dense_rank (1)
 > **Definitions:** is a  (1)
@@ -1847,7 +1848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3)
+> **Frameworks & Libraries:** [[Probability]] (4), [[SQL]] (1), data (1)
 > **Env Vars:** cte (2), ncc (1), sql (1)
 > **Versions:** 0.0 (1), 1.0 (1), 3.13 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1880,8 +1881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
@@ -1950,7 +1951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ntile (3), cte (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** make sure to (1)
@@ -1959,7 +1960,7 @@ created: 2026-04-29
 
 ### 6. Offset Window Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Offset window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/offset-window-functions?u=76281980)
@@ -2097,8 +2098,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), data (2), [[Fetch]] (1), strengths (1), [[PostgreSQL]] (1)
 > **Env Vars:** null (5), order (4), respect (2), nulls (2), partition (2)
-> **Code Keywords:** let (4), require (1), else. (1)
 > **SQL:** order by (4)
 > **Definitions:** is a  (2), is an  (1), refers to (1)
 > **Warnings:** note that (2)
@@ -2225,7 +2226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), function (1)
+> **Frameworks & Libraries:** data (4), [[PostgreSQL|Postgres]] (2), [[Fetch]] (1), [[Microsoft Word|Word]] (1), database (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** cte (2)
 > **Warnings:** note that (2)
@@ -2253,7 +2254,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
 > **Env Vars:** rank (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -2339,9 +2339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), feature (1), next (1)
 > **Env Vars:** sql (2), coalesce (2), make_date (1), date_part (1), count (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** function (2), super (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
@@ -2349,7 +2349,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review, conclusion, and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980)
@@ -2470,9 +2470,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), career (2), [[LinkedIn]] (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Env Vars:** sql (8), dense_rank (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** we covered (1)
 > **Documentation:** stack overflow (1)
 > **Definitions:** is an  (1)

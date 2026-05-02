@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Practice-%20Window%20Functions.md)
@@ -49,21 +49,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Try your SQL programming skills
-  - What you should know
-  - Explore the lab environment
+  - [Try your SQL programming skills](#try-your-sql-programming-skills)
+  - [What you should know](#what-you-should-know)
+  - [Explore the lab environment](#explore-the-lab-environment)
 - [**1. Code Challenges**](#1-code-challenges) (5 videos)
-  - Solution: Calculate a running total
-  - Solution: Summarize weekly pay by department
-  - Solution: Rank department employees by pay
-  - Solution: Compare order totals over time
-  - Solution: Moving average
+  - [Solution: Calculate a running total](#solution-calculate-a-running-total)
+  - [Solution: Summarize weekly pay by department](#solution-summarize-weekly-pay-by-department)
+  - [Solution: Rank department employees by pay](#solution-rank-department-employees-by-pay)
+  - [Solution: Compare order totals over time](#solution-compare-order-totals-over-time)
+  - [Solution: Moving average](#solution-moving-average)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try your SQL programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980)
@@ -90,8 +90,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (6), [[Databases]] (1), database (1), management (1)
 > **Env Vars:** sql (6)
-> **Code Keywords:** function (1), let (1)
 > **Speakers:** - [scott] (1)
 
 #### What you should know
@@ -125,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), data (2), [[LinkedIn]] (2), database (1), next (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** interface (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -165,6 +165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -172,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Calculate a running total
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/solution-1-calculate-a-running-total?u=76281980)
@@ -209,7 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), for. (1)
+> **Frameworks & Libraries:** database (3), data (1)
 > **Env Vars:** sum (1), order (1)
 > **SQL:** order by (1)
 > **Speakers:** - [instructor] (1)
@@ -241,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), function (1), let (1)
+> **Frameworks & Libraries:** database (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -280,7 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -339,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** database (1), next (1)
 > **Env Vars:** cte (1)
 > **Speakers:** - [instructor] (1)
 
@@ -422,7 +423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** database (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), data (1)
 > **Env Vars:** cte (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -430,7 +431,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980)
@@ -447,6 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1), next (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 

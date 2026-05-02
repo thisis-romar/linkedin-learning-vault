@@ -30,7 +30,7 @@ tags:
   - skill/stable-diffusion
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Stable%20Diffusion-%20Tips%2C%20Tricks%2C%20and%20Techniques.md)
@@ -49,74 +49,74 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What is Stable Diffusion?
+  - [What is Stable Diffusion?](#what-is-stable-diffusion)
 - [**1. Stable Diffusion Basics**](#1-stable-diffusion-basics) (5 videos)
-  - What can you do with Stable Diffusion?
-  - What's different about Stable Diffusion?
-  - How can you access Stable Diffusion?
-  - Installing Stable Diffusion locally
-  - Using Stable Diffusion
+  - [What can you do with Stable Diffusion?](#what-can-you-do-with-stable-diffusion)
+  - [What's different about Stable Diffusion?](#whats-different-about-stable-diffusion)
+  - [How can you access Stable Diffusion?](#how-can-you-access-stable-diffusion)
+  - [Installing Stable Diffusion locally](#installing-stable-diffusion-locally)
+  - [Using Stable Diffusion](#using-stable-diffusion)
 - [**2. Digging Deeper into Stable Diffusion Prompts**](#2-digging-deeper-into-stable-diffusion-prompts) (12 videos)
-  - What does a prompt do?
-  - Stable Diffusion seeds
-  - Stable Diffusion batches and pixel counts
-  - Prompt basics
-  - Questions to answer when writing prompts
-  - PNG information and saving
-  - Using CFG scale
-  - Prompt weighting
-  - Writing prompts for series 2 models
-  - Prompt libraries and styles
-  - Interrogating an image
-  - Artist names and rendering styles
+  - [What does a prompt do?](#what-does-a-prompt-do)
+  - [Stable Diffusion seeds](#stable-diffusion-seeds)
+  - [Stable Diffusion batches and pixel counts](#stable-diffusion-batches-and-pixel-counts)
+  - [Prompt basics](#prompt-basics)
+  - [Questions to answer when writing prompts](#questions-to-answer-when-writing-prompts)
+  - [PNG information and saving](#png-information-and-saving)
+  - [Using CFG scale](#using-cfg-scale)
+  - [Prompt weighting](#prompt-weighting)
+  - [Writing prompts for series 2 models](#writing-prompts-for-series-2-models)
+  - [Prompt libraries and styles](#prompt-libraries-and-styles)
+  - [Interrogating an image](#interrogating-an-image)
+  - [Artist names and rendering styles](#artist-names-and-rendering-styles)
 - [**3. Advanced Stable Diffusion**](#3-advanced-stable-diffusion) (7 videos)
-  - Sampling and steps
-  - Automatic iterating
-  - Changing SD models
-  - Using LoRA models
-  - Using embeddings
-  - Upscaling SD images
-  - Settings and extensions
+  - [Sampling and steps](#sampling-and-steps)
+  - [Automatic iterating](#automatic-iterating)
+  - [Changing SD models](#changing-sd-models)
+  - [Using LoRA models](#using-lora-models)
+  - [Using embeddings](#using-embeddings)
+  - [Upscaling SD images](#upscaling-sd-images)
+  - [Settings and extensions](#settings-and-extensions)
 - [**4. Training and Customizing Stable Diffusion**](#4-training-and-customizing-stable-diffusion) (13 videos)
-  - img2img basics
-  - img2img options on hosted sites
-  - Using a sketch in img2img
-  - Using a photobash with img2img
-  - Changing aspect ratios with img2img
-  - Removing elements with inpainting
-  - Adding objects with inpainting
-  - Outpainting
-  - Using outpainting to resize an image
-  - Improving faces created by SD
-  - Outpainting with openOutpaint
-  - Instruct pix2pix
-  - Free handy resources
+  - [img2img basics](#img2img-basics)
+  - [img2img options on hosted sites](#img2img-options-on-hosted-sites)
+  - [Using a sketch in img2img](#using-a-sketch-in-img2img)
+  - [Using a photobash with img2img](#using-a-photobash-with-img2img)
+  - [Changing aspect ratios with img2img](#changing-aspect-ratios-with-img2img)
+  - [Removing elements with inpainting](#removing-elements-with-inpainting)
+  - [Adding objects with inpainting](#adding-objects-with-inpainting)
+  - [Outpainting](#outpainting)
+  - [Using outpainting to resize an image](#using-outpainting-to-resize-an-image)
+  - [Improving faces created by SD](#improving-faces-created-by-sd)
+  - [Outpainting with openOutpaint](#outpainting-with-openoutpaint)
+  - [Instruct pix2pix](#instruct-pix2pix)
+  - [Free handy resources](#free-handy-resources)
 - [**5. Working with ControlNet**](#5-working-with-controlnet) (9 videos)
-  - Introduction to ControlNet
-  - Installing ControlNet
-  - OpenPose in ControlNet
-  - Limitations using OpenPose
-  - Using img2img and ControlNet
-  - Choosing a ControlNet model
-  - Image size and ControlNet
-  - Other features in ControlNet
-  - OpenPose editors
+  - [Introduction to ControlNet](#introduction-to-controlnet)
+  - [Installing ControlNet](#installing-controlnet)
+  - [OpenPose in ControlNet](#openpose-in-controlnet)
+  - [Limitations using OpenPose](#limitations-using-openpose)
+  - [Using img2img and ControlNet](#using-img2img-and-controlnet)
+  - [Choosing a ControlNet model](#choosing-a-controlnet-model)
+  - [Image size and ControlNet](#image-size-and-controlnet)
+  - [Other features in ControlNet](#other-features-in-controlnet)
+  - [OpenPose editors](#openpose-editors)
 - [**6. Refining Your Workflow**](#6-refining-your-workflow) (4 videos)
-  - Using models to influence image style
-  - Inpainting and upscaling
-  - Refining with XYZ plot
-  - Complete a Stable Diffusion workflow
+  - [Using models to influence image style](#using-models-to-influence-image-style)
+  - [Inpainting and upscaling](#inpainting-and-upscaling)
+  - [Refining with XYZ plot](#refining-with-xyz-plot)
+  - [Complete a Stable Diffusion workflow](#complete-a-stable-diffusion-workflow)
 - [**7. Customization and Model Training**](#7-customization-and-model-training) (4 videos)
-  - Creating a custom model
-  - Creating models with DreamBooth
-  - Merging models
-  - Training a model using an object
+  - [Creating a custom model](#creating-a-custom-model)
+  - [Creating models with DreamBooth](#creating-models-with-dreambooth)
+  - [Merging models](#merging-models)
+  - [Training a model using an object](#training-a-model-using-an-object)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Stable Diffusion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980)
@@ -141,13 +141,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), prompt (3), ai (2), web (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. Stable Diffusion Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What can you do with Stable Diffusion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980)
@@ -216,6 +216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (14), ai (3), power (1), [[Simulation]] (1), game (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
@@ -341,7 +342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), new. (1), interface (1), case, (1), default, (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (22), [[Midjourney]] (7), [[DALL-E]] (6), data (6), ai (5)
 > **Env Vars:** dall (6)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** macos (1), ios (1)
@@ -407,10 +408,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (12), web (3), [[Hugging Face]] (3), data (3), [[Hardware]] (2)
 > **Definitions:** is a  (3), is an  (1)
 > **URLs:** [stablediffusionweb.com](https://stablediffusionweb.com) (2), [allthingsai.com](https://allthingsai.com) (1)
 > **CLI Commands:** node (1), find (1)
-> **Code Keywords:** interface (2)
 > **Code Identifiers:** ipad (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Prerequisites:** install (2)
@@ -533,10 +534,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (12), ai (7), [[Google]] (6), [[Hardware]] (4), [[Windows]] (4)
 > **Env Vars:** automatic1111 (12), lan (1)
 > **Tools:** colab (6), github (1), command line (1), terminal (1)
 > **CLI Commands:** find (5), make (2), python (1)
-> **Code Keywords:** interface (4), require (1), switch (1), for, (1), this, (1)
 > **Prerequisites:** install (4), you'll need (2), set up (1), getting started (1)
 > **Ports:** port 7860 (1), port 9090 (1)
 > **Code Identifiers:** iphone (1)
@@ -647,7 +648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (2), this, (1), yield (1), default, (1)
+> **Frameworks & Libraries:** prompt (15), [[Stable Diffusion]] (10), hit (4), web (2), ai (2)
 > **Analogies:** picture (1), for example (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **CLI Commands:** make (1)
@@ -659,7 +660,7 @@ created: 2026-04-29
 
 ### 2. Digging Deeper into Stable Diffusion Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What does a prompt do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980)
@@ -750,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[Tokens]] (7), data (5), prompt (3), ai (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** case, (1), interface (1)
 > **Env Vars:** laion (1), ascii (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -795,7 +796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (1), interface (1)
+> **Frameworks & Libraries:** prompt (4), [[Stable Diffusion]] (3), data (1)
 > **Cross-References:** as you saw (1), in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -876,8 +877,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (7), prompt (3), hit (3), ai (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** yield (1), default, (1), let (1)
 > **Env Vars:** ram (2), vram (1)
 > **URLs:** [calculateaspectratio.com](https://calculateaspectratio.com) (1)
 > **Definitions:** is a  (1)
@@ -1154,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (2), throw (2), module (1), interface (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (15), prompt (12), data (3), product (3), business (3)
 > **Versions:** 1.4 (5), 1.5 (5), 2.0 (2)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** make (4), find (1)
@@ -1296,10 +1297,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (12), [[Stable Diffusion]] (9), [[Microsoft Word|Word]] (3), product (2), web (2)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** hdr (1)
 > **Cross-References:** as we saw (1)
 > **UI Navigation:** navigate to (1)
@@ -1532,7 +1533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), this. (2), yield (2), let (1), else. (1)
+> **Frameworks & Libraries:** prompt (13), ai (4), [[Stable Diffusion]] (2), feature (1), [[Metadata]] (1)
 > **Env Vars:** automatic1111 (4), png (4), cfg (1), iptc (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -1700,7 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), else. (1), switch (1), case, (1)
+> **Frameworks & Libraries:** prompt (10), [[Stable Diffusion]] (4), ai (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** cfg (7), automatic1111 (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1870,7 +1871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), else. (1)
+> **Frameworks & Libraries:** prompt (6), [[Stable Diffusion]] (6), [[Tokens]] (2), business (1), [[Windows]] (1)
 > **Versions:** 1.5 (2), 1.3 (1), 1.2 (1), 0.1 (1), 0.2 (1)
 > **Env Vars:** automatic1111 (3), cfg (2)
 > **CLI Commands:** make (3), rails (1)
@@ -2048,8 +2049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (10), [[Stable Diffusion]] (4), data (2), hit (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Versions:** 2.1 (9), 2.0 (8), 1.5 (7), version 2 (4), 1.4 (3)
-> **Code Keywords:** switch (2), require (2), from. (1), let (1), yield (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (2), means that (1)
 > **UI Navigation:** switch to (2)
@@ -2157,10 +2158,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (16), [[Stable Diffusion]] (9), [[Search]] (4), hit (3), ai (2)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (1), for example (1), just like (1)
-> **Code Keywords:** interface (1), this. (1)
 > **URLs:** [krea.ai](https://krea.ai) (1), [art.ai](https://art.ai) (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** install (1)
@@ -2233,10 +2234,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Tokens]] (2), prompt (2), hit (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** clip (5), automatic1111 (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** super (1), throw (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2307,8 +2308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Stable Diffusion]] (4), prompt (3), [[Video Production]] (1), web (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** this. (1), else, (1), while. (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - there (1)
@@ -2316,7 +2317,7 @@ created: 2026-04-29
 
 ### 3. Advanced Stable Diffusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sampling and steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980)
@@ -2521,9 +2522,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (11), [[Stable Diffusion]] (7), business (2), [[Microsoft Word|Word]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Env Vars:** ddim (3), automatic1111 (1), plms (1)
-> **Code Keywords:** this. (2), switch (2)
 > **Cross-References:** we discussed (1), go back to (1), coming up (1)
 > **Versions:** 1.5 (1), 1.2 (1)
 > **UI Navigation:** switch to (2)
@@ -2731,7 +2732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (2), try, (1), interface (1), default, (1)
+> **Frameworks & Libraries:** prompt (17), [[Stable Diffusion]] (3), business (3), hit (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** automatic1111 (5), cfg (5), url (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -2962,7 +2963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (2), default, (1), interface (1), this, (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (8), prompt (6), data (4), ai (3), [[Midjourney]] (1)
 > **Definitions:** is a  (7), is an  (2)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** nsfw (3), dall (1), ckpt (1)
@@ -3230,7 +3231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), abstract (2), case, (2), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (5), [[Microsoft Word|Word]] (5), business (5), ai (3), data (2)
 > **Versions:** version 1 (2), 0.6 (2), 4.1 (1), 4.27 (1), 0.8 (1)
 > **Definitions:** is a  (3), is an  (2), stands for (1)
 > **CLI Commands:** find (4), make (1)
@@ -3366,7 +3367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), business (3), [[Hugging Face]] (2), data (2), application (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 3.7 (1)
@@ -3619,7 +3620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (4), throw (2), super (1), switch (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (7), ai (4), hit (4), data (4), [[Algorithms]] (3)
 > **Env Vars:** esrgan4x (1), jpeg (1), png (1), resrgan (1), ldsr (1)
 > **Definitions:** is a  (4), stands for (1)
 > **UI Navigation:** switch to (1), go to (1)
@@ -3833,8 +3834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (15), hit (8), [[GitHub]] (3), [[Google]] (2), [[Hardware]] (1)
 > **Env Vars:** automatic1111 (8), url (4), png (3), cmd (2), ctrl (1)
-> **Code Keywords:** default, (5), let (3), interface (2), return, (2), default. (1)
 > **CLI Commands:** find (8), make (2), git (1)
 > **Prerequisites:** install (8), configure (1)
 > **Tools:** github (3), colab (1), safari (1), command line (1)
@@ -3845,7 +3846,7 @@ created: 2026-04-29
 
 ### 4. Training and Customizing Stable Diffusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### img2img basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980)
@@ -4080,7 +4081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), continue (2), super (1), this, (1), throw (1)
+> **Frameworks & Libraries:** prompt (10), [[Stable Diffusion]] (4), hit (2), [[Microsoft Word|Word]] (1), business (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Env Vars:** cfg (2)
 > **Analogies:** just like (1), similar to (1)
@@ -4182,7 +4183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), default, (1)
+> **Frameworks & Libraries:** feature (6), [[Stable Diffusion]] (3), prompt (2), ai (1), hit (1)
 > **URLs:** [stable-diffusion-art.com](https://stable-diffusion-art.com) (1), [playgroundai.com](https://playgroundai.com) (1), [dezgo.com](https://dezgo.com) (1)
 > **Cross-References:** later in (1), in the last (1)
 > **CLI Commands:** find (1)
@@ -4336,7 +4337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), raise (1), try. (1), this. (1), this, (1)
+> **Frameworks & Libraries:** prompt (5), feature (4), [[Stable Diffusion]] (3), product (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cfg (3), xt3 (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
@@ -4444,8 +4445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[LinkedIn]] (1), [[Search]] (1), next (1), [[Stable Diffusion]] (1)
 > **Env Vars:** cfg (3), pixnio (1), ram (1), gpu (1), xt3 (1)
-> **Code Keywords:** throw (2), finally, (1), match, (1), let (1), this, (1)
 > **URLs:** [pixabay.com](https://pixabay.com) (1), [p-i-x-n-i-o.com](https://p-i-x-n-i-o.com) (1), [p-e-x-e-l-s.com](https://p-e-x-e-l-s.com) (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** make (2)
@@ -4636,7 +4637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), this. (1), default. (1), else. (1)
+> **Frameworks & Libraries:** prompt (6), data (3), [[Microsoft Word|Word]] (2), cd (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7), cd (1), find (1)
 > **Env Vars:** automatic1111 (2), cfg (1), png (1)
 > **Analogies:** it's like (1), just like (1), think of it as (1)
@@ -4795,8 +4796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (10), feature (4), [[Stable Diffusion]] (3), next (2), hit (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), super (1), this. (1)
 > **Env Vars:** automatic (2), png (1), cfg (1)
 > **Definitions:** is called (1), is a  (1)
 > **Versions:** 0.75 (1)
@@ -5007,7 +5008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (3), try. (2), this. (2), case, (1)
+> **Frameworks & Libraries:** prompt (8), [[Stable Diffusion]] (3), [[Google]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** cfg (2), png (1)
 > **Definitions:** is a  (3)
@@ -5231,7 +5232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), throw (1), default, (1)
+> **Frameworks & Libraries:** prompt (4), [[Microsoft Word|Word]] (1), data (1), next (1)
 > **Env Vars:** png (3), cfg (3)
 > **CLI Commands:** make (3)
 > **Best Practices:** it's best to (2), don't forget (1)
@@ -5439,7 +5440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2), interface (1), this, (1), switch (1)
+> **Frameworks & Libraries:** prompt (7), hit (2), [[Microsoft Word|Word]] (1), [[Stable Diffusion]] (1), power (1)
 > **UI Navigation:** select the (3), go to (1)
 > **Env Vars:** png (1), cfg (1), automatic1111 (1)
 > **CLI Commands:** make (2)
@@ -5635,7 +5636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1), switch (1), pass (1), else. (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), prompt (3), hit (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** gfpgan (1), cfg (1)
 > **Versions:** 1.5 (2)
@@ -5807,7 +5808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), throw (3), switch (2), let (2), this, (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), prompt (3), hit (3), [[Representational State Transfer (REST)|Rest]] (2), business (2)
 > **Code Identifiers:** openoutpaint (5)
 > **Env Vars:** automatic1111 (4), cfg (1)
 > **CLI Commands:** find (3)
@@ -6091,8 +6092,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (10), hit (2), feature (1), [[Metadata]] (1), [[Stable Diffusion]] (1)
 > **Env Vars:** cfg (15), automatic1111 (5)
-> **Code Keywords:** let (11), switch (2), raise (1), try. (1), this, (1)
 > **CLI Commands:** make (11), find (3)
 > **Definitions:** is called (1), means that (1), is a  (1)
 > **Prerequisites:** install (3)
@@ -6183,8 +6184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (10), ai (5), web (3), [[Adobe Creative Cloud]] (1), node (1)
 > **CLI Commands:** make (5), find (1), node (1)
-> **Code Keywords:** throw (5), let (1), this, (1)
 > **Definitions:** is a  (4), is an  (1)
 > **URLs:** [clipdrop.co](https://clipdrop.co) (1), [stability.ai](https://stability.ai) (1), [nero.com](https://nero.com) (1), [photopea.com](https://photopea.com) (1)
 > **Env Vars:** nvidia (2)
@@ -6195,7 +6196,7 @@ created: 2026-04-29
 
 ### 5. Working with ControlNet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ControlNet
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980)
@@ -6582,7 +6583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (3), finally. (1), switch (1), default, (1)
+> **Frameworks & Libraries:** prompt (9), [[Stable Diffusion]] (9), next (2), data (2), product (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** vram (2), hed (1), ram (1)
@@ -6688,9 +6689,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), hit (2), [[Search]] (2), web (2), ai (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** automatic1111 (4)
-> **Code Keywords:** this, (1), from. (1), this. (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (2)
@@ -7038,7 +7039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this, (6), case, (2), from. (2), for. (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (6), prompt (5), node (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **CLI Commands:** make (3), node (2)
 > **Analogies:** picture (2), just like (1), kind of like (1)
 > **Env Vars:** cfg (3)
@@ -7128,7 +7129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), prompt (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
@@ -7243,8 +7244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), prompt (2), next (2), generic (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** throw (2), let (1), interface (1)
 > **Env Vars:** sks (2), automatic1111 (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
@@ -7392,7 +7393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), switch (1), match. (1), super (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), prompt (1), [[Stable Diffusion]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mlsd (6), hed (5)
 > **Cross-References:** go back to (1), in the last (1)
 > **Prerequisites:** set up (1), install (1)
@@ -7466,7 +7467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), switch (1), for. (1)
+> **Frameworks & Libraries:** node (1)
 > **CLI Commands:** find (1), node (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Definitions:** is a  (2)
@@ -7543,9 +7544,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[Algorithms]] (1), feature (1), [[Stable Diffusion]] (1), ai (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** rgb (1), bgr (1), cfg (1)
-> **Code Keywords:** interface (1), let (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.25 (1)
 > **UI Navigation:** click on (1)
@@ -7767,7 +7768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (3), this, (2), for. (1), this. (1)
+> **Frameworks & Libraries:** prompt (5), hit (3), [[Stable Diffusion]] (2), [[Search]] (1), node (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **UI Navigation:** click on (3), switch to (2), go to (1)
 > **Definitions:** is a  (5)
@@ -7779,7 +7780,7 @@ created: 2026-04-29
 
 ### 6. Refining Your Workflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using models to influence image style
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980)
@@ -7988,7 +7989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), super (3), switch (2), else, (1), throw (1)
+> **Frameworks & Libraries:** prompt (7), [[Stable Diffusion]] (3), data (2), web (2), hit (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1), we talked about (1)
 > **Best Practices:** recommended (1), remember to (1)
@@ -8122,7 +8123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (3), super (1), this, (1), switch (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Zoom]] (1), hit (1), [[Stable Diffusion]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** go to (1), switch to (1)
@@ -8270,8 +8271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), cloud (1), hit (1), prompt (1)
 > **Env Vars:** cfg (5), ddim (2), dpm (1)
-> **Code Keywords:** let (4), this, (1), try. (1), this. (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (2)
@@ -8284,7 +8285,7 @@ created: 2026-04-29
 
 ### 7. Customization and Model Training
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a custom model
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980)
@@ -8517,9 +8518,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), ai (9), [[Stable Diffusion]] (8), web (3), business (2)
 > **CLI Commands:** make (3), find (2)
 > **URLs:** [astria.ai](https://astria.ai) (4), [astria.com](https://astria.com) (1)
-> **Code Keywords:** let (2), this. (1), else. (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 1.50 (2)
 > **Analogies:** imagine (1), for example (1)
@@ -8883,7 +8884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (3), else. (2), yield (1), while. (1)
+> **Frameworks & Libraries:** ai (6), prompt (6), hit (2), data (2), [[Windows]] (2)
 > **Definitions:** is a  (8), is an  (1)
 > **CLI Commands:** find (5), make (3)
 > **Env Vars:** gpu (4), vram (1), ram (1)
@@ -9053,8 +9054,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), ai (2), hit (2), feature (1), [[Microsoft Word|Word]] (1)
 > **Versions:** 0.05 (2), 0.95 (1), 0.75 (1), 0.25 (1), 0.6 (1)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **URLs:** [astria.ai](https://astria.ai) (1)
@@ -9239,7 +9240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class, (1), interface (1), throw (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), prompt (3), [[Microsoft Word|Word]] (3), business (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** it's like (1), just like (1)
 > **Definitions:** is a  (1)
@@ -9248,7 +9249,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980)
@@ -9285,8 +9286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[LinkedIn]] (1), data (1), next (1)
 > **Versions:** 1.5 (4), version 3 (1)
-> **Code Keywords:** continue (2)
 > **Speakers:** - i (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - topic/devops
   - skill/terraform
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Advanced%20Terraform.md)
@@ -47,48 +47,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Introduction to Advanced Terraform
-  - What you should know
-  - Terraform review and terminology
-  - Exercise files
+  - [Introduction to Advanced Terraform](#introduction-to-advanced-terraform)
+  - [What you should know](#what-you-should-know)
+  - [Terraform review and terminology](#terraform-review-and-terminology)
+  - [Exercise files](#exercise-files)
 - [**1. Creating a New Terraform Configuration**](#1-creating-a-new-terraform-configuration) (7 videos)
-  - Practical Terraform
-  - Google Cloud and Terraform: Tools and setup
-  - Designing a cloud infrastructure in Terraform
-  - Terraform configuration overview
-  - Deploying the Terraform configuration
-  - Review deployed resources
-  - Destroying resources
+  - [Practical Terraform](#practical-terraform)
+  - [Google Cloud and Terraform: Tools and setup](#google-cloud-and-terraform-tools-and-setup)
+  - [Designing a cloud infrastructure in Terraform](#designing-a-cloud-infrastructure-in-terraform)
+  - [Terraform configuration overview](#terraform-configuration-overview)
+  - [Deploying the Terraform configuration](#deploying-the-terraform-configuration)
+  - [Review deployed resources](#review-deployed-resources)
+  - [Destroying resources](#destroying-resources)
 - [**2. Intermediate Terraform Concepts**](#2-intermediate-terraform-concepts) (9 videos)
-  - Input variables
-  - Using input variables
-  - Output variables
-  - Sensitive data
-  - Looping with count
-  - Looping with for_each
-  - Expressions and functions
-  - Introduction to modules
-  - Using Terraform modules
+  - [Input variables](#input-variables)
+  - [Using input variables](#using-input-variables)
+  - [Output variables](#output-variables)
+  - [Sensitive data](#sensitive-data)
+  - [Looping with count](#looping-with-count)
+  - [Looping with for_each](#looping-with-for_each)
+  - [Expressions and functions](#expressions-and-functions)
+  - [Introduction to modules](#introduction-to-modules)
+  - [Using Terraform modules](#using-terraform-modules)
 - [**3. Advanced Terraform Concepts**](#3-advanced-terraform-concepts) (5 videos)
-  - Analyzing a module
-  - Custom modules
-  - Terraform remote state overview
-  - Deploying backend resources
-  - Deploying a remote state configuration
+  - [Analyzing a module](#analyzing-a-module)
+  - [Custom modules](#custom-modules)
+  - [Terraform remote state overview](#terraform-remote-state-overview)
+  - [Deploying backend resources](#deploying-backend-resources)
+  - [Deploying a remote state configuration](#deploying-a-remote-state-configuration)
 - [**4. Terraform Automation**](#4-terraform-automation) (7 videos)
-  - Multiple environment configurations
-  - Terraform CI/CD options
-  - Terraform Cloud setup
-  - Deploying with Terraform Cloud
-  - GitOps CI/CD setup
-  - GitOps CI/CD with Terraform Cloud
-  - Deprecating resources
+  - [Multiple environment configurations](#multiple-environment-configurations)
+  - [Terraform CI/CD options](#terraform-cicd-options)
+  - [Terraform Cloud setup](#terraform-cloud-setup)
+  - [Deploying with Terraform Cloud](#deploying-with-terraform-cloud)
+  - [GitOps CI/CD setup](#gitops-cicd-setup)
+  - [GitOps CI/CD with Terraform Cloud](#gitops-cicd-with-terraform-cloud)
+  - [Deprecating resources](#deprecating-resources)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Advanced Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980)
@@ -119,8 +119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (5), application (5), [[DevOps]] (2), web application (1), data (1)
 > **CLI Commands:** terraform (5)
-> **Code Keywords:** private (1), let (1)
 > **Speakers:** - [dave] (1)
 
 #### What you should know
@@ -158,11 +158,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (10), [[GitHub]] (4), [[Git]] (3), [[Software Development]] (3), [[Programming]] (2)
 > **CLI Commands:** terraform (10), git (3)
 > **Tools:** github (4), command line (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** cli (1), cicd (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Terraform review and terminology
@@ -240,10 +240,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (15), cloud (5), data (2), [[GitHub]] (1), [[Java]] (1)
 > **CLI Commands:** terraform (15), make (2)
 > **Env Vars:** hcl (4), yaml (1), json (1), gcp (1), sql (1)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** let (2), static (1), public (1), module (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -391,19 +391,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (11), [[Git]] (10), [[CLI]] (6), cloud (4), [[Terraform]] (3)
 > **CLI Commands:** git (10), make (4), terraform (3), cd (1), ls (1)
 > **Tools:** github (11), visual studio (3), terminal (3), command line (1)
 > **Env Vars:** cli (6), gcp (1), https (1), url (1)
 > **Prerequisites:** you'll need (7)
 > **Exercise Files:** exercise files (4), download the (1)
-> **Code Keywords:** private (2), switch (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Definitions:** is a  (1), means that (1)
 
 
 ### 1. Creating a New Terraform Configuration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practical Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980)
@@ -438,8 +438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (5), cloud (5), application (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** terraform (5), make (3)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -614,12 +614,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (14), cloud (10), [[Terraform]] (9), gcp (6), [[CLI]] (6)
 > **Tools:** terminal (10), visual studio (7), gcp console (3), github (2)
 > **CLI Commands:** terraform (9), find (5), make (3), gcloud (3), git (1)
 > **Env Vars:** gcp (6), cli (6), iac (2), sdk (1), https (1)
 > **UI Navigation:** go to (6), dropdown (2), open the (1), select the (1), switch to (1)
 > **Prerequisites:** you'll need (6), install (3), configure (1), setup (1)
-> **Code Keywords:** switch (1), this, (1), case, (1), let (1)
 > **File Paths:** gcp_commands.md (1), gcpcommands.md (1)
 > **URLs:** [google.com](https://google.com) (1), [terraform.io](https://terraform.io) (1)
 
@@ -686,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), private (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** cloud (9), application (4), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), gcp (2)
 > **Env Vars:** vpc (4), nginx (3), gcp (2)
 > **CLI Commands:** nginx (3), terraform (2), mysql (1), find (1), make (1)
 > **Definitions:** is a  (2), defined as (1)
@@ -782,9 +782,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (9), [[Git]] (5), next (5), data (5), gcp (3)
 > **CLI Commands:** terraform (9), git (5), find (1), mysql (1)
 > **Env Vars:** vpc (4), gcp (3), cli (1), http (1)
-> **Code Keywords:** public (3), let (2), type, (1), finally, (1)
 > **Definitions:** is a  (3), refers to (1)
 > **UI Navigation:** open the (2)
 > **Exercise Files:** exercise files (1), download the (1)
@@ -936,8 +936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (28), [[JSON]] (4), cloud (3), data (3), gcp (2)
 > **CLI Commands:** terraform (28), make (2), find (1), cd (1)
-> **Code Keywords:** let (4), default, (2), module (1), else. (1)
 > **Env Vars:** json (3), gcp (2), vpc (2), cli (1)
 > **Definitions:** is a  (6), known as (1)
 > **UI Navigation:** open the (1), dropdown (1), scroll up (1)
@@ -980,9 +980,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (2), data (1)
 > **Env Vars:** vpc (5), gcp (2), ssh (1)
 > **UI Navigation:** go to (2), open the (1), click on (1), select the (1)
-> **Code Keywords:** let (3), public (1)
 > **CLI Commands:** nginx (1), ssh (1)
 > **Tools:** gcp console (2)
 > **Cross-References:** go back to (1)
@@ -1060,8 +1060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (6), gcp (3), hit (1), next (1)
 > **CLI Commands:** terraform (6), make (1)
-> **Code Keywords:** delete (3), let (2), continue (1)
 > **Env Vars:** gcp (3), iam (1)
 > **Cross-References:** later in (1), next video (1)
 > **Tools:** terminal (1), gcp console (1)
@@ -1072,7 +1072,7 @@ created: 2026-04-29
 
 ### 2. Intermediate Terraform Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Input variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980)
@@ -1213,8 +1213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (12), next (2), [[Git]] (1), [[Microsoft Word|Word]] (1), prompt (1)
 > **CLI Commands:** terraform (12), make (2), git (1), find (1)
-> **Code Keywords:** let (4), switch (3), var (3), module (1), type. (1)
 > **Tools:** command line (4), visual studio (1), terminal (1)
 > **UI Navigation:** switch to (1), open the (1), select the (1)
 > **Code Identifiers:** private_google_access (1), ip_cidr_range (1)
@@ -1373,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), let (5), var (2), throw (1), type, (1)
+> **Frameworks & Libraries:** [[Git]] (3), application (2), [[Terraform]] (2)
 > **CLI Commands:** make (4), git (3), terraform (2), find (1)
 > **Non-Speech:** (keyboard gently clicking) (7)
 > **Definitions:** is a  (4)
@@ -1499,8 +1499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (13), web (2), [[Google]] (2), gcp (1), [[Git]] (1)
 > **CLI Commands:** terraform (13), nginx (7), find (2), make (2), git (1)
-> **Code Keywords:** let (8), interface (6), public (4), type. (2), pass (1)
 > **Env Vars:** nginx (4), gcp (1)
 > **Code Identifiers:** network_interface (1), nat_ip (1)
 > **Tools:** terminal (2)
@@ -1603,9 +1603,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (13), [[SQL]] (5), cloud (4), data (2), [[Git]] (2)
 > **CLI Commands:** terraform (13), git (2), mysql (1), gcloud (1), cd (1)
 > **Non-Speech:** (keyboard clicking) (10), (mouse clicking) (3)
-> **Code Keywords:** let (3), this, (2), require (1), finally, (1), this. (1)
 > **Env Vars:** sql (5)
 > **UI Navigation:** scroll up (2), scroll down (1), click on (1)
 > **URLs:** [goodleapis.com](https://goodleapis.com) (1)
@@ -1791,8 +1791,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (16), [[Terraform]] (9), [[Git]] (6), [[Google]] (2), [[Programming]] (1)
 > **CLI Commands:** terraform (9), git (6), make (4), gcloud (1), find (1)
-> **Code Keywords:** let (7), private (2), delete (1), function (1), type. (1)
 > **Definitions:** is a  (3), is called (1)
 > **Tools:** terminal (2), gcp console (1)
 > **Code Identifiers:** network_interface (1), network_ip (1)
@@ -1877,7 +1877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), type, (1)
+> **Frameworks & Libraries:** web (4), [[Git]] (2), data (1), [[Google]] (1), [[Terraform]] (1)
 > **UI Navigation:** go to (2), scroll down (1), scroll up (1)
 > **CLI Commands:** git (2), terraform (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2043,8 +2043,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (14), [[CLI]] (2), prompt (2), next (2), [[Java]] (1)
 > **CLI Commands:** terraform (14)
-> **Code Keywords:** let (8), function (2), interface (2), else, (1), default. (1)
 > **Env Vars:** repl (5), hcl (4), cli (2), dsl (1), json (1)
 > **Definitions:** is a  (4), is an  (2), stands for (1), is called (1)
 > **Analogies:** similar to (1), it's like (1)
@@ -2121,7 +2121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (18), public (3), let (3), self (1), default, (1)
+> **Frameworks & Libraries:** [[Terraform]] (11), [[GitHub]] (3), gcp (2), cloud (2), generic (1)
 > **CLI Commands:** terraform (11), find (2), git (1)
 > **Env Vars:** hcl (2), gcp (2), gke (1), http (1), readme (1)
 > **Tools:** github (3)
@@ -2243,7 +2243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (13), let (5), function (2), switch (1), case, (1)
+> **Frameworks & Libraries:** [[Terraform]] (7), gcp (2), next (2), [[Git]] (1), [[Databases]] (1)
 > **CLI Commands:** terraform (7), git (1), find (1), make (1)
 > **Code Identifiers:** environment_list (2), project_id (1), project_roles (1), objectviewer (1)
 > **Env Vars:** gcp (2), iam (2), cli (1)
@@ -2255,7 +2255,7 @@ created: 2026-04-29
 
 ### 3. Advanced Terraform Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyzing a module
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980)
@@ -2438,7 +2438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (20), function (6), abstract (1), public (1), let (1)
+> **Frameworks & Libraries:** [[Terraform]] (10), next (4), data (3), product (3), [[GitHub]] (2)
 > **CLI Commands:** terraform (10), make (1)
 > **Code Identifiers:** grant_billing_role (2), billing_account_id (2), for_each (2), service_accounts (1), account_billing (1)
 > **Env Vars:** true (4), blank (2), cli (1), set (1), xpn (1)
@@ -2572,7 +2572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (31), let (4)
+> **Frameworks & Libraries:** [[Terraform]] (3), [[Git]] (1), [[Google]] (1), web (1), next (1)
 > **Code Identifiers:** for_each (4), service_accounts (2), service_account (2), server_settings (1)
 > **CLI Commands:** terraform (3), git (1), find (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -2634,9 +2634,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (15), teams (1), feature (1), [[CLI]] (1), [[Databases]] (1)
 > **CLI Commands:** terraform (15)
 > **Env Vars:** gcs (4), cli (1)
-> **Code Keywords:** default, (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2690,10 +2690,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (8), gcp (3), [[CLI]] (2), cd (1), cloud (1)
 > **CLI Commands:** terraform (8), gcloud (1), cd (1)
 > **Env Vars:** gcs (5), gcp (3), cli (2)
 > **UI Navigation:** click on (3), switch to (1), open the (1), go to (1)
-> **Code Keywords:** let (2), switch (1)
 > **Tools:** gcp console (3)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** set up (2)
@@ -2794,8 +2794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (12), [[Representational State Transfer (REST)|Rest]] (3), data (2), [[Git]] (1), feature (1)
 > **CLI Commands:** terraform (12), git (1), cd (1)
-> **Code Keywords:** let (2), switch (1), protected (1)
 > **Env Vars:** gcs (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -2806,7 +2806,7 @@ created: 2026-04-29
 
 ### 4. Terraform Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multiple environment configurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980)
@@ -2867,8 +2867,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (3), ci (2), cd (2), functional (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** terraform (3), cd (2), make (1), git (1)
-> **Code Keywords:** pass (2), let (1)
 > **Env Vars:** cli (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** source code (1)
@@ -2948,11 +2948,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (23), cloud (14), [[GitHub]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Git]] (3)
 > **CLI Commands:** terraform (23), git (3), node (1)
 > **Env Vars:** cicd (12), git (3), gcp (2), cli (1)
 > **Tools:** github (6), gitlab (2)
 > **Prerequisites:** set up (2), required to (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -3206,11 +3206,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (26), cloud (20), [[GitHub]] (20), [[Version Control]] (6), [[Git]] (3)
 > **CLI Commands:** terraform (26), git (3), make (2), ssh (1), cat (1)
 > **Tools:** github (20), terminal (4), gitlab (1), command line (1)
 > **Env Vars:** cli (3), vcs (3), cicd (2), url (2), api (1)
 > **UI Navigation:** go to (5), select the (4), switch to (1), click on (1)
-> **Code Keywords:** switch (3), case, (1), continue (1), type, (1)
 > **Code Identifiers:** tf_sa_key (2), gcp_commands (1), capitalproject_id (1), target_environment (1)
 > **Prerequisites:** set up (2), you'll need (1), configure (1)
 > **URLs:** [github.com](https://github.com) (2), [terraform.io](https://terraform.io) (1)
@@ -3268,9 +3268,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (7), cloud (6), gcp (1), [[CLI]] (1), ci (1)
 > **CLI Commands:** terraform (7), cd (1)
 > **UI Navigation:** scroll down (2), go to (1)
-> **Code Keywords:** require (1), let (1)
 > **Env Vars:** gcp (1), cli (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Tools:** gcp console (1)
@@ -3514,11 +3514,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (26), cloud (15), gcp (10), [[GitHub]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (4)
 > **CLI Commands:** terraform (26), cd (3), find (2), make (1), git (1)
 > **UI Navigation:** go to (8), scroll down (3), switch to (2), dropdown (2), select the (2)
 > **Env Vars:** gcp (10), api (2), url (1)
 > **Tools:** github (8), gcp console (3)
-> **Code Keywords:** switch (4), let (3), interface (1), module (1)
 > **Prerequisites:** set up (6), you'll need (2)
 > **Code Identifiers:** cicd_bootstrap (3), tf_cloud_token (1), repo_hook (1), tf_cloud_workspaces (1), target_environment (1)
 > **Definitions:** is a  (2), means that (1)
@@ -3748,8 +3748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (17), cloud (10), [[GitHub]] (10), [[Redis]] (6), application (4)
 > **CLI Commands:** terraform (17), make (3), git (2)
-> **Code Keywords:** switch (7), let (4), this. (1), continue (1), return, (1)
 > **Tools:** github (10), terminal (1), gcp console (1)
 > **UI Navigation:** dropdown (4), go to (3), switch to (2), navigate to (1)
 > **Env Vars:** gcp (3), cicd (1), cli (1)
@@ -3898,10 +3898,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (7), [[GitHub]] (7), cloud (7), web (6), database (5)
 > **Env Vars:** mig (8), gcp (5), nginx (3), cli (2), cicd (1)
 > **CLI Commands:** terraform (7), nginx (3), make (2), git (1), find (1)
 > **UI Navigation:** go to (6), switch to (2), dropdown (2), select the (1), scroll down (1)
-> **Code Keywords:** switch (4), module (3), let (2), this, (1)
 > **Tools:** github (7)
 > **Exercise Files:** template (7)
 > **Code Identifiers:** instance_service_account (2), vm_mig (1)
@@ -3910,7 +3910,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980)
@@ -3965,9 +3965,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (13), ci (5), cd (5), cloud (3), [[GitHub]] (2)
 > **CLI Commands:** terraform (13), cd (5)
 > **Tools:** github (2), gitlab (1)
-> **Code Keywords:** let (1), static (1)
 > **Cross-References:** next chapter (1), we discussed (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)

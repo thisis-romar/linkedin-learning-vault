@@ -31,7 +31,7 @@ tags:
   - skill/data-engineering
   - skill/career-transitioning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Transition%20from%20Data%20Science%20to%20Data%20Engineering.md)
@@ -50,33 +50,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Becoming a data engineer
+  - [Becoming a data engineer](#becoming-a-data-engineer)
 - [**1. Fundamentals of Data Engineering**](#1-fundamentals-of-data-engineering) (4 videos)
-  - From data scientist to data engineer
-  - How data science differs from data engineering
-  - Using data to problem-solve
-  - Role of a data engineer
+  - [From data scientist to data engineer](#from-data-scientist-to-data-engineer)
+  - [How data science differs from data engineering](#how-data-science-differs-from-data-engineering)
+  - [Using data to problem-solve](#using-data-to-problem-solve)
+  - [Role of a data engineer](#role-of-a-data-engineer)
 - [**2. Understanding the Data Repository**](#2-understanding-the-data-repository) (4 videos)
-  - Introduction to data warehouse
-  - Benefits and different aspects of data warehouse
-  - Introduction to data lake
-  - Benefits and different aspects of data lake
+  - [Introduction to data warehouse](#introduction-to-data-warehouse)
+  - [Benefits and different aspects of data warehouse](#benefits-and-different-aspects-of-data-warehouse)
+  - [Introduction to data lake](#introduction-to-data-lake)
+  - [Benefits and different aspects of data lake](#benefits-and-different-aspects-of-data-lake)
 - [**3. Data Processing, Security, and Compliance**](#3-data-processing-security-and-compliance) (3 videos)
-  - Data pipelines and the ETL process
-  - Different types of pipelines
-  - Importance of data security and measures to be taken
+  - [Data pipelines and the ETL process](#data-pipelines-and-the-etl-process)
+  - [Different types of pipelines](#different-types-of-pipelines)
+  - [Importance of data security and measures to be taken](#importance-of-data-security-and-measures-to-be-taken)
 - [**4. Cloud Computing for Data Engineers**](#4-cloud-computing-for-data-engineers) (2 videos)
-  - Introduction to cloud computing
-  - Various cloud platforms to explore
+  - [Introduction to cloud computing](#introduction-to-cloud-computing)
+  - [Various cloud platforms to explore](#various-cloud-platforms-to-explore)
 - [**5. Do Not Underestimate Data Quality and Data Governance**](#5-do-not-underestimate-data-quality-and-data-governance) (2 videos)
-  - Why is data quality important?
-  - Why is data governance important?
+  - [Why is data quality important?](#why-is-data-quality-important)
+  - [Why is data governance important?](#why-is-data-governance-important)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Shift from data scientist to data engineer
+  - [Shift from data scientist to data engineer](#shift-from-data-scientist-to-data-engineer)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980)
@@ -99,15 +99,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [pooja] (1)
 
 
 ### 1. Fundamentals of Data Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From data scientist to data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980)
@@ -140,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Algorithms]] (1), [[Decision-Making]] (1), [[Scalability]] (1), [[Programming]] (1)
 > **CLI Commands:** python (1), apache (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -209,8 +210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (39), [[Data Engineering]] (3), [[Decision-Making]] (2), [[Programming]] (2), [[Algorithms]] (2)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [presenter] (1)
@@ -282,10 +283,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Business Intelligence (BI)|Business intelligence]] (1), business (1), next (1), [[Security]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1), such as (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Role of a data engineer
@@ -353,15 +354,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), [[Data Engineering]] (7), [[Databases]] (2), [[Scalability]] (2), [[Apache Spark]] (2)
 > **CLI Commands:** apache (3), make (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Understanding the Data Repository
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980)
@@ -408,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Data Engineering]] (1), [[Databases]] (1), next (1), etl (1)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** crm (1), etl (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -468,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[Decision-Making]] (1), [[Analytics]] (1), [[Privacy]] (1), [[Security]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** edl (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -512,9 +513,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), cloud (2), [[Microsoft Azure|Azure]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Data Transformation]] (1)
 > **CLI Commands:** apache (2)
 > **Analogies:** think of it as (1), such as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** iot (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -552,13 +553,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (24), management (4), [[Scalability]] (2), [[Metadata]] (2), cloud (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Data Processing, Security, and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data pipelines and the ETL process
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980)
@@ -643,10 +644,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (52), etl (12), [[Databases]] (4), [[Data Transformation]] (3), business (2)
 > **Env Vars:** etl (12)
 > **Analogies:** such as (2), imagine (1), it's like (1)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** let (1), require (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -723,9 +724,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (42), [[Data Engineering]] (3), management (2), etl (2), [[Databases]] (2)
 > **CLI Commands:** apache (8), make (1)
 > **Env Vars:** etl (2), elt (2)
-> **Code Keywords:** let (1), require (1), continue (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -794,6 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Security]] (9), power (2), [[Digital Transformation]] (1), [[Data Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -801,7 +803,7 @@ created: 2026-04-29
 
 ### 4. Cloud Computing for Data Engineers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980)
@@ -860,6 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), cloud (14), [[Data Engineering]] (5), [[Security]] (3), [[Scalability]] (2)
 > **Env Vars:** aws (2), ec2 (1), vpc (1), rds (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (1), for example (1)
@@ -909,8 +912,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), data (6), [[Analytics]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Microsoft Azure]] (2)
 > **Env Vars:** gcp (2), aws (1), ec2 (1), emr (1)
-> **Code Keywords:** let (1), public (1), lambda (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -918,7 +921,7 @@ created: 2026-04-29
 
 ### 5. Do Not Underestimate Data Quality and Data Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is data quality important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980)
@@ -975,8 +978,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (41), [[Data Engineering]] (4), business (2), [[Metadata]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Why is data governance important?
@@ -1032,14 +1035,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (50), management (5), [[Security]] (3), business (2), [[Privacy]] (2)
 > **Env Vars:** gdpr (1), hipaa (1), ccp (1)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shift from data scientist to data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980)
@@ -1078,6 +1081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Data Engineering]] (4), power (1), [[Hadoop]] (1), cloud (1)
 > **CLI Commands:** apache (1), aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

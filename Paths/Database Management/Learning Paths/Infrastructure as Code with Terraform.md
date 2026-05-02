@@ -7,31 +7,35 @@ course_count: 3
 linkedin_topics:
   - Database Management
   - DevOps
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/database-management
   - topic/devops
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-02T20:35:52.277Z
+activity_total: 2
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[DevOps Foundations- Infrastructure as Code]]'
-    last_opened: null
+  - course: "[[DevOps Foundations- Infrastructure as Code]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Learning Terraform]]'
-    last_opened: null
+  - course: "[[Learning Terraform]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Advanced Terraform]]'
-    last_opened: null
+  - course: "[[Advanced Terraform]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-04-29'
+  - course: devops-foundations-infrastructure-as-code-18965758
+    last_opened: 2026-05-02T20:35:52.277Z
+    open_count: 2
+    videos: []
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Database%20Management/Learning%20Paths/Infrastructure%20as%20Code%20with%20Terraform.md)

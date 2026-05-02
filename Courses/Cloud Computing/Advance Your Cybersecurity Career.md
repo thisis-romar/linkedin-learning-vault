@@ -33,7 +33,7 @@ tags:
   - skill/career-development
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advance%20Your%20Cybersecurity%20Career.md)
@@ -52,26 +52,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - To maintain longevity, you need to keep learning
+  - [To maintain longevity, you need to keep learning](#to-maintain-longevity-you-need-to-keep-learning)
 - [**1. Your Cybersecurity Role Has Become Mundane**](#1-your-cybersecurity-role-has-become-mundane) (4 videos)
-  - Self-evaluate your cybersecurity career
-  - Ask questions that align with your organization's mission
-  - Review your cybersecurity documentation
-  - Learn the importance of KPIs and metrics in cybersecurity
+  - [Self-evaluate your cybersecurity career](#self-evaluate-your-cybersecurity-career)
+  - [Ask questions that align with your organization's mission](#ask-questions-that-align-with-your-organizations-mission)
+  - [Review your cybersecurity documentation](#review-your-cybersecurity-documentation)
+  - [Learn the importance of KPIs and metrics in cybersecurity](#learn-the-importance-of-kpis-and-metrics-in-cybersecurity)
 - [**2. Advance Your Cybersecurity Career**](#2-advance-your-cybersecurity-career) (4 videos)
-  - Continuously learn new skills
-  - Complete cybersecurity projects to advance your career
-  - Become a SME for your role
-  - Engage in meetings to stand out
+  - [Continuously learn new skills](#continuously-learn-new-skills)
+  - [Complete cybersecurity projects to advance your career](#complete-cybersecurity-projects-to-advance-your-career)
+  - [Become a SME for your role](#become-a-sme-for-your-role)
+  - [Engage in meetings to stand out](#engage-in-meetings-to-stand-out)
 - [**3. Improve Your Soft Skills**](#3-improve-your-soft-skills) (2 videos)
-  - Improve your soft skills
-  - Networking soft skills
+  - [Improve your soft skills](#improve-your-soft-skills)
+  - [Networking soft skills](#networking-soft-skills)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Excel and advance in your career
+  - [Excel and advance in your career](#excel-and-advance-in-your-career)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### To maintain longevity, you need to keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), career (4), [[LinkedIn]] (1), game (1)
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - there (1)
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Your Cybersecurity Role Has Become Mundane
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Self-evaluate your cybersecurity career
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/self-evaluate-your-cybersecurity-career?u=76281980)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** career (5), management (1), strengths (1), game (1), [[Security]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - do (1)
 
@@ -218,8 +218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (1), business (1), teams (1), career (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review your cybersecurity documentation
@@ -283,9 +283,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Technical Documentation]] (3), [[Cybersecurity]] (1), teams (1), business (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
-> **Code Keywords:** for. (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - writing (1)
@@ -321,8 +321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), business (1), [[Security]] (1), [[Orchestration]] (1), [[Automation]] (1)
 > **Env Vars:** soc (2), kpi (1), soar (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
@@ -331,7 +331,7 @@ created: 2026-04-29
 
 ### 2. Advance Your Cybersecurity Career
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuously learn new skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980)
@@ -400,8 +400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Soft Skills]] (1), [[IoT]] (1), cloud (1), [[Cybersecurity]] (1)
 > **Env Vars:** siem (2), iot (1), edr (1), soar (1), xsoar (1)
-> **Code Keywords:** self (2)
 > **Code Identifiers:** epo (1), elearning (1)
 > **Analogies:** just like (1)
 > **Speakers:** - my (1)
@@ -445,8 +445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), career (1), business (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** module (1)
 > **Env Vars:** soar (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - to (1)
@@ -496,8 +496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), [[Search]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** soc (1)
 > **Speakers:** - whatever (1)
 
@@ -526,12 +526,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Zoom]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Improve Your Soft Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your soft skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980)
@@ -598,7 +599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), function (1), super (1), pass (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (9), teams (2), [[Cybersecurity]] (1), business (1), management (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.0 (1)
 > **Tools:** slack (1)
@@ -669,6 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Security]] (6), career (5), [[Search]] (2), [[Soft Skills]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cnbc (1)
 > **Definitions:** is a  (1)
@@ -677,7 +679,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Excel and advance in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/excel-and-advance-in-your-career?u=76281980)
@@ -702,6 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), game (1)
 > **Speakers:** - now (1)
 
 

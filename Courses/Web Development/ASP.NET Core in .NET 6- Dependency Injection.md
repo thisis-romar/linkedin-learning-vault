@@ -31,7 +31,7 @@ tags:
   - skill/asp-net-core
   - skill/dependency-injection
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ASP.NET%20Core%20in%20.NET%206-%20Dependency%20Injection.md)
@@ -50,34 +50,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Dependency injection overview
-  - What you should know
-  - Setting up your environment
+  - [Dependency injection overview](#dependency-injection-overview)
+  - [What you should know](#what-you-should-know)
+  - [Setting up your environment](#setting-up-your-environment)
 - [**1. What Is Dependency Injection?**](#1-what-is-dependency-injection) (2 videos)
-  - What is dependency injection?
-  - Service lifetimes
+  - [What is dependency injection?](#what-is-dependency-injection)
+  - [Service lifetimes](#service-lifetimes)
 - [**2. Configuring Dependency Injection in ASP.NET Core**](#2-configuring-dependency-injection-in-aspnet-core) (3 videos)
-  - Setting up the services
-  - How to configure dependency injection
-  - Other dependency injection configuration methods
+  - [Setting up the services](#setting-up-the-services)
+  - [How to configure dependency injection](#how-to-configure-dependency-injection)
+  - [Other dependency injection configuration methods](#other-dependency-injection-configuration-methods)
 - [**3. Using Dependency Injection in ASP.NET Core**](#3-using-dependency-injection-in-aspnet-core) (6 videos)
-  - How to inject services into a controller
-  - Inject services in other components of a web application
-  - How to set up a hosted service
-  - Disposing of a service
-  - Challenge: Set up an application using dependency injection
-  - Solution: Set up an application using dependency injection
+  - [How to inject services into a controller](#how-to-inject-services-into-a-controller)
+  - [Inject services in other components of a web application](#inject-services-in-other-components-of-a-web-application)
+  - [How to set up a hosted service](#how-to-set-up-a-hosted-service)
+  - [Disposing of a service](#disposing-of-a-service)
+  - [Challenge: Set up an application using dependency injection](#challenge-set-up-an-application-using-dependency-injection)
+  - [Solution: Set up an application using dependency injection](#solution-set-up-an-application-using-dependency-injection)
 - [**4. Common Errors**](#4-common-errors) (4 videos)
-  - Forgetting to add a service
-  - Injecting services with different service lifetimes
-  - Circular dependency
-  - Ambiguous constructors
+  - [Forgetting to add a service](#forgetting-to-add-a-service)
+  - [Injecting services with different service lifetimes](#injecting-services-with-different-service-lifetimes)
+  - [Circular dependency](#circular-dependency)
+  - [Ambiguous constructors](#ambiguous-constructors)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your ASP.NET Core journey
+  - [Continue your ASP.NET Core journey](#continue-your-aspnet-core-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dependency injection overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980)
@@ -104,11 +104,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dependency Injection]] (6), [[ASP.NET Core]] (2), feature (1), [[Software Development]] (1), application (1)
 > **Env Vars:** net (4), asp (2), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - if (1)
 
 #### What you should know
@@ -142,10 +142,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), [[ASP.NET Core]] (2), application (1), [[ASP.NET]] (1), web application (1)
 > **Env Vars:** asp (3), net (3), mvc (2), ide (1)
 > **URLs:** [asp.net](https://asp.net) (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** visual studio (2)
 > **Prerequisites:** you'll need (1), make sure you have (1)
 > **Speakers:** - [instructor] (1)
@@ -249,6 +249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[GitHub]] (2), application (2), web application (2), [[Microsoft]] (1)
 > **Tools:** visual studio (13), command line (2), github (2)
 > **Env Vars:** sdk (7), ide (2), net (2), url (2), mvc (2)
 > **Exercise Files:** download the (5), source code (3)
@@ -256,12 +257,11 @@ created: 2026-04-29
 > **Versions:** version 6 (2), 0.101 (2), version 17 (1), 0.5 (1)
 > **UI Navigation:** go to (2), click on (2), select the (1), open the (1)
 > **Definitions:** is a  (2)
-> **Analogies:** such as (2)
 
 
 ### 1. What Is Dependency Injection?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is dependency injection?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980)
@@ -312,10 +312,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Dependency Injection]] (5), application (3), [[ASP.NET Core]] (2), web application (1)
 > **Env Vars:** asp (2), net (2)
 > **Definitions:** is a  (2), defined as (1)
 > **URLs:** [asp.net](https://asp.net) (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
@@ -384,8 +384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4), application (3), database (3), product (2), api (2)
 > **Env Vars:** asp (4), net (4), http (2), api (2)
-> **Code Keywords:** class. (3), let (1), this. (1), throw (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **Analogies:** such as (3)
 > **Definitions:** means that (2)
@@ -395,7 +395,7 @@ created: 2026-04-29
 
 ### 2. Configuring Dependency Injection in ASP.NET Core
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the services
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980)
@@ -466,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), interface (2), this, (1), class. (1)
+> **Frameworks & Libraries:** product (10), web application (4), [[Microsoft Products|Products]] (3), database (2), data (2)
 > **Prerequisites:** set up (5)
 > **Env Vars:** net (2), asp (1), mvc (1)
 > **Analogies:** such as (1), think of it as (1)
@@ -561,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), interface (5), for . (1), let (1), pass (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4), web application (2), web (1), [[Dependency Injection]] (1), product (1)
 > **Env Vars:** net (10), asp (4), nbc (1)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [asp.net](https://asp.net) (4)
@@ -645,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), type. (3), let (2), override (2), private (2)
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), generic (3), [[ASP.NET]] (1), web application (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -656,7 +656,7 @@ created: 2026-04-29
 
 ### 3. Using Dependency Injection in ASP.NET Core
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to inject services into a controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980)
@@ -739,8 +739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (23), application (4), data (3), [[ASP.NET Core]] (2), web application (2)
 > **Env Vars:** sku (7), asp (3), net (3), mvc (2), bub (2)
-> **Code Keywords:** pass (2), interface (2), type. (1), private (1), let (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Non-Speech:** (computer keyboard clicking) (1), (computer keyboard typing) (1)
@@ -831,8 +831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (16), [[ASP.NET Core]] (2), application (2), generic (1)
 > **Env Vars:** asp (2), net (2), http (2), mvc (1), sku (1)
-> **Code Keywords:** pass (2), class. (1), type, (1), interface (1), type. (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Code Identifiers:** hasproduct (1)
@@ -917,7 +917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), class. (3), abstract (2), async (2), implements (1)
+> **Frameworks & Libraries:** product (15), application (4), api (3), [[ASP.NET Core]] (2), web application (2)
 > **Env Vars:** api (3), asp (2), net (2), apr (2)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -981,7 +981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), class. (3), class, (2), this, (1), private (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (4), product (3), database (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** such as (1), for instance (1)
 > **Best Practices:** general rule (1)
@@ -1025,6 +1025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), application (4), [[Dependency Injection]] (2), [[ASP.NET Core]] (2), product (2)
 > **Env Vars:** mvc (4), asp (2), net (2)
 > **Definitions:** is a  (2), is an  (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -1032,7 +1033,6 @@ created: 2026-04-29
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [instructor] (1)
 
 #### Solution: Set up an application using dependency injection
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/solution-set-up-an-application-using-dependency-injection?u=76281980)
@@ -1057,8 +1057,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), application (2), [[Dependency Injection]] (1), [[ASP.NET Core]] (1)
 > **Env Vars:** mvc (2), asp (1), net (1)
-> **Code Keywords:** private (2)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1066,7 +1066,7 @@ created: 2026-04-29
 
 ### 4. Common Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Forgetting to add a service
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/forgetting-to-add-a-service?u=76281980)
@@ -1121,7 +1121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), throw (1), class, (1), type. (1)
+> **Frameworks & Libraries:** product (6), application (4), [[Dependency Injection]] (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1192,7 +1192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2), this, (1), this. (1)
+> **Frameworks & Libraries:** application (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** http (1)
 > **Prerequisites:** install (1)
@@ -1251,9 +1251,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), application (4), [[Dependency Injection]] (2), [[ASP.NET Core]] (2), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** productservice (6), serviceprovider (4), storageservice (1)
 > **Env Vars:** asp (2), net (2)
-> **Code Keywords:** let (1), pass (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1315,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), this, (1), pass (1), type, (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), application (2)
 > **Code Identifiers:** productservice (2), serviceprovider (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -1325,7 +1325,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your ASP.NET Core journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980)
@@ -1356,6 +1356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), [[ASP.NET Core]] (2), web (1), [[LinkedIn]] (1)
 > **Env Vars:** asp (2), net (2)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **CLI Commands:** find (1)

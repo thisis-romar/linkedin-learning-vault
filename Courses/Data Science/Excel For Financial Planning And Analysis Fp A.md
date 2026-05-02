@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-excel
   - skill/financial-planning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20For%20Financial%20Planning%20And%20Analysis%20Fp%20A.md)
@@ -47,42 +47,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Leveraging Excel for financial planning & analysis (FP&A)
+  - [Leveraging Excel for financial planning & analysis (FP&A)](#leveraging-excel-for-financial-planning-analysis-fpa)
 - [**1. Why Does Excel Matter to FP&A?**](#1-why-does-excel-matter-to-fpa) (4 videos)
-  - What is financial planning & analysis (FP&A)?
-  - Excel in FP&A, management consulting and investment banking
-  - Where does Excel fit into the FP&A tech stack?
-  - Why do dynamic functions matter for FP&A?
+  - [What is financial planning & analysis (FP&A)?](#what-is-financial-planning-analysis-fpa)
+  - [Excel in FP&A, management consulting and investment banking](#excel-in-fpa-management-consulting-and-investment-banking)
+  - [Where does Excel fit into the FP&A tech stack?](#where-does-excel-fit-into-the-fpa-tech-stack)
+  - [Why do dynamic functions matter for FP&A?](#why-do-dynamic-functions-matter-for-fpa)
 - [**2. Dynamic Data Tables in Excel for FP&A**](#2-dynamic-data-tables-in-excel-for-fpa) (8 videos)
-  - An introduction to dynamic data tables
-  - Dynamic data tables for FP&A modeling
-  - Updating data tables with Power Query
-  - FP&A applications with data tables
-  - Advanced dynamic mapping using Power Query
-  - Advanced dynamic mapping using INDEX, XMATCH, and INDIRECT
-  - Challenge: Mapping dynamic data tables to an FP&A model
-  - Solution: Mapping dynamic data tables to an FP&A model
+  - [An introduction to dynamic data tables](#an-introduction-to-dynamic-data-tables)
+  - [Dynamic data tables for FP&A modeling](#dynamic-data-tables-for-fpa-modeling)
+  - [Updating data tables with Power Query](#updating-data-tables-with-power-query)
+  - [FP&A applications with data tables](#fpa-applications-with-data-tables)
+  - [Advanced dynamic mapping using Power Query](#advanced-dynamic-mapping-using-power-query)
+  - [Advanced dynamic mapping using INDEX, XMATCH, and INDIRECT](#advanced-dynamic-mapping-using-index-xmatch-and-indirect)
+  - [Challenge: Mapping dynamic data tables to an FP&A model](#challenge-mapping-dynamic-data-tables-to-an-fpa-model)
+  - [Solution: Mapping dynamic data tables to an FP&A model](#solution-mapping-dynamic-data-tables-to-an-fpa-model)
 - [**3. Dynamic Data Ranges in Excel for FP&A**](#3-dynamic-data-ranges-in-excel-for-fpa) (6 videos)
-  - Using INDEX XMATCH for dynamic ranges
-  - Using XLOOKUP for dynamic ranges
-  - Introduction to OFFSET
-  - Using OFFSET for dynamic ranges
-  - Challenge: Flexing data and dynamic ranges for an FP&A model
-  - Solution: Flexing data and dynamic ranges for an FP&A model
+  - [Using INDEX XMATCH for dynamic ranges](#using-index-xmatch-for-dynamic-ranges)
+  - [Using XLOOKUP for dynamic ranges](#using-xlookup-for-dynamic-ranges)
+  - [Introduction to OFFSET](#introduction-to-offset)
+  - [Using OFFSET for dynamic ranges](#using-offset-for-dynamic-ranges)
+  - [Challenge: Flexing data and dynamic ranges for an FP&A model](#challenge-flexing-data-and-dynamic-ranges-for-an-fpa-model)
+  - [Solution: Flexing data and dynamic ranges for an FP&A model](#solution-flexing-data-and-dynamic-ranges-for-an-fpa-model)
 - [**4. Dynamic Data Arrays in Excel for FP&A**](#4-dynamic-data-arrays-in-excel-for-fpa) (7 videos)
-  - Introduction to dynamic arrays
-  - Using SEQUENCE for dynamic ranges
-  - Using FILTER for dynamic data management
-  - Using UNIQUE for dynamic data management
-  - Using SORT and SORTBY for dynamic data management
-  - Challenge: Segmenting data for use in an FP&A model
-  - Solution: Segmenting data for use in an FP&A model
+  - [Introduction to dynamic arrays](#introduction-to-dynamic-arrays)
+  - [Using SEQUENCE for dynamic ranges](#using-sequence-for-dynamic-ranges)
+  - [Using FILTER for dynamic data management](#using-filter-for-dynamic-data-management)
+  - [Using UNIQUE for dynamic data management](#using-unique-for-dynamic-data-management)
+  - [Using SORT and SORTBY for dynamic data management](#using-sort-and-sortby-for-dynamic-data-management)
+  - [Challenge: Segmenting data for use in an FP&A model](#challenge-segmenting-data-for-use-in-an-fpa-model)
+  - [Solution: Segmenting data for use in an FP&A model](#solution-segmenting-data-for-use-in-an-fpa-model)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Implementing what you've learned
+  - [Implementing what you've learned](#implementing-what-youve-learned)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging Excel for financial planning & analysis (FP&A)
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980)
@@ -107,13 +107,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Planning]] (1), [[Corporate Finance]] (1), business (1), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - financial (1)
 
 
 ### 1. Why Does Excel Matter to FP&A?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial planning & analysis (FP&A)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980)
@@ -162,9 +163,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Planning]] (3), data (3), business (3), [[Microsoft Excel|Excel]] (2), functional (2)
 > **Env Vars:** cfo (1), fpa (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
@@ -207,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** business (7), management (2), [[SaaS|Software as a service]] (1), [[SaaS]] (1)
 > **Analogies:** imagine (3)
 > **Speakers:** - [instructor] (1)
 
@@ -288,9 +289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (17), data (9), management (4), business (2), [[Financial Planning]] (2)
 > **Env Vars:** erp (2), sap (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -359,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), let (1), raise (1), static (1), this. (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (6), business (2), [[Banking]] (2), management (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -367,7 +368,7 @@ created: 2026-04-29
 
 ### 2. Dynamic Data Tables in Excel for FP&A
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to dynamic data tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980)
@@ -490,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (3), product (3), next (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** sumifs (10), m4980 (3), m4977 (2), c4977 (2)
-> **Code Keywords:** type. (2), type, (2), let (2), function (1), this. (1)
 > **Definitions:** is a  (5), means that (1), in other words (1)
 > **Versions:** 420.78 (1)
 > **Cross-References:** in the next (1)
@@ -689,7 +690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), continue (2), static (2), finally, (2)
+> **Frameworks & Libraries:** data (27), hit (8), business (6), next (5), [[Microsoft Power Query|Power query]] (3)
 > **Env Vars:** m4977 (4), sumifs (3), erp (2), c4977 (2), m4980 (1)
 > **UI Navigation:** go to (3), select the (2), dropdown (2), click on (1), checkbox (1)
 > **Warnings:** note that (7)
@@ -929,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), finally, (3), this, (2), type. (2), from. (1)
+> **Frameworks & Libraries:** data (42), [[Microsoft Power Query|Power query]] (5), power (5), business (3), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** csv (6), erp (2), sumifs (2), xml (1), json (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (3), click on (2), dropdown (1), right-click (1), select the (1)
@@ -1050,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (1), function (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (23), business (4), [[Financial Statements]] (4), [[Microsoft Excel|Excel]] (3), next (2)
 > **Env Vars:** e73 (2), e74 (2), e72 (2), r4977 (1), e79 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is called (1)
@@ -1150,8 +1151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft Power Query|Power query]] (5), next (4), [[Financial Statements]] (1), power (1)
 > **Env Vars:** sumifs (3), e95 (2), a92 (2), e75 (2), e76 (2)
-> **Code Keywords:** let (8), function (1), from, (1)
 > **Definitions:** means that (1), is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1341,8 +1342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (5), [[Microsoft Excel|Excel]] (4), [[Search]] (2), [[Financial Statements]] (2)
 > **Env Vars:** indirect (13), xmatch (7), index (3), e92 (3), a92 (2)
-> **Code Keywords:** let (13), function (4), case, (3), finally, (2), this. (1)
 > **Warnings:** note that (6)
 > **UI Navigation:** go to (3), toggle (1)
 > **Definitions:** is a  (3), means that (1)
@@ -1383,9 +1384,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Power Query|Power query]] (1)
 > **Cross-References:** we talked about (3), we covered (1), in the last (1)
 > **Env Vars:** xmatch (2), e81 (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [demonstrator] (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
@@ -1628,7 +1629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), case, (4), match, (3), finally, (2)
+> **Frameworks & Libraries:** hit (11), next (5), [[Search]] (2), [[Financial Statements]] (2), data (2)
 > **Env Vars:** a85 (4), f81 (3), f82 (1), a82 (1), f83 (1)
 > **CLI Commands:** find (4), make (2)
 > **Warnings:** note that (3)
@@ -1640,7 +1641,7 @@ created: 2026-04-29
 
 ### 3. Dynamic Data Ranges in Excel for FP&A
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using INDEX XMATCH for dynamic ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980)
@@ -1761,8 +1762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Search]] (1)
 > **Env Vars:** match (9), xmatch (9), index (8), formulatext (2), b34 (2)
-> **Code Keywords:** let (11), case, (5), match, (3), function (3), match. (2)
 > **SQL:** index (8)
 > **Warnings:** note that (4)
 > **CLI Commands:** find (3)
@@ -1903,8 +1904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[Search]] (4), application (1)
 > **Env Vars:** xlookup (10), choose (6), hlookup (5), vlookup (4), xmatch (4)
-> **Code Keywords:** let (12), function (5), finally, (3), case, (2), return, (1)
 > **Warnings:** note that (4)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (2)
@@ -2021,8 +2022,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (3), data (2), game (1)
 > **Env Vars:** offset (15), index (1), match (1), xlookup (1), sum (1)
-> **Code Keywords:** let (6), function (5), else, (1), finally, (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)
 > **SQL:** index (1)
@@ -2107,7 +2108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** next (3)
 > **Env Vars:** a34 (6), a49 (3), b34 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2139,8 +2140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** a34 (3), b34 (1), m34 (1), a49 (1), n34 (1)
-> **Code Keywords:** function (2), let (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (lively music) (1)
 
@@ -2221,7 +2222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), case, (2)
+> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** n34 (2), a34 (1), b53 (1), a32 (1), a53 (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** go to (1)
@@ -2232,7 +2233,7 @@ created: 2026-04-29
 
 ### 4. Dynamic Data Arrays in Excel for FP&A
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to dynamic arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980)
@@ -2289,8 +2290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (6), game (2), [[Microsoft]] (1), [[Financial Planning]] (1)
 > **Env Vars:** sequence (2), randarray (2), unique (2), filter (2), a10 (2)
-> **Code Keywords:** let (2), this, (1), finally, (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2488,7 +2489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (7), return. (2), this. (2), self (2)
+> **Frameworks & Libraries:** next (3), feature (2), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** sequence (7), year (5), date (4), month (3), day (2)
 > **Analogies:** picture (4), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -2566,7 +2567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), include, (2), function (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1), hit (1), [[Financial Analysis]] (1)
 > **Env Vars:** filter (2), m4977 (2), c4977 (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -2655,7 +2656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), return, (1), return. (1), this. (1)
+> **Frameworks & Libraries:** business (5), data (4), next (2), [[Microsoft Excel|Excel]] (1), [[Big Data]] (1)
 > **Env Vars:** unique (6), sort (2), false (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2806,7 +2807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (6), finally, (4), type, (3), match. (1)
+> **Frameworks & Libraries:** data (7), product (5), hit (1), business (1)
 > **Env Vars:** sort (9), unique (5), filter (4), sortby (3), m4977 (2)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** dropdown (1), go to (1)
@@ -2843,7 +2844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** sort (3), filter (2), unique (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bouncy upbeat music) (1)
@@ -3059,7 +3060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), static (13), type, (10), function (4), this, (4)
+> **Frameworks & Libraries:** data (10), next (4), business (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (5), dropdown (3), click on (2)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** m4977 (3)
@@ -3071,7 +3072,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980)
@@ -3128,9 +3129,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[Microsoft]] (1), [[Microsoft Power Query|Power query]] (1), [[Dashboards]] (1)
 > **Env Vars:** sums (1), averages (1), minimums (1), maximums (1), sumifs (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** assert (1)
 > **URLs:** [seidmanfinancial.com](https://seidmanfinancial.com) (1)
 > **SQL:** index (1)
 > **Cross-References:** we covered (1)

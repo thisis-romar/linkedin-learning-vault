@@ -34,7 +34,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Literacy%20for%20Business%20Leaders.md)
@@ -53,29 +53,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Dispelling common AI fears
-  - AI and the evolution of jobs
+  - [Dispelling common AI fears](#dispelling-common-ai-fears)
+  - [AI and the evolution of jobs](#ai-and-the-evolution-of-jobs)
 - [**1. The Power of Human-Machine Collaboration**](#1-the-power-of-human-machine-collaboration) (3 videos)
-  - The majesty of human capability
-  - Recognizing machine strengths and limitations
-  - Navigating pitfalls in AI deployment
+  - [The majesty of human capability](#the-majesty-of-human-capability)
+  - [Recognizing machine strengths and limitations](#recognizing-machine-strengths-and-limitations)
+  - [Navigating pitfalls in AI deployment](#navigating-pitfalls-in-ai-deployment)
 - [**2. Mindset Shifts to Master AI**](#2-mindset-shifts-to-master-ai) (5 videos)
-  - Linear vs. quantum thinking
-  - Quantum thinking in the workplace
-  - Subconscious reprogramming
-  - Identify and overcome your biases
-  - Intelligence vs. conscious-awareness
+  - [Linear vs. quantum thinking](#linear-vs-quantum-thinking)
+  - [Quantum thinking in the workplace](#quantum-thinking-in-the-workplace)
+  - [Subconscious reprogramming](#subconscious-reprogramming)
+  - [Identify and overcome your biases](#identify-and-overcome-your-biases)
+  - [Intelligence vs. conscious-awareness](#intelligence-vs-conscious-awareness)
 - [**3. Start Building AI Aptitude**](#3-start-building-ai-aptitude) (4 videos)
-  - Defining AI aptitude
-  - Dogmatic views vs. creative thinking
-  - Curatorial creativity
-  - AI delegation, learn to master prompts
+  - [Defining AI aptitude](#defining-ai-aptitude)
+  - [Dogmatic views vs. creative thinking](#dogmatic-views-vs-creative-thinking)
+  - [Curatorial creativity](#curatorial-creativity)
+  - [AI delegation, learn to master prompts](#ai-delegation-learn-to-master-prompts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Imagining a post-work society
+  - [Imagining a post-work society](#imagining-a-post-work-society)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dispelling common AI fears
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dispelling-common-ai-fears?u=76281980)
@@ -94,8 +94,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), teams (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - as (1)
 
 #### AI and the evolution of jobs
@@ -189,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), else. (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** ai (7), parallel (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 ### 1. The Power of Human-Machine Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The majesty of human capability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980)
@@ -281,7 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (2), from, (1)
+> **Frameworks & Libraries:** ai (7), business (2), data (1), [[Ethics]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
@@ -371,7 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2)
+> **Frameworks & Libraries:** ai (28), data (2), [[Security]] (2), [[LinkedIn]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ais (1)
 > **Analogies:** for example (1)
@@ -465,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), require (1), finally, (1)
+> **Frameworks & Libraries:** ai (19), data (6), bi (1), [[Slack]] (1), [[Trello]] (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [monday.com](https://monday.com) (1)
 > **Tools:** slack (1)
@@ -474,7 +474,7 @@ created: 2026-04-29
 
 ### 2. Mindset Shifts to Master AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear vs. quantum thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/linear-vs-quantum-thinking?u=76281980)
@@ -525,6 +525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), parallel (2), database (1), data (1)
 > **Analogies:** it's like (1), picture (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -612,7 +613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), new. (2), finally, (1)
+> **Frameworks & Libraries:** ai (11), product (2), power (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -671,6 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Algorithms]] (1)
 > **Speakers:** - subconscious (1)
 
 #### Identify and overcome your biases
@@ -784,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), self (2), finally, (1)
+> **Frameworks & Libraries:** ai (12), strengths (4), next (1)
 > **Analogies:** just like (2), for example (2), think of it as (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -847,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** ai (5), data (1), [[Ethics]] (1), [[Programming]] (1), functional (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - intelligence (1)
@@ -855,7 +857,7 @@ created: 2026-04-29
 
 ### 3. Start Building AI Aptitude
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining AI aptitude
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980)
@@ -966,7 +968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), finally, (1), require (1)
+> **Frameworks & Libraries:** ai (15), data (2), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1046,8 +1048,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Decision-Making]] (1), data (1), strengths (1)
 > **CLI Commands:** make (2), snap (1)
-> **Code Keywords:** raise (1), case. (1), self (1)
 > **Analogies:** it's like (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - nobody (1)
@@ -1155,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** ai (12), [[ChatGPT]] (2), [[Generative AI]] (1), [[Generative AI Tools]] (1), [[DALL-E]] (1)
 > **Analogies:** just like (2), imagine (1), for instance (1)
 > **Env Vars:** gpt (1), dall (1), ceo (1)
 > **CLI Commands:** find (1)
@@ -1240,7 +1242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), require (1), yield (1)
+> **Frameworks & Libraries:** ai (8), prompt (3), data (3), [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** for example (3), picture (3), for instance (1)
 > **Env Vars:** bert (2), gpt (2)
 > **CLI Commands:** make (1)
@@ -1249,7 +1251,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Imagining a post-work society
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980)
@@ -1322,7 +1324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (13), [[Programming]] (2), [[Search]] (1), [[Generative AI]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)

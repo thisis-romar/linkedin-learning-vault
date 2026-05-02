@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Copilot%20in%20PowerPoint-%20From%20Prompt%20to%20Presentation%20(2024).md)
@@ -53,40 +53,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Copilot in PowerPoint
-  - What you should know
+  - [Copilot in PowerPoint](#copilot-in-powerpoint)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting to Know Copilot in PowerPoint**](#1-getting-to-know-copilot-in-powerpoint) (2 videos)
-  - Overview of Copilot features
-  - Discovering prompt ideas in Copilot Lab
+  - [Overview of Copilot features](#overview-of-copilot-features)
+  - [Discovering prompt ideas in Copilot Lab](#discovering-prompt-ideas-in-copilot-lab)
 - [**2. Starting a Presentation from Scratch**](#2-starting-a-presentation-from-scratch) (3 videos)
-  - Create a new presentation starting from a blank file
-  - Create a new presentation starting from a template
-  - Create a new presentation starting from an existing file
+  - [Create a new presentation starting from a blank file](#create-a-new-presentation-starting-from-a-blank-file)
+  - [Create a new presentation starting from a template](#create-a-new-presentation-starting-from-a-template)
+  - [Create a new presentation starting from an existing file](#create-a-new-presentation-starting-from-an-existing-file)
 - [**3. Starting a Presentation from a Document**](#3-starting-a-presentation-from-a-document) (1 videos)
-  - Create a new presentation from a document
+  - [Create a new presentation from a document](#create-a-new-presentation-from-a-document)
 - [**4. Adding New Slides with Copilot**](#4-adding-new-slides-with-copilot) (2 videos)
-  - Add a slide about a specific subject
-  - Add an agenda slide
+  - [Add a slide about a specific subject](#add-a-slide-about-a-specific-subject)
+  - [Add an agenda slide](#add-an-agenda-slide)
 - [**5. Refining a Presentation with Copilot**](#5-refining-a-presentation-with-copilot) (4 videos)
-  - Organize a presentation
-  - Rewrite slide text
-  - Change text formatting
-  - Replace a picture
+  - [Organize a presentation](#organize-a-presentation)
+  - [Rewrite slide text](#rewrite-slide-text)
+  - [Change text formatting](#change-text-formatting)
+  - [Replace a picture](#replace-a-picture)
 - [**6. Understanding a Presentation with Copilot**](#6-understanding-a-presentation-with-copilot) (2 videos)
-  - Summarize a presentation
-  - Retrieve information from a presentation
+  - [Summarize a presentation](#summarize-a-presentation)
+  - [Retrieve information from a presentation](#retrieve-information-from-a-presentation)
 - [**7. Asking Copilot for Help**](#7-asking-copilot-for-help) (3 videos)
-  - Ways that Copilot can help
-  - Ask a general question
-  - Ask for help with a PowerPoint task
+  - [Ways that Copilot can help](#ways-that-copilot-can-help)
+  - [Ask a general question](#ask-a-general-question)
+  - [Ask for help with a PowerPoint task](#ask-for-help-with-a-powerpoint-task)
 - [**8. Things to Keep In Mind When Using Copilot**](#8-things-to-keep-in-mind-when-using-copilot) (1 videos)
-  - Helpful things to know
+  - [Helpful things to know](#helpful-things-to-know)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to learn more about Copilot
+  - [Where to learn more about Copilot](#where-to-learn-more-about-copilot)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Copilot in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/copilot-in-powerpoint?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft PowerPoint|Powerpoint]] (4), prompt (2), ai (1), feature (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [julie] (1)
 
@@ -149,6 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft 365|M365]] (3), [[Microsoft 365]] (2), [[Windows]] (1)
 > **Env Vars:** m365 (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -156,7 +158,7 @@ created: 2026-04-29
 
 ### 1. Getting to Know Copilot in PowerPoint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Copilot features
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/overview-of-copilot-features?u=76281980)
@@ -251,8 +253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (18), [[Microsoft Copilot|Copilot]] (15), [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** try, (1), try. (1)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [instructor] (1)
 
@@ -313,8 +315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (9), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** such as (1), similar to (1), imagine (1)
-> **Code Keywords:** from, (1), try. (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** faq (1)
@@ -323,7 +325,7 @@ created: 2026-04-29
 
 ### 2. Starting a Presentation from Scratch
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new presentation starting from a blank file
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-starting-from-a-blank-file?u=76281980)
@@ -366,6 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (3), [[Microsoft]] (2), generic (1), ai (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -450,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), prompt (2), [[Microsoft Office]] (1), [[Microsoft Office|Office]] (1), [[Search]] (1)
 > **UI Navigation:** select the (2), open the (1)
 > **Exercise Files:** template (2)
 > **Analogies:** picture (2)
@@ -528,8 +531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Exercise Files:** template (7)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -537,7 +540,7 @@ created: 2026-04-29
 
 ### 3. Starting a Presentation from a Document
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new presentation from a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-from-a-document?u=76281980)
@@ -640,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft Word|Word]] (2), prompt (2), ai (2)
 > **UI Navigation:** switch to (1), right-click (1), select the (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (1)
@@ -651,7 +654,7 @@ created: 2026-04-29
 
 ### 4. Adding New Slides with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add a slide about a specific subject
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/add-a-slide-about-a-specific-subject?u=76281980)
@@ -712,8 +715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), prompt (6)
 > **UI Navigation:** select the (2)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -748,14 +751,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), prompt (5)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Refining a Presentation with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/organize-a-presentation?u=76281980)
@@ -792,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), prompt (1)
 > **Cross-References:** later in (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -854,8 +857,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), prompt (8)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (3)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -924,8 +927,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (7), next (1), [[Microsoft PowerPoint|Powerpoint]] (1), feature (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** select the (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -977,8 +980,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), prompt (3), [[Microsoft]] (2)
 > **Analogies:** picture (7), for instance (1)
-> **Code Keywords:** else. (1), let (1), switch (1)
 > **UI Navigation:** switch to (1), select the (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -986,7 +989,7 @@ created: 2026-04-29
 
 ### 6. Understanding a Presentation with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/summarize-a-presentation?u=76281980)
@@ -1027,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), next (1)
 > **UI Navigation:** select the (1), switch to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1111,7 +1114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), try, (1), else. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (16), prompt (5), ai (2), next (2)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** find (1)
 > **Best Practices:** recommended (1)
@@ -1121,7 +1124,7 @@ created: 2026-04-29
 
 ### 7. Asking Copilot for Help
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ways that Copilot can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/ways-that-copilot-can-help?u=76281980)
@@ -1152,6 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft PowerPoint|Powerpoint]] (1), prompt (1), [[Microsoft]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Ask a general question
@@ -1187,6 +1191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1223,15 +1228,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft PowerPoint|Powerpoint]] (4), prompt (1), feature (1), next (1)
 > **UI Navigation:** switch to (1), select the (1), open the (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** switch (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Things to Keep In Mind When Using Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Helpful things to know
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/helpful-things-to-know?u=76281980)
@@ -1304,6 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft PowerPoint|Powerpoint]] (4), prompt (4), [[Microsoft]] (4), ai (3)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** keep in mind (1), note that (1)
@@ -1314,7 +1320,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more about Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/where-to-learn-more-about-copilot?u=76281980)
@@ -1345,6 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Microsoft PowerPoint|Powerpoint]] (6), next (2), prompt (2), [[Microsoft]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** select the (1)

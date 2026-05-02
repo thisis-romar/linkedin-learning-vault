@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Accelerating%20Digital%20Transformation%20as%20Offices%20Reopen.md)
@@ -41,20 +41,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Opening your doors to digital transformation
+  - [Opening your doors to digital transformation](#opening-your-doors-to-digital-transformation)
 - [**1. Your Digital Transformation Journey**](#1-your-digital-transformation-journey) (6 videos)
-  - Creating a resilient business
-  - Innovation inside the enterprise
-  - Shift from B2B to B2C
-  - Know the consumer
-  - Data monetization and data-driven culture
-  - Reshaping, reskilling, and upskilling the workforce
+  - [Creating a resilient business](#creating-a-resilient-business)
+  - [Innovation inside the enterprise](#innovation-inside-the-enterprise)
+  - [Shift from B2B to B2C](#shift-from-b2b-to-b2c)
+  - [Know the consumer](#know-the-consumer)
+  - [Data monetization and data-driven culture](#data-monetization-and-data-driven-culture)
+  - [Reshaping, reskilling, and upskilling the workforce](#reshaping-reskilling-and-upskilling-the-workforce)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future of work
+  - [The future of work](#the-future-of-work)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening your doors to digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980)
@@ -93,13 +93,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - digital (1)
 
 
 ### 1. Your Digital Transformation Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a resilient business
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980)
@@ -160,8 +161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), data (4), [[Algorithms]] (2), [[Digital Transformation]] (1), strengths (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** raise (1)
 > **Env Vars:** b2b (1)
 > **Speakers:** - over (1)
 
@@ -242,8 +243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - enterprise (1)
 
@@ -316,10 +317,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (19), data (2), [[Digital Transformation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Banking]] (1)
 > **Env Vars:** b2c (2)
 > **Definitions:** means that (2)
 > **Prerequisites:** required to (1), you'll need (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - over (1)
 
 #### Know the consumer
@@ -413,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1), this. (1)
+> **Frameworks & Libraries:** business (5), [[Digital Transformation]] (2), data (1), [[Security]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - customers (1)
@@ -489,8 +490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), business (12), product (2), [[Digital Transformation]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** means that (1)
 > **Speakers:** - digital (1)
 
@@ -557,13 +558,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1)
+> **Frameworks & Libraries:** business (4), [[Agile Development|Agile]] (1), cloud (1), [[User Experience (UX)|User experience]] (1), data (1)
 > **Speakers:** - over (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980)
@@ -614,6 +615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1), cloud (1), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - we (1)

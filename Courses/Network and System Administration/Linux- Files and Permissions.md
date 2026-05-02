@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Linux-%20Files%20and%20Permissions.md)
@@ -45,59 +45,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Manage files and permissions in Linux
-  - What you should know
-  - Get help with commands
-  - Using the exercise files
-  - Reconfigure or migrate CentOS
+  - [Manage files and permissions in Linux](#manage-files-and-permissions-in-linux)
+  - [What you should know](#what-you-should-know)
+  - [Get help with commands](#get-help-with-commands)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Reconfigure or migrate CentOS](#reconfigure-or-migrate-centos)
 - [**Linux Files**](#linux-files) (11 videos)
-  - What is a file?
-  - Getting information about files
-  - About extended attributes
-  - Getting extended attributes
-  - About file globs
-  - Using character classes
-  - Using globs to match files
-  - Matching with brace expansion
-  - The Magic of extended globs
-  - Matching files with extended globs
-  - Advanced extended globs
+  - [What is a file?](#what-is-a-file)
+  - [Getting information about files](#getting-information-about-files)
+  - [About extended attributes](#about-extended-attributes)
+  - [Getting extended attributes](#getting-extended-attributes)
+  - [About file globs](#about-file-globs)
+  - [Using character classes](#using-character-classes)
+  - [Using globs to match files](#using-globs-to-match-files)
+  - [Matching with brace expansion](#matching-with-brace-expansion)
+  - [The Magic of extended globs](#the-magic-of-extended-globs)
+  - [Matching files with extended globs](#matching-files-with-extended-globs)
+  - [Advanced extended globs](#advanced-extended-globs)
 - [**Manage Linux Files**](#manage-linux-files) (9 videos)
-  - Understanding filesystem paths
-  - Creating files and dirs
-  - Copying files and dirs
-  - Moving and renaming files and dirs
-  - Deleting files and dirs
-  - Creating links to files and dirs
-  - Making file manipulation safe
-  - Challenge: Linux files
-  - Solution: Linux files
+  - [Understanding filesystem paths](#understanding-filesystem-paths)
+  - [Creating files and dirs](#creating-files-and-dirs)
+  - [Copying files and dirs](#copying-files-and-dirs)
+  - [Moving and renaming files and dirs](#moving-and-renaming-files-and-dirs)
+  - [Deleting files and dirs](#deleting-files-and-dirs)
+  - [Creating links to files and dirs](#creating-links-to-files-and-dirs)
+  - [Making file manipulation safe](#making-file-manipulation-safe)
+  - [Challenge: Linux files](#challenge-linux-files)
+  - [Solution: Linux files](#solution-linux-files)
 - [**Linux Permissions**](#linux-permissions) (10 videos)
-  - Standard Linux permissions overview
-  - File and directory modes
-  - File ownership
-  - Permissions using numeric notation
-  - Permissions using symbolic notation
-  - Initial permissions using umask
-  - Special file bits: SUID and SGID
-  - Special directory bits: SGID and Sticky
-  - Challenge: Permissions
-  - Solution: Permissions
+  - [Standard Linux permissions overview](#standard-linux-permissions-overview)
+  - [File and directory modes](#file-and-directory-modes)
+  - [File ownership](#file-ownership)
+  - [Permissions using numeric notation](#permissions-using-numeric-notation)
+  - [Permissions using symbolic notation](#permissions-using-symbolic-notation)
+  - [Initial permissions using umask](#initial-permissions-using-umask)
+  - [Special file bits: SUID and SGID](#special-file-bits-suid-and-sgid)
+  - [Special directory bits: SGID and Sticky](#special-directory-bits-sgid-and-sticky)
+  - [Challenge: Permissions](#challenge-permissions)
+  - [Solution: Permissions](#solution-permissions)
 - [**Access Control Lists**](#access-control-lists) (8 videos)
-  - ACL overview
-  - Read ACLs
-  - Setting ACLs
-  - Manage Default ACLs
-  - Delete ACLs
-  - ACL tricks
-  - Challenge: ACLs
-  - Solution: ACLs
+  - [ACL overview](#acl-overview)
+  - [Read ACLs](#read-acls)
+  - [Setting ACLs](#setting-acls)
+  - [Manage Default ACLs](#manage-default-acls)
+  - [Delete ACLs](#delete-acls)
+  - [ACL tricks](#acl-tricks)
+  - [Challenge: ACLs](#challenge-acls)
+  - [Solution: ACLs](#solution-acls)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage files and permissions in Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980)
@@ -140,8 +140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), cloud (1), data (1), [[Hardware]] (1), power (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [grant] (1)
 
@@ -192,11 +192,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (17), [[Virtualization]] (3), [[Windows]] (2), [[Virtual Machines]] (2)
 > **Env Vars:** amd (3), cpu (1), bios (1), iso (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Get help with commands
@@ -336,9 +336,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Linux]] (4), [[Search]] (4), cd (3), database (2)
 > **CLI Commands:** grep (8), cd (3), find (2), sudo (1)
 > **Documentation:** man page (13)
-> **Code Keywords:** let (6), this, (1), case, (1)
 > **Env Vars:** posix (4)
 > **Tools:** terminal (3), command line (1)
 > **UI Navigation:** click on (1), scroll up (1)
@@ -384,6 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Windows]] (1), cd (1)
 > **Exercise Files:** exercise files (6), download the (1)
 > **UI Navigation:** click on (3), double-click (1), go to (1)
 > **Env Vars:** zip (3), pwd (1)
@@ -465,6 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (10), cd (4), web (2), [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (3), make (1), yum (1)
 > **UI Navigation:** click on (12), go to (1)
 > **URLs:** [centos.org](https://centos.org) (5), [almalinux.org](https://almalinux.org) (1), [rockylinux.org](https://rockylinux.org) (1)
@@ -472,12 +474,11 @@ created: 2026-04-29
 > **Prerequisites:** install (3), you'll need (2)
 > **File Paths:** migrate2rocky.sh (2), almalinx-deploy.sh (1), almalinux-deploy.sh (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Env Vars:** url (1)
 
 
 ### Linux Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a file?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980)
@@ -608,9 +609,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Linux]] (7), application (5), [[Metadata]] (2), [[Computer Forensics]] (1)
 > **Definitions:** is a  (9), is an  (1)
 > **Analogies:** such as (2), for instance (2), just like (1), for example (1), imagine (1)
-> **Code Keywords:** let (3), delete (1)
 > **Env Vars:** cpu (2), usb (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** configure (1)
@@ -759,9 +760,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Metadata]] (7), hit (4), next (3), [[Linux]] (3)
 > **Env Vars:** etc (6), passwd (2), fifo (1), ascii (1), jpeg (1)
 > **CLI Commands:** ls (7), make (2)
-> **Code Keywords:** let (3), type. (2), case, (1), super (1), type, (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for instance (2), just like (1)
 > **Tools:** terminal (2)
@@ -853,9 +854,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Linux]] (9), data (2)
 > **Env Vars:** acl (5)
 > **Analogies:** such as (2), for instance (2), just like (1)
-> **Code Keywords:** let (3), type. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** ls (1)
 > **Speakers:** - [instructor] (1)
@@ -959,9 +960,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Security]] (4), [[Linux]] (2), database (1)
 > **CLI Commands:** ls (9), sudo (2)
 > **File Paths:** aclfile.txt (9)
-> **Code Keywords:** let (6)
 > **Env Vars:** acl (3)
 > **Warnings:** note that (3)
 > **Tools:** terminal (2)
@@ -1097,9 +1098,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **File Paths:** file.txt (3), filea.txt (2), file123.txt (2), file1.txt (2), file00.txt (2)
 > **Analogies:** for instance (4), just like (4)
-> **Code Keywords:** let (2), match, (1), this. (1), match. (1)
 > **CLI Commands:** tar (1), make (1)
 > **Tools:** command line (1), terminal (1)
 > **Warnings:** note that (1), caution (1)
@@ -1183,7 +1184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (10), class, (5), let (1), match, (1)
+> **Frameworks & Libraries:** [[Linux]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for instance (2), such as (2), for example (2), just like (1)
 > **File Paths:** filea.txt (1), fileb.txt (1)
 > **Tools:** bash (1), terminal (1)
@@ -1333,7 +1334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), match, (2), this. (1), match . (1), this, (1)
+> **Frameworks & Libraries:** hit (10), [[Microsoft Word|Word]] (3), cd (1), [[Search]] (1), application (1)
 > **CLI Commands:** ls (8), cd (1), make (1)
 > **Tools:** command line (3)
 > **Env Vars:** jpeg (1), gui (1)
@@ -1467,9 +1468,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), next (3), [[Microsoft Word|Word]] (1), feature (1), power (1)
 > **Env Vars:** jpg (6), png (4), mpg (1), jng (1), ppg (1)
 > **CLI Commands:** ls (5), make (3), mkdir (2), cd (1)
-> **Code Keywords:** let (5), match . (1)
 > **Analogies:** for instance (3)
 > **File Paths:** textfile1.txt (1), textfile5.txt (1)
 > **Tools:** bash (1)
@@ -1607,7 +1608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), match. (1), match, (1), case, (1)
+> **Frameworks & Libraries:** power (6), [[Linux]] (3), [[Microsoft Word|Word]] (2)
 > **Analogies:** similar to (5), for instance (1), such as (1)
 > **Tools:** bash (3), command line (2)
 > **CLI Commands:** grep (1), tar (1)
@@ -1671,7 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** hit (2), [[Linux]] (1), next (1)
 > **CLI Commands:** make (1), ls (1)
 > **Env Vars:** jpg (1)
 > **Tools:** terminal (1)
@@ -1757,7 +1758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), hit (1)
 > **CLI Commands:** ls (3)
 > **Env Vars:** jpeg (2)
 > **Tools:** terminal (1)
@@ -1766,7 +1767,7 @@ created: 2026-04-29
 
 ### Manage Linux Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding filesystem paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980)
@@ -1855,11 +1856,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (10), hit (6), [[Linux]] (4), web (2), [[HTML]] (2)
 > **CLI Commands:** cd (10), ls (2), find (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** html (2)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -1947,11 +1948,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), cd (1), [[Metadata]] (1)
 > **CLI Commands:** mkdir (7), ls (7), cat (2), cd (1)
 > **Env Vars:** vim (4), pwd (2), dir (2), txt (1)
 > **Tools:** vim (5), command line (2), terminal (1)
 > **File Paths:** textfile.txt (3), vim.textfile.txt (1), touch.emptyfile.txt (1), emptyfile.txt (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - it (1)
@@ -2075,9 +2076,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), management (1), cd (1), [[Linux]] (1), [[Metadata]] (1)
 > **CLI Commands:** cp (11), make (4), mkdir (4), cd (1), ls (1)
 > **File Paths:** file.txt (7), file-copy.txt (3), document.txt (1), doc-copy.txt (1)
-> **Code Keywords:** let (8)
 > **Tools:** command line (2), terminal (1)
 > **Analogies:** for instance (1), just like (1)
 > **Env Vars:** gui (1)
@@ -2177,9 +2178,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Linux]] (5), data (5), [[Metadata]] (1), cd (1)
 > **CLI Commands:** mv (8), mkdir (3), make (1), cd (1), cp (1)
 > **File Paths:** file.txt (4), document.txt (2), doc-jan.txt (1), newfile.txt (1)
-> **Code Keywords:** let (4), this, (1)
 > **Analogies:** for instance (2), just like (2), such as (1)
 > **Env Vars:** usb (3)
 > **Documentation:** man page (1)
@@ -2295,8 +2296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (15), [[Linux]] (2), cd (2), prompt (1)
 > **CLI Commands:** rm (11), mkdir (2), cd (2)
-> **Code Keywords:** delete (8), let (6)
 > **File Paths:** filea.txt (2), fileb.txt (2), dir1/file1.txt (1), file1.txt (1)
 > **Warnings:** note that (1), be careful (1)
 > **Documentation:** man page (1)
@@ -2457,9 +2458,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), data (4), cd (1), node (1)
 > **File Paths:** file.txt (11), filelink.txt (7), filesymlink.txt (2)
 > **CLI Commands:** ls (7), rm (3), mkdir (2), cd (1), node (1)
-> **Code Keywords:** let (9), delete (4), case, (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (1), such as (1)
 > **Tools:** terminal (1)
@@ -2530,8 +2531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Linux]] (1), management (1), next (1), prompt (1)
 > **CLI Commands:** cp (5), rm (5), mv (3), make (2)
-> **Code Keywords:** let (2), pass (1)
 > **Tools:** vim (2), command line (1)
 > **File Paths:** test.txt (1)
 > **UI Navigation:** go to (1)
@@ -2610,9 +2611,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Linux]] (1), [[Forms]] (1)
 > **CLI Commands:** ls (4), cp (2), mv (2), rm (2), mkdir (2)
 > **Env Vars:** jpeg (2), mpeg (2)
-> **Code Keywords:** let (1), this. (1), delete (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -2713,8 +2714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** jpeg (2), mpeg (2), jpg (2), mpg (2)
-> **Code Keywords:** let (4), finally, (1), this. (1), require (1)
 > **CLI Commands:** mkdir (2), ls (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Tools:** terminal (1)
@@ -2724,7 +2725,7 @@ created: 2026-04-29
 
 ### Linux Permissions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard Linux permissions overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980)
@@ -2789,8 +2790,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** else. (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2833,6 +2834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1), application (1)
 > **CLI Commands:** ls (2)
 > **Definitions:** means that (2)
 > **Tools:** firefox (1)
@@ -2929,9 +2931,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), cd (2), data (1), [[Linux]] (1), management (1)
 > **CLI Commands:** chown (9), sudo (5), ls (2), mkdir (2), cd (2)
 > **File Paths:** file.txt (5)
-> **Code Keywords:** let (4)
 > **Warnings:** keep in mind (1), note that (1)
 > **Documentation:** man page (1)
 > **Tools:** terminal (1)
@@ -3033,8 +3035,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), cd (2), [[Linux]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** chmod (7), ls (3), cd (2), mkdir (1)
-> **Code Keywords:** let (4), type. (1)
 > **File Paths:** file.txt (3)
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (1)
@@ -3179,8 +3181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), cd (2), [[Linux]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** chmod (11), ls (4), cd (2), mkdir (1)
-> **Code Keywords:** let (5), type. (1), case, (1)
 > **Analogies:** for instance (2), such as (1)
 > **Tools:** terminal (2)
 > **Documentation:** man page (1)
@@ -3280,7 +3282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (1)
+> **Frameworks & Libraries:** hit (7), [[Security]] (2)
 > **CLI Commands:** ls (2), sudo (2), mkdir (1)
 > **Tools:** terminal (3), bash (1)
 > **File Paths:** umaskfile.txt (1), umask.sh (1), etc/profile.d/umask.sh (1)
@@ -3384,9 +3386,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), hit (3), next (1), power (1), [[Security]] (1)
 > **Env Vars:** suid (13), sgid (11), usr (5), bsd (1), rws (1)
 > **CLI Commands:** sudo (5), chmod (4), find (4), ls (1)
-> **Code Keywords:** let (4), for. (1)
 > **Analogies:** just like (2), such as (2), similar to (1)
 > **Tools:** terminal (2)
 > **Definitions:** is called (1), means that (1)
@@ -3546,8 +3548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (20), cd (7), [[Linux]] (2)
 > **CLI Commands:** sudo (9), ls (8), cd (7), mkdir (3), chmod (3)
-> **Code Keywords:** let (11), delete (2), this. (1)
 > **Env Vars:** sgid (7), suid (1)
 > **File Paths:** file.txt (5)
 > **Tools:** terminal (2)
@@ -3622,9 +3624,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), [[Engineering]] (4), [[Microsoft Products|Products]] (1), hit (1)
 > **CLI Commands:** sudo (4), cat (2)
 > **Env Vars:** suid (2), sgid (2), rwx (1)
-> **Code Keywords:** let (1), delete (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
@@ -3743,8 +3745,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (23), hit (15), [[Linux]] (3)
 > **CLI Commands:** sudo (12), make (4), chmod (4), mkdir (1), chown (1)
-> **Code Keywords:** let (11), delete (2), this, (1)
 > **Env Vars:** gpasswd (2), sgid (2), passwd (1), rwx (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - for (1)
@@ -3753,7 +3755,7 @@ created: 2026-04-29
 
 ### Access Control Lists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ACL overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980)
@@ -3840,7 +3842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), this. (1)
+> **Frameworks & Libraries:** [[Linux]] (8), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** acl (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -3934,9 +3936,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (4), cd (1), data (1)
 > **CLI Commands:** ls (3), mkdir (2), cat (2), cd (1), find (1)
 > **Env Vars:** acl (7), pwd (1)
-> **Code Keywords:** let (6)
 > **File Paths:** perms.txt (1), home-perms.txt (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **Tools:** terminal (1)
@@ -4054,10 +4056,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (4), cd (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** acl (13)
 > **CLI Commands:** sudo (4), cat (4), cd (1), chmod (1)
 > **File Paths:** datafile.txt (7), home/file.txt (1), datafiles.txt (1)
-> **Code Keywords:** let (9)
 > **Analogies:** for instance (2), for example (1)
 > **Cross-References:** previous video (1)
 > **Documentation:** man page (1)
@@ -4156,8 +4158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), hit (11), cd (2), [[Linux]] (1)
 > **Env Vars:** acl (11), sgid (2)
-> **Code Keywords:** let (8), case, (1), continue (1), default, (1)
 > **CLI Commands:** cd (2), cat (2), mkdir (1), make (1), sudo (1)
 > **File Paths:** aclfile.txt (2), data/file.txt (1)
 > **Cross-References:** previous video (1)
@@ -4262,7 +4264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (11), let (8), default, (2), default: (2), type: (1)
+> **Frameworks & Libraries:** hit (17), cd (1)
 > **Env Vars:** acl (21)
 > **CLI Commands:** cd (1), mkdir (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -4402,10 +4404,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (19), cd (4), data (3), [[Linux]] (1)
 > **File Paths:** file1.txt (5), acls.txt (5), dir1/file1.txt (3), file2.txt (3), file3.txt (3)
 > **Env Vars:** acl (16)
 > **CLI Commands:** cd (4), tar (3), cp (2), mkdir (1)
-> **Code Keywords:** let (5), continue (1), default, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4482,8 +4484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Engineering]] (1), [[Microsoft Products|Products]] (1), hit (1)
 > **CLI Commands:** sudo (4)
-> **Code Keywords:** delete (1)
 > **Env Vars:** acl (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -4632,8 +4634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (15), [[Linux]] (5), power (1)
 > **CLI Commands:** sudo (11), make (3), mkdir (1), chown (1), chmod (1)
-> **Code Keywords:** let (13), delete (2), continue (1)
 > **Env Vars:** acl (5)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -4642,7 +4644,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980)
@@ -4671,6 +4673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), power (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** acl (1)
 > **Cross-References:** we covered (1)

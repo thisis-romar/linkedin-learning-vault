@@ -31,7 +31,7 @@ tags:
   - skill/stark-accessibility-software
   - skill/accessible-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Using%20Stark%20for%20Accessible%20Design%20Projects.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Accessible design with Stark
-  - Software changes
+  - [Accessible design with Stark](#accessible-design-with-stark)
+  - [Software changes](#software-changes)
 - [**1. Installing the Stark Web Tools**](#1-installing-the-stark-web-tools) (2 videos)
-  - Install the Stark browser extension
-  - What are the WCAG 2.0 guidelines?
+  - [Install the Stark browser extension](#install-the-stark-browser-extension)
+  - [What are the WCAG 2.0 guidelines?](#what-are-the-wcag-20-guidelines)
 - [**2. Using Stark**](#2-using-stark) (11 videos)
-  - Conducting a WCAG audit
-  - Using the contrast checker
-  - Using the type checker
-  - Using the ALT text tool
-  - Checking touch targets
-  - Setting and correcting focus order
-  - Stark Landmarks
-  - Using the Vision Simulator
-  - Using the Headings tool
-  - Using Sidekick
-  - Automatic monitoring
+  - [Conducting a WCAG audit](#conducting-a-wcag-audit)
+  - [Using the contrast checker](#using-the-contrast-checker)
+  - [Using the type checker](#using-the-type-checker)
+  - [Using the ALT text tool](#using-the-alt-text-tool)
+  - [Checking touch targets](#checking-touch-targets)
+  - [Setting and correcting focus order](#setting-and-correcting-focus-order)
+  - [Stark Landmarks](#stark-landmarks)
+  - [Using the Vision Simulator](#using-the-vision-simulator)
+  - [Using the Headings tool](#using-the-headings-tool)
+  - [Using Sidekick](#using-sidekick)
+  - [Automatic monitoring](#automatic-monitoring)
 - [**3. Stark for Teams and Enterprises**](#3-stark-for-teams-and-enterprises) (6 videos)
-  - Using the Stark dashboard
-  - Connecting to GitHub
-  - Connecting to a URL
-  - Connecting to Figma
-  - Stark Compliance Center overview
-  - Using the Stark Web tools through a browser's Inspect panel
+  - [Using the Stark dashboard](#using-the-stark-dashboard)
+  - [Connecting to GitHub](#connecting-to-github)
+  - [Connecting to a URL](#connecting-to-a-url)
+  - [Connecting to Figma](#connecting-to-figma)
+  - [Stark Compliance Center overview](#stark-compliance-center-overview)
+  - [Using the Stark Web tools through a browser's Inspect panel](#using-the-stark-web-tools-through-a-browsers-inspect-panel)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible design with Stark
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (7), web (2), [[Accessible Design]] (1), [[Figma (Software)|Figma]] (1), [[Adobe XD]] (1)
 > **Env Vars:** wcag (2), html (1)
 > **Tools:** figma (1)
 > **Analogies:** for example (1)
@@ -140,7 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[LinkedIn]] (1), web (1), [[Accessible Design]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -148,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Installing the Stark Web Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install the Stark browser extension
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980)
@@ -187,6 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Figma (Software)|Figma]] (4), business (1), teams (1), [[Microsoft Products|Products]] (1)
 > **Tools:** figma (4), safari (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (1), before we start (1)
@@ -194,7 +196,6 @@ created: 2026-04-29
 > **URLs:** [getstark.co](https://getstark.co) (1)
 > **Env Vars:** wcag (1)
 > **Cross-References:** in the next (1)
-> **UI Navigation:** open the (1)
 
 #### What are the WCAG 2.0 guidelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980)
@@ -239,6 +240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), web (2), [[Web Development]] (1), [[Design Systems]] (1)
 > **Env Vars:** wcag (6), aaa (3), w3c (1)
 > **Documentation:** w3c (1)
 > **Definitions:** is a  (1)
@@ -249,7 +251,7 @@ created: 2026-04-29
 
 ### 2. Using Stark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conducting a WCAG audit
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980)
@@ -330,8 +332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1), [[HTML]] (1)
 > **Env Vars:** wcag (7), aaa (1), html (1)
-> **Code Keywords:** pass (2), require (1), finally, (1)
 > **Definitions:** is a  (4)
 > **Versions:** 2.2 (1), version 2 (1)
 > **Warnings:** be aware (2)
@@ -430,7 +432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), pass (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Microsoft Word|Word]] (1)
 > **Env Vars:** wcag (2)
 > **Versions:** 4.5 (1), 6.47 (1)
 > **Warnings:** be aware (1)
@@ -503,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Typography]] (10), [[Stark (Accessibility Software)|Stark]] (5), [[HTML]] (1)
 > **Env Vars:** wcag (2), html (1)
-> **Code Keywords:** pass (1), let (1)
 > **UI Navigation:** open the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -557,8 +559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (2), [[HTML]] (1), [[Figma (Software)|Figma]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** html (1)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
@@ -616,6 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (2), [[Android]] (2), [[Zoom]] (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (2)
 > **Documentation:** spec (1), specification (1)
 > **Code Identifiers:** ios (1)
@@ -623,7 +626,6 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (keyboard clicking) (1)
 
 #### Setting and correcting focus order
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980)
@@ -650,9 +652,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Stark (Accessibility Software)|Stark]] (2), [[HTML]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** figma (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -703,8 +705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[HTML]] (1), [[Stark (Accessibility Software)|Stark]] (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for. (1), let (1)
 > **Env Vars:** html (1)
 > **Tools:** figma (1)
 > **UI Navigation:** click on (1)
@@ -777,7 +779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Speakers:** - [instructor] (1)
 
 #### Using the Headings tool
@@ -815,9 +817,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), [[Stark (Accessibility Software)|Stark]] (1), web (1), [[Microsoft Word|Word]] (1), css (1)
 > **Env Vars:** html (2), delicate (1), css (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -947,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), ai (4), [[Figma (Software)|Figma]] (2), feature (1)
 > **Definitions:** is an  (3), is a  (1)
 > **UI Navigation:** select the (3)
 > **Versions:** 4.5 (1), 2.01 (1)
@@ -975,8 +977,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (2), web (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new. (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - the (1)
@@ -984,7 +986,7 @@ created: 2026-04-29
 
 ### 3. Stark for Teams and Enterprises
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Stark dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980)
@@ -1075,8 +1077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), [[Figma (Software)|Figma]] (6), business (4), feature (2), web (1)
 > **Tools:** figma (6), github (1)
-> **Code Keywords:** private (4), let (1), throw (1)
 > **Env Vars:** url (3), wcag (1), csv (1), html (1)
 > **UI Navigation:** go to (3), open the (1)
 > **Prerequisites:** set up (2), install (1), you need to have (1)
@@ -1137,6 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (10), [[GitHub]] (5), [[Figma (Software)|Figma]] (1), web (1), [[LinkedIn]] (1)
 > **Tools:** github (5), figma (1)
 > **Env Vars:** wcag (2), url (1), alt (1)
 > **CLI Commands:** find (1)
@@ -1233,8 +1236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (4), [[HTML]] (2), [[Figma (Software)|Figma]] (2), feature (1), [[GitHub]] (1)
 > **Env Vars:** url (7), html (2), csv (1), xml (1)
-> **Code Keywords:** let (2), delete (1)
 > **Tools:** figma (2), github (1)
 > **Cross-References:** as you saw (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -1283,10 +1286,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (9), [[Stark (Accessibility Software)|Stark]] (7), ux (1), [[Prototyping]] (1), application (1)
 > **Tools:** figma (9)
 > **UI Navigation:** open the (2), select the (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1361,6 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Security]] (2), [[Privacy]] (2), business (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1394,6 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), feature (2), [[HTML]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (2)
 > **Env Vars:** html (1)
@@ -1403,7 +1408,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980)
@@ -1432,8 +1437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (5), [[Stark (Accessibility Software)|Stark]] (4), web (4), [[LinkedIn]] (2), [[Figma (Software)|Figma]] (2)
 > **Tools:** figma (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - well (1)
 
 

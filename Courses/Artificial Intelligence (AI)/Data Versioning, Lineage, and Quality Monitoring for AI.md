@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data%20Versioning%2C%20Lineage%2C%20and%20Quality%20Monitoring%20for%20AI.md)
@@ -54,41 +54,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Prerequisites
-  - Course overview
+  - [Prerequisites](#prerequisites)
+  - [Course overview](#course-overview)
 - [**1. Importance of Data Versioning**](#1-importance-of-data-versioning) (7 videos)
-  - Types of version control
-  - Key concepts in data versioning
-  - Snapshots, lineage, branching and merging, and metadata management
-  - Version control for ML and AI
-  - File-based and checksum hash-based versioning
-  - Database table versioning and change tracking
-  - Data versioning best practices
+  - [Types of version control](#types-of-version-control)
+  - [Key concepts in data versioning](#key-concepts-in-data-versioning)
+  - [Snapshots, lineage, branching and merging, and metadata management](#snapshots-lineage-branching-and-merging-and-metadata-management)
+  - [Version control for ML and AI](#version-control-for-ml-and-ai)
+  - [File-based and checksum hash-based versioning](#file-based-and-checksum-hash-based-versioning)
+  - [Database table versioning and change tracking](#database-table-versioning-and-change-tracking)
+  - [Data versioning best practices](#data-versioning-best-practices)
 - [**2. Implementing Data Versioning using DVC (Data Version Control)**](#2-implementing-data-versioning-using-dvc-data-version-control) (4 videos)
-  - Introducing DVC
-  - Initialize git and DVC
-  - Tracking files using DVC
-  - Versioning data using DVC
+  - [Introducing DVC](#introducing-dvc)
+  - [Initialize git and DVC](#initialize-git-and-dvc)
+  - [Tracking files using DVC](#tracking-files-using-dvc)
+  - [Versioning data using DVC](#versioning-data-using-dvc)
 - [**3. Tracking Data Lineage**](#3-tracking-data-lineage) (7 videos)
-  - Introducing data lineage
-  - Use cases and benefits of data lineage tracking
-  - Data lineage vs. data provenance vs. data governance
-  - Techniques to track data lineage
-  - Best practices for data lineage tracking
-  - Data lineage tools
-  - Data lineage in Microsoft Fabric
+  - [Introducing data lineage](#introducing-data-lineage)
+  - [Use cases and benefits of data lineage tracking](#use-cases-and-benefits-of-data-lineage-tracking)
+  - [Data lineage vs. data provenance vs. data governance](#data-lineage-vs-data-provenance-vs-data-governance)
+  - [Techniques to track data lineage](#techniques-to-track-data-lineage)
+  - [Best practices for data lineage tracking](#best-practices-for-data-lineage-tracking)
+  - [Data lineage tools](#data-lineage-tools)
+  - [Data lineage in Microsoft Fabric](#data-lineage-in-microsoft-fabric)
 - [**4. Monitoring Model and Data Quality**](#4-monitoring-model-and-data-quality) (5 videos)
-  - Issues with data: Processing and schema management
-  - Issues with data: Data loss and bias
-  - Issues with models
-  - Importance of quality monitoring
-  - Metrics to track data and model quality
+  - [Issues with data: Processing and schema management](#issues-with-data-processing-and-schema-management)
+  - [Issues with data: Data loss and bias](#issues-with-data-data-loss-and-bias)
+  - [Issues with models](#issues-with-models)
+  - [Importance of quality monitoring](#importance-of-quality-monitoring)
+  - [Metrics to track data and model quality](#metrics-to-track-data-and-model-quality)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and further study
+  - [Summary and further study](#summary-and-further-study)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/prerequisites?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
@@ -145,7 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (1), finally, (1)
+> **Frameworks & Libraries:** data (17), [[Version Control]] (1), teams (1), [[Microsoft]] (1), ai (1)
 > **Env Vars:** dvc (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -153,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Importance of Data Versioning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980)
@@ -236,11 +236,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (21), data (6), [[Git]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (6), means that (1), is an  (1)
 > **CLI Commands:** make (2), git (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** set up (1), setup (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Key concepts in data versioning
@@ -300,7 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (16), parallel (3), [[Debugging]] (1), teams (1), [[Regulatory Compliance]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -403,7 +403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (4), from, (1)
+> **Frameworks & Libraries:** data (47), management (7), [[Microsoft]] (5), [[Metadata]] (5), [[Snowflake]] (4)
 > **CLI Commands:** make (2), apache (2)
 > **Definitions:** is an  (2), refers to (1), is a  (1)
 > **Env Vars:** merge (1), into (1)
@@ -569,7 +569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), this, (1), self (1)
+> **Frameworks & Libraries:** [[Version Control]] (10), ai (7), data (7), [[Software Development]] (4), [[Feature Engineering]] (2)
 > **Analogies:** such as (5), similar to (1), for example (1)
 > **CLI Commands:** docker (3), python (2), find (1)
 > **Definitions:** is a  (4), refers to (1), is an  (1)
@@ -657,9 +657,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Git]] (6), ai (4), [[Version Control]] (3), management (2)
 > **CLI Commands:** git (6), find (1), apache (1)
 > **Env Vars:** dvc (4), lfs (1), md5 (1), sha56 (1), crc32 (1)
-> **Code Keywords:** implements (2), let (1), finally, (1), extends (1)
 > **Analogies:** such as (2), for example (1)
 > **File Paths:** datasetv1.csv (1), datasetv2.csv (1)
 > **Definitions:** is a  (1)
@@ -726,8 +726,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), database (6), [[Snowflake]] (3), feature (3), [[Microsoft]] (3)
 > **Env Vars:** cdc (2), cdf (2), sql (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -753,15 +753,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Implementing Data Versioning using DVC (Data Version Control)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing DVC
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980)
@@ -860,9 +860,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (40), [[Git]] (17), [[Version Control]] (5), [[Metadata]] (5), management (2)
 > **Env Vars:** dvc (26), dcv (1), hdfs (1)
 > **CLI Commands:** git (17), make (1)
-> **Code Keywords:** extends (2), let (2)
 > **Analogies:** such as (2), just like (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -958,11 +958,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (24), data (9), [[Metadata]] (5), [[Python (Programming Language)|Python]] (4), [[Version Control]] (2)
 > **CLI Commands:** git (24), python (4), pip (3), find (2), make (1)
 > **Env Vars:** dvc (28)
 > **Prerequisites:** install (4), you need to have (2), make sure you have (1), configure (1)
 > **Versions:** python 3 (1), 10.9 (1), 2.39.2 (1), 3.59.1 (1)
-> **Code Keywords:** this . (2), let (1)
 > **Analogies:** just like (1), similar to (1)
 > **Code Identifiers:** dvc_env (1)
 > **Tools:** github (1)
@@ -1076,10 +1076,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), [[Git]] (16), [[Metadata]] (4), [[GitHub]] (2), [[Analytics]] (1)
 > **Env Vars:** dvc (38), git (3), csv (1), md5 (1)
 > **CLI Commands:** git (16), find (2)
 > **File Paths:** data.txt (12), catdata.txt (1), dvcadd.data.txt (1)
-> **Code Keywords:** let (2), this . (2)
 > **Tools:** github (2), bitbucket (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (2), imagine (1)
@@ -1184,11 +1184,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (41), [[Git]] (7), [[Analytics]] (1), [[Version Control]] (1)
 > **File Paths:** data.txt (19), dvc_add_data.txt (1)
 > **CLI Commands:** git (7), find (2), ls (1), make (1)
 > **Code Identifiers:** dvc_push (2), dvc_remote (2), dvc_pull (1), dvc_add_data (1), git_status (1)
 > **Env Vars:** dvc (7)
-> **Code Keywords:** let (6)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** go back to (2)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -1196,7 +1196,7 @@ created: 2026-04-29
 
 ### 3. Tracking Data Lineage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing data lineage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980)
@@ -1243,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), require (1), finally, (1)
+> **Frameworks & Libraries:** data (25), next (2), [[Databases]] (1), etl (1), [[Dashboards]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** etl (1)
 > **Definitions:** refers to (1)
@@ -1294,9 +1294,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), [[Privacy]] (3), [[Dashboards]] (1), [[Troubleshooting]] (1), teams (1)
 > **Env Vars:** gdpr (2), ccpa (2)
 > **Definitions:** is a  (3), stands for (1)
-> **Code Keywords:** let (1), delete (1), require (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1359,7 +1359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), case. (1)
+> **Frameworks & Libraries:** data (52), [[Security]] (3), management (3), [[Debugging]] (2), [[Regulatory Compliance]] (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1398,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), finally, (1)
+> **Frameworks & Libraries:** data (9), management (1), cloud (1), [[Programming]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1439,6 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Metadata]] (7), [[Automation]] (1), ai (1), [[Data Transformation]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1492,7 +1493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), extends (1), interface (1)
+> **Frameworks & Libraries:** data (18), [[Version Control]] (5), teams (5), ai (3), [[Scalability]] (2)
 > **URLs:** [neptune.ai](https://neptune.ai) (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** is an  (1)
@@ -1635,19 +1636,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), [[Microsoft]] (10), [[Analytics]] (6), power (6), bi (6)
 > **Code Identifiers:** car_data (9)
 > **Env Vars:** sql (5), csv (2), acid (1)
 > **Definitions:** is an  (4), is a  (3), is called (1)
 > **UI Navigation:** click on (6), select the (1)
 > **CLI Commands:** apache (4), find (1)
-> **Code Keywords:** let (5)
 > **File Paths:** car_data.csv (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
 
 ### 4. Monitoring Model and Data Quality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Issues with data: Processing and schema management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980)
@@ -1766,8 +1767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (51), [[Metadata]] (1), [[Real-Time]] (1), ai (1), feature (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (3), finally, (2), require (1)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** gdpr (1)
 > **Best Practices:** don't forget (1)
@@ -1876,8 +1877,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (44), [[Microsoft Products|Products]] (3), [[Version Control]] (2), management (2), [[Metadata]] (1)
 > **Analogies:** for example (6), such as (2)
-> **Code Keywords:** finally, (3), let (2), continue (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** lakefs (1)
 > **Env Vars:** dvc (1)
@@ -1964,8 +1965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Scalability]] (2), [[Feature Engineering]] (1), [[Deep Learning]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (2), just like (1), for example (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -2075,7 +2076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** data (54), business (2), management (2), [[Accountability]] (2), feature (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** refers to (1)
@@ -2171,8 +2172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Scalability]] (2), api (1), feature (1), ai (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (2), let (1)
 > **Env Vars:** api (1), qps (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
@@ -2181,7 +2182,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and further study
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980)
@@ -2214,9 +2215,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (5), [[Version Control]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we discussed (2), we covered (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** dvc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

@@ -27,7 +27,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/The%20Manager's%20Guide%20to%20Difficult%20Conversations.md)
@@ -46,35 +46,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Leadership skills and mindsets for difficult conversations
+  - [Leadership skills and mindsets for difficult conversations](#leadership-skills-and-mindsets-for-difficult-conversations)
 - [**1. Understanding and Overcoming Communication Barriers**](#1-understanding-and-overcoming-communication-barriers) (2 videos)
-  - Your conversation style
-  - Overcome the main barrier of difficult conversations
+  - [Your conversation style](#your-conversation-style)
+  - [Overcome the main barrier of difficult conversations](#overcome-the-main-barrier-of-difficult-conversations)
 - [**2. Difficult Conversations Are Part of the Manager's Job**](#2-difficult-conversations-are-part-of-the-managers-job) (3 videos)
-  - How to know it's time for a conversation
-  - Managing emotions
-  - How to address avoided issues
+  - [How to know it's time for a conversation](#how-to-know-its-time-for-a-conversation)
+  - [Managing emotions](#managing-emotions)
+  - [How to address avoided issues](#how-to-address-avoided-issues)
 - [**3. Avoid These Common Mistakes**](#3-avoid-these-common-mistakes) (4 videos)
-  - Online communication mistakes
-  - Playing "power of attorney"
-  - Fixing and rescuing
-  - Getting distracted and losing control
+  - [Online communication mistakes](#online-communication-mistakes)
+  - [Playing "power of attorney"](#playing-power-of-attorney)
+  - [Fixing and rescuing](#fixing-and-rescuing)
+  - [Getting distracted and losing control](#getting-distracted-and-losing-control)
 - [**4. Mindsets That Expand Conflict Competency**](#4-mindsets-that-expand-conflict-competency) (2 videos)
-  - Mindsets: Growth versus fixed
-  - Replace assumptions with curiosity
+  - [Mindsets: Growth versus fixed](#mindsets-growth-versus-fixed)
+  - [Replace assumptions with curiosity](#replace-assumptions-with-curiosity)
 - [**5. Build Strategic Communication Skills**](#5-build-strategic-communication-skills) (5 videos)
-  - Setting communication expectations
-  - Mapping out difficult conversations
-  - Discerning the real communication issue
-  - Listen to own the conversation
-  - Course correct problems
+  - [Setting communication expectations](#setting-communication-expectations)
+  - [Mapping out difficult conversations](#mapping-out-difficult-conversations)
+  - [Discerning the real communication issue](#discerning-the-real-communication-issue)
+  - [Listen to own the conversation](#listen-to-own-the-conversation)
+  - [Course correct problems](#course-correct-problems)
 - [**Making Tough Calls**](#making-tough-calls) (2 videos)
-  - Create a culture of accountability
-  - Making good decisions
+  - [Create a culture of accountability](#create-a-culture-of-accountability)
+  - [Making good decisions](#making-good-decisions)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leadership skills and mindsets for difficult conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/leadership-skills-and-mindsets-for-difficult-conversations-19253142?u=76281980)
@@ -99,13 +99,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Speakers:** - one (1)
 
 
 ### 1. Understanding and Overcoming Communication Barriers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your conversation style
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/your-conversation-style-19258021?u=76281980)
@@ -180,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** leadership (2), business (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - on (1)
@@ -264,8 +263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - i (1)
@@ -273,7 +272,7 @@ created: 2026-04-29
 
 ### 2. Difficult Conversations Are Part of the Manager's Job
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to know it's time for a conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/how-to-know-it-s-time-for-a-conversation-19255036?u=76281980)
@@ -338,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (2)
+> **Frameworks & Libraries:** business (2), next (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
@@ -428,7 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), override (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), power (1)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it as (1), imagine (1)
 > **Prerequisites:** you'll need (1)
@@ -524,7 +523,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - i (2), - suppose (1), - really (1), - yes (1), - great (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** be aware (1)
@@ -532,7 +530,7 @@ created: 2026-04-29
 
 ### 3. Avoid These Common Mistakes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Online communication mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/online-communication-mistakes?u=76281980)
@@ -623,7 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (1), this, (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** rule of thumb (1)
@@ -711,8 +709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), next (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - okay (3), - well (2), - in (1), - but (1), - i (1)
-> **Code Keywords:** let (2), else. (2), this. (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (1), you should never (1)
 > **Warnings:** common mistake (1), note that (1)
@@ -805,8 +803,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - if (1)
@@ -912,15 +910,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2)
 > **Speakers:** - okay (2), - mark (2), - have (1), - we (1), - why (1)
-> **Code Keywords:** let (2), else. (2), this. (1), case. (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 
 
 ### 4. Mindsets That Expand Conflict Competency
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mindsets: Growth versus fixed
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/mindsets-growth-versus-fixed-19258020?u=76281980)
@@ -991,7 +989,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
@@ -1088,8 +1085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 > **Speakers:** - some (1)
@@ -1097,7 +1094,7 @@ created: 2026-04-29
 
 ### 5. Build Strategic Communication Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting communication expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/setting-communication-expectations?u=76281980)
@@ -1174,7 +1171,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), finally, (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
@@ -1258,9 +1254,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), let (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - even (1)
 
@@ -1335,8 +1331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1), this. (1), case, (1)
 > **Ports:** :30 (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Exercise Files:** exercise files (1)
@@ -1436,7 +1432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1523,7 +1519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1)
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - a (1)
@@ -1531,7 +1527,7 @@ created: 2026-04-29
 
 ### Making Tough Calls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a culture of accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980)
@@ -1604,7 +1600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Accountability]] (15), next (2), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - jada (1)
@@ -1650,8 +1646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Accountability]] (1), leadership (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - thank (1)
 
 

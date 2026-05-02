@@ -28,7 +28,7 @@ tags:
   - skill/api-development
   - skill/asp-net-core
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Web%20APIs%20with%20ASP.NET%20Core%208.md)
@@ -47,47 +47,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Web APIs with ASP.NET Core 8
-  - Why an API?
-  - What you should know
+  - [Web APIs with ASP.NET Core 8](#web-apis-with-aspnet-core-8)
+  - [Why an API?](#why-an-api)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started**](#1-getting-started) (8 videos)
-  - Prerequisites and setup
-  - "Hello World," API style
-  - "Hello World" with Visual Studio Code
-  - Minimal APIs
-  - HTTP in a nutshell
-  - REST basics
-  - API design basics
-  - Tools for API testing
+  - [Prerequisites and setup](#prerequisites-and-setup)
+  - ["Hello World," API style](#hello-world-api-style)
+  - ["Hello World" with Visual Studio Code](#hello-world-with-visual-studio-code)
+  - [Minimal APIs](#minimal-apis)
+  - [HTTP in a nutshell](#http-in-a-nutshell)
+  - [REST basics](#rest-basics)
+  - [API design basics](#api-design-basics)
+  - [Tools for API testing](#tools-for-api-testing)
 - [**2. Retrieving Data**](#2-retrieving-data) (12 videos)
-  - Controllers and actions
-  - Routing basics
-  - Creating a data model
-  - Using entity framework core
-  - Returning a list of items
-  - Using ActionResult
-  - Returning an item
-  - Handling errors
-  - Making the API asynchronous
-  - Working with minimal APIs
-  - Challenge: Searching items
-  - Solution: Searching items
+  - [Controllers and actions](#controllers-and-actions)
+  - [Routing basics](#routing-basics)
+  - [Creating a data model](#creating-a-data-model)
+  - [Using entity framework core](#using-entity-framework-core)
+  - [Returning a list of items](#returning-a-list-of-items)
+  - [Using ActionResult](#using-actionresult)
+  - [Returning an item](#returning-an-item)
+  - [Handling errors](#handling-errors)
+  - [Making the API asynchronous](#making-the-api-asynchronous)
+  - [Working with minimal APIs](#working-with-minimal-apis)
+  - [Challenge: Searching items](#challenge-searching-items)
+  - [Solution: Searching items](#solution-searching-items)
 - [**3. Writing Data**](#3-writing-data) (9 videos)
-  - HTTP methods
-  - Model binding
-  - Adding an item with POST
-  - Model validation
-  - Updating an item with PUT
-  - Deleting an item with DELETE
-  - Migrating the code to Minimal APIs
-  - Challenge: Deleting several items
-  - Solution: Deleting several items
+  - [HTTP methods](#http-methods)
+  - [Model binding](#model-binding)
+  - [Adding an item with POST](#adding-an-item-with-post)
+  - [Model validation](#model-validation)
+  - [Updating an item with PUT](#updating-an-item-with-put)
+  - [Deleting an item with DELETE](#deleting-an-item-with-delete)
+  - [Migrating the code to Minimal APIs](#migrating-the-code-to-minimal-apis)
+  - [Challenge: Deleting several items](#challenge-deleting-several-items)
+  - [Solution: Deleting several items](#solution-deleting-several-items)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web APIs with ASP.NET Core 8
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980)
@@ -112,9 +112,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), api (2), [[ASP.NET Core]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2), asp (2), net (2), http (1)
 > **URLs:** [asp.net](https://asp.net) (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [christian] (1)
 
 #### Why an API?
@@ -148,9 +148,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET Core]] (3), web (3), api (3), data (2), [[ASP.NET]] (1)
 > **Env Vars:** net (10), asp (4), api (3)
 > **URLs:** [asp.net](https://asp.net) (4)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [christian] (1)
 
@@ -203,16 +203,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[ASP.NET Core]] (4), api (2)
 > **Env Vars:** net (14), asp (4), api (2), http (2), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (4)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** basically means (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980)
@@ -335,9 +335,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft]] (3), [[Linux]] (2), web (2), [[ASP.NET Core]] (1)
 > **Tools:** visual studio (29), postman (3)
 > **Env Vars:** net (4), ide (4), net8 (2), htp (2), asp (1)
-> **Code Keywords:** let (2), for . (2)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (2), [asp.net](https://asp.net) (1), [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (2), initialization (1)
@@ -485,10 +485,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), web (6), application (4), [[ASP.NET Core]] (2), hit (2)
 > **Env Vars:** api (13), net (7), asp (2), sdk (1), https (1)
 > **Tools:** visual studio (6), postman (1)
 > **Exercise Files:** template (4)
-> **Code Keywords:** let (1), new, (1), this, (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Prerequisites:** set up (2)
@@ -585,10 +585,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), api (8), [[Debugging]] (4), application (3), [[Java]] (2)
 > **Env Vars:** api (8), https (4), asp (2), cli (2), net (1)
 > **Tools:** visual studio (10), terminal (2), command line (1)
 > **CLI Commands:** dotnet (6)
-> **Code Keywords:** else. (1), switch (1), default. (1), interface (1)
 > **Exercise Files:** template (2)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** install (1), set up (1)
@@ -647,10 +647,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), feature (3), web (2), [[CLI]] (1), business (1)
 > **Env Vars:** api (5), cli (1)
 > **UI Navigation:** checkbox (3)
 > **Exercise Files:** boilerplate (1), template (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -742,9 +742,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), data (5), web (3), [[JSON]] (3), [[HTML]] (2)
 > **Env Vars:** http (15), api (7), htp (5), json (3), hgp (2)
 > **Versions:** 1.1 (5), 1.0 (1)
-> **Code Keywords:** let (3), abstract (1), for, (1)
 > **Documentation:** specification (5)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for instance (3)
@@ -870,8 +870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), api (7), next (2), application (2), data (2)
 > **Env Vars:** http (11), rest (8), api (7), uri (2), uci (1)
-> **Code Keywords:** let (3), interface (1), this. (1), from, (1), self (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 1.1 (1)
@@ -992,9 +992,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), product (9), api (8), web (3), [[ASP.NET Core]] (2)
 > **Env Vars:** api (6), http (6), net (4), uri (3), asp (2)
 > **API Endpoints:** post  (2), put  (2), get  (1), delete  (1)
-> **Code Keywords:** delete (3), this, (1), this. (1)
 > **URLs:** [hplussport.com](https://hplussport.com) (3), [asp.net](https://asp.net) (2)
 > **Analogies:** for instance (1)
 > **Warnings:** gotcha (1)
@@ -1090,10 +1090,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), hit (3), [[JSON]] (3), web (3), data (2)
 > **Env Vars:** api (5), json (3), f12 (3), http (2), url (1)
 > **Tools:** postman (3), visual studio (1)
 > **Analogies:** for instance (3)
-> **Code Keywords:** override (1), finally, (1)
 > **URLs:** [getpostman.com](https://getpostman.com) (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** click on (1)
@@ -1102,7 +1102,7 @@ created: 2026-04-29
 
 ### 2. Retrieving Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Controllers and actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980)
@@ -1255,8 +1255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), [[ASP.NET Core]] (3), web (3), [[CLI]] (3), application (3)
 > **Env Vars:** api (16), net (6), http (4), asp (3), cli (3)
-> **Code Keywords:** let (3), class, (2), class. (1), switch (1), this, (1)
 > **URLs:** [asp.net](https://asp.net) (3), [hplussport.com](https://hplussport.com) (1)
 > **Prerequisites:** set up (3), setup (1)
 > **API Endpoints:** get  (3)
@@ -1353,8 +1353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (15), api (8), [[Routing]] (3), application (2), data (2)
 > **Env Vars:** url (9), http (3), api (3), json (2)
-> **Code Keywords:** let (5), this, (4), public (1), type. (1), else, (1)
 > **Definitions:** is a  (3), means that (1)
 > **API Endpoints:** get  (1), /api/products (1)
 > **Exercise Files:** template (1)
@@ -1486,7 +1486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (3), this, (1), switch (1), catch. (1)
+> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (8), data (7), api (4), [[JSON]] (3)
 > **Env Vars:** api (4), json (3), asp (1), net (1), sql (1)
 > **Prerequisites:** set up (3)
 > **Definitions:** is a  (2)
@@ -1602,7 +1602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), class, (1), case, (1), protected (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (7), [[Microsoft]] (5), database (5), data (5)
 > **Prerequisites:** install (3), configure (3)
 > **Env Vars:** api (4), sql (1)
 > **Tools:** visual studio (2), command line (1)
@@ -1692,8 +1692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), data (5), api (4), database (3), [[JSON]] (3)
 > **Env Vars:** api (3), json (3), asp (1), net (1)
-> **Code Keywords:** this, (2), this. (1), case. (1), let (1), private (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -1748,8 +1748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Microsoft Products|Products]] (3), data (2), product (1), [[JSON]] (1)
 > **Env Vars:** http (7), api (2), json (1)
-> **Code Keywords:** return. (2), type. (1), default. (1), else, (1), case, (1)
 > **Definitions:** is a  (2), basically means (1), is an  (1), is called (1)
 > **UI Navigation:** go to (2)
 > **Tools:** visual studio (1)
@@ -1844,8 +1844,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (7), api (6), [[Representational State Transfer (REST)|Rest]] (1), [[Routing]] (1)
 > **Env Vars:** api (6), url (1), asp (1), net (1)
-> **Code Keywords:** let (3), this: (1), public (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1900,8 +1900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), web (3), api (2), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **Env Vars:** http (8), api (2), rest (1), json (1), url (1)
-> **Code Keywords:** let (2)
 > **Documentation:** specification (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1949,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (5), public (4), await (4), let (2), finally, (1)
+> **Frameworks & Libraries:** data (4), product (3), [[Microsoft Products|Products]] (2), api (1)
 > **Env Vars:** net (2), api (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
@@ -2036,8 +2036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), api (8), product (2), database (2), [[ASP.NET Core]] (1)
 > **Env Vars:** api (5), asp (1), net (1), http (1)
-> **Code Keywords:** await (2), let (2), lambda (1), async (1), return. (1)
 > **API Endpoints:** /api/products (2)
 > **CLI Commands:** make (1)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -2058,6 +2058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[Microsoft Products|Products]] (2), [[ASP.NET Core]] (1), web (1)
 > **Env Vars:** api (2), uri (1), asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [narrator] (1)
@@ -2118,7 +2119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (2), public (1), await (1), return. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), product (3), api (2), [[Dependency Injection]] (1), hit (1)
 > **Env Vars:** uri (2), api (1)
 > **CLI Commands:** find (1)
 > **API Endpoints:** /api/products/available (1)
@@ -2130,7 +2131,7 @@ created: 2026-04-29
 
 ### 3. Writing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### HTTP methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980)
@@ -2175,9 +2176,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), application (2), api (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (10), post (4), crud (3), uri (2), api (2)
 > **API Endpoints:** post  (4), get  (2), put  (2), delete  (1)
-> **Code Keywords:** let (2), delete (2), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2252,8 +2253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), api (3), next (2), [[Routing]] (2), [[ASP.NET Core]] (2)
 > **Env Vars:** http (6), api (3), asp (2), net (2), uri (1)
-> **Code Keywords:** case, (1), from. (1), type, (1), super (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -2464,8 +2465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (28), data (18), api (7), [[JSON]] (7), [[Microsoft Products|Products]] (6)
 > **Env Vars:** http (12), api (6), json (5), asp (2), net (2)
-> **Code Keywords:** let (4), this. (2), switch (2), await (1), public (1)
 > **Definitions:** is a  (1), is an  (1), is called (1), means that (1)
 > **API Endpoints:** /api/products (1), get
  (1), post
@@ -2574,7 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), switch (1), default, (1)
+> **Frameworks & Libraries:** api (4), product (2), [[ASP.NET Core]] (1), hit (1), data (1)
 > **Env Vars:** api (4), http (2), asp (1), net (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is called (1)
@@ -2718,8 +2719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (27), [[Microsoft Products|Products]] (7), api (5), database (5), data (4)
 > **Env Vars:** http (5), api (5), uri (3), url (1)
-> **Code Keywords:** async (4), let (2), public (1), await (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2), find (2)
 > **Versions:** 8.99 (2)
@@ -2828,7 +2829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), finally, (2), let (2), case. (1), return. (1)
+> **Frameworks & Libraries:** product (20), data (5), [[Microsoft Products|Products]] (4), api (3), database (2)
 > **Env Vars:** http (6), crud (2), uri (2)
 > **API Endpoints:** /api/products/42 (1), /api/products (1), /api/products/34 (1)
 > **CLI Commands:** find (2)
@@ -2966,8 +2967,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (20), api (11), hit (5), database (2), [[Dependency Injection]] (2)
 > **Env Vars:** api (11), http (4), hcp (1), uri (1), url (1)
-> **Code Keywords:** delete (4), let (3), yield (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2986,8 +2987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), product (1), data (1)
 > **Env Vars:** api (2), uri (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat rhythmic music) (1)
 
@@ -3098,7 +3099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), let (2), async (2), case, (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (16), product (6), api (6), data (2), [[Routing]] (1)
 > **Env Vars:** http (3), api (2), url (1)
 > **API Endpoints:** /api/products/delete (2), /api/product/delete (2)
 > **CLI Commands:** make (2), find (1)
@@ -3110,7 +3111,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980)
@@ -3167,11 +3168,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), [[ASP.NET Core]] (5), [[Security]] (4), web (3), data (1)
 > **Env Vars:** api (10), asp (5), net (5), https (1)
 > **URLs:** [asp.net](https://asp.net) (5)
 > **Analogies:** such as (1), imagine (1), for instance (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** continue (1), this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

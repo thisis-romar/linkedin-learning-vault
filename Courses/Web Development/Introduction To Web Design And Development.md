@@ -28,7 +28,7 @@ tags:
   - skill/html
   - skill/web-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Introduction%20To%20Web%20Design%20And%20Development.md)
@@ -47,48 +47,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Web design and development in the code and no-code era
+  - [Web design and development in the code and no-code era](#web-design-and-development-in-the-code-and-no-code-era)
 - [**1. Understanding the Web**](#1-understanding-the-web) (4 videos)
-  - Understanding clients and servers
-  - Understanding the cloud vs. a website
-  - Understanding native apps vs. web apps
-  - Understanding web browsers
+  - [Understanding clients and servers](#understanding-clients-and-servers)
+  - [Understanding the cloud vs. a website](#understanding-the-cloud-vs-a-website)
+  - [Understanding native apps vs. web apps](#understanding-native-apps-vs-web-apps)
+  - [Understanding web browsers](#understanding-web-browsers)
 - [**2. Planning and Prototyping**](#2-planning-and-prototyping) (4 videos)
-  - Understanding user experience (UX) and website planning
-  - Understanding user interface (UI) design
-  - Prototyping tools
-  - Graphic design tools
+  - [Understanding user experience (UX) and website planning](#understanding-user-experience-ux-and-website-planning)
+  - [Understanding user interface (UI) design](#understanding-user-interface-ui-design)
+  - [Prototyping tools](#prototyping-tools)
+  - [Graphic design tools](#graphic-design-tools)
 - [**3. Three Technologies of the Front End**](#3-three-technologies-of-the-front-end) (4 videos)
-  - Understanding HTML
-  - Understanding CSS
-  - Understanding JavaScript
-  - What is a framework?
+  - [Understanding HTML](#understanding-html)
+  - [Understanding CSS](#understanding-css)
+  - [Understanding JavaScript](#understanding-javascript)
+  - [What is a framework?](#what-is-a-framework)
 - [**4. Writing Code**](#4-writing-code) (6 videos)
-  - Introducing writing code using CodePen
-  - Writing HTML
-  - Writing CSS
-  - Writing JavaScript
-  - Challenge: Write HTML and CSS
-  - Solution: Write HTML and CSS
+  - [Introducing writing code using CodePen](#introducing-writing-code-using-codepen)
+  - [Writing HTML](#writing-html)
+  - [Writing CSS](#writing-css)
+  - [Writing JavaScript](#writing-javascript)
+  - [Challenge: Write HTML and CSS](#challenge-write-html-and-css)
+  - [Solution: Write HTML and CSS](#solution-write-html-and-css)
 - [**5. Supporting Web Development Technologies**](#5-supporting-web-development-technologies) (4 videos)
-  - Choosing an editor for writing code
-  - Keeping files organized with GitHub
-  - Choosing a web host
-  - Registering a domain name
+  - [Choosing an editor for writing code](#choosing-an-editor-for-writing-code)
+  - [Keeping files organized with GitHub](#keeping-files-organized-with-github)
+  - [Choosing a web host](#choosing-a-web-host)
+  - [Registering a domain name](#registering-a-domain-name)
 - [**6. Exploring No-Code Solutions**](#6-exploring-no-code-solutions) (7 videos)
-  - What is the no-code movement?
-  - All-in-one solutions: Content management systems
-  - Selling things online: Shopping cart solutions
-  - Simple website builders for small sites
-  - Complex website builders with fine-grained control
-  - Dashboards and databases
-  - Web app and native app development
+  - [What is the no-code movement?](#what-is-the-no-code-movement)
+  - [All-in-one solutions: Content management systems](#all-in-one-solutions-content-management-systems)
+  - [Selling things online: Shopping cart solutions](#selling-things-online-shopping-cart-solutions)
+  - [Simple website builders for small sites](#simple-website-builders-for-small-sites)
+  - [Complex website builders with fine-grained control](#complex-website-builders-with-fine-grained-control)
+  - [Dashboards and databases](#dashboards-and-databases)
+  - [Web app and native app development](#web-app-and-native-app-development)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn more with learning paths
+  - [Learn more with learning paths](#learn-more-with-learning-paths)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web design and development in the code and no-code era
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1), let (1)
+> **Frameworks & Libraries:** web (3), management (1), [[User Experience (UX)|User experience]] (1), [[User Interface Design]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** cern (1), html (1), css (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -130,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding clients and servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980)
@@ -207,7 +207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), function (1)
+> **Frameworks & Libraries:** web (16), [[Hardware]] (4), [[Microsoft Word|Word]] (1), database (1), cloud (1)
 > **CLI Commands:** apache (1), nginx (1)
 > **Env Vars:** nginx (1), ibm (1)
 > **Tools:** firefox (1), safari (1)
@@ -286,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), web (8), application (4), [[Microsoft Outlook|Outlook]] (2), [[Google Drive]] (1)
 > **Code Identifiers:** ebay (2), icloud (1)
-> **Code Keywords:** finally, (1), function (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -378,7 +378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), case, (2), require (1)
+> **Frameworks & Libraries:** web (20), [[Programming]] (5), [[JavaScript]] (2), [[Android]] (1), [[Java]] (1)
 > **Env Vars:** ios (1), sdk (1), html (1), css (1), php (1)
 > **CLI Commands:** php (1), python (1), ruby (1)
 > **Definitions:** is an  (2)
@@ -448,9 +448,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[HTML]] (3), css (3), [[JavaScript]] (3), [[Windows]] (1)
 > **Env Vars:** html (3), css (3), w3c (2), mdn (1)
 > **Tools:** firefox (2), safari (2)
-> **Code Keywords:** function (2), case, (1)
 > **Documentation:** w3c (2), mdn (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
@@ -460,7 +460,7 @@ created: 2026-04-29
 
 ### 2. Planning and Prototyping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding user experience (UX) and website planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980)
@@ -529,7 +529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), pass (1), let (1), finally, (1)
+> **Frameworks & Libraries:** ux (18), product (6), [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1), [[Google]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** figma (1)
 > **Definitions:** refers to (1)
@@ -603,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5)
+> **Frameworks & Libraries:** web (5), ux (5), [[Programming]] (4), [[JavaScript]] (3), [[Prototyping]] (3)
 > **Tools:** figma (1), sublime (1), vs code (1), command line (1), github (1)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** git (1), node (1), make (1)
@@ -784,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (5), interface (4), this, (2), else. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (10), [[Prototyping]] (6), [[Zoom]] (6), product (3), web application (2)
 > **CLI Commands:** make (9), find (1)
 > **Tools:** figma (10)
 > **Definitions:** is a  (5), in other words (1), is called (1)
@@ -852,8 +852,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Graphic Design]] (6), [[Canva]] (3), [[Figma (Software)|Figma]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), career (1)
 > **Env Vars:** svg (1), gif (1), png (1), jpeg (1)
-> **Code Keywords:** interface (3)
 > **Tools:** figma (2)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
@@ -862,7 +862,7 @@ created: 2026-04-29
 
 ### 3. Three Technologies of the Front End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980)
@@ -951,8 +951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (12), css (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), web (1)
 > **Env Vars:** html (12), css (2)
-> **Code Keywords:** case, (3), let (2), finally, (2), function (1), default, (1)
 > **Definitions:** is an  (3), stands for (2), refers to (1), in other words (1)
 > **Speakers:** - html (1)
 
@@ -1021,11 +1021,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (13), [[HTML]] (5), web (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Microsoft Word]] (1)
 > **Env Vars:** css (13), html (5)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** super (1)
 > **Warnings:** warning (1)
 > **Speakers:** - css (1)
 
@@ -1082,9 +1082,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (4), web (3), css (3), [[Java]] (2)
 > **Env Vars:** html (4), css (3)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** case, (1), this, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - imagine (1)
@@ -1152,9 +1152,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[JavaScript]] (4), css (3), [[HTML]] (3), web application (1)
 > **Env Vars:** css (3), html (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1)
 > **URLs:** [getbootstrap.com](https://getbootstrap.com) (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - if (1)
@@ -1162,7 +1162,7 @@ created: 2026-04-29
 
 ### 4. Writing Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing writing code using CodePen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980)
@@ -1249,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), case, (1), default, (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[CodePen]] (4), css (3), [[JavaScript]] (2), next (2)
 > **Env Vars:** html (6), css (3), ff0000 (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -1406,7 +1406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), function (1), class= (1), super (1)
+> **Frameworks & Libraries:** [[HTML]] (8), web (4), [[CodePen]] (4), next (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** html (8), css (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1), as you saw (1)
@@ -1590,7 +1590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (5), finally, (3), default, (1), class, (1)
+> **Frameworks & Libraries:** css (9), [[Microsoft Word|Word]] (7), [[HTML]] (2), next (2), [[JavaScript]] (2)
 > **Env Vars:** css (9), html (2), f2c33c (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (3), is called (1), in other words (1)
@@ -1757,8 +1757,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (12), css (10), [[HTML]] (8), web (2), [[CodePen]] (1)
 > **Env Vars:** css (10), html (8)
-> **Code Keywords:** let (7), switch (4), function (1), finally, (1), this. (1)
 > **CLI Commands:** make (6), find (5)
 > **Definitions:** is a  (3), in other words (1)
 > **UI Navigation:** toggle (3)
@@ -1819,9 +1819,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[CodePen]] (3), [[HTML]] (2), web (1), next (1)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** continue (1), this. (1), else. (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **URLs:** [flatuicolors.com](https://flatuicolors.com) (1)
 > **UI Navigation:** click on (1)
@@ -1889,6 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[HTML]] (3)
 > **Env Vars:** css (4), html (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1), similar to (1)
@@ -1899,7 +1900,7 @@ created: 2026-04-29
 
 ### 5. Supporting Web Development Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing an editor for writing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980)
@@ -1964,9 +1965,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (3), [[Microsoft]] (3), [[LinkedIn]] (2), [[GitHub]] (2)
 > **Tools:** vs code (5), atom (5), github (2), sublime (2), visual studio (1)
 > **URLs:** [vscode.dev](https://vscode.dev) (1), [atom.io](https://atom.io) (1), [brackets.io](https://brackets.io) (1), [sublimetext.com](https://sublimetext.com) (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** html (1), css (1)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** find (1)
@@ -2046,9 +2047,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Git]] (10), [[Web Development]] (2), [[Microsoft Word]] (1), management (1)
 > **CLI Commands:** git (10), make (1)
 > **Tools:** github (10), command line (1)
-> **Code Keywords:** let (3), case, (1), this, (1)
 > **Definitions:** is a  (2)
 > **URLs:** [github.com](https://github.com) (1)
 > **Cross-References:** go back to (1)
@@ -2111,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), this. (1), private (1), finally, (1)
+> **Frameworks & Libraries:** web (12), [[GitHub]] (5), cloud (4), traffic (3), career (2)
 > **Tools:** github (5)
 > **Env Vars:** html (1), css (1), vps (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -2191,11 +2192,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[LinkedIn]] (2), [[Google]] (1), dns (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1), [jenkramer.org](https://jenkramer.org) (1), [jenkramer.net](https://jenkramer.net) (1), [or.org](https://or.org) (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** dns (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -2203,7 +2204,7 @@ created: 2026-04-29
 
 ### 6. Exploring No-Code Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the no-code movement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980)
@@ -2300,8 +2301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (13), [[HTML]] (5), [[Microsoft]] (5), [[WordPress]] (4), next (4)
 > **Env Vars:** html (5), ftp (1), cnn (1), css (1), api (1)
-> **Code Keywords:** finally, (1), this, (1), require (1), let (1)
 > **Cross-References:** in the next (2), next chapter (1), in the last (1)
 > **Prerequisites:** install (1), configure (1)
 > **Versions:** 65.1 (1)
@@ -2387,9 +2388,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cms (10), [[WordPress]] (8), [[Drupal]] (3), web (2), database (2)
 > **Env Vars:** cms (10), html (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this. (2), finally, (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (2), [wordpres.com](https://wordpres.com) (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), means that (1)
@@ -2453,9 +2454,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), management (2), cms (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** set up (1), configure (1), you'll need (1)
-> **Code Keywords:** interface (1), this, (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - if (1)
 
@@ -2516,7 +2517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** business (2), generic (1), [[Microsoft Products|Products]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), data (1)
 > **Analogies:** for example (1)
 > **Speakers:** - most (1)
 
@@ -2571,8 +2572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[JavaScript]] (3), [[WordPress]] (2), [[Figma (Software)|Figma]] (2)
 > **Env Vars:** html (4), css (4)
-> **Code Keywords:** interface (1), this, (1), finally, (1), this. (1)
 > **Tools:** figma (2)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - squarespace (1)
@@ -2628,7 +2629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), let (1), this. (1), require (1)
+> **Frameworks & Libraries:** database (6), data (4), [[Dashboards]] (2), api (2), web (1)
 > **Env Vars:** api (2)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -2697,8 +2698,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (13), [[Google]] (6), [[Android]] (3), [[Hardware]] (3), data (2)
 > **Definitions:** means that (2), is a  (1)
-> **Code Keywords:** let (1), interface (1)
 > **Code Identifiers:** ios (2)
 > **Exercise Files:** template (1)
 > **Analogies:** picture (1)
@@ -2707,7 +2708,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more with learning paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980)
@@ -2754,8 +2755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), css (4), web (3), [[User Experience (UX)|User experience]] (2), career (2)
 > **Env Vars:** html (5), css (4)
-> **Code Keywords:** let (1), interface (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jen] (1)

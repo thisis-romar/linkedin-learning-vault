@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%202%20Content%20and%20Fields.md)
@@ -48,27 +48,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to the course
+  - [Introduction to the course](#introduction-to-the-course)
 - [**1. Content Explained**](#1-content-explained) (8 videos)
-  - Content explained
-  - Adding an article
-  - Adding a basic page
-  - Editing a node
-  - Using the WYSIWYG editor
-  - Configuring text formats
-  - Planning your content types
-  - Creating content types
+  - [Content explained](#content-explained)
+  - [Adding an article](#adding-an-article)
+  - [Adding a basic page](#adding-a-basic-page)
+  - [Editing a node](#editing-a-node)
+  - [Using the WYSIWYG editor](#using-the-wysiwyg-editor)
+  - [Configuring text formats](#configuring-text-formats)
+  - [Planning your content types](#planning-your-content-types)
+  - [Creating content types](#creating-content-types)
 - [**2. Fields Explained**](#2-fields-explained) (6 videos)
-  - Fields explained: Introduction and definitions
-  - Adding fields to the business content type
-  - Adding fields to the locations content type
-  - Adding fields to the events content type
-  - Modifying the article content type
-  - Testing your content types
+  - [Fields explained: Introduction and definitions](#fields-explained-introduction-and-definitions)
+  - [Adding fields to the business content type](#adding-fields-to-the-business-content-type)
+  - [Adding fields to the locations content type](#adding-fields-to-the-locations-content-type)
+  - [Adding fields to the events content type](#adding-fields-to-the-events-content-type)
+  - [Modifying the article content type](#modifying-the-article-content-type)
+  - [Testing your content types](#testing-your-content-types)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/introduction-to-the-course?u=76281980)
@@ -95,14 +95,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), let (1)
+> **Frameworks & Libraries:** [[Drupal]] (3), data (1)
 > **Speakers:** - hi (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 1. Content Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Content explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980)
@@ -225,7 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), case, (2), pass (1), let (1), type. (1)
+> **Frameworks & Libraries:** [[Drupal]] (12), data (6), [[Content Management]] (2), [[Content Management Systems (CMS)|Content management systems]] (2), cms (2)
 > **Env Vars:** cms (2), html (2), css (2), mp3 (1)
 > **CLI Commands:** find (2), node (1), make (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -345,7 +345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (2), this. (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Drupal]] (3), node (2), data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (2), make (1)
 > **URLs:** [lipsom.com](https://lipsom.com) (1), [baconipsum.com](https://baconipsum.com) (1), [vegetarianipsum.com](https://vegetarianipsum.com) (1)
 > **UI Navigation:** click on (2)
@@ -407,7 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (2), case, (2), require (1), type, (1)
+> **Frameworks & Libraries:** node (3), [[Drupal]] (1), data (1)
 > **CLI Commands:** node (3)
 > **Analogies:** kind of like (1), such as (1)
 > **Env Vars:** pga (1)
@@ -472,9 +472,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), [[Drupal]] (5), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (11), make (4)
 > **UI Navigation:** click on (3)
-> **Code Keywords:** type. (2)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -610,9 +610,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (18), [[Drupal]] (7), node (6), [[Microsoft Word|Word]] (3), hit (3)
 > **Env Vars:** html (18), wysiwyg (5), url (1)
 > **CLI Commands:** make (7), node (6)
-> **Code Keywords:** for, (1), default. (1), break. (1), module (1), switch (1)
 > **UI Navigation:** select the (1), in the toolbar (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -700,8 +700,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (18), [[Drupal]] (2), node (1), data (1)
 > **Env Vars:** html (18), wysiwyg (1)
-> **Code Keywords:** let (2), while. (1), switch (1), this, (1)
 > **UI Navigation:** in the toolbar (1), click on (1), switch to (1), select the (1), scroll down (1)
 > **CLI Commands:** make (3), node (1)
 > **Prerequisites:** you'll need (2), configure (1)
@@ -732,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (4)
+> **Frameworks & Libraries:** business (2), [[Google]] (1), web (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Creating content types
@@ -834,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (8)
+> **Frameworks & Libraries:** business (6), [[Drupal]] (2), database (1), [[Version Control]] (1)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -842,7 +842,7 @@ created: 2026-04-29
 
 ### 2. Fields Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fields explained: Introduction and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980)
@@ -893,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), let (1)
+> **Frameworks & Libraries:** business (4), data (2), cms (1), [[Drupal]] (1), database (1)
 > **Cross-References:** we talked about (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cms (1)
@@ -1011,7 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (3), module (3), type. (1), require (1)
+> **Frameworks & Libraries:** business (14), [[Google]] (3), [[Microsoft Word|Word]] (1), management (1), application (1)
 > **UI Navigation:** click on (5), select the (2), scroll down (2)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** png (1), gif (1), jpg (1), url (1)
@@ -1053,7 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), continue (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding fields to the events content type
@@ -1181,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (4), continue (3), case, (1), delete (1)
+> **Frameworks & Libraries:** data (2), [[Drupal]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (2), click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1259,7 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), type, (2), delete (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
@@ -1412,7 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (2), type. (2), module (1), type, (1)
+> **Frameworks & Libraries:** business (16), [[Drupal]] (7), node (5), web (2), [[Google]] (1)
 > **CLI Commands:** node (5), make (1)
 > **Tools:** safari (3)
 > **URLs:** [ostraining.com](https://ostraining.com) (1), [https://ostraining.com/drupal](https://ostraining.com/drupal) (1)

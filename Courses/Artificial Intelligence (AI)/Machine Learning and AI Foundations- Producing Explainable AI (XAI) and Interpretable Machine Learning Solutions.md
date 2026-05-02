@@ -35,7 +35,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Producing%20Explainable%20AI%20(XAI)%20and%20Interpretable%20Machine%20Learning%20Solutions.md)
@@ -54,54 +54,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Exploring the world of explainable AI and interpretable machine learning
-  - Target audience
-  - What you should know
+  - [Exploring the world of explainable AI and interpretable machine learning](#exploring-the-world-of-explainable-ai-and-interpretable-machine-learning)
+  - [Target audience](#target-audience)
+  - [What you should know](#what-you-should-know)
 - [**1. What Are XAI and IML?**](#1-what-are-xai-and-iml) (7 videos)
-  - Understanding the what and why your models predict
-  - Variable importance and reason codes
-  - Comparing IML and XAI
-  - Trends in AI making the XAI problem more prominent
-  - Local and global explanations
-  - XAI for debugging models
-  - KNIME support of global and local explanations
+  - [Understanding the what and why your models predict](#understanding-the-what-and-why-your-models-predict)
+  - [Variable importance and reason codes](#variable-importance-and-reason-codes)
+  - [Comparing IML and XAI](#comparing-iml-and-xai)
+  - [Trends in AI making the XAI problem more prominent](#trends-in-ai-making-the-xai-problem-more-prominent)
+  - [Local and global explanations](#local-and-global-explanations)
+  - [XAI for debugging models](#xai-for-debugging-models)
+  - [KNIME support of global and local explanations](#knime-support-of-global-and-local-explanations)
 - [**2. Why Isolating a Variable’s Contribution Is Difficult**](#2-why-isolating-a-variables-contribution-is-difficult) (3 videos)
-  - Challenges of variable attribution with linear regression
-  - Challenges of variable attribution with neural networks
-  - Rashomon effect
+  - [Challenges of variable attribution with linear regression](#challenges-of-variable-attribution-with-linear-regression)
+  - [Challenges of variable attribution with neural networks](#challenges-of-variable-attribution-with-neural-networks)
+  - [Rashomon effect](#rashomon-effect)
 - [**3. Black Box Model 101**](#3-black-box-model-101) (4 videos)
-  - What qualifies as a black box?
-  - Why do we have black box models?
-  - What is the accuracy interpretability tradeoff?
-  - The argument against XAI
+  - [What qualifies as a black box?](#what-qualifies-as-a-black-box)
+  - [Why do we have black box models?](#why-do-we-have-black-box-models)
+  - [What is the accuracy interpretability tradeoff?](#what-is-the-accuracy-interpretability-tradeoff)
+  - [The argument against XAI](#the-argument-against-xai)
 - [**4. Introduction to KNIME for XAI and IML**](#4-introduction-to-knime-for-xai-and-iml) (4 videos)
-  - Introducing KNIME
-  - Building models in KNIME
-  - Understanding looping in KNIME
-  - Where to find available KNIME support for XAI
+  - [Introducing KNIME](#introducing-knime)
+  - [Building models in KNIME](#building-models-in-knime)
+  - [Understanding looping in KNIME](#understanding-looping-in-knime)
+  - [Where to find available KNIME support for XAI](#where-to-find-available-knime-support-for-xai)
 - [**5. XAI Techniques: Global Explanations**](#5-xai-techniques-global-explanations) (5 videos)
-  - Providing global explanations with partial dependence plots
-  - Using surrogate models for global explanations
-  - Developing and interpreting a surrogate model with KNIME
-  - Permutation feature importance
-  - Global feature importance demo
+  - [Providing global explanations with partial dependence plots](#providing-global-explanations-with-partial-dependence-plots)
+  - [Using surrogate models for global explanations](#using-surrogate-models-for-global-explanations)
+  - [Developing and interpreting a surrogate model with KNIME](#developing-and-interpreting-a-surrogate-model-with-knime)
+  - [Permutation feature importance](#permutation-feature-importance)
+  - [Global feature importance demo](#global-feature-importance-demo)
 - [**6. Techniques for Local Explanations**](#6-techniques-for-local-explanations) (6 videos)
-  - Developing an intuition for Shapley values
-  - Introducing SHAP
-  - Using LIME to provide local explanations for neural networks
-  - What are counterfactuals?
-  - KNIME's Local Explanation View node
-  - XAI View node demonstrating KNIME
+  - [Developing an intuition for Shapley values](#developing-an-intuition-for-shapley-values)
+  - [Introducing SHAP](#introducing-shap)
+  - [Using LIME to provide local explanations for neural networks](#using-lime-to-provide-local-explanations-for-neural-networks)
+  - [What are counterfactuals?](#what-are-counterfactuals)
+  - [KNIME's Local Explanation View node](#knimes-local-explanation-view-node)
+  - [XAI View node demonstrating KNIME](#xai-view-node-demonstrating-knime)
 - [**7. IML Techniques**](#7-iml-techniques) (3 videos)
-  - General advice for better IML
-  - Why feature engineering is critical for IML
-  - CORELS and recent trends
+  - [General advice for better IML](#general-advice-for-better-iml)
+  - [Why feature engineering is critical for IML](#why-feature-engineering-is-critical-for-iml)
+  - [CORELS and recent trends](#corels-and-recent-trends)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to explore XAI
+  - [Continuing to explore XAI](#continuing-to-explore-xai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the world of explainable AI and interpretable machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980)
@@ -128,7 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2), ai (2), [[Algorithms]] (1), power (1), [[Statistics]] (1)
 > **Env Vars:** knime (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [keith] (1)
@@ -160,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** xai (3)
 > **Speakers:** - [instructor] (1)
 
@@ -190,13 +191,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (3), [[Linear Regression]] (1), [[Analytics]] (1)
 > **Env Vars:** knime (3), xai (2)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. What Are XAI and IML?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the what and why your models predict
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980)
@@ -267,9 +269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Neural Networks]] (2), data (1), [[Algorithms]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** xai (4), gps (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** if, (1), require (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
@@ -313,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (1), ai (1), [[Financial Planning]] (1), generic (1)
 > **URLs:** [reasoncode.org](https://reasoncode.org) (1), [wallet.com](https://wallet.com) (1)
 > **Env Vars:** xai (1)
 > **Cross-References:** later in (1)
@@ -386,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Decision Trees]] (2), [[Deep Learning]] (1), [[Knime]] (1), [[Analytics]] (1)
 > **Env Vars:** xai (6), knime (1)
-> **Code Keywords:** let (2), this, (1), self (1)
 > **Cross-References:** we discussed (1), previous video (1), later in (1)
 > **Warnings:** warning (1), be careful (1)
 > **CLI Commands:** make (1)
@@ -502,6 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Deep Learning]] (4), [[Algorithms]] (3), [[Decision Trees]] (2), career (1)
 > **Env Vars:** xai (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -555,9 +558,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (1), application (1)
 > **Env Vars:** xai (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1)
 > **Cross-References:** later in (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -603,9 +606,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** lime (1), xai (1)
 > **Definitions:** refers to (1), is an  (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -652,14 +655,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3)
 > **Env Vars:** xai (3), lime (2), glm (1), shap (1), ice (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Why Isolating a Variable’s Contribution Is Difficult
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges of variable attribution with linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980)
@@ -834,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1), else. (1), case. (1)
+> **Frameworks & Libraries:** data (9), [[Linear Regression]] (3), [[Engineering]] (1), [[Microsoft Excel|Excel]] (1), [[Flux]] (1)
 > **Versions:** 69.3 (1), 70.6 (1), 74.8 (1), 15.3 (1), 11.6 (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** uci (1), mpg (1)
@@ -919,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), try. (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Linear Regression]] (1), [[Microsoft]] (1), [[Feature Engineering]] (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** xai (1)
 > **Speakers:** - [instructor] (1)
@@ -1009,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), management (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **Env Vars:** cart (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1018,7 +1021,7 @@ created: 2026-04-29
 
 ### 3. Black Box Model 101
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What qualifies as a black box?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980)
@@ -1069,9 +1072,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (2), [[Logistic Regression]] (1), ai (1), [[Ethics]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** xai (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -1163,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), abstract (1), finally, (1)
+> **Frameworks & Libraries:** data (7), ai (4), [[Deep Learning]] (4), [[Feature Engineering]] (2), next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
@@ -1244,8 +1247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Deep Learning]] (1), web (1), data (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** this, (1), let (1)
 > **Versions:** 2.7 (2)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1297,9 +1300,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), ai (1), [[Responsible AI]] (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** later in (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** xai (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -1307,7 +1310,7 @@ created: 2026-04-29
 
 ### 4. Introduction to KNIME for XAI and IML
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980)
@@ -1382,9 +1385,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (11), [[Windows]] (4), [[Zoom]] (4), [[Analytics]] (2), ai (1)
 > **Env Vars:** knime (11), examples (5), xai (2)
 > **CLI Commands:** make (2), find (1), node (1)
-> **Code Keywords:** let (3), this. (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** means that (3)
 > **Exercise Files:** download the (2)
@@ -1510,7 +1513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Zoom]] (2), [[Analytics]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Env Vars:** uci (1)
 > **Definitions:** is an  (1)
@@ -1584,8 +1587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (4), data (2), node (2), ai (1), [[Zoom]] (1)
 > **Env Vars:** knime (4), xai (3)
-> **Code Keywords:** let (3), require (1)
 > **CLI Commands:** node (2), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1644,17 +1647,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (7), [[Search]] (4), node (2), [[Analytics]] (1), [[Decision Trees]] (1)
 > **Env Vars:** knime (7), xai (5), lime (1), shap (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for instance (3)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. XAI Techniques: Global Explanations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing global explanations with partial dependence plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980)
@@ -1753,7 +1756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** data (5), [[Knime]] (4), node (2), feature (1), [[Analytics]] (1)
 > **Env Vars:** knime (4), xai (1), pdp (1)
 > **Definitions:** is a  (4), is called (1), is an  (1)
 > **CLI Commands:** find (2), node (2), make (1)
@@ -1799,8 +1802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (3), generic (1)
 > **Env Vars:** knime (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1873,7 +1876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), continue (1), this, (1)
+> **Frameworks & Libraries:** data (5), node (3)
 > **CLI Commands:** node (3), make (1)
 > **Versions:** 0.3301 (1), 0.3941 (1), 16.8 (1)
 > **Env Vars:** csv (1)
@@ -1907,8 +1910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), node (2)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2043,9 +2046,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), [[Knime]] (6), feature (5), data (4), [[Windows]] (1)
 > **CLI Commands:** node (6), find (4), make (1)
 > **Env Vars:** knime (6), pdp (1)
-> **Code Keywords:** let (2), switch (1), finally, (1)
 > **Definitions:** means that (2), is a  (1)
 > **Versions:** 96.6 (1)
 > **UI Navigation:** go to (1)
@@ -2055,7 +2058,7 @@ created: 2026-04-29
 
 ### 6. Techniques for Local Explanations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing an intuition for Shapley values
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-an-intuition-for-shapley-values?u=76281980)
@@ -2140,8 +2143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (4), game (2)
 > **Env Vars:** knime (4), nyu (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1), click on (1)
 > **URLs:** [shapleyvalue.com](https://shapleyvalue.com) (1)
 > **Definitions:** is an  (1)
@@ -2193,6 +2196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), game (1)
 > **Env Vars:** shap (7), xai (1)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** find (1)
@@ -2245,8 +2249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** lime (7), xai (2), nime (1)
-> **Code Keywords:** let (2), case. (1), this. (1), case, (1)
 > **Analogies:** similar to (1), for instance (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -2300,9 +2304,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), node (1)
 > **Env Vars:** xai (4), nime (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** if. (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2382,7 +2386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), default, (1), default. (1)
+> **Frameworks & Libraries:** [[Knime]] (5), data (5), feature (3), node (1)
 > **CLI Commands:** make (2), node (1)
 > **Analogies:** similar to (2), for instance (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2476,7 +2480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), throw (1), this. (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Zoom]] (1), data (1), feature (1)
 > **Env Vars:** knime (2), xai (2), shap (2), ice (1)
 > **Cross-References:** earlier in (3), go back to (3), we talked about (1)
 > **Definitions:** is a  (2)
@@ -2487,7 +2491,7 @@ created: 2026-04-29
 
 ### 7. IML Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### General advice for better IML
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980)
@@ -2566,10 +2570,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Feature Engineering]] (3), [[Algorithms]] (2), next (2), management (2)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** xai (3)
 > **Cross-References:** go back to (2), in the next (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Why feature engineering is critical for IML
@@ -2613,7 +2617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (2), [[Logistic Regression]] (1), data (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cdc (1)
 > **UI Navigation:** scroll down (1)
@@ -2706,8 +2710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Knime]] (5), data (5), power (1), [[Decision Trees]] (1)
 > **Env Vars:** corels (8), knime (5), cart (3), compas (3)
-> **Code Keywords:** let (2), if, (2), this. (1), this, (1)
 > **Definitions:** is a  (2), is an  (2), stands for (1), in other words (1)
 > **CLI Commands:** python (1), make (1), find (1)
 > **UI Navigation:** go to (2)
@@ -2718,7 +2722,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to explore XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980)
@@ -2753,9 +2757,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (4), data (2), [[LinkedIn]] (2), next (2), feature (1)
 > **Env Vars:** knime (4), xai (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 

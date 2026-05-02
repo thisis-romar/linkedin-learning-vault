@@ -33,7 +33,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%20Server%202022%20Essential%20Training.md)
@@ -52,49 +52,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started with Windows Server 2022
+  - [Getting started with Windows Server 2022](#getting-started-with-windows-server-2022)
 - [**1. Getting Started**](#1-getting-started) (7 videos)
-  - Intro to Windows Server 2022
-  - Changes to Windows Server 2022
-  - Versions and features
-  - Upgrading to Windows Server 2022
-  - Automated installation options
-  - Windows Server 2022 installation
-  - Setting up IP addressing
+  - [Intro to Windows Server 2022](#intro-to-windows-server-2022)
+  - [Changes to Windows Server 2022](#changes-to-windows-server-2022)
+  - [Versions and features](#versions-and-features)
+  - [Upgrading to Windows Server 2022](#upgrading-to-windows-server-2022)
+  - [Automated installation options](#automated-installation-options)
+  - [Windows Server 2022 installation](#windows-server-2022-installation)
+  - [Setting up IP addressing](#setting-up-ip-addressing)
 - [**2. Managing Windows Server 2022**](#2-managing-windows-server-2022) (6 videos)
-  - PowerShell commandlets
-  - Roles and features installation
-  - Computer Management and the Microsoft Management Console
-  - Windows Admin Center
-  - EFS and drive encryption
-  - Remote Desktop Services
+  - [PowerShell commandlets](#powershell-commandlets)
+  - [Roles and features installation](#roles-and-features-installation)
+  - [Computer Management and the Microsoft Management Console](#computer-management-and-the-microsoft-management-console)
+  - [Windows Admin Center](#windows-admin-center)
+  - [EFS and drive encryption](#efs-and-drive-encryption)
+  - [Remote Desktop Services](#remote-desktop-services)
 - [**3. Active Directory Creation and Administration**](#3-active-directory-creation-and-administration) (8 videos)
-  - Domain and forest creation
-  - AD management tools
-  - Adding a second domain controller or child domain
-  - Joining AD from a workstation
-  - File sharing and drive mapping
-  - Group Policy
-  - DNS management
-  - DHCP installation
+  - [Domain and forest creation](#domain-and-forest-creation)
+  - [AD management tools](#ad-management-tools)
+  - [Adding a second domain controller or child domain](#adding-a-second-domain-controller-or-child-domain)
+  - [Joining AD from a workstation](#joining-ad-from-a-workstation)
+  - [File sharing and drive mapping](#file-sharing-and-drive-mapping)
+  - [Group Policy](#group-policy)
+  - [DNS management](#dns-management)
+  - [DHCP installation](#dhcp-installation)
 - [**4. Monitoring and Maintenance**](#4-monitoring-and-maintenance) (6 videos)
-  - Backing up Windows Server 2022
-  - Volume Shadow Copy
-  - Event logs for troubleshooting
-  - File server resource manager for security
-  - Performance Monitor
-  - Task Manager and Resource Monitor
+  - [Backing up Windows Server 2022](#backing-up-windows-server-2022)
+  - [Volume Shadow Copy](#volume-shadow-copy)
+  - [Event logs for troubleshooting](#event-logs-for-troubleshooting)
+  - [File server resource manager for security](#file-server-resource-manager-for-security)
+  - [Performance Monitor](#performance-monitor)
+  - [Task Manager and Resource Monitor](#task-manager-and-resource-monitor)
 - [**5. Windows Server 2022 in the Azure Cloud**](#5-windows-server-2022-in-the-azure-cloud) (4 videos)
-  - The Azure environment
-  - Installing Windows Server 2022 in Azure
-  - Accessing the server in the cloud
-  - Azure Active Directory synchronization
+  - [The Azure environment](#the-azure-environment)
+  - [Installing Windows Server 2022 in Azure](#installing-windows-server-2022-in-azure)
+  - [Accessing the server in the cloud](#accessing-the-server-in-the-cloud)
+  - [Azure Active Directory synchronization](#azure-active-directory-synchronization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Going to the next level with Windows Server 2022
+  - [Going to the next level with Windows Server 2022](#going-to-the-next-level-with-windows-server-2022)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980)
@@ -121,13 +121,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows Server]] (2), [[Virtual Machines]] (1), cloud (1), [[Microsoft Azure]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [robert] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980)
@@ -186,6 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (8), [[Security]] (4), [[Hardware]] (4), [[Microsoft]] (3), [[Active Directory]] (2)
 > **Prerequisites:** install (6)
 > **Env Vars:** sql (1), tftp (1), ram (1)
 > **CLI Commands:** make (1)
@@ -277,9 +279,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (9), [[Security]] (8), [[Windows]] (7), data (6), [[Microsoft Azure|Azure]] (5)
 > **Env Vars:** smb (6), quic (4), vbs (2), tls (2), tpm (1)
 > **Versions:** 2.0 (2), 1.3 (2), 3.1.1 (1)
-> **Code Keywords:** let (1), module (1), require (1)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** setup (1), install (1)
 > **CLI Commands:** find (1)
@@ -335,6 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Windows Server]] (4), [[Virtual Machines]] (3), feature (2), next (1)
 > **Env Vars:** smb (1), quic (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -381,6 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Microsoft]] (1), product (1), [[Active Directory]] (1)
 > **Analogies:** for instance (1), such as (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **Env Vars:** dism (1)
@@ -434,6 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (3), data (1), [[Microsoft]] (1), product (1), [[Virtual Machines]] (1)
 > **Prerequisites:** install (3), you'll need (1), set up (1), setup (1)
 > **Env Vars:** usb (1), pxe (1)
 > **Definitions:** means that (1), is a  (1)
@@ -555,8 +560,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows Server]] (4), next (4), product (2), data (2)
 > **Prerequisites:** install (8), configure (2), you need to have (1), setup (1)
-> **Code Keywords:** interface (4), let (1), delete (1)
 > **Env Vars:** dvd (3), iso (2)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
@@ -647,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), public (3), require (1), case, (1), else. (1)
+> **Frameworks & Libraries:** dns (5), prompt (4), [[Windows]] (3), hit (2), [[Active Directory]] (2)
 > **Env Vars:** dns (5), dhcp (3), icmp (2), cmd (1)
 > **UI Navigation:** go to (4), click on (4), right-click (1), double-click (1), scroll down (1)
 > **Versions:** 192.168.21 (3), 21.43 (1)
@@ -659,7 +664,7 @@ created: 2026-04-29
 
 ### 2. Managing Windows Server 2022
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell commandlets
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980)
@@ -800,8 +805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), hit (6), [[Windows]] (4), prompt (4), [[Windows Server]] (2)
 > **Tools:** powershell (12), command prompt (3)
-> **Code Keywords:** case, (2), let (1), type. (1), from, (1), switch (1)
 > **Analogies:** for instance (3), such as (3)
 > **UI Navigation:** right-click (1), go to (1), switch to (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -910,10 +915,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), web (6), feature (3), [[Windows Server]] (2), [[Security]] (2)
 > **Env Vars:** iis (5), ram (1), dfs (1), http (1), ftp (1)
 > **Analogies:** such as (3), for instance (3)
 > **Prerequisites:** install (4), set up (1)
-> **Code Keywords:** default, (1), else. (1), case, (1), continue (1)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iscsi (1)
@@ -1116,10 +1121,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (11), [[Microsoft]] (5), [[Search]] (5), [[Windows Server]] (4), [[Windows]] (4)
 > **CLI Commands:** find (7), snap (4), make (3)
 > **UI Navigation:** go to (7), click on (4), scroll down (1), open the (1)
 > **Analogies:** such as (9), for instance (1)
-> **Code Keywords:** default, (2), for. (1), case, (1), let (1), interface (1)
 > **Env Vars:** sys (2), vpn (1), dvd (1), wmi (1), cpu (1)
 > **Prerequisites:** setup (1), set up (1), make sure you have (1), configure (1)
 > **Warnings:** troubleshoot (1), warning (1)
@@ -1258,10 +1263,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), web (4), [[Microsoft Azure|Azure]] (4), [[Powershell]] (4), [[Microsoft]] (3)
 > **UI Navigation:** click on (6), go to (3), scroll down (1)
 > **Analogies:** such as (4), for instance (2), just like (1)
 > **Prerequisites:** install (4), set up (1), configure (1)
-> **Code Keywords:** self (1), public (1), this. (1), default, (1), interface (1)
 > **Env Vars:** msi (1), ram (1), pcs (1), dns (1), dhcp (1)
 > **CLI Commands:** make (4)
 > **Tools:** powershell (4)
@@ -1414,8 +1419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (4), [[Windows]] (3), [[Security]] (2), [[Active Directory]] (2)
 > **UI Navigation:** go to (10), click on (10)
-> **Code Keywords:** case, (1), continue (1), new. (1), protected (1)
 > **Env Vars:** efs (3), usb (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** install (3)
@@ -1546,11 +1551,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), next (4), application (3), [[Security]] (2), concurrent (2)
 > **Prerequisites:** install (4), make sure you have (1), configure (1), setup (1)
 > **Definitions:** means that (3), is a  (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1), public (1)
 > **Ports:** port 33 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1558,7 +1563,7 @@ created: 2026-04-29
 
 ### 3. Active Directory Creation and Administration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Domain and forest creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980)
@@ -1683,8 +1688,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (14), next (8), database (2), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2)
 > **Prerequisites:** install (4), configure (1), setup (1)
-> **Code Keywords:** static (1), continue (1), let (1), function (1)
 > **Env Vars:** dhcp (1), lil (1), dns (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1821,10 +1826,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (18), [[Powershell]] (7), [[Security]] (3), [[Windows]] (3), management (2)
 > **UI Navigation:** go to (8), click on (7), scroll down (1)
 > **Tools:** powershell (7)
 > **Analogies:** for instance (4), such as (3)
-> **Code Keywords:** delete (3), raise (1), module (1), if, (1)
 > **Prerequisites:** set up (5)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (2)
@@ -1919,12 +1924,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (6), next (5), [[Microsoft Office|Office]] (3), [[Windows]] (1), dns (1)
 > **UI Navigation:** click on (5), go to (3)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dns (1), tcp (1), dsrm (1)
 > **Prerequisites:** install (3)
 > **Analogies:** just like (1), such as (1)
-> **Code Keywords:** from, (1)
 > **Versions:** 21.129 (1)
 > **Warnings:** warning (1)
 
@@ -1963,6 +1968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (3), dns (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** dns (1)
@@ -2192,9 +2198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), next (4), [[Windows]] (3), data (3), [[Linux]] (2)
 > **UI Navigation:** click on (12), go to (9), select the (2)
 > **Env Vars:** cis (3), nfs (2), dco1 (1), tasks (1), sql (1)
-> **Code Keywords:** default, (2), case, (2), this. (1), delete (1), let (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (2), just like (1)
 > **Prerequisites:** set up (3)
@@ -2346,9 +2352,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), next (1), [[Windows Server]] (1), web (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (8), click on (2)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** this, (2), delete (1), default, (1)
 > **Definitions:** is a  (1), basically means (1)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** gpo (1)
@@ -2560,9 +2566,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (13), [[Active Directory]] (8), next (7), management (2), prompt (1)
 > **Env Vars:** dns (13), lil (3), ptr (3), msdcs (1), soa (1)
 > **UI Navigation:** go to (4), right-click (2)
-> **Code Keywords:** let (1), else, (1), default, (1), switch (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -2698,8 +2704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (10), next (4), [[Windows]] (2), [[Active Directory]] (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dhcp (15), dns (10), mac (7), ipv4 (2), ipv6 (1)
-> **Code Keywords:** static (2), continue (1), for, (1), let (1), case, (1)
 > **Prerequisites:** configure (3), install (2), set up (1), setup (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Definitions:** is a  (1), means that (1), stands for (1), is an  (1)
@@ -2710,7 +2716,7 @@ created: 2026-04-29
 
 ### 4. Monitoring and Maintenance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Backing up Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980)
@@ -2915,9 +2921,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (7), [[Windows Server]] (6), [[Microsoft Office|Office]] (1), management (1)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** else. (2), delete (1)
 > **Env Vars:** efi (2), usb (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Prerequisites:** setup (2), install (1)
@@ -2993,9 +2999,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Windows]] (1)
 > **UI Navigation:** go to (8), click on (2)
 > **Cross-References:** go back to (3)
-> **Code Keywords:** else, (1), delete (1)
 > **Ports:** :00 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -3127,8 +3133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Hardware]] (2), [[Active Directory]] (2), [[Windows Server]] (1), [[Security]] (1)
 > **UI Navigation:** click on (8), go to (1)
-> **Code Keywords:** let (3), case, (2), default, (1), override (1), this, (1)
 > **Env Vars:** dfs (2), dns (1), lsa (1), srv (1), vpn (1)
 > **Analogies:** such as (3), for instance (3)
 > **Warnings:** warning (5), be aware (1)
@@ -3367,9 +3373,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (6), management (3), [[Security]] (1), application (1)
 > **UI Navigation:** go to (10), click on (7)
 > **Env Vars:** fsrm (9), xyz (2), smb (2), unc (2)
-> **Code Keywords:** let (4), delete (2), include. (1), this, (1), case, (1)
 > **Exercise Files:** template (8)
 > **Prerequisites:** configure (2), set up (2)
 > **CLI Commands:** make (2)
@@ -3501,10 +3507,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (1), [[Hardware]] (1), [[Windows]] (1), next (1)
 > **Analogies:** for instance (4), such as (2)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** dropdown (2), click on (1), open the (1)
-> **Code Keywords:** default, (1), delete (1), this. (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3581,11 +3587,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1)
 > **Env Vars:** cpu (8), ram (6), cis (1), ssd (1)
 > **UI Navigation:** go to (5), click on (4), dropdown (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3593,7 +3599,7 @@ created: 2026-04-29
 
 ### 5. Windows Server 2022 in the Azure Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Azure environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980)
@@ -3684,8 +3690,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (12), [[Microsoft Azure|Azure]] (9), cloud (7), [[Windows]] (7), [[Active Directory]] (4)
 > **Env Vars:** vpn (3), dns (1), cis (1)
-> **Code Keywords:** public (2), delete (2)
 > **URLs:** [azure.com](https://azure.com) (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** such as (2), for instance (1)
@@ -3908,8 +3914,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows Server]] (3), next (3), [[Security]] (3), [[Virtual Machines]] (2)
 > **Env Vars:** ssd (3), http (2), https (2), ssh (2), rdp (2)
-> **Code Keywords:** continue (3), public (3), type, (2), default, (1), this. (1)
 > **CLI Commands:** make (4), ssh (2), find (1)
 > **UI Navigation:** click on (2), scroll down (2), go to (1), dropdown (1)
 > **Prerequisites:** you'll need (2), set up (1), you need to have (1)
@@ -3976,9 +3982,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Windows Server]] (3), [[Windows]] (3), web (1), [[Security]] (1)
 > **UI Navigation:** click on (5), go to (2)
 > **Env Vars:** rdp (1), ssh (1), vpn (1)
-> **Code Keywords:** public (1), continue (1)
 > **URLs:** [azure.com](https://azure.com) (2)
 > **CLI Commands:** ssh (1)
 > **Definitions:** stands for (1)
@@ -4067,7 +4073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this. (1), public (1), let (1)
+> **Frameworks & Libraries:** next (7), [[Active Directory]] (6), [[Microsoft Entra ID|Azure active directory]] (5), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3)
 > **UI Navigation:** click on (3), scroll down (2)
 > **Env Vars:** vpn (2), url (1), sql (1)
 > **CLI Commands:** make (1)
@@ -4079,7 +4085,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going to the next level with Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980)
@@ -4102,6 +4108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Microsoft]] (2), [[Windows]] (1), [[Active Directory]] (1), [[Troubleshooting]] (1)
 > **Prerequisites:** install (1), configure (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [robert] (1)

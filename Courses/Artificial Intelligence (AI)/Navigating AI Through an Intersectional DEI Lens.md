@@ -34,7 +34,7 @@ tags:
   - skill/diversity-equity-inclusion-and-belonging-deib
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Navigating%20AI%20Through%20an%20Intersectional%20DEI%20Lens.md)
@@ -53,27 +53,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AI and its impact on diversity, equity, and inclusion (DEI)
-  - The vital link between DEI and AI
+  - [AI and its impact on diversity, equity, and inclusion (DEI)](#ai-and-its-impact-on-diversity-equity-and-inclusion-dei)
+  - [The vital link between DEI and AI](#the-vital-link-between-dei-and-ai)
 - [**1. Intersectionality in AI**](#1-intersectionality-in-ai) (3 videos)
-  - Navigating intersectionality
-  - Unveiling the tangle: Intersecting bias in AI systems
-  - The impact of intersectionality on AI development
+  - [Navigating intersectionality](#navigating-intersectionality)
+  - [Unveiling the tangle: Intersecting bias in AI systems](#unveiling-the-tangle-intersecting-bias-in-ai-systems)
+  - [The impact of intersectionality on AI development](#the-impact-of-intersectionality-on-ai-development)
 - [**2. DEI in AI Development**](#2-dei-in-ai-development) (2 videos)
-  - Ethics and values in AI development
-  - Best practices for integrating DEI in AI development
+  - [Ethics and values in AI development](#ethics-and-values-in-ai-development)
+  - [Best practices for integrating DEI in AI development](#best-practices-for-integrating-dei-in-ai-development)
 - [**3. Minimizing Bias in AI**](#3-minimizing-bias-in-ai) (2 videos)
-  - The impact of data bias on AI outcomes
-  - Mitigating bias in AI systems
+  - [The impact of data bias on AI outcomes](#the-impact-of-data-bias-on-ai-outcomes)
+  - [Mitigating bias in AI systems](#mitigating-bias-in-ai-systems)
 - [**4. The Future of AI and DEI**](#4-the-future-of-ai-and-dei) (2 videos)
-  - Responsibility in future AI development and use
-  - Incorporating a DEI lens in AI development and use
+  - [Responsibility in future AI development and use](#responsibility-in-future-ai-development-and-use)
+  - [Incorporating a DEI lens in AI development and use](#incorporating-a-dei-lens-in-ai-development-and-use)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Modeling the future you want to see
+  - [Modeling the future you want to see](#modeling-the-future-you-want-to-see)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and its impact on diversity, equity, and inclusion (DEI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ai-and-its-impact-on-dei?u=76281980)
@@ -94,8 +94,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dei (1)
 > **Speakers:** - while (1)
 
@@ -188,7 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), self (1)
+> **Frameworks & Libraries:** ai (29), data (8), [[Accountability]] (1), [[Responsible AI]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dei (6)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (2)
@@ -200,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Intersectionality in AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating intersectionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/navigating-intersectionality?u=76281980)
@@ -271,8 +271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), power (3)
 > **Definitions:** is a  (2), refers to (2), is called (1)
-> **Code Keywords:** let (2), class, (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **Env Vars:** dei (1), lgbtq (1)
 > **Speakers:** - throughout (1)
@@ -340,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** ai (10), [[Forms]] (2), data (2), [[Algorithms]] (2), web (1)
 > **Analogies:** imagine (2), for example (1)
 > **Speakers:** - imagine (1)
 
@@ -399,8 +399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Microsoft Products|Products]] (1), power (1)
 > **Analogies:** imagine (2), such as (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - imagine (1)
@@ -408,7 +408,7 @@ created: 2026-04-29
 
 ### 2. DEI in AI Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethics and values in AI development
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980)
@@ -471,7 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), abstract (1)
+> **Frameworks & Libraries:** ai (18), [[Ethics]] (7), [[Accountability]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -580,8 +580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (23), data (12), teams (6), [[Accountability]] (3), [[Ethics]] (2)
 > **Env Vars:** dei (7)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** checkbox (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -590,7 +590,7 @@ created: 2026-04-29
 
 ### 3. Minimizing Bias in AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact of data bias on AI outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-data-bias-on-ai-outcomes?u=76281980)
@@ -641,9 +641,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (15)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is an  (1), refers to (1)
 > **Speakers:** - imagine (1)
 
@@ -706,16 +706,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (12), [[Decision-Making]] (4), [[Algorithms]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (2), picture (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
 
 ### 4. The Future of AI and DEI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsibility in future AI development and use
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980)
@@ -786,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else, (1), continue (1), public (1)
+> **Frameworks & Libraries:** ai (27), [[Responsible AI]] (3), [[Ethics]] (3), [[Privacy]] (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
@@ -838,6 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (5), power (2), [[Speech Recognition]] (1)
 > **Env Vars:** dei (7)
 > **Analogies:** imagine (2)
 > **Speakers:** - imagine (1)
@@ -845,7 +846,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling the future you want to see
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980)
@@ -872,8 +873,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), power (1), [[Responsible AI]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - congratulations (1)
 

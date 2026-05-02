@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/office-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md)
@@ -47,32 +47,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Welcome
-  - The administrative support professional needed in every office
-  - Administrative professional career path and growth opportunities
-  - Getting started on your administrative career
+  - [Welcome](#welcome)
+  - [The administrative support professional needed in every office](#the-administrative-support-professional-needed-in-every-office)
+  - [Administrative professional career path and growth opportunities](#administrative-professional-career-path-and-growth-opportunities)
+  - [Getting started on your administrative career](#getting-started-on-your-administrative-career)
 - [**1. Interpersonal Skills**](#1-interpersonal-skills) (6 videos)
-  - Confidentiality in the workplace
-  - Emotional intelligence techniques for office success
-  - Supporting multiple executives and teams
-  - Customer service excellence for admin professionals
-  - Building strong and collaborative teams
-  - Administrative leadership skills for managing others
+  - [Confidentiality in the workplace](#confidentiality-in-the-workplace)
+  - [Emotional intelligence techniques for office success](#emotional-intelligence-techniques-for-office-success)
+  - [Supporting multiple executives and teams](#supporting-multiple-executives-and-teams)
+  - [Customer service excellence for admin professionals](#customer-service-excellence-for-admin-professionals)
+  - [Building strong and collaborative teams](#building-strong-and-collaborative-teams)
+  - [Administrative leadership skills for managing others](#administrative-leadership-skills-for-managing-others)
 - [**2. Job-Specific Skills**](#2-job-specific-skills) (8 videos)
-  - Calendar and schedule management for maximum efficiency
-  - Effective meeting support and note-taking
-  - Email management strategies
-  - Remote work best practices
-  - Leveraging artificial intelligence
-  - Event planning and coordination
-  - Organizational skills to stay ahead in the workplace
-  - Essential communication skills
+  - [Calendar and schedule management for maximum efficiency](#calendar-and-schedule-management-for-maximum-efficiency)
+  - [Effective meeting support and note-taking](#effective-meeting-support-and-note-taking)
+  - [Email management strategies](#email-management-strategies)
+  - [Remote work best practices](#remote-work-best-practices)
+  - [Leveraging artificial intelligence](#leveraging-artificial-intelligence)
+  - [Event planning and coordination](#event-planning-and-coordination)
+  - [Organizational skills to stay ahead in the workplace](#organizational-skills-to-stay-ahead-in-the-workplace)
+  - [Essential communication skills](#essential-communication-skills)
 - [**3. Conclusion**](#3-conclusion) (1 videos)
-  - Next steps to advance your career
+  - [Next steps to advance your career](#next-steps-to-advance-your-career)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/welcome?u=76281980)
@@ -95,7 +95,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** career (1)
 > **Documentation:** official guide (1)
 > **Speakers:** - did (1)
 
@@ -158,8 +158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5), leadership (1), strengths (1), [[Microsoft Office|Office]] (1), [[Troubleshooting]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** self (2), function (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
@@ -226,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), self (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), career (5), management (2), teams (1), business (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - the (1)
@@ -290,16 +290,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), [[Microsoft Office|Office]] (4), business (2), management (1), [[Customer Service Skills]] (1)
 > **Env Vars:** pace (1), cap (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Interpersonal Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Confidentiality in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980)
@@ -368,7 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), protected (1), public (1), for. (1)
+> **Frameworks & Libraries:** hr (1), [[Privacy]] (1), [[Multi-factor Authentication]] (1), [[Security]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
@@ -441,7 +441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (8)
+> **Frameworks & Libraries:** management (4), career (3), game (1), [[Microsoft Office|Office]] (1)
 > **Versions:** 2.0 (1)
 > **Speakers:** - if (1)
 
@@ -512,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** teams (4), management (2), career (1)
 > **URLs:** [monday.com](https://monday.com) (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
@@ -579,6 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Building Trust]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - administrative (1)
@@ -644,9 +645,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** heart (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - building (1)
 
 #### Administrative leadership skills for managing others
@@ -708,12 +709,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), leadership (2), [[Microsoft Office|Office]] (1), [[Relationship Building]] (1), teams (1)
 > **Speakers:** - throughout (1)
 
 
 ### 2. Job-Specific Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calendar and schedule management for maximum efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980)
@@ -802,8 +804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), game (1), hit (1), [[Automation]] (1), teams (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), this, (1), require (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - managing (1)
@@ -881,6 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Real-Time]] (1), [[Microsoft Copilot]] (1), teams (1), management (1)
 > **URLs:** [otter.ai](https://otter.ai) (1), [fireflies.ai](https://fireflies.ai) (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -941,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), require (1)
+> **Frameworks & Libraries:** management (4), [[Microsoft Office|Office]] (1), [[Microsoft Outlook]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1)
 
@@ -1014,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), continue (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), career (3), ai (1), leadership (1), management (1)
 > **URLs:** [peoplebox.ai](https://peoplebox.ai) (1), [indeed.com](https://indeed.com) (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1081,7 +1084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (8), leadership (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Automation]] (2), teams (1)
 > **Analogies:** such as (1)
 > **Speakers:** - there (1)
 
@@ -1164,9 +1167,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1), power (1), management (1), career (1)
 > **Prerequisites:** setup (1), set up (1), you'll need (1)
 > **Env Vars:** cmp (1), csep (1)
-> **Code Keywords:** type, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
@@ -1247,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), extends (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), management (2), power (1), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - one (1)
 
@@ -1316,6 +1319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - clear (1)
@@ -1323,7 +1327,7 @@ created: 2026-04-29
 
 ### 3. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps to advance your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980)
@@ -1386,9 +1390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), leadership (3), management (2), [[LinkedIn]] (2), business (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** asap (1), iaap (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - professional (1)
 
 

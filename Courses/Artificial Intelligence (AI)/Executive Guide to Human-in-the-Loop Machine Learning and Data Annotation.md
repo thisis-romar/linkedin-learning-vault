@@ -35,7 +35,7 @@ tags:
   - skill/human-in-the-loop-machine-learning
   - skill/data-annotation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20Human-in-the-Loop%20Machine%20Learning%20and%20Data%20Annotation.md)
@@ -54,33 +54,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Meet the human-in-the-loop
+  - [Meet the human-in-the-loop](#meet-the-human-in-the-loop)
 - [**1. Introducing Human-in-the-Loop**](#1-introducing-human-in-the-loop) (4 videos)
-  - Human-in-the-loop is everywhere
-  - What is supervised machine learning?
-  - Defining human-in-the-loop
-  - The rise of human-in-the-loop
+  - [Human-in-the-loop is everywhere](#human-in-the-loop-is-everywhere)
+  - [What is supervised machine learning?](#what-is-supervised-machine-learning)
+  - [Defining human-in-the-loop](#defining-human-in-the-loop)
+  - [The rise of human-in-the-loop](#the-rise-of-human-in-the-loop)
 - [**2. Common Use Cases**](#2-common-use-cases) (4 videos)
-  - Healthcare use cases
-  - Autonomous use cases
-  - Natural language use cases
-  - Reinforcement learning with human feedback (RLHF)
+  - [Healthcare use cases](#healthcare-use-cases)
+  - [Autonomous use cases](#autonomous-use-cases)
+  - [Natural language use cases](#natural-language-use-cases)
+  - [Reinforcement learning with human feedback (RLHF)](#reinforcement-learning-with-human-feedback-rlhf)
 - [**3. The Data Annotation Ecosystem**](#3-the-data-annotation-ecosystem) (4 videos)
-  - The world of data annotation vendors
-  - Data annotation as a skill
-  - The ethics of data annotation
-  - Data annotation software vendors
+  - [The world of data annotation vendors](#the-world-of-data-annotation-vendors)
+  - [Data annotation as a skill](#data-annotation-as-a-skill)
+  - [The ethics of data annotation](#the-ethics-of-data-annotation)
+  - [Data annotation software vendors](#data-annotation-software-vendors)
 - [**4. Managing a Data Annotation Project**](#4-managing-a-data-annotation-project) (4 videos)
-  - Quality control
-  - Sampling
-  - Considerations when managing your own project
-  - Being data-centric
+  - [Quality control](#quality-control)
+  - [Sampling](#sampling)
+  - [Considerations when managing your own project](#considerations-when-managing-your-own-project)
+  - [Being data-centric](#being-data-centric)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet the human-in-the-loop
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980)
@@ -99,10 +99,14 @@ created: 2026-04-29
 >
 > **[0:32](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980&t=32)** In this course, we'll discuss what it is, and why if you're a data professional or in analytics leadership, or even just a consumer, you should know more about it.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (2), [[Analytics]] (1), leadership (1)
+
 
 ### 1. Introducing Human-in-the-Loop
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Human-in-the-loop is everywhere
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980)
@@ -159,8 +163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Phishing]] (3), ai (2), next (1)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** public (1)
 > **Analogies:** for instance (1)
 
 #### What is supervised machine learning?
@@ -208,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (1), case, (1), default, (1)
+> **Frameworks & Libraries:** data (10), business (2), [[Forms]] (1), [[Computer Vision]] (1), [[Supervised Learning]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** cat (2)
 > **Analogies:** for instance (1), picture (1)
@@ -271,8 +275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), prompt (1), [[Large Language Models (LLM)|Large language models]] (1), [[Real-Time]] (1)
 > **CLI Commands:** cat (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** notion (1)
 
 #### The rise of human-in-the-loop
@@ -330,13 +334,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), else. (1)
+> **Frameworks & Libraries:** data (7), [[Deep Learning]] (4), [[Neural Networks]] (3), game (1), [[Algorithms]] (1)
 > **Cross-References:** later in (1)
 
 
 ### 2. Common Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Healthcare use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980)
@@ -419,7 +423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ai (8), data (4), [[Deep Learning]] (2), [[Healthcare Analytics]] (1), next (1)
 > **CLI Commands:** cat (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
@@ -509,7 +513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), static (1), private (1), continue (1)
+> **Frameworks & Libraries:** data (7), traffic (3), [[Automation]] (2), business (1), feature (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
@@ -566,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), continue (1)
+> **Frameworks & Libraries:** data (3), [[Privacy]] (2), ai (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -644,7 +648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), finally, (1), super (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[ChatGPT]] (3), [[Reinforcement Learning]] (2), application (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** gpt (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -654,7 +658,7 @@ created: 2026-04-29
 
 ### 3. The Data Annotation Ecosystem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The world of data annotation vendors
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-world-of-data-annotation-vendors?u=76281980)
@@ -701,8 +705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (3), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
@@ -748,8 +752,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), ai (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sme (1)
 > **Analogies:** imagine (1)
 
@@ -786,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** data (6), ai (3), [[Microsoft]] (1)
 
 #### Data annotation software vendors
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980)
@@ -859,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1)
+> **Frameworks & Libraries:** data (5), [[Computer Vision]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
@@ -867,7 +871,7 @@ created: 2026-04-29
 
 ### 4. Managing a Data Annotation Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Quality control
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980)
@@ -954,7 +958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2)
+> **Frameworks & Libraries:** data (7), [[Computer Vision]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Warnings:** be aware (1), note that (1)
@@ -1003,8 +1007,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1), this. (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
 
@@ -1077,7 +1081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (11), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1169,15 +1173,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), ai (8), [[Microsoft Products|Products]] (1), product (1), teams (1)
 > **Definitions:** is a  (4), in other words (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Tools:** notion (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980)
@@ -1202,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** data (2), [[Analytics]] (1), leadership (1), [[Predictive Analytics]] (1), [[Computer Vision]] (1)
 
 
 ## Instructor

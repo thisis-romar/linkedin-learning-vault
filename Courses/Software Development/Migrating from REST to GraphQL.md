@@ -31,7 +31,7 @@ tags:
   - skill/graphql
   - skill/representational-state-transfer-rest
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Migrating%20from%20REST%20to%20GraphQL.md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Replace REST with GraphQL
-  - What you should know
+  - [Replace REST with GraphQL](#replace-rest-with-graphql)
+  - [What you should know](#what-you-should-know)
 - [**1. First steps**](#1-first-steps) (4 videos)
-  - Why use GraphQL for REST
-  - REST project introduction
-  - Set up GraphQL
-  - GraphQL refresher
+  - [Why use GraphQL for REST](#why-use-graphql-for-rest)
+  - [REST project introduction](#rest-project-introduction)
+  - [Set up GraphQL](#set-up-graphql)
+  - [GraphQL refresher](#graphql-refresher)
 - [**2. Add Items with GraphQL**](#2-add-items-with-graphql) (5 videos)
-  - Create the initial schema and type
-  - Program the initial schema and type
-  - Set up the initial resolvers
-  - Finalize the DB connection
-  - Add a few items with GraphiQL
+  - [Create the initial schema and type](#create-the-initial-schema-and-type)
+  - [Program the initial schema and type](#program-the-initial-schema-and-type)
+  - [Set up the initial resolvers](#set-up-the-initial-resolvers)
+  - [Finalize the DB connection](#finalize-the-db-connection)
+  - [Add a few items with GraphiQL](#add-a-few-items-with-graphiql)
 - [**3. Read Items with GraphQL**](#3-read-items-with-graphql) (3 videos)
-  - Simple queries in GraphQL
-  - What are aliases and usage
-  - Fragments basics
+  - [Simple queries in GraphQL](#simple-queries-in-graphql)
+  - [What are aliases and usage](#what-are-aliases-and-usage)
+  - [Fragments basics](#fragments-basics)
 - [**4. Update Items with GraphQL**](#4-update-items-with-graphql) (2 videos)
-  - Overview of mutations
-  - Code your updated mutation
+  - [Overview of mutations](#overview-of-mutations)
+  - [Code your updated mutation](#code-your-updated-mutation)
 - [**4. Update Items with GraphQL**](#4-update-items-with-graphql) (2 videos)
-  - Coding our delete mutation
-  - Final test for your mutations
+  - [Coding our delete mutation](#coding-our-delete-mutation)
+  - [Final test for your mutations](#final-test-for-your-mutations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Replace REST with GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), delete (1), let (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (2), api (2), data (2), [[Databases]] (1)
 > **Env Vars:** api (2), rest (1)
 > **Speakers:** - [emmanuel] (1)
 
@@ -126,14 +126,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. First steps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use GraphQL for REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980)
@@ -172,6 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (9), [[Representational State Transfer (REST)|Rest]] (5), api (3), application (3), data (2)
 > **Env Vars:** api (3), rest (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -267,8 +268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (5), node (3), [[GraphQL]] (2), express (2), api (2)
 > **CLI Commands:** make (5), node (3), npm (2)
-> **Code Keywords:** let (4), case, (2), this, (2), this. (1)
 > **Prerequisites:** install (5), you'll need (2)
 > **UI Navigation:** go to (4), select the (1)
 > **Code Identifiers:** macos (3)
@@ -403,7 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), this. (3), this, (2), import { (1)
+> **Frameworks & Libraries:** [[GraphQL]] (15), express (5), [[MongoDB]] (4), next (4), database (3)
 > **Prerequisites:** install (7), set up (4)
 > **CLI Commands:** docker (2), npm (2), make (1), node (1), mongo (1)
 > **File Paths:** index.js (2), package.json (1), log.json (1)
@@ -443,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), let (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), data (5), next (1), database (1)
 > **Definitions:** defined as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -451,7 +452,7 @@ created: 2026-04-29
 
 ### 2. Add Items with GraphQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create the initial schema and type
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980)
@@ -508,7 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1), finally, (1)
+> **Frameworks & Libraries:** next (3), data (2), database (2), [[GraphQL]] (1)
 > **File Paths:** schema.js (1), resolvers.js (1), dbconnectors.js (1)
 > **Env Vars:** crm (2)
 > **CLI Commands:** make (1)
@@ -644,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (3), this. (2), type, (2), type. (2)
+> **Frameworks & Libraries:** [[GraphQL]] (11), next (4), database (3), [[npm]] (2), [[Databases]] (1)
 > **Code Identifiers:** dbconnectors (3), lastname (2), firstname (2), crmmodel (1), makeexecutableschema (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** npm (2), make (1)
@@ -732,7 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), case, (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** database (6), [[GraphQL]] (2), data (1)
 > **Code Identifiers:** getcontacts (4), newcontact (2), firstname (2), lastname (1)
 > **CLI Commands:** find (1), mongo (1)
 > **Cross-References:** go back to (1)
@@ -809,7 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), this. (2), finally, (1), type. (1)
+> **Frameworks & Libraries:** database (6), [[Databases]] (3), [[GraphQL]] (2), [[MongoDB]] (2), data (1)
 > **CLI Commands:** mongo (1)
 > **Code Identifiers:** dbconnectors (1)
 > **Env Vars:** sql (1)
@@ -964,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this, (6), this. (6), throw (2), async (2)
+> **Frameworks & Libraries:** [[GraphQL]] (9), application (1), data (1), [[npm]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** newcontact (3), createcontact (2), firstname (2), buildschema (1), lastname (1)
 > **CLI Commands:** make (5), npm (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -976,7 +977,7 @@ created: 2026-04-29
 
 ### 3. Read Items with GraphQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple queries in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980)
@@ -1093,7 +1094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (5), function (2), await (2), this. (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3), data (1), database (1), [[MongoDB]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
@@ -1153,7 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2), case, (2), this. (1)
+> **Frameworks & Libraries:** data (2), application (2), [[GraphQL]] (1)
 > **Code Identifiers:** getonecontact (2), getcontacts (2)
 > **Analogies:** for example (4)
 > **Speakers:** - [instructor] (1)
@@ -1213,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), return, (1)
+> **Frameworks & Libraries:** data (4), feature (1), [[GraphQL]] (1)
 > **Code Identifiers:** firstname (3), lastname (3), contactfragment (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1222,7 +1223,7 @@ created: 2026-04-29
 
 ### 4. Update Items with GraphQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980)
@@ -1263,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), for, (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), database (4), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** rest (1), api (1)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** make (1)
@@ -1387,7 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), pass (4), function (2), this. (2), async (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3), [[Databases]] (3), [[LinkedIn]] (1), [[SQL]] (1), [[MongoDB]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** a090 (1), sql (1)
 > **Code Identifiers:** createcontact (1)
@@ -1397,7 +1398,7 @@ created: 2026-04-29
 
 ### 4. Update Items with GraphQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding our delete mutation
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980)
@@ -1448,7 +1449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3), pass (3), function (3), async (1)
+> **Frameworks & Libraries:** database (2), [[GraphQL]] (1), next (1)
 > **Code Identifiers:** deletecontact (2), deleteone (1)
 > **UI Navigation:** go to (2)
 > **Cross-References:** next video (1)
@@ -1538,7 +1539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (4), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Databases]] (2), data (1), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Code Identifiers:** getcontacts (4), createcontact (2), updatecontact (1), deletecontact (1)
 > **Documentation:** the documentation (4), the docs (1)
 > **UI Navigation:** click on (2), open the (1), go to (1)
@@ -1550,7 +1551,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980)
@@ -1579,8 +1580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[React.js|React]] (4), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Front-End Development]] (1)
 > **Env Vars:** rest (1), api (1), sql (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)

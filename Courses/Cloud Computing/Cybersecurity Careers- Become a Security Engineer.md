@@ -35,7 +35,7 @@ tags:
   - skill/security-engineering
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Security%20Engineer.md)
@@ -54,27 +54,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Becoming a security engineer
+  - [Becoming a security engineer](#becoming-a-security-engineer)
 - [**1. Security Engineering Career Basics**](#1-security-engineering-career-basics) (3 videos)
-  - What is a security engineer?
-  - What's the difference?
-  - Why pursue a career in cybersecurity?
+  - [What is a security engineer?](#what-is-a-security-engineer)
+  - [What's the difference?](#whats-the-difference)
+  - [Why pursue a career in cybersecurity?](#why-pursue-a-career-in-cybersecurity)
 - [**2. How to Become a Security Engineer**](#2-how-to-become-a-security-engineer) (5 videos)
-  - Do your research
-  - Develop your skill set
-  - Certification options
-  - Benefits of networking
-  - Interviewing for a security engineering position
+  - [Do your research](#do-your-research)
+  - [Develop your skill set](#develop-your-skill-set)
+  - [Certification options](#certification-options)
+  - [Benefits of networking](#benefits-of-networking)
+  - [Interviewing for a security engineering position](#interviewing-for-a-security-engineering-position)
 - [**3. Day in the Life**](#3-day-in-the-life) (3 videos)
-  - Day in the life of a cloud security engineer
-  - Common challenges
-  - Solving problems
+  - [Day in the life of a cloud security engineer](#day-in-the-life-of-a-cloud-security-engineer)
+  - [Common challenges](#common-challenges)
+  - [Solving problems](#solving-problems)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The fun doesn't end
+  - [The fun doesn't end](#the-fun-doesnt-end)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a security engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/becoming-a-security-engineer?u=76281980)
@@ -103,12 +103,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), [[Cybersecurity]] (3), [[Security]] (3), teams (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Security Engineering Career Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a security engineer?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980)
@@ -161,8 +162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[Security Engineering]] (2), [[Financial Data]] (1), traffic (1), [[Hardware]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** for. (2), let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** think of it like (1)
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (1)
+> **Frameworks & Libraries:** [[Security]] (21), [[Cybersecurity]] (4), next (2), [[Security Engineering]] (1), [[Engineering]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1), we talked about (1)
@@ -298,9 +299,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (5), career (2), [[Statistics]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **URLs:** [startacybercareer.com](https://startacybercareer.com) (1)
 > **Versions:** 3.5 (1)
 > **Definitions:** is a  (1)
@@ -309,7 +310,7 @@ created: 2026-04-29
 
 ### 2. How to Become a Security Engineer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Do your research
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980)
@@ -368,10 +369,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), data (6), [[Cybersecurity]] (4), cloud (2), [[Hardware]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** cia (1), soc (1), phi (1), hipaa (1), gdpr (1)
 > **Definitions:** known as (3), stands for (1)
-> **Code Keywords:** let (1), protected (1), for. (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [announcer] (1)
@@ -437,9 +438,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), management (2), [[Cybersecurity]] (1), [[Security Engineering]] (1), leadership (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [dominique] (1)
@@ -517,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (11), [[Cybersecurity]] (3), career (2), [[Security Engineering]] (2), cloud (2)
 > **Env Vars:** sme (1), giac (1), ceh (1), ccna (1), cissp (1)
 > **Definitions:** known as (4)
 > **Analogies:** such as (2)
@@ -607,9 +608,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5), [[Cybersecurity]] (4), [[OWASP]] (2), [[Security Engineering]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** isc (2), isaca (2), owasp (2), sans (2), issa (2)
 > **Cross-References:** previous video (3), we talked about (2)
-> **Code Keywords:** let (2), continue (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** defined as (1), is a  (1)
 > **Analogies:** such as (2)
@@ -674,7 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), for, (1)
+> **Frameworks & Libraries:** [[Security]] (5), next (3), career (1), [[Secure Coding]] (1), prompt (1)
 > **Analogies:** such as (3)
 > **Warnings:** be aware (2)
 > **CLI Commands:** python (1)
@@ -684,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Day in the Life
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Day in the life of a cloud security engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980)
@@ -735,8 +736,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Dashboards]] (3), cloud (1), [[Google]] (1), management (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), case, (1), continue (1)
 > **Analogies:** such as (1), for example (1), picture (1)
 > **URLs:** [cyware.com](https://cyware.com) (1)
 > **Env Vars:** iam (1)
@@ -798,9 +799,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[Cybersecurity]] (5), career (2), data (1), web (1)
 > **Definitions:** is an  (1), is a  (1), defined as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (2)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -864,16 +865,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), product (2), teams (2), career (1), cloud (1)
 > **Env Vars:** pci (4), dss (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), require (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The fun doesn't end
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980)
@@ -916,8 +917,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (5), cloud (2), [[Professional Networking]] (1), career (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)

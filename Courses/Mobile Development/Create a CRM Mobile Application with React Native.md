@@ -30,7 +30,7 @@ tags:
   - skill/mobile-application-development
   - skill/react-native
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Create%20a%20CRM%20Mobile%20Application%20with%20React%20Native.md)
@@ -49,42 +49,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - CRM application with React Native
-  - Course prerequisites
+  - [CRM application with React Native](#crm-application-with-react-native)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. Project Setup and Backend**](#1-project-setup-and-backend) (4 videos)
-  - Initialize React Native project
-  - Project folder structure
-  - Explore material kit and vector icons
-  - Node and express backend setup
+  - [Initialize React Native project](#initialize-react-native-project)
+  - [Project folder structure](#project-folder-structure)
+  - [Explore material kit and vector icons](#explore-material-kit-and-vector-icons)
+  - [Node and express backend setup](#node-and-express-backend-setup)
 - [**2. Redux and Main Views**](#2-redux-and-main-views) (7 videos)
-  - Get started with Redux
-  - React Native actions
-  - Create tab menu
-  - Tab navigation
-  - Create the people list view
-  - Code the people item view
-  - Add new components
+  - [Get started with Redux](#get-started-with-redux)
+  - [React Native actions](#react-native-actions)
+  - [Create tab menu](#create-tab-menu)
+  - [Tab navigation](#tab-navigation)
+  - [Create the people list view](#create-the-people-list-view)
+  - [Code the people item view](#code-the-people-item-view)
+  - [Add new components](#add-new-components)
 - [**3. Complex Component**](#3-complex-component) (4 videos)
-  - Setting up Redux for a detail view
-  - CSS details
-  - Coding the scroll on the detail view
-  - Finalize detail view
+  - [Setting up Redux for a detail view](#setting-up-redux-for-a-detail-view)
+  - [CSS details](#css-details)
+  - [Coding the scroll on the detail view](#coding-the-scroll-on-the-detail-view)
+  - [Finalize detail view](#finalize-detail-view)
 - [**4. CRUD Operations**](#4-crud-operations) (6 videos)
-  - Create a new add person form
-  - Functions for add person action
-  - Update person Redux reducer
-  - Update person view
-  - Connect your list view to backend
-  - Testing and debugging Redux for editing
+  - [Create a new add person form](#create-a-new-add-person-form)
+  - [Functions for add person action](#functions-for-add-person-action)
+  - [Update person Redux reducer](#update-person-redux-reducer)
+  - [Update person view](#update-person-view)
+  - [Connect your list view to backend](#connect-your-list-view-to-backend)
+  - [Testing and debugging Redux for editing](#testing-and-debugging-redux-for-editing)
 - [**5. Company View and Final Touches**](#5-company-view-and-final-touches) (2 videos)
-  - Code the company list query
-  - Create company item and list view
+  - [Code the company list query](#code-the-company-list-query)
+  - [Create company item and list view](#create-company-item-and-list-view)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Building your own CRM application with React Native
+  - [Building your own CRM application with React Native](#building-your-own-crm-application-with-react-native)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CRM application with React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/crm-application-with-react-native?u=76281980)
@@ -107,8 +107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (4), application (3), [[React.js|React]] (2), [[Android]] (1), next (1)
 > **Env Vars:** crm (2), crud (1)
-> **Code Keywords:** finally, (1), continue (1)
 > **Code Identifiers:** ios (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [mani] (1)
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[React Native]] (1), application (1), [[JavaScript]] (1), [[Windows]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** npm (1)
 > **Tools:** terminal (1)
@@ -140,7 +141,7 @@ created: 2026-04-29
 
 ### 1. Project Setup and Backend
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initialize React Native project
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980)
@@ -285,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (14), [[Android]] (6), [[Linux]] (4), [[React Native]] (3), [[npm]] (3)
 > **CLI Commands:** make (8), npx (4), npm (3), cd (2), find (1)
-> **Code Keywords:** this, (4), this. (3), let (3), super (2)
 > **Env Vars:** npx (4), crm (3), npm (3), cli (1)
 > **Code Identifiers:** ios (6), iphone (3), macos (1)
 > **Prerequisites:** install (8)
@@ -397,8 +398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Android]] (4), web (4), [[React Native]] (3), [[JSON]] (3)
 > **Code Identifiers:** ios (7), node_modules (1), devdependencies (1)
-> **Code Keywords:** let (5), self (1), this, (1)
 > **File Paths:** app.js (2), app.json (2), readme.md (1), package.json (1)
 > **Tools:** terminal (4), github (1), vs code (1)
 > **CLI Commands:** npx (2), make (2)
@@ -487,8 +488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[React.js|React]] (4), prompt (1), [[Windows]] (1), [[npm]] (1)
 > **Prerequisites:** install (6), set up (1)
-> **Code Keywords:** let (3), else. (1), this, (1), this. (1)
 > **Tools:** command prompt (1), vs code (1), terminal (1)
 > **CLI Commands:** make (1), npm (1)
 > **Cross-References:** go back to (2)
@@ -587,7 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), this. (2), case, (1), this: (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[npm]] (3), database (3), [[React Native]] (2), application (2)
 > **Prerequisites:** install (8), setup (1), set up (1)
 > **CLI Commands:** npm (3), node (2), make (2), brew (1)
 > **UI Navigation:** go to (4), drag and drop (1)
@@ -599,7 +600,7 @@ created: 2026-04-29
 
 ### 2. Redux and Main Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Redux
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/get-started-with-redux?u=76281980)
@@ -724,7 +725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4), continue (1), this, (1), export, (1)
+> **Frameworks & Libraries:** application (5), next (3), [[React.js|React]] (2), [[Search]] (1), data (1)
 > **Prerequisites:** install (5), set up (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** open the (1), click on (1)
@@ -890,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (4), switch (4), this. (3), function (3)
+> **Frameworks & Libraries:** data (15), application (8), database (8), [[Fetch]] (6), next (5)
 > **Code Identifiers:** detailview (2), initialstate (1), personselected (1), firstname (1), lastname (1)
 > **Env Vars:** initial_fetch (4), crm (2), url (1)
 > **CLI Commands:** make (3)
@@ -1026,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2), pass (1), this, (1), from, (1)
+> **Frameworks & Libraries:** application (6), [[React Native]] (6), [[React.js|React]] (3), next (3), data (2)
 > **File Paths:** app.js (1), navigation.js (1)
 > **CLI Commands:** npm (1), make (1)
 > **Cross-References:** in the next (2)
@@ -1156,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), continue (1), case, (1), function (1)
+> **Frameworks & Libraries:** application (3), [[React.js|React]] (3), next (2), [[React Native]] (1)
 > **File Paths:** addperson.js (1), companylist.js (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** tar (1)
@@ -1385,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), import, (2), this, (2), continue (1)
+> **Frameworks & Libraries:** application (6), next (2), [[npm]] (1), [[React.js|React]] (1), [[React Native]] (1)
 > **Code Identifiers:** detailview (5), loadinitialcontacts (2), ios (1), paddingtop (1)
 > **CLI Commands:** make (6), npm (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1533,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class, (2), this. (2), finally, (2), this, (1)
+> **Frameworks & Libraries:** application (2), [[React Native]] (1), [[React.js|React]] (1), functional (1)
 > **Code Identifiers:** onpress (1), selectperson (1), firstname (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rgba (1)
@@ -1691,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (6), continue (2), function (2), return, (2)
+> **Frameworks & Libraries:** application (4), next (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** renderinitialview (2), detailview (1)
 > **Exercise Files:** exercise files (3)
@@ -1703,7 +1704,7 @@ created: 2026-04-29
 
 ### 3. Complex Component
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Redux for a detail view
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980)
@@ -1858,7 +1859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), this. (3), type, (2), function (1)
+> **Frameworks & Libraries:** next (6), [[React Native]] (2), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
 > **Cross-References:** next video (2), go back to (1), previous video (1), in the next (1)
 > **Definitions:** is called (2), is a  (1), basically means (1)
 > **UI Navigation:** select the (1), open the (1)
@@ -1994,7 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (3), delete (2), this, (1), function (1)
+> **Frameworks & Libraries:** next (7), css (3), application (2)
 > **Env Vars:** css (3), rgba (2)
 > **Cross-References:** in the next (1), next video (1)
 > **CLI Commands:** make (1)
@@ -2172,7 +2173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), pass (5), let (4), continue (1), function (1)
+> **Frameworks & Libraries:** next (5)
 > **Code Identifiers:** onpress (2), noneselected (2), firstname (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -2348,7 +2349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (9), function (5), this, (4), continue (2)
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** sms (3), fyi (2), crd (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **UI Navigation:** click on (2)
@@ -2358,7 +2359,7 @@ created: 2026-04-29
 
 ### 4. CRUD Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new add person form
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980)
@@ -2433,7 +2434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), let (7), function (4), this, (3), finally, (2)
+> **Frameworks & Libraries:** next (4), api (3), [[JSON]] (3), application (2), [[Fetch]] (1)
 > **Code Identifiers:** loadinitialcontacts (3), firstname (3), lastname (3), noneselected (2), createnewcontact (2)
 > **Env Vars:** post (4), api (3), new_contact (3), json (2), crud (1)
 > **CLI Commands:** make (7)
@@ -2661,7 +2662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (7), pass (7), this, (7), finally, (5)
+> **Frameworks & Libraries:** [[React.js|React]] (2), next (2), application (2), database (1), [[Forms]] (1)
 > **Code Identifiers:** onaddpress (5), firstname (4), addbutton (3), createnewcontact (3), fieldstyles (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** fyi (1)
@@ -2793,7 +2794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (3), this, (3), case. (1), case, (1)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2867,7 +2868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), this . (1), this) (1), pass (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** firstname (1), onpress (1), mapstatetoprops (1)
 > **UI Navigation:** click on (1)
@@ -2990,7 +2991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), this. (4), return < (2), import { (1)
+> **Frameworks & Libraries:** application (2), next (2), database (1), [[React.js|React]] (1)
 > **Code Identifiers:** toupdate (4), mapstatetoprops (3), renderdetails (2)
 > **CLI Commands:** make (3)
 > **Tools:** postman (3)
@@ -3248,7 +3249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (33), delete (8), this. (8), this, (5), pass (2)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Forms]] (1), css (1), [[LinkedIn]] (1), [[Programming]] (1)
 > **Code Identifiers:** savecontact (3), detailview (2), formupdate (1), addnewcontact (1), loadinitial (1)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** make (8)
@@ -3260,7 +3261,7 @@ created: 2026-04-29
 
 ### 5. Company View and Final Touches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code the company list query
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980)
@@ -3403,7 +3404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (3), finally, (2), return. (1), this. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), next (3), [[React.js|React]] (2), data (1)
 > **CLI Commands:** make (8), find (1)
 > **Cross-References:** in the next (3)
 > **Code Identifiers:** iphone (1)
@@ -3563,7 +3564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), finally, (1), class, (1), else. (1), require (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), application (3), functional (2), next (1), business (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** lastname (1), flatlist (1)
 > **Env Vars:** rgba (1)
@@ -3572,7 +3573,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your own CRM application with React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/building-your-own-crm-application-with-react-native?u=76281980)
@@ -3599,7 +3600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** application (5), next (2), data (1), [[Mobile Development]] (1), [[Android]] (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** crm (1)

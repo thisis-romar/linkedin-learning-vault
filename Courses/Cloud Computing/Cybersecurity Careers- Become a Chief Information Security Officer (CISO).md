@@ -31,7 +31,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Chief%20Information%20Security%20Officer%20(CISO).md)
@@ -50,31 +50,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - So you want to be a CISO?
-  - You need a foundational knowledge of cyber security
+  - [So you want to be a CISO?](#so-you-want-to-be-a-ciso)
+  - [You need a foundational knowledge of cyber security](#you-need-a-foundational-knowledge-of-cyber-security)
 - [**1. About the Role**](#1-about-the-role) (2 videos)
-  - What does a CISO do?
-  - What type of CISO do you want to be?
+  - [What does a CISO do?](#what-does-a-ciso-do)
+  - [What type of CISO do you want to be?](#what-type-of-ciso-do-you-want-to-be)
 - [**2. Getting Hired and Getting Started**](#2-getting-hired-and-getting-started) (4 videos)
-  - Before the interview
-  - The CISO resume
-  - The CISO interview
-  - First 90 days
+  - [Before the interview](#before-the-interview)
+  - [The CISO resume](#the-ciso-resume)
+  - [The CISO interview](#the-ciso-interview)
+  - [First 90 days](#first-90-days)
 - [**3. Building Your Strategic Plan**](#3-building-your-strategic-plan) (5 videos)
-  - Select a security framework
-  - Complete an assessment
-  - Prioritize areas for improvement
-  - Set a mission and vision for your department
-  - Put it on paper and socialize
+  - [Select a security framework](#select-a-security-framework)
+  - [Complete an assessment](#complete-an-assessment)
+  - [Prioritize areas for improvement](#prioritize-areas-for-improvement)
+  - [Set a mission and vision for your department](#set-a-mission-and-vision-for-your-department)
+  - [Put it on paper and socialize](#put-it-on-paper-and-socialize)
 - [**4. CISO Best Practices**](#4-ciso-best-practices) (2 videos)
-  - Relationship building
-  - PRIME framework
+  - [Relationship building](#relationship-building)
+  - [PRIME framework](#prime-framework)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Make the CISO dream come true
+  - [Make the CISO dream come true](#make-the-ciso-dream-come-true)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### So you want to be a CISO?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980)
@@ -97,8 +97,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), business (2), leadership (1), data (1)
 > **Env Vars:** ciso (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hiring (1)
 
@@ -185,18 +185,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (4), career (3), teams (1)
 > **Env Vars:** ciso (7)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (2)
 > **Prerequisites:** you'll need (1), you need to have (1)
-> **Code Keywords:** function (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - people (1)
 
 
 ### 1. About the Role
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What does a CISO do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980)
@@ -259,7 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), raise (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (3), hr (1), leadership (1), [[Operational Excellence]] (1)
 > **Env Vars:** cfo (1)
 > **Speakers:** - chief (1)
 
@@ -344,8 +344,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Security]] (2), [[User Experience (UX)|User experience]] (1), product (1), [[Privacy]] (1)
 > **Env Vars:** ciso (24), b2b (3), b2c (3)
-> **Code Keywords:** let (2), pass (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -355,7 +355,7 @@ created: 2026-04-29
 
 ### 2. Getting Hired and Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Before the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980)
@@ -466,9 +466,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Search]] (3), [[Security]] (2), strengths (1), teams (1)
 > **Env Vars:** ciso (8)
 > **CLI Commands:** find (6)
-> **Code Keywords:** let (2), this, (2), public (1), for. (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** recommended (1)
@@ -511,9 +511,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), management (2), [[Automation]] (1), [[Security]] (1)
 > **Env Vars:** cio (1), ciso (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
@@ -600,10 +600,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), business (2), leadership (1), [[LinkedIn]] (1), next (1)
 > **Env Vars:** ciso (5), nda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** from. (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - when (1)
@@ -701,6 +701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), career (1), [[Building Trust]] (1), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ciso (3)
 > **Cross-References:** later in (2)
@@ -711,7 +712,7 @@ created: 2026-04-29
 
 ### 3. Building Your Strategic Plan
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select a security framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980)
@@ -800,6 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIST]] (8), [[Security]] (4), [[Cybersecurity]] (3), business (3), data (2)
 > **Env Vars:** nist (8), iso (3), csf (2), isms (2), b2b (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
@@ -807,7 +809,6 @@ created: 2026-04-29
 > **Exercise Files:** download the (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - the (1)
 
 #### Complete an assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/complete-an-assessment?u=76281980)
@@ -884,9 +885,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), career (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** rfi (2), ciso (1), rfp (1)
-> **Code Keywords:** raise (1), this. (1)
 > **Definitions:** is an  (1), known as (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - one (1)
@@ -966,9 +967,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), [[Microsoft Products|Products]] (1), [[SaaS|Software as a service]] (1), next (1), [[Security]] (1)
 > **Env Vars:** ciso (5), soc (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** self (1), this. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1013,6 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), next (1), [[Inclusive Leadership]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - great (1)
 
@@ -1067,14 +1069,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** business (2), teams (1), [[Security]] (1), hr (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - communication (1)
 
 
 ### 4. CISO Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relationship building
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980)
@@ -1153,8 +1155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), business (5), leadership (4), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cso (3), cio (1), cto (1), cfo (1), ceo (1)
-> **Code Keywords:** let (1), else, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -1234,9 +1236,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1), [[Security]] (1), business (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** prime (3)
-> **Code Keywords:** let (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** stands for (1)
 > **Best Practices:** pro tip (1)
@@ -1245,7 +1247,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make the CISO dream come true
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980)
@@ -1308,9 +1310,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), [[LinkedIn]] (2), business (1)
 > **Env Vars:** ciso (8)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - there (1)
 

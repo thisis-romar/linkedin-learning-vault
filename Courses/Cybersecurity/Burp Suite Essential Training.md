@@ -30,7 +30,7 @@ tags:
   - skill/penetration-testing
   - skill/burp-suite
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Burp%20Suite%20Essential%20Training.md)
@@ -49,40 +49,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learning how to use Burp Suite effectively
-  - What you should know
-  - Course disclaimer
+  - [Learning how to use Burp Suite effectively](#learning-how-to-use-burp-suite-effectively)
+  - [What you should know](#what-you-should-know)
+  - [Course disclaimer](#course-disclaimer)
 - [**1. Burp Suite Basics**](#1-burp-suite-basics) (5 videos)
-  - What is Burp Suite?
-  - Getting to know Burp Suite
-  - Proxying web traffic
-  - Using Burp Suite as a proxy
-  - Setting up additional targets
+  - [What is Burp Suite?](#what-is-burp-suite)
+  - [Getting to know Burp Suite](#getting-to-know-burp-suite)
+  - [Proxying web traffic](#proxying-web-traffic)
+  - [Using Burp Suite as a proxy](#using-burp-suite-as-a-proxy)
+  - [Setting up additional targets](#setting-up-additional-targets)
 - [**2. Scanning**](#2-scanning) (4 videos)
-  - Crawling the website
-  - Finding hidden webpages
-  - Understanding message content
-  - Finding missing content
+  - [Crawling the website](#crawling-the-website)
+  - [Finding hidden webpages](#finding-hidden-webpages)
+  - [Understanding message content](#understanding-message-content)
+  - [Finding missing content](#finding-missing-content)
 - [**3. Man in the Middle**](#3-man-in-the-middle) (5 videos)
-  - Intercepting bank transactions
-  - Exploiting headers
-  - Inserting an SQL injection via Burp Suite
-  - Saving request messages for further exploitation
-  - Injecting commands into messages
+  - [Intercepting bank transactions](#intercepting-bank-transactions)
+  - [Exploiting headers](#exploiting-headers)
+  - [Inserting an SQL injection via Burp Suite](#inserting-an-sql-injection-via-burp-suite)
+  - [Saving request messages for further exploitation](#saving-request-messages-for-further-exploitation)
+  - [Injecting commands into messages](#injecting-commands-into-messages)
 - [**4. Being an Intruder**](#4-being-an-intruder) (3 videos)
-  - Introducing the Intruder
-  - Manipulating cookies
-  - The four Intruders
+  - [Introducing the Intruder](#introducing-the-intruder)
+  - [Manipulating cookies](#manipulating-cookies)
+  - [The four Intruders](#the-four-intruders)
 - [**5. Extensions**](#5-extensions) (3 videos)
-  - Using CO2 to integrate SQLMap
-  - A first look at Burp AI
-  - Exploring issues with Burp AI
+  - [Using CO2 to integrate SQLMap](#using-co2-to-integrate-sqlmap)
+  - [A first look at Burp AI](#a-first-look-at-burp-ai)
+  - [Exploring issues with Burp AI](#exploring-issues-with-burp-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning how to use Burp Suite effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980)
@@ -105,8 +105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Burp Suite]] (3), cloud (1), career (1)
 > **Env Vars:** http (1), https (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [malcolm] (1)
 
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (3), web (3), [[LinkedIn]] (1), [[Ethical Hacking]] (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -158,13 +159,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Kali Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Burp Suite Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Burp Suite?
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980)
@@ -209,11 +210,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (13), [[Burp Suite]] (4), [[HTML]] (3), [[Penetration Testing]] (2), cloud (1)
 > **Env Vars:** html (3), asp (1), php (1), rest (1), api (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1), php (1)
-> **Code Keywords:** interface (1), static (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -388,7 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (2), function (1), private (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (29), traffic (7), web (4), [[WebSocket|Websockets]] (4), [[WebSocket]] (2)
 > **UI Navigation:** go to (2), click on (2), open the (1), select the (1), scroll down (1)
 > **Env Vars:** http (3), owasp (1), json (1), sql (1)
 > **Prerequisites:** set up (4), configure (1)
@@ -446,8 +447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (10), traffic (7), web (4), web application (1), [[Android]] (1)
 > **Prerequisites:** set up (2), configure (1), setup (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** http (1), ftp (1), https (1)
 > **Tools:** firefox (3)
 > **UI Navigation:** select the (1), scroll down (1)
@@ -558,7 +559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), switch (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (13), web (2), traffic (2), database (1)
 > **UI Navigation:** click on (3), open the (2), navigate to (2), scroll down (1)
 > **Env Vars:** dvwa (3), url (1)
 > **Versions:** 10.0.2 (2), 10.2.20 (1), 2.20 (1)
@@ -634,9 +635,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (5), web (4), [[MySQL]] (4), [[Burp Suite]] (2), [[PHP]] (2)
 > **CLI Commands:** sudo (6), mysql (4), php (2), git (2), apache (1)
 > **Env Vars:** xvwa (5), owasp (1), php (1), sql (1)
-> **Code Keywords:** let (5), var (1)
 > **Prerequisites:** set up (1), configure (1), setup (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -646,7 +647,7 @@ created: 2026-04-29
 
 ### 2. Scanning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Crawling the website
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980)
@@ -705,7 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1), while, (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (3), web (2), application (2)
 > **Env Vars:** url (1), http (1), https (1), dvwa (1)
 > **UI Navigation:** open the (2), click on (2)
 > **Versions:** 10.0.2 (3)
@@ -789,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2)
+> **Frameworks & Libraries:** web (6), [[PHP]] (3), [[Burp Suite]] (2), [[Microsoft Word|Word]] (2), web application (1)
 > **Env Vars:** php (3), bludit (2), url (1), http (1)
 > **CLI Commands:** find (3), php (3)
 > **UI Navigation:** go to (4), select the (1)
@@ -911,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (2), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Burp Suite]] (4), web (3), data (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** html (3), http (2), url (1)
 > **UI Navigation:** go to (3), open the (1), navigate to (1), click on (1)
 > **Analogies:** for example (2), such as (2)
@@ -1043,7 +1044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (1), switch (1), case, (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (5), [[HTML]] (3)
 > **UI Navigation:** go to (3), click on (1), dropdown (1), select the (1)
 > **Versions:** 10.10.10 (4)
 > **Ports:** :8080 (2), port 8080 (1)
@@ -1055,7 +1056,7 @@ created: 2026-04-29
 
 ### 3. Man in the Middle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intercepting bank transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980)
@@ -1098,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), continue (1), switch (1), public (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (3), [[Banking]] (3), web (1), [[Security]] (1)
 > **URLs:** [security.com](https://security.com) (1)
 > **Env Vars:** http (1)
 > **Cross-References:** go back to (1)
@@ -1214,7 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (2), hit (1)
 > **CLI Commands:** cat (2), ls (1)
 > **File Paths:** user.sh (1), cgi-bin/user.sh (1)
 > **Tools:** bash (2)
@@ -1316,7 +1317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (4), [[Burp Suite]] (4), database (4), data (3)
 > **Env Vars:** sql (5), php (1), url (1)
 > **CLI Commands:** php (2), mysql (2), make (1), sudo (1)
 > **UI Navigation:** select the (2), right-click (1), go to (1)
@@ -1388,7 +1389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** data (1), [[SQL]] (1), [[Databases]] (1), database (1)
 > **Env Vars:** sql (1), dbs (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -1460,7 +1461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (1)
+> **Frameworks & Libraries:** [[PHP]] (3), data (3), vpn (1), feature (1)
 > **CLI Commands:** php (3), ls (2), find (1), cat (1)
 > **Env Vars:** php (2), vpn (1)
 > **File Paths:** tools.php (1), user.txt (1)
@@ -1472,7 +1473,7 @@ created: 2026-04-29
 
 ### 4. Being an Intruder
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the Intruder
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980)
@@ -1549,7 +1550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2), this, (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (4), go to (2), open the (1), click on (1)
 > **Env Vars:** dab (1), post (1)
 > **File Paths:** unixpasswords.txt (1)
@@ -1649,7 +1650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (2)
+> **Frameworks & Libraries:** [[Burp Suite]] (2), [[Privacy]] (1), [[Security]] (1), data (1)
 > **UI Navigation:** go to (4), select the (3), open the (1), navigate to (1)
 > **CLI Commands:** find (2)
 > **Ports:** port 8080 (2)
@@ -1735,7 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), extends (1), try. (1), module (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (2), product (1)
 > **UI Navigation:** dropdown (3), click on (1), go to (1), select the (1)
 > **Env Vars:** dap (1)
 > **Definitions:** in other words (1)
@@ -1745,7 +1746,7 @@ created: 2026-04-29
 
 ### 5. Extensions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using CO2 to integrate SQLMap
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980)
@@ -1808,8 +1809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (4), [[Linux]] (1)
 > **CLI Commands:** sudo (2), apt (2), find (2)
-> **Code Keywords:** let (5), continue (1)
 > **Env Vars:** co2 (6)
 > **Prerequisites:** install (6)
 > **UI Navigation:** go to (3), right-click (2)
@@ -1846,6 +1847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Burp Suite]] (3), product (1), web (1), api (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)
@@ -1888,7 +1890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** ai (4), [[Burp Suite]] (3), database (2), [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [speaker] (1)
@@ -1896,7 +1898,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980)
@@ -1931,6 +1933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (4), [[Burp Suite]] (2), web (2), [[Android]] (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** go to (1)

@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/document-object-model-dom
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Document%20Object%20Model%20(DOM).md)

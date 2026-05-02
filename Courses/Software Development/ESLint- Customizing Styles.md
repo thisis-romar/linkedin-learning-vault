@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Customizing%20Styles.md)
@@ -48,22 +48,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Setting up ESLint to match your style
-  - What you should know
-  - Using the exercise files for this course
-  - Using GitHub Codespaces with this course
+  - [Setting up ESLint to match your style](#setting-up-eslint-to-match-your-style)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files for this course](#using-the-exercise-files-for-this-course)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Customizing ESLint Styles**](#1-customizing-eslint-styles) (5 videos)
-  - Turning on checking for a rule
-  - Configuring options for a rule
-  - Troubleshooting ESLint styles
-  - Challenge: Customize ESLint styles
-  - Solution: Customize ESLint styles
+  - [Turning on checking for a rule](#turning-on-checking-for-a-rule)
+  - [Configuring options for a rule](#configuring-options-for-a-rule)
+  - [Troubleshooting ESLint styles](#troubleshooting-eslint-styles)
+  - [Challenge: Customize ESLint styles](#challenge-customize-eslint-styles)
+  - [Solution: Customize ESLint styles](#solution-customize-eslint-styles)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up ESLint to match your style
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980)
@@ -82,7 +82,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), require (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), data (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - specifying (1)
 
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (4), front-end (1), [[JavaScript]] (1), [[npm]] (1), [[Search]] (1)
 > **CLI Commands:** npm (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
@@ -136,8 +137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (2), [[ESLint]] (1), [[Search]] (1)
 > **CLI Commands:** git (2), make (1)
-> **Code Keywords:** switch (1), this. (1), let (1)
 > **Env Vars:** url (1), zip (1), mpm (1)
 > **Tools:** github (3)
 > **Exercise Files:** github repo (1), zip file (1), download the (1)
@@ -312,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (4), this. (1)
+> **Frameworks & Libraries:** hit (5), [[GitHub]] (4), [[LinkedIn]] (2), cloud (2), web (2)
 > **UI Navigation:** switch to (4), click on (3), go to (2)
 > **Tools:** github (4), visual studio (2)
 > **CLI Commands:** make (4), find (1)
@@ -324,7 +325,7 @@ created: 2026-04-29
 
 ### 1. Customizing ESLint Styles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Turning on checking for a rule
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980)
@@ -433,7 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (3), default, (1), continue (1), self (1), let (1)
+> **Frameworks & Libraries:** [[ESLint]] (11), [[npm]] (1), next (1)
 > **Best Practices:** recommended (5)
 > **Documentation:** the documentation (3), the docs (1)
 > **File Paths:** index.js (3)
@@ -549,9 +550,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (7), [[JavaScript]] (4), [[JSON]] (2), data (1)
 > **CLI Commands:** make (5)
 > **File Paths:** index.js (3)
-> **Code Keywords:** const (1), default. (1)
 > **Env Vars:** json (2)
 > **Documentation:** the documentation (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -681,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), extends (4), function (2), this . (1), default. (1)
+> **Frameworks & Libraries:** [[ESLint]] (5), [[Troubleshooting]] (3), next (1), feature (1)
 > **Best Practices:** recommended (7)
 > **File Paths:** index.js (3)
 > **Documentation:** the documentation (2), the docs (1)
@@ -723,6 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (3), [[Troubleshooting]] (1), [[React.js|React]] (1), next (1)
 > **File Paths:** index.js (2)
 > **URLs:** [eslint.org](https://eslint.org) (1)
 > **Cross-References:** in the next (1)
@@ -884,7 +886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), extends (2), case, (2), else. (1), let (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[Search]] (2), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** minitems (4)
 > **Documentation:** the documentation (2), the docs (1)
@@ -896,7 +898,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980)
@@ -919,6 +921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (1)
 > **Speakers:** - [narrator] (1)
 
 

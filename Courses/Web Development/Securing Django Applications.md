@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Securing%20Django%20Applications.md)
@@ -47,45 +47,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Security and Django
-  - What you should know
-  - What's included in the project
-  - Installing the project
-  - Running the server
+  - [Security and Django](#security-and-django)
+  - [What you should know](#what-you-should-know)
+  - [What's included in the project](#whats-included-in-the-project)
+  - [Installing the project](#installing-the-project)
+  - [Running the server](#running-the-server)
 - [**1. Permissions, Access Controls, and Activity Logs**](#1-permissions-access-controls-and-activity-logs) (7 videos)
-  - Setting up per-object permissions in Django
-  - Enabling per-object permissions in Django
-  - Unit test for per-object permissions in Django
-  - Creating a group permissions model
-  - Unit test for access control and group permissions
-  - Adding activity logs for auditing
-  - Deleting objects in an audit/compliance-compatible way
+  - [Setting up per-object permissions in Django](#setting-up-per-object-permissions-in-django)
+  - [Enabling per-object permissions in Django](#enabling-per-object-permissions-in-django)
+  - [Unit test for per-object permissions in Django](#unit-test-for-per-object-permissions-in-django)
+  - [Creating a group permissions model](#creating-a-group-permissions-model)
+  - [Unit test for access control and group permissions](#unit-test-for-access-control-and-group-permissions)
+  - [Adding activity logs for auditing](#adding-activity-logs-for-auditing)
+  - [Deleting objects in an audit/compliance-compatible way](#deleting-objects-in-an-auditcompliance-compatible-way)
 - [**2. Throttling a Flood of Requests**](#2-throttling-a-flood-of-requests) (5 videos)
-  - Using ApacheBench to simulate a flood of requests
-  - How to ensure actions happen only once
-  - Unit testing idempotent actions that should only happen once
-  - Using background queues to throttle floods of requests
-  - Unit testing background queue flood prevention
+  - [Using ApacheBench to simulate a flood of requests](#using-apachebench-to-simulate-a-flood-of-requests)
+  - [How to ensure actions happen only once](#how-to-ensure-actions-happen-only-once)
+  - [Unit testing idempotent actions that should only happen once](#unit-testing-idempotent-actions-that-should-only-happen-once)
+  - [Using background queues to throttle floods of requests](#using-background-queues-to-throttle-floods-of-requests)
+  - [Unit testing background queue flood prevention](#unit-testing-background-queue-flood-prevention)
 - [**3. Protecting Data and Data Privacy**](#3-protecting-data-and-data-privacy) (5 videos)
-  - Per-field encryption of data in Django
-  - Unit testing per-field encryption
-  - Zero knowledge encryption of data in Django
-  - Unit testing zero knowledge encryption
-  - Packaging user data for download
+  - [Per-field encryption of data in Django](#per-field-encryption-of-data-in-django)
+  - [Unit testing per-field encryption](#unit-testing-per-field-encryption)
+  - [Zero knowledge encryption of data in Django](#zero-knowledge-encryption-of-data-in-django)
+  - [Unit testing zero knowledge encryption](#unit-testing-zero-knowledge-encryption)
+  - [Packaging user data for download](#packaging-user-data-for-download)
 - [**4. 2FA: Two-Factor Authentication**](#4-2fa-two-factor-authentication) (4 videos)
-  - Using Twilio to send an SMS code
-  - Confirming SMS code and enabling 2FA
-  - Validating 2FA login before performing actions in Django
-  - Unit testing 2FA login requirement for Django REST API
+  - [Using Twilio to send an SMS code](#using-twilio-to-send-an-sms-code)
+  - [Confirming SMS code and enabling 2FA](#confirming-sms-code-and-enabling-2fa)
+  - [Validating 2FA login before performing actions in Django](#validating-2fa-login-before-performing-actions-in-django)
+  - [Unit testing 2FA login requirement for Django REST API](#unit-testing-2fa-login-requirement-for-django-rest-api)
 - [**5. CSRF: Cross-Site Request Forgery Protection**](#5-csrf-cross-site-request-forgery-protection) (2 videos)
-  - Enabling CSRF tokens in Django
-  - Unit testing Django forms that use CSRF
+  - [Enabling CSRF tokens in Django](#enabling-csrf-tokens-in-django)
+  - [Unit testing Django forms that use CSRF](#unit-testing-django-forms-that-use-csrf)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security and Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (4), [[Security]] (3), api (3), data (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (3), rest (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -127,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Security]] (2), [[Programming]] (1), [[Django]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [narrator] (1)
 
@@ -141,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (2), web (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), data (1)
 > **Env Vars:** rest (1), api (1), sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -158,6 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Redis]] (1), [[Django]] (1)
 > **CLI Commands:** python (3), apache (2)
 > **Prerequisites:** install (3)
 > **Versions:** python 3 (1)
@@ -174,12 +178,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Permissions, Access Controls, and Activity Logs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up per-object permissions in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980)
@@ -200,7 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** data (3), [[Security]] (2), [[Django]] (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - when (1)
 
@@ -257,6 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[Django]] (2)
 > **Env Vars:** api (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** find (1)
@@ -315,7 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), assert (1)
+> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** auth_user (1), auth_header (1)
 > **Env Vars:** api (1)
@@ -386,8 +392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Django]] (2), [[Customer Support]] (1), api (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** function (2), delete (1), case. (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - using (1)
@@ -453,7 +459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), assert (3)
+> **Frameworks & Libraries:** [[Customer Support]] (4), [[Django]] (3), next (1), [[Fetch]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding activity logs for auditing
@@ -497,6 +503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), data (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -563,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), assert (2), this, (1), function (1), case, (1)
+> **Frameworks & Libraries:** data (9), [[Django]] (2), [[JSON]] (1), database (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** json (1)
 > **Definitions:** is a  (1)
@@ -573,7 +580,7 @@ created: 2026-04-29
 
 ### 2. Throttling a Flood of Requests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using ApacheBench to simulate a flood of requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980)
@@ -664,9 +671,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), web (5), data (5), [[Django]] (3), [[JSON]] (3)
 > **Env Vars:** api (6), json (3), rest (1), url (1), http (1)
 > **CLI Commands:** make (4), apache (3)
-> **Code Keywords:** let (3), public (2), this, (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** scroll up (1)
@@ -701,7 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), override (1), super (1), switch (1)
+> **Frameworks & Libraries:** api (2), hit (1), web (1), concurrent (1), data (1)
 > **CLI Commands:** make (1), apache (1)
 > **Env Vars:** api (2)
 > **Tools:** terminal (1)
@@ -739,8 +746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Django]] (1), database (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2)
 > **Prerequisites:** before we start (1), setup (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
@@ -812,7 +819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1)
+> **Frameworks & Libraries:** web (1), hit (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - in (1)
 
@@ -851,8 +858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Redis]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** case, (1), function (1), case. (1)
 > **Env Vars:** ugc (1)
 > **Tools:** terminal (1)
 > **Analogies:** just like (1)
@@ -862,7 +869,7 @@ created: 2026-04-29
 
 ### 3. Protecting Data and Data Privacy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Per-field encryption of data in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980)
@@ -897,7 +904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), function (2), case. (1)
+> **Frameworks & Libraries:** database (3), [[Python (Programming Language)|Python]] (2), [[Security]] (1), data (1), [[Cryptography]] (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** db_value (1), get_prep (1)
 > **Env Vars:** utf8 (1)
@@ -932,6 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[SQL]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** abc123 (1), sql (1), orm (1)
 > **Tools:** terminal (1)
@@ -994,8 +1002,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Django]] (2), [[Cryptography]] (1), [[Security]] (1), [[Algorithms]] (1)
 > **Non-Speech:** (keyboard keys clicking) (2), (mouse clicking) (1)
-> **Code Keywords:** private (1), override (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1087,8 +1095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), api (3), [[Representational State Transfer (REST)|Rest]] (2), web (1), database (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (3), private (2)
 > **Env Vars:** api (3)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -1179,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), protected (1)
+> **Frameworks & Libraries:** data (7), [[Privacy]] (1), web (1), next (1), [[Fetch]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1), ccpa (1), http (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1191,7 +1199,7 @@ created: 2026-04-29
 
 ### 4. 2FA: Two-Factor Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Twilio to send an SMS code
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980)
@@ -1248,8 +1256,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Twilio]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1)
 > **Env Vars:** sms (4), sid (4), rest (1)
-> **Code Keywords:** let (2), function (1), else, (1), else. (1), switch (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** set up (1)
@@ -1288,7 +1296,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), case, (1), delete (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - to (1)
 
@@ -1319,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), class. (1), require (1)
+> **Frameworks & Libraries:** [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** has_permission (1), request_data (1), validate_code (1), request_user (1)
 > **Env Vars:** rest (2)
 > **Speakers:** - [tutor] (1)
@@ -1361,7 +1368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), case. (1), let (1)
+> **Frameworks & Libraries:** api (1), data (1)
 > **Env Vars:** api (1), url (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
@@ -1370,7 +1377,7 @@ created: 2026-04-29
 
 ### 5. CSRF: Cross-Site Request Forgery Protection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enabling CSRF tokens in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980)
@@ -1409,8 +1416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Django]] (1), [[Tokens]] (1)
 > **Env Vars:** csrf (10)
-> **Code Keywords:** delete (2), protected (1), case, (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
@@ -1481,8 +1488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (3), [[Forms]] (3), data (1), [[Tokens]] (1)
 > **Env Vars:** csrf (9), post (2), http (1), ugc (1)
-> **Code Keywords:** delete (5), let (3), try, (1), this, (1), protected (1)
 > **CLI Commands:** make (6)
 > **API Endpoints:** post  (2)
 > **Tools:** terminal (1)
@@ -1491,7 +1498,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980)
@@ -1502,6 +1509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (2), web (2), [[Security]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 

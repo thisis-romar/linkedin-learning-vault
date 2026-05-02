@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20Getting%20Started.md)
@@ -60,56 +60,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started with deep learning
-  - Prerequisites for the course
-  - Setting up the environment
+  - [Getting started with deep learning](#getting-started-with-deep-learning)
+  - [Prerequisites for the course](#prerequisites-for-the-course)
+  - [Setting up the environment](#setting-up-the-environment)
 - [**1. Introduction to Deep Learning**](#1-introduction-to-deep-learning) (6 videos)
-  - What is deep learning?
-  - Linear regression
-  - An analogy for deep learning
-  - The perceptron
-  - Artificial neural networks
-  - Training an ANN
+  - [What is deep learning?](#what-is-deep-learning)
+  - [Linear regression](#linear-regression)
+  - [An analogy for deep learning](#an-analogy-for-deep-learning)
+  - [The perceptron](#the-perceptron)
+  - [Artificial neural networks](#artificial-neural-networks)
+  - [Training an ANN](#training-an-ann)
 - [**2. Neural Network Architecture**](#2-neural-network-architecture) (5 videos)
-  - The input layer
-  - Hidden layers
-  - Weights and biases
-  - Activation functions
-  - The output layer
+  - [The input layer](#the-input-layer)
+  - [Hidden layers](#hidden-layers)
+  - [Weights and biases](#weights-and-biases)
+  - [Activation functions](#activation-functions)
+  - [The output layer](#the-output-layer)
 - [**3. Training a Neural Network**](#3-training-a-neural-network) (10 videos)
-  - Setup and initialization
-  - Forward propagation
-  - Measuring accuracy and error
-  - Back propagation
-  - Gradient descent
-  - Batches and epochs
-  - Validation and testing
-  - An ANN model
-  - Reusing existing network architectures
-  - Using available open-source models
+  - [Setup and initialization](#setup-and-initialization)
+  - [Forward propagation](#forward-propagation)
+  - [Measuring accuracy and error](#measuring-accuracy-and-error)
+  - [Back propagation](#back-propagation)
+  - [Gradient descent](#gradient-descent)
+  - [Batches and epochs](#batches-and-epochs)
+  - [Validation and testing](#validation-and-testing)
+  - [An ANN model](#an-ann-model)
+  - [Reusing existing network architectures](#reusing-existing-network-architectures)
+  - [Using available open-source models](#using-available-open-source-models)
 - [**4. Deep Learning Example 1**](#4-deep-learning-example-1) (6 videos)
-  - The Iris classification problem
-  - Input preprocessing
-  - Creating a deep learning model
-  - Training and evaluation
-  - Saving and loading models
-  - Predictions with deep learning models
+  - [The Iris classification problem](#the-iris-classification-problem)
+  - [Input preprocessing](#input-preprocessing)
+  - [Creating a deep learning model](#creating-a-deep-learning-model)
+  - [Training and evaluation](#training-and-evaluation)
+  - [Saving and loading models](#saving-and-loading-models)
+  - [Predictions with deep learning models](#predictions-with-deep-learning-models)
 - [**5. Deep Learning Example 2**](#5-deep-learning-example-2) (4 videos)
-  - Spam classification problem
-  - Creating text representations
-  - Building a spam model
-  - Predictions for text
+  - [Spam classification problem](#spam-classification-problem)
+  - [Creating text representations](#creating-text-representations)
+  - [Building a spam model](#building-a-spam-model)
+  - [Predictions for text](#predictions-for-text)
 - [**6. Deep Learning Exercise**](#6-deep-learning-exercise) (4 videos)
-  - Exercise problem statement
-  - Preprocessing RCA data
-  - Building the RCA model
-  - Predicting root causes with deep learning
+  - [Exercise problem statement](#exercise-problem-statement)
+  - [Preprocessing RCA data](#preprocessing-rca-data)
+  - [Building the RCA model](#building-the-rca-model)
+  - [Predicting root causes with deep learning](#predicting-root-causes-with-deep-learning)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Extending your deep learning education
+  - [Extending your deep learning education](#extending-your-deep-learning-education)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980)
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[TensorFlow]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [kumaran] (1)
 
@@ -201,7 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (14), [[TensorFlow]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** nltk (1)
 > **Versions:** 2.0 (1)
@@ -275,19 +275,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (2), hit (2), [[Microsoft Products|Products]] (1)
 > **Tools:** jupyter (6), anaconda (5), command prompt (4)
 > **Exercise Files:** exercise files (5), download the (1)
 > **Prerequisites:** set up (3), install (3)
 > **UI Navigation:** go to (4), navigate to (1)
 > **CLI Commands:** python (2), ls (1), make (1)
 > **Versions:** python 3 (2)
-> **Code Keywords:** let (1)
 > **URLs:** [anaconda.com](https://anaconda.com) (1)
 
 
 ### 1. Introduction to Deep Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980)
@@ -326,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), require (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (11), [[Neural Networks]] (3), data (2), [[Algorithms]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpu (1)
@@ -393,7 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1), case, (1), let (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (7), [[Deep Learning]] (3), [[Logistic Regression]] (2), [[Forms]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -470,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), switch (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Linear Regression]] (1), next (1)
 > **Cross-References:** later in (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -524,7 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Supervised Learning]] (1), node (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -604,8 +604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), next (3), data (1)
 > **CLI Commands:** node (7)
-> **Code Keywords:** function (2), case. (1)
 > **Env Vars:** ann (3)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -669,8 +669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (1), data (1), next (1)
 > **Cross-References:** we discussed (2), previous video (1), later in (1), go back to (1), earlier in (1)
-> **Code Keywords:** case. (2), let (2), finally, (1)
 > **Env Vars:** ann (3)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -679,7 +679,7 @@ created: 2026-04-29
 
 ### 2. Neural Network Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The input layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980)
@@ -756,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Deep Learning]] (4), feature (1), database (1)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** ann (1), idf (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -807,6 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), power (1), [[Neural Networks]] (1), next (1), feature (1)
 > **CLI Commands:** node (6)
 > **Env Vars:** ann (1)
 > **Cross-References:** in the next (1)
@@ -872,8 +873,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), [[Deep Learning]] (2), [[Algorithms]] (1), next (1)
 > **CLI Commands:** node (5)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - weights (1)
 
@@ -922,7 +923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (1), else, (1)
+> **Frameworks & Libraries:** node (3), next (2), data (1), [[Probability]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** node (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -964,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), class. (1)
+> **Frameworks & Libraries:** business (2), [[Probability]] (2), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -974,7 +975,7 @@ created: 2026-04-29
 
 ### 3. Training a Neural Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setup and initialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980)
@@ -1043,9 +1044,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Deep Learning]] (1)
 > **Prerequisites:** initialization (5), setup (2), before we start (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Forward propagation
@@ -1083,8 +1084,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2), node (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** pass (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1133,7 +1134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), next (1)
 > **Env Vars:** mse (1), rmse (1), ann (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1191,8 +1192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), feature (1), [[Deep Learning]] (1), next (1)
 > **CLI Commands:** node (3)
-> **Code Keywords:** continue (1), let (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is an  (1)
 
@@ -1229,7 +1230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (2), this, (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - gradient (1)
 
@@ -1294,8 +1295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), power (1)
 > **Definitions:** is a  (4), is called (1), is an  (1), means that (1)
-> **Code Keywords:** pass (1), let (1), case, (1)
 > **Env Vars:** ann (1)
 > **Speakers:** - [educator] (1)
 
@@ -1330,6 +1331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Fine Tuning]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -1369,8 +1371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), data (1), feature (1), business (1), [[Deep Learning]] (1)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** ann (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -1425,7 +1427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (2), finally, (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (7), [[Representational State Transfer (REST)|Rest]] (2), cnn (2), [[Deep Learning]] (1), [[Generative AI]] (1)
 > **Env Vars:** cnn (2), vgg (1), lstm (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -1481,7 +1483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (4), public (1), case, (1)
+> **Frameworks & Libraries:** data (5), open-source (4), [[Hugging Face]] (1), [[GitHub]] (1), [[PyTorch]] (1)
 > **Tools:** github (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1489,7 +1491,7 @@ created: 2026-04-29
 
 ### 4. Deep Learning Example 1
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Iris classification problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980)
@@ -1528,8 +1530,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Neural Networks]] (1), feature (1)
 > **Prerequisites:** setup (3), install (2)
-> **Code Keywords:** let (2), this. (1)
 > **Versions:** 2.0 (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
@@ -1603,7 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), finally, (2), class, (1)
+> **Frameworks & Libraries:** data (11), feature (4), [[Deep Learning]] (3), [[Pandas (Software)|Pandas]] (1), next (1)
 > **File Paths:** iris.csv (1)
 > **Versions:** 4.2 (1)
 > **Cross-References:** later in (1)
@@ -1683,7 +1685,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), finally, (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** categorical_crossentropy (1)
 > **Versions:** 4.3 (1)
@@ -1753,7 +1754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), finally, (1)
+> **Frameworks & Libraries:** data (4), power (1), feature (1)
 > **Definitions:** means that (1), is an  (1)
 > **Versions:** 4.4 (1)
 > **Best Practices:** recommended (1)
@@ -1788,7 +1789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Metadata]] (1), data (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -1832,7 +1833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), data (2), feature (2), [[Probability]] (2), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
@@ -1840,7 +1841,7 @@ created: 2026-04-29
 
 ### 5. Deep Learning Example 2
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spam classification problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980)
@@ -1887,7 +1888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), type. (1)
+> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), [[Unstructured Data]] (2), feature (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sms (2), ann (1), idf (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
@@ -1950,7 +1951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), finally, (1)
+> **Frameworks & Libraries:** data (4), feature (4), [[Deep Learning]] (2), [[Pandas (Software)|Pandas]] (1), [[Tokens]] (1)
 > **File Paths:** spam.classification.csv (1)
 > **Env Vars:** csv (1)
 > **Versions:** 5.2 (1)
@@ -1992,7 +1993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1)
+> **Frameworks & Libraries:** data (3)
 > **Versions:** 5.3 (1)
 > **Speakers:** - once (1)
 
@@ -2033,7 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** data (1), feature (1)
 > **Env Vars:** sms (1), tfidf (1)
 > **Versions:** 5.4 (1)
 > **Speakers:** - [instructor] (1)
@@ -2041,7 +2042,7 @@ created: 2026-04-29
 
 ### 6. Deep Learning Exercise
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exercise problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980)
@@ -2092,9 +2093,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Deep Learning]] (2), [[System Monitoring]] (1), application (1), feature (1)
 > **Env Vars:** cpu (2), cpu_load (1), memory_leak_load (1), delay (1), error_1000 (1)
 > **File Paths:** root_cause_analysis.csv (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** root_cause_analysis (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -2126,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (1), feature (1), [[Deep Learning]] (1)
 > **File Paths:** analysis.csv (1)
 > **Env Vars:** csv (1)
 > **Versions:** 6.2 (1)
@@ -2153,8 +2154,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** epochs (1), batch (1), size (1)
-> **Code Keywords:** let (1), continue (1)
 > **Versions:** 6.3 (1)
 > **Speakers:** - now (1)
 
@@ -2185,7 +2186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), finally, (1)
+> **Frameworks & Libraries:** feature (1), [[Probability]] (1), database (1)
 > **Versions:** 6.4 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
@@ -2193,7 +2194,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending your deep learning education
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980)
@@ -2214,8 +2215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1), data (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [kumaran] (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Research-%20Being%20Flexible.md)
@@ -47,26 +47,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why is it important to be flexible?
+  - [Why is it important to be flexible?](#why-is-it-important-to-be-flexible)
 - [**1. Research Basics**](#1-research-basics) (5 videos)
-  - What can go wrong?
-  - Flexible scheduling and planning
-  - Agile flexibility
-  - Prepare for last-minute changes
-  - Flexible travel plans
+  - [What can go wrong?](#what-can-go-wrong)
+  - [Flexible scheduling and planning](#flexible-scheduling-and-planning)
+  - [Agile flexibility](#agile-flexibility)
+  - [Prepare for last-minute changes](#prepare-for-last-minute-changes)
+  - [Flexible travel plans](#flexible-travel-plans)
 - [**2. Running Sessions**](#2-running-sessions) (6 videos)
-  - Properly set stakeholder expectations for surprises
-  - Baked-in flexibility in your research approach
-  - Flexible scripts and reports
-  - Surprises with recruiting criteria
-  - Surprises from participants who meet all the criteria
-  - Where can technology fail you?
+  - [Properly set stakeholder expectations for surprises](#properly-set-stakeholder-expectations-for-surprises)
+  - [Baked-in flexibility in your research approach](#baked-in-flexibility-in-your-research-approach)
+  - [Flexible scripts and reports](#flexible-scripts-and-reports)
+  - [Surprises with recruiting criteria](#surprises-with-recruiting-criteria)
+  - [Surprises from participants who meet all the criteria](#surprises-from-participants-who-meet-all-the-criteria)
+  - [Where can technology fail you?](#where-can-technology-fail-you)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Be the best researcher you can be
+  - [Be the best researcher you can be](#be-the-best-researcher-you-can-be)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is it important to be flexible?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980)
@@ -109,13 +109,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), continue (1)
+> **Frameworks & Libraries:** ux (2), [[LinkedIn]] (1)
 > **Speakers:** - [cory] (1)
 
 
 ### 1. Research Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What can go wrong?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980)
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), product (2), ux (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -270,9 +270,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (3), [[Agile Software Development]] (1), [[Scalability]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prepare for last-minute changes
@@ -316,8 +316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), game (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -358,14 +358,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Running Sessions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Properly set stakeholder expectations for surprises
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980)
@@ -432,8 +432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), business (1), next (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2), if, (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
@@ -478,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1)
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
@@ -532,7 +532,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), for. (1), let (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -575,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (1), self (1), case, (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -626,8 +625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), express (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1), case, (1), this. (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** you'll need (1)
@@ -698,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** product (4), data (2), [[Google]] (1), next (1)
 > **Best Practices:** the key is (1), make sure to (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -707,7 +706,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be the best researcher you can be
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/be-the-best-researcher-you-can-be?u=76281980)
@@ -734,6 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 

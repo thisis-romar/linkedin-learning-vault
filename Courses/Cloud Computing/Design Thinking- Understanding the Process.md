@@ -29,7 +29,7 @@ tags:
   - skill/design-thinking
   - skill/product-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Design%20Thinking-%20Understanding%20the%20Process.md)
@@ -48,37 +48,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is design thinking?
-  - What you should know
+  - [What is design thinking?](#what-is-design-thinking)
+  - [What you should know](#what-you-should-know)
 - [**1. Where Design Thinking Fits in a Business**](#1-where-design-thinking-fits-in-a-business) (3 videos)
-  - Agile, lean, and design thinking
-  - Who's involved in a design thinking exercise?
-  - What design thinking helps you to achieve
+  - [Agile, lean, and design thinking](#agile-lean-and-design-thinking)
+  - [Who's involved in a design thinking exercise?](#whos-involved-in-a-design-thinking-exercise)
+  - [What design thinking helps you to achieve](#what-design-thinking-helps-you-to-achieve)
 - [**2. Design Thinking Isn't Magic**](#2-design-thinking-isnt-magic) (3 videos)
-  - Celebrity design thinking vs. real design thinking
-  - Design thinking is actually design doing
-  - Prepare for a hard sell and some hard work
+  - [Celebrity design thinking vs. real design thinking](#celebrity-design-thinking-vs-real-design-thinking)
+  - [Design thinking is actually design doing](#design-thinking-is-actually-design-doing)
+  - [Prepare for a hard sell and some hard work](#prepare-for-a-hard-sell-and-some-hard-work)
 - [**3. The Design Thinking Process**](#3-the-design-thinking-process) (4 videos)
-  - Finding the real problem
-  - Ideation
-  - Paper prototyping
-  - Implementation planning
+  - [Finding the real problem](#finding-the-real-problem)
+  - [Ideation](#ideation)
+  - [Paper prototyping](#paper-prototyping)
+  - [Implementation planning](#implementation-planning)
 - [**4. Pros and Cons of Design Thinking**](#4-pros-and-cons-of-design-thinking) (4 videos)
-  - Design thinking in non-agile organizations
-  - Communication and course correction
-  - Time to market, testing your ideas
-  - Offshoring and outsourcing
+  - [Design thinking in non-agile organizations](#design-thinking-in-non-agile-organizations)
+  - [Communication and course correction](#communication-and-course-correction)
+  - [Time to market, testing your ideas](#time-to-market-testing-your-ideas)
+  - [Offshoring and outsourcing](#offshoring-and-outsourcing)
 - [**5. Making Design Thinking Happen in Your Organization**](#5-making-design-thinking-happen-in-your-organization) (4 videos)
-  - Guerilla design thinking
-  - Organizational inertia and silos
-  - Track your successes
-  - Design thinking as a Trojan horse
+  - [Guerilla design thinking](#guerilla-design-thinking)
+  - [Organizational inertia and silos](#organizational-inertia-and-silos)
+  - [Track your successes](#track-your-successes)
+  - [Design thinking as a Trojan horse](#design-thinking-as-a-trojan-horse)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Implementing design thinking
+  - [Implementing design thinking](#implementing-design-thinking)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is design thinking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/what-is-design-thinking?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), let (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (7), teams (1), [[Microsoft Products|Products]] (1), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hello (1)
@@ -155,12 +155,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (6), business (2), [[Agile Development|Agile]] (1)
 > **Speakers:** - there (1)
 
 
 ### 1. Where Design Thinking Fits in a Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile, lean, and design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/agile-lean-and-design-thinking?u=76281980)
@@ -199,6 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (8), [[Agile Development|Agile]] (6), business (5), product (2), next (2)
 > **Analogies:** for instance (1), imagine (1)
 > **Speakers:** - to (1)
 
@@ -239,6 +241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (3), business (1), [[Internationalization]] (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
@@ -283,14 +286,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (5), [[Agile Development|Agile]] (1), business (1), feature (1), management (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1)
 > **Speakers:** - at (1)
 
 
 ### 2. Design Thinking Isn't Magic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Celebrity design thinking vs. real design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/celebrity-design-thinking-vs-real-design-thinking?u=76281980)
@@ -341,7 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (6), product (2), data (1), [[Product Development]] (1), teams (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - lots (1)
@@ -389,6 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (6), business (1)
 > **Analogies:** just like (1)
 > **Speakers:** - it (1)
 
@@ -435,7 +439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), while, (1), interface (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (5), product (2), business (2), management (2), [[Market Research]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -444,7 +448,7 @@ created: 2026-04-29
 
 ### 3. The Design Thinking Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding the real problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/finding-the-real-problem?u=76281980)
@@ -477,6 +481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (2), business (2), [[Statistics]] (1), product (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -514,7 +519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Forms]] (1)
 > **Speakers:** - rather (1)
 
 #### Paper prototyping
@@ -544,8 +549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Usability Testing]] (1), next (1), product (1), [[Prototyping]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (2)
 > **Cross-References:** we covered (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
@@ -590,6 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Design Thinking]] (3), business (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
@@ -598,7 +604,7 @@ created: 2026-04-29
 
 ### 4. Pros and Cons of Design Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design thinking in non-agile organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/design-thinking-in-non-agile-organizations?u=76281980)
@@ -643,6 +649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (5), [[Agile Development|Agile]] (1), business (1)
 > **Documentation:** specification (2), spec (1)
 > **Speakers:** - for (1)
 
@@ -683,6 +690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (1), product (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - if (1)
 
@@ -743,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** product (8), business (6), [[Design Thinking]] (1)
 > **Speakers:** - one (1)
 
 #### Offshoring and outsourcing
@@ -789,6 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), teams (2), [[Design Thinking]] (2), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1)
 > **Documentation:** specification (1)
@@ -798,7 +807,7 @@ created: 2026-04-29
 
 ### 5. Making Design Thinking Happen in Your Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Guerilla design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/guerilla-design-thinking?u=76281980)
@@ -833,6 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (8), management (2), teams (1), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - it (1)
 
@@ -913,6 +923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (7), [[Microsoft Products|Products]] (2), business (2), product (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** for instance (1), picture (1)
@@ -985,7 +996,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), case. (1)
+> **Frameworks & Libraries:** product (4), [[Design Thinking]] (3), [[Forms]] (1), data (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
@@ -1040,13 +1051,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (6), [[Microsoft Products|Products]] (3), product (3), [[Usability Testing]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **CLI Commands:** find (4)
 > **Speakers:** - there (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/implementing-design-thinking?u=76281980)
@@ -1079,6 +1091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (6), business (1), [[Representational State Transfer (REST)|Rest]] (1), next (1), ux (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - this (1)
 

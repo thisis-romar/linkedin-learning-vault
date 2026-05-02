@@ -32,7 +32,7 @@ tags:
   - skill/wordpress
   - skill/internationalization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20Internationalization.md)
@@ -51,52 +51,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - WordPress internationalization
-  - What you need to know
-  - Project overview and exercise files
+  - [WordPress internationalization](#wordpress-internationalization)
+  - [What you need to know](#what-you-need-to-know)
+  - [Project overview and exercise files](#project-overview-and-exercise-files)
 - [**1. Introducing Internationalization**](#1-introducing-internationalization) (3 videos)
-  - What is internationalization?
-  - Why internationalize code?
-  - Internationalization vs. localization
+  - [What is internationalization?](#what-is-internationalization)
+  - [Why internationalize code?](#why-internationalize-code)
+  - [Internationalization vs. localization](#internationalization-vs-localization)
 - [**2. Internationalization Concepts**](#2-internationalization-concepts) (3 videos)
-  - What is gettext?
-  - Using text domains
-  - Translation functions
+  - [What is gettext?](#what-is-gettext)
+  - [Using text domains](#using-text-domains)
+  - [Translation functions](#translation-functions)
 - [**3. Working with Translation Functions in PHP**](#3-working-with-translation-functions-in-php) (6 videos)
-  - Translating strings
-  - Translate HTML
-  - Use placeholders
-  - Argument swapping
-  - Working with plurals
-  - Adding context
+  - [Translating strings](#translating-strings)
+  - [Translate HTML](#translate-html)
+  - [Use placeholders](#use-placeholders)
+  - [Argument swapping](#argument-swapping)
+  - [Working with plurals](#working-with-plurals)
+  - [Adding context](#adding-context)
 - [**4. Working with Translation Functions in JavaScript**](#4-working-with-translation-functions-in-javascript) (3 videos)
-  - Including wp-i18n
-  - Using translation functions
-  - Loading translations
+  - [Including wp-i18n](#including-wp-i18n)
+  - [Using translation functions](#using-translation-functions)
+  - [Loading translations](#loading-translations)
 - [**5. Make a Plugin Translation-Ready**](#5-make-a-plugin-translation-ready) (10 videos)
-  - Introducing the project
-  - Best practices for internationalization
-  - Add text domain and set domain path
-  - Add translation functions to PHP
-  - Create and enqueue a script with wp18n
-  - Add translation functions to JavaScript
-  - Create a translation file
-  - Include an additional translation with your plugin
-  - Generate MO and JSON files
-  - Load translations
+  - [Introducing the project](#introducing-the-project)
+  - [Best practices for internationalization](#best-practices-for-internationalization)
+  - [Add text domain and set domain path](#add-text-domain-and-set-domain-path)
+  - [Add translation functions to PHP](#add-translation-functions-to-php)
+  - [Create and enqueue a script with wp18n](#create-and-enqueue-a-script-with-wp18n)
+  - [Add translation functions to JavaScript](#add-translation-functions-to-javascript)
+  - [Create a translation file](#create-a-translation-file)
+  - [Include an additional translation with your plugin](#include-an-additional-translation-with-your-plugin)
+  - [Generate MO and JSON files](#generate-mo-and-json-files)
+  - [Load translations](#load-translations)
 - [**6. Advanced Concepts**](#6-advanced-concepts) (3 videos)
-  - Automating text domains
-  - Language packs
-  - Internationalization Security
+  - [Automating text domains](#automating-text-domains)
+  - [Language packs](#language-packs)
+  - [Internationalization Security](#internationalization-security)
 - [**7. Contributing to Open Source**](#7-contributing-to-open-source) (2 videos)
-  - Translating for WordPress with GlotPress
-  - Contributing to GlotPress
+  - [Translating for WordPress with GlotPress](#translating-for-wordpress-with-glotpress)
+  - [Contributing to GlotPress](#contributing-to-glotpress)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What next?
+  - [What next?](#what-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### WordPress internationalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980)
@@ -129,8 +129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Internationalization]] (2), hit (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - konnichiwa (1)
 
@@ -171,11 +171,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (3), [[JavaScript]] (2), [[Internationalization]] (1), web (1)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Prerequisites:** install (1), you'll need (1), before we start (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -202,6 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[WordPress]] (1), [[Internationalization]] (1)
 > **Tools:** github (2)
 > **Exercise Files:** exercise files (1), zip file (1)
 > **Cross-References:** later in (1)
@@ -210,7 +211,7 @@ created: 2026-04-29
 
 ### 1. Introducing Internationalization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is internationalization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980)
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), from. (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Internationalization]] (4), [[GitHub]] (1), [[Search]] (1), [[Programming]] (1)
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -298,6 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (8), [[Internationalization]] (3), web (1), [[Web Accessibility]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -353,10 +355,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Internationalization]] (3), [[JavaScript]] (2), [[PHP]] (2), web (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** php (2), json (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** php (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -364,7 +366,7 @@ created: 2026-04-29
 
 ### 2. Internationalization Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is gettext?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980)
@@ -391,9 +393,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Internationalization]] (2), [[PHP]] (1), [[WordPress]] (1)
 > **Env Vars:** gnu (2), php (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using text domains
@@ -501,7 +503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this, (1), this. (1), pass (1)
+> **Frameworks & Libraries:** [[WordPress]] (10), [[PHP]] (1), next (1)
 > **Code Identifiers:** load_plugin_textdomain (3), load_theme_textdomain (1), load_child_theme_textdomain (1), plugin_rel_path (1)
 > **Prerequisites:** install (4), set up (1)
 > **CLI Commands:** make (2), php (1)
@@ -549,9 +551,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (10), [[PHP]] (10), [[JavaScript]] (8), [[Internationalization]] (1)
 > **CLI Commands:** php (10)
 > **Env Vars:** php (10)
-> **Code Keywords:** function (2), let (1), case, (1), continue (1)
 > **Definitions:** is a  (4)
 > **Versions:** 5.0 (1)
 > **Warnings:** note that (1)
@@ -560,7 +562,7 @@ created: 2026-04-29
 
 ### 3. Working with Translation Functions in PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980)
@@ -643,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (2), this, (1), case, (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[WordPress]] (3), data (1), [[Microsoft Word|Word]] (1), [[Internationalization]] (1)
 > **CLI Commands:** php (4), make (3)
 > **Env Vars:** php (4)
 > **Cross-References:** go back to (1), we talked about (1)
@@ -697,8 +699,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (15), [[WordPress]] (1), [[Internationalization]] (1)
 > **Env Vars:** html (14)
-> **Code Keywords:** function (2), case, (1), this. (1), for, (1)
 > **Code Identifiers:** escape_html (2), escape_html_e (1)
 > **Speakers:** - [narrator] (1)
 
@@ -785,7 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), case, (4), pass (2)
+> **Frameworks & Libraries:** data (2), [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), php (1)
 > **Analogies:** for instance (2), such as (1)
 > **URLs:** [w3schools.com](https://w3schools.com) (1)
@@ -844,7 +846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2), this, (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -938,7 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (6), case, (3), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -990,7 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[PHP]] (1), [[WordPress]] (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
@@ -1000,7 +1002,7 @@ created: 2026-04-29
 
 ### 4. Working with Translation Functions in JavaScript
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Including wp-i18n
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980)
@@ -1031,9 +1033,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[JavaScript]] (3), [[PHP]] (1), [[Internationalization]] (1), next (1)
 > **Env Vars:** mpm (2), php (1)
 > **File Paths:** my-script.js (2)
-> **Code Keywords:** case, (1), let (1)
 > **CLI Commands:** php (1)
 > **Versions:** 5.0 (1)
 > **Cross-References:** in the next (1)
@@ -1067,9 +1069,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[PHP]] (2)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
-> **Code Keywords:** finally, (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1094,13 +1096,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Internationalization]] (2), [[WordPress]] (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Make a Plugin Translation-Ready
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980)
@@ -1141,11 +1143,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[JavaScript]] (2), [[PHP]] (2), [[GitHub]] (2), [[Internationalization]] (1)
 > **CLI Commands:** php (2), make (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1), stands for (1)
 > **File Paths:** to-the-top.php (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** php (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1191,6 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Security]] (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1248,9 +1251,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), next (2), [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (1), find (1)
 > **Warnings:** note that (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** php (1)
 > **Versions:** 4.6 (1)
 > **Prerequisites:** install (1)
@@ -1319,7 +1322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (7)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[WordPress]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1382,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), case, (1), pass (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), next (2), [[WordPress]] (2), [[PHP]] (1)
 > **Code Identifiers:** jquery (3), enqueue_script (1), ttt_load_scripts (1), wp_enqueue_script (1), to_the_top (1)
 > **Env Vars:** url (2), php (1)
 > **File Paths:** to-the-top.js (2)
@@ -1447,7 +1450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), case, (1), type, (1), class, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[PHP]] (6), next (2), css (1), [[HTML]] (1)
 > **CLI Commands:** php (6), make (2)
 > **Env Vars:** php (6), css (1), html (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1530,9 +1533,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (5), [[PHP]] (4), [[JavaScript]] (3), [[WordPress]] (2), [[Wordpress Development]] (1)
 > **Env Vars:** pot (5), cli (5), php (4), pop (2), poedit (1)
 > **CLI Commands:** make (5), php (4)
-> **Code Keywords:** let (2), function (2), interface (1), pass (1), public (1)
 > **Tools:** terminal (2), command line (1)
 > **Documentation:** the documentation (2)
 > **Definitions:** stands for (1), is a  (1)
@@ -1596,11 +1599,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[WordPress]] (1), [[JavaScript]] (1), [[JSON]] (1)
 > **Env Vars:** poe (9), pot (4), php (2), moe (1), json (1)
 > **CLI Commands:** php (2)
 > **Code Identifiers:** code_country (1), cod_country (1)
 > **Exercise Files:** template (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1684,9 +1687,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (10), [[JavaScript]] (9), [[PHP]] (1), [[CLI]] (1), next (1)
 > **Env Vars:** json (7), pot (3), php (1), cli (1)
 > **CLI Commands:** make (7), php (1)
-> **Code Keywords:** let (7), this. (1)
 > **Tools:** command line (2), terminal (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -1824,7 +1827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (8), pass (2), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[JavaScript]] (5), next (2), [[WordPress]] (1), [[JSON]] (1)
 > **Code Identifiers:** load_plugin_textdomain (3), wp_set_script_translations (2), add_action (2), wp_enqueue_scripts (2), ttt_load_php_translations (1)
 > **CLI Commands:** php (5), make (1)
 > **Env Vars:** php (5), json (1)
@@ -1836,7 +1839,7 @@ created: 2026-04-29
 
 ### 6. Advanced Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating text domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980)
@@ -1867,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), finally, (1), this, (1), override (1)
+> **Frameworks & Libraries:** [[Internationalization]] (1), [[PHP]] (1)
 > **CLI Commands:** php (1), find (1)
 > **Tools:** terminal (1), command line (1)
 > **Definitions:** is a  (2)
@@ -1895,6 +1898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (8)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
@@ -1942,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1), throw (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Internationalization]] (1), [[Google]] (1), next (1)
 > **Best Practices:** best practice (2), make sure to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (2)
@@ -1953,7 +1957,7 @@ created: 2026-04-29
 
 ### 7. Contributing to Open Source
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating for WordPress with GlotPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980)
@@ -1990,6 +1994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (10), [[Internationalization]] (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (3)
 > **Definitions:** is a  (2), means that (1)
@@ -2013,6 +2018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Software Projects]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
@@ -2022,7 +2028,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980)
@@ -2043,6 +2049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Internationalization]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Documentation:** the documentation (1)

@@ -36,7 +36,7 @@ tags:
   - skill/multi-factor-authentication
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20for%20Architects-%20Security%20and%20Identity%20Management%20with%20Microsoft%20Entra.md)
@@ -55,34 +55,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Security and identity management with Microsoft Entra
+  - [Security and identity management with Microsoft Entra](#security-and-identity-management-with-microsoft-entra)
 - [**1. Microsoft Entra ID Authentication**](#1-microsoft-entra-id-authentication) (5 videos)
-  - Understanding Microsoft Entra ID authentication
-  - Understanding Microsoft Entra ID authentication options
-  - Microsoft Entra ID security solutions
-  - Recommending a multifactor authentication (MFA) solution in Microsoft Entra
-  - Microsoft Entra authentication for a hybrid environment
+  - [Understanding Microsoft Entra ID authentication](#understanding-microsoft-entra-id-authentication)
+  - [Understanding Microsoft Entra ID authentication options](#understanding-microsoft-entra-id-authentication-options)
+  - [Microsoft Entra ID security solutions](#microsoft-entra-id-security-solutions)
+  - [Recommending a multifactor authentication (MFA) solution in Microsoft Entra](#recommending-a-multifactor-authentication-mfa-solution-in-microsoft-entra)
+  - [Microsoft Entra authentication for a hybrid environment](#microsoft-entra-authentication-for-a-hybrid-environment)
 - [**2. Microsoft Entra Authorization**](#2-microsoft-entra-authorization) (4 videos)
-  - Understanding Microsoft Entra ID authorization
-  - Understanding the Microsoft hierarchical structure
-  - Developing identity solutions with RBACs
-  - Microsoft Entra Privileged Identity Management
+  - [Understanding Microsoft Entra ID authorization](#understanding-microsoft-entra-id-authorization)
+  - [Understanding the Microsoft hierarchical structure](#understanding-the-microsoft-hierarchical-structure)
+  - [Developing identity solutions with RBACs](#developing-identity-solutions-with-rbacs)
+  - [Microsoft Entra Privileged Identity Management](#microsoft-entra-privileged-identity-management)
 - [**3. Microsoft Entra Application Identity Security**](#3-microsoft-entra-application-identity-security) (3 videos)
-  - Recommending an Azure application identity security solution
-  - Using Microsoft Entra managed identities
-  - Using external identities in Microsoft Entra
+  - [Recommending an Azure application identity security solution](#recommending-an-azure-application-identity-security-solution)
+  - [Using Microsoft Entra managed identities](#using-microsoft-entra-managed-identities)
+  - [Using external identities in Microsoft Entra](#using-external-identities-in-microsoft-entra)
 - [**4. Microsoft Azure Governance**](#4-microsoft-azure-governance) (5 videos)
-  - Understanding Entra identity governance: Entitlement management
-  - Understanding Entra identity governance: Lifecycle workflows
-  - Understanding Entra identity governance: Monitoring and auditing
-  - Microsoft Entra best practices
-  - Solution: Creating Entra lifecycle workflows
+  - [Understanding Entra identity governance: Entitlement management](#understanding-entra-identity-governance-entitlement-management)
+  - [Understanding Entra identity governance: Lifecycle workflows](#understanding-entra-identity-governance-lifecycle-workflows)
+  - [Understanding Entra identity governance: Monitoring and auditing](#understanding-entra-identity-governance-monitoring-and-auditing)
+  - [Microsoft Entra best practices](#microsoft-entra-best-practices)
+  - [Solution: Creating Entra lifecycle workflows](#solution-creating-entra-lifecycle-workflows)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Making a more efficient organization
+  - [Making a more efficient organization](#making-a-more-efficient-organization)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security and identity management with Microsoft Entra
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980)
@@ -107,14 +107,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID]] (1), [[Microsoft Entra ID|Entra]] (1), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Microsoft Entra ID Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Microsoft Entra ID authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980)
@@ -253,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), private (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (9), [[Microsoft]] (8), [[Microsoft Products|Products]] (6), [[Active Directory]] (4), cloud (4)
 > **Definitions:** is a  (2), is called (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** aws (1)
@@ -390,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), interface (4), this, (3), let (3), this. (2)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Azure]] (5), [[Windows]] (4), [[Microsoft Entra ID|Entra]] (3), application (2)
 > **Env Vars:** mfa (5), sms (2), url (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (3)
@@ -568,7 +568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), self (4), this, (2), new, (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Entra ID|Entra]] (6), [[Automation]] (3), [[Security]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** vpn (1), mfa (1)
@@ -684,7 +684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (8), let (4), this, (2), this. (2), while, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (2), [[Security]] (2), [[Hardware]] (2), application (2)
 > **Env Vars:** mfa (13), usb (1), oath (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -820,7 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), this, (4), let (1), this. (1), interface (1)
+> **Frameworks & Libraries:** cloud (18), [[Microsoft Entra ID|Entra]] (6), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft]] (3), [[Active Directory]] (2)
 > **Env Vars:** ldap (1), ntlm (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** set up (2)
@@ -831,7 +831,7 @@ created: 2026-04-29
 
 ### 2. Microsoft Entra Authorization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Microsoft Entra ID authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980)
@@ -950,7 +950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), let (5), this, (1), from. (1), this. (1)
+> **Frameworks & Libraries:** application (8), [[Microsoft Entra ID|Entra]] (6), [[Microsoft]] (3), web (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** vpn (1), fqdn (1), cidr (1), udp (1), tcp (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1011,7 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (1)
+> **Frameworks & Libraries:** management (7), [[Microsoft Azure]] (2), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1143,7 +1143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (4), protected (3), delete (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (4), [[Security]] (3), [[Microsoft]] (3), business (2), management (1)
 > **CLI Commands:** make (3), find (3)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** b2c (1)
@@ -1250,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), while, (1), require (1), this. (1), type, (1)
+> **Frameworks & Libraries:** management (3), [[Microsoft Entra ID|Entra]] (2), next (2), [[Microsoft]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** pim (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -1261,7 +1261,7 @@ created: 2026-04-29
 
 ### 3. Microsoft Entra Application Identity Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommending an Azure application identity security solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980)
@@ -1334,7 +1334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), require (1), for, (1), private (1)
+> **Frameworks & Libraries:** application (7), [[Microsoft Entra ID|Entra]] (4), data (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** find (2)
 > **Warnings:** be careful (1), watch out (1)
 > **Definitions:** is a  (1)
@@ -1455,8 +1455,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (2), [[Microsoft Entra ID|Entra]] (2), [[Tokens]] (2), [[Microsoft Azure]] (2)
 > **UI Navigation:** click on (8), go to (2)
-> **Code Keywords:** delete (3), let (2), require (1), this, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** testmi (2)
 > **Tools:** azure portal (2)
@@ -1523,15 +1523,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), [[Google]] (3), [[Microsoft Entra ID|Entra id]] (2)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Microsoft Azure Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Entra identity governance: Entitlement management
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980)
@@ -1620,7 +1620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1), require (1)
+> **Frameworks & Libraries:** management (4), [[Microsoft Entra ID|Entra]] (3), [[Automation]] (1), product (1), [[SharePoint]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1721,7 +1721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (2), [[Automation]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1806,9 +1806,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (5), [[Microsoft]] (3), [[Microsoft Azure]] (3), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** this. (1), let (1), finally, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1905,7 +1905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (3), [[Security]] (3), cloud (3), management (3), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Best Practices:** you should always (1)
@@ -2034,8 +2034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), teams (1)
 > **UI Navigation:** click on (7)
-> **Code Keywords:** let (4), this. (1), this, (1)
 > **Code Identifiers:** jobtitle (2), employeeleavedatetime (1), accountenabled (1)
 > **Prerequisites:** configure (3)
 > **Definitions:** is a  (2)
@@ -2046,7 +2046,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a more efficient organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/making-a-more-efficient-organization?u=76281980)
@@ -2061,7 +2061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

@@ -30,7 +30,7 @@ tags:
   - skill/application-security-assessments
   - skill/security-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Dynamic%20Application%20Security%20Testing.md)
@@ -49,51 +49,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The importance of dynamic testing
-  - What you should know
+  - [The importance of dynamic testing](#the-importance-of-dynamic-testing)
+  - [What you should know](#what-you-should-know)
 - [**1. Security Testing in QA**](#1-security-testing-in-qa) (6 videos)
-  - Software quality assurance process
-  - Positive testing
-  - Negative testing
-  - SQA metrics
-  - OWASP Testing Guide
-  - Demo: OWASP ZAP
+  - [Software quality assurance process](#software-quality-assurance-process)
+  - [Positive testing](#positive-testing)
+  - [Negative testing](#negative-testing)
+  - [SQA metrics](#sqa-metrics)
+  - [OWASP Testing Guide](#owasp-testing-guide)
+  - [Demo: OWASP ZAP](#demo-owasp-zap)
 - [**2. Assessing Deployed Apps**](#2-assessing-deployed-apps) (8 videos)
-  - Manual vs. automated testing
-  - Scanning vs. pen testing
-  - Testing in non-production
-  - Testing in production
-  - OSINT gathering
-  - Web app proxies
-  - DevSecOps
-  - Demo: Burp Suite
+  - [Manual vs. automated testing](#manual-vs-automated-testing)
+  - [Scanning vs. pen testing](#scanning-vs-pen-testing)
+  - [Testing in non-production](#testing-in-non-production)
+  - [Testing in production](#testing-in-production)
+  - [OSINT gathering](#osint-gathering)
+  - [Web app proxies](#web-app-proxies)
+  - [DevSecOps](#devsecops)
+  - [Demo: Burp Suite](#demo-burp-suite)
 - [**3. Web App Pen Testing**](#3-web-app-pen-testing) (8 videos)
-  - Scoping a web app pen test
-  - Avoiding production impacts
-  - Penetration testing execution standard
-  - Types of pen tests
-  - Web application firewalls
-  - SIEMs
-  - Purple teaming
-  - Demo: Kali Linux
+  - [Scoping a web app pen test](#scoping-a-web-app-pen-test)
+  - [Avoiding production impacts](#avoiding-production-impacts)
+  - [Penetration testing execution standard](#penetration-testing-execution-standard)
+  - [Types of pen tests](#types-of-pen-tests)
+  - [Web application firewalls](#web-application-firewalls)
+  - [SIEMs](#siems)
+  - [Purple teaming](#purple-teaming)
+  - [Demo: Kali Linux](#demo-kali-linux)
 - [**4. Testing for the OWASP Top Ten (2021)**](#4-testing-for-the-owasp-top-ten-2021) (11 videos)
-  - The OWASP Top Ten
-  - A1: Broken access control
-  - A2: Cryptographic failures
-  - A3: Injection
-  - A4: Insecure design
-  - A5: Security misconfiguration
-  - A6: Vulnerable and outdated components
-  - A7: Identification and authentication failures
-  - A8: Software and data integrity failures
-  - A9: Security Logging and monitoring failures
-  - A10: Server-side request forgery (SSRF)
+  - [The OWASP Top Ten](#the-owasp-top-ten)
+  - [A1: Broken access control](#a1-broken-access-control)
+  - [A2: Cryptographic failures](#a2-cryptographic-failures)
+  - [A3: Injection](#a3-injection)
+  - [A4: Insecure design](#a4-insecure-design)
+  - [A5: Security misconfiguration](#a5-security-misconfiguration)
+  - [A6: Vulnerable and outdated components](#a6-vulnerable-and-outdated-components)
+  - [A7: Identification and authentication failures](#a7-identification-and-authentication-failures)
+  - [A8: Software and data integrity failures](#a8-software-and-data-integrity-failures)
+  - [A9: Security Logging and monitoring failures](#a9-security-logging-and-monitoring-failures)
+  - [A10: Server-side request forgery (SSRF)](#a10-server-side-request-forgery-ssrf)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of dynamic testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (4), application (2), [[Cybersecurity]] (2), web (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [jerod] (1)
 
@@ -153,13 +153,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), application (1), [[Manual Testing]] (1), [[LinkedIn]] (1), next (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Security Testing in QA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Software quality assurance process
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980)
@@ -228,10 +229,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), application (5), functional (2), [[Quality Assurance]] (1), [[Software Development]] (1)
 > **Env Vars:** sdlc (5)
 > **Definitions:** is an  (1), stands for (1), is a  (1), known as (1), means that (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** function (3)
 > **Speakers:** - [instructor] (1)
 
 #### Positive testing
@@ -305,8 +306,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), application (7), functional (2), data (2), management (2)
 > **Env Vars:** zip (5), owasp (1)
-> **Code Keywords:** static (1), class. (1), require (1), case. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** for example (1)
@@ -395,9 +396,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Security]] (5), data (3), [[OWASP]] (3), database (2)
 > **Env Vars:** owasp (3), sql (1), ajax (1), xml (1), dev (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -516,9 +517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (23), [[OWASP]] (5), application (4), [[Software Quality Assurance]] (2), [[NIST]] (2)
 > **Env Vars:** owasp (5), cia (3), iso (3), nist (2), iec (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** public (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### OWASP Testing Guide
@@ -606,9 +607,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[OWASP]] (6), application (3), web (2), functional (2)
 > **Env Vars:** owasp (6)
 > **Versions:** 2.9 (2), 2.10 (2), 2.11 (2)
-> **Code Keywords:** static (2), class, (1), this. (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
@@ -720,10 +721,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (11), application (10), web application (2), web (2), database (1)
 > **Env Vars:** owasp (10), zap (9), url (4), owa (1), csp (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (1), default, (1)
 > **URLs:** [zaproxy.org](https://zaproxy.org) (1), [https://preview.owasp-juice.shop](https://preview.owasp-juice.shop) (1)
 > **Documentation:** the documentation (2)
 > **Prerequisites:** configure (2)
@@ -732,7 +733,7 @@ created: 2026-04-29
 
 ### 2. Assessing Deployed Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manual vs. automated testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980)
@@ -839,9 +840,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), application (11), [[OWASP]] (5), [[Manual Testing]] (4), business (2)
 > **Env Vars:** owasp (5), zap (4), samm (4), bsimm (3), sdlc (2)
 > **CLI Commands:** find (6)
-> **Code Keywords:** static (5), throw (1)
 > **Analogies:** for example (1), picture (1), similar to (1)
 > **Exercise Files:** source code (2)
 > **Documentation:** the documentation (1)
@@ -973,8 +974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), [[Security]] (9), [[OWASP]] (8), web (6), data (3)
 > **Env Vars:** owasp (8), sql (1)
-> **Code Keywords:** pass (1), yield (1), require (1), let (1), function (1)
 > **Definitions:** is a  (3), refers to (1), is an  (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (1)
@@ -1062,10 +1063,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Security]] (3), database (2), [[SQL]] (2), management (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** think of it as (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - [announcer] (1)
@@ -1179,10 +1180,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), web (2), dns (1), next (1), data (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** dns (1), tls (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** module (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [jared] (1)
 
@@ -1299,9 +1300,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), [[Security]] (6), application (4), dns (3), data (3)
 > **Env Vars:** osint (21), dns (3), ssl (3), http (3), tls (2)
 > **CLI Commands:** find (4), ssh (1), make (1)
-> **Code Keywords:** this. (2), public (1), function (1)
 > **URLs:** [pentesttools.com](https://pentesttools.com) (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
@@ -1374,9 +1375,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), web (9), [[Security]] (7), web application (6), data (5)
 > **Env Vars:** http (4), https (3), tls (2), hsts (2), tcp (2)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** delete (1), case, (1)
 > **Tools:** firefox (2)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -1450,10 +1451,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), cd (6), teams (5), [[DevOps]] (5), [[DevSecOps]] (5)
 > **CLI Commands:** cd (6), aws (1)
 > **Env Vars:** owasp (3), aws (1)
 > **Definitions:** stands for (2), is a  (1), refers to (1)
-> **Code Keywords:** static (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1584,11 +1585,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (17), data (5), traffic (4), [[OWASP]] (3), web (3)
 > **Env Vars:** post (5), url (4), owasp (3), http (3), sql (3)
 > **UI Navigation:** go to (5), click on (5), scroll down (1), scroll up (1)
 > **API Endpoints:** post  (2), post
  (2), get  (1)
-> **Code Keywords:** let (3), type. (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -1597,7 +1598,7 @@ created: 2026-04-29
 
 ### 3. Web App Pen Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scoping a web app pen test
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980)
@@ -1718,7 +1719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (5), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Security]] (4), application (3), web application (2), web (2)
 > **CLI Commands:** make (2), find (1), aws (1)
 > **Env Vars:** hipaa (1), dns (1), aws (1)
 > **Definitions:** is a  (1)
@@ -1839,6 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), application (3), web application (2), hr (2), web (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** cio (1), sql (1)
 > **Definitions:** is a  (1), means that (1)
@@ -2038,9 +2040,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Security]] (5), web (4), data (4), [[Threat Modeling]] (3)
 > **Env Vars:** ptes (11), osint (2), stride (1), dread (1), owasp (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (1), module (1), static (1), finally, (1)
 > **Analogies:** it's like (1), for example (1)
 > **Best Practices:** don't forget (1), make sure to (1)
 > **URLs:** [mitre.org](https://mitre.org) (1)
@@ -2122,9 +2124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), web application (2), [[Security]] (2), teams (2), next (2)
 > **Definitions:** refers to (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [teacher] (1)
 
 #### Web application firewalls
@@ -2202,9 +2204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (10), traffic (8), web (6), application (4), data (3)
 > **Env Vars:** waf (9), http (3), owasp (3), sql (2), https (1)
 > **CLI Commands:** apache (1), nginx (1), python (1), find (1)
-> **Code Keywords:** pass (1), function (1), module (1), throw (1)
 > **Definitions:** short for (1), is a  (1)
 > **Tools:** github (1)
 > **Best Practices:** you should always (1)
@@ -2318,9 +2320,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), management (9), data (7), open-source (4), cloud (4)
 > **Env Vars:** siem (17), ossec (2), sim (1), elk (1), ossim (1)
 > **CLI Commands:** make (2), aws (1), apache (1)
-> **Code Keywords:** interface (1), let (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** think of it as (1), similar to (1)
 > **Prerequisites:** configure (1)
@@ -2401,9 +2403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), web application (3), application (2), [[Security]] (2), next (2)
 > **Env Vars:** rtfm (2), nist (1), btfm (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this. (2), require (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2460,10 +2462,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), web application (4), application (3), [[Penetration Testing]] (2), data (2)
 > **UI Navigation:** go to (3), click on (2)
 > **Env Vars:** sql (2), dns (1), ssl (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** if, (1), default. (1)
 > **Definitions:** is a  (2)
 > **URLs:** [kali.org](https://kali.org) (1)
 > **Analogies:** for example (1)
@@ -2472,7 +2474,7 @@ created: 2026-04-29
 
 ### 4. Testing for the OWASP Top Ten (2021)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980)
@@ -2529,9 +2531,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (17), [[OWASP]] (11), mobile application (5), web application (4), application (2)
 > **Env Vars:** owasp (11)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### A1: Broken access control
@@ -2625,8 +2627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Security]] (6), web (5), [[OWASP]] (4), business (3)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** self (3), this, (1), default, (1)
 > **Env Vars:** owasp (4), api (1)
 > **Versions:** 4.3 (1), 4.5 (1)
 > **Definitions:** is a  (2)
@@ -2723,8 +2725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[OWASP]] (4), application (4), [[Representational State Transfer (REST)|Rest]] (3), [[Security]] (2)
 > **Env Vars:** owasp (4), ascii (1), gdpr (1), ccpa (1), pipeda (1)
-> **Code Keywords:** protected (3), if, (1), require (1), function (1)
 > **CLI Commands:** find (1)
 > **Versions:** 4.9 (1)
 > **Analogies:** for example (1)
@@ -2849,9 +2851,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), data (11), database (7), [[SQL]] (6), [[OWASP]] (4)
 > **Env Vars:** sql (6), owasp (4), ldap (3), url (3), orm (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (3), require (1)
 > **Analogies:** for example (2)
 > **Versions:** 4.7 (1)
 > **Tools:** command line (1)
@@ -2935,9 +2937,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), [[OWASP]] (3), application (3), business (2), [[Threat Modeling]] (2)
 > **Env Vars:** owasp (3), sbom (2), cisa (1), gdpr (1), sdlc (1)
 > **Definitions:** is a  (2), known as (1), in other words (1)
-> **Code Keywords:** require (1), let (1), function (1)
 > **CLI Commands:** aws (1), make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should never (1)
@@ -3050,10 +3052,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (17), application (9), web (5), [[OWASP]] (4), cloud (3)
 > **CLI Commands:** make (3), find (2), php (1), mysql (1)
 > **Env Vars:** owasp (4), readme (1), php (1), http (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** extends (1)
 > **URLs:** [zeltser.com](https://zeltser.com) (1)
 > **Versions:** 4.2 (1)
 > **Analogies:** for example (1)
@@ -3164,8 +3166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[Drupal]] (4), web (4), database (3), [[OWASP]] (2)
 > **Env Vars:** owasp (2), cve (2), osint (1), http (1), sbom (1)
-> **Code Keywords:** require (1), function (1), case, (1), finally, (1), static (1)
 > **CLI Commands:** make (2), apache (1), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Exercise Files:** source code (2)
@@ -3282,9 +3284,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (16), management (10), web (7), [[OWASP]] (4), data (4)
 > **Env Vars:** owasp (4), url (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** else. (1), interface (1), default, (1), finally, (1)
 > **Versions:** 4.6 (1), 4.3 (1), 4.4 (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
@@ -3381,9 +3383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Security]] (3), [[OWASP]] (2), application (2), ci (2)
 > **Env Vars:** owasp (2), sbom (2), sdlc (2)
 > **CLI Commands:** find (2), cd (2), python (1)
-> **Code Keywords:** public (2), pass (1), let (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
@@ -3493,9 +3495,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), data (7), [[OWASP]] (2), web (2), database (1)
 > **Env Vars:** owasp (2), sdlc (1), nist (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** for. (1), module (1)
 > **Warnings:** troubleshoot (1), warning (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3579,6 +3581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (4), cloud (3), traffic (2), [[Security]] (2), application (1)
 > **Env Vars:** ssrf (13), url (8), owasp (4), http (2), pdf (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -3587,7 +3590,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980)
@@ -3666,6 +3669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Security]] (7), next (2), [[Virtual Machines]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (2)
 > **UI Navigation:** go to (1)

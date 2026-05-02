@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Operations.md)
@@ -47,23 +47,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Try your Python programming skills
-  - What you need to know
-  - Exploring the Lab environment
+  - [Try your Python programming skills](#try-your-python-programming-skills)
+  - [What you need to know](#what-you-need-to-know)
+  - [Exploring the Lab environment](#exploring-the-lab-environment)
 - [**1. Code Challenges**](#1-code-challenges) (7 videos)
-  - Solution: Are two strings equal?
-  - Solution: String replacement
-  - Solution: Reverse a string
-  - Solution: Format a string
-  - Solution: Insert into a string
-  - Solution: Does a string contain all the letters?
-  - Solution: Anagram validator
+  - [Solution: Are two strings equal?](#solution-are-two-strings-equal)
+  - [Solution: String replacement](#solution-string-replacement)
+  - [Solution: Reverse a string](#solution-reverse-a-string)
+  - [Solution: Format a string](#solution-format-a-string)
+  - [Solution: Insert into a string](#solution-insert-into-a-string)
+  - [Solution: Does a string contain all the letters?](#solution-does-a-string-contain-all-the-letters)
+  - [Solution: Anagram validator](#solution-anagram-validator)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try your Python programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980)
@@ -86,8 +86,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1), data (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you need to know
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), next (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
@@ -171,14 +172,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Code Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Are two strings equal?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980)
@@ -229,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (2), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** first_string (3), second_string (3)
 > **CLI Commands:** make (2), python (2), find (1)
 > **Definitions:** is a  (1)
@@ -259,7 +260,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Reverse a string
@@ -301,6 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
@@ -339,8 +340,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1), function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Insert into a string
@@ -378,8 +379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Does a string contain all the letters?
@@ -439,7 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (1), case, (1), this, (1)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** ascii_lowercase (2)
 > **Definitions:** short for (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -513,7 +514,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (2), case. (1), finally, (1), for. (1)
 > **Code Identifiers:** is_anagram (1), first_string (1), second_string (1)
 > **CLI Commands:** cat (1), make (1)
 > **Analogies:** for example (1), imagine (1)
@@ -523,7 +523,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980)
@@ -540,6 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [scott] (1)
 

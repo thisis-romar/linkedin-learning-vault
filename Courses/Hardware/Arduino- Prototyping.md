@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Arduino-%20Prototyping.md)
@@ -49,57 +49,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Prototype with Arduino
-  - What you should know
-  - What's new in this update
+  - [Prototype with Arduino](#prototype-with-arduino)
+  - [What you should know](#what-you-should-know)
+  - [What's new in this update](#whats-new-in-this-update)
 - [**1. Understand Prototyping**](#1-understand-prototyping) (3 videos)
-  - Purpose and pitfalls of prototypes
-  - Prototype form factors
-  - The prototype process
+  - [Purpose and pitfalls of prototypes](#purpose-and-pitfalls-of-prototypes)
+  - [Prototype form factors](#prototype-form-factors)
+  - [The prototype process](#the-prototype-process)
 - [**2. Plan the Prototype**](#2-plan-the-prototype) (6 videos)
-  - Prototype planning considerations
-  - Demo product brief of handheld game
-  - Define the proof-of-concept prototype
-  - Select components and libraries
-  - Design the circuit
-  - Make a pin map
+  - [Prototype planning considerations](#prototype-planning-considerations)
+  - [Demo product brief of handheld game](#demo-product-brief-of-handheld-game)
+  - [Define the proof-of-concept prototype](#define-the-proof-of-concept-prototype)
+  - [Select components and libraries](#select-components-and-libraries)
+  - [Design the circuit](#design-the-circuit)
+  - [Make a pin map](#make-a-pin-map)
 - [**3. Your Prototype "Hello World"**](#3-your-prototype-hello-world) (4 videos)
-  - Connect the display
-  - Display "Hello World" sketch
-  - Challenge: Controlling the display
-  - Solution: Controlling the display
+  - [Connect the display](#connect-the-display)
+  - [Display "Hello World" sketch](#display-hello-world-sketch)
+  - [Challenge: Controlling the display](#challenge-controlling-the-display)
+  - [Solution: Controlling the display](#solution-controlling-the-display)
 - [**4. Animate the Display**](#4-animate-the-display) (4 videos)
-  - Understand display dynamics
-  - Implement display dynamics
-  - Challenge: Modify the animation
-  - Solution: Modify the animation
+  - [Understand display dynamics](#understand-display-dynamics)
+  - [Implement display dynamics](#implement-display-dynamics)
+  - [Challenge: Modify the animation](#challenge-modify-the-animation)
+  - [Solution: Modify the animation](#solution-modify-the-animation)
 - [**5. Add Interaction**](#5-add-interaction) (5 videos)
-  - Understand interaction logic
-  - Breadboard buttons and update pin map
-  - Implement buttons
-  - Challenge: Name
-  - Solution: Name
+  - [Understand interaction logic](#understand-interaction-logic)
+  - [Breadboard buttons and update pin map](#breadboard-buttons-and-update-pin-map)
+  - [Implement buttons](#implement-buttons)
+  - [Challenge: Name](#challenge-name)
+  - [Solution: Name](#solution-name)
 - [**6. Improve Responsiveness**](#6-improve-responsiveness) (3 videos)
-  - Blocking versus non-blocking code
-  - Understand timers
-  - Implement non-blocking interaction
+  - [Blocking versus non-blocking code](#blocking-versus-non-blocking-code)
+  - [Understand timers](#understand-timers)
+  - [Implement non-blocking interaction](#implement-non-blocking-interaction)
 - [**7. Advanced Interaction**](#7-advanced-interaction) (5 videos)
-  - Button debouncing
-  - Advanced button interaction
-  - Implement button functions
-  - Challenge: Game intro
-  - Solution: Game intro
+  - [Button debouncing](#button-debouncing)
+  - [Advanced button interaction](#advanced-button-interaction)
+  - [Implement button functions](#implement-button-functions)
+  - [Challenge: Game intro](#challenge-game-intro)
+  - [Solution: Game intro](#solution-game-intro)
 - [**8. Iterating your Prototype**](#8-iterating-your-prototype) (4 videos)
-  - Use symbolic parameters
-  - Document prototypes
-  - Challenge: Complete the experience
-  - Solution: Complete the experience
+  - [Use symbolic parameters](#use-symbolic-parameters)
+  - [Document prototypes](#document-prototypes)
+  - [Challenge: Complete the experience](#challenge-complete-the-experience)
+  - [Solution: Complete the experience](#solution-complete-the-experience)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Final thoughts
+  - [Final thoughts](#final-thoughts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototype with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980)
@@ -120,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4), [[Hardware]] (2), [[Product Development]] (2), product (2), [[Prototyping]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [robert] (1)
 
@@ -146,8 +147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (5), [[Prototyping]] (3), product (1), [[Programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Env Vars:** lcd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -173,13 +174,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1), [[Prototyping]] (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understand Prototyping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose and pitfalls of prototypes
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980)
@@ -258,8 +260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Prototyping]] (2), [[Engineering]] (1)
 > **Env Vars:** ceo (6)
-> **Code Keywords:** this, (1), case. (1), let (1), case, (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -329,9 +331,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), product (1), [[Arduino]] (1), [[Prototyping]] (1)
 > **Env Vars:** pcb (2), led (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -381,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), product (3), next (2), management (1), [[Engineering]] (1)
 > **Documentation:** spec (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -389,7 +391,7 @@ created: 2026-04-29
 
 ### 2. Plan the Prototype
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototype planning considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980)
@@ -436,10 +438,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (3), product (2), feature (2), next (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [circuits.io](https://circuits.io) (1)
 > **Env Vars:** eagle (1)
 > **Cross-References:** we talked about (1)
@@ -484,6 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), game (3), [[Engineering]] (1), [[Prototyping]] (1)
 > **Env Vars:** retro (1), lcd (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -516,7 +519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** game (4), product (1)
 > **Speakers:** - [instructor] (1)
 
 #### Select components and libraries
@@ -604,9 +607,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (7), [[Prototyping]] (3), product (2), [[Programming]] (2), [[Search]] (2)
 > **Env Vars:** lcd (3), pcb (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** module (1), require (1)
 > **Versions:** 3.3 (2)
 > **Analogies:** similar to (1), for example (1)
 > **Best Practices:** it's best to (1), good practice (1)
@@ -674,8 +677,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (7), power (4), game (1), data (1)
 > **Env Vars:** lcd (13), eda (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -714,9 +717,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else. (1)
 > **Env Vars:** pwm (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** you'll need (1)
@@ -725,7 +728,7 @@ created: 2026-04-29
 
 ### 3. Your Prototype "Hello World"
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect the display
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980)
@@ -844,8 +847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (13), power (5), product (1), game (1), data (1)
 > **Env Vars:** lcd (20), usb (2)
-> **Code Keywords:** let (4), finally, (3), this, (1)
 > **CLI Commands:** make (2), rails (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -935,7 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), public (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Arduino]] (4), next (2), game (1)
 > **Env Vars:** lcd (4), ide (1), usb (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** setup (3)
@@ -966,6 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ide (1)
 > **Cross-References:** in the next (1)
@@ -973,7 +977,6 @@ created: 2026-04-29
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (upbeat music) (1)
 
 #### Solution: Controlling the display
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980)
@@ -1022,8 +1025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** lcd (3), ide (2)
-> **Code Keywords:** let (1), default, (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1033,7 +1036,7 @@ created: 2026-04-29
 
 ### 4. Animate the Display
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand display dynamics
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980)
@@ -1078,8 +1081,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (1), next (1)
 > **Env Vars:** led (3)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1293,7 +1296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (1)
+> **Frameworks & Libraries:** [[Arduino]] (1), game (1), next (1)
 > **Code Identifiers:** lasercolumn (11), setcursor (2)
 > **Env Vars:** ide (2), retro_1 (1), retro (1), lcd (1)
 > **UI Navigation:** go to (2), open the (1)
@@ -1323,6 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1423,7 +1427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[Arduino]] (1), next (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** laserstep (4)
 > **Env Vars:** lcd (2), ide (2)
@@ -1435,7 +1439,7 @@ created: 2026-04-29
 
 ### 5. Add Interaction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand interaction logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-interaction-logic?u=76281980)
@@ -1476,7 +1480,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), while, (1)
 > **Prerequisites:** setup (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1512,7 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** ide (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1608,7 +1611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (1), function (1)
+> **Frameworks & Libraries:** game (2), feature (1), next (1), oop (1), [[Prototyping]] (1)
 > **Env Vars:** lcd (5), ide (1)
 > **Prerequisites:** set up (3), setup (3)
 > **CLI Commands:** make (1)
@@ -1644,6 +1647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), [[Arduino]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1728,8 +1732,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **Env Vars:** lcd (4), ide (1)
-> **Code Keywords:** let (3), finally, (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1738,7 +1742,7 @@ created: 2026-04-29
 
 ### 6. Improve Responsiveness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blocking versus non-blocking code
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980)
@@ -1835,8 +1839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** led (8), input_pullup (1), ide (1)
-> **Code Keywords:** let (4), function (1), this. (1), this, (1), case. (1)
 > **Code Identifiers:** pinmode (2), digitalwrite (1), digitalread (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1896,7 +1900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), else. (1), continue (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** currenttime (3), timerstart (2), timerlength (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Exercise Files:** template (1)
@@ -1981,7 +1985,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1), case, (1), try. (1)
 > **Env Vars:** retro_2 (1), retro_3 (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1993,7 +1996,7 @@ created: 2026-04-29
 
 ### 7. Advanced Interaction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Button debouncing
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980)
@@ -2108,7 +2111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (13), this, (3), let (3), this. (2), while. (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), application (1)
 > **Env Vars:** ide (1), retro_4 (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** find (1)
@@ -2201,7 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1), case, (1), new, (1), type. (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** previousreading (3), currentreading (2)
 > **Env Vars:** ide (1), retro_5 (1), high (1), low (1)
 > **UI Navigation:** toggle (1), go to (1)
@@ -2356,7 +2359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (35), let (4), case, (2), require (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** currentreading (8), pinstate (4), newvalue (4), newreading (2), newreadings (2)
 > **Analogies:** just like (3), for example (2)
 > **CLI Commands:** make (4)
@@ -2384,6 +2387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2476,8 +2480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3)
 > **Code Identifiers:** currentreading (6)
-> **Code Keywords:** function (2), let (2)
 > **Env Vars:** ide (1), low (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -2488,7 +2492,7 @@ created: 2026-04-29
 
 ### 8. Iterating your Prototype
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use symbolic parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980)
@@ -2591,7 +2595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), const (2), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Arduino]] (2)
 > **Analogies:** just like (3), for example (1)
 > **CLI Commands:** make (3)
 > **Definitions:** stands for (1), is an  (1), is a  (1)
@@ -2658,8 +2662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Sketching]] (1), [[Hardware]] (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** delete (1), finally, (1)
 > **Env Vars:** laser_symbol (1), bom (1)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** go back to (1)
@@ -2701,6 +2705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2789,7 +2794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), new. (1), else, (1)
+> **Frameworks & Libraries:** hit (1), oop (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** ide (1)
@@ -2800,7 +2805,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980)
@@ -2819,6 +2824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Arduino]] (2), [[LinkedIn]] (2)
 > **Speakers:** - thank (1)
 
 

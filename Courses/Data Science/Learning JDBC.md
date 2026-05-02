@@ -34,7 +34,7 @@ tags:
   - topic/web-development
   - skill/java-database-connectivity-jdbc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20JDBC.md)
@@ -53,42 +53,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Get going with data access in Java
-  - What you need to know
+  - [Get going with data access in Java](#get-going-with-data-access-in-java)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Introducing Java Data Access**](#1-introducing-java-data-access) (7 videos)
-  - Relational database management systems
-  - Java Database Connectivity
-  - Terminology of JDBC
-  - Introduction to PostgreSQL
-  - Setting up Postgresql
-  - Creating the project
-  - Create, read, update, and delete (CRUD)
+  - [Relational database management systems](#relational-database-management-systems)
+  - [Java Database Connectivity](#java-database-connectivity)
+  - [Terminology of JDBC](#terminology-of-jdbc)
+  - [Introduction to PostgreSQL](#introduction-to-postgresql)
+  - [Setting up Postgresql](#setting-up-postgresql)
+  - [Creating the project](#creating-the-project)
+  - [Create, read, update, and delete (CRUD)](#create-read-update-and-delete-crud)
 - [**2. Data Access Basics**](#2-data-access-basics) (11 videos)
-  - Using a driver
-  - The Data Access Object (DAO) pattern
-  - Understanding result sets
-  - Reading all data
-  - Reading instance data
-  - Creating data
-  - Updating data
-  - Deleting data
-  - The Repository pattern
-  - Challenge: Implement a DAO
-  - Solution: Implement a DAO
+  - [Using a driver](#using-a-driver)
+  - [The Data Access Object (DAO) pattern](#the-data-access-object-dao-pattern)
+  - [Understanding result sets](#understanding-result-sets)
+  - [Reading all data](#reading-all-data)
+  - [Reading instance data](#reading-instance-data)
+  - [Creating data](#creating-data)
+  - [Updating data](#updating-data)
+  - [Deleting data](#deleting-data)
+  - [The Repository pattern](#the-repository-pattern)
+  - [Challenge: Implement a DAO](#challenge-implement-a-dao)
+  - [Solution: Implement a DAO](#solution-implement-a-dao)
 - [**3. Advanced Data Access**](#3-advanced-data-access) (6 videos)
-  - Using stored procedures
-  - Ordering and limiting results
-  - Paging
-  - Connection pooling and management
-  - Understanding transactions
-  - Exception handling in JDBC
+  - [Using stored procedures](#using-stored-procedures)
+  - [Ordering and limiting results](#ordering-and-limiting-results)
+  - [Paging](#paging)
+  - [Connection pooling and management](#connection-pooling-and-management)
+  - [Understanding transactions](#understanding-transactions)
+  - [Exception handling in JDBC](#exception-handling-in-jdbc)
 - [**Conclusion**](#conclusion) (2 videos)
-  - JPA and ORM
-  - Next steps
+  - [JPA and ORM](#jpa-and-orm)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get going with data access in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980)
@@ -109,6 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (5), data (2), [[Java]] (1), [[Java Database Connectivity (JDBC)|Java database connectivity]] (1), [[SQL]] (1)
 > **Env Vars:** jdbc (5), sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [frank] (1)
@@ -164,11 +165,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[GitHub]] (4), [[Codespaces]] (2), [[Jetpack Compose|Compose]] (2), database (2)
 > **Tools:** github (4), terminal (2), vs code (1)
 > **CLI Commands:** docker (4), find (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** setup (1), set up (1)
-> **Code Keywords:** default, (1)
 > **Env Vars:** jdbc (1)
 > **Versions:** java 21 (1)
 > **Speakers:** - [instructor] (1)
@@ -176,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Introducing Java Data Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational database management systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980)
@@ -251,8 +252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (7), [[Databases]] (4), [[NoSQL]] (4), [[Relational Databases]] (2)
 > **Env Vars:** rdbms (10), ibm (4), jdbc (1), db2 (1), bcnf (1)
-> **Code Keywords:** case. (2), for, (1), let (1), implements (1), while. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -324,9 +325,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (13), database (9), [[SQL]] (9), [[Databases]] (3), application (3)
 > **Env Vars:** jdbc (13), sql (9), ansi (5), api (2), rdbms (2)
 > **Definitions:** is a  (5), stands for (1), is an  (1)
-> **Code Keywords:** throw (2), this, (1), function (1)
 > **Versions:** java 9 (1), version 4 (1)
 > **CLI Commands:** find (1)
 > **Documentation:** spec (1)
@@ -417,9 +418,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), database (6), data (5), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Spring Framework]] (1)
 > **Env Vars:** sql (6), jdbc (2), rdbms (1)
 > **Definitions:** is a  (5), is an  (2), means that (1)
-> **Code Keywords:** let (1), pass (1), function (1)
 > **Analogies:** for instance (1), it's like (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
@@ -481,10 +482,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[PostgreSQL]] (6), [[Security]] (3), management (1), open-source (1)
 > **Env Vars:** ansi (3), rdbms (1), acid (1), sql (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** docker (2)
-> **Code Keywords:** extends (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Setting up Postgresql
@@ -544,8 +545,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[PostgreSQL|Postgres]] (4), data (4), [[Jetpack Compose|Compose]] (2), [[Codespaces]] (1)
 > **CLI Commands:** psql (2), docker (2)
-> **Code Keywords:** function (1), let (1), from. (1)
 > **UI Navigation:** go to (3)
 > **File Paths:** data.sql (1), load-db.sh (1)
 > **Tools:** terminal (2)
@@ -609,7 +610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1)
+> **Frameworks & Libraries:** database (2), application (2), data (1), [[Codespaces]] (1), [[LinkedIn]] (1)
 > **Env Vars:** lil (1), jdbc (1)
 > **Tools:** terminal (2)
 > **File Paths:** app.java (1)
@@ -721,8 +722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[SQL]] (7), database (6), api (2), [[Data Manipulation]] (1)
 > **Env Vars:** sql (7), crud (5), select (4), dml (3), insert (3)
-> **Code Keywords:** delete (6), let (2), default, (1)
 > **SQL:** select (4), update (3)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **API Endpoints:** delete  (1)
@@ -732,7 +733,7 @@ created: 2026-04-29
 
 ### 2. Data Access Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a driver
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980)
@@ -837,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), static (6), private (3), pass (3), public (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Java]] (4), database (4), [[PostgreSQL]] (3), data (2)
 > **Env Vars:** sql (4), url (3), jdbc (2), ssw (1)
 > **CLI Commands:** docker (1), make (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -957,8 +958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Representational State Transfer (REST)|Rest]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1), oop (1)
 > **Env Vars:** dao (15), dto (5), jdbc (1), crud (1), oop (1)
-> **Code Keywords:** interface (3), let (2), this, (2), case. (1), this. (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (4)
 > **Warnings:** common mistake (1)
@@ -1051,7 +1052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), private (4), pass (4), interface (2), extends (1)
+> **Frameworks & Libraries:** [[Java]] (11), data (4), database (3), [[SQL]] (2), next (2)
 > **Env Vars:** uuid (5), dao (5), dat (1), jvc (1)
 > **Code Identifiers:** getall (1), getone (1), processresultset (1), setserviceid (1), getobject (1)
 > **File Paths:** data.sql (1), java.sql (1)
@@ -1156,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), pass (3), this, (2), private (1)
+> **Frameworks & Libraries:** data (4), [[SQL]] (4), database (1), application (1)
 > **Env Vars:** dao (5), sql (4)
 > **Code Identifiers:** getconnection (1), processresultsset (1), foreach (1), printline (1)
 > **File Paths:** data.sql (1)
@@ -1250,7 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), catch. (2), pass (2), class, (1), private (1)
+> **Frameworks & Libraries:** [[SQL]] (2), database (2), data (2), [[Java]] (1)
 > **Env Vars:** sql (2), dao (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -1420,7 +1421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), throw (3), this. (2), pass (2), if. (1)
+> **Frameworks & Libraries:** [[SQL]] (5), database (4), [[PostgreSQL|Postgres]] (1), functional (1)
 > **Env Vars:** sql (5), dao (4), uuid (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1524,7 +1525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (2), private (1), static (1), delete (1)
+> **Frameworks & Libraries:** [[SQL]] (2), next (1), database (1)
 > **Code Identifiers:** getserviceid (2), getone (2), setstring (1), getname (1), setbigdecimal (1)
 > **Env Vars:** sql (2), dao (1), update (1)
 > **Versions:** 13.45 (2), 4.35 (1)
@@ -1592,7 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), pass (2), let (2), private (1), static (1)
+> **Frameworks & Libraries:** data (2), database (1)
 > **Code Identifiers:** service_id (1), getconnection (1), setautocommit (1), servicedao (1), newservice (1)
 > **Env Vars:** crud (2)
 > **Cross-References:** go back to (1)
@@ -1671,8 +1672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), [[Databases]] (5), data (4), [[Microservices]] (2), application (2)
 > **Env Vars:** dao (7)
-> **Code Keywords:** let (2), class. (2), case, (1), require (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
@@ -1705,8 +1706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), database (1), data (1), [[SQL]] (1), next (1)
 > **Env Vars:** dao (4)
-> **Code Keywords:** let (1), delete (1), this, (1)
 > **Code Identifiers:** getall (1), getone (1)
 > **File Paths:** data.sql (1)
 > **CLI Commands:** make (1)
@@ -1758,8 +1759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), next (2), data (1), [[SQL]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** get_one (4), create (3), update (3), delete (3), dao (2)
-> **Code Keywords:** delete (4), let (1), this, (1), finally, (1)
 > **Code Identifiers:** getall (1), getone (1), processresultsset (1)
 > **SQL:** update (3)
 > **API Endpoints:** delete  (1)
@@ -1770,7 +1771,7 @@ created: 2026-04-29
 
 ### 3. Advanced Data Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using stored procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980)
@@ -1839,7 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), let (7), function (6), case, (3), pass (3)
+> **Frameworks & Libraries:** product (5), [[Java]] (3), data (2), database (2), [[SQL]] (1)
 > **Code Identifiers:** productid (3), vendorname (3), createproduct (2), returnval (2), setstring (2)
 > **Env Vars:** uuid (7), create (2), simple (2), product (2), sql (1)
 > **CLI Commands:** make (3), psql (1)
@@ -1912,7 +1913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), private (1), static (1), function (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Java]] (1)
 > **Code Identifiers:** setint1 (1), executequery (1), processresultset (1), handlesqlexception (1), getall (1)
 > **Non-Speech:** (instructor typing) (8)
 > **Env Vars:** get_all_limit (2), sql (2), limit (1)
@@ -2019,7 +2020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (3), private (1), static (1), public (1)
+> **Frameworks & Libraries:** database (4), [[PostgreSQL|Postgres]] (2), [[SQL]] (2), [[Databases]] (1), web (1)
 > **Env Vars:** dao (3), sql (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** setint (2)
@@ -2096,9 +2097,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), database (1), data (1), web (1), next (1)
 > **Env Vars:** jvm (4), tcp (2), dbcp (1), cpo (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), this, (1)
 > **CLI Commands:** apache (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2186,7 +2187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), this. (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[Databases]] (1), database (1), application (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** rdbms (1)
 > **Speakers:** - [presenter] (1)
@@ -2270,7 +2271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (3), throw (3)
+> **Frameworks & Libraries:** database (4), generic (3), data (3), application (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** jdbc (1), http (1), rdbms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2278,7 +2279,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JPA and ORM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980)
@@ -2337,9 +2338,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (6), [[SQL]] (4), [[Java]] (2), [[Databases]] (1), api (1)
 > **Env Vars:** orm (9), jdbc (6), jpa (4), sql (4), dba (1)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** let (1)
 > **Documentation:** specification (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
@@ -2387,6 +2388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (3), database (3), next (2), [[SQL]] (2), [[Spring Data]] (1)
 > **Env Vars:** jpa (5), jdbc (3), sql (2), rdbms (1), crud (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)

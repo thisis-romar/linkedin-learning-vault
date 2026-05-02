@@ -38,7 +38,7 @@ tags:
   - skill/it-audit
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Auditing%20AI%20Systems.md)
@@ -57,40 +57,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to the new world of AI audits
+  - [Welcome to the new world of AI audits](#welcome-to-the-new-world-of-ai-audits)
 - [**1. New Paradigm of AI Audits**](#1-new-paradigm-of-ai-audits) (4 videos)
-  - What is an AI audit?
-  - How are audits used?
-  - The state of AI legislation
-  - Ethics of scoring and classifying humans
+  - [What is an AI audit?](#what-is-an-ai-audit)
+  - [How are audits used?](#how-are-audits-used)
+  - [The state of AI legislation](#the-state-of-ai-legislation)
+  - [Ethics of scoring and classifying humans](#ethics-of-scoring-and-classifying-humans)
 - [**2. Why Audit AI Systems?**](#2-why-audit-ai-systems) (4 videos)
-  - AI audit limitations and opportunities
-  - Development workflows
-  - AI performance
-  - Statistical parity
+  - [AI audit limitations and opportunities](#ai-audit-limitations-and-opportunities)
+  - [Development workflows](#development-workflows)
+  - [AI performance](#ai-performance)
+  - [Statistical parity](#statistical-parity)
 - [**3. Data for AI Audits**](#3-data-for-ai-audits) (3 videos)
-  - Data for auditing AI
-  - Sources of bias in data
-  - Types of bias and data sampling methods
+  - [Data for auditing AI](#data-for-auditing-ai)
+  - [Sources of bias in data](#sources-of-bias-in-data)
+  - [Types of bias and data sampling methods](#types-of-bias-and-data-sampling-methods)
 - [**4. Principles for AI Audits**](#4-principles-for-ai-audits) (4 videos)
-  - Why explainability matters
-  - Levels of transparency
-  - Responsible AI principles: Compliance
-  - Preparing for AI regulation
+  - [Why explainability matters](#why-explainability-matters)
+  - [Levels of transparency](#levels-of-transparency)
+  - [Responsible AI principles: Compliance](#responsible-ai-principles-compliance)
+  - [Preparing for AI regulation](#preparing-for-ai-regulation)
 - [**5. Model Audits**](#5-model-audits) (6 videos)
-  - Types of model audits
-  - Stages of a model audit
-  - Model audit: Home loans
-  - Auditing training data
-  - Audit outcomes: Explainability statements
-  - Continuous audits
+  - [Types of model audits](#types-of-model-audits)
+  - [Stages of a model audit](#stages-of-a-model-audit)
+  - [Model audit: Home loans](#model-audit-home-loans)
+  - [Auditing training data](#auditing-training-data)
+  - [Audit outcomes: Explainability statements](#audit-outcomes-explainability-statements)
+  - [Continuous audits](#continuous-audits)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Generative AI
-  - Next steps
+  - [Generative AI](#generative-ai)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the new world of AI audits
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980)
@@ -111,12 +111,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (3), [[Responsible AI]] (1)
 > **Speakers:** - are (1)
 
 
 ### 1. New Paradigm of AI Audits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an AI audit?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980)
@@ -187,8 +188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (29), data (7), [[Algorithms]] (1), [[Responsible AI]] (1), [[Accountability]] (1)
 > **Analogies:** such as (3), for example (2), similar to (1)
-> **Code Keywords:** public (2), let (1)
 > **Env Vars:** gdpr (1), nist (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -263,8 +264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (27), data (5), [[Responsible AI]] (3), teams (3), [[Building Trust]] (2)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** public (2), case, (1), let (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -323,8 +324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (11), [[Privacy]] (2), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gdpr (2), ccpa (1)
-> **Code Keywords:** require (1), let (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -392,8 +393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Statistics]] (5), data (4), [[Ethics]] (2), [[Accountability]] (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -402,7 +403,7 @@ created: 2026-04-29
 
 ### 2. Why Audit AI Systems?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI audit limitations and opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980)
@@ -463,7 +464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), raise (1), protected (1), require (1)
+> **Frameworks & Libraries:** ai (17), data (6), [[Responsible AI]] (2), [[Privacy]] (2), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Env Vars:** sag (1), aftra (1)
@@ -536,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), self (1), require (1), let (1)
+> **Frameworks & Libraries:** ai (16), teams (10), data (8), [[Microsoft Products|Products]] (3), [[Engineering]] (2)
 > **Env Vars:** fomo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -616,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), case, (1)
+> **Frameworks & Libraries:** data (5), [[Reinforcement Learning]] (3), [[Supervised Learning]] (3), ai (2), game (2)
 > **Analogies:** imagine (2)
 > **Speakers:** - [instructor] (1)
 
@@ -669,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** ai (4), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** find (1)
@@ -678,7 +679,7 @@ created: 2026-04-29
 
 ### 3. Data for AI Audits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data for auditing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980)
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), let (2), public (1), for. (1)
+> **Frameworks & Libraries:** data (27), ai (4), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** pii (1)
@@ -802,9 +803,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), ai (5), [[Engineering]] (2), teams (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** protected (1)
 > **Env Vars:** ftc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -881,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1)
+> **Frameworks & Libraries:** data (20), teams (2), ai (1), [[Algorithms]] (1), [[Engineering]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Warnings:** caveat (1)
@@ -890,7 +891,7 @@ created: 2026-04-29
 
 ### 4. Principles for AI Audits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why explainability matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980)
@@ -957,9 +958,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), teams (2), [[Deep Learning]] (1), [[Neural Networks]] (1), business (1)
 > **Env Vars:** shap (2), lime (2), gdpr (1), nist (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for, (1), let (1)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1033,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), public (1), let (1)
+> **Frameworks & Libraries:** ai (17), [[Microsoft Products|Products]] (5), product (3), data (3), [[Building Trust]] (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
@@ -1117,7 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1), require (1)
+> **Frameworks & Libraries:** ai (16), [[Responsible AI]] (4), teams (2), data (1), [[Engineering]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** rai (1)
@@ -1187,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), self (1), let (1)
+> **Frameworks & Libraries:** ai (15), data (10), teams (2), next (1), [[NIST]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
 > **Env Vars:** ftc (1), nist (1)
@@ -1196,7 +1197,7 @@ created: 2026-04-29
 
 ### 5. Model Audits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of model audits
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980)
@@ -1243,8 +1244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), teams (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** require (1), protected (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1311,8 +1312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (7), next (2), teams (2), [[System Architecture]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1368,7 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), let (2), default. (1), default, (1), class, (1)
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.57 (1)
 > **Definitions:** is a  (1)
@@ -1439,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), protected (2), for. (1), this. (1)
+> **Frameworks & Libraries:** data (27), power (2), ai (1), [[Algorithms]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -1486,8 +1487,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Products|Products]] (2), next (1), product (1), career (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** public (1), let (1)
 > **Env Vars:** aedt (1), pii (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
@@ -1535,15 +1536,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (3), [[Microsoft Products|Products]] (2), teams (2), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980)
@@ -1638,7 +1639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), new, (1), public (1), require (1), case. (1)
+> **Frameworks & Libraries:** data (13), [[Generative AI]] (11), [[Generative AI Tools]] (7), ai (3), [[Large Language Models (LLM)|Large language models]] (2)
 > **Analogies:** such as (3), similar to (1)
 > **Env Vars:** llm (2), ptsd (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1665,6 +1666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Responsible AI]] (1), next (1), [[LinkedIn]] (1)
 > **Env Vars:** rai (1)
 > **Speakers:** - now (1)
 

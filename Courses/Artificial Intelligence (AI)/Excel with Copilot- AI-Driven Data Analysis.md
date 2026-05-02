@@ -28,7 +28,7 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Excel%20with%20Copilot-%20AI-Driven%20Data%20Analysis.md)
@@ -47,41 +47,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to Copilot and AI-powered Excel
-  - Working with Excel tables
+  - [Welcome to Copilot and AI-powered Excel](#welcome-to-copilot-and-ai-powered-excel)
+  - [Working with Excel tables](#working-with-excel-tables)
 - [**1. First Steps with Copilot**](#1-first-steps-with-copilot) (6 videos)
-  - Getting your data into Copilot
-  - A tour of the Copilot editor
-  - Basic table reformatting with Copilot
-  - Using Copilot CHAT in Excel for non-Excel tasks
-  - Challenge: Table setup in Copilot
-  - Solution: Table setup in Copilot
+  - [Getting your data into Copilot](#getting-your-data-into-copilot)
+  - [A tour of the Copilot editor](#a-tour-of-the-copilot-editor)
+  - [Basic table reformatting with Copilot](#basic-table-reformatting-with-copilot)
+  - [Using Copilot CHAT in Excel for non-Excel tasks](#using-copilot-chat-in-excel-for-non-excel-tasks)
+  - [Challenge: Table setup in Copilot](#challenge-table-setup-in-copilot)
+  - [Solution: Table setup in Copilot](#solution-table-setup-in-copilot)
 - [**2. Data Management with Copilot**](#2-data-management-with-copilot) (9 videos)
-  - Creating formulas and functions faster with Copilot
-  - Debugging Excel formulas with Excel Copilot
-  - Using Microsoft Copilot as an Excel formula tutor
-  - Using the COPILOT() function
-  - Data profiling
-  - Sorting and filtering data
-  - Working with multiple tables in Copilot
-  - Challenge: Enhancing a table with Copilot
-  - Solution: Enhancing a table with Copilot
+  - [Creating formulas and functions faster with Copilot](#creating-formulas-and-functions-faster-with-copilot)
+  - [Debugging Excel formulas with Excel Copilot](#debugging-excel-formulas-with-excel-copilot)
+  - [Using Microsoft Copilot as an Excel formula tutor](#using-microsoft-copilot-as-an-excel-formula-tutor)
+  - [Using the COPILOT() function](#using-the-copilot-function)
+  - [Data profiling](#data-profiling)
+  - [Sorting and filtering data](#sorting-and-filtering-data)
+  - [Working with multiple tables in Copilot](#working-with-multiple-tables-in-copilot)
+  - [Challenge: Enhancing a table with Copilot](#challenge-enhancing-a-table-with-copilot)
+  - [Solution: Enhancing a table with Copilot](#solution-enhancing-a-table-with-copilot)
 - [**3. Analyzing and Visualizing Data with Copilot**](#3-analyzing-and-visualizing-data-with-copilot) (9 videos)
-  - Conditional formatting
-  - Advanced data analysis and insights
-  - AI-powered data visualization with Copilot
-  - Introducing advanced analysis with Python for Copilot
-  - Time series analysis with advanced analysis in Copilot
-  - Text analysis with advanced analysis in Copilot
-  - Researcher and analyst agents in Copilot
-  - Challenge: Copilot for data analysis
-  - Solution: Copilot for data analysis
+  - [Conditional formatting](#conditional-formatting)
+  - [Advanced data analysis and insights](#advanced-data-analysis-and-insights)
+  - [AI-powered data visualization with Copilot](#ai-powered-data-visualization-with-copilot)
+  - [Introducing advanced analysis with Python for Copilot](#introducing-advanced-analysis-with-python-for-copilot)
+  - [Time series analysis with advanced analysis in Copilot](#time-series-analysis-with-advanced-analysis-in-copilot)
+  - [Text analysis with advanced analysis in Copilot](#text-analysis-with-advanced-analysis-in-copilot)
+  - [Researcher and analyst agents in Copilot](#researcher-and-analyst-agents-in-copilot)
+  - [Challenge: Copilot for data analysis](#challenge-copilot-for-data-analysis)
+  - [Solution: Copilot for data analysis](#solution-copilot-for-data-analysis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future of AI in Excel
+  - [The future of AI in Excel](#the-future-of-ai-in-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Copilot and AI-powered Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/welcome-to-copilot-and-ai-powered-excel?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), [[Microsoft Copilot|Copilot]] (2), power (1), ai (1)
 > **Env Vars:** mvp (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -189,7 +190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), function (1), extends (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Excel|Excel]] (7), data (7), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** navigate to (2)
 > **Code Identifiers:** book_sales (1)
 > **Env Vars:** b22 (1)
@@ -200,7 +201,7 @@ created: 2026-04-29
 
 ### 1. First Steps with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting your data into Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/getting-your-data-into-copilot-27828092?u=76281980)
@@ -327,7 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1), raise (1), this, (1), for. (1)
+> **Frameworks & Libraries:** data (15), [[Microsoft Copilot|Copilot]] (13), web (3), [[Microsoft OneDrive|Onedrive]] (2), next (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** toggle (1), go to (1)
 > **Prerequisites:** set up (2)
@@ -417,7 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), data (6), web (2), [[Microsoft Excel|Excel]] (2), [[Search]] (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -520,7 +521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (2), this. (1), this, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), data (4), [[Microsoft Excel|Excel]] (3), prompt (3), game (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** open the (1), dropdown (1)
 > **Analogies:** just like (1), such as (1)
@@ -610,7 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), interface (1), case. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (16), [[Microsoft Excel|Excel]] (7), data (4), llm (2), [[Search]] (2)
 > **Env Vars:** llm (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Cross-References:** go back to (1)
@@ -652,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (3), next (2), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -729,7 +730,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), data (2), [[Microsoft OneDrive|Onedrive]] (1), prompt (1), feature (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
@@ -739,7 +740,7 @@ created: 2026-04-29
 
 ### 2. Data Management with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating formulas and functions faster with Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/creating-formulas-and-functions-faster-with-copilot-27846084?u=76281980)
@@ -832,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (2), ai (1), data (1)
 > **CLI Commands:** make (2), python (2), find (1)
 > **Code Identifiers:** formulas_functions (1)
 > **UI Navigation:** dropdown (1)
@@ -923,7 +924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), function (1), try. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), prompt (2), [[Debugging]] (1), next (1), data (1)
 > **Env Vars:** averageif (1), vpa (1), vba (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Analogies:** for example (1), picture (1)
@@ -1017,7 +1018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Copilot|Copilot]] (5), data (5), [[Forms]] (3), [[Microsoft Office|Office]] (2)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
@@ -1101,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), case, (2), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), prompt (4), data (4), [[Generative AI]] (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -1219,8 +1220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (11), [[Microsoft Copilot|Copilot]] (9), [[Microsoft Excel|Excel]] (2), next (1)
 > **CLI Commands:** python (11), make (1), find (1)
-> **Code Keywords:** let (5), this. (3), continue (2), this, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -1302,7 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (7), [[Microsoft Copilot|Copilot]] (7), [[Microsoft Excel|Excel]] (2), product (1), prompt (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
@@ -1423,7 +1424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else. (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), data (8), prompt (4), [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** xlookup (4), lookup (1)
 > **CLI Commands:** python (3), make (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -1462,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), data (3), product (2), next (2), [[Microsoft Products|Products]] (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is an  (1)
@@ -1534,7 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Python (Programming Language)|Python]] (5), next (3), [[Microsoft Products|Products]] (2), data (2)
 > **CLI Commands:** python (5)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
@@ -1545,7 +1546,7 @@ created: 2026-04-29
 
 ### 3. Analyzing and Visualizing Data with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditional formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/conditional-formatting-27848098?u=76281980)
@@ -1624,7 +1625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), data (5), [[Microsoft Excel|Excel]] (2), prompt (1), game (1)
 > **Exercise Files:** exercise file (1), boilerplate (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -1727,7 +1728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (1), static (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Copilot|Copilot]] (7), [[Python (Programming Language)|Python]] (6), prompt (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** python (6), make (2), find (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
@@ -1843,7 +1844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), include, (1), try, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), data (4), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), generic (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -1978,8 +1979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (8), [[Microsoft Copilot|Copilot]] (7), [[Microsoft Excel|Excel]] (4), game (3)
 > **CLI Commands:** python (8), find (1)
-> **Code Keywords:** let (5), this, (2), try, (1), continue (1)
 > **UI Navigation:** open the (1), go to (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** getting started (1)
@@ -2064,8 +2065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Copilot|Copilot]] (7), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Forecasting]] (2)
 > **CLI Commands:** python (5), make (2)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2139,8 +2140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), data (7), [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** python (5), find (1)
-> **Code Keywords:** case, (2), this, (1), let (1)
 > **UI Navigation:** open the (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** tfidf (1)
@@ -2266,7 +2267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), case, (2), case. (1), while. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), ai (4), [[Microsoft Copilot|Copilot]] (3), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (2)
 > **Env Vars:** co2 (2), llm (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -2308,7 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), data (3), next (2), product (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise file (1)
@@ -2418,7 +2419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (2), this. (2), continue (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), data (4), [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), python (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1)
@@ -2429,7 +2430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/the-future-of-ai-in-excel?u=76281980)
@@ -2482,8 +2483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), ai (10), [[Microsoft Copilot|Copilot]] (6), [[Python (Programming Language)|Python]] (4), data (3)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1), interface (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)

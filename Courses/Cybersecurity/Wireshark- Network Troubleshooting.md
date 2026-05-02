@@ -31,7 +31,7 @@ tags:
   - skill/network-troubleshooting
   - skill/wireshark
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Analyze network problems
-  - What you need to know
+  - [Analyze network problems](#analyze-network-problems)
+  - [What you need to know](#what-you-need-to-know)
 - [**Traffic Capture and Analysis**](#traffic-capture-and-analysis) (8 videos)
-  - Getting the most out of Wireshark
-  - Navigating the Wireshark interface
-  - Investigating the Edit Menu choice
-  - Exploring the View Menu choice
-  - Getting ready to capture
-  - Examining a capture
-  - Challenge: Examining evidence of congestion
-  - Response: Examining evidence of congestion
+  - [Getting the most out of Wireshark](#getting-the-most-out-of-wireshark)
+  - [Navigating the Wireshark interface](#navigating-the-wireshark-interface)
+  - [Investigating the Edit Menu choice](#investigating-the-edit-menu-choice)
+  - [Exploring the View Menu choice](#exploring-the-view-menu-choice)
+  - [Getting ready to capture](#getting-ready-to-capture)
+  - [Examining a capture](#examining-a-capture)
+  - [Challenge: Examining evidence of congestion](#challenge-examining-evidence-of-congestion)
+  - [Response: Examining evidence of congestion](#response-examining-evidence-of-congestion)
 - [**Using Time as a Metric**](#using-time-as-a-metric) (5 videos)
-  - Displaying time
-  - Viewing Details and Expert Info
-  - Graphing the TCP Streams
-  - Challenge: Using time to view gaps in transmission
-  - Response: Using time to view gaps in transmission
+  - [Displaying time](#displaying-time)
+  - [Viewing Details and Expert Info](#viewing-details-and-expert-info)
+  - [Graphing the TCP Streams](#graphing-the-tcp-streams)
+  - [Challenge: Using time to view gaps in transmission](#challenge-using-time-to-view-gaps-in-transmission)
+  - [Response: Using time to view gaps in transmission](#response-using-time-to-view-gaps-in-transmission)
 - [**Wireshark Tools**](#wireshark-tools) (5 videos)
-  - Viewing conversations and endpoints
-  - Creating a flow graph
-  - Plotting an IO graph
-  - Challenge: Using a Flow Graph
-  - Response: Using a Flow Graph
+  - [Viewing conversations and endpoints](#viewing-conversations-and-endpoints)
+  - [Creating a flow graph](#creating-a-flow-graph)
+  - [Plotting an IO graph](#plotting-an-io-graph)
+  - [Challenge: Using a Flow Graph](#challenge-using-a-flow-graph)
+  - [Response: Using a Flow Graph](#response-using-a-flow-graph)
 - [**Recognizing Abnormal or Malicious Traffic**](#recognizing-abnormal-or-malicious-traffic) (7 videos)
-  - Troubleshooting the Network
-  - Spotting an ARP Storm
-  - Identifying bursty traffic
-  - Protecting from packet sniffing
-  - Examining Macof attacks
-  - Challenge: Identify a scanning signature
-  - Solution: Identify a scanning signature
+  - [Troubleshooting the Network](#troubleshooting-the-network)
+  - [Spotting an ARP Storm](#spotting-an-arp-storm)
+  - [Identifying bursty traffic](#identifying-bursty-traffic)
+  - [Protecting from packet sniffing](#protecting-from-packet-sniffing)
+  - [Examining Macof attacks](#examining-macof-attacks)
+  - [Challenge: Identify a scanning signature](#challenge-identify-a-scanning-signature)
+  - [Solution: Identify a scanning signature](#solution-identify-a-scanning-signature)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze network problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Troubleshooting]] (1), data (1), power (1), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lisa] (1)
 
@@ -126,6 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Security]] (1)
 > **Env Vars:** tcp (1), osi (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
@@ -134,7 +135,7 @@ created: 2026-04-29
 
 ### Traffic Capture and Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most out of Wireshark
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980)
@@ -253,8 +254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (17), next (6), [[Windows]] (5), data (1), cloud (1)
 > **Prerequisites:** install (9), you'll need (3)
-> **Code Keywords:** this. (1), default. (1), interface (1), while, (1), let (1)
 > **Analogies:** such as (4), for example (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Code Identifiers:** macos (2)
@@ -393,7 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), this. (2), case, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (1), [[Troubleshooting]] (1), [[Zoom]] (1), next (1)
 > **UI Navigation:** go to (3), right-click (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** http (2), tcp (1)
@@ -545,8 +546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Troubleshooting]] (1), management (1), [[Wireshark]] (1), [[Routing]] (1)
 > **CLI Commands:** find (6), make (1)
-> **Code Keywords:** case, (3), let (1), else. (1), delete (1)
 > **UI Navigation:** go to (5)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -776,9 +777,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (4), feature (2), next (1), application (1), hit (1)
 > **UI Navigation:** go to (6), select the (1)
 > **Env Vars:** tcp (2), mac (2), dns (1)
-> **Code Keywords:** let (3), this. (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -854,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), case, (3), interface (2), while. (1), let (1)
+> **Frameworks & Libraries:** traffic (3), [[Troubleshooting]] (3), [[Wireshark]] (3), management (1)
 > **UI Navigation:** go to (6), open the (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
@@ -960,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), case, (1)
+> **Frameworks & Libraries:** data (7), [[Troubleshooting]] (1), [[Wireshark]] (1), next (1)
 > **UI Navigation:** go to (3), open the (2)
 > **Env Vars:** tcp (3)
 > **Speakers:** - troubleshooting (1), - now (1)
@@ -1045,9 +1046,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), web (1)
 > **Env Vars:** tcp (4)
 > **UI Navigation:** go to (3), open the (1)
-> **Code Keywords:** let (1), this, (1)
 > **Ports:** port 80 (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1055,7 +1056,7 @@ created: 2026-04-29
 
 ### Using Time as a Metric
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Displaying time
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980)
@@ -1148,7 +1149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (2), [[Wireshark]] (1), traffic (1), [[Statistics]] (1), [[Troubleshooting]] (1)
 > **UI Navigation:** go to (5)
 > **Env Vars:** tcp (2), cis (1)
 > **Versions:** 66.220 (2), 1.017 (1)
@@ -1272,7 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (2), this, (1), interface (1), include, (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Wireshark]] (2), [[Search]] (2), [[Metadata]] (1), [[Hardware]] (1)
 > **Env Vars:** ack (1), dns (1), tcp (1), fin (1), finack (1)
 > **Analogies:** such as (2), for example (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -1370,8 +1371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Zoom]] (4), [[Troubleshooting]] (2), [[Statistics]] (2), [[Windows]] (1)
 > **Env Vars:** tcp (13), sac (1), pdf (1), png (1), jpeg (1)
-> **Code Keywords:** let (3), switch (3), case, (2), type, (1), continue (1)
 > **UI Navigation:** go to (3), right-click (1), scroll down (1), click on (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -1398,8 +1399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** tcp (1)
 > **Versions:** 72.14.213 (1)
 > **Speakers:** - [instructor] (1)
@@ -1482,8 +1483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), next (1), traffic (1), [[Zoom]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** tcp (2)
 > **Versions:** 72.14.213 (1), 72.14 (1)
 > **Cross-References:** go back to (1)
@@ -1494,7 +1495,7 @@ created: 2026-04-29
 
 ### Wireshark Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Viewing conversations and endpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980)
@@ -1619,7 +1620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (5), this, (4), interface (2), switch (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Wireshark]] (2), [[Troubleshooting]] (2), [[Search]] (2), [[Security]] (1)
 > **UI Navigation:** go to (9), open the (1)
 > **Env Vars:** tcp (3), rtp (3), udp (2)
 > **Ports:** port 1104 (4), port 16464 (2)
@@ -1759,8 +1760,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (10), dns (3), [[Troubleshooting]] (2), data (2), traffic (1)
 > **Env Vars:** dhcp (4), dns (3), http (3), syn (2), png (2)
-> **Code Keywords:** let (4), this. (4), if, (2), case, (2), this, (2)
 > **UI Navigation:** click on (2), dropdown (1), right-click (1), go to (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (2)
@@ -1892,7 +1893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default. (2), this, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Zoom]] (3), traffic (2), data (1)
 > **UI Navigation:** go to (3), right-click (2), scroll up (1), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** tcp (2)
@@ -1917,6 +1918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** smallflows (1)
 > **Speakers:** - [instructor] (1)
@@ -1977,16 +1979,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Speakers:** - okay (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Recognizing Abnormal or Malicious Traffic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshooting the Network
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980)
@@ -2095,8 +2097,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (3), traffic (2), [[Statistics]] (2), [[Metadata]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** interface (1)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -2154,8 +2156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Statistics]] (1), traffic (1), [[Hardware]] (1)
 > **Env Vars:** arp (14)
-> **Code Keywords:** export, (1), pass (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -2209,7 +2211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1), this, (1)
+> **Frameworks & Libraries:** traffic (15), [[Wireshark]] (3), [[Statistics]] (2), data (1)
 > **UI Navigation:** go to (3)
 > **Versions:** 224.0.0 (1), 239.255.255 (1)
 > **Analogies:** such as (1), for example (1)
@@ -2265,6 +2267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Privacy]] (2)
 > **UI Navigation:** go to (3)
 > **Env Vars:** http (1), post (1)
 > **Analogies:** such as (1), for example (1)
@@ -2389,7 +2392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (10), let (6), this. (2), export, (1), private (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), traffic (2), [[Kali Linux]] (2), [[Statistics]] (2), data (1)
 > **Env Vars:** mac (5), syn (5), cam (1), tcp (1)
 > **UI Navigation:** go to (3), scroll up (1)
 > **CLI Commands:** make (2)
@@ -2447,8 +2450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Generative AI]] (2), [[Network Monitoring Tools]] (1), next (1), [[Network Troubleshooting]] (1)
 > **Env Vars:** tcp (2), syn (1), arp (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2576,9 +2579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), ai (2), [[Wireshark]] (2), [[Statistics]] (1)
 > **Env Vars:** tcp (4), arp (3), sip (2), syn (2), act (1)
 > **UI Navigation:** go to (7), right-click (2), scroll up (1), scroll down (1)
-> **Code Keywords:** this. (2), case, (2), let (1), this, (1), else. (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Best Practices:** rule of thumb (1)
@@ -2588,7 +2591,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980)
@@ -2615,6 +2618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Wireshark]] (1), traffic (1), [[Network Security]] (1), [[Ethical Hacking]] (1)
 > **Speakers:** - [instructor] (1)
 
 

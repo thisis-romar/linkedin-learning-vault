@@ -28,7 +28,7 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Selenium%20Essential%20Training.md)
@@ -47,54 +47,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - Get set up
+  - [Welcome](#welcome)
+  - [Get set up](#get-set-up)
 - [**1. Review Fundamentals**](#1-review-fundamentals) (5 videos)
-  - The Selenium project
-  - Using WebDriver
-  - Browser drivers
-  - WebDriver tips and tricks
-  - Inspecting Elements
+  - [The Selenium project](#the-selenium-project)
+  - [Using WebDriver](#using-webdriver)
+  - [Browser drivers](#browser-drivers)
+  - [WebDriver tips and tricks](#webdriver-tips-and-tricks)
+  - [Inspecting Elements](#inspecting-elements)
 - [**2. Succeeding with WebDriver**](#2-succeeding-with-webdriver) (8 videos)
-  - Look at the test application
-  - Keyboard and mouse input
-  - Using autocomplete
-  - Scroll to element
-  - Switch to active window
-  - Switch to alert
-  - Executing JavaScript commands
-  - Drag and drop
+  - [Look at the test application](#look-at-the-test-application)
+  - [Keyboard and mouse input](#keyboard-and-mouse-input)
+  - [Using autocomplete](#using-autocomplete)
+  - [Scroll to element](#scroll-to-element)
+  - [Switch to active window](#switch-to-active-window)
+  - [Switch to alert](#switch-to-alert)
+  - [Executing JavaScript commands](#executing-javascript-commands)
+  - [Drag and drop](#drag-and-drop)
 - [**3. Using Advanced Locators**](#3-using-advanced-locators) (4 videos)
-  - Determine which locator to use
-  - Combine multiple CSS attributes
-  - Text matching
-  - Using wildcards
+  - [Determine which locator to use](#determine-which-locator-to-use)
+  - [Combine multiple CSS attributes](#combine-multiple-css-attributes)
+  - [Text matching](#text-matching)
+  - [Using wildcards](#using-wildcards)
 - [**4. Interacting with Components**](#4-interacting-with-components) (5 videos)
-  - Common components
-  - Radio buttons and checkboxes
-  - Date pickers
-  - Dropdown menus
-  - File upload
+  - [Common components](#common-components)
+  - [Radio buttons and checkboxes](#radio-buttons-and-checkboxes)
+  - [Date pickers](#date-pickers)
+  - [Dropdown menus](#dropdown-menus)
+  - [File upload](#file-upload)
 - [**5. Synchronization Issues**](#5-synchronization-issues) (3 videos)
-  - Why synchronization is an issue
-  - Implicit waits
-  - Explicit waits
+  - [Why synchronization is an issue](#why-synchronization-is-an-issue)
+  - [Implicit waits](#implicit-waits)
+  - [Explicit waits](#explicit-waits)
 - [**6. Putting It All Together**](#6-putting-it-all-together) (4 videos)
-  - Automate a workflow using WebDriver
-  - Confirm the behavior of the test
-  - Clean up the test
-  - Use page objects
+  - [Automate a workflow using WebDriver](#automate-a-workflow-using-webdriver)
+  - [Confirm the behavior of the test](#confirm-the-behavior-of-the-test)
+  - [Clean up the test](#clean-up-the-test)
+  - [Use page objects](#use-page-objects)
 - [**7. Project Integration**](#7-project-integration) (4 videos)
-  - Connect to GitHub
-  - Setup CI
-  - Run in CI (continuous integration) servers
-  - Use cloud-based testing tools
+  - [Connect to GitHub](#connect-to-github)
+  - [Setup CI](#setup-ci)
+  - [Run in CI (continuous integration) servers](#run-in-ci-continuous-integration-servers)
+  - [Use cloud-based testing tools](#use-cloud-based-testing-tools)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Selenium]] (6), web (2), [[Test Automation]] (2), application (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -160,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[Selenium]] (2), [[Dependency Management]] (1), [[JUnit]] (1)
 > **Env Vars:** jdk (4)
 > **Prerequisites:** set up (2), setup (1)
 > **Tools:** intellij (2)
@@ -171,7 +172,7 @@ created: 2026-04-29
 
 ### 1. Review Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Selenium project
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980)
@@ -236,12 +237,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (16), api (5), web (3), [[Automation]] (3), [[Manual Testing]] (1)
 > **Env Vars:** api (5), ide (5), w3c (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 3.0 (2), 1.0 (1), 2.0 (1)
 > **Documentation:** w3c (1), specification (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** this, (1)
 > **Tools:** firefox (1)
 > **Analogies:** such as (1)
 
@@ -296,11 +297,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[Selenium]] (4), web (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1), ruby (1), python (1)
 > **Tools:** firefox (1), safari (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** macos (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -364,8 +365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Selenium]] (2), application (2), api (1), [[Google]] (1)
 > **Tools:** firefox (3), safari (1)
-> **Code Keywords:** implements (2), default, (1)
 > **Env Vars:** api (1), w3c (1)
 > **Documentation:** w3c (1), spec (1)
 > **Definitions:** is an  (2)
@@ -448,7 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (1), for. (1)
+> **Frameworks & Libraries:** [[Selenium]] (5), [[Google]] (3), api (2), [[Java]] (1), next (1)
 > **Env Vars:** api (2), ide (1), url (1)
 > **Code Identifiers:** draganddrop (1), keydown (1), movetoelement (1)
 > **CLI Commands:** find (2)
@@ -500,9 +501,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Search]] (3), [[HTML]] (2), [[Google]] (1), [[Jetpack Compose|Compose]] (1)
 > **UI Navigation:** navigate to (1), right-click (1), select the (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** class, (1), continue (1)
 > **Env Vars:** html (2)
 > **URLs:** [google.com](https://google.com) (1)
 > **Analogies:** such as (1)
@@ -511,7 +512,7 @@ created: 2026-04-29
 
 ### 2. Succeeding with WebDriver
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Look at the test application
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980)
@@ -530,6 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Test Automation]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Automation]] (1)
 > **URLs:** [herokuapp.com](https://herokuapp.com) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -622,8 +624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), web (4), next (1)
 > **UI Navigation:** select the (2), right-click (2), scroll down (1), navigate to (1), click on (1)
-> **Code Keywords:** let (3), class. (2), case, (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** jdk (2), idea (1)
 > **Tools:** intellij (3)
@@ -748,8 +750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (2), [[Google]] (1), api (1), web (1)
 > **UI Navigation:** click on (6), open the (2), scroll down (1), go to (1)
-> **Code Keywords:** let (6), class. (2), this, (1)
 > **CLI Commands:** find (4), make (2)
 > **Tools:** intellij (3)
 > **Env Vars:** api (1), idea (1)
@@ -814,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (3), class, (2)
+> **Frameworks & Libraries:** application (2), web (1)
 > **Code Identifiers:** sendkeys (2), movetoelement (1)
 > **Tools:** intellij (3)
 > **CLI Commands:** find (2)
@@ -882,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (11), interface (1), let (1), pass (1)
+> **Frameworks & Libraries:** application (3), [[Windows]] (2), [[Selenium]] (2), next (2), web (1)
 > **Code Identifiers:** switchto (3), getwindowhandle (3), originalhandle (2), newtabbutton (1), getwindowhandles (1)
 > **UI Navigation:** switch to (5), click on (1), open the (1), right-click (1)
 > **CLI Commands:** find (1)
@@ -932,7 +934,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), let (3)
 > **UI Navigation:** open the (3), click on (2), navigate to (1), go to (1), switch to (1)
 > **Code Identifiers:** alertbutton (2), findelement (1), switchto (1)
 > **Tools:** intellij (3)
@@ -1017,10 +1018,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Selenium]] (2), application (2), web (2), next (1)
 > **Code Identifiers:** executeasyncscript (3), executescript (2)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** function (1), case, (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** install (1)
@@ -1073,8 +1074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), application (2), web (2), prompt (1), [[Selenium]] (1)
 > **UI Navigation:** drag and drop (5), right-click (1)
-> **Code Keywords:** let (3), class. (1), class, (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise file (1)
@@ -1085,7 +1086,7 @@ created: 2026-04-29
 
 ### 3. Using Advanced Locators
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine which locator to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980)
@@ -1136,9 +1137,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Automation]] (1)
 > **Env Vars:** css (8), html (4)
 > **CLI Commands:** find (9)
-> **Code Keywords:** class, (3), static (2), class. (1), let (1)
 > **Code Identifiers:** findelement (3), cssselector (3)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1205,8 +1206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (14), [[HTML]] (4), web (1)
 > **Env Vars:** css (14)
-> **Code Keywords:** class. (3), class, (3), let (2), type. (1), for, (1)
 > **CLI Commands:** find (7)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
@@ -1265,9 +1266,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), [[HTML]] (3), [[Automation]] (2), application (1)
 > **Env Vars:** css (9), html (3)
 > **CLI Commands:** find (9)
-> **Code Keywords:** match. (1), match, (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1306,6 +1307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), [[HTML]] (2), next (1), css (1)
 > **CLI Commands:** find (7), node (7)
 > **Code Identifiers:** cssselector (2), findelement (1)
 > **Env Vars:** html (2), css (1)
@@ -1316,7 +1318,7 @@ created: 2026-04-29
 
 ### 4. Interacting with Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common components
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/common-components?u=76281980)
@@ -1339,6 +1341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **Speakers:** - sometimes (1)
 
 #### Radio buttons and checkboxes
@@ -1424,9 +1427,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[HTML]] (2), web (2), [[Forms]] (1), [[Java]] (1)
 > **UI Navigation:** click on (3), right-click (2), go to (2), checkbox (2), open the (1)
 > **Code Identifiers:** radiobutton1 (2), radiobutton2 (2), cssselector (2), radiobutton3 (2), findelement (1)
-> **Code Keywords:** let (3), class, (1), this, (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** html (2)
 > **Cross-References:** go back to (2)
@@ -1510,7 +1513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), this. (1), class, (1), finally, (1)
+> **Frameworks & Libraries:** application (2), hit (1), web (1)
 > **UI Navigation:** go to (1), navigate to (1), click on (1), right-click (1)
 > **Code Identifiers:** findelement (1), datefield (1), sendkeys (1)
 > **CLI Commands:** make (1)
@@ -1578,8 +1581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), web (3), [[Selenium]] (1), next (1)
 > **UI Navigation:** dropdown (20), click on (2), navigate to (1), select the (1)
-> **Code Keywords:** let (2), class. (2), this, (1)
 > **CLI Commands:** find (3)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -1622,9 +1625,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Selenium]] (2), web (2), [[Automation]] (1)
 > **Code Identifiers:** fileuploadfield (2), sendkeys (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** pass (1)
 > **Tools:** intellij (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise file (1)
@@ -1634,7 +1637,7 @@ created: 2026-04-29
 
 ### 5. Synchronization Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why synchronization is an issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980)
@@ -1687,8 +1690,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (1), [[Search]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1747,7 +1750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1), class, (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
@@ -1814,7 +1817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), for. (1), pass (1)
+> **Frameworks & Libraries:** web (8), [[Java]] (1), api (1), [[Selenium]] (1)
 > **UI Navigation:** open the (1), right-click (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1)
 > **Env Vars:** api (1)
@@ -1826,7 +1829,7 @@ created: 2026-04-29
 
 ### 6. Putting It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automate a workflow using WebDriver
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980)
@@ -1955,7 +1958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (2), this, (1)
+> **Frameworks & Libraries:** application (5), css (5), next (3), web (2), [[Automation]] (1)
 > **Code Identifiers:** findelement (8), fingelement (1)
 > **UI Navigation:** click on (5), checkbox (2), go to (1)
 > **Env Vars:** css (5)
@@ -2031,7 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), assert (1)
+> **Frameworks & Libraries:** web (7), application (2), next (2), [[JUnit]] (1), [[Java]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -2106,7 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), static (3), let (2), pass (2), finally, (1)
+> **Frameworks & Libraries:** web (2), next (1)
 > **Code Identifiers:** waitforalertbanner (4), submitform (3), getalertbannertext (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1)
@@ -2169,8 +2172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), [[Selenium]] (1), application (1), next (1)
 > **Code Identifiers:** formpage (2), confirmationpage (2), getalertbannertext (2), submitform (1), waitforalertbanner (1)
-> **Code Keywords:** class, (3), class. (2), await (1)
 > **UI Navigation:** right-click (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -2179,7 +2182,7 @@ created: 2026-04-29
 
 ### 7. Project Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980)
@@ -2246,9 +2249,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (14), [[GitHub]] (9), web (1), [[Continuous Integration (CI)|Continuous integration]] (1), next (1)
 > **CLI Commands:** git (14), make (1)
 > **Tools:** github (9), terminal (2), command line (1)
-> **Code Keywords:** type, (3), this, (1), public (1)
 > **UI Navigation:** navigate to (1), go to (1), select the (1)
 > **Prerequisites:** you'll need (1), make sure you have (1), set up (1)
 > **URLs:** [git-scm.com](https://git-scm.com) (1), [github.com](https://github.com) (1)
@@ -2330,11 +2333,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (16), node (7), next (2), cd (2), [[Java]] (2)
 > **CLI Commands:** node (7), make (2), cd (2)
 > **Tools:** terminal (4), firefox (1), safari (1)
 > **Prerequisites:** install (2), set up (2), configure (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (1), this, (1)
 > **Versions:** 3.141.59 (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1)
@@ -2388,9 +2391,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (6), [[Continuous Integration (CI)|Continuous integration]] (3), [[Jenkins]] (3), [[GitHub]] (2), open-source (2)
 > **Definitions:** is a  (5)
 > **Tools:** github (2), intellij (1)
-> **Code Keywords:** interface (1), require (1)
 > **Env Vars:** gui (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
@@ -2435,9 +2438,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Selenium]] (2), cross-platform (1), [[Virtual Machines]] (1), [[Programming]] (1)
 > **Env Vars:** url (3)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** super (1), continue (1)
 > **URLs:** [saucelabs.com](https://saucelabs.com) (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
@@ -2446,7 +2449,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980)
@@ -2485,8 +2488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (10), web (2), [[GitHub]] (2), api (1), application (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1), [github.com](https://github.com) (1), [twitter.com](https://twitter.com) (1), [meaghanlewis.com](https://meaghanlewis.com) (1)
-> **Code Keywords:** continue (2)
 > **Tools:** github (2)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)

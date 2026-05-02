@@ -23,7 +23,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20For%20The%20Remote%20First%20Work%20From%20Anywhere%20Organization.md)
@@ -42,23 +42,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to the remote-first world
+  - [Welcome to the remote-first world](#welcome-to-the-remote-first-world)
 - [**1. The Benefits of Remote-First Work**](#1-the-benefits-of-remote-first-work) (3 videos)
-  - Planning to lead the remote-first organization
-  - Work to live, not live to work
-  - Remote work and its impact on equity, cost efficiency, and talent
+  - [Planning to lead the remote-first organization](#planning-to-lead-the-remote-first-organization)
+  - [Work to live, not live to work](#work-to-live-not-live-to-work)
+  - [Remote work and its impact on equity, cost efficiency, and talent](#remote-work-and-its-impact-on-equity-cost-efficiency-and-talent)
 - [**2. Remote-First Models, Tools, and Obstacles**](#2-remote-first-models-tools-and-obstacles) (5 videos)
-  - Asynchronous work in practice
-  - Work from anywhere (WFA) in practice
-  - Remote-first work in practice
-  - Tools for remote-first work
-  - Potential challenges to remote-first work
+  - [Asynchronous work in practice](#asynchronous-work-in-practice)
+  - [Work from anywhere (WFA) in practice](#work-from-anywhere-wfa-in-practice)
+  - [Remote-first work in practice](#remote-first-work-in-practice)
+  - [Tools for remote-first work](#tools-for-remote-first-work)
+  - [Potential challenges to remote-first work](#potential-challenges-to-remote-first-work)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Making remote-first work for you
+  - [Making remote-first work for you](#making-remote-first-work-for-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the remote-first world
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), teams (1), [[Interviewing]] (1), business (1)
 > **Env Vars:** mba (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - 90 (1)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 ### 1. The Benefits of Remote-First Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning to lead the remote-first organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980)
@@ -166,7 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), data (1)
 > **Speakers:** - trust (1)
 
 #### Work to live, not live to work
@@ -216,6 +216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1), [[Microsoft Office|Office]] (1), [[Slack]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Speakers:** - there (1)
@@ -283,14 +284,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Diversity and Inclusion]] (1), data (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** super (1)
 > **Speakers:** - remote (1)
 
 
 ### 2. Remote-First Models, Tools, and Obstacles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asynchronous work in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/asynchronous-work-in-practice?u=76281980)
@@ -317,6 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **Speakers:** - everyone (1)
 
 #### Work from anywhere (WFA) in practice
@@ -380,6 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), teams (1)
 > **Speakers:** - the (1)
 
 #### Remote-first work in practice
@@ -437,7 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), function (1), super (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), leadership (2), management (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -504,6 +507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Google]] (2), [[Microsoft Teams]] (1), [[Slack]] (1), [[Zoom]] (1)
 > **Tools:** notion (1), slack (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mural (1)
@@ -555,13 +559,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), business (1), management (1)
 > **Speakers:** - there (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making remote-first work for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980)
@@ -586,8 +590,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **URLs:** [firstbasehq.com](https://firstbasehq.com) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - what (1)

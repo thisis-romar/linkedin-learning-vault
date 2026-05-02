@@ -45,7 +45,7 @@ tags:
   - skill/agile-methodologies
   - skill/agile-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Introduction%20to%20Agile%20Development%20Practices-%20Bring%20Agile%20to%20Your%20Development%20Pipelines.md)
@@ -64,32 +64,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - What you should know
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
 - [**1. Planning**](#1-planning) (3 videos)
-  - Getting involved early
-  - Picking your tools
-  - To document or not
+  - [Getting involved early](#getting-involved-early)
+  - [Picking your tools](#picking-your-tools)
+  - [To document or not](#to-document-or-not)
 - [**2. Design**](#2-design) (2 videos)
-  - Flexible architecture
-  - Avoiding premature optimization
+  - [Flexible architecture](#flexible-architecture)
+  - [Avoiding premature optimization](#avoiding-premature-optimization)
 - [**3. Development**](#3-development) (3 videos)
-  - Determining velocity
-  - Agile programming techniques
-  - Refactor…then refactor more
+  - [Determining velocity](#determining-velocity)
+  - [Agile programming techniques](#agile-programming-techniques)
+  - [Refactor…then refactor more](#refactorthen-refactor-more)
 - [**4. Testing**](#4-testing) (2 videos)
-  - Choosing your testing regimen
-  - Handling leapfrogging bugs
+  - [Choosing your testing regimen](#choosing-your-testing-regimen)
+  - [Handling leapfrogging bugs](#handling-leapfrogging-bugs)
 - [**5. Release**](#5-release) (3 videos)
-  - Continuous integration
-  - Structuring a release pipeline
-  - Closing out a project
+  - [Continuous integration](#continuous-integration)
+  - [Structuring a release pipeline](#structuring-a-release-pipeline)
+  - [Closing out a project](#closing-out-a-project)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The big picture
+  - [The big picture](#the-big-picture)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Software Development]] (1), [[Scrum]] (1), next (1)
 > **Speakers:** - [harrison] (1)
 
 #### What you should know
@@ -144,13 +144,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (3), [[Software Projects]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting involved early
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980)
@@ -183,7 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), from, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -240,8 +240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), management (3), [[Version Control]] (1), [[Project Tracking]] (1), [[Trello]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case. (1), finally, (1)
 > **Tools:** jira (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -287,6 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), product (1), [[Version Control]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
@@ -294,7 +295,7 @@ created: 2026-04-29
 
 ### 2. Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Flexible architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980)
@@ -333,8 +334,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Agile Software Development]] (1), [[Design Patterns]] (1), application (1), product (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** keep in mind (1)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), this. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 ### 3. Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining velocity
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980)
@@ -436,6 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), next (2), hit (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -495,7 +497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Programming]] (4), [[Test-Driven Development]] (2), next (1), feature (1)
 > **Env Vars:** tdd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -531,13 +533,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your testing regimen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980)
@@ -580,9 +582,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (3), [[Manual Testing]] (2), [[Quality Assurance]] (1), application (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is a  (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
@@ -632,14 +634,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), break. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), product (2), [[Test-Driven Development]] (1), [[Manual Testing]] (1), [[Quality Assurance]] (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 
 
 ### 5. Release
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980)
@@ -678,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), this. (1), public (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (4), ci (4), [[Agile Development|Agile]] (2), next (2), cloud (1)
 > **Env Vars:** tdd (1), svn (1)
 > **Tools:** github (1), gitlab (1)
 > **CLI Commands:** find (1)
@@ -717,7 +719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1), mobile application (1), data (1)
 > **Env Vars:** ide (1), api (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -753,12 +755,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), product (1), next (1), [[Project Tracking]] (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The big picture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980)
@@ -781,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (2), product (1), [[Agile Software Development]] (1), teams (1)
 > **Speakers:** - [narrator] (1)
 
 

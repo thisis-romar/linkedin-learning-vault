@@ -32,7 +32,7 @@ tags:
   - skill/docker-products
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Docker%20for%20Java%20Developers.md)
@@ -51,39 +51,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Zero to Zero to Hero
-  - What you should know
+  - [Zero to Zero to Hero](#zero-to-zero-to-hero)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started**](#1-getting-started) (4 videos)
-  - Imagine building and launching a Java app without Java
-  - Installing Docker Desktop
-  - Building, deploying, and launching the Java app
-  - Scaffolding Java applications with Docker
+  - [Imagine building and launching a Java app without Java](#imagine-building-and-launching-a-java-app-without-java)
+  - [Installing Docker Desktop](#installing-docker-desktop)
+  - [Building, deploying, and launching the Java app](#building-deploying-and-launching-the-java-app)
+  - [Scaffolding Java applications with Docker](#scaffolding-java-applications-with-docker)
 - [**2. Understanding Docker**](#2-understanding-docker) (8 videos)
-  - Understanding containerization
-  - Comparing images to containers
-  - Writing Dockerfiles
-  - Discover the Docker CLI
-  - Learn Dockerfile instructions
-  - Convert code to a Docker image
-  - Challenge: Modify Dockerfile to remove Forever.java
-  - Solution: Modify Dockerfile to remove Forever.java
+  - [Understanding containerization](#understanding-containerization)
+  - [Comparing images to containers](#comparing-images-to-containers)
+  - [Writing Dockerfiles](#writing-dockerfiles)
+  - [Discover the Docker CLI](#discover-the-docker-cli)
+  - [Learn Dockerfile instructions](#learn-dockerfile-instructions)
+  - [Convert code to a Docker image](#convert-code-to-a-docker-image)
+  - [Challenge: Modify Dockerfile to remove Forever.java](#challenge-modify-dockerfile-to-remove-foreverjava)
+  - [Solution: Modify Dockerfile to remove Forever.java](#solution-modify-dockerfile-to-remove-foreverjava)
 - [**3. Containerization Best Practices**](#3-containerization-best-practices) (5 videos)
-  - Layering in Docker images
-  - Building multistage Docker images
-  - Specify volumes and ports
-  - Docker registry
-  - Container orchestration with Docker Compose
+  - [Layering in Docker images](#layering-in-docker-images)
+  - [Building multistage Docker images](#building-multistage-docker-images)
+  - [Specify volumes and ports](#specify-volumes-and-ports)
+  - [Docker registry](#docker-registry)
+  - [Container orchestration with Docker Compose](#container-orchestration-with-docker-compose)
 - [**4. Dockerfile Alternatives**](#4-dockerfile-alternatives) (4 videos)
-  - Ditching the Dockerfile
-  - Cloud Native Buildpacks
-  - Spring Boot Docker plugin
-  - The Google Jib plugin
+  - [Ditching the Dockerfile](#ditching-the-dockerfile)
+  - [Cloud Native Buildpacks](#cloud-native-buildpacks)
+  - [Spring Boot Docker plugin](#spring-boot-docker-plugin)
+  - [The Google Jib plugin](#the-google-jib-plugin)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Zero to Zero to Hero
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980)
@@ -122,8 +122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[Containerization]] (3), [[Engineering]] (1), web (1), [[CLI]] (1)
 > **CLI Commands:** docker (7)
-> **Code Keywords:** let (1)
 > **Env Vars:** cli (1)
 > **Speakers:** - [mary (1)
 
@@ -158,6 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[Spring Boot]] (2), [[Debugging]] (1), web (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (2), apache (1)
 > **Versions:** java 11 (1), java 8 (1)
 > **Env Vars:** ide (1)
@@ -169,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Imagine building and launching a Java app without Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980)
@@ -284,7 +285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), while. (1)
+> **Frameworks & Libraries:** [[Java]] (7), [[Spring Boot]] (4), application (4), web (3), [[JSON]] (2)
 > **Env Vars:** json (2), mvc (1), zip (1), jdk17 (1), url (1)
 > **Versions:** java 17 (3), java 11 (3)
 > **CLI Commands:** curl (2), make (1), brew (1), find (1)
@@ -316,6 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (5)
 > **Env Vars:** jdk (1)
 > **Tools:** command line (1)
@@ -445,8 +447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), web (3), web application (1), next (1), cd (1)
 > **CLI Commands:** docker (11), make (2), cd (1), mvn (1), cp (1)
-> **Code Keywords:** let (10), finally, (1), while. (1), this. (1)
 > **Env Vars:** run (2), jdk (1), copy (1), workdir (1), root (1)
 > **Definitions:** is an  (2), is a  (1), is called (1)
 > **Speakers:** - [instructor] (1), - t (1), - p (1)
@@ -561,7 +563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), self (1)
+> **Frameworks & Libraries:** [[Java]] (6), web (2), prompt (1), application (1)
 > **CLI Commands:** docker (2), curl (1), find (1), ls (1)
 > **Versions:** java 17 (2)
 > **Env Vars:** rmi (1)
@@ -572,7 +574,7 @@ created: 2026-04-29
 
 ### 2. Understanding Docker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding containerization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/understanding-containerization?u=76281980)
@@ -625,10 +627,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Containerization]] (5)
 > **Documentation:** specification (5)
 > **CLI Commands:** docker (4)
 > **Env Vars:** oci (4)
-> **Code Keywords:** let (1), new. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Comparing images to containers
@@ -676,9 +678,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[Containerization]] (2), application (2), next (1)
 > **Definitions:** known as (3), is an  (3), is a  (2)
 > **CLI Commands:** docker (4)
-> **Code Keywords:** let (1), class, (1)
 > **Env Vars:** jar (2)
 > **Exercise Files:** source code (1)
 > **Analogies:** just like (1)
@@ -717,8 +719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), application (1)
 > **CLI Commands:** docker (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** cmd (2)
 > **Speakers:** - now (1)
 
@@ -767,9 +769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (3), next (1)
 > **CLI Commands:** docker (27), rm (1), find (1)
 > **Env Vars:** cli (3)
-> **Code Keywords:** interface (1), let (1)
 > **Tools:** command line (2)
 > **URLs:** [docker.com](https://docker.com) (1)
 > **UI Navigation:** go to (1)
@@ -957,7 +959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), class. (2)
+> **Frameworks & Libraries:** [[Java]] (6), [[Linux]] (2), next (2), cd (1), hit (1)
 > **CLI Commands:** docker (7), ls (1), cd (1), make (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Env Vars:** ide (1), cmd (1), copy (1)
@@ -1083,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Java]] (7)
 > **CLI Commands:** docker (9), find (1), ls (1)
 > **File Paths:** forever.java (4)
 > **Exercise Files:** source code (1), download the (1)
@@ -1112,9 +1114,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3)
 > **CLI Commands:** docker (2), make (1)
 > **File Paths:** forever.java (2)
-> **Code Keywords:** this, (1), try. (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1156,9 +1158,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3)
 > **File Paths:** forever.java (3)
 > **CLI Commands:** rm (1), ls (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** run (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1166,7 +1168,7 @@ created: 2026-04-29
 
 ### 3. Containerization Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Layering in Docker images
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980)
@@ -1267,8 +1269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Git]] (1), [[Spring Boot]] (1), web (1), api (1)
 > **Env Vars:** jar (6), jdk (6), jre (5), git (1), api (1)
-> **Code Keywords:** let (4), finally, (1)
 > **CLI Commands:** docker (2), git (1), make (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** required to (1), before we start (1)
@@ -1393,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default, (1), self (1), this; (1), class. (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), application (5), [[Java]] (3), web (2)
 > **CLI Commands:** docker (3), make (2)
 > **Env Vars:** jdk (2), jre (2)
 > **Versions:** version 2 (1), 2.4 (1)
@@ -1591,7 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), self (1), require (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), data (2), [[Linux]] (1), web (1), cd (1)
 > **CLI Commands:** docker (10), curl (4), make (3), cat (1), ls (1)
 > **Definitions:** is a  (4), is an  (1), is called (1)
 > **Tools:** terminal (3), docker desktop (2)
@@ -1695,8 +1697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** docker (20), apache (2), find (1), make (1)
-> **Code Keywords:** let (5), public (1), default, (1)
 > **URLs:** [docker.io](https://docker.io) (4), [maven.org](https://maven.org) (1), [docker.com](https://docker.com) (1)
 > **Non-Speech:** (typing) (4)
 > **Env Vars:** url (1)
@@ -1913,8 +1915,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (18), [[PostgreSQL|Postgres]] (9), web (5), application (5), database (4)
 > **CLI Commands:** docker (29), curl (3), make (1), aws (1)
-> **Code Keywords:** let (9), class. (2), finally, (2), interface (1), this, (1)
 > **Env Vars:** api (3), yaml (3), rest (2), jpa (1), mvc (1)
 > **Definitions:** is a  (8), is called (1)
 > **Analogies:** such as (2), just like (2)
@@ -1925,7 +1927,7 @@ created: 2026-04-29
 
 ### 4. Dockerfile Alternatives
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ditching the Dockerfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980)
@@ -1946,6 +1948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), cloud (1), [[CLI]] (1), [[Spring Boot]] (1)
 > **CLI Commands:** docker (1)
 > **Env Vars:** cli (1)
 > **Speakers:** - [instructor] (1)
@@ -2025,8 +2028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Java]] (2), [[Google]] (1), web (1), [[Spring Boot]] (1)
 > **CLI Commands:** docker (3)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** cncf (1), oci (1), api (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
@@ -2099,7 +2102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (11), web (3), next (1), cloud (1), application (1)
 > **CLI Commands:** docker (4)
 > **File Paths:** palm.xml (1)
 > **Env Vars:** jdk (1)
@@ -2179,8 +2182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Google]] (1), [[Gradle]] (1), [[Java]] (1), [[CLI]] (1)
 > **CLI Commands:** docker (9)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** dockerbuild (1)
 > **Env Vars:** cli (1)
 > **Tools:** intellij (1)
@@ -2190,7 +2193,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980)
@@ -2221,8 +2224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), next (1), [[Java]] (1), [[Spring Boot]] (1), [[Orchestration]] (1)
 > **CLI Commands:** docker (3), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** eks (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)

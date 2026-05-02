@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Arduino-%20Interfacing%20with%20Hardware.md)
@@ -49,53 +49,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Open up your digital world with Arduino
-  - What you should know before watching
-  - The devices used
+  - [Open up your digital world with Arduino](#open-up-your-digital-world-with-arduino)
+  - [What you should know before watching](#what-you-should-know-before-watching)
+  - [The devices used](#the-devices-used)
 - [**1. Interface with an LCD**](#1-interface-with-an-lcd) (8 videos)
-  - Introduction to the liquid crystal display (LCD)
-  - Understanding HD4470 controller
-  - The LCD interface
-  - Wire up the LCD
-  - Coding the LCD interface
-  - Optional review: Understanding "for" loops
-  - Optional review: Understanding arrays
-  - Displaying random numbers and scrolling
+  - [Introduction to the liquid crystal display (LCD)](#introduction-to-the-liquid-crystal-display-lcd)
+  - [Understanding HD4470 controller](#understanding-hd4470-controller)
+  - [The LCD interface](#the-lcd-interface)
+  - [Wire up the LCD](#wire-up-the-lcd)
+  - [Coding the LCD interface](#coding-the-lcd-interface)
+  - [Optional review: Understanding "for" loops](#optional-review-understanding-for-loops)
+  - [Optional review: Understanding arrays](#optional-review-understanding-arrays)
+  - [Displaying random numbers and scrolling](#displaying-random-numbers-and-scrolling)
 - [**2. Interface with a 7-Segment LED Directly**](#2-interface-with-a-7-segment-led-directly) (9 videos)
-  - Overview of the 7-segment LED
-  - The 7-segment LED component
-  - 7-segment LED display types
-  - Checking a 7-segment LED type
-  - Wiring up the 7-segment LED
-  - Cycle through each LED directly
-  - Cycle through LEDs with a for loop
-  - Understanding the 7-segment LED truth table
-  - Coding 7-segment display showing numbers
+  - [Overview of the 7-segment LED](#overview-of-the-7-segment-led)
+  - [The 7-segment LED component](#the-7-segment-led-component)
+  - [7-segment LED display types](#7-segment-led-display-types)
+  - [Checking a 7-segment LED type](#checking-a-7-segment-led-type)
+  - [Wiring up the 7-segment LED](#wiring-up-the-7-segment-led)
+  - [Cycle through each LED directly](#cycle-through-each-led-directly)
+  - [Cycle through LEDs with a for loop](#cycle-through-leds-with-a-for-loop)
+  - [Understanding the 7-segment LED truth table](#understanding-the-7-segment-led-truth-table)
+  - [Coding 7-segment display showing numbers](#coding-7-segment-display-showing-numbers)
 - [**3. Interface with a 7-Segment LED Using a Shift Register**](#3-interface-with-a-7-segment-led-using-a-shift-register) (7 videos)
-  - Understanding the shift register
-  - MC74HC595A shift register overview
-  - Wire up the input and clock signals
-  - Wire up the signals for VCC and GND
-  - Wire up the 7-segment LED
-  - Initializing pins for the shift register
-  - The shiftOut command
+  - [Understanding the shift register](#understanding-the-shift-register)
+  - [MC74HC595A shift register overview](#mc74hc595a-shift-register-overview)
+  - [Wire up the input and clock signals](#wire-up-the-input-and-clock-signals)
+  - [Wire up the signals for VCC and GND](#wire-up-the-signals-for-vcc-and-gnd)
+  - [Wire up the 7-segment LED](#wire-up-the-7-segment-led)
+  - [Initializing pins for the shift register](#initializing-pins-for-the-shift-register)
+  - [The shiftOut command](#the-shiftout-command)
 - [**4. Interface with a Keypad**](#4-interface-with-a-keypad) (10 videos)
-  - Introduction to the keypad interface
-  - Wiring up the keypad
-  - Optional review: IF statement
-  - Optional review: The switch...case statement
-  - Understanding two-dimensional arrays
-  - Setup the keypad library
-  - HelloKeypad
-  - Using the keypad with LEDs
-  - Combine the keypad and 7-segment LED
-  - Combine them all: LCD + keypad + LED
+  - [Introduction to the keypad interface](#introduction-to-the-keypad-interface)
+  - [Wiring up the keypad](#wiring-up-the-keypad)
+  - [Optional review: IF statement](#optional-review-if-statement)
+  - [Optional review: The switch...case statement](#optional-review-the-switchcase-statement)
+  - [Understanding two-dimensional arrays](#understanding-two-dimensional-arrays)
+  - [Setup the keypad library](#setup-the-keypad-library)
+  - [HelloKeypad](#hellokeypad)
+  - [Using the keypad with LEDs](#using-the-keypad-with-leds)
+  - [Combine the keypad and 7-segment LED](#combine-the-keypad-and-7-segment-led)
+  - [Combine them all: LCD + keypad + LED](#combine-them-all-lcd-keypad-led)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Open up your digital world with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (2), [[Engineering]] (2), next (1)
 > **Env Vars:** led (2), lcd (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### What you should know before watching
@@ -137,9 +137,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4), [[Programming]] (2), [[Troubleshooting]] (1), [[Hardware]] (1), [[Electronics]] (1)
 > **Env Vars:** led (1), mega (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -167,14 +167,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** led (1), lcd (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Interface with an LCD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the liquid crystal display (LCD)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980)
@@ -213,8 +213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** lcd (11)
-> **Code Keywords:** type. (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
@@ -261,8 +261,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), data (1)
 > **Env Vars:** lcd (9), hd44780 (1), hitachi (1)
-> **Code Keywords:** let (1), type. (1), case, (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -331,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), power (3), data (2)
 > **Env Vars:** lcd (9), vss (1), vdd (1), ascii (1), led (1)
-> **Code Keywords:** let (2), interface (2), finally, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [narrator] (1)
@@ -422,8 +422,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (6)
 > **Env Vars:** lcd (9)
-> **Code Keywords:** let (1), continue (1), finally, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Coding the LCD interface
@@ -499,9 +499,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Arduino]] (1)
 > **Env Vars:** lcd (15)
 > **Definitions:** is a  (4)
-> **Code Keywords:** this, (1), try, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -559,9 +559,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **Prerequisites:** initialization (5)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** lcd (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -607,7 +607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** data (3), next (1), [[Arduino]] (1)
 > **Definitions:** is an  (2)
 > **Code Identifiers:** myarray (1)
 > **Env Vars:** lcd (1)
@@ -692,7 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** starter project (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -702,7 +702,7 @@ created: 2026-04-29
 
 ### 2. Interface with a 7-Segment LED Directly
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the 7-segment LED
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980)
@@ -723,8 +723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2), [[Programming Concepts]] (1)
 > **Env Vars:** led (4)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### The 7-segment LED component
@@ -762,8 +762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Env Vars:** led (9), leds (1)
-> **Code Keywords:** type. (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [woman] (1)
@@ -803,8 +803,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **Env Vars:** led (6), vcc (2)
-> **Code Keywords:** let (1), type. (1)
 > **Definitions:** is an  (1), means that (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [narrator] (1)
@@ -844,9 +844,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** led (8)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Wiring up the 7-segment LED
@@ -920,8 +920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (10), [[Representational State Transfer (REST)|Rest]] (2), [[Programming]] (1)
 > **Env Vars:** led (13), vcc (1)
-> **Code Keywords:** let (4)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -1017,9 +1017,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Arduino]] (3), [[Programming]] (2)
 > **Env Vars:** led (14), low (2), output (1), leds (1), high (1)
 > **Code Identifiers:** digitalwrite (2), ledpina (1), ledpinb (1), pinmode (1), ledpin (1)
-> **Code Keywords:** continue (3), finally, (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** download the (1)
 > **Best Practices:** good practice (1)
@@ -1085,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** digitalwrite (1)
 > **Env Vars:** led (1)
 > **Cross-References:** previous video (1)
@@ -1140,8 +1140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), next (1)
 > **Env Vars:** led (5), vcc (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1200,15 +1200,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** led (4)
-> **Code Keywords:** let (2)
 > **Exercise Files:** exercise file (1), download the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Interface with a 7-Segment LED Using a Shift Register
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the shift register
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980)
@@ -1269,6 +1269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (2), next (2), [[Arduino]] (1), application (1), data (1)
 > **Env Vars:** led (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1299,7 +1300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1)
+> **Frameworks & Libraries:** data (4), [[Arduino]] (2), parallel (2)
 > **Env Vars:** mc74hc595a (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1341,7 +1342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** data (4), [[Arduino]] (4)
 > **Speakers:** - okay (1)
 
 #### Wire up the signals for VCC and GND
@@ -1397,8 +1398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** vcc (5), perl (1)
-> **Code Keywords:** let (2), continue (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1439,8 +1440,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Arduino]] (1)
 > **Env Vars:** led (6), dcc (1)
-> **Code Keywords:** let (3), this, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
@@ -1496,7 +1497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** next (3), [[Arduino]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** datapin (1), latchpin (1), clockpin (1), pinmode (1)
 > **Exercise Files:** starter project (1), exercise files (1), exercise file (1)
 > **Env Vars:** led (2)
@@ -1564,8 +1565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Arduino]] (2)
 > **Code Identifiers:** shiftout (6), datapin (2), clockpin (2), bitorder (1), digitalwrite (1)
-> **Code Keywords:** finally, (2), let (1), case, (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** led (2)
 > **Definitions:** is a  (1), is called (1)
@@ -1575,7 +1576,7 @@ created: 2026-04-29
 
 ### 4. Interface with a Keypad
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the keypad interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980)
@@ -1634,7 +1635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), interface (1), let (1), type. (1), case, (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** vcc (1)
 > **Prerequisites:** set up (1)
@@ -1675,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), [[Programming]] (1)
 > **Env Vars:** led (2)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
@@ -1719,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** digitalwrite (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1764,7 +1765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (8), if. (1), else. (1), case. (1), case, (1)
+> **Frameworks & Libraries:** [[Arduino]] (5)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1820,7 +1821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1865,8 +1866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Search]] (1)
 > **UI Navigation:** go to (5)
-> **Code Keywords:** let (2)
 > **CLI Commands:** unzip (1)
 > **Exercise Files:** zip file (1)
 > **Prerequisites:** install (1)
@@ -1967,7 +1968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), finally, (1)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** go to (1), scroll down (1), select the (1), click on (1)
 > **Code Identifiers:** rowpins (1), getkey (1)
@@ -2067,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (2), finally, (2), case, (2), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Env Vars:** led (9)
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** setup (1)
@@ -2166,8 +2167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Arduino]] (1), next (1)
 > **Code Identifiers:** shiftout (3), toint (1), dataarray (1), digitalwrite (1), latchpin (1)
-> **Code Keywords:** finally, (3), let (2)
 > **Env Vars:** led (3), low (1)
 > **UI Navigation:** open the (1), toggle (1)
 > **Analogies:** similar to (2)
@@ -2254,19 +2255,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** lcd (14), led (8)
 > **Prerequisites:** setup (2), set up (1)
 > **Cross-References:** we mentioned (1), we covered (1)
 > **UI Navigation:** open the (1), scroll down (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980)
@@ -2274,6 +2275,10 @@ created: 2026-04-29
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980&t=3)** If you want to learn more about Arduino you can check out the library for my other Arduino courses like [[Learning Arduino- Interfacing with Analog Devices]],
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[Arduino]] (3)
 
 
 ## Instructor

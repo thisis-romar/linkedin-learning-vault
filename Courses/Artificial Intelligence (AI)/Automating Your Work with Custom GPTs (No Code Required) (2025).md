@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Automating%20Your%20Work%20with%20Custom%20GPTs%20(No%20Code%20Required)%20(2025).md)
@@ -40,17 +40,17 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Create your own powerful GPTs
+  - [Create your own powerful GPTs](#create-your-own-powerful-gpts)
 - [**1. Custom GPTs**](#1-custom-gpts) (5 videos)
-  - Analyze an archive of PDFs
-  - Extract text from images
-  - Generate images for social media posts
-  - Career coach
-  - GPTs for feedback
+  - [Analyze an archive of PDFs](#analyze-an-archive-of-pdfs)
+  - [Extract text from images](#extract-text-from-images)
+  - [Generate images for social media posts](#generate-images-for-social-media-posts)
+  - [Career coach](#career-coach)
+  - [GPTs for feedback](#gpts-for-feedback)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your own powerful GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980)
@@ -77,16 +77,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Custom GPTs]] (3), web (1), [[DALL-E]] (1), [[Search]] (1)
 > **Env Vars:** gpt (4), dall (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - with (1)
 
 
 ### 1. Custom GPTs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze an archive of PDFs
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980)
@@ -253,8 +253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Newsletters]] (7), web (4), [[Custom GPTs]] (2), data (2), next (2)
 > **Env Vars:** gpt (20), pdf (3), dall (1)
-> **Code Keywords:** case, (4), continue (3), let (3), switch (2), interface (1)
 > **Analogies:** for example (3), imagine (2)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
@@ -355,8 +355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (2), next (1), web (1), [[DALL-E]] (1), prompt (1)
 > **Env Vars:** gpt (11), dall (1)
-> **Code Keywords:** let (7), case, (1), delete (1), case. (1), this. (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -485,8 +485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[ChatGPT]] (4), [[Custom GPTs]] (2), [[Lifelong Learning]] (1), next (1)
 > **Env Vars:** gpt (12), dall (1)
-> **Code Keywords:** case, (5), let (3), else. (1), for, (1), switch (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (2)
@@ -593,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (3), public (2), case, (1), this. (1)
+> **Frameworks & Libraries:** career (8), management (2), [[Custom GPTs]] (1), [[ChatGPT]] (1), web (1)
 > **Env Vars:** gpt (14)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -713,8 +713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (2), [[Scalability]] (2), business (1), prompt (1), [[Typography]] (1)
 > **Env Vars:** gpt (18), dall (2)
-> **Code Keywords:** let (4), case, (2), this, (1), this. (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is a  (1)

@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20Generative%20Artificial%20Intelligence%20(AI)%20in%20Supply%20Chains.md)
@@ -53,26 +53,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with generative AI
-  - Access ChatGPT
+  - [Getting started with generative AI](#getting-started-with-generative-ai)
+  - [Access ChatGPT](#access-chatgpt)
 - [**1. Explore Generative AI**](#1-explore-generative-ai) (11 videos)
-  - Manage the information value chain
-  - Evaluate a generative AI platform
-  - Use generative AI in supply chains
-  - Use ChatGPT as a reference
-  - Use ChatGPT as a chatbot
-  - Use ChatGPT as a supply chain translator
-  - Use ChatGPT to write code for supply chain
-  - Use ChatGPT to write supply chain content
-  - Use ChatGPT and DALL·E to generate graphics
-  - Maximize the supply chain benefits of generative AI
-  - Manage the risks of generative AI in the supply chain
+  - [Manage the information value chain](#manage-the-information-value-chain)
+  - [Evaluate a generative AI platform](#evaluate-a-generative-ai-platform)
+  - [Use generative AI in supply chains](#use-generative-ai-in-supply-chains)
+  - [Use ChatGPT as a reference](#use-chatgpt-as-a-reference)
+  - [Use ChatGPT as a chatbot](#use-chatgpt-as-a-chatbot)
+  - [Use ChatGPT as a supply chain translator](#use-chatgpt-as-a-supply-chain-translator)
+  - [Use ChatGPT to write code for supply chain](#use-chatgpt-to-write-code-for-supply-chain)
+  - [Use ChatGPT to write supply chain content](#use-chatgpt-to-write-supply-chain-content)
+  - [Use ChatGPT and DALL·E to generate graphics](#use-chatgpt-and-dalle-to-generate-graphics)
+  - [Maximize the supply chain benefits of generative AI](#maximize-the-supply-chain-benefits-of-generative-ai)
+  - [Manage the risks of generative AI in the supply chain](#manage-the-risks-of-generative-ai-in-the-supply-chain)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Integrate ChatGPT into your supply chain
+  - [Integrate ChatGPT into your supply chain](#integrate-chatgpt-into-your-supply-chain)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980)
@@ -93,6 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - artificial (1)
 
@@ -139,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (7), ai (2), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), llm (1)
 > **Env Vars:** gpt (2), llm (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **Definitions:** is a  (1)
@@ -147,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Explore Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage the information value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980)
@@ -208,7 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (2), [[Automation]] (1), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [speaker] (1)
@@ -258,6 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Google]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dall (1)
@@ -289,7 +292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), ai (2), business (1), [[Supply Chain Management]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -327,8 +330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), management (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** mape (1), ltl (1), ftl (1)
-> **Code Keywords:** let (1), while, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
@@ -365,7 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (2), product (2), business (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -408,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), ai (2), [[Google]] (1), [[Supply Chain Management]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -462,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), data (3), [[HTML]] (3), [[Analytics]] (2), [[SQL]] (1)
 > **Env Vars:** html (2), sql (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [person] (1)
@@ -498,8 +501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Use ChatGPT and DALL·E to generate graphics
@@ -565,9 +568,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[DALL-E]] (5), [[ChatGPT]] (4), generic (1)
 > **Env Vars:** dall (5)
 > **CLI Commands:** make (2), find (1), cargo (1)
-> **Code Keywords:** let (2), switch (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** picture (2)
 > **UI Navigation:** switch to (1)
@@ -615,7 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (3), data (3), business (1), next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
@@ -644,6 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), teams (2), [[ChatGPT]] (1), [[Supply Chain Management]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - [narrator] (1)
@@ -651,7 +655,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate ChatGPT into your supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980)
@@ -708,8 +712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), ai (3), [[Generative AI]] (2), data (1), [[Ethics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - supply (1)

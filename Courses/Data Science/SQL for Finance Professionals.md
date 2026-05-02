@@ -35,7 +35,7 @@ tags:
   - skill/financial-analysis
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Finance%20Professionals.md)
@@ -54,42 +54,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Become the Ultimate Financial Analyst Using SQL
-  - What you should know
-  - Using CoderPad
+  - [Become the Ultimate Financial Analyst Using SQL](#become-the-ultimate-financial-analyst-using-sql)
+  - [What you should know](#what-you-should-know)
+  - [Using CoderPad](#using-coderpad)
 - [**1. What is SQL?**](#1-what-is-sql) (8 videos)
-  - Background and use cases of SQL
-  - Types of SQL commands
-  - SQL data types
-  - Queries: The basic building blocks of SQL
-  - How to use functions to perform calculations
-  - Joins using table relationships
-  - Setting up sample data and files
-  - Solution: Creating your first query
+  - [Background and use cases of SQL](#background-and-use-cases-of-sql)
+  - [Types of SQL commands](#types-of-sql-commands)
+  - [SQL data types](#sql-data-types)
+  - [Queries: The basic building blocks of SQL](#queries-the-basic-building-blocks-of-sql)
+  - [How to use functions to perform calculations](#how-to-use-functions-to-perform-calculations)
+  - [Joins using table relationships](#joins-using-table-relationships)
+  - [Setting up sample data and files](#setting-up-sample-data-and-files)
+  - [Solution: Creating your first query](#solution-creating-your-first-query)
 - [**2. SQL in Finance**](#2-sql-in-finance) (5 videos)
-  - SQL in the finance field
-  - How data is used in finance
-  - Data in fintech vs finance
-  - Excel vs SQL in finance
-  - Solution: Creating your second SQL query
+  - [SQL in the finance field](#sql-in-the-finance-field)
+  - [How data is used in finance](#how-data-is-used-in-finance)
+  - [Data in fintech vs finance](#data-in-fintech-vs-finance)
+  - [Excel vs SQL in finance](#excel-vs-sql-in-finance)
+  - [Solution: Creating your second SQL query](#solution-creating-your-second-sql-query)
 - [**3. Financial analysis in SQL**](#3-financial-analysis-in-sql) (5 videos)
-  - What is financial analysis?
-  - Analyzing financial statements
-  - Analyzing tabular data
-  - Calculating financial metrics: WACC, NPV, IRR
-  - Solution: Creating basic reports using SQL
+  - [What is financial analysis?](#what-is-financial-analysis)
+  - [Analyzing financial statements](#analyzing-financial-statements)
+  - [Analyzing tabular data](#analyzing-tabular-data)
+  - [Calculating financial metrics: WACC, NPV, IRR](#calculating-financial-metrics-wacc-npv-irr)
+  - [Solution: Creating basic reports using SQL](#solution-creating-basic-reports-using-sql)
 - [**4. Predictive modeling in finance**](#4-predictive-modeling-in-finance) (5 videos)
-  - What is predictive modeling?
-  - How predictive modeling is used in finance
-  - Forecasting revenue trends
-  - Developing predictive models using SQL and Python/R
-  - Case study: Detecting fraud
+  - [What is predictive modeling?](#what-is-predictive-modeling)
+  - [How predictive modeling is used in finance](#how-predictive-modeling-is-used-in-finance)
+  - [Forecasting revenue trends](#forecasting-revenue-trends)
+  - [Developing predictive models using SQL and Python/R](#developing-predictive-models-using-sql-and-pythonr)
+  - [Case study: Detecting fraud](#case-study-detecting-fraud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Become the Ultimate Financial Analyst Using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (4), [[Programming]] (1), [[Financial Data]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -146,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (7), management (1), next (1), database (1), [[Financial Data]] (1)
 > **Speakers:** - let (1)
 
 #### Using CoderPad
@@ -194,6 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -201,7 +203,7 @@ created: 2026-04-29
 
 ### 1. What is SQL?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Background and use cases of SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980)
@@ -224,6 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), database (3), management (2), data (2), [[MySQL]] (2)
 > **Env Vars:** sql (8)
 > **CLI Commands:** mysql (2), make (1)
 > **Code Identifiers:** pgsql (1)
@@ -268,8 +271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (5), [[SQL]] (4), [[Data Manipulation]] (2), [[Databases]] (1)
 > **Env Vars:** sql (4), dml (4), dql (3), dcl (3), ddl (2)
-> **Code Keywords:** delete (2)
 > **SQL:** select (1), update (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -319,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), finally, (1), function (1), let (1)
+> **Frameworks & Libraries:** data (14), [[SQL]] (2), database (1), next (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -376,9 +379,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), data (3), database (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** select (7), sql (6), where (4)
 > **SQL:** select (7), where (4)
-> **Code Keywords:** let (4), return, (1), from. (1), return. (1)
 > **Analogies:** think of it as (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -441,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), type, (2), type. (1)
+> **Frameworks & Libraries:** data (8), [[SQL]] (3), [[Statistics]] (1), [[Microsoft Word|Word]] (1), product (1)
 > **Env Vars:** sql (3), group (3), select (1)
 > **SQL:** group by (3), select (1)
 > **Code Identifiers:** maximum_price (2)
@@ -523,7 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), finally, (1), match, (1)
+> **Frameworks & Libraries:** data (2), database (1), business (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -581,11 +584,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (14), [[SQL]] (6), data (3), application (1), [[GitHub]] (1)
 > **Env Vars:** sql (6), zip (1)
 > **UI Navigation:** select the (2), dropdown (2), go to (1), open the (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
 > **Exercise Files:** exercise files (1), download the (1), zip file (1)
-> **Code Keywords:** let (1), interface (1)
 > **Code Identifiers:** sales_cogs_opex (2)
 > **CLI Commands:** find (1)
 > **URLs:** [sqlitebrowser.org](https://sqlitebrowser.org) (1)
@@ -613,7 +616,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -621,7 +623,7 @@ created: 2026-04-29
 
 ### 2. SQL in Finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL in the finance field
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980)
@@ -656,8 +658,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), data (5), [[Pivot Tables]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Forecasting]] (1)
 > **Env Vars:** sql (7)
-> **Code Keywords:** let (1), for. (1), require (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -707,8 +709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Financial Data]] (5), business (4), [[Financial Statements]] (2), [[SQL]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is called (1)
@@ -751,6 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Decision-Making]] (3), [[Microsoft Products|Products]] (2), [[Blockchain]] (2), [[Big Data]] (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -794,6 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (7), [[SQL]] (4), teams (2), [[Dashboards]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2)
@@ -831,16 +835,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[SQL]] (1)
 > **Env Vars:** cogs (3), opex (3), sql (1)
 > **Code Identifiers:** sales_id (2), sales_amount (1), cogs_amount (1), opex_amount (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Financial analysis in SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980)
@@ -891,10 +895,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Financial Analysis]] (1), [[Financial Data]] (1), [[Financial Statements]] (1), [[Forecasting]] (1)
 > **Env Vars:** ebitda (1), ebit (1), sql (1)
 > **Analogies:** picture (1), similar to (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Analyzing financial statements
@@ -938,6 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (5), business (2), data (1), [[Financial Data]] (1)
 > **Cross-References:** previous video (1), we mentioned (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [lecturer] (1)
@@ -993,9 +998,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[SQL]] (4), feature (2), [[Financial Statements]] (2), [[Databases]] (2)
 > **Env Vars:** sql (4)
 > **Definitions:** we call this (1), is an  (1), is a  (1), means that (1)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1060,7 +1065,6 @@ created: 2026-04-29
 > **Env Vars:** wacc (12), irr (10), npv (8), dcf (3)
 > **Definitions:** is a  (3), is called (1), in other words (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Creating basic reports using SQL
@@ -1090,7 +1094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), for. (1)
+> **Frameworks & Libraries:** next (2), data (2)
 > **Env Vars:** cogs (5)
 > **Code Identifiers:** sales_amount (1), cogs_amount (1), opex_amount (1)
 > **CLI Commands:** find (2)
@@ -1100,7 +1104,7 @@ created: 2026-04-29
 
 ### 4. Predictive modeling in finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is predictive modeling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980)
@@ -1135,6 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Predictive Modeling]] (4), [[Probability]] (1), application (1), [[Corporate Finance]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1178,8 +1183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), application (1), [[Logistic Regression]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1)
 > **Analogies:** such as (2), similar to (1)
-> **Code Keywords:** case, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Forecasting revenue trends
@@ -1241,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[Forecasting]] (2), data (2), business (1), application (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -1309,9 +1314,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[SQL]] (8), [[Python (Programming Language)|Python]] (6), next (3), feature (2)
 > **Env Vars:** sql (8), group (1), where (1), rest (1), api (1)
 > **CLI Commands:** python (6), make (1)
-> **Code Keywords:** let (2)
 > **SQL:** group by (1), where (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1368,9 +1373,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[SQL]] (7), [[Python (Programming Language)|Python]] (3), next (3), feature (3)
 > **Env Vars:** sql (7), csv (1), eda (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -1379,7 +1384,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980)
@@ -1398,6 +1403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), [[Predictive Modeling]] (1), [[LinkedIn]] (1), next (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - congratulations (1)
 

@@ -36,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Speech.md)
@@ -55,31 +55,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Voice models and the AI revolution
-  - What you should know
-  - Using the exercise files
-  - Responsible usage of AI
+  - [Voice models and the AI revolution](#voice-models-and-the-ai-revolution)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Responsible usage of AI](#responsible-usage-of-ai)
 - [**1. Text-to-Speech**](#1-text-to-speech) (8 videos)
-  - Text-to-speech overview
-  - Setting up OpenAI library
-  - Test ride with the text-to-speech API
-  - What we will build
-  - Project structure
-  - Creating a TTS endpoint
-  - Challenge: Voice selection
-  - Solution: Voice selection
+  - [Text-to-speech overview](#text-to-speech-overview)
+  - [Setting up OpenAI library](#setting-up-openai-library)
+  - [Test ride with the text-to-speech API](#test-ride-with-the-text-to-speech-api)
+  - [What we will build](#what-we-will-build)
+  - [Project structure](#project-structure)
+  - [Creating a TTS endpoint](#creating-a-tts-endpoint)
+  - [Challenge: Voice selection](#challenge-voice-selection)
+  - [Solution: Voice selection](#solution-voice-selection)
 - [**2. Speech-to-Text**](#2-speech-to-text) (5 videos)
-  - Speech-to-text overview
-  - Testing the speech-to-text API
-  - What we will build
-  - Project structure
-  - Using the API in an app
+  - [Speech-to-text overview](#speech-to-text-overview)
+  - [Testing the speech-to-text API](#testing-the-speech-to-text-api)
+  - [What we will build](#what-we-will-build)
+  - [Project structure](#project-structure)
+  - [Using the API in an app](#using-the-api-in-an-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Voice models and the AI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), api (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - [ai (1), - and (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 
 #### What you should know
@@ -123,8 +123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** finally, (1)
 > **Tools:** command line (1)
 > **Speakers:** - [ronnie] (1)
 
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -162,14 +163,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** api (1), power (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Text-to-Speech
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Text-to-speech overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980)
@@ -200,8 +201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -268,6 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), product (3), [[Python (Programming Language)|Python]] (3), hit (1), next (1)
 > **CLI Commands:** python (3), python3 (2), pip (2), find (1), make (1)
 > **Env Vars:** api (5), openai_api_key (2)
 > **Tools:** terminal (3)
@@ -275,7 +277,6 @@ created: 2026-04-29
 > **Prerequisites:** install (3)
 > **URLs:** [openai.com](https://openai.com) (1), [python.org](https://python.org) (1)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** delete (1)
 
 #### Test ride with the text-to-speech API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/test-ride-with-the-text-to-speech-api?u=76281980)
@@ -352,8 +353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), api (2), [[Python (Programming Language)|Python]] (1), cd (1), hit (1)
 > **Tools:** terminal (7), vs code (1), visual studio (1)
-> **Code Keywords:** let (2), pass (1), finally, (1), this, (1), new, (1)
 > **Env Vars:** api (2), ide (2), mp3 (2)
 > **Speakers:** - [instructor] (3), - [narrator] (2)
 > **CLI Commands:** make (1), python (1), cd (1), python3 (1)
@@ -376,6 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), api (1)
 > **Speakers:** - [instructor] (2), - [web (1)
 > **Env Vars:** api (1)
 
@@ -410,8 +412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), application (2), [[JavaScript]] (1), api (1)
 > **File Paths:** app.py (3), index.html (1)
-> **Code Keywords:** let (1), function (1), finally, (1)
 > **Env Vars:** html (1), api (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -482,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), function (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** application (3), data (2), next (1), [[OpenAI API]] (1), feature (1)
 > **Speakers:** - [instructor] (2), - [text (1)
 > **File Paths:** app.py (2)
 > **Code Identifiers:** get_json (1), send_file (1)
@@ -538,9 +540,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), next (1)
 > **Speakers:** - [instructor] (4), - [alloy] (2), - [onyx] (1)
 > **File Paths:** app.py (3), index.html (2)
-> **Code Keywords:** let (3)
 > **CLI Commands:** python3 (1), make (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** navigate to (2)
@@ -580,8 +582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), [[OpenAI API]] (2), [[JSON]] (1), data (1)
 > **Speakers:** - [instructor] (4), - [alloy] (1), - [onyx] (1), - [echo] (1)
-> **Code Keywords:** let (3), pass (1)
 > **Env Vars:** api (2), html (1), json (1)
 > **Definitions:** is a  (4)
 > **File Paths:** index.html (1), app.py (1)
@@ -592,7 +594,7 @@ created: 2026-04-29
 
 ### 2. Speech-to-Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Speech-to-text overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/speech-to-text-overview?u=76281980)
@@ -670,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), application (2), next (1), [[Python (Programming Language)|Python]] (1), cd (1)
 > **CLI Commands:** python (1), make (1), cd (1), python3 (1)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **Code Identifiers:** test_stt (2), audio_file (1)
 > **Env Vars:** api (2), ide (1)
 > **UI Navigation:** navigate to (2), scroll down (1)
@@ -694,7 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** application (2), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -725,6 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[HTML]] (1), [[JavaScript]] (1), next (1)
 > **File Paths:** index.html (1), app.py (1)
 > **Env Vars:** tts (1)
 > **UI Navigation:** navigate to (1)
@@ -773,8 +776,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), next (1), web application (1)
 > **Code Identifiers:** file_like (5)
-> **Code Keywords:** let (2), pass (1), finally, (1)
 > **Env Vars:** api (3)
 > **File Paths:** app.py (2)
 > **UI Navigation:** navigate to (2)
@@ -785,7 +788,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980)
@@ -812,9 +815,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[Prompt Engineering]] (2), [[Computer Vision]] (1), api (1), [[Generative AI]] (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** python (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [ronnie] (1)

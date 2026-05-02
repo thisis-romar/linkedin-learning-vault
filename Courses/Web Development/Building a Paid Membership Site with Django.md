@@ -30,7 +30,7 @@ tags:
   - skill/django
   - skill/membership-systems
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20Paid%20Membership%20Site%20with%20Django.md)
@@ -49,35 +49,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Building a paid membership site with Django
-  - What you should know
-  - Demo project overview
+  - [Building a paid membership site with Django](#building-a-paid-membership-site-with-django)
+  - [What you should know](#what-you-should-know)
+  - [Demo project overview](#demo-project-overview)
 - [**1. Setting Up Our Project**](#1-setting-up-our-project) (3 videos)
-  - The starter project walkthrough
-  - Create Stripe account
-  - Create a product in Stripe
+  - [The starter project walkthrough](#the-starter-project-walkthrough)
+  - [Create Stripe account](#create-stripe-account)
+  - [Create a product in Stripe](#create-a-product-in-stripe)
 - [**2. Checkout Basics**](#2-checkout-basics) (5 videos)
-  - Select yearly or monthly
-  - Checkout page
-  - Stripe front end
-  - Passing data
-  - Coupons
+  - [Select yearly or monthly](#select-yearly-or-monthly)
+  - [Checkout page](#checkout-page)
+  - [Stripe front end](#stripe-front-end)
+  - [Passing data](#passing-data)
+  - [Coupons](#coupons)
 - [**3. Processing Payments**](#3-processing-payments) (4 videos)
-  - Process payment
-  - View Stripe data
-  - Create customer
-  - Release plans
+  - [Process payment](#process-payment)
+  - [View Stripe data](#view-stripe-data)
+  - [Create customer](#create-customer)
+  - [Release plans](#release-plans)
 - [**4. Canceling a Subscription**](#4-canceling-a-subscription) (4 videos)
-  - Settings for a GET request
-  - Cancel subscription
-  - Settings view
-  - Updating accounts
+  - [Settings for a GET request](#settings-for-a-get-request)
+  - [Cancel subscription](#cancel-subscription)
+  - [Settings view](#settings-view)
+  - [Updating accounts](#updating-accounts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a paid membership site with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/building-a-paid-membership-site-with-django?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Django]] (4), web (2), [[Programming]] (2)
 > **Speakers:** - [instructor] (2)
 
 #### What you should know
@@ -160,10 +160,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Django]] (8), next (4), [[JavaScript]] (4), [[HTML]] (2)
 > **CLI Commands:** python (8), pip (2)
 > **Versions:** python 3 (6)
 > **Tools:** terminal (2), atom (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** html (2)
 > **Exercise Files:** starter project (2)
 > **Prerequisites:** you'll need (2)
@@ -250,8 +250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), product (2), business (2), power (2)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (4), this, (2)
 > **UI Navigation:** click on (4), go to (2)
 > **URLs:** [email.com](https://email.com) (2)
 > **Definitions:** is a  (2)
@@ -261,7 +261,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Our Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The starter project walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980)
@@ -358,9 +358,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (4), hit (4), [[Django]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (6), pip3 (2), pip (2), python (2)
 > **Prerequisites:** install (6), set up (2), make sure you have (2)
-> **Code Keywords:** let (8)
 > **File Paths:** manage.py (2), plans.json (2)
 > **UI Navigation:** click on (4)
 > **Tools:** terminal (2)
@@ -428,7 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2)
+> **Frameworks & Libraries:** data (4), next (2)
 > **CLI Commands:** make (2)
 > **URLs:** [stripe.com](https://stripe.com) (2)
 > **UI Navigation:** go to (2)
@@ -556,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (4), this. (2)
+> **Frameworks & Libraries:** product (22), hit (6), data (2), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** click on (6), select the (2), scroll down (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** usd (2)
@@ -567,7 +567,7 @@ created: 2026-04-29
 
 ### 2. Checkout Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select yearly or monthly
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980)
@@ -838,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), require (2), function (2), this. (2), class. (2)
+> **Frameworks & Libraries:** next (10), database (4), [[HTML]] (2), hit (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** url (6), hrefs (2), urls (2), href (2)
 > **UI Navigation:** go to (8), click on (4)
 > **File Paths:** views.py (2), join.html (2), urls.py (2), models.py (2), manage.py (2)
@@ -1050,7 +1050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), this, (6), function (4), require (2), this. (2)
+> **Frameworks & Libraries:** hit (6), [[HTML]] (4), data (4), next (2), [[Django]] (2)
 > **File Paths:** views.py (6), checkout.html (4)
 > **CLI Commands:** make (8)
 > **Env Vars:** post (2), api (2), cvc (2)
@@ -1268,7 +1268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (14), require (2), public (2), private (2)
+> **Frameworks & Libraries:** api (6), product (4), data (4), [[HTML]] (2), next (2)
 > **Code Identifiers:** og_dollar (8), final_dollar (8), coupon_dollar (4), api_key (2)
 > **Env Vars:** api (6), html (2), aka (2)
 > **Definitions:** is a  (6)
@@ -1492,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), pass (6), this. (4), this, (2), for. (2)
+> **Frameworks & Libraries:** next (10), data (6), [[HTML]] (4), [[Microsoft Word|Word]] (2), [[Java]] (2)
 > **CLI Commands:** make (4), find (2)
 > **Code Identifiers:** og_dollar (2), coupon_dollar (2), final_dollar (2)
 > **File Paths:** checkout.html (4)
@@ -1652,7 +1652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), this, (6), function (2), this. (2), pass (2)
+> **Frameworks & Libraries:** feature (2), next (2)
 > **API Endpoints:** get  (6), post  (2)
 > **Analogies:** for example (2), similar to (2), just like (2)
 > **CLI Commands:** make (4)
@@ -1664,7 +1664,7 @@ created: 2026-04-29
 
 ### 3. Processing Payments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Process payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/process-payment?u=76281980)
@@ -1865,7 +1865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (14), case, (8), pass (6), this. (4)
+> **Frameworks & Libraries:** api (6), next (4), product (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** api (6)
 > **UI Navigation:** go to (4)
@@ -1979,7 +1979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (8), this, (6)
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** click on (8), go to (4)
 > **CLI Commands:** make (4)
 > **URLs:** [j.org](https://j.org) (2)
@@ -2102,7 +2102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), super (4), class. (2)
+> **Frameworks & Libraries:** next (4), database (2), hit (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (10), python (2)
 > **UI Navigation:** go to (4)
 > **Speakers:** - [narrator] (2)
@@ -2208,7 +2208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this, (8), function (2), try: (2), class, (2)
+> **Frameworks & Libraries:** hit (4)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (4), means that (2)
 > **Analogies:** just like (4)
@@ -2218,7 +2218,7 @@ created: 2026-04-29
 
 ### 4. Canceling a Subscription
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Settings for a GET request
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-for-a-get-request?u=76281980)
@@ -2377,7 +2377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (6), continue (4), case, (4), try, (2)
+> **Frameworks & Libraries:** feature (2), next (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** cancel_at_period_end (2)
@@ -2474,8 +2474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Representational State Transfer (REST)|Rest]] (2), api (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2)
-> **Code Keywords:** let (4)
 > **Exercise Files:** template (4)
 > **Env Vars:** api (2)
 > **Cross-References:** in the next (2)
@@ -2662,7 +2662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this, (4), pass (2), elif (2), case, (2)
+> **Frameworks & Libraries:** [[HTML]] (2), next (2), feature (2)
 > **Env Vars:** url (7), csrf (4)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (4)
@@ -2810,7 +2810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (6), this, (6), this. (6), pass (4)
+> **Frameworks & Libraries:** [[Django]] (2), hit (2)
 > **Code Identifiers:** cancel_at_period_end (4), login_required (2), stripe_subscription_id (2)
 > **UI Navigation:** go to (8)
 > **CLI Commands:** make (6)
@@ -2822,7 +2822,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980)
@@ -2897,8 +2897,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (10), next (4), [[Forms]] (4), aws (2), [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** make (4), aws (2), find (2)
-> **Code Keywords:** finally, (2)
 > **Env Vars:** aws (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [nick] (2)

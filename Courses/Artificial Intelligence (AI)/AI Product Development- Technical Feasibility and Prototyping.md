@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/product-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Development-%20Technical%20Feasibility%20and%20Prototyping.md)
@@ -55,44 +55,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction
+  - [Introduction](#introduction)
 - [**1. What Is "Feasible"?**](#1-what-is-feasible) (2 videos)
-  - The goal: Feasibility and prototyping
-  - Building options
+  - [The goal: Feasibility and prototyping](#the-goal-feasibility-and-prototyping)
+  - [Building options](#building-options)
 - [**2. Tech Feasibility in Detail**](#2-tech-feasibility-in-detail) (16 videos)
-  - "Must knows" for feasibility
-  - Proof of concept, part 1
-  - Proof of concept, part 2
-  - Core AI architecture concepts, part 1
-  - Core AI architecture concepts, part 2
-  - How to do tech feasibility
-  - Questions for different implementation options
-  - Who can help you out? Storage and computing power
-  - Architecture, latency, standalone vs. connected
-  - Security, ethics, and compliance
-  - Endpoints and data
-  - Talent
-  - Maintenance and retraining
-  - Scaling and testing
-  - Metrics and time and budget updates
-  - Best practices of working with vendors
+  - ["Must knows" for feasibility](#must-knows-for-feasibility)
+  - [Proof of concept, part 1](#proof-of-concept-part-1)
+  - [Proof of concept, part 2](#proof-of-concept-part-2)
+  - [Core AI architecture concepts, part 1](#core-ai-architecture-concepts-part-1)
+  - [Core AI architecture concepts, part 2](#core-ai-architecture-concepts-part-2)
+  - [How to do tech feasibility](#how-to-do-tech-feasibility)
+  - [Questions for different implementation options](#questions-for-different-implementation-options)
+  - [Who can help you out? Storage and computing power](#who-can-help-you-out-storage-and-computing-power)
+  - [Architecture, latency, standalone vs. connected](#architecture-latency-standalone-vs-connected)
+  - [Security, ethics, and compliance](#security-ethics-and-compliance)
+  - [Endpoints and data](#endpoints-and-data)
+  - [Talent](#talent)
+  - [Maintenance and retraining](#maintenance-and-retraining)
+  - [Scaling and testing](#scaling-and-testing)
+  - [Metrics and time and budget updates](#metrics-and-time-and-budget-updates)
+  - [Best practices of working with vendors](#best-practices-of-working-with-vendors)
 - [**3. Prototyping**](#3-prototyping) (10 videos)
-  - Fundamentals of prototyping and prototyping timeline
-  - Prototyping roles, personas and expected outcome
-  - Minimum viable product (MVP)
-  - Six strategies for building prototypes, part 1
-  - Six strategies for building prototypes, part 2
-  - Prototyping best practices
-  - The process of gathering feedback from users
-  - Best practices for gathering feedback from users
-  - Drawing conclusions after the feedback
-  - Demo
+  - [Fundamentals of prototyping and prototyping timeline](#fundamentals-of-prototyping-and-prototyping-timeline)
+  - [Prototyping roles, personas and expected outcome](#prototyping-roles-personas-and-expected-outcome)
+  - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
+  - [Six strategies for building prototypes, part 1](#six-strategies-for-building-prototypes-part-1)
+  - [Six strategies for building prototypes, part 2](#six-strategies-for-building-prototypes-part-2)
+  - [Prototyping best practices](#prototyping-best-practices)
+  - [The process of gathering feedback from users](#the-process-of-gathering-feedback-from-users)
+  - [Best practices for gathering feedback from users](#best-practices-for-gathering-feedback-from-users)
+  - [Drawing conclusions after the feedback](#drawing-conclusions-after-the-feedback)
+  - [Demo](#demo)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980)
@@ -115,14 +115,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), product (3), [[Prototyping]] (2), business (1), power (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** super (1), let (1)
 > **Speakers:** - in (1)
 
 
 ### 1. What Is "Feasible"?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The goal: Feasibility and prototyping
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility?u=76281980)
@@ -213,10 +213,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), product (4), chatbot (1), data (1), next (1)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - imagine (1)
 
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** ai (8), business (5), [[Prototyping]] (4), data (2), product (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -295,7 +295,7 @@ created: 2026-04-29
 
 ### 2. Tech Feasibility in Detail
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### "Must knows" for feasibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980)
@@ -382,7 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1)
+> **Frameworks & Libraries:** ai (24), data (5), next (2), [[Automation]] (2), [[Analytics]] (2)
 > **Analogies:** for example (3)
 > **Env Vars:** crm (1), aws (1)
 > **Definitions:** is a  (2)
@@ -446,8 +446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (6), product (1), [[E-Commerce]] (1), leadership (1)
 > **Env Vars:** poc (7)
-> **Code Keywords:** new, (1), continue (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -509,8 +509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (3), business (1), [[Algorithms]] (1), power (1)
 > **Env Vars:** poc (4)
-> **Code Keywords:** this, (1), let (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** select the (1)
@@ -591,8 +591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (10), [[Hardware]] (2), power (2), api (2)
 > **Env Vars:** api (2), gpu (1), erp (1)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
@@ -660,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), super (1), for, (1), interface (1), for. (1)
+> **Frameworks & Libraries:** data (9), ai (4), power (2), rag (2), [[IoT]] (1)
 > **Env Vars:** rag (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
@@ -766,8 +766,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), next (2), data (2), cloud (1), ai (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (4)
 > **Exercise Files:** template (3), exercise file (1)
 > **Prerequisites:** required to (2)
 > **Cross-References:** in the next (1)
@@ -852,8 +852,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), cloud (4), ai (2), [[Security]] (2), product (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sla (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -936,8 +936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), cloud (3), ai (2), power (2), [[Hardware]] (2)
 > **Env Vars:** gpu (5), nvidia (1)
-> **Code Keywords:** let (1), this, (1), case, (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1011,7 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), interface (1), this, (1)
+> **Frameworks & Libraries:** ai (6), data (4), rag (3), next (2), application (2)
 > **Env Vars:** rag (3), cag (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -1109,8 +1109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (6), [[Security]] (5), [[Ethics]] (2), [[Banking]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3), super (1)
 > **Env Vars:** gdpr (1), usa (1), hipaa (1), pipeda (1)
 > **Analogies:** for example (3), think of it as (1)
 > **Best Practices:** make sure to (2), you should never (1)
@@ -1197,7 +1197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), require (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (25), power (4), ai (2), application (2), next (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1252,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), super (1)
+> **Frameworks & Libraries:** ai (7), data (3), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1)
 > **Cross-References:** previous video (1), we covered (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1350,8 +1350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (6), [[E-Commerce]] (1), next (1)
 > **Definitions:** is an  (2), in other words (1), means that (1), is a  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1428,7 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), for, (1), let (1)
+> **Frameworks & Libraries:** ai (6), data (5), chatbot (2), ux (2), application (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1507,8 +1507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (2), [[Security]] (1), power (1), product (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (2), break, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -1597,8 +1597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (2), product (2), [[Security]] (1), [[SaaS]] (1)
 > **CLI Commands:** make (9)
-> **Code Keywords:** let (1), from. (1), super (1)
 > **Best Practices:** make sure to (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** next chapter (1)
@@ -1609,7 +1609,7 @@ created: 2026-04-29
 
 ### 3. Prototyping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals of prototyping and prototyping timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980)
@@ -1690,7 +1690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from: (1), finally, (1)
+> **Frameworks & Libraries:** [[Prototyping]] (13), ai (6), product (5), next (3), application (2)
 > **Env Vars:** mvp (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** think of it as (1), for example (1)
@@ -1756,7 +1756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), type, (2), let (1)
+> **Frameworks & Libraries:** [[Prototyping]] (6), ai (4), product (2), data (2), ux (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -1842,9 +1842,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (13), ai (5), [[Prototyping]] (3), chatbot (3), next (2)
 > **Env Vars:** mvp (10)
 > **Definitions:** is a  (4), stands for (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
@@ -1924,7 +1924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), function (1), switch (1), require (1)
+> **Frameworks & Libraries:** ai (5), [[Canva]] (3), product (2), ux (1), [[Figma (Software)|Figma]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
@@ -2020,7 +2020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), new, (1), super (1)
+> **Frameworks & Libraries:** ai (6), application (4), [[Prototyping]] (2), [[Figma (Software)|Figma]] (1), product (1)
 > **Tools:** figma (1), discord (1), github (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** llm (1), vzero (1)
@@ -2122,7 +2122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Prototyping]] (6), ai (3), next (1), feature (1), data (1)
 > **Cross-References:** next video (1), go back to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kiss (1)
@@ -2220,8 +2220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Product Development]] (2), ai (1), [[Prototyping]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** make sure you have (1)
@@ -2310,7 +2310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), interface (1)
+> **Frameworks & Libraries:** ai (2), [[Microsoft Products|Products]] (2), next (2), express (1), product (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you'll need (2)
 > **Ports:** :15 (1)
@@ -2405,6 +2405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Prototyping]] (2), feature (2), [[Trello]] (2), llm (2)
 > **Analogies:** for example (2), such as (2), imagine (1)
 > **Env Vars:** llm (2)
 > **CLI Commands:** make (1)
@@ -2698,7 +2699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (1), require (1)
+> **Frameworks & Libraries:** ai (16), [[Prototyping]] (2), power (2), next (2), prompt (1)
 > **Env Vars:** lms (1), crm (1), api (1)
 > **UI Navigation:** click on (2)
 > **Exercise Files:** exercise files (2)
@@ -2709,7 +2710,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980)
@@ -2738,6 +2739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), next (2), product (2), [[Prototyping]] (1), power (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

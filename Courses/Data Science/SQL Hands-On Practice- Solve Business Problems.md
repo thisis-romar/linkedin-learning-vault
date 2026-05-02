@@ -45,7 +45,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Hands-On%20Practice-%20Solve%20Business%20Problems.md)
@@ -64,47 +64,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Advancing your skills with SQL
-  - What you should know
-  - CoderPad introduction
+  - [Advancing your skills with SQL](#advancing-your-skills-with-sql)
+  - [What you should know](#what-you-should-know)
+  - [CoderPad introduction](#coderpad-introduction)
 - [**1. Product Analytics in SQL with CTEs**](#1-product-analytics-in-sql-with-ctes) (6 videos)
-  - Summarizing customer data for leadership
-  - Combining aggregate functions with CTEs
-  - Introduction to CTEs
-  - Solution: Pull descriptive statistics with a CTE
-  - Solution: Explore variable distributions with CTEs
-  - Solution: Payment funnel analysis with CTEs
+  - [Summarizing customer data for leadership](#summarizing-customer-data-for-leadership)
+  - [Combining aggregate functions with CTEs](#combining-aggregate-functions-with-ctes)
+  - [Introduction to CTEs](#introduction-to-ctes)
+  - [Solution: Pull descriptive statistics with a CTE](#solution-pull-descriptive-statistics-with-a-cte)
+  - [Solution: Explore variable distributions with CTEs](#solution-explore-variable-distributions-with-ctes)
+  - [Solution: Payment funnel analysis with CTEs](#solution-payment-funnel-analysis-with-ctes)
 - [**2. Data Transformation in SQL with CASE**](#2-data-transformation-in-sql-with-case) (5 videos)
-  - Translating status codes into business acumen
-  - Recoding and bucketing values using CASE
-  - Introduction to CASE
-  - Solution: Creating binary columns with CASE
-  - Solution: Create aggregated columns with CASE
+  - [Translating status codes into business acumen](#translating-status-codes-into-business-acumen)
+  - [Recoding and bucketing values using CASE](#recoding-and-bucketing-values-using-case)
+  - [Introduction to CASE](#introduction-to-case)
+  - [Solution: Creating binary columns with CASE](#solution-creating-binary-columns-with-case)
+  - [Solution: Create aggregated columns with CASE](#solution-create-aggregated-columns-with-case)
 - [**3. Combining Multiple Data Sources in SQL with UNION**](#3-combining-multiple-data-sources-in-sql-with-union) (5 videos)
-  - Combining multiple email lists
-  - Combining multiple data sources with UNION
-  - Introduction to UNION
-  - Solution: Combine product tables with UNION
-  - Solution: Unpivoting columns into rows using UNION
+  - [Combining multiple email lists](#combining-multiple-email-lists)
+  - [Combining multiple data sources with UNION](#combining-multiple-data-sources-with-union)
+  - [Introduction to UNION](#introduction-to-union)
+  - [Solution: Combine product tables with UNION](#solution-combine-product-tables-with-union)
+  - [Solution: Unpivoting columns into rows using UNION](#solution-unpivoting-columns-into-rows-using-union)
 - [**4. Dealing with Hierarchical Data in SQL with Self Joins**](#4-dealing-with-hierarchical-data-in-sql-with-self-joins) (5 videos)
-  - Dealing with hierarchical data
-  - Relating users and admins using a self join
-  - Introduction to self joins
-  - Solution: Employee-manager data with a self join
-  - Solution: Comparing rows within the same table
+  - [Dealing with hierarchical data](#dealing-with-hierarchical-data)
+  - [Relating users and admins using a self join](#relating-users-and-admins-using-a-self-join)
+  - [Introduction to self joins](#introduction-to-self-joins)
+  - [Solution: Employee-manager data with a self join](#solution-employee-manager-data-with-a-self-join)
+  - [Solution: Comparing rows within the same table](#solution-comparing-rows-within-the-same-table)
 - [**5. Solving Advanced Problems in SQL with Window Functions**](#5-solving-advanced-problems-in-sql-with-window-functions) (6 videos)
-  - Pulling the most recent sales data
-  - Rank(), row_number(), and dense_rank()
-  - Pulling the most recent sale with row_number()
-  - Introduction to window functions
-  - Solution: Get running totals with window functions
-  - Solution: Timestamp differences with LEAD()
+  - [Pulling the most recent sales data](#pulling-the-most-recent-sales-data)
+  - [Rank(), row_number(), and dense_rank()](#rank-row_number-and-dense_rank)
+  - [Pulling the most recent sale with row_number()](#pulling-the-most-recent-sale-with-row_number)
+  - [Introduction to window functions](#introduction-to-window-functions)
+  - [Solution: Get running totals with window functions](#solution-get-running-totals-with-window-functions)
+  - [Solution: Timestamp differences with LEAD()](#solution-timestamp-differences-with-lead)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with SQL
+  - [Continuing on with SQL](#continuing-on-with-sql)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing your skills with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980)
@@ -121,8 +121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), data (3), [[Analytics]] (2), business (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 #### What you should know
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 
@@ -174,13 +175,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Product Analytics in SQL with CTEs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing customer data for leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980)
@@ -231,7 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** leadership (4), data (3), product (3), [[SQL]] (2), next (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
@@ -382,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (6), this. (2), finally, (1)
+> **Frameworks & Libraries:** product (7), [[SQL]] (5), data (3), leadership (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cte (9), sql (5), select (2), ide (1), subscriptions (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), we call this (1), refers to (1)
@@ -460,10 +462,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (5), career (2), [[Programming]] (1), [[Analytics]] (1)
 > **Env Vars:** cte (8), sql (5)
 > **Definitions:** means that (4), in other words (1), is an  (1), is a  (1)
 > **Analogies:** such as (2), just like (1), for example (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [speaker] (1)
 
@@ -630,7 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), case, (2), finally, (1), super (1)
+> **Frameworks & Libraries:** product (25), [[Microsoft Products|Products]] (5), [[SQL]] (3), business (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cte (6), sql (3), std (2), tldr (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
@@ -736,7 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), super (1), from. (1), case. (1), this, (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Big Data]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** cte (2)
 > **Analogies:** imagine (1), for example (1)
@@ -918,7 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (3), while, (1), super (1), try. (1)
+> **Frameworks & Libraries:** business (13), data (11), [[SQL]] (3), next (2), product (2)
 > **Env Vars:** cte (9), sql (3)
 > **Code Identifiers:** max_status_reached (4)
 > **Definitions:** is a  (2), means that (2)
@@ -930,7 +932,7 @@ created: 2026-04-29
 
 ### 2. Data Transformation in SQL with CASE
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating status codes into business acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980)
@@ -987,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (2), case. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (3), business (1), database (1), [[Representational State Transfer (REST)|Rest]] (1), power (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** troubleshoot (2)
@@ -1068,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2), this. (1)
+> **Frameworks & Libraries:** business (3), next (2), hit (1), data (1), feature (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -1164,8 +1166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[SQL]] (3), next (2), game (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** case (14), sum (4), sql (3), max (2), else (1)
-> **Code Keywords:** finally, (2), case. (2), function (2), this, (1), case, (1)
 > **Analogies:** for example (2), think of it as (1), such as (1)
 > **Non-Speech:** (upbeat music) (1), (digital music) (1)
 > **Cross-References:** in the next (1)
@@ -1285,7 +1287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), switch (1), finally, (1)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (5), next (4), business (1), data (1)
 > **Analogies:** for example (2), think of it as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -1451,7 +1453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), def. (1), from, (1), super (1)
+> **Frameworks & Libraries:** product (4), [[SQL]] (3), [[Customer Support]] (3), next (3), business (3)
 > **Definitions:** is a  (7), means that (1)
 > **Env Vars:** sql (3), u837 (2), user_id (1)
 > **CLI Commands:** make (4)
@@ -1463,7 +1465,7 @@ created: 2026-04-29
 
 ### 3. Combining Multiple Data Sources in SQL with UNION
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combining multiple email lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980)
@@ -1534,8 +1536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (8), [[Microsoft Excel|Excel]] (7), [[Analytics]] (1), etl (1)
 > **Env Vars:** crm (4), etl (1)
-> **Code Keywords:** super (3), let (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -1638,8 +1640,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), business (2), [[Quality Assurance]] (1)
 > **Env Vars:** union (13), select (2), join (1), cte (1)
-> **Code Keywords:** let (9), from, (3), finally, (1)
 > **SQL:** select (2), join (1)
 > **Code Identifiers:** poc_name (1), poc_email (1)
 > **Cross-References:** in the next (1), next video (1)
@@ -1710,6 +1712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (2), [[SQL]] (1)
 > **Env Vars:** union (16), join (2), select (1), sql (1), distinct (1)
 > **SQL:** join (2), select (1)
 > **Analogies:** imagine (2)
@@ -1772,7 +1775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2)
+> **Frameworks & Libraries:** data (2), product (2), next (1)
 > **Code Identifiers:** all_subscriptions (1)
 > **Env Vars:** cte (1)
 > **UI Navigation:** go to (1)
@@ -1854,7 +1857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** data (6), business (1), next (1), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cte (1), sql (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1865,7 +1868,7 @@ created: 2026-04-29
 
 ### 4. Dealing with Hierarchical Data in SQL with Self Joins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dealing with hierarchical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/dealing-with-hierarchical-data?u=76281980)
@@ -1898,7 +1901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 
 #### Relating users and admins using a self join
@@ -1998,7 +2001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), self (4), try. (1)
+> **Frameworks & Libraries:** data (3), business (2), next (1)
 > **Env Vars:** u837 (2), u172 (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (2)
@@ -2062,7 +2065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (7), require (1), let (1)
+> **Frameworks & Libraries:** [[SQL]] (1), hr (1), business (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -2190,7 +2193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), self (5), from. (2), finally, (2), case, (2)
+> **Frameworks & Libraries:** data (3), next (3), business (3)
 > **Env Vars:** e429 (2), e738 (1)
 > **Cross-References:** next video (1)
 > **Definitions:** means that (1)
@@ -2311,7 +2314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (11), let (9), this, (1), require (1), for. (1)
+> **Frameworks & Libraries:** data (3), [[SQL]] (2), next (2), business (1)
 > **Env Vars:** cte (6), sql (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** monthly_revs (1)
@@ -2323,7 +2326,7 @@ created: 2026-04-29
 
 ### 5. Solving Advanced Problems in SQL with Window Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pulling the most recent sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980)
@@ -2368,7 +2371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** business (2), power (1), [[Windows]] (1), [[SQL]] (1), next (1)
 > **Env Vars:** cte (1), sql (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
@@ -2436,8 +2439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), next (5), [[Windows]] (1)
 > **Env Vars:** sql (8)
-> **Code Keywords:** function (4), super (1), let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2520,7 +2523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), for. (1), function (1)
+> **Frameworks & Libraries:** next (3), data (2), [[SQL]] (1), business (1)
 > **Env Vars:** cte (4), e738 (1), sql (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -2600,7 +2603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), super (1), case, (1)
+> **Frameworks & Libraries:** [[SQL]] (3), data (2), next (2), application (1), business (1)
 > **Env Vars:** sql (3)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1), just like (1)
@@ -2756,7 +2759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (7), finally, (1)
+> **Frameworks & Libraries:** [[SQL]] (3), data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), next (1)
 > **Env Vars:** sql (3), e172 (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** is a  (1)
@@ -2896,7 +2899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), finally, (2), type. (1), for. (1)
+> **Frameworks & Libraries:** next (17), data (4), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** lead (6), sql (2), where (1), select (1)
 > **Ports:** :33 (3), :22 (2), :13 (1)
 > **SQL:** where (1), select (1)
@@ -2908,7 +2911,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980)
@@ -2929,6 +2932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), data (2), [[Analytics]] (2), [[SQL]] (1), business (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - congrats (1)
 

@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript%20Practice-%20Object-Oriented%20Programming.md)
@@ -45,21 +45,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Object oriented programming in JavaScript
-  - What you should know
-  - Introduction to CoderPad
+  - [Object oriented programming in JavaScript](#object-oriented-programming-in-javascript)
+  - [What you should know](#what-you-should-know)
+  - [Introduction to CoderPad](#introduction-to-coderpad)
 - [**1. CoderPad Challenges**](#1-coderpad-challenges) (5 videos)
-  - Solution: Create a roster with functions
-  - Solution: Create a function with Object.create()
-  - Solution: Create a country with classes
-  - Solution: Create a class with get and set
-  - Solution: User/admin class with private properties
+  - [Solution: Create a roster with functions](#solution-create-a-roster-with-functions)
+  - [Solution: Create a function with Object.create()](#solution-create-a-function-with-objectcreate)
+  - [Solution: Create a country with classes](#solution-create-a-country-with-classes)
+  - [Solution: Create a class with get and set](#solution-create-a-class-with-get-and-set)
+  - [Solution: User/admin class with private properties](#solution-useradmin-class-with-private-properties)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Object oriented programming in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980)
@@ -76,7 +76,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), private (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Introduction to CoderPad
@@ -141,7 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), case. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), data (1), next (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -149,7 +150,7 @@ created: 2026-04-29
 
 ### 1. CoderPad Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Create a roster with functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980)
@@ -198,7 +199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), this. (2)
+> **Frameworks & Libraries:** [[JavaScript]] (1), next (1)
 > **Code Identifiers:** checkispassing (2), calculategpa (2), getgrades (1), getroster (1), foreach (1)
 > **Env Vars:** gpa (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -257,7 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), this. (3), pass (3), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Non-Speech:** (keyboard keys clicking) (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -285,7 +286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), class. (2), class, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** getoverview (1), setpopulation (1), newpopulation (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -319,7 +320,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), class, (1), class: (1), switch (1)
 > **Code Identifiers:** orderstatus (3), validfoodstatuses (2), foodstatus (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -386,7 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), private (6), pass (3), class. (2), extends (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** resetpassword (2), newpassword (2), updatepassword (2), isadmin (1), deleteuser (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -396,7 +396,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980)
@@ -419,7 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Vue.js|Vue]] (1), [[React.js|React]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

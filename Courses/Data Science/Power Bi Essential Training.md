@@ -28,7 +28,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20Bi%20Essential%20Training.md)
@@ -47,74 +47,74 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Get the competitive edge in business analysis with Power BI
-  - What you need for this course
+  - [Get the competitive edge in business analysis with Power BI](#get-the-competitive-edge-in-business-analysis-with-power-bi)
+  - [What you need for this course](#what-you-need-for-this-course)
 - [**1. Get Started with Power BI**](#1-get-started-with-power-bi) (3 videos)
-  - Overview: Power BI concepts
-  - Sign up for Power BI
-  - Navigating in the Power BI service
+  - [Overview: Power BI concepts](#overview-power-bi-concepts)
+  - [Sign up for Power BI](#sign-up-for-power-bi)
+  - [Navigating in the Power BI service](#navigating-in-the-power-bi-service)
 - [**2. Get Data**](#2-get-data) (8 videos)
-  - Power BI data sources for Power BI service
-  - Use the Power BI data hub
-  - Save files for use in Power BI
-  - Upload a CSV file
-  - Get data from an Excel workbook
-  - Create a new data set
-  - Load an app
-  - Upload a PBIX or Excel file
+  - [Power BI data sources for Power BI service](#power-bi-data-sources-for-power-bi-service)
+  - [Use the Power BI data hub](#use-the-power-bi-data-hub)
+  - [Save files for use in Power BI](#save-files-for-use-in-power-bi)
+  - [Upload a CSV file](#upload-a-csv-file)
+  - [Get data from an Excel workbook](#get-data-from-an-excel-workbook)
+  - [Create a new data set](#create-a-new-data-set)
+  - [Load an app](#load-an-app)
+  - [Upload a PBIX or Excel file](#upload-a-pbix-or-excel-file)
 - [**3. Create a Report with Visualizations**](#3-create-a-report-with-visualizations) (12 videos)
-  - Overview: Visualizations
-  - Use Copilot to learn about a report page
-  - Work with visualizations in a report
-  - Create a new report
-  - Create and arrange visualizations
-  - Save, report, and format visualizations
-  - Create chart visualizations
-  - Use map visualizations
-  - Use a slicer to filter visualizations
-  - Sort, copy, and paste visualizations
-  - Create a custom or Copilot narrative
-  - Create a new report with Copilot
+  - [Overview: Visualizations](#overview-visualizations)
+  - [Use Copilot to learn about a report page](#use-copilot-to-learn-about-a-report-page)
+  - [Work with visualizations in a report](#work-with-visualizations-in-a-report)
+  - [Create a new report](#create-a-new-report)
+  - [Create and arrange visualizations](#create-and-arrange-visualizations)
+  - [Save, report, and format visualizations](#save-report-and-format-visualizations)
+  - [Create chart visualizations](#create-chart-visualizations)
+  - [Use map visualizations](#use-map-visualizations)
+  - [Use a slicer to filter visualizations](#use-a-slicer-to-filter-visualizations)
+  - [Sort, copy, and paste visualizations](#sort-copy-and-paste-visualizations)
+  - [Create a custom or Copilot narrative](#create-a-custom-or-copilot-narrative)
+  - [Create a new report with Copilot](#create-a-new-report-with-copilot)
 - [**4. Modify and Print a Report**](#4-modify-and-print-a-report) (5 videos)
-  - Manage report pages
-  - Filter a page or report
-  - Set visualization interactions
-  - Print a report or report page
-  - Export slides to PowerPoint
+  - [Manage report pages](#manage-report-pages)
+  - [Filter a page or report](#filter-a-page-or-report)
+  - [Set visualization interactions](#set-visualization-interactions)
+  - [Print a report or report page](#print-a-report-or-report-page)
+  - [Export slides to PowerPoint](#export-slides-to-powerpoint)
 - [**5. Create a Dashboard**](#5-create-a-dashboard) (8 videos)
-  - Power BI dashboard: The basics
-  - Create a dashboard and pin a tile
-  - Pin a live report page to a dashboard
-  - Edit a dashboard
-  - Add a standalone tile to a dashboard
-  - Create a mobile view
-  - Ask a question with Power BI Q&A
-  - Use Lineage view
+  - [Power BI dashboard: The basics](#power-bi-dashboard-the-basics)
+  - [Create a dashboard and pin a tile](#create-a-dashboard-and-pin-a-tile)
+  - [Pin a live report page to a dashboard](#pin-a-live-report-page-to-a-dashboard)
+  - [Edit a dashboard](#edit-a-dashboard)
+  - [Add a standalone tile to a dashboard](#add-a-standalone-tile-to-a-dashboard)
+  - [Create a mobile view](#create-a-mobile-view)
+  - [Ask a question with Power BI Q&A](#ask-a-question-with-power-bi-qa)
+  - [Use Lineage view](#use-lineage-view)
 - [**6. Share Data with Colleagues and Others**](#6-share-data-with-colleagues-and-others) (9 videos)
-  - Overview: Sharing reports and dashboards
-  - Publish a report to a website or portal
-  - Embed a report in SharePoint Online
-  - Add a Power BI report tab to Microsoft Teams
-  - Share a dashboard or report
-  - Create a workspace for collaboration
-  - Add users to a workspace
-  - Use a workspace
-  - Publish an app
+  - [Overview: Sharing reports and dashboards](#overview-sharing-reports-and-dashboards)
+  - [Publish a report to a website or portal](#publish-a-report-to-a-website-or-portal)
+  - [Embed a report in SharePoint Online](#embed-a-report-in-sharepoint-online)
+  - [Add a Power BI report tab to Microsoft Teams](#add-a-power-bi-report-tab-to-microsoft-teams)
+  - [Share a dashboard or report](#share-a-dashboard-or-report)
+  - [Create a workspace for collaboration](#create-a-workspace-for-collaboration)
+  - [Add users to a workspace](#add-users-to-a-workspace)
+  - [Use a workspace](#use-a-workspace)
+  - [Publish an app](#publish-an-app)
 - [**7. Use Power BI Desktop to Model Data**](#7-use-power-bi-desktop-to-model-data) (8 videos)
-  - Install and launch Power BI Desktop
-  - Get data
-  - Use views
-  - Reduce data
-  - Transform data
-  - Tweak your dataset for Q&A
-  - Relate tables
-  - Get Power BI Desktop data with the Power BI service
+  - [Install and launch Power BI Desktop](#install-and-launch-power-bi-desktop)
+  - [Get data](#get-data)
+  - [Use views](#use-views)
+  - [Reduce data](#reduce-data)
+  - [Transform data](#transform-data)
+  - [Tweak your dataset for Q&A](#tweak-your-dataset-for-qa)
+  - [Relate tables](#relate-tables)
+  - [Get Power BI Desktop data with the Power BI service](#get-power-bi-desktop-data-with-the-power-bi-service)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn more about Power BI
+  - [Learn more about Power BI](#learn-more-about-power-bi)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get the competitive edge in business analysis with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/get-the-competitive-edge-in-business-analysis-with-power-bi?u=76281980)
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), bi (3), data (2), [[Microsoft]] (1), business (1)
 > **Speakers:** - [narrator] (1)
 
 #### What you need for this course
@@ -230,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), this, (1)
+> **Frameworks & Libraries:** power (29), bi (28), data (6), [[Microsoft Copilot|Copilot]] (6), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** ram (3), cpu (1), net (1)
 > **CLI Commands:** find (3), make (1)
 > **Versions:** 8.1 (1), 4.6.2 (1)
@@ -242,7 +243,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Power BI concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-power-bi-concepts?u=76281980)
@@ -311,7 +312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1), continue (1)
+> **Frameworks & Libraries:** bi (24), power (23), data (14), business (10), [[Business Intelligence (BI)|Business intelligence]] (4)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Env Vars:** sap (1), ibm (1)
 > **CLI Commands:** make (1)
@@ -388,7 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), continue (1), this, (1)
+> **Frameworks & Libraries:** power (13), bi (13), [[Microsoft 365]] (7), business (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [in.com](https://in.com) (1), [live.com](https://live.com) (1), [powerbi.com](https://powerbi.com) (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
@@ -527,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), interface (1), let (1), case, (1), from. (1)
+> **Frameworks & Libraries:** power (25), bi (21), [[Microsoft]] (5), [[Search]] (5), product (3)
 > **Definitions:** known as (1), is called (1), is a  (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -539,7 +540,7 @@ created: 2026-04-29
 
 ### 2. Get Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Power BI data sources for Power BI service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/power-bi-data-sources-for-power-bi-service?u=76281980)
@@ -578,8 +579,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11), bi (11), data (9), [[Microsoft Excel|Excel]] (3), [[Microsoft]] (2)
 > **Env Vars:** csv (3), pbix (1), sql (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -594,6 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Save files for use in Power BI
@@ -649,8 +651,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), business (4), power (4), bi (4), [[SharePoint]] (2)
 > **Exercise Files:** exercise files (4), download the (1)
-> **Code Keywords:** this, (3)
 > **UI Navigation:** go to (1), double-click (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -712,11 +714,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft OneDrive|Onedrive]] (7), business (2), power (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (9), gdp (3), bix (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** note that (1)
@@ -786,10 +788,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (6), power (2), bi (2), [[Microsoft OneDrive|Onedrive]] (1)
 > **Env Vars:** csv (5)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -865,7 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), finally, (1), type. (1), continue (1)
+> **Frameworks & Libraries:** data (19), [[Microsoft Word]] (6), [[Microsoft Power Query|Power query]] (5), power (3), bi (3)
 > **Env Vars:** zip (3), abc (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -930,7 +932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), this. (2), let (1), else. (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is called (1)
@@ -1002,9 +1004,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), bi (5), data (3), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4), scroll down (1), click on (1)
 > **Env Vars:** pbix (3)
-> **Code Keywords:** this. (1), import, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -1013,7 +1015,7 @@ created: 2026-04-29
 
 ### 3. Create a Report with Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Visualizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-visualizations?u=76281980)
@@ -1112,8 +1114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), power (3), bi (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (5), such as (2)
-> **Code Keywords:** switch (1), let (1), require (1)
 > **Env Vars:** kpi (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** switch to (1)
@@ -1207,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), data (3), next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -1369,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (2), switch (1), if, (1), return. (1)
+> **Frameworks & Libraries:** power (3), bi (3), [[Microsoft Excel|Excel]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3), means that (2), is called (1)
 > **UI Navigation:** checkbox (2), go to (2), click on (1)
@@ -1466,7 +1468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), default. (1), case, (1)
+> **Frameworks & Libraries:** power (2), bi (2), [[Microsoft Copilot|Copilot]] (2), data (2), next (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1628,7 +1630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), type, (1), default, (1), else. (1)
+> **Frameworks & Libraries:** data (9), power (2), bi (2), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1808,8 +1810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), power (1), bi (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (6)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (1)
@@ -1989,7 +1991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), require (1)
+> **Frameworks & Libraries:** data (12), power (6), bi (6), business (1), [[Pivot Tables]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), in other words (1), is called (1)
 > **Cross-References:** go back to (1)
@@ -2080,7 +2082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), for, (1), this, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** data (3), power (2), bi (2), next (1), [[Privacy]] (1)
 > **Definitions:** is called (2), is a  (2), known as (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Speakers:** - [instructor] (1)
@@ -2170,7 +2172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), next (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Cross-References:** go back to (2)
@@ -2242,7 +2244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), continue (1), super (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (3), power (1), bi (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -2336,7 +2338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), type. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), ai (1), data (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2415,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), type, (2), try, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), data (5)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2423,7 +2425,7 @@ created: 2026-04-29
 
 ### 4. Modify and Print a Report
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage report pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/manage-report-pages?u=76281980)
@@ -2476,7 +2478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8)
+> **Frameworks & Libraries:** next (1), hit (1)
 > **UI Navigation:** double-click (2), select the (1), right-click (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2575,7 +2577,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), delete (2)
 > **Analogies:** for example (2), think of it as (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -2703,7 +2704,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
-> **Code Keywords:** this. (1), let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2780,8 +2780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), bi (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (2), [[Windows]] (1)
 > **Env Vars:** pdf (9), ppd (1)
-> **Code Keywords:** export. (3), case, (1), this, (1), export, (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1), checkbox (1)
 > **Analogies:** for example (2)
@@ -2847,7 +2847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** export. (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), power (3), bi (3), data (3), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** pdf (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -2855,7 +2855,7 @@ created: 2026-04-29
 
 ### 5. Create a Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Power BI dashboard: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/power-bi-dashboard-the-basics?u=76281980)
@@ -2898,7 +2898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1)
+> **Frameworks & Libraries:** power (9), bi (9), [[Dashboards]] (6), functional (1), hit (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3001,7 +3001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (2), throw (1), pass (1), from. (1)
+> **Frameworks & Libraries:** data (3), [[JSON]] (3), teams (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Dashboards]] (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Env Vars:** json (3), csv (1)
 > **Definitions:** is a  (2), is called (1)
@@ -3121,7 +3121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), throw (1), this. (1), from. (1)
+> **Frameworks & Libraries:** data (4), [[Dashboards]] (2), next (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), open the (1), in the toolbar (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
@@ -3164,6 +3164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (1), power (1), bi (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** snap (1)
 > **Speakers:** - [instructor] (1)
@@ -3261,7 +3262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** web (1), cloud (1), [[SharePoint]] (1), [[Microsoft OneDrive|Onedrive]] (1), business (1)
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -3312,7 +3313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), delete (1)
+> **Frameworks & Libraries:** web (3), prompt (1), [[Android]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Cross-References:** go back to (1)
@@ -3419,7 +3420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), delete (1), throw (1), let (1)
+> **Frameworks & Libraries:** power (7), bi (7), [[Dashboards]] (4), [[Microsoft]] (3), data (2)
 > **Analogies:** just like (2), for example (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (2)
@@ -3483,7 +3484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), switch (1), type. (1)
+> **Frameworks & Libraries:** [[Dashboards]] (7), data (4), [[Microsoft Excel|Excel]] (1), hit (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** csv (1), sql (1)
 > **Cross-References:** earlier in (1), go back to (1)
 > **UI Navigation:** go to (1), switch to (1)
@@ -3494,7 +3495,7 @@ created: 2026-04-29
 
 ### 6. Share Data with Colleagues and Others
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Sharing reports and dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-sharing-reports-and-dashboards?u=76281980)
@@ -3547,9 +3548,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), bi (7), web (3), [[SharePoint]] (3), [[Dashboards]] (2)
 > **Cross-References:** in the next (2)
 > **Prerequisites:** you need to have (1), you'll need (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Publish a report to a website or portal
@@ -3577,6 +3578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** https (1), html (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -3687,7 +3689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), export. (1)
+> **Frameworks & Libraries:** power (8), [[SharePoint]] (7), bi (7), web (5), [[Dashboards]] (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
@@ -3730,7 +3732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), switch (1)
+> **Frameworks & Libraries:** teams (9), power (5), bi (5), [[SharePoint]] (3), [[Microsoft Teams]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** install (1)
@@ -3817,8 +3819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (4), power (3), bi (3), teams (3), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), let (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -3882,8 +3884,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), [[Dashboards]] (3), [[Analytics]] (3), next (1)
 > **Exercise Files:** template (3)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -3966,7 +3968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), case, (1), require (1)
+> **Frameworks & Libraries:** power (4), bi (4), [[Dashboards]] (2), next (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
@@ -4041,7 +4043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), let (1), import, (1), while, (1), this. (1)
+> **Frameworks & Libraries:** [[Analytics]] (6), data (3), next (2), [[Microsoft OneDrive|Onedrive]] (1), power (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -4174,7 +4176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), let (2), default. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Analytics]] (4), next (3), power (1), bi (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** jpeg (1)
@@ -4185,7 +4187,7 @@ created: 2026-04-29
 
 ### 7. Use Power BI Desktop to Model Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and launch Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/install-and-launch-power-bi-desktop?u=76281980)
@@ -4270,10 +4272,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (30), bi (29), data (27), [[Windows]] (3), [[Microsoft Power Query|Power query]] (3)
 > **Env Vars:** csv (2), pbix (1), odbc (1), ole (1)
 > **Prerequisites:** install (4)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** super (1), let (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** macos (1)
 > **Cross-References:** in the next (1)
@@ -4366,8 +4368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (12), bi (12), data (11), [[Search]] (1), [[SharePoint]] (1)
 > **UI Navigation:** checkbox (3), go to (2)
-> **Code Keywords:** new, (1), type. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -4455,7 +4457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), switch (1), delete (1)
+> **Frameworks & Libraries:** data (19), power (5), bi (5), next (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** exercise files (2)
@@ -4592,8 +4594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), power (3), bi (3), [[Microsoft Power Query|Power query]] (2), next (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** delete (2), continue (1), case, (1)
 > **Analogies:** for example (3), just like (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **Cross-References:** in the next (1)
@@ -4680,10 +4682,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), power (5), bi (5), [[Microsoft Power Query|Power query]] (3), next (2)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (1)
-> **Code Keywords:** this, (1), delete (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
 > **Warnings:** note that (1)
@@ -4890,8 +4892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (9), bi (9), data (9), [[Microsoft Excel|Excel]] (4), [[Dashboards]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (3), this. (2), delete (1)
 > **Definitions:** stands for (1), short for (1), is a  (1)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Analogies:** just like (1), for example (1)
@@ -5006,8 +5008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (7), bi (7), [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** go to (3), click on (1), drag and drop (1)
-> **Code Keywords:** let (2), this, (2)
 > **CLI Commands:** make (3)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is called (1)
@@ -5046,6 +5048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), bi (6), data (3), [[Microsoft OneDrive|Onedrive]] (1), game (1)
 > **Env Vars:** pbi (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -5054,7 +5057,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more about Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/learn-more-about-power-bi?u=76281980)
@@ -5089,8 +5092,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), bi (8), [[LinkedIn]] (3), data (3), [[Microsoft Copilot|Copilot]] (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** dax (1)
 > **Cross-References:** we talked about (1)

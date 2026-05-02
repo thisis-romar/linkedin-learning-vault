@@ -32,7 +32,7 @@ tags:
   - skill/c
   - skill/unity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Scripting%20with%20C-.md)
@@ -51,36 +51,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Scripting with C# in Unity
-  - Companion files
+  - [Scripting with C# in Unity](#scripting-with-c-in-unity)
+  - [Companion files](#companion-files)
 - [**1. Script Files and C#**](#1-script-files-and-c) (5 videos)
-  - Creating C# files
-  - Configuring the code editor
-  - Printing to the console
-  - Components
-  - Start, awake and update
+  - [Creating C# files](#creating-c-files)
+  - [Configuring the code editor](#configuring-the-code-editor)
+  - [Printing to the console](#printing-to-the-console)
+  - [Components](#components)
+  - [Start, awake and update](#start-awake-and-update)
 - [**2. Coding with Unity**](#2-coding-with-unity) (5 videos)
-  - Timed behaviors
-  - Triggers and events
-  - Vectors
-  - Quaternions
-  - Reading user input
+  - [Timed behaviors](#timed-behaviors)
+  - [Triggers and events](#triggers-and-events)
+  - [Vectors](#vectors)
+  - [Quaternions](#quaternions)
+  - [Reading user input](#reading-user-input)
 - [**3. AI and State Machines**](#3-ai-and-state-machines) (4 videos)
-  - Designing a state machine
-  - Building a navigation mesh
-  - Testing navigation
-  - Working with agents and obstacles
+  - [Designing a state machine](#designing-a-state-machine)
+  - [Building a navigation mesh](#building-a-navigation-mesh)
+  - [Testing navigation](#testing-navigation)
+  - [Working with agents and obstacles](#working-with-agents-and-obstacles)
 - [**4. Completing the AI Project**](#4-completing-the-ai-project) (4 videos)
-  - Creating the Patrol state
-  - Creating the Chase state
-  - Creating the Attack state
-  - Optimzing the FSM
+  - [Creating the Patrol state](#creating-the-patrol-state)
+  - [Creating the Chase state](#creating-the-chase-state)
+  - [Creating the Attack state](#creating-the-attack-state)
+  - [Optimzing the FSM](#optimzing-the-fsm)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scripting with C# in Unity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980)
@@ -105,8 +105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (3), [[Scripting]] (1), [[LinkedIn]] (1), game (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Companion files
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - if (1)
@@ -139,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Script Files and C#
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating C# files
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-c-sharp-files?u=76281980)
@@ -192,10 +193,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (2), [[Unity]] (2), next (1)
 > **Prerequisites:** you'll need (3), getting started (1), configure (1)
 > **UI Navigation:** click on (1), open the (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the next (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - in (1)
@@ -271,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (5), [[Windows]] (2), application (2), [[Scripting]] (1), next (1)
 > **Tools:** visual studio (12)
-> **Code Keywords:** function (1), let (1), this, (1), default, (1), interface (1)
 > **UI Navigation:** click on (1), dropdown (1), select the (1), double-click (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -395,7 +396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4), case, (2), interface (1), switch (1)
+> **Frameworks & Libraries:** [[Unity]] (15), game (7), hit (2), data (1), [[Microsoft Products|Products]] (1)
 > **Cross-References:** go back to (6)
 > **UI Navigation:** drag and drop (2), select the (1), switch to (1), double-click (1)
 > **Tools:** visual studio (3)
@@ -583,8 +584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (10), game (9), hit (4), next (2), application (1)
 > **UI Navigation:** checkbox (6), open the (2), click on (2), select the (2), dropdown (1)
-> **Code Keywords:** let (7), function (4), case, (1), switch (1)
 > **CLI Commands:** find (8), make (1)
 > **Cross-References:** go back to (5), in the next (2)
 > **Tools:** visual studio (7)
@@ -749,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), private (3), switch (2), default, (1)
+> **Frameworks & Libraries:** game (7), [[Unity]] (5), [[Zoom]] (2), [[Scripting]] (1)
 > **UI Navigation:** double-click (2), select the (2), go to (2), scroll down (1), right-click (1)
 > **Tools:** visual studio (4)
 > **Analogies:** for example (2), kind of like (1), just like (1)
@@ -761,7 +762,7 @@ created: 2026-04-29
 
 ### 2. Coding with Unity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Timed behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/timed-behaviors?u=76281980)
@@ -962,7 +963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), case, (4), public (3), interface (2)
+> **Frameworks & Libraries:** [[Unity]] (6), next (5), game (1)
 > **UI Navigation:** select the (3), scroll down (2), drag and drop (2), switch to (1), go to (1)
 > **CLI Commands:** make (5), find (3)
 > **Cross-References:** go back to (3), previous chapter (1), in the next (1)
@@ -1220,7 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), case, (3), switch (1), pass (1)
+> **Frameworks & Libraries:** [[Unity]] (8), next (5), hit (4), game (3), [[Zoom]] (1)
 > **UI Navigation:** select the (3), click on (3), checkbox (3), drag and drop (2), dropdown (1)
 > **Tools:** visual studio (3)
 > **CLI Commands:** make (2)
@@ -1370,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), this, (1), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Unity]] (7), game (4), next (2), [[Microsoft Word|Word]] (1), hit (1)
 > **CLI Commands:** make (10)
 > **UI Navigation:** select the (3), go to (1), drag and drop (1), switch to (1)
 > **Analogies:** for example (3), kind of like (1)
@@ -1494,7 +1495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (4), let (2), this, (2), private (2)
+> **Frameworks & Libraries:** [[Unity]] (4), game (1), next (1)
 > **UI Navigation:** select the (5), go to (1), right-click (1), drag and drop (1), double-click (1)
 > **Definitions:** is an  (3), is a  (2)
 > **CLI Commands:** make (3)
@@ -1658,7 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), public (3), default, (3), this, (2)
+> **Frameworks & Libraries:** [[Unity]] (3), next (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Tools:** visual studio (2)
 > **UI Navigation:** select the (1), drag and drop (1)
@@ -1670,7 +1671,7 @@ created: 2026-04-29
 
 ### 3. AI and State Machines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing a state machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980)
@@ -1773,7 +1774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), public (1), enum (1)
+> **Frameworks & Libraries:** ai (7), next (4), [[Unity]] (4), game (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2), next chapter (1), in the next (1)
 > **UI Navigation:** drag and drop (2), select the (1), click on (1)
@@ -1871,7 +1872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), static (4), pass (1), let (1), switch (1)
+> **Frameworks & Libraries:** ai (4), [[Mesh]] (3), next (3), feature (1)
 > **Env Vars:** npc (5)
 > **CLI Commands:** make (3)
 > **UI Navigation:** drag and drop (1), select the (1), switch to (1)
@@ -2051,7 +2052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), type, (1), private (1), case, (1)
+> **Frameworks & Libraries:** [[Mesh]] (9), ai (8), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Cross-References:** go back to (2)
@@ -2111,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (1), switch (1), this, (1), pass (1)
+> **Frameworks & Libraries:** [[Mesh]] (12), game (1)
 > **Env Vars:** nav (5), caav (1), mpc (1)
 > **UI Navigation:** switch to (1), open the (1)
 > **CLI Commands:** make (1)
@@ -2120,7 +2121,7 @@ created: 2026-04-29
 
 ### 4. Completing the AI Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the Patrol state
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-patrol-state?u=76281980)
@@ -2363,8 +2364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), ai (4), game (2), [[Unity]] (2)
 > **Env Vars:** npc (19), aistatepatrol (1)
-> **Code Keywords:** this, (2), let (2), function (2), yield (2), case, (1)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** select the (3), double-click (2), click on (2), right-click (1)
 > **Cross-References:** go back to (4), in the next (2), previous chapter (1)
@@ -2525,7 +2526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), switch (5), let (4), public (3), yield (3)
+> **Frameworks & Libraries:** ai (4), next (2), game (2), [[Unity]] (1)
 > **Env Vars:** npc (9), aistate (5), chase (3), patrol (1), attack (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** select the (2), click on (1), scroll down (1)
@@ -2617,7 +2618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), yield (2), break. (1), continue (1)
+> **Frameworks & Libraries:** ai (2), [[Mesh]] (2), [[Unity]] (1), hit (1)
 > **Env Vars:** npc (10), naf (2)
 > **UI Navigation:** go to (1), click on (1), switch to (1)
 > **CLI Commands:** make (1)
@@ -2703,7 +2704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), public (4), private (4), case, (2), let (2)
+> **Frameworks & Libraries:** ai (2), [[Unity]] (1)
 > **Env Vars:** aistate (3), patrol (2), chase (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2715,7 +2716,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980)
@@ -2750,6 +2751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (7), [[Scripting]] (5), [[LinkedIn]] (2), next (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (1)
 > **Documentation:** api reference (1)
 > **Analogies:** such as (1)

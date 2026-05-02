@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20C-.md)
@@ -50,49 +50,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - An introduction to learning C#
-  - What you should know
-  - Setting up your environment
-  - How to run the examples
-  - CoderPad Challenges
+  - [An introduction to learning C#](#an-introduction-to-learning-c)
+  - [What you should know](#what-you-should-know)
+  - [Setting up your environment](#setting-up-your-environment)
+  - [How to run the examples](#how-to-run-the-examples)
+  - [CoderPad Challenges](#coderpad-challenges)
 - [**1. Overview of C#**](#1-overview-of-c) (4 videos)
-  - Hello World C#
-  - Variables and data types
-  - Operators
-  - Writing C# comments
+  - [Hello World C#](#hello-world-c)
+  - [Variables and data types](#variables-and-data-types)
+  - [Operators](#operators)
+  - [Writing C# comments](#writing-c-comments)
 - [**2. C# Program Flow**](#2-c-program-flow) (6 videos)
-  - Conditionals with "if"
-  - Conditionals with "switch"
-  - For loops
-  - While loops
-  - Using break and continue
-  - Exceptions
+  - [Conditionals with "if"](#conditionals-with-if)
+  - [Conditionals with "switch"](#conditionals-with-switch)
+  - [For loops](#for-loops)
+  - [While loops](#while-loops)
+  - [Using break and continue](#using-break-and-continue)
+  - [Exceptions](#exceptions)
 - [**3. C# Strings**](#3-c-strings) (6 videos)
-  - String operations
-  - String formatting
-  - String interpolation
-  - Using StringBuilder
-  - String parsing
-  - Solution: Count the data types
+  - [String operations](#string-operations)
+  - [String formatting](#string-formatting)
+  - [String interpolation](#string-interpolation)
+  - [Using StringBuilder](#using-stringbuilder)
+  - [String parsing](#string-parsing)
+  - [Solution: Count the data types](#solution-count-the-data-types)
 - [**4. C# Functions**](#4-c-functions) (5 videos)
-  - Function basics
-  - Named and default parameters
-  - Reference and out parameters
-  - Returning multiple values
-  - Solution: Palindrome
+  - [Function basics](#function-basics)
+  - [Named and default parameters](#named-and-default-parameters)
+  - [Reference and out parameters](#reference-and-out-parameters)
+  - [Returning multiple values](#returning-multiple-values)
+  - [Solution: Palindrome](#solution-palindrome)
 - [**5. Object-Oriented C#**](#5-object-oriented-c) (6 videos)
-  - Defining C# classes
-  - Access modifiers
-  - Defining properties
-  - Inheritance
-  - String representation
-  - Solution: Bank
+  - [Defining C# classes](#defining-c-classes)
+  - [Access modifiers](#access-modifiers)
+  - [Defining properties](#defining-properties)
+  - [Inheritance](#inheritance)
+  - [String representation](#string-representation)
+  - [Solution: Bank](#solution-bank)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to learning C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/an-introduction-to-learning-c-sharp?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), data (2), power (1)
 > **Env Vars:** net (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
@@ -152,8 +153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Programming Foundations]] (2), [[Programming Concepts]] (1)
 > **Tools:** terminal (1), command line (1), visual studio (1), vs code (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -219,11 +220,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[Microsoft]] (1), web (1), [[Search]] (1)
 > **Env Vars:** net (22), sdk (5), ide (2)
 > **Tools:** visual studio (4), terminal (3)
 > **Prerequisites:** install (5), you'll need (2)
 > **Versions:** 5.0 (4), 5.0.103 (1)
-> **Code Keywords:** let (2), for . (1), type . (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [install.net](https://install.net) (1), [visualstudio.com](https://visualstudio.com) (1)
 > **Exercise Files:** download the (3)
@@ -325,8 +326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Windows]] (1), prompt (1), [[Linux]] (1), next (1)
 > **Tools:** terminal (7), vs code (3), command line (2), command prompt (1), visual studio (1)
-> **Code Keywords:** let (4), type . (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (1)
 > **URLs:** [command.net](https://command.net) (1)
@@ -401,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), function (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (4), scroll up (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -410,7 +411,7 @@ created: 2026-04-29
 
 ### 1. Overview of C#
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello World C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980)
@@ -529,7 +530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (3), interface (1), return, (1), finally, (1)
+> **Frameworks & Libraries:** next (3), application (2), [[Software Development]] (1), hit (1), [[Microsoft Word|Word]] (1)
 > **Tools:** terminal (8), visual studio (1), command line (1)
 > **Env Vars:** net (7)
 > **Cross-References:** go back to (3), later in (1)
@@ -717,7 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (4), this. (3), this, (3), type, (2)
+> **Frameworks & Libraries:** data (7), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), dotnet (2), python (1)
 > **Tools:** terminal (5)
 > **Code Identifiers:** i_to_f (2), f_to_i (2)
@@ -903,7 +904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (2), type . (1), else, (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** terminal (6)
 > **Analogies:** for example (5)
 > **Non-Speech:** (keyboard typing) (5)
@@ -1057,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), continue (2), this. (2), case, (1)
+> **Frameworks & Libraries:** application (3)
 > **Env Vars:** xml (8), xnl (1)
 > **Documentation:** the documentation (7), the docs (1)
 > **CLI Commands:** make (3), dotnet (2), find (1)
@@ -1069,7 +1070,7 @@ created: 2026-04-29
 
 ### 2. C# Program Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditionals with "if"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/conditionals-with-if?u=76281980)
@@ -1182,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (4), else, (4), else. (3), this, (2)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** theval (19)
 > **CLI Commands:** make (3), dotnet (2)
 > **Tools:** terminal (3)
@@ -1294,7 +1295,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (9), let (7), this. (6), case, (2), else. (2)
 > **Code Identifiers:** theval (6)
 > **CLI Commands:** make (2)
 > **Tools:** terminal (1)
@@ -1447,7 +1447,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (1), case, (1)
 > **Tools:** terminal (5)
 > **Code Identifiers:** myval (4)
 > **Cross-References:** go back to (1)
@@ -1525,7 +1524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), while, (2), function (1), try. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Tools:** terminal (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -1615,7 +1614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (5), this. (3), break. (2), for. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), next (1), [[Algorithms]] (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1746,7 +1745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), throw (2), try. (1), case, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), generic (1)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (4)
 > **Analogies:** just like (2)
@@ -1756,7 +1755,7 @@ created: 2026-04-29
 
 ### 3. C# Strings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### String operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980)
@@ -1983,7 +1982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (17), class. (3), this. (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (2), data (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Analogies:** for example (6), just like (2)
 > **CLI Commands:** cat (2), find (1), python (1), dotnet (1), make (1)
 > **Definitions:** is a  (3), means that (2), is called (1)
@@ -2143,7 +2142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), similar to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2274,7 +2273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (4)
+> **Frameworks & Libraries:** feature (2), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2), imagine (1)
@@ -2440,7 +2439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (4), pass (3), this. (2), return. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), feature (1)
 > **CLI Commands:** make (5), cat (2)
 > **Tools:** terminal (3)
 > **Analogies:** for example (2), just like (1)
@@ -2628,7 +2627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (10), this. (5), throw (2), case, (2)
+> **Frameworks & Libraries:** data (6), generic (1), feature (1)
 > **Code Identifiers:** targetnum (5), numstr4 (3), numstr1 (2), numstr3 (2), numstr2 (1)
 > **Definitions:** is a  (6), is an  (1), means that (1)
 > **Versions:** 1.235 (2), 1.24 (1)
@@ -2643,7 +2642,7 @@ created: 2026-04-29
 
 ### 4. C# Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Function basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980)
@@ -2720,7 +2719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), type. (1), case, (1), type, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** dotnet (1), find (1)
 > **Versions:** 8.0 (1), 52.0 (1)
 > **UI Navigation:** open the (2)
@@ -2810,7 +2809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (7), pass (7), this. (2)
+> **Frameworks & Libraries:** feature (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** writeline (1)
 > **Tools:** terminal (1)
@@ -2934,7 +2933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), let (14), this. (3), pass (1), static (1)
+> **Frameworks & Libraries:** product (4), data (1)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (1)
 > **Best Practices:** recommended (1)
@@ -3021,7 +3020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (7), this. (4), type. (1), var (1)
+> **Frameworks & Libraries:** data (3), product (2), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1), previous video (1)
 > **Exercise Files:** sample code (1)
@@ -3098,7 +3097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3106,7 +3105,7 @@ created: 2026-04-29
 
 ### 5. Object-Oriented C#
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining C# classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980)
@@ -3209,7 +3208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class. (4), function (4), public (3), class, (1)
+> **Frameworks & Libraries:** data (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Programming]] (1), feature (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
@@ -3356,7 +3355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), public (10), function (8), private (5), protected (4)
+> **Frameworks & Libraries:** data (4), [[Programming]] (2), feature (1)
 > **CLI Commands:** make (7)
 > **Definitions:** means that (3), is a  (1)
 > **Tools:** terminal (2), vs code (1)
@@ -3505,7 +3504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), let (9), private (4), case, (3), this. (3)
+> **Frameworks & Libraries:** data (8), application (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** isbn (3)
 > **UI Navigation:** go to (2)
@@ -3627,7 +3626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), class, (3), class. (3), override (3), public (2)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** imagine (1), such as (1)
@@ -3757,7 +3756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (10), class. (8), override (8), class, (3)
+> **Frameworks & Libraries:** data (1)
 > **Cross-References:** go back to (3), earlier in (1)
 > **CLI Commands:** find (2), make (1)
 > **Documentation:** the documentation (2), the docs (1)
@@ -3849,7 +3848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (2), public (2), finally, (2), class. (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
@@ -3858,7 +3857,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980)
@@ -3887,8 +3886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), next (1), [[Microsoft]] (1), web (1), [[ASP.NET]] (1)
 > **Env Vars:** net (3), ide (1), asp (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **Tools:** visual studio (2)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [joe] (1)

@@ -11,7 +11,7 @@ tags:
   - instructor
   - topic/database-management
   - topic/devops
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Database%20Management/Dave%20Swersky.md)

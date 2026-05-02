@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/probability
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Probability.md)
@@ -56,46 +56,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Probability for machine learning
-  - What you should know
+  - [Probability for machine learning](#probability-for-machine-learning)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Probability**](#1-introduction-to-probability) (5 videos)
-  - Defining probability
-  - Applications of probability in ML
-  - Sample space and events
-  - Random variables
-  - Examples of probability
+  - [Defining probability](#defining-probability)
+  - [Applications of probability in ML](#applications-of-probability-in-ml)
+  - [Sample space and events](#sample-space-and-events)
+  - [Random variables](#random-variables)
+  - [Examples of probability](#examples-of-probability)
 - [**2. The Rules of Probability**](#2-the-rules-of-probability) (6 videos)
-  - Probability of an event
-  - The sum rule
-  - The product rule
-  - The sum rule extended
-  - Conditional probability
-  - Total probability
+  - [Probability of an event](#probability-of-an-event)
+  - [The sum rule](#the-sum-rule)
+  - [The product rule](#the-product-rule)
+  - [The sum rule extended](#the-sum-rule-extended)
+  - [Conditional probability](#conditional-probability)
+  - [Total probability](#total-probability)
 - [**3. The Joint and Marginal Probability**](#3-the-joint-and-marginal-probability) (3 videos)
-  - Joint and marginal probability
-  - Joint probability tables
-  - The chain rule for probability
+  - [Joint and marginal probability](#joint-and-marginal-probability)
+  - [Joint probability tables](#joint-probability-tables)
+  - [The chain rule for probability](#the-chain-rule-for-probability)
 - [**4. Discrete Probability Distributions**](#4-discrete-probability-distributions) (6 videos)
-  - Probability distributions
-  - Histograms and probability
-  - Discrete probability distribution
-  - The binomial distribution
-  - The Bernoulli distribution
-  - The Poisson distribution
+  - [Probability distributions](#probability-distributions)
+  - [Histograms and probability](#histograms-and-probability)
+  - [Discrete probability distribution](#discrete-probability-distribution)
+  - [The binomial distribution](#the-binomial-distribution)
+  - [The Bernoulli distribution](#the-bernoulli-distribution)
+  - [The Poisson distribution](#the-poisson-distribution)
 - [**5. Continuous Probability Distributions**](#5-continuous-probability-distributions) (3 videos)
-  - The continuous probability distribution
-  - Central limit theorem
-  - The law of large numbers
+  - [The continuous probability distribution](#the-continuous-probability-distribution)
+  - [Central limit theorem](#central-limit-theorem)
+  - [The law of large numbers](#the-law-of-large-numbers)
 - [**6. The Bayes' Theorem**](#6-the-bayes-theorem) (3 videos)
-  - Introduction to Bayes' theorem
-  - Example of Bayes' theorem in practice
-  - Naive Bayes' clasifier
+  - [Introduction to Bayes' theorem](#introduction-to-bayes-theorem)
+  - [Example of Bayes' theorem in practice](#example-of-bayes-theorem-in-practice)
+  - [Naive Bayes' clasifier](#naive-bayes-clasifier)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (4), data (1), ai (1)
 > **Env Vars:** crm (1)
 > **Analogies:** such as (1)
 > **Speakers:** - do (1)
@@ -147,6 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linear Algebra]] (2), [[Calculus]] (2), [[Probability]] (2), [[Programming]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Tools:** jupyter (3)
 > **Versions:** python 3 (1)
@@ -155,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Probability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980)
@@ -206,9 +208,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (20), data (1), express (1)
 > **Analogies:** for example (3), think of it as (1)
 > **Versions:** 0.9 (2), 0.1 (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - you (1)
 
 #### Applications of probability in ML
@@ -262,7 +264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), continue (1)
+> **Frameworks & Libraries:** [[Probability]] (7), data (3), [[Algorithms]] (2), [[Logistic Regression]] (1), [[Linear Regression]] (1)
 > **Env Vars:** mle (2), usa (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -333,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Probability]] (11), feature (2)
 > **Definitions:** is called (2), is a  (1), defined as (1)
 > **Versions:** 0.5 (1), 0.167 (1)
 > **Speakers:** - [instructor] (1)
@@ -407,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Probability]] (9), feature (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -516,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (1), class, (1), class. (1)
+> **Frameworks & Libraries:** [[Probability]] (10), next (1)
 > **CLI Commands:** make (3), find (2)
 > **Versions:** 0.0357 (2), 0.000198 (1), 0.02 (1), 3.57 (1)
 > **Analogies:** for example (1), similar to (1)
@@ -525,7 +527,7 @@ created: 2026-04-29
 
 ### 2. The Rules of Probability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability of an event
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980)
@@ -588,7 +590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Probability]] (18), ai (3)
 > **Versions:** 0.5 (2), 0.83 (1), 0.875 (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -628,6 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (9), [[Programming Foundations]] (1), product (1)
 > **CLI Commands:** find (3)
 > **Versions:** 0.33 (1)
 > **Definitions:** stands for (1)
@@ -683,9 +686,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (4), product (3), [[Statistics]] (2)
 > **CLI Commands:** cat (6), find (1)
 > **Versions:** 0.028 (1), 2.8 (1), 0.7 (1), 0.007 (1), 0.30 (1)
-> **Code Keywords:** let (3)
 > **Speakers:** - [instructor] (1)
 
 #### The sum rule extended
@@ -725,9 +728,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Java]] (7), [[Probability]] (4)
 > **Versions:** 0.4 (1), 0.3 (1), 0.12 (1), 0.58 (1), 0.6 (1)
 > **CLI Commands:** python (7)
-> **Code Keywords:** let (2), case, (1), class, (1), match, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -780,8 +783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (16), [[LinkedIn]] (4)
 > **Versions:** 0.35 (2), 0.03 (2), 0.3 (1), 0.0857 (1), 8.6 (1)
-> **Code Keywords:** let (3)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -858,16 +861,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (14), [[Google]] (13), [[Python (Programming Language)|Python]] (12), bi (7), [[Microsoft]] (6)
 > **CLI Commands:** python (12), find (3)
 > **Versions:** 0.33 (2), 0.42 (2), 0.25 (2), 0.14 (1), 0.21 (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. The Joint and Marginal Probability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Joint and marginal probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980)
@@ -902,9 +905,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (13), product (1)
 > **Versions:** 0.05 (1), 0.2 (1), 0.25 (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -959,8 +962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (11), data (2)
 > **Versions:** 0.40 (2), 0.16 (2), 0.76 (1), 0.52 (1)
-> **Code Keywords:** let (1), type, (1), case, (1), this, (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
@@ -1024,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Probability]] (12), product (2), ai (1)
 > **Versions:** 0.5893 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1032,7 +1035,7 @@ created: 2026-04-29
 
 ### 4. Discrete Probability Distributions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability distributions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980)
@@ -1075,7 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** [[Probability]] (9), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -1136,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (6), [[Probability]] (1)
 > **Definitions:** is called (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -1180,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** [[Probability]] (8), data (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Env Vars:** pmf (3)
 > **Analogies:** for example (2)
 > **Versions:** 1.0 (1)
@@ -1247,8 +1250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (16), power (6), management (1), product (1)
 > **Versions:** 0.95 (5), 91.3 (3), 0.0625 (2), 0.075 (2), 0.315 (2)
-> **Code Keywords:** let (2), case, (1), for. (1)
 > **Definitions:** is called (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1294,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), pass (2), let (1)
+> **Frameworks & Libraries:** [[Probability]] (6), power (4)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** we call this (1)
@@ -1339,7 +1342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), let (1)
+> **Frameworks & Libraries:** [[Probability]] (8), power (2), [[Microsoft Products|Products]] (2), product (1)
 > **Versions:** 0.05 (2), 2.718 (1), 0.265 (1), 26.5 (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1349,7 +1352,7 @@ created: 2026-04-29
 
 ### 5. Continuous Probability Distributions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The continuous probability distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980)
@@ -1414,7 +1417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2)
+> **Frameworks & Libraries:** [[Probability]] (18), [[Software Development]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (2), cdf (2), ppf (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1485,7 +1488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this. (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (1), [[Electronics]] (1), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (3), imagine (1)
 > **Versions:** 523.47 (1), 144.12 (1), 879.46 (1)
@@ -1520,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** power (2), [[Probability]] (1)
 > **Versions:** 12.5 (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -1529,7 +1532,7 @@ created: 2026-04-29
 
 ### 6. The Bayes' Theorem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Bayes' theorem
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980)
@@ -1614,7 +1617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Probability]] (12), [[ChatGPT]] (4)
 > **Versions:** 0.45 (2), 0.08 (2), 0.15 (1), 0.24 (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** gpt (1)
@@ -1670,8 +1673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (7), [[Probability]] (5), next (1)
 > **Versions:** 0.45 (3), 0.009 (3), 0.438 (2), 43.8 (2), 0.302 (2)
-> **Code Keywords:** let (4), case, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1715,15 +1718,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (9), product (3), feature (2)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is a  (1), known as (1), is called (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [teacher] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980)
@@ -1752,7 +1755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Programming]] (1), [[Search]] (1), [[LinkedIn]] (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -38,7 +38,7 @@ tags:
   - skill/microsoft-excel
   - skill/logistic-regression
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Machine%20Learning%20with%20Logistic%20Regression%20in%20Excel%2C%20R%2C%20and%20Power%20BI.md)
@@ -57,55 +57,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Apply logistic regressions to solve problems
-  - What you should know
-  - Introduction to the course project
-  - Configuring the Excel Solver Add-in
-  - Working with R
-  - Configuring R in Power BI
+  - [Apply logistic regressions to solve problems](#apply-logistic-regressions-to-solve-problems)
+  - [What you should know](#what-you-should-know)
+  - [Introduction to the course project](#introduction-to-the-course-project)
+  - [Configuring the Excel Solver Add-in](#configuring-the-excel-solver-add-in)
+  - [Working with R](#working-with-r)
+  - [Configuring R in Power BI](#configuring-r-in-power-bi)
 - [**1. Distributions and Probabilities**](#1-distributions-and-probabilities) (6 videos)
-  - Introducing AI and logistic regression
-  - Differentiating between odds and probabilities
-  - Differentiating between distributions
-  - Calculating logs and exponents
-  - Sigmoid curve
-  - Utilizing training and testing data sets
+  - [Introducing AI and logistic regression](#introducing-ai-and-logistic-regression)
+  - [Differentiating between odds and probabilities](#differentiating-between-odds-and-probabilities)
+  - [Differentiating between distributions](#differentiating-between-distributions)
+  - [Calculating logs and exponents](#calculating-logs-and-exponents)
+  - [Sigmoid curve](#sigmoid-curve)
+  - [Utilizing training and testing data sets](#utilizing-training-and-testing-data-sets)
 - [**2. Binomial Logistic Regression**](#2-binomial-logistic-regression) (9 videos)
-  - Calculating linear regression
-  - Working with the logit model
-  - Calculating log likelihood
-  - Constructing MLE
-  - Solving MLE
-  - Predicting outcomes
-  - Visualizing logistic regression
-  - Challenge: Calculating logistic regression
-  - Solution: Calculating logistic regression
+  - [Calculating linear regression](#calculating-linear-regression)
+  - [Working with the logit model](#working-with-the-logit-model)
+  - [Calculating log likelihood](#calculating-log-likelihood)
+  - [Constructing MLE](#constructing-mle)
+  - [Solving MLE](#solving-mle)
+  - [Predicting outcomes](#predicting-outcomes)
+  - [Visualizing logistic regression](#visualizing-logistic-regression)
+  - [Challenge: Calculating logistic regression](#challenge-calculating-logistic-regression)
+  - [Solution: Calculating logistic regression](#solution-calculating-logistic-regression)
 - [**3. Fine-Tuning the Model**](#3-fine-tuning-the-model) (7 videos)
-  - Adding more independent variables
-  - Transforming variables
-  - Calculating correlations
-  - Using statistics
-  - Configuring confusion tables
-  - Challenge: Fine-tuning the model
-  - Solution: Fine-tuning the model
+  - [Adding more independent variables](#adding-more-independent-variables)
+  - [Transforming variables](#transforming-variables)
+  - [Calculating correlations](#calculating-correlations)
+  - [Using statistics](#using-statistics)
+  - [Configuring confusion tables](#configuring-confusion-tables)
+  - [Challenge: Fine-tuning the model](#challenge-fine-tuning-the-model)
+  - [Solution: Fine-tuning the model](#solution-fine-tuning-the-model)
 - [**4. Multinomial Regression**](#4-multinomial-regression) (5 videos)
-  - Calculating odds for multinomial models
-  - Calculating probabilities for multinomial models
-  - Calculating multinomial log likelihoods
-  - Running MLE
-  - Making the predictions
+  - [Calculating odds for multinomial models](#calculating-odds-for-multinomial-models)
+  - [Calculating probabilities for multinomial models](#calculating-probabilities-for-multinomial-models)
+  - [Calculating multinomial log likelihoods](#calculating-multinomial-log-likelihoods)
+  - [Running MLE](#running-mle)
+  - [Making the predictions](#making-the-predictions)
 - [**5. Working in Power BI with R**](#5-working-in-power-bi-with-r) (5 videos)
-  - Running R scripts in the Power Query Editor
-  - Running R standard visuals
-  - Interacting between visual components
-  - Challenge: Moving into Power BI
-  - Solution: Moving into Power BI
+  - [Running R scripts in the Power Query Editor](#running-r-scripts-in-the-power-query-editor)
+  - [Running R standard visuals](#running-r-standard-visuals)
+  - [Interacting between visual components](#interacting-between-visual-components)
+  - [Challenge: Moving into Power BI](#challenge-moving-into-power-bi)
+  - [Solution: Moving into Power BI](#solution-moving-into-power-bi)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with logistic regressions
+  - [Next steps with logistic regressions](#next-steps-with-logistic-regressions)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply logistic regressions to solve problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980)
@@ -130,6 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Logistic Regression]] (4), [[Microsoft Excel|Excel]] (2), power (2), bi (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [helen] (1)
 
@@ -156,6 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), power (2), bi (2), data (1), application (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -200,9 +202,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), game (6), [[Microsoft Excel|Excel]] (1), power (1), bi (1)
 > **UI Navigation:** navigate to (3), dropdown (1), click on (1)
 > **Env Vars:** espn (2), csv (1)
-> **Code Keywords:** let (1), for. (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -243,6 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (4), [[Logistic Regression]] (2), hit (1), [[Search]] (1)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** install (2)
 > **Speakers:** - we (1)
@@ -330,9 +333,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (9), bi (9), [[RStudio]] (8), cloud (3), hit (3)
 > **UI Navigation:** scroll down (2), select the (2), click on (1), open the (1)
 > **Versions:** 3.4.4 (2), version 3 (1), 4.4 (1), 4.1.1 (1)
-> **Code Keywords:** case. (1), public (1), case, (1), let (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** ide (2), cran (1)
 > **Warnings:** note that (2), be careful (1)
@@ -398,6 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (23), bi (23), [[Microsoft]] (3), data (3), cloud (2)
 > **Prerequisites:** install (3), you'll need (2), set up (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -409,7 +413,7 @@ created: 2026-04-29
 
 ### 1. Distributions and Probabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing AI and logistic regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980)
@@ -452,6 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (9), data (5), ai (3), [[Algorithms]] (3), [[Statistics]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -509,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (17), [[Statistics]] (3), data (2)
 > **Versions:** 0.9 (2), 0.1 (2)
-> **Code Keywords:** let (2), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Differentiating between distributions
@@ -552,9 +557,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Logistic Regression]] (2), [[Probability]] (1)
 > **Versions:** 0.5 (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
@@ -632,7 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), raise (2), pass (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), power (2), [[Microsoft Excel|Excel]] (2), next (2), [[Statistics]] (1)
 > **Versions:** 2.72 (2), 2.71828 (1), 7.39 (1)
 > **Definitions:** is a  (2), short for (1)
 > **Analogies:** for example (2)
@@ -722,7 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), [[Logistic Regression]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** exp (1)
@@ -780,15 +785,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Logistic Regression]] (2), [[Algorithms]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), function (1)
 > **Env Vars:** espn (1)
 > **Speakers:** - [professor] (1)
 
 
 ### 2. Binomial Logistic Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980)
@@ -853,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1), function (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), [[Microsoft Excel|Excel]] (4), game (3), [[Linear Regression]] (3), data (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - games (1), - we (1)
@@ -925,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), for. (1), raise (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Logistic Regression]] (5), next (2), data (1), [[Microsoft Excel|Excel]] (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (2)
@@ -1001,7 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (7), data (7), [[Probability]] (5), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
@@ -1156,7 +1161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (4), case, (3), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (5), [[Probability]] (4), next (3), [[Linear Regression]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** mle (6), sumifs (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -1304,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (9), type. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (8), [[RStudio]] (3), [[Logistic Regression]] (2), next (2)
 > **Env Vars:** grg (3), csv (2)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (2), configure (1), you'll need (1)
@@ -1378,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (7), pass (1), continue (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (7), [[Logistic Regression]] (2), [[Probability]] (2), application (1)
 > **Versions:** 0.5 (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** glm (2)
@@ -1456,7 +1461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), [[Probability]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Tools:** command line (1)
 > **UI Navigation:** select the (1)
@@ -1482,8 +1487,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (1), game (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
@@ -1557,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), case, (1), case. (1)
+> **Frameworks & Libraries:** data (4), [[Logistic Regression]] (1)
 > **Env Vars:** glm (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1565,7 +1570,7 @@ created: 2026-04-29
 
 ### 3. Fine-Tuning the Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding more independent variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980)
@@ -1692,7 +1697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (3), case, (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), data (4), [[Microsoft Excel|Excel]] (4), next (2)
 > **Env Vars:** glm (2)
 > **UI Navigation:** open the (1), scroll up (1)
 > **CLI Commands:** make (1)
@@ -1763,7 +1768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), override (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[RStudio]] (1), data (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
@@ -1870,7 +1875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), case. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (4), [[Statistics]] (1), next (1)
 > **UI Navigation:** select the (5)
 > **CLI Commands:** make (2)
 > **Versions:** 0.7 (1)
@@ -1936,8 +1941,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (5), [[Statistics]] (3), [[Microsoft Excel|Excel]] (1), [[Probability]] (1), data (1)
 > **Env Vars:** aic (3), mle (1)
-> **Code Keywords:** let (1), function (1)
 > **Versions:** 2.5 (1), 97.5 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -2132,7 +2137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), case, (5), function (5), class, (1), delete (1)
+> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (4), [[Algorithms]] (3), [[Probability]] (2)
 > **Env Vars:** df2 (7), df1 (5), mle (1), glm (1)
 > **CLI Commands:** make (10)
 > **Prerequisites:** set up (3)
@@ -2158,7 +2163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), parallel (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
@@ -2214,7 +2219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Versions:** 0.33 (1), 0.4 (1), 0.73 (1), 0.27 (1), 0.45 (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -2225,7 +2230,7 @@ created: 2026-04-29
 
 ### 4. Multinomial Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating odds for multinomial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980)
@@ -2330,7 +2335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (2), raise (1), case, (1)
+> **Frameworks & Libraries:** data (20), [[Logistic Regression]] (6), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (4), install (2)
 > **Versions:** 0.0001 (1)
 > **Exercise Files:** exercise files (1)
@@ -2378,7 +2383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Logistic Regression]] (1), [[Microsoft Excel|Excel]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - once (1)
@@ -2428,7 +2433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), raise (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Logistic Regression]] (2), next (2), product (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sumproduct (5)
 > **Definitions:** in other words (1), refers to (1)
 > **Cross-References:** in the next (1)
@@ -2501,7 +2506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), case, (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (3), [[Microsoft Excel|Excel]] (3), data (2)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), means that (1), is a  (1)
 > **Env Vars:** grg (1)
@@ -2637,7 +2642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (11), case, (1), this, (1), for. (1)
+> **Frameworks & Libraries:** data (18), [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (2), [[Probability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -2646,7 +2651,7 @@ created: 2026-04-29
 
 ### 5. Working in Power BI with R
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running R scripts in the Power Query Editor
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980)
@@ -2777,7 +2782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), case, (2)
+> **Frameworks & Libraries:** power (10), bi (10), data (10), [[Microsoft Power Query|Power query]] (5), [[Logistic Regression]] (2)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** select the (2), scroll down (1)
 > **Env Vars:** csv (1)
@@ -2921,7 +2926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), type. (1), this, (1), function (1)
+> **Frameworks & Libraries:** data (18), power (6), bi (6), [[RStudio]] (3), [[Microsoft Power Query|Power query]] (1)
 > **Prerequisites:** set up (5), configure (1), you'll need (1)
 > **Env Vars:** csv (4)
 > **UI Navigation:** select the (2), click on (2)
@@ -3000,7 +3005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** power (8), bi (8), [[Microsoft Power Query|Power query]] (4), data (3), database (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** espn (2)
 > **Versions:** version 3 (1), 4.4 (1)
@@ -3023,6 +3028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), power (2), bi (2), [[Microsoft Power Query|Power query]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -3156,7 +3162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (2), this, (2), include. (2), else, (1)
+> **Frameworks & Libraries:** data (11), power (4), bi (4), [[Microsoft Power Query|Power query]] (2), next (1)
 > **UI Navigation:** click on (2), select the (2), open the (1), dropdown (1), scroll down (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Env Vars:** glm (2)
@@ -3168,7 +3174,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with logistic regressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980)
@@ -3191,6 +3197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), data (3), ai (2), power (2), bi (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [helen] (1)

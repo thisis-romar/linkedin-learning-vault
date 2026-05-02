@@ -32,7 +32,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/software-deployment
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Software%20Deployment.md)
@@ -51,86 +51,86 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Welcome to AWS software deployment
-  - What you should know
-  - Initial setup
-  - Navigate the AWS Management Console
-  - Set an AWS budget alarm
+  - [Welcome to AWS software deployment](#welcome-to-aws-software-deployment)
+  - [What you should know](#what-you-should-know)
+  - [Initial setup](#initial-setup)
+  - [Navigate the AWS Management Console](#navigate-the-aws-management-console)
+  - [Set an AWS budget alarm](#set-an-aws-budget-alarm)
 - [**1. AWS Elastic Compute Cloud (EC2) Foundations**](#1-aws-elastic-compute-cloud-ec2-foundations) (5 videos)
-  - Understanding AWS EC2
-  - Understanding AWS load balancers
-  - Understanding AWS Auto Scaling groups
-  - Understanding AWS security groups
-  - Understanding SSH key authentication
+  - [Understanding AWS EC2](#understanding-aws-ec2)
+  - [Understanding AWS load balancers](#understanding-aws-load-balancers)
+  - [Understanding AWS Auto Scaling groups](#understanding-aws-auto-scaling-groups)
+  - [Understanding AWS security groups](#understanding-aws-security-groups)
+  - [Understanding SSH key authentication](#understanding-ssh-key-authentication)
 - [**2. EC2 Creation and Provisioning**](#2-ec2-creation-and-provisioning) (13 videos)
-  - Create an AWS EC2 instance
-  - Connect to an EC2 instance with AWS Systems Manager
-  - Understanding AWS CloudFormation
-  - Writing an AWS CloudFormation template
-  - Running an AWS CloudFormation template
-  - Concepts for updating an AWS CloudFormation stack
-  - Practice updating AWS CloudFormation stacks via change sets
-  - Challenge: Use CloudFormation to build an instance with SSM
-  - Solution: Use CloudFormation to build an instance with SSM
-  - Understanding AWS CloudFormation custom resources
-  - Create an AWS CloudFormation custom resource, part 1
-  - Create an AWS CloudFormation custom resource, part 2
-  - CloudFormation teardown
+  - [Create an AWS EC2 instance](#create-an-aws-ec2-instance)
+  - [Connect to an EC2 instance with AWS Systems Manager](#connect-to-an-ec2-instance-with-aws-systems-manager)
+  - [Understanding AWS CloudFormation](#understanding-aws-cloudformation)
+  - [Writing an AWS CloudFormation template](#writing-an-aws-cloudformation-template)
+  - [Running an AWS CloudFormation template](#running-an-aws-cloudformation-template)
+  - [Concepts for updating an AWS CloudFormation stack](#concepts-for-updating-an-aws-cloudformation-stack)
+  - [Practice updating AWS CloudFormation stacks via change sets](#practice-updating-aws-cloudformation-stacks-via-change-sets)
+  - [Challenge: Use CloudFormation to build an instance with SSM](#challenge-use-cloudformation-to-build-an-instance-with-ssm)
+  - [Solution: Use CloudFormation to build an instance with SSM](#solution-use-cloudformation-to-build-an-instance-with-ssm)
+  - [Understanding AWS CloudFormation custom resources](#understanding-aws-cloudformation-custom-resources)
+  - [Create an AWS CloudFormation custom resource, part 1](#create-an-aws-cloudformation-custom-resource-part-1)
+  - [Create an AWS CloudFormation custom resource, part 2](#create-an-aws-cloudformation-custom-resource-part-2)
+  - [CloudFormation teardown](#cloudformation-teardown)
 - [**3. Deployment Concepts**](#3-deployment-concepts) (3 videos)
-  - Architect apps for horizontal scaling
-  - AWS network security for app deployment
-  - Introducing the demo app
+  - [Architect apps for horizontal scaling](#architect-apps-for-horizontal-scaling)
+  - [AWS network security for app deployment](#aws-network-security-for-app-deployment)
+  - [Introducing the demo app](#introducing-the-demo-app)
 - [**4. Elastic Beanstalk**](#4-elastic-beanstalk) (10 videos)
-  - Understanding AWS Elastic Beanstalk
-  - AWS Elastic Beanstalk deployment options
-  - Initialize an AWS Elastic Beanstalk application
-  - Create an AWS Elastic Beanstalk environment
-  - Customize AWS Elastic Beanstalk with ebextensions
-  - Troubleshoot Elastic Beanstalk and set environment variables
-  - Add a database to AWS Elastic Beanstalk
-  - Deploy and scale an AWS Elastic Beanstalk app
-  - Deploy Docker containers via AWS Elastic Beanstalk
-  - Elastic Beanstalk teardown
+  - [Understanding AWS Elastic Beanstalk](#understanding-aws-elastic-beanstalk)
+  - [AWS Elastic Beanstalk deployment options](#aws-elastic-beanstalk-deployment-options)
+  - [Initialize an AWS Elastic Beanstalk application](#initialize-an-aws-elastic-beanstalk-application)
+  - [Create an AWS Elastic Beanstalk environment](#create-an-aws-elastic-beanstalk-environment)
+  - [Customize AWS Elastic Beanstalk with ebextensions](#customize-aws-elastic-beanstalk-with-ebextensions)
+  - [Troubleshoot Elastic Beanstalk and set environment variables](#troubleshoot-elastic-beanstalk-and-set-environment-variables)
+  - [Add a database to AWS Elastic Beanstalk](#add-a-database-to-aws-elastic-beanstalk)
+  - [Deploy and scale an AWS Elastic Beanstalk app](#deploy-and-scale-an-aws-elastic-beanstalk-app)
+  - [Deploy Docker containers via AWS Elastic Beanstalk](#deploy-docker-containers-via-aws-elastic-beanstalk)
+  - [Elastic Beanstalk teardown](#elastic-beanstalk-teardown)
 - [**5. CodeDeploy**](#5-codedeploy) (18 videos)
-  - AWS CodeDeploy key concepts
-  - AWS CodeDeploy: AppSpec and lifecycle events
-  - AWS CodeDeploy: IAM setup
-  - AWS CodeDeploy: Instance preparation
-  - AWS CodeDeploy: Auto Scaling group
-  - AWS CodeDeploy: App creation
-  - Install and configure the AWS CLI
-  - AWS CodeDeploy: Adding database and security groups
-  - AWS CodeDeploy: Managing secrets with Secrets Manager
-  - AWS CodeDeploy: AppSpec and deployment
-  - AWS CodeDeploy: Add a load balancer
-  - Troubleshoot AWS CodeDeploy deployments
-  - Understanding AWS CodeBuild
-  - Add AWS CodeBuild support to an app
-  - Integrate AWS CodeBuild into CodePipeline
-  - AWS CodePipeline challenge: Add an approval stage
-  - AWS CodePipeline challenge solution: Add an approval stage
-  - AWS CodeDeploy teardown
+  - [AWS CodeDeploy key concepts](#aws-codedeploy-key-concepts)
+  - [AWS CodeDeploy: AppSpec and lifecycle events](#aws-codedeploy-appspec-and-lifecycle-events)
+  - [AWS CodeDeploy: IAM setup](#aws-codedeploy-iam-setup)
+  - [AWS CodeDeploy: Instance preparation](#aws-codedeploy-instance-preparation)
+  - [AWS CodeDeploy: Auto Scaling group](#aws-codedeploy-auto-scaling-group)
+  - [AWS CodeDeploy: App creation](#aws-codedeploy-app-creation)
+  - [Install and configure the AWS CLI](#install-and-configure-the-aws-cli)
+  - [AWS CodeDeploy: Adding database and security groups](#aws-codedeploy-adding-database-and-security-groups)
+  - [AWS CodeDeploy: Managing secrets with Secrets Manager](#aws-codedeploy-managing-secrets-with-secrets-manager)
+  - [AWS CodeDeploy: AppSpec and deployment](#aws-codedeploy-appspec-and-deployment)
+  - [AWS CodeDeploy: Add a load balancer](#aws-codedeploy-add-a-load-balancer)
+  - [Troubleshoot AWS CodeDeploy deployments](#troubleshoot-aws-codedeploy-deployments)
+  - [Understanding AWS CodeBuild](#understanding-aws-codebuild)
+  - [Add AWS CodeBuild support to an app](#add-aws-codebuild-support-to-an-app)
+  - [Integrate AWS CodeBuild into CodePipeline](#integrate-aws-codebuild-into-codepipeline)
+  - [AWS CodePipeline challenge: Add an approval stage](#aws-codepipeline-challenge-add-an-approval-stage)
+  - [AWS CodePipeline challenge solution: Add an approval stage](#aws-codepipeline-challenge-solution-add-an-approval-stage)
+  - [AWS CodeDeploy teardown](#aws-codedeploy-teardown)
 - [**6. Elastic Container Service**](#6-elastic-container-service) (7 videos)
-  - Understanding AWS Elastic Container Service and Fargate
-  - Run the demo app locally with Docker
-  - Create an AWS ECR repository for use with ECS
-  - Create an ECS Fargate cluster and task definition
-  - Deploy a Docker app with an ECS task
-  - Run Docker apps with an ECS service
-  - Scale Docker apps with an ECS service
+  - [Understanding AWS Elastic Container Service and Fargate](#understanding-aws-elastic-container-service-and-fargate)
+  - [Run the demo app locally with Docker](#run-the-demo-app-locally-with-docker)
+  - [Create an AWS ECR repository for use with ECS](#create-an-aws-ecr-repository-for-use-with-ecs)
+  - [Create an ECS Fargate cluster and task definition](#create-an-ecs-fargate-cluster-and-task-definition)
+  - [Deploy a Docker app with an ECS task](#deploy-a-docker-app-with-an-ecs-task)
+  - [Run Docker apps with an ECS service](#run-docker-apps-with-an-ecs-service)
+  - [Scale Docker apps with an ECS service](#scale-docker-apps-with-an-ecs-service)
 - [**7. Automating ECS Deployments**](#7-automating-ecs-deployments) (6 videos)
-  - Challenge: Automating Docker builds on AWS
-  - Solution: CodeBuild for Docker ECR pushes
-  - Automating the Docker build with CodePipeline
-  - Fully automating ECS Docker deployments with CodePipeline
-  - ECS teardown
-  - Understand AWS Copilot
+  - [Challenge: Automating Docker builds on AWS](#challenge-automating-docker-builds-on-aws)
+  - [Solution: CodeBuild for Docker ECR pushes](#solution-codebuild-for-docker-ecr-pushes)
+  - [Automating the Docker build with CodePipeline](#automating-the-docker-build-with-codepipeline)
+  - [Fully automating ECS Docker deployments with CodePipeline](#fully-automating-ecs-docker-deployments-with-codepipeline)
+  - [ECS teardown](#ecs-teardown)
+  - [Understand AWS Copilot](#understand-aws-copilot)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to AWS software deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/welcome-to-aws-software-deployment?u=76281980)
@@ -170,11 +170,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), [[Linux]] (3), [[Git]] (2), [[Windows]] (2), web application (1)
 > **CLI Commands:** aws (6), rails (3), ruby (2), git (2), ssh (2)
 > **Env Vars:** aws (6), ssh (2), net (1), yaml (1), nginx (1)
 > **Tools:** command line (2), terminal (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** case, (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -244,6 +244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), next (2), [[Search]] (2), management (2), [[Metadata]] (1)
 > **Env Vars:** aws (9), iam (6), mfa (3)
 > **CLI Commands:** aws (11), make (2)
 > **Definitions:** is a  (3)
@@ -251,7 +252,6 @@ created: 2026-04-29
 > **Cross-References:** in the next (1), next video (1)
 > **Prerequisites:** set up (2)
 > **Tools:** aws console (1)
-> **Best Practices:** make sure to (1)
 
 #### Navigate the AWS Management Console
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/navigate-the-aws-management-console?u=76281980)
@@ -348,10 +348,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (3), database (2), [[Search]] (2), management (1)
 > **Env Vars:** aws (8), ec2 (3), rds (3), iam (1)
 > **CLI Commands:** aws (8), make (3)
 > **UI Navigation:** open the (1), dropdown (1), click on (1)
-> **Code Keywords:** let (1), delete (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Best Practices:** always make sure (1)
@@ -430,10 +430,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[Search]] (2), [[Cost Management]] (2), feature (1), hit (1)
 > **CLI Commands:** aws (3), make (1), find (1)
 > **Env Vars:** aws (3), ec2 (1), rds (1)
 > **Prerequisites:** set up (2), setup (1)
-> **Code Keywords:** let (1), this, (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 ### 1. AWS Elastic Compute Cloud (EC2) Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS EC2
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980)
@@ -579,10 +579,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (19), [[Amazon EC2|Ec2]] (11), data (5), cloud (3), [[Linux]] (2)
 > **Env Vars:** aws (18), ec2 (11), ram (5), cpu (4), ebs (4)
 > **CLI Commands:** aws (19), az (4), make (2), ssh (1)
 > **Definitions:** is a  (5), known as (1), is called (1)
-> **Code Keywords:** let (1), require (1), finally, (1), type, (1), delete (1)
 > **Analogies:** such as (4), for example (1), for instance (1)
 > **Prerequisites:** install (1), configure (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -721,9 +721,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), traffic (12), application (9), web (9), [[Routing]] (4)
 > **Env Vars:** aws (13), http (10), tls (10), alb (9), https (6)
 > **CLI Commands:** aws (13), make (5)
-> **Code Keywords:** let (3), static (2), interface (1), this, (1), private (1)
 > **Analogies:** such as (4), imagine (1), picture (1), for instance (1)
 > **Prerequisites:** install (2), required to (1)
 > **Ports:** port 443 (1)
@@ -837,9 +837,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (5), application (4), traffic (3), data (3)
 > **Env Vars:** asg (10), ec2 (6), aws (5), cpu (4), ami (2)
 > **CLI Commands:** aws (5), make (2), nginx (2), ssh (1)
-> **Code Keywords:** let (2), require (2), this, (1), type. (1)
 > **Analogies:** such as (3), for example (2)
 > **Exercise Files:** template (4)
 > **Prerequisites:** configure (2), install (1)
@@ -967,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), let (4), public (4), default, (2), finally, (2)
+> **Frameworks & Libraries:** [[Security]] (17), traffic (16), web (11), aws (8), data (5)
 > **Env Vars:** aws (8), ssh (3), api (2), ec2 (2), http (1)
 > **CLI Commands:** aws (8), ssh (3), find (1)
 > **Analogies:** such as (2), imagine (1), for example (1)
@@ -1094,9 +1094,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), aws (9), [[Linux]] (9), next (2), [[Windows]] (1)
 > **Env Vars:** ssh (17), ec2 (9), aws (9), sshd (1), mac (1)
 > **CLI Commands:** ssh (18), aws (9), make (1)
-> **Code Keywords:** private (11), public (7), let (1), default. (1), this. (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** such as (2)
@@ -1106,7 +1106,7 @@ created: 2026-04-29
 
 ### 2. EC2 Creation and Provisioning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an AWS EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980)
@@ -1323,9 +1323,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Amazon EC2|Ec2]] (7), [[Security]] (6), aws (5), next (5)
 > **CLI Commands:** ssh (12), aws (5), nginx (5), make (2), yum (2)
 > **Env Vars:** ssh (9), ec2 (5), aws (5), http (4), rsa (1)
-> **Code Keywords:** let (8), public (4), case, (2), continue (2), type, (1)
 > **Prerequisites:** install (3), configure (2), getting started (1), set up (1)
 > **Tools:** terminal (3), bash (2)
 > **Definitions:** is a  (4)
@@ -1451,11 +1451,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), next (7), aws (6), [[Security]] (3), [[Search]] (2)
 > **Env Vars:** ec2 (8), ssh (6), aws (6), iam (5), ssm (3)
 > **CLI Commands:** ssh (6), aws (6), find (1)
 > **UI Navigation:** go to (3), checkbox (2), click on (1), select the (1)
 > **Definitions:** is a  (4), means that (1)
-> **Code Keywords:** let (2), this, (1)
 > **Prerequisites:** install (2), setup (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Ports:** port 22 (1)
@@ -1541,10 +1541,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), aws (7), [[Amazon EC2|Ec2]] (4), [[Security]] (3), data (2)
 > **Env Vars:** yaml (8), aws (7), ec2 (4), vpc (2), json (2)
 > **CLI Commands:** aws (7), make (1)
 > **Exercise Files:** template (7)
-> **Code Keywords:** let (2), type. (1), delete (1), interface (1)
 > **Analogies:** for instance (3), imagine (1), for example (1)
 > **Tools:** aws console (1), github (1), vs code (1)
 > **Prerequisites:** setup (1), required to (1)
@@ -1841,9 +1841,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), aws (10), [[Linux]] (6), next (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** ec2 (11), aws (10), yaml (10), ami (3), ssm (2)
 > **CLI Commands:** aws (10), make (10), nginx (6), sudo (3), yum (1)
-> **Code Keywords:** let (12), type, (4), this, (4), type. (2), function (2)
 > **Exercise Files:** template (12)
 > **UI Navigation:** go to (2), dropdown (2), scroll down (1)
 > **Prerequisites:** install (4), make sure you have (1)
@@ -1953,8 +1953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Amazon EC2|Ec2]] (4), aws (3), [[Search]] (2), [[Security]] (2)
 > **Env Vars:** ec2 (4), iam (3), aws (3), yaml (2), ssm (1)
-> **Code Keywords:** default, (3), type, (2), let (1), default. (1), continue (1)
 > **Exercise Files:** template (9)
 > **CLI Commands:** nginx (4), aws (3)
 > **UI Navigation:** dropdown (1), right-click (1), go to (1)
@@ -1999,7 +1999,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), delete (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **Analogies:** for instance (1)
@@ -2260,8 +2259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), next (9), [[Amazon EC2|Ec2]] (6), aws (3), hit (3)
 > **Env Vars:** ec2 (6), ami (5), aws (3), vpc (2), ssh (1)
-> **Code Keywords:** let (9), type, (3), default. (2), import. (1), case, (1)
 > **Exercise Files:** template (13)
 > **CLI Commands:** make (6), aws (3), find (2), ssh (1)
 > **Definitions:** is a  (6), refers to (1), is an  (1)
@@ -2298,12 +2297,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), web (2), management (1), next (1)
 > **CLI Commands:** aws (3), ssh (1)
 > **Env Vars:** aws (3), ssh (1)
 > **Cross-References:** earlier in (2), in the next (1)
 > **Exercise Files:** template (2)
 > **File Paths:** securitygroup.yaml (1)
-> **Code Keywords:** try, (1)
 > **Documentation:** the documentation (1)
 > **Tools:** terminal (1)
 
@@ -2458,8 +2457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), cloud (8), [[Security]] (3), web (1), [[JSON]] (1)
 > **Env Vars:** ec2 (7), iam (5), arn (3), ssm (2), gui (2)
-> **Code Keywords:** let (5), case, (2), this, (1), this. (1), interface (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** find (2), ssh (1), make (1), aws (1)
 > **UI Navigation:** click on (3), go to (1), dropdown (1)
@@ -2502,7 +2501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), lambda (4), this, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** aws (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), database (1)
 > **Env Vars:** aws (3), sdk (2), ami (1), iam (1)
 > **CLI Commands:** aws (3), make (2)
 > **Exercise Files:** template (5)
@@ -2653,7 +2652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), delete (7), pass (3), lambda (2)
+> **Frameworks & Libraries:** aws (3), next (2), [[Node.js]] (2), power (2)
 > **CLI Commands:** aws (3), make (2), node (2)
 > **Code Identifiers:** responsetext (5), createbucket (1), requesttype (1)
 > **Env Vars:** aws (3), sdk (2), arn (1)
@@ -2687,7 +2686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1)
+> **Frameworks & Libraries:** hit (1), next (1), [[PaaS|Platform as a service]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
@@ -2695,7 +2694,7 @@ created: 2026-04-29
 
 ### 3. Deployment Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architect apps for horizontal scaling
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980)
@@ -2844,9 +2843,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (13), database (12), web (6), aws (6), [[Hardware]] (5)
 > **Env Vars:** aws (6), efs (3), cpu (2), ram (2), ec2 (2)
 > **CLI Commands:** aws (6), make (2), node (2), mysql (1), ruby (1)
-> **Code Keywords:** let (2), type. (2), finally, (2), while, (1), this. (1)
 > **Analogies:** such as (2), for instance (2), picture (1), imagine (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** make sure to (1)
@@ -3002,8 +3001,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), aws (7), traffic (6), data (4), database (3)
 > **Env Vars:** aws (7), alb (6), ssh (4), vpc (4), https (3)
-> **Code Keywords:** private (8), let (7), public (6), static (1), type, (1)
 > **CLI Commands:** aws (7), ssh (4), git (1), docker (1), find (1)
 > **Ports:** port 80 (2), port 22 (2), port 443 (2)
 > **Prerequisites:** configure (3), set up (1), required to (1), setup (1)
@@ -3244,10 +3243,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (12), application (10), database (9), [[PostgreSQL|Postgres]] (3), [[GitHub]] (3)
 > **CLI Commands:** aws (12), ruby (8), make (6), rails (3), find (2)
 > **Env Vars:** aws (11), rails_env (4), rails_master_key (2), url (1), ec2 (1)
 > **Prerequisites:** install (6), setup (5)
-> **Code Keywords:** let (3), delete (1), case, (1), require (1), this. (1)
 > **Tools:** github (3), command line (2), terminal (1)
 > **Definitions:** is a  (5)
 > **Versions:** ruby 3 (1), 2.2 (1), 3.2.2 (1)
@@ -3256,7 +3255,7 @@ created: 2026-04-29
 
 ### 4. Elastic Beanstalk
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980)
@@ -3369,9 +3368,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), application (11), web (6), [[PaaS|Platform as a service]] (5), [[IaaS|Infrastructure as a service]] (3)
 > **Env Vars:** aws (11), ec2 (3), net (2), nginx (2), ssl (2)
 > **CLI Commands:** aws (11), ruby (6), rails (3), nginx (2), python (1)
-> **Code Keywords:** let (2), interface (2), static (1), protected (1), default. (1)
 > **Analogies:** such as (4), for instance (1), for example (1), just like (1)
 > **Tools:** command line (2), aws console (1), github (1), bitbucket (1), visual studio (1)
 > **Prerequisites:** install (1), configure (1)
@@ -3425,9 +3424,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), aws (1), web (1), hit (1)
 > **Tools:** command line (2)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -3653,10 +3652,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), application (7), hit (7), [[CLI]] (6), next (6)
 > **Env Vars:** aws (12), cli (6), iam (3), pip (2), ebcli (2)
 > **CLI Commands:** aws (13), python (2), pip (2), ruby (2), ssh (2)
 > **Tools:** command line (10), terminal (5), github (3), bash (1), aws console (1)
-> **Code Keywords:** let (4), case, (2), interface (1), for, (1), this. (1)
 > **Prerequisites:** configure (3), install (2), set up (2), you'll need (1)
 > **Warnings:** warning (2), be careful (1), caution (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -3831,7 +3830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (2), this, (2), continue (2), this. (2)
+> **Frameworks & Libraries:** application (9), aws (3), [[Amazon EC2|Ec2]] (3), hit (3), [[Search]] (2)
 > **Env Vars:** ec2 (3), aws (2), vpc (1), cli (1), ram (1)
 > **CLI Commands:** aws (3), ruby (3), make (1)
 > **Tools:** command line (4), terminal (1)
@@ -3899,9 +3898,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), next (2), [[Linux]] (1), [[Python (Programming Language)|Python]] (1), application (1)
 > **CLI Commands:** aws (3), yum (1), python (1), ruby (1), git (1)
 > **Env Vars:** yaml (1), rpm (1), aws (1), zip (1), url (1)
-> **Code Keywords:** finally, (2), this, (1), let (1)
 > **Code Identifiers:** options_settings (1), container_commands (1)
 > **Tools:** command line (2)
 > **Analogies:** for instance (1), such as (1)
@@ -4121,9 +4120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), database (7), [[PostgreSQL|Postgres]] (5), web (2), hit (2)
 > **CLI Commands:** rails (14), ssh (6), find (2), grep (2), make (2)
 > **Env Vars:** ssh (6), readme (5), rds (4), env (3), ascii (1)
-> **Code Keywords:** let (10), var (4), this, (2), type. (1), else. (1)
 > **Tools:** command line (3), terminal (2), github (1)
 > **Documentation:** the readme (5)
 > **UI Navigation:** go to (4), scroll down (1)
@@ -4295,7 +4294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (2), self (2), interface (1)
+> **Frameworks & Libraries:** database (17), application (11), aws (4), [[PostgreSQL|Postgres]] (4), next (4)
 > **CLI Commands:** aws (4), make (4), az (2), git (2), ruby (1)
 > **Env Vars:** rds (9), aws (4), url (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -4465,8 +4464,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Git]] (3), database (2), next (2), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** make (5), git (3), ssh (1), find (1), ruby (1)
-> **Code Keywords:** let (6), this. (1), override (1), continue (1)
 > **Env Vars:** rds (2), ec2 (2), ssh (1), gui (1), yaml (1)
 > **UI Navigation:** go to (4), scroll down (3), scroll up (1)
 > **Cross-References:** go back to (2), in the last (1), coming up (1), in the next (1)
@@ -4561,10 +4560,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (2), [[GitHub]] (2), hit (2), [[HTML]] (1)
 > **CLI Commands:** docker (10), nginx (3), ssh (1), aws (1)
 > **Env Vars:** url (2), readme (1), ecs (1), ec2 (1), ssh (1)
 > **Cross-References:** go back to (2), later in (2), next video (1), in the next (1)
-> **Code Keywords:** case. (1), this, (1), public (1)
 > **Tools:** github (2), command line (1)
 > **File Paths:** index.html (1)
 > **Code Identifiers:** nginx_docker (1)
@@ -4697,8 +4696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), application (5), hit (2), aws (2), next (2)
 > **CLI Commands:** nginx (6), docker (3), ruby (2), make (2), aws (2)
-> **Code Keywords:** delete (11), this, (2), this. (1), else. (1)
 > **Env Vars:** rds (8), iam (3), aws (2)
 > **UI Navigation:** go to (3), checkbox (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -4709,7 +4708,7 @@ created: 2026-04-29
 
 ### 5. CodeDeploy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS CodeDeploy key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980)
@@ -4790,6 +4789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), application (4), [[Git]] (4), next (2), [[DevOps]] (1)
 > **CLI Commands:** aws (5), git (4), make (1)
 > **Env Vars:** aws (5), ec2 (1)
 > **Definitions:** is a  (2), defined as (1), means that (1)
@@ -4797,7 +4797,6 @@ created: 2026-04-29
 > **Cross-References:** later in (1), in the next (1)
 > **Tools:** github (1), bitbucket (1)
 > **Analogies:** such as (2)
-> **File Paths:** appspec.yml (1)
 
 #### AWS CodeDeploy: AppSpec and lifecycle events
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-lifecycle-events?u=76281980)
@@ -4868,8 +4867,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), application (1), [[GitHub]] (1), web (1), aws (1)
 > **File Paths:** appspec.yml (4)
-> **Code Keywords:** let (2), finally, (1), this. (1)
 > **CLI Commands:** nginx (2), aws (1)
 > **Definitions:** refers to (2), means that (1)
 > **Env Vars:** yaml (1), aws (1)
@@ -4950,8 +4949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), aws (4), [[Amazon EC2|Ec2]] (4), [[Search]] (1), application (1)
 > **Env Vars:** aws (4), ec2 (4), iam (3)
-> **Code Keywords:** let (2), case, (1), type, (1), for. (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** go to (1), scroll down (1), dropdown (1)
 > **Prerequisites:** install (1), set up (1)
@@ -5090,11 +5089,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Amazon EC2|Ec2]] (3), [[Search]] (3), [[Security]] (2), aws (2)
 > **Env Vars:** ec2 (3), ami (2), iam (2), aws (2), ssh (1)
 > **UI Navigation:** scroll down (4), go to (2), checkbox (2)
 > **Prerequisites:** install (5), setup (1), set up (1)
 > **CLI Commands:** aws (2), make (1), node (1), ssh (1), sudo (1)
-> **Code Keywords:** type. (1), continue (1), let (1), this. (1)
 > **Cross-References:** later in (1), previous video (1), in the next (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -5308,10 +5307,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), next (8), [[Amazon EC2|Ec2]] (6), database (2), data (2)
 > **Env Vars:** ec2 (6), ami (5), http (3), asg (3), aws (1)
 > **Exercise Files:** template (18)
 > **UI Navigation:** go to (6), scroll down (4), in the menu (1), select the (1)
-> **Code Keywords:** let (2), continue (1), type, (1), type. (1), default. (1)
 > **CLI Commands:** make (5), aws (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1), means that (1)
@@ -5368,11 +5367,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Amazon EC2|Ec2]] (3), next (2)
 > **Env Vars:** ec2 (3), ecs (1), asg (1)
 > **UI Navigation:** go to (2), scroll down (2), dropdown (1)
 > **Cross-References:** later in (2), in the next (1)
 > **Prerequisites:** setup (3)
-> **Code Keywords:** lambda (1), continue (1)
 > **Code Identifiers:** my_art_gallery (1), art_gallery_deployment_group (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -5504,10 +5503,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (9), aws (8), next (6), [[Amazon EC2|Ec2]] (2), [[JSON]] (2)
 > **Env Vars:** cli (9), aws (8), json (2), iam (1), sns (1)
 > **CLI Commands:** aws (8), find (1), make (1), git (1)
 > **UI Navigation:** scroll down (5), go to (3), checkbox (2), navigate to (1)
-> **Code Keywords:** this. (1), default, (1), case, (1), interface (1)
 > **Prerequisites:** configure (2), install (1), set up (1)
 > **Cross-References:** coming up (1), go back to (1), next video (1)
 > **Tools:** terminal (2), command line (1)
@@ -5622,7 +5621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), this, (1), self (1), match. (1)
+> **Frameworks & Libraries:** database (15), [[Security]] (13), [[PostgreSQL|Postgres]] (7), aws (3), next (3)
 > **Env Vars:** rds (3), aws (3), ec2 (2), tcp (2)
 > **UI Navigation:** go to (6), scroll down (2), dropdown (1)
 > **CLI Commands:** make (4), aws (3)
@@ -5810,9 +5809,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[JSON]] (6), application (5), database (4), [[Fetch]] (3)
 > **Env Vars:** json (6), aws (3), iam (3), rds (2), ssm (2)
 > **CLI Commands:** rails (6), make (3), aws (3), find (2)
-> **Code Keywords:** let (3), this. (2), this, (2), super (1), else. (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is an  (1), is called (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -6164,9 +6163,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (13), [[GitHub]] (6), next (4), aws (4), data (3)
 > **Env Vars:** nginx (13), rds_password (3), cli (3), json (3), ec2 (2)
 > **CLI Commands:** nginx (14), make (7), rails (5), aws (4), find (3)
-> **Code Keywords:** let (11), this. (3), case, (3), finally, (2), include, (1)
 > **Code Identifiers:** my_art_gallery (2), commitid (2), configure_nginx (1), install_dependencies (1), deploy_command (1)
 > **Tools:** github (6), aws console (1)
 > **Prerequisites:** setup (3), install (3), set up (1)
@@ -6372,10 +6371,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (18), traffic (17), application (7), next (5), aws (2)
 > **Env Vars:** http (4), asg (3), aws (2), alb (2), ami (2)
 > **UI Navigation:** go to (6), scroll down (5), click on (2), dropdown (1), checkbox (1)
 > **CLI Commands:** make (6), aws (2)
-> **Code Keywords:** let (2), delete (2), public (1), case, (1)
 > **Ports:** port 80 (5)
 > **Definitions:** means that (3), is a  (1)
 > **Analogies:** picture (2), imagine (1), similar to (1)
@@ -6476,7 +6475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), aws (2), web (2), power (1), next (1)
 > **Env Vars:** aws (2), yaml (2), ssm (1), ssh (1)
 > **Tools:** github (6)
 > **CLI Commands:** aws (2), ssh (1), sudo (1), find (1)
@@ -6596,8 +6595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (5), aws (4), application (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), ci (2)
 > **CLI Commands:** aws (4), ruby (3), make (2), git (1), go build (1)
-> **Code Keywords:** let (3), finally, (2), case, (1)
 > **Env Vars:** aws (4), rails_env (1), yaml (1)
 > **Prerequisites:** install (4)
 > **File Paths:** buildspec.yaml (3)
@@ -6750,7 +6749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), let (2), this, (2), case, (1), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), next (3), aws (2), [[Linux]] (2), database (1)
 > **CLI Commands:** rails (2), aws (2), make (2)
 > **Tools:** github (5)
 > **Prerequisites:** install (3), set up (1)
@@ -7050,10 +7049,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (17), aws (9), next (6), hit (2), [[Git]] (2)
 > **CLI Commands:** aws (9), make (7), git (2)
 > **Tools:** github (17)
 > **Env Vars:** aws (9), iam (2), ssm (1), url (1)
-> **Code Keywords:** let (7), from. (1), this, (1), case. (1), while. (1)
 > **UI Navigation:** go to (4), scroll down (2)
 > **Prerequisites:** install (2), configure (1)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -7100,7 +7099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), try, (1)
+> **Frameworks & Libraries:** [[Git]] (1), [[Search]] (1), aws (1), next (1)
 > **CLI Commands:** git (1), aws (1)
 > **Env Vars:** uat (1), aws (1)
 > **Cross-References:** in the next (1)
@@ -7263,9 +7262,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), next (3), database (2), [[Jenkins]] (1), cloud (1)
 > **Env Vars:** sns (6), aws (4), uat (2), cli (1), rds (1)
 > **CLI Commands:** make (6), aws (4)
-> **Code Keywords:** this, (2), let (2), this. (2), for, (1), lambda (1)
 > **Definitions:** is a  (3), stands for (1)
 > **UI Navigation:** click on (1), scroll down (1), go to (1)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -7431,7 +7430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (23), let (5), continue (1), this. (1)
+> **Frameworks & Libraries:** next (6), [[Amazon EC2|Ec2]] (5), database (4), [[Security]] (3), aws (2)
 > **UI Navigation:** go to (21), checkbox (4), scroll up (1), click on (1)
 > **Env Vars:** rds (5), ec2 (5), ecs (2), aws (2), iam (2)
 > **CLI Commands:** make (3), aws (2), cd (1), find (1), docker (1)
@@ -7442,7 +7441,7 @@ created: 2026-04-29
 
 ### 6. Elastic Container Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS Elastic Container Service and Fargate
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980)
@@ -7537,10 +7536,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), web (5), [[Amazon EC2|Ec2]] (5), [[Virtual Machines]] (3), [[Security]] (2)
 > **Env Vars:** aws (10), ecs (9), ec2 (5), ecr (4), iam (1)
 > **CLI Commands:** aws (10), docker (4), make (2), find (1), ruby (1)
 > **Definitions:** is a  (2), known as (2), is called (1)
-> **Code Keywords:** public (1), case, (1)
 > **Analogies:** picture (1), similar to (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
@@ -7757,9 +7756,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (20), [[Security]] (13), aws (6), next (6), [[PostgreSQL|Postgres]] (4)
 > **CLI Commands:** docker (23), make (9), aws (6), rails (2), cat (1)
 > **Env Vars:** rds (9), aws (6), ecs (6), ec2 (1), isp (1)
-> **Code Keywords:** let (2), private (2), finally, (1), this, (1), public (1)
 > **Ports:** :3000 (4), port 3000 (3)
 > **Prerequisites:** install (3), set up (2), before we start (1), you'll need (1)
 > **Tools:** terminal (3), docker desktop (1), command line (1)
@@ -7855,10 +7854,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), hit (3), application (2), [[Search]] (1), [[Security]] (1)
 > **CLI Commands:** docker (13), aws (7), find (1), make (1)
 > **Env Vars:** ecr (8), aws (6), url (5), kms (1), uri (1)
 > **Code Identifiers:** my_art_gallery (6)
-> **Code Keywords:** this, (2), private (1), let (1), continue (1)
 > **Tools:** terminal (2), command line (1), aws console (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** in the last (1)
@@ -8009,9 +8008,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), next (2), [[JSON]] (1), aws (1), [[Security]] (1)
 > **Env Vars:** ecs (5), rds (5), ecr (3), awsvpc (3), uri (3)
 > **CLI Commands:** make (5), rails (3), ruby (1), aws (1)
-> **Code Keywords:** default. (1), let (1), this. (1), this, (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Exercise Files:** template (2)
@@ -8127,8 +8126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), database (3), [[Amazon EC2|Ec2]] (2), hit (2), next (2)
 > **CLI Commands:** make (4), find (2), docker (2), aws (1)
-> **Code Keywords:** public (4), let (1), override (1), this. (1), default, (1)
 > **Env Vars:** ec2 (2), tcp (1), vpc (1), aws (1), ecr (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **Ports:** port 3000 (3)
@@ -8331,9 +8330,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), next (3), database (3), [[Search]] (2), traffic (2)
 > **Env Vars:** alb (13), ecs (6), rds (2), ec2 (2), iam (1)
 > **UI Navigation:** go to (6), scroll down (6), select the (1), dropdown (1), open the (1)
-> **Code Keywords:** let (9), public (2), default. (1), this. (1), delete (1)
 > **CLI Commands:** make (5), docker (1), aws (1), rails (1)
 > **Ports:** port 80 (5), port 3000 (1)
 > **Cross-References:** previous video (1), in the next (1)
@@ -8401,8 +8400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), next (2), [[Amazon EC2|Ec2]] (1), web application (1), cloud (1)
 > **CLI Commands:** make (3), docker (1)
-> **Code Keywords:** let (3), this, (1)
 > **Env Vars:** ecs (2), ec2 (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** go to (1)
@@ -8411,7 +8410,7 @@ created: 2026-04-29
 
 ### 7. Automating ECS Deployments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Automating Docker builds on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980)
@@ -8444,6 +8443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[CLI]] (1), next (1)
 > **Env Vars:** ecr (4), aws (3), cli (1)
 > **CLI Commands:** aws (3), docker (1), make (1)
 > **Cross-References:** next video (1)
@@ -8615,9 +8615,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Git]] (2), aws (2), [[GitHub]] (2), [[JSON]] (2)
 > **Env Vars:** ecr (10), uri (5), arm (2), aws (2), ec2 (2)
 > **CLI Commands:** docker (8), git (2), aws (2), make (2), find (1)
-> **Code Keywords:** let (9), this. (1), case, (1), new, (1), switch (1)
 > **UI Navigation:** scroll down (3), click on (1), select the (1), switch to (1), go to (1)
 > **File Paths:** imagedetail.json (2), buildspec.ecs.yml (1), appspec.ecs.yml (1), appspec.yml (1), buildspec.yml (1)
 > **Code Identifiers:** approot (2), imagedetail (2), my_art_gallery (1), post_build (1)
@@ -8781,8 +8781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (11), next (5), [[Search]] (1), aws (1), application (1)
 > **Tools:** github (11), command line (2)
-> **Code Keywords:** let (8), default. (1), include, (1)
 > **CLI Commands:** make (3), docker (2), aws (1)
 > **Env Vars:** iam (2), aws (1), ecr (1), ecs (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
@@ -9043,9 +9043,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Git]] (4), aws (3), [[Amazon EC2|Ec2]] (3), next (2)
 > **CLI Commands:** make (7), git (4), aws (3), find (3), docker (1)
 > **Env Vars:** ecs (5), aws (3), ec2 (3), arn (2), ecr (1)
-> **Code Keywords:** let (9), this. (4), default, (1), this, (1), match. (1)
 > **UI Navigation:** go to (6), click on (2), scroll down (1)
 > **File Paths:** appspec.yml (4), appspec.ecs.yml (3), app/views/arts/index.html (1)
 > **Documentation:** spec (6)
@@ -9239,7 +9239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (28), let (8), this. (1)
+> **Frameworks & Libraries:** next (10), database (4), [[Microsoft Word|Word]] (3), application (2), [[Amazon EC2|Ec2]] (2)
 > **UI Navigation:** go to (14), checkbox (2), click on (1), navigate to (1)
 > **Env Vars:** ecs (4), rds (3), ec2 (2), alb (2), ecr (2)
 > **Cross-References:** in the last (1), go back to (1), next video (1)
@@ -9278,9 +9278,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), aws (2), [[Security]] (2), ai (1), [[GitHub]] (1)
 > **Env Vars:** ecs (5), aws (1)
 > **Tools:** terminal (2), command line (1), github (1)
-> **Code Keywords:** interface (1), require (1), try. (1)
 > **CLI Commands:** aws (2)
 > **URLs:** [github.io](https://github.io) (1)
 > **Prerequisites:** configure (1)
@@ -9289,7 +9289,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/next-steps?u=76281980)
@@ -9310,6 +9310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), application (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)

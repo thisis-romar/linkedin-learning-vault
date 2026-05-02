@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/graphql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Graphql.md)
@@ -44,42 +44,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - An introduction to GraphQL
-  - What you should know before watching this course
+  - [An introduction to GraphQL](#an-introduction-to-graphql)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
 - [**1. What Is GraphQL?**](#1-what-is-graphql) (3 videos)
-  - Understanding GraphQL
-  - How GraphQL differs from REST
-  - Using GraphQL Playground
+  - [Understanding GraphQL](#understanding-graphql)
+  - [How GraphQL differs from REST](#how-graphql-differs-from-rest)
+  - [Using GraphQL Playground](#using-graphql-playground)
 - [**2. GraphQL Queries**](#2-graphql-queries) (4 videos)
-  - Using enum types and arguments
-  - Adding variables
-  - Querying connected types
-  - Creating operation names
+  - [Using enum types and arguments](#using-enum-types-and-arguments)
+  - [Adding variables](#adding-variables)
+  - [Querying connected types](#querying-connected-types)
+  - [Creating operation names](#creating-operation-names)
 - [**3. Mutations and Subscriptions**](#3-mutations-and-subscriptions) (5 videos)
-  - Changing data with mutations
-  - Creating GraphQL fragments
-  - Working with subscriptions
-  - Challenge: Sending pet library queries
-  - Solution: Pet library query construction
+  - [Changing data with mutations](#changing-data-with-mutations)
+  - [Creating GraphQL fragments](#creating-graphql-fragments)
+  - [Working with subscriptions](#working-with-subscriptions)
+  - [Challenge: Sending pet library queries](#challenge-sending-pet-library-queries)
+  - [Solution: Pet library query construction](#solution-pet-library-query-construction)
 - [**4. Creating a GraphQL Server Schema**](#4-creating-a-graphql-server-schema) (4 videos)
-  - Introducing the GraphQL schema definition language
-  - Setting up a GraphQL server with Apollo Server
-  - Creating a custom object
-  - Adding an enumeration type
+  - [Introducing the GraphQL schema definition language](#introducing-the-graphql-schema-definition-language)
+  - [Setting up a GraphQL server with Apollo Server](#setting-up-a-graphql-server-with-apollo-server)
+  - [Creating a custom object](#creating-a-custom-object)
+  - [Adding an enumeration type](#adding-an-enumeration-type)
 - [**5. Schema Enhancements**](#5-schema-enhancements) (7 videos)
-  - Working with mutations
-  - Sending input types to mutations
-  - Building a custom scalar
-  - Returning a custom object
-  - Customizing schema mocks with Apollo Server
-  - Creating subscriptions
-  - Writing schema documentation
+  - [Working with mutations](#working-with-mutations)
+  - [Sending input types to mutations](#sending-input-types-to-mutations)
+  - [Building a custom scalar](#building-a-custom-scalar)
+  - [Returning a custom object](#returning-a-custom-object)
+  - [Customizing schema mocks with Apollo Server](#customizing-schema-mocks-with-apollo-server)
+  - [Creating subscriptions](#creating-subscriptions)
+  - [Writing schema documentation](#writing-schema-documentation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (6), data (5), api (3), database (1), cloud (1)
 > **Env Vars:** api (3)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - [eve] (1)
 
@@ -130,11 +130,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[Node.js]] (2), node (2), web (1), application (1)
 > **CLI Commands:** node (4)
 > **Prerequisites:** setup (1), you'll need (1), install (1)
 > **File Paths:** node.js (2)
 > **Tools:** terminal (1), command prompt (1)
-> **Code Keywords:** class, (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -142,7 +142,7 @@ created: 2026-04-29
 
 ### 1. What Is GraphQL?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980)
@@ -171,9 +171,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (6), api (3), data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** interface (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
@@ -258,8 +258,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[GraphQL]] (9), [[Representational State Transfer (REST)|Rest]] (4), api (4), [[JSON]] (3)
 > **Env Vars:** rest (4), http (4), api (4), json (3), post (2)
-> **Code Keywords:** let (3), function (2), for, (1), require (1)
 > **CLI Commands:** make (2), find (1)
 > **API Endpoints:** post  (2), put  (1)
 > **UI Navigation:** go to (2)
@@ -332,7 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), interface (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7), api (2), data (1), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** liftcount (4)
 > **Definitions:** in other words (2), is called (1), means that (1)
 > **Documentation:** spec (2), the docs (1)
@@ -344,7 +344,7 @@ created: 2026-04-29
 
 ### 2. GraphQL Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using enum types and arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/using-enum-types-and-arguments?u=76281980)
@@ -417,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), type. (1), enum (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -501,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (4), this, (1), this. (1), super (1)
+> **Frameworks & Libraries:** data (2), [[GraphQL]] (1), [[JSON]] (1), hit (1)
 > **Env Vars:** json (1), hold (1), closed (1)
 > **Definitions:** in other words (2), means that (1)
 > **Code Identifiers:** closedlifts (1), liftcount (1)
@@ -575,8 +575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), power (1), [[GraphQL]] (1), [[Search]] (1), api (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), type. (2)
 > **Code Identifiers:** trailaccess (3), alllifts (1), accessedbylifts (1)
 > **Documentation:** the documentation (1), the docs (1)
 > **Env Vars:** api (1)
@@ -635,7 +635,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), this. (1)
 > **UI Navigation:** click on (1), dropdown (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -643,7 +642,7 @@ created: 2026-04-29
 
 ### 3. Mutations and Subscriptions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Changing data with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980)
@@ -726,8 +725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[GraphQL]] (2), api (1)
 > **Env Vars:** closed (5), open (4), hold (1), post (1), api (1)
-> **Code Keywords:** let (5), pass (2), this, (2)
 > **Code Identifiers:** settrailstatus (2)
 > **CLI Commands:** find (1)
 > **API Endpoints:** post  (1)
@@ -790,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), this, (2), class, (1), for. (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), data (1)
 > **Code Identifiers:** elevationgain (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -838,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** data (6), [[GraphQL]] (4), web (2), [[Real-Time]] (1), application (1)
 > **Code Identifiers:** liftstatuschange (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -865,6 +864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (1), next (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **URLs:** [https://pet-library.moonhighway.com](https://pet-library.moonhighway.com) (1)
 > **UI Navigation:** go to (1)
@@ -945,7 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), type, (1), type. (1), pass (1)
+> **Frameworks & Libraries:** data (2), [[JSON]] (2)
 > **Code Identifiers:** incareof (2)
 > **Env Vars:** json (2)
 > **Documentation:** the documentation (1), the docs (1)
@@ -957,7 +957,7 @@ created: 2026-04-29
 
 ### 4. Creating a GraphQL Server Schema
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the GraphQL schema definition language
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/introducing-the-graphql-schema-definition-language?u=76281980)
@@ -1034,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), this. (1), case, (1), private (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3), api (3), data (1), next (1)
 > **Definitions:** is a  (3), in other words (1), means that (1)
 > **Env Vars:** api (3), url (1)
 > **CLI Commands:** make (1)
@@ -1138,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), function (2), abstract (2), type. (2), pass (1)
+> **Frameworks & Libraries:** data (5), [[GraphQL]] (4), next (3), [[npm]] (2), [[Node.js]] (2)
 > **CLI Commands:** npm (2), node (2), make (1)
 > **Code Identifiers:** totaldays (4), typedefs (1)
 > **File Paths:** node.js (2), index.js (1), package.json (1)
@@ -1190,7 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), this, (1)
+> **Frameworks & Libraries:** data (2), api (1), [[Programming]] (1), [[GraphQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
@@ -1247,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), let (2), enum (1)
+> **Frameworks & Libraries:** hit (4), next (1), data (1)
 > **Env Vars:** powder (1), heavy (1), ice (1), thin (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -1257,7 +1257,7 @@ created: 2026-04-29
 
 ### 5. Schema Enhancements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/working-with-mutations?u=76281980)
@@ -1290,7 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), pass (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** removeday (3)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -1349,7 +1349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), this, (2), let (1), type. (1), this. (1)
+> **Frameworks & Libraries:** data (2), front-end (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Code Identifiers:** addday (3), removeday (1)
 > **CLI Commands:** make (1)
@@ -1389,7 +1389,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** is a  (2)
-> **Code Keywords:** type, (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1452,7 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), type, (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), next (1)
 > **Code Identifiers:** removeday (3), totalbefore (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1545,7 +1544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), this. (3), pass (3), default. (2)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1581,7 +1580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1)
+> **Frameworks & Libraries:** api (1), hit (1)
 > **Code Identifiers:** newday (2)
 > **Analogies:** just like (2)
 > **CLI Commands:** find (1)
@@ -1640,7 +1639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (1), api (1)
 > **Env Vars:** api (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** open the (1)
@@ -1650,7 +1649,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/next-steps?u=76281980)
@@ -1671,6 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (3), aws (1)
 > **CLI Commands:** find (1), aws (1)
 > **URLs:** [graphql.org](https://graphql.org) (1)
 > **Env Vars:** aws (1)

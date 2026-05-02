@@ -28,7 +28,7 @@ tags:
   - skill/ethical-hacking
   - skill/oscp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Offensive%20Penetration%20Testing.md)
@@ -47,100 +47,100 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Offensive penetration testing course overview
+  - [Offensive penetration testing course overview](#offensive-penetration-testing-course-overview)
 - [**1. Setting the Foundation for Success**](#1-setting-the-foundation-for-success) (4 videos)
-  - Understanding the penetration test report
-  - Penetration test report demo
-  - Note-taking and mind mapping
-  - Finding resources to prepare for the offensive penetration testing
+  - [Understanding the penetration test report](#understanding-the-penetration-test-report)
+  - [Penetration test report demo](#penetration-test-report-demo)
+  - [Note-taking and mind mapping](#note-taking-and-mind-mapping)
+  - [Finding resources to prepare for the offensive penetration testing](#finding-resources-to-prepare-for-the-offensive-penetration-testing)
 - [**2. Kali Linux Basics**](#2-kali-linux-basics) (7 videos)
-  - Setting up the Kali Linux VM
-  - Overview of the tools in Kali Linux
-  - Understanding the command line
-  - Who, what, when, where, and how of the Linux command line
-  - Windows command lab
-  - Command line lab
-  - Command line lab walkthrough
+  - [Setting up the Kali Linux VM](#setting-up-the-kali-linux-vm)
+  - [Overview of the tools in Kali Linux](#overview-of-the-tools-in-kali-linux)
+  - [Understanding the command line](#understanding-the-command-line)
+  - [Who, what, when, where, and how of the Linux command line](#who-what-when-where-and-how-of-the-linux-command-line)
+  - [Windows command lab](#windows-command-lab)
+  - [Command line lab](#command-line-lab)
+  - [Command line lab walkthrough](#command-line-lab-walkthrough)
 - [**3. Understanding Network Protocols**](#3-understanding-network-protocols) (17 videos)
-  - Scanning network protocols
-  - Scanning with Nmap
-  - Scanning with MASSCAN
-  - Scanning with Netcat
-  - Using Wireshark
-  - Wireshark and Encrypted Traffic
-  - Weaponizing Wireshark
-  - SMB enumeration
-  - SMB enumeration demo
-  - NFS enumeration
-  - SMTP enumeration
-  - SNMP enumeration
-  - FTP enumeration
-  - FTP enumeration demo
-  - SSH enumeration
-  - Protocol tips
-  - Network Protocols Lab
+  - [Scanning network protocols](#scanning-network-protocols)
+  - [Scanning with Nmap](#scanning-with-nmap)
+  - [Scanning with MASSCAN](#scanning-with-masscan)
+  - [Scanning with Netcat](#scanning-with-netcat)
+  - [Using Wireshark](#using-wireshark)
+  - [Wireshark and Encrypted Traffic](#wireshark-and-encrypted-traffic)
+  - [Weaponizing Wireshark](#weaponizing-wireshark)
+  - [SMB enumeration](#smb-enumeration)
+  - [SMB enumeration demo](#smb-enumeration-demo)
+  - [NFS enumeration](#nfs-enumeration)
+  - [SMTP enumeration](#smtp-enumeration)
+  - [SNMP enumeration](#snmp-enumeration)
+  - [FTP enumeration](#ftp-enumeration)
+  - [FTP enumeration demo](#ftp-enumeration-demo)
+  - [SSH enumeration](#ssh-enumeration)
+  - [Protocol tips](#protocol-tips)
+  - [Network Protocols Lab](#network-protocols-lab)
 - [**4. Web Application Penetration Testing**](#4-web-application-penetration-testing) (15 videos)
-  - Web application enumeration
-  - Using intercepting proxies: Part 1
-  - Using intercepting proxies: Part 2
-  - SQL injections
-  - SQL injection authentication bypass
-  - Cross-Site Scripting (XSS)
-  - BeEF demo
-  - File inclusion vulnerabilities
-  - File inclusion demo
-  - File upload vulnerabilities
-  - XXE attacks
-  - Content management systems
-  - Content management systems demo
-  - Web application lab
-  - Web application lab walkthrough
+  - [Web application enumeration](#web-application-enumeration)
+  - [Using intercepting proxies: Part 1](#using-intercepting-proxies-part-1)
+  - [Using intercepting proxies: Part 2](#using-intercepting-proxies-part-2)
+  - [SQL injections](#sql-injections)
+  - [SQL injection authentication bypass](#sql-injection-authentication-bypass)
+  - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
+  - [BeEF demo](#beef-demo)
+  - [File inclusion vulnerabilities](#file-inclusion-vulnerabilities)
+  - [File inclusion demo](#file-inclusion-demo)
+  - [File upload vulnerabilities](#file-upload-vulnerabilities)
+  - [XXE attacks](#xxe-attacks)
+  - [Content management systems](#content-management-systems)
+  - [Content management systems demo](#content-management-systems-demo)
+  - [Web application lab](#web-application-lab)
+  - [Web application lab walkthrough](#web-application-lab-walkthrough)
 - [**5. Introduction to Buffer Overflow**](#5-introduction-to-buffer-overflow) (7 videos)
-  - How to practice buffer overflows
-  - Setting up the environment
-  - Fuzzing the application
-  - Finding bad characters
-  - Finding the return address
-  - Getting a shell
-  - Buffer overflow lab
+  - [How to practice buffer overflows](#how-to-practice-buffer-overflows)
+  - [Setting up the environment](#setting-up-the-environment)
+  - [Fuzzing the application](#fuzzing-the-application)
+  - [Finding bad characters](#finding-bad-characters)
+  - [Finding the return address](#finding-the-return-address)
+  - [Getting a shell](#getting-a-shell)
+  - [Buffer overflow lab](#buffer-overflow-lab)
 - [**6. Public Exploits**](#6-public-exploits) (7 videos)
-  - Where to look for public exploits
-  - Understanding the code
-  - Modifying the code to fit the environment
-  - Introduction to Metasploit
-  - Using Metasploit or not
-  - Public exploit lab
-  - Public exploit lab walkthrough
+  - [Where to look for public exploits](#where-to-look-for-public-exploits)
+  - [Understanding the code](#understanding-the-code)
+  - [Modifying the code to fit the environment](#modifying-the-code-to-fit-the-environment)
+  - [Introduction to Metasploit](#introduction-to-metasploit)
+  - [Using Metasploit or not](#using-metasploit-or-not)
+  - [Public exploit lab](#public-exploit-lab)
+  - [Public exploit lab walkthrough](#public-exploit-lab-walkthrough)
 - [**7. Getting a Shell, Now What?**](#7-getting-a-shell-now-what) (4 videos)
-  - The different types of shells
-  - How to upgrade a shell
-  - Transferring files to and from Kali Linux
-  - Transferring files demo
+  - [The different types of shells](#the-different-types-of-shells)
+  - [How to upgrade a shell](#how-to-upgrade-a-shell)
+  - [Transferring files to and from Kali Linux](#transferring-files-to-and-from-kali-linux)
+  - [Transferring files demo](#transferring-files-demo)
 - [**8. Privilege Escalation**](#8-privilege-escalation) (6 videos)
-  - Linux privilege escalation
-  - Windows privilege escalation
-  - A word on privilege escalation enumeration scripts
-  - Privilege escalation lab
-  - Privilege escalation walkthrough: Windows
-  - Privilege escalation walkthrough: Linux
+  - [Linux privilege escalation](#linux-privilege-escalation)
+  - [Windows privilege escalation](#windows-privilege-escalation)
+  - [A word on privilege escalation enumeration scripts](#a-word-on-privilege-escalation-enumeration-scripts)
+  - [Privilege escalation lab](#privilege-escalation-lab)
+  - [Privilege escalation walkthrough: Windows](#privilege-escalation-walkthrough-windows)
+  - [Privilege escalation walkthrough: Linux](#privilege-escalation-walkthrough-linux)
 - [**9. Password Cracking and Brute-Forcing Logins**](#9-password-cracking-and-brute-forcing-logins) (6 videos)
-  - Introduction to password cracking tools
-  - Introduction to login brute-forcing tools
-  - Password brute-forcing web logins
-  - Password brute-forcing tips
-  - Brute-force and password-cracking lab
-  - Brute-force and password-cracking lab walkthrough
+  - [Introduction to password cracking tools](#introduction-to-password-cracking-tools)
+  - [Introduction to login brute-forcing tools](#introduction-to-login-brute-forcing-tools)
+  - [Password brute-forcing web logins](#password-brute-forcing-web-logins)
+  - [Password brute-forcing tips](#password-brute-forcing-tips)
+  - [Brute-force and password-cracking lab](#brute-force-and-password-cracking-lab)
+  - [Brute-force and password-cracking lab walkthrough](#brute-force-and-password-cracking-lab-walkthrough)
 - [**10. Putting It All Together**](#10-putting-it-all-together) (3 videos)
-  - Hands-on penetration test lab
-  - Hands-on penetration test lab walkthrough
-  - Writing the report
+  - [Hands-on penetration test lab](#hands-on-penetration-test-lab)
+  - [Hands-on penetration test lab walkthrough](#hands-on-penetration-test-lab-walkthrough)
+  - [Writing the report](#writing-the-report)
 - [**11. Developing the Hacker Mindset**](#11-developing-the-hacker-mindset) (2 videos)
-  - Understanding the hacker mindset
-  - Tips on harnessing the hacker mindset
+  - [Understanding the hacker mindset](#understanding-the-hacker-mindset)
+  - [Tips on harnessing the hacker mindset](#tips-on-harnessing-the-hacker-mindset)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Offensive penetration testing course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980)
@@ -367,10 +367,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (3), [[Cybersecurity]] (3), [[Security]] (3), [[Linux]] (3), [[Kali Linux]] (2)
 > **Env Vars:** ceh (4), oscp (3), giac (2), sans (1), gpen (1)
 > **Definitions:** is a  (5)
 > **Code Identifiers:** elearnsecurity (1), ewpt (1), ecppt (1), elearn (1)
-> **Code Keywords:** public (2), let (1)
 > **Tools:** command line (1), bash (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** python (1)
@@ -379,7 +379,7 @@ created: 2026-04-29
 
 ### 1. Setting the Foundation for Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the penetration test report
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980)
@@ -568,9 +568,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (8), [[Security]] (5), [[SQL]] (4), [[Google]] (3), application (2)
 > **Env Vars:** oscp (8), cve (7), sql (4), cwe (2), pwk (2)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** this. (3), module (1), for. (1), if, (1)
 > **Ports:** port 22 (2)
 > **Best Practices:** don't forget (2)
 > **Code Identifiers:** elearn (1)
@@ -672,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Scripting]] (2), [[Microsoft]] (1), [[OSCP]] (1), web (1)
 > **Env Vars:** cve (7), cwe (6), cvss (5), ftp (1), iis (1)
-> **Code Keywords:** let (4), module (3), case, (1), public (1)
 > **Versions:** 5.0 (1), 6.0 (1), 9.3 (1), 8.8 (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
@@ -877,10 +877,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (11), [[OneNote]] (5), [[GitHub]] (4), [[Python (Programming Language)|Python]] (3), [[Linux]] (3)
 > **Env Vars:** oscp (11), pwk (3), php (1), ecppt (1)
 > **CLI Commands:** make (7), python (3), find (2), php (1)
 > **Tools:** github (4)
-> **Code Keywords:** class. (1), new. (1)
 > **Exercise Files:** github repo (2)
 > **Definitions:** is a  (2)
 > **Analogies:** kind of like (1)
@@ -1069,8 +1069,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (6), [[Penetration Testing]] (2), [[GitHub]] (2), vpn (2), next (2)
 > **Env Vars:** oscp (6), dvwa (3), vip (3), pwk (2), vpn (2)
-> **Code Keywords:** pass (3), this, (2), finally, (1), try, (1)
 > **Tools:** command line (3), github (2)
 > **CLI Commands:** make (1), find (1), mysql (1)
 > **Definitions:** is a  (3)
@@ -1079,7 +1079,7 @@ created: 2026-04-29
 
 ### 2. Kali Linux Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the Kali Linux VM
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980)
@@ -1360,7 +1360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (9), let (4), default, (3), while, (2), module (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (17), [[Virtualization]] (9), [[Windows]] (6), [[Linux]] (3), web (1)
 > **Env Vars:** iso (5), ram (3), ova (3), bios (2), usb (2)
 > **CLI Commands:** make (13), sudo (1)
 > **Prerequisites:** install (6), you'll need (1), make sure you have (1)
@@ -1584,11 +1584,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (4), web (4), hit (4), [[Search]] (2), [[Windows]] (2)
 > **Prerequisites:** install (15), setup (1), make sure you have (1), configure (1)
 > **CLI Commands:** sudo (5), apt (5), make (4), find (2), ls (1)
 > **Tools:** command line (6), firefox (4), terminal (2), zsh (1)
 > **UI Navigation:** go to (4), click on (3), right-click (3)
-> **Code Keywords:** default. (2), let (2), interface (2), while. (1)
 > **Env Vars:** gui (3)
 > **Cross-References:** later in (2), as we saw (1)
 > **File Paths:** config.yaml (1)
@@ -1778,10 +1778,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (9), [[Python (Programming Language)|Python]] (4), cd (4), [[Windows]] (3), hit (2)
 > **CLI Commands:** ssh (4), python (4), cd (4), make (4), apache (3)
 > **Env Vars:** pwk (3), ssh (3), rdp (2), vnc (2), oscp (1)
 > **Tools:** command line (7), bash (2), zsh (1)
-> **Code Keywords:** var (4), this. (1), let (1), delete (1)
 > **Definitions:** is a  (4)
 > **File Paths:** var.www.html (1), cybrary.txt (1)
 
@@ -1950,11 +1950,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[Search]] (3), [[OSCP]] (2), [[Windows]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (4), grep (3), make (2), sudo (2), ls (2)
 > **Tools:** command line (4), terminal (1), bash (1)
 > **Env Vars:** oscp (2), rwx (1)
 > **File Paths:** flag.txt (2)
-> **Code Keywords:** pass (1), this, (1)
 > **Cross-References:** we talked about (1)
 > **Documentation:** man page (1)
 > **Definitions:** is a  (1)
@@ -2102,6 +2102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (21), [[Linux]] (15), [[Powershell]] (5), web (3), [[Search]] (2)
 > **Tools:** command line (7), powershell (5), terminal (1)
 > **CLI Commands:** find (2), cat (2), cd (1), make (1), grep (1)
 > **Env Vars:** oscp (1), dll (1), iis (1), uac (1)
@@ -2151,9 +2152,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (2), next (1), [[Powershell]] (1), [[Search]] (1)
 > **CLI Commands:** find (4)
 > **Tools:** command line (2), powershell (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 
 #### Command line lab walkthrough
@@ -2279,8 +2280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Linux]] (1), [[Windows]] (1), [[Search]] (1), data (1)
 > **CLI Commands:** find (4), cat (3), grep (2), ls (1)
-> **Code Keywords:** let (4), switch (1), this. (1)
 > **Tools:** terminal (2), powershell (2), command line (1), zsh (1)
 > **File Paths:** flag.txt (1), 4.txt (1)
 > **Env Vars:** svc (2)
@@ -2288,7 +2289,7 @@ created: 2026-04-29
 
 ### 3. Understanding Network Protocols
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning network protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980)
@@ -2405,8 +2406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (6), dns (4), [[OSCP]] (2), prompt (1), [[Security]] (1)
 > **Env Vars:** tcp (6), udp (5), dns (4), ack (3), icmp (2)
-> **Code Keywords:** let (3), module (1), pass (1)
 > **URLs:** [google.com](https://google.com) (4)
 > **Ports:** port 53 (1), port 22 (1), port 80 (1), port 445 (1)
 > **CLI Commands:** ssh (2), make (1)
@@ -2607,12 +2608,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (3), [[Scripting]] (2), [[Google]] (2), [[Windows]] (2), [[Linux]] (1)
 > **Env Vars:** udp (6), ftp (4), tcp (3), oscp (3), smb (3)
 > **Code Identifiers:** sc (3), sv (3), il (1), su (1)
 > **Ports:** port 445 (1), port 21 (1), port 139 (1), port
 445 (1)
 > **CLI Commands:** find (2), sudo (1)
-> **Code Keywords:** while. (2), let (1)
 > **Versions:** 192.168.1 (2), 1.6.5 (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **Warnings:** be careful (2)
@@ -2768,8 +2769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[OSCP]] (2), [[Google]] (2), dns (2), [[Search]] (1)
 > **Env Vars:** oscp (2), dns (2), syn (2), ack (2), ssh (2)
-> **Code Keywords:** let (2), default. (1), delete (1), case, (1), super (1)
 > **Ports:** port 80 (2), port 1 (1), port 61 (1), port 21 (1), port 22 (1)
 > **CLI Commands:** ssh (2)
 > **URLs:** [google.com](https://google.com) (2)
@@ -3002,9 +3003,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), dns (3), [[OSCP]] (2), traffic (1), [[Search]] (1)
 > **CLI Commands:** python (11), find (3), awk (3), grep (2), chmod (2)
 > **Env Vars:** http (5), dns (3), oscp (2), https (2), awk (2)
-> **Code Keywords:** let (8), this. (3), super (1)
 > **Tools:** bash (6), command line (1)
 > **Ports:** port 80 (5), port 1 (1)
 > **Versions:** 192.168.1 (2), python 3 (2), 1.0 (1)
@@ -3116,8 +3117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (13), traffic (10), [[Scripting]] (3), [[Microsoft Defender|Defender]] (2), [[Search]] (2)
 > **Env Vars:** syn (4), ack (4), tcp (3), vpn (1), oscp (1)
-> **Code Keywords:** interface (2), this, (2), default, (1), default. (1), else. (1)
 > **Ports:** port 23 (5)
 > **Code Identifiers:** st (3)
 > **CLI Commands:** sudo (1), make (1)
@@ -3234,8 +3235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), [[Wireshark]] (6), [[Windows]] (3), data (2), [[Microsoft Defender|Defender]] (2)
 > **Env Vars:** ssl (3), pwk (2), ssh (1), oscp (1), https (1)
-> **Code Keywords:** let (4), this. (1)
 > **Ports:** port 22 (3), port
 12345 (1), port 12345 (1)
 > **Prerequisites:** set up (2)
@@ -3351,7 +3352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (3)
+> **Frameworks & Libraries:** [[Wireshark]] (8), [[Scripting]] (3), [[Google]] (3), [[Phishing]] (2), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** pwk (1), ocp (1), http (1), https (1), html (1)
 > **UI Navigation:** go to (4)
 > **Versions:** 8.0 (2)
@@ -3498,8 +3499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (4), [[Scripting]] (3), [[OSCP]] (2), [[Windows 10]] (1)
 > **Env Vars:** smb (24), ipc (3), oscp (2), cifs (1), nt1 (1)
-> **Code Keywords:** enum (3), for, (1), default, (1), this, (1), module (1)
 > **Versions:** version 1 (3), version 2 (1), version 3 (1)
 > **CLI Commands:** find (2)
 > **Ports:** port 139 (1), port 445 (1)
@@ -3742,8 +3743,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[Windows]] (6), [[Microsoft PowerPoint|Powerpoint]] (3), hit (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** smb (9), ieuser (7), asp (7), msf (4), roku (2)
-> **Code Keywords:** let (18), enum (7), this. (2), module (2), this, (2)
 > **CLI Commands:** make (3), find (2), ssh (1), ls (1)
 > **Tools:** terminal (4)
 > **Code Identifiers:** reverse_tcp (3)
@@ -3895,9 +3896,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[OSCP]] (1), [[Linux]] (1)
 > **Env Vars:** nfs (13), ssh (6), tcp (3), udp (3), smb (2)
 > **CLI Commands:** ssh (7), make (3), cat (2)
-> **Code Keywords:** public (4), this, (2), case, (1), this. (1), let (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Ports:** port 2049 (1)
 > **Analogies:** kind of like (1)
@@ -4007,8 +4008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), next (1), [[MySQL]] (1), data (1), web (1)
 > **Env Vars:** smtp (15), cve (1), ssh (1), ftp (1), nfs (1)
-> **Code Keywords:** let (4), enum (2), var (1), this. (1), while, (1)
 > **CLI Commands:** find (1), mysql (1), ssh (1), cat (1), make (1)
 > **Ports:** port 25 (5)
 > **Definitions:** stands for (1), means that (1), is an  (1), is a  (1)
@@ -4129,8 +4130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), management (2), [[Google]] (2), database (1), game (1)
 > **Env Vars:** snmp (27), oid (5), mib (2), udp (2), sshd (2)
-> **Code Keywords:** public (4), module (2), private (1)
 > **CLI Commands:** sudo (2), find (1)
 > **Versions:** version 1 (2), 192.168.1 (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -4198,11 +4199,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), prompt (1), [[HTML]] (1), [[Scripting]] (1), [[Google]] (1)
 > **Env Vars:** ftp (16), sftp (1), html (1), pwk (1)
 > **Code Identifiers:** ftp_anon (1), ftp_cest (1)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Ports:** port 21 (1)
 > **UI Navigation:** switch to (1)
 
@@ -4351,7 +4352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), switch (1), module (1), try. (1)
+> **Frameworks & Libraries:** web (5), [[Windows]] (3), [[Scripting]] (1), [[Search]] (1), [[Google]] (1)
 > **Env Vars:** ftp (11), smb (3), iis (1), msf (1), asp (1)
 > **CLI Commands:** find (2), make (1), ls (1)
 > **Ports:** port 2121 (3), port 21 (1)
@@ -4593,9 +4594,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), web (5), [[Wireshark]] (2), traffic (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** ssh (23), ec2 (6), rsa (3), socks4 (3), nfs (2)
 > **CLI Commands:** ssh (26), cat (2), aws (1), make (1), curl (1)
-> **Code Keywords:** private (10), public (8), module (2), for, (2), let (2)
 > **Ports:** port 22 (5), port 80 (4), port 1234 (2), port 9050 (2)
 > **Versions:** 7.4 (3), 192.168.1 (3), 10.123.123 (2), 10.10.10 (1)
 > **Tools:** bash (3), zsh (1), command prompt (1)
@@ -4755,10 +4756,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[OSCP]] (2), [[Linux]] (2), hit (1), [[Google]] (1)
 > **Env Vars:** ftp (7), oscp (2), ssh (1), http (1), acp (1)
 > **Ports:** port 22 (3), port 21 (2), port 2121 (1)
 > **CLI Commands:** find (4), ssh (1)
-> **Code Keywords:** let (4), from. (1)
 > **Cross-References:** as we saw (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -4802,13 +4803,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (3)
 > **Env Vars:** ssh (1), smb (1), nfs (1)
 > **CLI Commands:** ssh (1)
 
 
 ### 4. Web Application Penetration Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web application enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980)
@@ -5175,9 +5177,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (14), [[Microsoft Word|Word]] (6), web application (4), [[WordPress]] (4), [[OSCP]] (4)
 > **Env Vars:** http (9), oscp (4), crsf (4), https (3), php (3)
 > **CLI Commands:** apache (4), curl (4), find (3), php (3), nginx (1)
-> **Code Keywords:** this. (5), let (4), super (3), this, (2), try. (1)
 > **Versions:** 1.0 (5), 2.3 (1), 192.168.1 (1), 1.1 (1), 127.0.0 (1)
 > **File Paths:** robots.txt (3), directory-list-2.3-medium.txt (1)
 > **Code Identifiers:** curl (4)
@@ -5367,10 +5369,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (18), web (6), [[OSCP]] (4), [[Security]] (3), feature (3)
 > **Env Vars:** zap (4), oscp (4), https (4), post (3), owasp (2)
 > **API Endpoints:** get  (3), post  (3)
 > **Prerequisites:** install (3), set up (2)
-> **Code Keywords:** this. (1), default. (1), type. (1), function (1)
 > **CLI Commands:** grep (2), make (1)
 > **Versions:** version 2 (1), version 1 (1), 1.0 (1)
 > **Analogies:** such as (3)
@@ -5605,9 +5607,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (11), [[Scripting]] (4), [[SQL]] (3), feature (2), next (2)
 > **UI Navigation:** go to (15), right-click (1), double-click (1)
 > **Env Vars:** zap (4), http (3), sql (3), https (1), dom (1)
-> **Code Keywords:** let (5), this. (2), this, (2), switch (1), default. (1)
 > **CLI Commands:** make (4), grep (2), find (1)
 > **Versions:** 127.0.0 (2), 192.168.1 (1)
 > **Prerequisites:** set up (2), install (1)
@@ -5867,10 +5869,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (24), database (14), [[MySQL]] (12), [[Databases]] (7), web (3)
 > **Env Vars:** sql (24), oscp (3), url (2), dvwa (2), where (2)
 > **CLI Commands:** mysql (12), find (3), make (1)
 > **Code Identifiers:** information_schema (3), table_name (2), schema_name (1), table_schema (1), column_name (1)
-> **Code Keywords:** let (5), delete (1), module (1)
 > **Definitions:** is a  (5), is an  (2)
 > **SQL:** where (2)
 > **Versions:** version 5 (1)
@@ -6031,10 +6033,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (10), database (3), [[Google]] (3), [[OSCP]] (2), web (2)
 > **Env Vars:** sql (10), oscp (2), cve (1), sms (1)
 > **CLI Commands:** find (5), make (2), curl (2), python (2), mysql (1)
 > **Versions:** version 2 (2), 1.2 (2), 2.1.2 (1)
-> **Code Keywords:** let (2), case, (1)
 > **Code Identifiers:** curl (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the last (1)
@@ -6255,8 +6257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (15), [[JavaScript]] (11), dom (7), [[HTML]] (5), web (4)
 > **Env Vars:** dom (7), url (5), html (4), sql (2), ftp (1)
-> **Code Keywords:** let (2), module (1), static (1), interface (1), var (1)
 > **CLI Commands:** apache (2), make (1), find (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -6437,7 +6439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (2), module (1), try. (1), for. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[HTML]] (2), application (2), [[Scripting]] (1), [[Search]] (1)
 > **Ports:** port 25 (5), port 8000 (1)
 > **Env Vars:** html (2), smtp (1), oscp (1), urgent (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -6621,9 +6623,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (13), [[Windows]] (5), [[Linux]] (4), web application (1), data (1)
 > **Env Vars:** php (10), ssh (5), rfi (5), ftp (4), lfi (3)
 > **CLI Commands:** php (13), ssh (5), make (2), apache (1), nginx (1)
-> **Code Keywords:** this. (4), private (2), default. (2), this, (2), for. (1)
 > **File Paths:** wp-load.php (2), desktop.ini (1), win.ini (1), filter.php (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** later in (2), in the last (1)
@@ -6743,9 +6745,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), [[Linux]] (2), [[Windows]] (2), [[Ubuntu]] (1)
 > **CLI Commands:** php (6), ssh (5), make (3), apache (1), chmod (1)
 > **Env Vars:** php (4), ssh (4), lfi (3), rfi (2), dvwa (1)
-> **Code Keywords:** let (2), private (1), case, (1)
 > **Ports:** port 8000 (2), :4444 (1), :8000 (1)
 > **Versions:** 192.168.1 (2), 2.2.8 (1)
 > **Prerequisites:** set up (3)
@@ -6853,9 +6855,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (17), application (3), [[Burp Suite]] (2), [[Google]] (1)
 > **Env Vars:** php (14), jpeg (7), asp (2), jfif (2), gif (2)
 > **CLI Commands:** php (17)
-> **Code Keywords:** case, (2), for . (1), try. (1), from. (1), this, (1)
 > **Definitions:** is a  (1)
 
 #### XXE attacks
@@ -7097,9 +7099,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (15), [[Burp Suite]] (4), [[HTML]] (3), application (2), data (2)
 > **Env Vars:** xxe (17), php (12), xml (10), html (3), ssrf (2)
 > **CLI Commands:** php (15), curl (2), python (1), ls (1)
-> **Code Keywords:** let (11), this, (2), this. (2), case, (1), default, (1)
 > **File Paths:** shell.php (3)
 > **Definitions:** is a  (2), stands for (1)
 > **Code Identifiers:** curl (2)
@@ -7261,6 +7263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (20), [[Drupal]] (15), cms (9), [[PHP]] (7), database (4)
 > **Env Vars:** cms (9), php (7), api (3), sql (2), html (1)
 > **CLI Commands:** find (7), php (7), make (5), python (1), mysql (1)
 > **URLs:** [wpscan.com](https://wpscan.com) (1)
@@ -7446,10 +7449,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (11), [[PHP]] (9), database (7), api (3), [[MySQL]] (2)
 > **CLI Commands:** php (9), make (3), mysql (2), apache (1), curl (1)
 > **Env Vars:** php (6), api (3), cms (1), xmlrpc (1), pen (1)
 > **Code Identifiers:** phpmyadmin (7), curl (1), wp_user (1), cat_user_share_web_shell (1)
-> **Code Keywords:** let (4), this. (2), default. (1)
 > **Versions:** version 3 (1), 1.4 (1), 3.1.5 (1), 3.1.4 (1), 192.168.177 (1)
 > **UI Navigation:** go to (5)
 > **File Paths:** robots.txt (1), twentytwenty/404.php (1), 404.php (1)
@@ -7476,6 +7479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Windows]] (2), [[Linux]] (2), web application (1), api (1)
 > **Env Vars:** api (1)
 
 #### Web application lab walkthrough
@@ -7843,9 +7847,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (16), [[WordPress]] (10), [[Windows]] (6), [[SQL]] (5), [[Linux]] (4)
 > **CLI Commands:** php (16), curl (7), make (3), cat (1), find (1)
 > **Env Vars:** php (8), sql (5), api (3), poc (3), msf (2)
-> **Code Keywords:** let (7), this. (4), this, (4), module (4), throw (1)
 > **Versions:** 192.168.1 (8), 192.168.150 (1)
 > **Definitions:** is a  (7), is an  (2)
 > **File Paths:** shell.php (3), webdav.txt (2), user/share/webshells/php/php-reverse-shell.php (1), robots.txt (1), simple-backdoor.php (1)
@@ -7855,7 +7859,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Buffer Overflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to practice buffer overflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980)
@@ -7956,8 +7960,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[OSCP]] (2), [[Python (Programming Language)|Python]] (1), [[Penetration Testing]] (1), [[Windows 10]] (1)
 > **Env Vars:** pwk (3), oscp (2), ftp (2), pdf (2)
-> **Code Keywords:** this. (3), this, (1), continue (1), module (1)
 > **Prerequisites:** install (3), you need to have (2)
 > **CLI Commands:** find (2), python (1)
 > **Versions:** 1.4.1 (2), version 1 (1)
@@ -8085,9 +8089,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Windows]] (2), hit (2), next (2), prompt (1)
 > **CLI Commands:** python (12), make (3), find (1)
 > **Versions:** python 3 (4), python 2 (4), 9.1 (1)
-> **Code Keywords:** this. (4), let (1)
 > **Env Vars:** pdf (2), tcp (1)
 > **Cross-References:** go back to (2)
 > **Tools:** command prompt (1)
@@ -8235,9 +8239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Python (Programming Language)|Python]] (2), next (1), hit (1)
 > **Env Vars:** eip (13), evp (1)
 > **CLI Commands:** find (5), make (5), python (2)
-> **Code Keywords:** this. (1), module (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -8329,7 +8333,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** eip (1), esp (1)
 > **UI Navigation:** go to (1)
@@ -8420,9 +8423,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), hit (1)
 > **Env Vars:** jmp (8), esp (8), aslr (1), pwk (1), pen (1)
 > **CLI Commands:** find (8), chmod (2), python (1)
-> **Code Keywords:** this, (2), module (1), let (1)
 > **UI Navigation:** go to (2), toggle (1)
 > **Warnings:** warning (1), keep in mind (1)
 > **Code Identifiers:** msf_nasm (1)
@@ -8542,9 +8545,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Python (Programming Language)|Python]] (3), prompt (2)
 > **CLI Commands:** python (3), find (3), make (2)
 > **Env Vars:** tcp (3), nop (3), pwk (1)
-> **Code Keywords:** this, (2), let (1), function (1)
 > **Prerequisites:** set up (3)
 > **Code Identifiers:** shikata_ga_nai (1)
 > **Cross-References:** go back to (1)
@@ -8638,8 +8641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Python (Programming Language)|Python]] (2), [[Linux]] (1), next (1)
 > **CLI Commands:** make (2), python (2), find (1)
-> **Code Keywords:** module (2), this. (2), let (1)
 > **File Paths:** chars.txt (2)
 > **Env Vars:** esp (1), eip (1)
 > **Versions:** 192.168.1 (2)
@@ -8649,7 +8652,7 @@ created: 2026-04-29
 
 ### 6. Public Exploits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to look for public exploits
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980)
@@ -8788,8 +8791,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Search]] (5), [[Google]] (3), database (3), [[SQL]] (2)
 > **Env Vars:** cve (4), ctf (4), sql (2), cvss (1), ftp (1)
-> **Code Keywords:** public (4), module (3), function (1), case, (1), from. (1)
 > **CLI Commands:** find (8)
 > **Tools:** github (6), command line (1)
 > **Exercise Files:** download the (3)
@@ -8954,12 +8957,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[WordPress]] (4), [[Google]] (3), [[OSCP]] (2), [[Scripting]] (2)
 > **CLI Commands:** python (19), ssh (1), make (1)
 > **Env Vars:** oscp (2), ftp (2), msf (2), ssh (1), smtp (1)
 > **Versions:** python 3 (6), python 2 (4), 192.168.17 (1)
 > **Tools:** github (2), command line (2), bash (1)
 > **Ports:** port 21 (1), port 22 (1), port 25 (1), port 2525 (1)
-> **Code Keywords:** pass (1), module (1), case. (1)
 > **URLs:** [vulnerablesite.com](https://vulnerablesite.com) (2)
 > **Analogies:** it's like (1), kind of like (1)
 
@@ -9106,9 +9109,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[WordPress]] (4), [[Google]] (2), [[PHP]] (1), web (1)
 > **CLI Commands:** find (5), python (5), chmod (2), php (1)
 > **Env Vars:** ftp (5), php (1), smb (1), rdp (1), msf (1)
-> **Code Keywords:** let (2), this, (1), this. (1), while. (1), module (1)
 > **Versions:** python 2 (3)
 > **Ports:** port 5000 (1), port 21 (1)
 > **URLs:** [db.com](https://db.com) (1)
@@ -9338,7 +9341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (12), let (5), case, (3), public (2), this. (2)
+> **Frameworks & Libraries:** [[OSCP]] (7), database (6), [[Search]] (5), [[Windows]] (4), [[Security]] (2)
 > **Env Vars:** oscp (7), tcp (2), asp (1), ftp (1), ctf (1)
 > **CLI Commands:** ruby (4), make (2), python (1), find (1)
 > **Definitions:** is a  (4)
@@ -9478,9 +9481,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (8), [[SQL]] (4), [[Security]] (2), [[Algorithms]] (1), [[GitHub]] (1)
 > **Env Vars:** oscp (8), sql (4), pwk (2), lhost (1), faq (1)
 > **CLI Commands:** find (6), make (3), curl (1), ruby (1)
-> **Code Keywords:** module (5), self (1), public (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** curl (1)
@@ -9508,8 +9511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (2)
 
 #### Public exploit lab walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980)
@@ -9624,7 +9627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), let (2), throw (2), this, (2), public (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ftp (5), pwk (1)
 > **CLI Commands:** make (3), chmod (1), find (1)
 > **Ports:** port 2121 (3), port 21 (1), port
@@ -9635,7 +9638,7 @@ created: 2026-04-29
 
 ### 7. Getting a Shell, Now What?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The different types of shells
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980)
@@ -9836,8 +9839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Windows]] (5), web (5), [[OSCP]] (2), [[Linux]] (2)
 > **CLI Commands:** sudo (11), python (8), ssh (4), find (2), make (2)
-> **Code Keywords:** module (4), require (2), this. (2), case, (2), let (1)
 > **Env Vars:** ssh (4), oscp (2), pwk (2), tcp (1), php (1)
 > **Tools:** bash (6), command prompt (1)
 > **Definitions:** is a  (5)
@@ -9992,10 +9995,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[OSCP]] (3), [[PHP]] (2), web (2), [[Linux]] (1)
 > **CLI Commands:** python (7), ssh (2), php (2), python3 (2), find (1)
 > **Env Vars:** oscp (3), ssh (2), php (2), pwk (1), rce (1)
 > **Tools:** bash (8), terminal (2)
-> **Code Keywords:** module (2), switch (2), case, (1), try. (1)
 > **Definitions:** is a  (5)
 > **Warnings:** note that (2), be careful (1)
 > **Prerequisites:** set up (1)
@@ -10143,10 +10146,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Windows]] (4), [[Powershell]] (3), [[HTML]] (2), web (2)
 > **CLI Commands:** ssh (5), python (4), curl (4), wget (4), python3 (3)
 > **Env Vars:** smb (7), ftp (6), ssh (5), http (2), hdp (1)
 > **Prerequisites:** set up (5), install (1), you need to have (1)
-> **Code Keywords:** var (2), this, (1), module (1), let (1)
 > **Tools:** powershell (3), github (1)
 > **Code Identifiers:** curl (3)
 > **Ports:** port 8000 (1), port 21 (1)
@@ -10321,8 +10324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (7), [[PHP]] (3), [[Python (Programming Language)|Python]] (2), [[Content Management Systems (CMS)|Content management systems]] (1), hit (1)
 > **CLI Commands:** php (3), curl (3), python (2), make (1), cat (1)
-> **Code Keywords:** let (4), this. (2), this, (1), module (1)
 > **Tools:** bash (4), terminal (2)
 > **File Paths:** dirty.c (2), shell.php (1), secret.txt (1), dirtycow.c (1)
 > **Ports:** :8000 (2), port 8000 (1)
@@ -10333,7 +10336,7 @@ created: 2026-04-29
 
 ### 8. Privilege Escalation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linux privilege escalation
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980)
@@ -10472,9 +10475,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), [[OSCP]] (1), [[Windows]] (1), [[Search]] (1), [[Google]] (1)
 > **CLI Commands:** sudo (6), find (4), make (2)
 > **Env Vars:** suid (4), gcc (2), oscp (1)
-> **Code Keywords:** module (2), this. (1), this, (1)
 > **Versions:** 3.2.0 (1), 2.6.22 (1), 3.9 (1)
 > **Cross-References:** as you saw (2), go back to (1)
 > **Tools:** command line (2), github (1)
@@ -10688,7 +10691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), function (3), default. (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Windows]] (23), [[Powershell]] (6), [[OSCP]] (3), [[Linux]] (3), next (1)
 > **Tools:** powershell (6), command line (2)
 > **Env Vars:** oscp (3), smb (2), pwk (1)
 > **CLI Commands:** find (3), make (1)
@@ -10816,9 +10819,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (11), [[Python (Programming Language)|Python]] (9), [[Linux]] (3), [[OSCP]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (9), find (2), make (1)
 > **Env Vars:** oscp (2), suid (2), ctf (1), gps (1)
-> **Code Keywords:** let (1), for. (1), this, (1), default, (1), default. (1)
 > **Analogies:** it's like (1), just like (1)
 > **File Paths:** linuxprivchecker.py (1)
 > **Code Identifiers:** winpeas (1)
@@ -10866,8 +10869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Linux]] (6)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** default. (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
@@ -11088,8 +11091,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), web (3), [[Python (Programming Language)|Python]] (2), [[OSCP]] (2), [[Powershell]] (2)
 > **CLI Commands:** make (8), python (2), systemctl (1)
-> **Code Keywords:** let (4), this, (2), while. (1), var (1), module (1)
 > **Env Vars:** http (2), oscp (2), lhost (1), lport (1)
 > **Versions:** 192.168.1 (3), 2.3 (1), python 3 (1)
 > **Ports:** :8000 (2), port 5555 (1), port 80 (1)
@@ -11270,8 +11273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[PHP]] (3), web (1), [[Ubuntu]] (1)
 > **CLI Commands:** php (3), make (2), chmod (2), find (2), apache (1)
-> **Code Keywords:** let (7), this. (3)
 > **Env Vars:** suid (4), php (2), lhost (2), lport (2)
 > **Versions:** 192.168.1 (4)
 > **Ports:** port 8888 (1), :8888 (1)
@@ -11282,7 +11285,7 @@ created: 2026-04-29
 
 ### 9. Password Cracking and Brute-Forcing Logins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to password cracking tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980)
@@ -11447,10 +11450,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Google]] (3), [[Kali Linux]] (2), [[WordPress]] (2), [[OSCP]] (1)
 > **Env Vars:** md5 (4), sha (3), gui (2), oscp (1), pwk (1)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2), php (1), unzip (1)
-> **Code Keywords:** module (1), pass (1), default. (1), throw (1)
 > **File Paths:** rockyou.txt (3)
 > **Tools:** command line (3)
 > **Analogies:** just like (1)
@@ -11538,6 +11541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (2), web (1), [[Forms]] (1), next (1)
 > **Env Vars:** ssh (3), smb (3), thc (1), ftp (1), pwk (1)
 > **CLI Commands:** ssh (3), find (1)
 > **Cross-References:** in the next (1)
@@ -11808,7 +11812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (1), for. (1), this. (1), while. (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (12), web (5), data (3), [[WordPress]] (3), [[OSCP]] (1)
 > **Env Vars:** cwel (4), http (1), oscp (1), cewl (1)
 > **CLI Commands:** cat (2), make (2), find (1)
 > **UI Navigation:** go to (4)
@@ -12082,8 +12086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[WordPress]] (2), [[Microsoft Word|Word]] (1), management (1), [[HTML]] (1)
 > **Env Vars:** ieuser (7), snmp (5), smb (5), sha (3), oid (2)
-> **Code Keywords:** let (11), case, (1), else. (1), case. (1), try. (1)
 > **CLI Commands:** find (4), make (2), ssh (1)
 > **Warnings:** be aware (4)
 > **Code Identifiers:** su (1), sc (1)
@@ -12112,7 +12116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 
 #### Brute-force and password-cracking lab walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980)
@@ -12279,9 +12283,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** sha (6), md5 (4), msf (2)
 > **CLI Commands:** cat (3), find (2), unzip (1), make (1)
-> **Code Keywords:** this. (2), let (1), this, (1), default. (1)
 > **File Paths:** rockyou.txt (2)
 > **Ports:** port
 1524 (1)
@@ -12292,7 +12296,7 @@ created: 2026-04-29
 
 ### 10. Putting It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on penetration test lab
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980)
@@ -12310,6 +12314,10 @@ created: 2026-04-29
 > **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980&t=18)** And good luck.
 >
 > **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980&t=20)** Become root and I will see you in the walkthrough.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[Capstone]] (1), [[Linux]] (1)
 
 #### Hands-on penetration test lab walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980)
@@ -12538,8 +12546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[MySQL]] (3), [[SQL]] (3), [[PHP]] (2), database (2)
 > **CLI Commands:** sudo (6), cat (5), ls (5), ssh (4), mysql (3)
-> **Code Keywords:** let (11), this. (5), this, (1)
 > **Env Vars:** ssh (4), sql (3), php (1), http (1)
 > **URLs:** [test.com](https://test.com) (1), [skytech.com](https://skytech.com) (1), [http://192.168.1.90](http://192.168.1.90) (1), [http://31283128](http://31283128) (1)
 > **Ports:** port 22 (3), port 3128 (1)
@@ -12758,9 +12766,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (7), node (2), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), business (1)
 > **Env Vars:** oscp (7), pwk (3), udp (2), cve (2), cvss (2)
 > **CLI Commands:** make (6), find (3), node (2)
-> **Code Keywords:** public (2), pass (2), this. (1), let (1)
 > **Best Practices:** don't forget (3)
 > **File Paths:** local.txt (1), proof.txt (1)
 > **URLs:** [first.org](https://first.org) (1)
@@ -12769,7 +12777,7 @@ created: 2026-04-29
 
 ### 11. Developing the Hacker Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the hacker mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980)
@@ -12922,9 +12930,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[Microsoft Word|Word]] (2), [[Windows]] (2), career (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3), php (3), find (1)
 > **Env Vars:** php (3), asp (2), mit (1), oscp (1)
-> **Code Keywords:** module (1), type, (1), if, (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -13082,8 +13090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (5), web (4), cloud (2), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** oscp (5), gpen (2), fbi (1), aws (1), gcp (1)
-> **Code Keywords:** this. (2), throw (1), this, (1), let (1)
 > **CLI Commands:** make (2), aws (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Documentation:** stack overflow (1)

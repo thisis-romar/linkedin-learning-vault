@@ -31,7 +31,7 @@ tags:
   - skill/security-architecture-design
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Foundations-%20Security%20Architecture.md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Protect your enterprise with the four disciplines of cybersecurity
-  - A brief introduction to security architecture frameworks
-  - A function and component-based approach to security architecture
-  - The four disciplines of cybersecurity
+  - [Protect your enterprise with the four disciplines of cybersecurity](#protect-your-enterprise-with-the-four-disciplines-of-cybersecurity)
+  - [A brief introduction to security architecture frameworks](#a-brief-introduction-to-security-architecture-frameworks)
+  - [A function and component-based approach to security architecture](#a-function-and-component-based-approach-to-security-architecture)
+  - [The four disciplines of cybersecurity](#the-four-disciplines-of-cybersecurity)
 - [**1. Developing Your Identity Management Program**](#1-developing-your-identity-management-program) (3 videos)
-  - Generating your identity management objectives
-  - Collecting your core identity management capabilities
-  - Assembling your identity management platform
+  - [Generating your identity management objectives](#generating-your-identity-management-objectives)
+  - [Collecting your core identity management capabilities](#collecting-your-core-identity-management-capabilities)
+  - [Assembling your identity management platform](#assembling-your-identity-management-platform)
 - [**2. Developing Your Vulnerability Management Program**](#2-developing-your-vulnerability-management-program) (3 videos)
-  - Generating your vulnerability management objectives
-  - Collecting your core vulnerability management capabilities
-  - Assembling your vulnerability management platform
+  - [Generating your vulnerability management objectives](#generating-your-vulnerability-management-objectives)
+  - [Collecting your core vulnerability management capabilities](#collecting-your-core-vulnerability-management-capabilities)
+  - [Assembling your vulnerability management platform](#assembling-your-vulnerability-management-platform)
 - [**3. Developing Your Threat Management Program**](#3-developing-your-threat-management-program) (3 videos)
-  - Generating your threat management objectives
-  - Collecting your core threat management capabilities
-  - Assembling your threat management platform
+  - [Generating your threat management objectives](#generating-your-threat-management-objectives)
+  - [Collecting your core threat management capabilities](#collecting-your-core-threat-management-capabilities)
+  - [Assembling your threat management platform](#assembling-your-threat-management-platform)
 - [**4. Developing Your Trust Management Program**](#4-developing-your-trust-management-program) (3 videos)
-  - Generating your trust management objectives
-  - Collecting your core trust management capabilities
-  - Assembling your trust management platform
+  - [Generating your trust management objectives](#generating-your-trust-management-objectives)
+  - [Collecting your core trust management capabilities](#collecting-your-core-trust-management-capabilities)
+  - [Assembling your trust management platform](#assembling-your-trust-management-platform)
 - [**5. Developing Security Architecture Patterns**](#5-developing-security-architecture-patterns) (2 videos)
-  - Building an enterprise reference security architecture
-  - Building a zero trust architecture
+  - [Building an enterprise reference security architecture](#building-an-enterprise-reference-security-architecture)
+  - [Building a zero trust architecture](#building-a-zero-trust-architecture)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect your enterprise with the four disciplines of cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (1), product (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [pete] (1)
 
@@ -141,8 +142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), data (2), next (1), [[NIST]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** cia (1), rand (1), adp (1), iso (1)
-> **Code Keywords:** finally, (1), protected (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -195,8 +196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (2), management (2), [[Security]] (1), functional (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### The four disciplines of cybersecurity
@@ -254,7 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), require (1)
+> **Frameworks & Libraries:** management (14), [[Security]] (4), [[Cybersecurity]] (3), data (1), [[Search]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -262,7 +263,7 @@ created: 2026-04-29
 
 ### 1. Developing Your Identity Management Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating your identity management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980)
@@ -301,7 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** management (7), [[Cybersecurity]] (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -344,7 +345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), function (1)
+> **Frameworks & Libraries:** management (5), [[Real-Time]] (2), business (1), [[Security]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Assembling your identity management platform
@@ -398,7 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** management (7), [[Forms]] (1), [[Microsoft]] (1), [[Active Directory]] (1), [[Analytics]] (1)
 > **Env Vars:** xacml (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -406,7 +407,7 @@ created: 2026-04-29
 
 ### 2. Developing Your Vulnerability Management Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating your vulnerability management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980)
@@ -455,7 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** management (7), [[Security]] (2), [[Cybersecurity]] (1), [[Real-Time]] (1), feature (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -503,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (1), static (1), self (1)
+> **Frameworks & Libraries:** management (10), [[Search]] (2), [[Cybersecurity]] (1), application (1)
 > **Env Vars:** rasp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -574,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1), self (1), finally, (1)
+> **Frameworks & Libraries:** management (4), [[Real-Time]] (2), application (2), cloud (1), [[DevOps]] (1)
 > **Exercise Files:** source code (2)
 > **Env Vars:** cots (1)
 > **Speakers:** - [instructor] (1)
@@ -582,7 +583,7 @@ created: 2026-04-29
 
 ### 3. Developing Your Threat Management Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating your threat management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980)
@@ -627,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** management (12), [[Cybersecurity]] (2), [[React.js|React]] (2), game (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -670,7 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** management (10), data (3), [[Security]] (2), [[Search]] (1), [[Intrusion Detection]] (1)
 > **CLI Commands:** cat (1)
 > **Speakers:** - [instructor] (1)
 
@@ -711,7 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), continue (1)
+> **Frameworks & Libraries:** management (4), data (3), [[Search]] (2), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -720,7 +721,7 @@ created: 2026-04-29
 
 ### 4. Developing Your Trust Management Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating your trust management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980)
@@ -765,7 +766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** management (13), [[Cybersecurity]] (3), data (3), business (1), [[Security]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -814,7 +815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), private (1)
+> **Frameworks & Libraries:** management (12), data (10), [[Real-Time]] (3), [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** rails (1)
 > **Env Vars:** pki (1)
 > **Speakers:** - [instructor] (1)
@@ -862,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (1), private (1), continue (1)
+> **Frameworks & Libraries:** management (5), data (3), next (2), application (2), [[Virtual Machines]] (1)
 > **Env Vars:** grc (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - in (1)
@@ -870,7 +871,7 @@ created: 2026-04-29
 
 ### 5. Developing Security Architecture Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building an enterprise reference security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980)
@@ -921,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** management (13), [[Security]] (7), [[Cybersecurity]] (5), product (2), [[Search]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -968,13 +969,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (2), data (1), cloud (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980)
@@ -1001,7 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), management (4), [[Security]] (2), [[Economic Analysis]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cso (1), rsa (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [pete] (1)

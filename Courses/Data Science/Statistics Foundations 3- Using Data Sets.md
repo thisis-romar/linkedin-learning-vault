@@ -34,7 +34,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%203-%20Using%20Data%20Sets.md)
@@ -53,37 +53,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Discover samples, confidence intervals, and hypothesis testing
+  - [Discover samples, confidence intervals, and hypothesis testing](#discover-samples-confidence-intervals-and-hypothesis-testing)
 - [**1. Sampling**](#1-sampling) (3 videos)
-  - Sample considerations
-  - Random samples
-  - Alternative to random samples
+  - [Sample considerations](#sample-considerations)
+  - [Random samples](#random-samples)
+  - [Alternative to random samples](#alternative-to-random-samples)
 - [**2. Sample Size**](#2-sample-size) (2 videos)
-  - The importance of sample size
-  - The central limit theorem
+  - [The importance of sample size](#the-importance-of-sample-size)
+  - [The central limit theorem](#the-central-limit-theorem)
 - [**3. Standard Error**](#3-standard-error) (3 videos)
-  - Standard error for proportions
-  - Sampling distribution of the mean
-  - Standard error for means
+  - [Standard error for proportions](#standard-error-for-proportions)
+  - [Sampling distribution of the mean](#sampling-distribution-of-the-mean)
+  - [Standard error for means](#standard-error-for-means)
 - [**4. Confidence Intervals**](#4-confidence-intervals) (5 videos)
-  - Introduction to confidence intervals
-  - Components of a confidence interval
-  - Creating a 95% confidence interval for a population
-  - Alternative confidence intervals
-  - Confidence intervals with unexpected outcomes
+  - [Introduction to confidence intervals](#introduction-to-confidence-intervals)
+  - [Components of a confidence interval](#components-of-a-confidence-interval)
+  - [Creating a 95% confidence interval for a population](#creating-a-95-confidence-interval-for-a-population)
+  - [Alternative confidence intervals](#alternative-confidence-intervals)
+  - [Confidence intervals with unexpected outcomes](#confidence-intervals-with-unexpected-outcomes)
 - [**5. Hypothesis Tests**](#5-hypothesis-tests) (6 videos)
-  - Hypothesis test introduction
-  - Hypothesis test : Step-by-step
-  - One-tailed vs. two-tail tests
-  - Significance test for proportions
-  - Significance test for means
-  - Type one and type two errors
+  - [Hypothesis test introduction](#hypothesis-test-introduction)
+  - [Hypothesis test : Step-by-step](#hypothesis-test-step-by-step)
+  - [One-tailed vs. two-tail tests](#one-tailed-vs-two-tail-tests)
+  - [Significance test for proportions](#significance-test-for-proportions)
+  - [Significance test for means](#significance-test-for-means)
+  - [Type one and type two errors](#type-one-and-type-two-errors)
 - [**6. Continuing Your Statistics Learning Journey**](#6-continuing-your-statistics-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover samples, confidence intervals, and hypothesis testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980)
@@ -130,13 +130,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (7), data (7), business (2), power (2), [[Engineering]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - as (1)
 
 
 ### 1. Sampling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980)
@@ -219,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (4), [[Statistics]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - imagine (1), - the (1)
 > **Definitions:** is a  (1)
@@ -331,7 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** data (11), [[Probability]] (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - typically (1)
@@ -453,14 +454,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** data (2), product (2), [[Statistical Analysis]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
 
 
 ### 2. Sample Size
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of sample size
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-importance-of-sample-size?u=76281980)
@@ -544,7 +545,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Versions:** 0.90 (5), 76.6 (2), 0.80 (1), 0.134 (1), 13.4 (1)
-> **Code Keywords:** let (6)
 > **Definitions:** is a  (4), in other words (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -635,15 +635,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), data (1)
 > **Versions:** 15.0 (2), 18.75 (2), 12.5 (2), 16.25 (2), 15.83 (1)
-> **Code Keywords:** let (2), this. (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
 
 
 ### 3. Standard Error
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard error for proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980)
@@ -756,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Probability]] (1)
 > **Versions:** 0.60 (2), 0.05 (1), 0.015 (1), 1.5 (1), 58.5 (1)
-> **Code Keywords:** let (4), this, (1), extends (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -839,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4)
 > **Versions:** 180.5 (1)
 > **Speakers:** - through (1)
 
@@ -906,17 +906,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.25 (5), 1.52 (2), 0.6 (1), 2.4 (1), 1.58 (1)
 > **CLI Commands:** find (2)
 > **Ports:** :00 (2)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - through (1)
 
 
 ### 4. Confidence Intervals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/introduction-to-confidence-intervals?u=76281980)
@@ -971,7 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** power (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - the (1)
 
@@ -1038,8 +1038,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1)
 > **Versions:** 0.55 (3), 2.0 (3), 0.05 (2), 0.65 (2), 0.45 (2)
-> **Code Keywords:** let (6), finally, (1), this, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - before (1)
@@ -1193,8 +1193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1)
 > **Versions:** 1.96 (7), 2.5 (6), 0.55 (5), 0.975 (4), 97.5 (2)
-> **Code Keywords:** let (7), this, (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (1), in other words (1), is called (1)
 > **Best Practices:** don't forget (1)
@@ -1293,8 +1293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), data (1), next (1)
 > **Versions:** 1.96 (3), 0.99 (2), 2.33 (2), 0.509 (2), 0.98 (1)
-> **Code Keywords:** let (9), for, (1), case, (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** previous video (2), next video (1)
 > **Definitions:** means that (1)
@@ -1395,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), throw (1), let (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
@@ -1404,7 +1404,7 @@ created: 2026-04-29
 
 ### 5. Hypothesis Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hypothesis test introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980)
@@ -1491,8 +1491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), game (2), leadership (1), [[Statistics]] (1), career (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), require (1), public (1)
 > **Versions:** 8.5 (1), 7.3 (1), 1.2 (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
@@ -1651,10 +1651,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (6), next (4), [[Statistics]] (2), [[Google]] (1)
 > **Versions:** 0.50 (3), 0.13 (2), 0.0013 (1), 0.05 (1)
 > **Definitions:** is an  (2), in other words (1), means that (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2), case, (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
@@ -1770,7 +1770,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), case, (2), require (1)
 > **Versions:** 8.5 (6), 6.2 (2), 8.58 (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - let (1)
@@ -1882,7 +1881,6 @@ created: 2026-04-29
 >
 > **Versions:** 0.50 (11), 0.54 (8), 1.79 (4), 3.67 (3), 0.05 (3)
 > **Definitions:** in other words (5), is a  (3)
-> **Code Keywords:** let (5)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (2)
 > **Speakers:** - let (1)
@@ -1996,10 +1994,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Statistics]] (1)
 > **Versions:** 20.15 (15), 20.10 (8), 1.92 (4), 0.26 (2), 0.0274 (2)
 > **Definitions:** in other words (6), is a  (4), is called (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), this, (1)
 > **Speakers:** - k (1)
 
 #### Type one and type two errors
@@ -2121,7 +2119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **Versions:** 0.02 (1)
@@ -2131,7 +2129,7 @@ created: 2026-04-29
 
 ### 6. Continuing Your Statistics Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980)
@@ -2160,8 +2158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (4), data (2), business (2), next (1), [[Analytics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - congratulations (1)
 
 

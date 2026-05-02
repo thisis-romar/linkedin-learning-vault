@@ -32,7 +32,7 @@ tags:
   - topic/network-and-system-administration
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20The%20Javascript%20Language.md)
@@ -51,70 +51,70 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Become conversant in JavaScript
-  - What you should know
-  - Exercise files and Codespaces
+  - [Become conversant in JavaScript](#become-conversant-in-javascript)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files and Codespaces](#exercise-files-and-codespaces)
 - [**1. Getting Started**](#1-getting-started) (5 videos)
-  - Syntax: Learning to read and write
-  - Versions of JavaScript
-  - Places to tinker
-  - Your friend the text editor
-  - Additional helpful resources
+  - [Syntax: Learning to read and write](#syntax-learning-to-read-and-write)
+  - [Versions of JavaScript](#versions-of-javascript)
+  - [Places to tinker](#places-to-tinker)
+  - [Your friend the text editor](#your-friend-the-text-editor)
+  - [Additional helpful resources](#additional-helpful-resources)
 - [**2. Variables and Types**](#2-variables-and-types) (6 videos)
-  - Declaring and assigning variables
-  - Strings
-  - String properties and methods
-  - Numbers
-  - Booleans for what is true
-  - Variable mutability
+  - [Declaring and assigning variables](#declaring-and-assigning-variables)
+  - [Strings](#strings)
+  - [String properties and methods](#string-properties-and-methods)
+  - [Numbers](#numbers)
+  - [Booleans for what is true](#booleans-for-what-is-true)
+  - [Variable mutability](#variable-mutability)
 - [**3. Objects, Arrays, and More**](#3-objects-arrays-and-more) (9 videos)
-  - Objects
-  - Using objects for data modeling
-  - Manipulating objects
-  - Jargon: References
-  - Arrays
-  - Manipulating arrays
-  - Readability: Whitespace
-  - Readability: Comments
-  - Regular expressions
+  - [Objects](#objects)
+  - [Using objects for data modeling](#using-objects-for-data-modeling)
+  - [Manipulating objects](#manipulating-objects)
+  - [Jargon: References](#jargon-references)
+  - [Arrays](#arrays)
+  - [Manipulating arrays](#manipulating-arrays)
+  - [Readability: Whitespace](#readability-whitespace)
+  - [Readability: Comments](#readability-comments)
+  - [Regular expressions](#regular-expressions)
 - [**4. Operators and Control Structures**](#4-operators-and-control-structures) (8 videos)
-  - Simple comparisons
-  - Arithmetic operators
-  - Logical operators
-  - Conditionals: If
-  - Conditionals: Switch
-  - Terse ifs: One-liners
-  - Terse ifs: Ternaries
-  - Type checking
+  - [Simple comparisons](#simple-comparisons)
+  - [Arithmetic operators](#arithmetic-operators)
+  - [Logical operators](#logical-operators)
+  - [Conditionals: If](#conditionals-if)
+  - [Conditionals: Switch](#conditionals-switch)
+  - [Terse ifs: One-liners](#terse-ifs-one-liners)
+  - [Terse ifs: Ternaries](#terse-ifs-ternaries)
+  - [Type checking](#type-checking)
 - [**5. Iterating with Loops**](#5-iterating-with-loops) (4 videos)
-  - For loops: Sequential
-  - For loops: Enumerative
-  - Set and Map: Newer loopable data types
-  - While loops
+  - [For loops: Sequential](#for-loops-sequential)
+  - [For loops: Enumerative](#for-loops-enumerative)
+  - [Set and Map: Newer loopable data types](#set-and-map-newer-loopable-data-types)
+  - [While loops](#while-loops)
 - [**6. Functions**](#6-functions) (10 videos)
-  - Basic functions
-  - Arguments and parameters in functions
-  - More on function arguments
-  - Objects, references, and functions
-  - Functions are objects
-  - Jargon: Scope in JavaScript
-  - Functions and scope
-  - Writing shorter functions with arrows
-  - Three little dots collect the rest
-  - Callback functions and looping
+  - [Basic functions](#basic-functions)
+  - [Arguments and parameters in functions](#arguments-and-parameters-in-functions)
+  - [More on function arguments](#more-on-function-arguments)
+  - [Objects, references, and functions](#objects-references-and-functions)
+  - [Functions are objects](#functions-are-objects)
+  - [Jargon: Scope in JavaScript](#jargon-scope-in-javascript)
+  - [Functions and scope](#functions-and-scope)
+  - [Writing shorter functions with arrows](#writing-shorter-functions-with-arrows)
+  - [Three little dots collect the rest](#three-little-dots-collect-the-rest)
+  - [Callback functions and looping](#callback-functions-and-looping)
 - [**7. A Few More Advanced Pieces**](#7-a-few-more-advanced-pieces) (6 videos)
-  - Asynchronous code: Waiting is the hardest part
-  - Promises, async, and await
-  - Object-oriented JavaScript: Prototypes and classes
-  - Jargon: Strong vs. loosely typed
-  - Modern JavaScript tooling
-  - Responsible JavaScript
+  - [Asynchronous code: Waiting is the hardest part](#asynchronous-code-waiting-is-the-hardest-part)
+  - [Promises, async, and await](#promises-async-and-await)
+  - [Object-oriented JavaScript: Prototypes and classes](#object-oriented-javascript-prototypes-and-classes)
+  - [Jargon: Strong vs. loosely typed](#jargon-strong-vs-loosely-typed)
+  - [Modern JavaScript tooling](#modern-javascript-tooling)
+  - [Responsible JavaScript](#responsible-javascript)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your JavaScript development journey
+  - [Continue your JavaScript development journey](#continue-your-javascript-development-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Become conversant in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980)
@@ -139,7 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), web (3), [[HTML]] (1), [[LinkedIn]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - back (1)
 
@@ -162,6 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[JavaScript]] (1), [[HTML]] (1), [[Programming]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
@@ -240,19 +241,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (9), [[LinkedIn]] (5), [[JavaScript]] (3), node (3)
 > **Tools:** github (9), terminal (6), visual studio (3)
 > **CLI Commands:** node (4), unzip (1), git (1), make (1)
 > **Exercise Files:** exercise files (5)
 > **Prerequisites:** you'll need (3), install (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** while, (1), new, (1)
 > **UI Navigation:** click on (1), go to (1)
 > **File Paths:** node.js (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Syntax: Learning to read and write
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980)
@@ -293,6 +294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), data (2), next (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -340,10 +342,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[ECMAScript]] (3), web (2), [[Programming]] (1), feature (1)
 > **Env Vars:** es5 (4), es6 (3), ecma (1)
 > **Definitions:** is a  (1), known as (1), is called (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **URLs:** [babeljs.io](https://babeljs.io) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
@@ -433,9 +435,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (11), node (7), web (5), [[Node.js]] (3), [[GitHub]] (3)
 > **CLI Commands:** node (10), make (1)
 > **Tools:** github (3), firefox (2), safari (2), command line (1), terminal (1)
-> **Code Keywords:** switch (2), this. (1), return. (1), let (1), return, (1)
 > **UI Navigation:** switch to (2), open the (1), in the menu (1)
 > **File Paths:** node.js (3)
 > **Prerequisites:** install (2), you'll need (1)
@@ -541,8 +543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (12), web (3), css (2), [[GitHub]] (2), [[HTML]] (1)
 > **Env Vars:** ide (3), css (2), html (1)
-> **Code Keywords:** delete (2), this. (1), function (1), let (1)
 > **Tools:** github (2), sublime (2), visual studio (1)
 > **CLI Commands:** make (1), php (1)
 > **Analogies:** for example (1), kind of like (1)
@@ -605,6 +607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (8), web (2), [[GitHub]] (1), [[HTML]] (1), css (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** find (1)
 > **URLs:** [quirksmode.org](https://quirksmode.org) (1)
@@ -615,7 +618,7 @@ created: 2026-04-29
 
 ### 2. Variables and Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Declaring and assigning variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980)
@@ -770,7 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (3), class, (2), let (2), this. (1), function (1)
+> **Frameworks & Libraries:** [[JavaScript]] (12), hit (3), node (2), data (2), prompt (1)
 > **Code Identifiers:** whereami (4), packagedimensions (1), taxrate (1)
 > **CLI Commands:** make (3), node (2)
 > **Definitions:** is a  (3), is called (2)
@@ -874,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (3), case, (2), return, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), data (3), [[HTML]] (2), node (1)
 > **Definitions:** is a  (5), basically means (1)
 > **CLI Commands:** make (4), node (1)
 > **Env Vars:** html (2)
@@ -960,8 +963,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), data (3), hit (3), feature (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (2), case, (1), return. (1)
 > **Code Identifiers:** mystring (3)
 > **Exercise Files:** template (3)
 > **Cross-References:** we covered (1)
@@ -1052,7 +1055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), type, (1), case, (1), this: (1)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[Programming]] (2), data (1), hit (1), next (1)
 > **Definitions:** is a  (1), basically means (1), stands for (1), is called (1)
 > **Code Identifiers:** mynumber (2)
 > **Versions:** 12.0 (1), 12.9 (1)
@@ -1148,7 +1151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (2), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), data (1), next (1), hit (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1206,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), var (3), this, (2), const (2), this. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[JavaScript]] (1)
 > **Env Vars:** var (3)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1217,7 +1220,7 @@ created: 2026-04-29
 
 ### 3. Objects, Arrays, and More
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980)
@@ -1318,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), return, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), data (7), node (2), hit (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), node (2)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Analogies:** similar to (1), it's like (1)
@@ -1387,7 +1390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), let (2), this. (1)
+> **Frameworks & Libraries:** data (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** commonname (1), calltype (1)
 > **Tools:** terminal (2)
@@ -1487,7 +1490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), this, (2), this. (2), let (2), case, (1)
+> **Frameworks & Libraries:** node (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), business (1)
 > **CLI Commands:** find (3), node (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1)
@@ -1579,8 +1582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[JSON]] (5), data (4), node (1), [[Programming]] (1)
 > **Definitions:** is a  (3), is an  (1), is called (1), basically means (1), stands for (1)
-> **Code Keywords:** let (2), this, (2), while, (1), finally, (1)
 > **CLI Commands:** make (4), node (1)
 > **Env Vars:** json (5)
 > **Speakers:** - [instructor] (1)
@@ -1712,7 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), else. (1), if, (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), data (3), [[Programming]] (2), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** mylist (3), myarray (1), macos (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -1876,7 +1879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), abstract (2), this, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** node (2), next (2), [[Programming]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (3), node (2), make (1)
 > **Definitions:** is a  (1), is an  (1), refers to (1)
 > **Env Vars:** url (2)
@@ -1958,8 +1961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), node (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), node (1)
-> **Code Keywords:** this, (2), this. (1), case, (1)
 > **Tools:** terminal (1), visual studio (1)
 > **Definitions:** in other words (1), is an  (1)
 > **Exercise Files:** exercise files (1)
@@ -2061,7 +2064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), else. (1), case, (1), while, (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Debugging]] (2), [[Representational State Transfer (REST)|Rest]] (1), node (1)
 > **CLI Commands:** make (2), node (1)
 > **Code Identifiers:** jquery (2)
 > **Tools:** terminal (2)
@@ -2191,7 +2194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), abstract (1), let (1), case. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[JavaScript]] (3), data (1), node (1), feature (1)
 > **CLI Commands:** find (3), node (1), make (1)
 > **Analogies:** just like (1), it's like (1)
 > **Definitions:** is a  (1)
@@ -2200,7 +2203,7 @@ created: 2026-04-29
 
 ### 4. Operators and Control Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980)
@@ -2331,7 +2334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1), this, (1), this. (1), class. (1)
+> **Frameworks & Libraries:** [[HTML]] (1), data (1), [[JavaScript]] (1)
 > **Env Vars:** url (1), html (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2521,8 +2524,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Search]] (2), data (2), express (1), [[JavaScript]] (1)
 > **CLI Commands:** cat (5), find (2), make (2)
-> **Code Keywords:** let (4), finally, (1), this. (1), case, (1), yield (1)
 > **Definitions:** is a  (4), known as (2), is an  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Versions:** 7.2 (1)
@@ -2685,7 +2688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), pass (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), next (3)
 > **Definitions:** is a  (6), known as (1), is an  (1), in other words (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (1), coming up (1)
@@ -2899,7 +2902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), else. (3), function (2), return, (2), else, (2)
+> **Frameworks & Libraries:** hit (11), prompt (4), web (3), next (3), [[JavaScript]] (2)
 > **Env Vars:** yes (9), maybe (5), cookie (2)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** is a  (3)
@@ -2999,7 +3002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (13), case. (3), case, (2), match, (2), let (2)
+> **Frameworks & Libraries:** prompt (5), next (2), web (2), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** similar to (1), just like (1)
 > **Env Vars:** yes (1)
@@ -3124,7 +3127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), else, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Forms]] (1), node (1), hit (1)
 > **CLI Commands:** make (3), node (1), find (1)
 > **Code Identifiers:** errormsg (5)
 > **Definitions:** is a  (3)
@@ -3207,8 +3210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** cat (11), make (1), find (1)
-> **Code Keywords:** let (4), this. (1)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3372,7 +3375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), pass (3), case, (2), type. (2)
+> **Frameworks & Libraries:** [[JavaScript]] (11), data (7), [[Microsoft Word|Word]] (4), [[Search]] (1)
 > **Definitions:** is an  (4), is a  (2), in other words (1)
 > **Code Identifiers:** hasownproperty (2), somethinglater (1), nothingsilly (1)
 > **Documentation:** the documentation (2)
@@ -3384,7 +3387,7 @@ created: 2026-04-29
 
 ### 5. Iterating with Loops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### For loops: Sequential
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980)
@@ -3657,7 +3660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (4), case, (3), this, (2), for, (1)
+> **Frameworks & Libraries:** hit (4), web (4), [[JavaScript]] (4), next (2), node (2)
 > **Definitions:** is called (3), is a  (3)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Tools:** terminal (1), github (1)
@@ -3809,7 +3812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), var (1), this. (1), for. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), node (2), [[Forms]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **Definitions:** in other words (2), is a  (2), short for (1), is an  (1), means that (1)
 > **Code Identifiers:** pagenames (3), hasownproperty (2), pagename (1)
 > **CLI Commands:** node (2)
@@ -3975,7 +3978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), pass (2), this. (2)
+> **Frameworks & Libraries:** data (9), [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is a  (6), is called (2)
 > **Analogies:** for instance (1), just like (1), similar to (1)
 > **CLI Commands:** find (1)
@@ -4115,7 +4118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (2), this, (2), raise (1)
+> **Frameworks & Libraries:** data (4), node (2), hit (1), database (1), next (1)
 > **CLI Commands:** make (3), node (2)
 > **Definitions:** is a  (2), is called (1)
 > **Warnings:** watch out (1), caution (1)
@@ -4124,7 +4127,7 @@ created: 2026-04-29
 
 ### 6. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980)
@@ -4219,7 +4222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), this, (1), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), hit (3), [[Microsoft Word|Word]] (1), next (1)
 > **Definitions:** is called (1), defined as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4363,7 +4366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (3), pass (3), continue (1), this, (1)
+> **Frameworks & Libraries:** data (5), node (2), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Programming]] (1)
 > **CLI Commands:** node (2), make (2), find (1)
 > **Definitions:** is a  (3), is called (1), known as (1)
 > **Analogies:** for example (3)
@@ -4482,7 +4485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), this, (2), case. (1), type, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), node (1)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** is a  (1)
@@ -4629,7 +4632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (22), pass (5), let (3), case, (2), else. (1)
+> **Frameworks & Libraries:** data (3), [[Debugging]] (1), [[Forms]] (1), [[Programming]] (1), node (1)
 > **Code Identifiers:** bestfriend (3), newcalvin (3), newform (3), transmogrifycopy (2)
 > **Definitions:** is an  (3), is called (2), is a  (1)
 > **CLI Commands:** make (3), node (1)
@@ -4747,7 +4750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (22), let (3), pass (2), this. (2), case, (2)
+> **Frameworks & Libraries:** [[JavaScript]] (7), node (4), power (2), data (1), web (1)
 > **Code Identifiers:** settimeout (10), speaksomething (6), sayhello (2)
 > **CLI Commands:** node (4)
 > **Definitions:** is a  (2), in other words (1)
@@ -4811,7 +4814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (4), let (3), const (3), function (2), super (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), next (1), [[ECMAScript]] (1)
 > **Definitions:** refers to (2), means that (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** warning (1)
@@ -4906,7 +4909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), var (3), let (3), const (3), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), node (2), web (2), [[ECMAScript]] (1)
 > **Code Identifiers:** mynum (10), myresult (3), randomnumber (1), doubleit (1), oneisone (1)
 > **Definitions:** is called (2), is a  (1), known as (1)
 > **CLI Commands:** node (2)
@@ -4984,7 +4987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), return. (2), let (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ECMAScript]] (1), [[JavaScript]] (1), functional (1), feature (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -5070,7 +5073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), this, (1), for, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[JavaScript]] (3), node (1), power (1)
 > **Definitions:** is called (2), is an  (2)
 > **CLI Commands:** make (2), node (1)
 > **Exercise Files:** template (2)
@@ -5174,7 +5177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), interface (2), let (1), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), web (2), node (1), [[React.js|React]] (1), data (1)
 > **Code Identifiers:** doubleit (4), mynumbers (3), mydoubles (1), foreach (1), addeventlistener (1)
 > **CLI Commands:** node (1), find (1), make (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -5184,7 +5187,7 @@ created: 2026-04-29
 
 ### 7. A Few More Advanced Pieces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asynchronous code: Waiting is the hardest part
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980)
@@ -5239,9 +5242,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2), [[JavaScript]] (2), [[Microsoft Office|Office]] (1), node (1)
 > **Definitions:** is a  (1), is called (1), in other words (1), is an  (1)
 > **CLI Commands:** make (2), node (1)
-> **Code Keywords:** if, (1), let (1), while. (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -5301,7 +5304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), async (4), await (4), interface (1), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), api (2), data (2), [[Programming]] (1), [[ECMAScript]] (1)
 > **CLI Commands:** make (3), node (1)
 > **Env Vars:** api (2), url (1)
 > **Documentation:** specification (2)
@@ -5361,7 +5364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), data (3), [[Programming]] (2), generic (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
 > **Definitions:** is called (1)
@@ -5406,7 +5409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[Programming]] (1), [[Microsoft Word|Word]] (1), data (1), web (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -5485,8 +5488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (15), [[npm]] (2), web (1), teams (1), open-source (1)
 > **CLI Commands:** npm (2), yarn (2), node (1)
-> **Code Keywords:** super (1), this. (1), module (1), this, (1), while, (1)
 > **Env Vars:** npm (2), es6 (1)
 > **Documentation:** specification (2), spec (1)
 > **Prerequisites:** you'll need (2), install (1)
@@ -5585,17 +5588,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (23), web (8), css (4), [[Security]] (4), data (3)
 > **Env Vars:** css (4), html (2), xss (2)
 > **CLI Commands:** make (3), find (1)
 > **Warnings:** be aware (1), be careful (1), keep in mind (1)
-> **Code Keywords:** this. (1), require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your JavaScript development journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980)
@@ -5702,13 +5705,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (29), web (10), next (6), css (6), data (4)
 > **Env Vars:** css (6), html (3), es6 (1)
 > **CLI Commands:** make (5), node (2)
 > **Definitions:** is a  (5), is called (1)
 > **Code Identifiers:** jquery (3)
 > **Cross-References:** we covered (2), we discussed (1)
 > **File Paths:** three.js (1), node.js (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
 

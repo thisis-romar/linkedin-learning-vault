@@ -32,7 +32,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Queries%20Made%20Easy.md)
@@ -51,30 +51,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Making a statement with SQL
-  - How to use the exercise files
+  - [Making a statement with SQL](#making-a-statement-with-sql)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Creating Tables in Databases**](#1-creating-tables-in-databases) (3 videos)
-  - What is a table and naming conventions?
-  - Database table types
-  - Datatypes for columns in tables
+  - [What is a table and naming conventions?](#what-is-a-table-and-naming-conventions)
+  - [Database table types](#database-table-types)
+  - [Datatypes for columns in tables](#datatypes-for-columns-in-tables)
 - [**2. Manipulating Data**](#2-manipulating-data) (4 videos)
-  - Add rows in tables
-  - Modify rows and columns in tables
-  - Delete rows in tables
-  - Merge rows in tables
+  - [Add rows in tables](#add-rows-in-tables)
+  - [Modify rows and columns in tables](#modify-rows-and-columns-in-tables)
+  - [Delete rows in tables](#delete-rows-in-tables)
+  - [Merge rows in tables](#merge-rows-in-tables)
 - [**3. Transaction Control**](#3-transaction-control) (2 videos)
-  - Committing database changes
-  - Rollback in database changes
+  - [Committing database changes](#committing-database-changes)
+  - [Rollback in database changes](#rollback-in-database-changes)
 - [**4. Data Definition Language**](#4-data-definition-language) (3 videos)
-  - Different ways to create tables
-  - Alter tables
-  - Drop, rename, and truncate tables
+  - [Different ways to create tables](#different-ways-to-create-tables)
+  - [Alter tables](#alter-tables)
+  - [Drop, rename, and truncate tables](#drop-rename-and-truncate-tables)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a statement with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/making-a-statement-with-sql?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Databases]] (2), database (2)
 > **Speakers:** - [deepa] (1)
 
 #### How to use the exercise files
@@ -163,8 +163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), data (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
-> **Code Keywords:** this. (2), while. (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (2)
 > **URLs:** [oracle.com](https://oracle.com) (2)
@@ -175,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Creating Tables in Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a table and naming conventions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/what-is-a-table-and-naming-conventions?u=76281980)
@@ -220,6 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), next (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2)
 > **Code Identifiers:** employee_copy (1)
@@ -257,9 +258,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (4)
 > **Env Vars:** sys (1), user_tables (1), user_objects (1), user_tab_columns (1), user_constraints (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Datatypes for columns in tables
@@ -339,9 +340,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), database (1), next (1), [[SQL]] (1)
 > **Env Vars:** raw (4), varchar2 (2), rowid (2), char (1), number (1)
 > **Definitions:** is a  (4), stands for (2), is an  (1)
-> **Code Keywords:** type, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -349,7 +350,7 @@ created: 2026-04-29
 
 ### 2. Manipulating Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add rows in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/add-rows-in-tables?u=76281980)
@@ -474,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (7), let (6), this, (4), delete (1)
+> **Frameworks & Libraries:** [[SQL]] (6), database (2), [[Data Manipulation]] (1), data (1), prompt (1)
 > **Env Vars:** sql (6), dml (2), dms (1)
 > **Code Identifiers:** dept_tab (3), emp_tab (2), new_table_name (1), old_table_name (1)
 > **Analogies:** for example (3)
@@ -620,9 +621,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Fetch]] (1), next (1)
 > **Env Vars:** where (9), select (6), set (6), update (5), dml (1)
 > **SQL:** where (9), select (6), update (5)
-> **Code Keywords:** let (15), this. (3)
 > **Code Identifiers:** emp_tab (8), old_emp_tab (3), dpt_tab (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -719,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (18), let (6), this, (1), case, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** where (6), delete (3), dml (2), select (2)
 > **SQL:** where (6), delete from (3), select (2)
 > **API Endpoints:** delete  (3)
@@ -817,9 +818,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1)
 > **Env Vars:** merge (9), matched (4), into (3), dml (2), using (1)
 > **Code Identifiers:** dept_copy_tab (8), dept_tab (2), mgr_id (1), magr_id (1), location_id (1)
-> **Code Keywords:** let (4), this. (2), match, (1)
 > **SQL:** update (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -827,7 +828,7 @@ created: 2026-04-29
 
 ### 3. Transaction Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Committing database changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/committing-database-changes?u=76281980)
@@ -868,9 +869,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** commit (14), tcl (3), rollback (2), dml (2), ddl (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -931,17 +932,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (1)
 > **Env Vars:** dml (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Data Definition Language
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Different ways to create tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/different-ways-to-create-tables?u=76281980)
@@ -1090,9 +1091,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Fetch]] (1)
 > **Env Vars:** null (11), create (5), varchar2 (3), ddl (2), select (2)
 > **Code Identifiers:** country_id (7), table_name (4), state_id (3), country_code (2), schema_name (1)
-> **Code Keywords:** let (5), this. (2)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **SQL:** select (2), primary key (1)
 > **Analogies:** for example (1)
@@ -1199,8 +1200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14)
 > **Env Vars:** alter (9), table (4), varchar2 (2), drop (2), ddl (1)
-> **Code Keywords:** delete (8), let (3), this. (3), type, (2), type. (2)
 > **Code Identifiers:** test_call (2), user_tab_columns (1), table_name (1), test_column (1)
 > **SQL:** alter table (4), where (1)
 > **Warnings:** keep in mind (2)
@@ -1288,8 +1289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Fetch]] (1), next (1)
 > **Env Vars:** truncate (8), drop (5), delete (5), rename (4), ddl (3)
-> **Code Keywords:** delete (9), let (7), this. (2), this, (1)
 > **Code Identifiers:** department_copy_tab (1), dept_copy_tab (1), states_sales (1), states_sales_table (1), sales_tab (1)
 > **API Endpoints:** delete  (3), delete
  (1)
@@ -1300,7 +1301,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/next-steps?u=76281980)
@@ -1321,8 +1322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), database (2), [[Databases]] (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** continue (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - thank (1)

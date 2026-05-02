@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-marketing
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20For%20Marketing%20Using%20AI%20Tools%20with%20Sam%20Dey.md)
@@ -49,20 +49,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Use AI for Better Marketing**](#use-ai-for-better-marketing) (10 videos)
-  - Introduction to AI in marketing
-  - AI-powered customer segmentation
-  - Predictive analytics with AI
-  - Chatbots and AI-powered customer support
-  - Personalization through AI
-  - AI-enhanced content recommendations
-  - AI-driven social media marketing
-  - AI and data privacy
-  - AI tools evaluation and selection
-  - Future trends in AI marketing
+  - [Introduction to AI in marketing](#introduction-to-ai-in-marketing)
+  - [AI-powered customer segmentation](#ai-powered-customer-segmentation)
+  - [Predictive analytics with AI](#predictive-analytics-with-ai)
+  - [Chatbots and AI-powered customer support](#chatbots-and-ai-powered-customer-support)
+  - [Personalization through AI](#personalization-through-ai)
+  - [AI-enhanced content recommendations](#ai-enhanced-content-recommendations)
+  - [AI-driven social media marketing](#ai-driven-social-media-marketing)
+  - [AI and data privacy](#ai-and-data-privacy)
+  - [AI tools evaluation and selection](#ai-tools-evaluation-and-selection)
+  - [Future trends in AI marketing](#future-trends-in-ai-marketing)
 
 ### Use AI for Better Marketing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI in marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-marketing-using-ai-tools-with-sam-dey/introduction-to-ai-in-marketing?u=76281980)
@@ -85,8 +85,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - artificial (1)
 
@@ -121,6 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (1), ai (1), data (1), [[Real-Time]] (1), [[Google]] (1)
 > **Speakers:** - customer (1)
 
 #### Predictive analytics with AI
@@ -148,8 +149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (4), ai (4), data (4), [[Algorithms]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - predictive (1)
 
 #### Chatbots and AI-powered customer support
@@ -181,7 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (3), chatbot (3), [[Customer Support]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - chatbots (1)
 
@@ -218,7 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (1)
+> **Frameworks & Libraries:** ai (3), product (2), data (2), [[Microsoft Products|Products]] (2), [[Algorithms]] (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - a (1)
 
@@ -249,8 +250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), ai (2), [[E-Commerce]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - content (1)
 
@@ -285,10 +286,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Social Media Marketing]] (2), data (1), feature (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [brandwatch.com](https://brandwatch.com) (1)
 > **Speakers:** - social (1)
 
@@ -321,6 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (1), [[Algorithms]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - personalized (1)
@@ -350,7 +352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** ai (3), business (1), [[User Experience (UX)|User experience]] (1), [[Customer Support]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
@@ -396,8 +398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Conversational AI]] (2), [[Marketing Strategy]] (1), power (1), [[Search]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
 

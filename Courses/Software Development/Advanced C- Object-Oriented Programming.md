@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20C-%20Object-Oriented%20Programming.md)
@@ -48,40 +48,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Next-level C# OOP
-  - Getting set up
+  - [Next-level C# OOP](#next-level-c-oop)
+  - [Getting set up](#getting-set-up)
 - [**1. C# Object-Oriented Basics**](#1-c-object-oriented-basics) (5 videos)
-  - Defining classes
-  - Properties
-  - Inheritance
-  - Access modifiers
-  - Anonymous types
+  - [Defining classes](#defining-classes)
+  - [Properties](#properties)
+  - [Inheritance](#inheritance)
+  - [Access modifiers](#access-modifiers)
+  - [Anonymous types](#anonymous-types)
 - [**2. Class Operations**](#2-class-operations) (6 videos)
-  - Using object initializers
-  - Read-only members
-  - Init-only properties
-  - Required properties
-  - Challenge: Build an employee class
-  - Solution: Build an employee class
+  - [Using object initializers](#using-object-initializers)
+  - [Read-only members](#read-only-members)
+  - [Init-only properties](#init-only-properties)
+  - [Required properties](#required-properties)
+  - [Challenge: Build an employee class](#challenge-build-an-employee-class)
+  - [Solution: Build an employee class](#solution-build-an-employee-class)
 - [**3. Static Classes and Methods**](#3-static-classes-and-methods) (5 videos)
-  - Static members
-  - Static classes
-  - Static constructors
-  - Challenge: Add static members to employee
-  - Solution: Add static members to employee
+  - [Static members](#static-members)
+  - [Static classes](#static-classes)
+  - [Static constructors](#static-constructors)
+  - [Challenge: Add static members to employee](#challenge-add-static-members-to-employee)
+  - [Solution: Add static members to employee](#solution-add-static-members-to-employee)
 - [**4. Abstract and Sealed Classes**](#4-abstract-and-sealed-classes) (6 videos)
-  - Overview of abstract classes
-  - Defining an abstract class
-  - Abstract methods and properties
-  - Sealed classes
-  - Challenge: Abstract employee class
-  - Solution: Abstract employee class
+  - [Overview of abstract classes](#overview-of-abstract-classes)
+  - [Defining an abstract class](#defining-an-abstract-class)
+  - [Abstract methods and properties](#abstract-methods-and-properties)
+  - [Sealed classes](#sealed-classes)
+  - [Challenge: Abstract employee class](#challenge-abstract-employee-class)
+  - [Solution: Abstract employee class](#solution-abstract-employee-class)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next-level C# OOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980)
@@ -104,9 +104,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), data (1)
 > **Env Vars:** net (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 
 #### Getting set up
@@ -186,19 +186,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), prompt (2), [[Programming]] (1), [[Codespaces]] (1), feature (1)
 > **Tools:** terminal (4), github (3), vs code (2), visual studio (1)
 > **Prerequisites:** set up (3), install (3), you'll need (1)
 > **CLI Commands:** make (3), find (1), dotnet (1)
 > **UI Navigation:** go to (3), click on (1), in the sidebar (1)
 > **Env Vars:** net (3), zip (1)
 > **Exercise Files:** download the (2), zip file (1)
-> **Code Keywords:** let (1)
 > **Versions:** 7.0 (1)
 
 
 ### 1. C# Object-Oriented Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980)
@@ -329,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), public (7), function (5), private (4), class, (2)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), data (1)
 > **CLI Commands:** make (7), dotnet (2)
 > **Cross-References:** later in (2), go back to (2)
 > **Tools:** terminal (2), visual studio (1)
@@ -461,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (5), function (3), class. (3), this. (2)
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), dotnet (1)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
@@ -656,7 +656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), override (7), function (7), class. (4), this. (3)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3), dotnet (2)
 > **Tools:** terminal (3), visual studio (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -764,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), private (10), public (7), function (4), protected (2)
+> **Frameworks & Libraries:** data (7)
 > **Cross-References:** go back to (3)
 > **Tools:** terminal (2), vs code (1)
 > **UI Navigation:** open the (1), scroll up (1)
@@ -883,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (4), this. (2), class. (2), type. (1)
+> **Frameworks & Libraries:** data (5), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1), next (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -893,7 +893,7 @@ created: 2026-04-29
 
 ### 2. Class Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using object initializers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/using-object-initializers?u=76281980)
@@ -1026,7 +1026,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), public (4), private (1), var (1), new. (1)
 > **CLI Commands:** cat (6), make (4)
 > **Cross-References:** go back to (2), we covered (1), in the last (1)
 > **Analogies:** for example (3)
@@ -1100,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (2), class, (1), static (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** isbn (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
@@ -1190,7 +1189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), private (3), function (3), class. (2), class, (1)
+> **Frameworks & Libraries:** data (6), feature (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2), previous video (1)
 > **Versions:** version 9 (1)
@@ -1306,7 +1305,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), public (2), class. (2), case, (2), pass (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (3)
 > **Exercise Files:** boilerplate (2)
@@ -1364,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1), this, (1)
+> **Frameworks & Libraries:** data (2), business (1), next (1)
 > **Prerequisites:** you'll need (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
@@ -1424,7 +1422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), override (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1434,7 +1432,7 @@ created: 2026-04-29
 
 ### 3. Static Classes and Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Static members
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-members?u=76281980)
@@ -1589,7 +1587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (18), let (17), class, (3), class. (3), const (2)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Code Identifiers:** isroomtemp (9), ftoc (2), isfreezing (1), writeline (1), ctof (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** make (2)
@@ -1685,7 +1683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (26), let (7), class. (4), const (2), public (2)
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 2.54 (1), 12.7 (1), 1.97 (1)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Definitions:** defined as (2)
@@ -1763,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (16), let (6), class. (3), this. (2), this, (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** net (1)
@@ -1811,7 +1809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), class. (3), let (2), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ied (1)
 > **Cross-References:** in the next (1)
@@ -1861,7 +1859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (5), private (3), class. (2), protected (2), public (2)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** empcount (2)
 > **Warnings:** note that (1)
@@ -1871,7 +1869,7 @@ created: 2026-04-29
 
 ### 4. Abstract and Sealed Classes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of abstract classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/overview-of-abstract-classes?u=76281980)
@@ -1920,7 +1918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (10), from. (1), let (1), this, (1), class, (1)
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **UI Navigation:** go to (1)
@@ -1997,7 +1995,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), abstract (5), function (4), override (3), class. (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
@@ -2094,7 +2091,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), abstract (11), override (4), this, (1), require (1)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (3)
 > **Cross-References:** previous video (1), go back to (1)
@@ -2191,7 +2187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class. (5), override (5), class, (4), function (3)
+> **Frameworks & Libraries:** [[Security]] (1), [[Microsoft]] (1), application (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** net (1)
@@ -2224,7 +2220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1), require (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2303,7 +2299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), abstract (5), finally, (2), this. (1), case. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (7)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -2314,7 +2310,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980)
@@ -2337,7 +2333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), abstract (1), continue (1), type . (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Search]] (1)
 > **Env Vars:** net (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)

@@ -32,7 +32,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Fine-Tuning.md)
@@ -51,29 +51,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Fine-tuning custom models with the OpenAI API
-  - Exercise files and where to find them
+  - [Fine-tuning custom models with the OpenAI API](#fine-tuning-custom-models-with-the-openai-api)
+  - [Exercise files and where to find them](#exercise-files-and-where-to-find-them)
 - [**1. Fine-Tuning Basics**](#1-fine-tuning-basics) (6 videos)
-  - When to create a fine-tuned model
-  - Creating and formatting training data
-  - Testing the training data
-  - Creating a fine-tuning job in the playground
-  - Using a fine-tuned model in the playground
-  - Testing epoch-based checkpoints
+  - [When to create a fine-tuned model](#when-to-create-a-fine-tuned-model)
+  - [Creating and formatting training data](#creating-and-formatting-training-data)
+  - [Testing the training data](#testing-the-training-data)
+  - [Creating a fine-tuning job in the playground](#creating-a-fine-tuning-job-in-the-playground)
+  - [Using a fine-tuned model in the playground](#using-a-fine-tuned-model-in-the-playground)
+  - [Testing epoch-based checkpoints](#testing-epoch-based-checkpoints)
 - [**2. Advanced Tools and Features**](#2-advanced-tools-and-features) (7 videos)
-  - Fine-tuning through the API
-  - Uploading training data to the API
-  - Creating a fine-tuning job through the API
-  - Retrieving a fine-tuning job and checking the status
-  - Getting the model name once the job is completed
-  - Using the fine-tuned model through the API
-  - Cancelling a fine-tuning job
+  - [Fine-tuning through the API](#fine-tuning-through-the-api)
+  - [Uploading training data to the API](#uploading-training-data-to-the-api)
+  - [Creating a fine-tuning job through the API](#creating-a-fine-tuning-job-through-the-api)
+  - [Retrieving a fine-tuning job and checking the status](#retrieving-a-fine-tuning-job-and-checking-the-status)
+  - [Getting the model name once the job is completed](#getting-the-model-name-once-the-job-is-completed)
+  - [Using the fine-tuned model through the API](#using-the-fine-tuned-model-through-the-api)
+  - [Cancelling a fine-tuning job](#cancelling-a-fine-tuning-job)
 - [**3. Further Info**](#3-further-info) (1 videos)
-  - Additional notes on fine-tuning
+  - [Additional notes on fine-tuning](#additional-notes-on-fine-tuning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fine-tuning custom models with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-custom-models-with-the-openai-api?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** ai (2), data (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - you (1)
 
@@ -179,6 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), data (5), [[GitHub]] (2), ai (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (3), make (2), python (2), git (1)
 > **Env Vars:** api (8)
 > **UI Navigation:** go to (3), select the (2), click on (1), scroll down (1)
@@ -186,12 +187,11 @@ created: 2026-04-29
 > **Exercise Files:** exercise files (2), template (2)
 > **URLs:** [openai.com](https://openai.com) (2)
 > **Best Practices:** the key is (1)
-> **Prerequisites:** set up (1)
 
 
 ### 1. Fine-Tuning Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to create a fine-tuned model
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980)
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), pass (1), for. (1)
+> **Frameworks & Libraries:** [[JSON]] (2), ai (1), next (1), data (1), [[Tokens]] (1)
 > **Env Vars:** json (2), gpt (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1), find (1)
@@ -460,8 +460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[JSON]] (12), [[Python (Programming Language)|Python]] (7), next (6), hit (3)
 > **Env Vars:** json (12), jsonl (3), csv (3), api (2)
-> **Code Keywords:** function (6), return, (3), finally, (2), this, (2), case. (1)
 > **CLI Commands:** python (7), make (3), find (2)
 > **Definitions:** is a  (6), is an  (1)
 > **Code Identifiers:** review_finetune_training (2), review_finetune_validation (2), training_data (1), validation_data (1)
@@ -582,8 +582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Tokens]] (5), api (3), [[JSON]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** this. (2), let (2), function (1), default, (1)
 > **Env Vars:** api (3), json (1)
 > **UI Navigation:** go to (2), scroll down (2)
 > **Code Identifiers:** training_file_name (1), validation_file_name (1), example_missing_assistant_message (1)
@@ -778,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), finally, (3), new, (2), default, (1), this. (1)
+> **Frameworks & Libraries:** data (15), [[Fine Tuning]] (8), [[GPT-4]] (4), next (3), [[Tokens]] (2)
 > **UI Navigation:** go to (5), click on (2), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 3.5 (3)
@@ -844,7 +844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), switch (1)
+> **Frameworks & Libraries:** data (2), generic (1), [[JSON]] (1)
 > **Env Vars:** gpt (2), json (1)
 > **Versions:** 3.5 (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -897,16 +897,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Fine Tuning]] (1), next (1), [[Tokens]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** open the (1), scroll down (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Advanced Tools and Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fine-tuning through the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980)
@@ -939,9 +939,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), api (3), [[OpenAI API]] (2), data (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** interface (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Documentation:** api reference (1)
 > **Tools:** jupyter (1)
@@ -1007,9 +1007,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[OpenAI API]] (2), api (2), hit (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (4)
 > **CLI Commands:** python (2), node (1)
-> **Code Keywords:** return, (1), this, (1), pass (1)
 > **Cross-References:** previous chapter (2), go back to (1)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** click on (1), scroll up (1)
@@ -1057,7 +1057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), this. (1), pass (1), let (1), return, (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), api (4), data (1)
 > **Env Vars:** api (4)
 > **Code Identifiers:** find_tuning (1), fine_tuning (1)
 > **URLs:** [openai.com](https://openai.com) (2)
@@ -1135,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), this, (1), interface (1), return. (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (8), data (5), api (2), [[Tokens]] (2), traffic (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1180,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Fine Tuning]] (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1229,8 +1229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), api (2), [[OpenAI API]] (1), [[ChatGPT]] (1), [[Tokens]] (1)
 > **Env Vars:** api (3), json (1)
-> **Code Keywords:** pass (2), let (1)
 > **CLI Commands:** make (1)
 > **Versions:** 3.5 (1)
 > **Speakers:** - [instructor] (1)
@@ -1258,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), pass (1)
+> **Frameworks & Libraries:** api (3), feature (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Code Identifiers:** fine_tuning (1)
@@ -1268,7 +1268,7 @@ created: 2026-04-29
 
 ### 3. Further Info
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional notes on fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980)
@@ -1323,9 +1323,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[OpenAI API]] (3), api (3), [[JavaScript]] (1), node (1)
 > **CLI Commands:** find (2), make (1), node (1), curl (1), go build (1)
 > **Env Vars:** api (6)
-> **Code Keywords:** let (1), delete (1), this. (1), pass (1)
 > **Documentation:** api reference (2), the documentation (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **URLs:** [openai.com](https://openai.com) (1)

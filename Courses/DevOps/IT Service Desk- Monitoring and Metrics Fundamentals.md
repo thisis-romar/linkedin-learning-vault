@@ -27,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Desk-%20Monitoring%20and%20Metrics%20Fundamentals.md)
@@ -46,33 +46,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Monitoring service management success
-  - What you should know
+  - [Monitoring service management success](#monitoring-service-management-success)
+  - [What you should know](#what-you-should-know)
 - [**1. Collecting Valid Service Management Data Points**](#1-collecting-valid-service-management-data-points) (5 videos)
-  - From data to wisdom
-  - Garbage in, garbage out
-  - How to kill good data
-  - Less is sometimes more
-  - Always review your data
+  - [From data to wisdom](#from-data-to-wisdom)
+  - [Garbage in, garbage out](#garbage-in-garbage-out)
+  - [How to kill good data](#how-to-kill-good-data)
+  - [Less is sometimes more](#less-is-sometimes-more)
+  - [Always review your data](#always-review-your-data)
 - [**2. Why Monitor Service Management Performance?**](#2-why-monitor-service-management-performance) (3 videos)
-  - Why are you monitoring?
-  - Outcomes for monitoring
-  - Knowing what actions to take
+  - [Why are you monitoring?](#why-are-you-monitoring)
+  - [Outcomes for monitoring](#outcomes-for-monitoring)
+  - [Knowing what actions to take](#knowing-what-actions-to-take)
 - [**3. Determining Which Metrics to Monitor**](#3-determining-which-metrics-to-monitor) (4 videos)
-  - Most common metrics
-  - The role of service-level agreements
-  - Net Promoter Score
-  - How does Net Promoter Score work?
+  - [Most common metrics](#most-common-metrics)
+  - [The role of service-level agreements](#the-role-of-service-level-agreements)
+  - [Net Promoter Score](#net-promoter-score)
+  - [How does Net Promoter Score work?](#how-does-net-promoter-score-work)
 - [**4. Exploring Tools and Reporting**](#4-exploring-tools-and-reporting) (3 videos)
-  - Common reporting tools
-  - Visibility of reporting
-  - Baseline reporting
+  - [Common reporting tools](#common-reporting-tools)
+  - [Visibility of reporting](#visibility-of-reporting)
+  - [Baseline reporting](#baseline-reporting)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring service management success
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980)
@@ -91,7 +91,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[IT Service Management]] (1), business (1), data (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [brett] (1)
 
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (1), management (1), business (1), product (1)
 > **Env Vars:** itil (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -115,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Collecting Valid Service Management Data Points
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From data to wisdom
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/from-data-to-wisdom?u=76281980)
@@ -184,8 +185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), business (1), management (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **Env Vars:** itsm (1)
@@ -227,9 +228,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), next (2), management (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -274,6 +275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), management (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -348,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1), this. (1), require (1), throw (1)
+> **Frameworks & Libraries:** [[Hardware]] (10), data (8), [[IT Service Management]] (1), management (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** itsm (1)
@@ -392,6 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), data (3), [[ITIL]] (1), [[Hardware]] (1)
 > **Env Vars:** itil (1), csi (1), itsm (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -400,7 +403,7 @@ created: 2026-04-29
 
 ### 2. Why Monitor Service Management Performance?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are you monitoring?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/why-are-you-monitoring?u=76281980)
@@ -445,6 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), management (2), data (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -496,6 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), management (4), [[Hardware]] (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -553,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this, (1)
+> **Frameworks & Libraries:** management (4), business (3), [[Microsoft Products|Products]] (1), [[ITIL]] (1), functional (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - [instructor] (1)
@@ -561,7 +566,7 @@ created: 2026-04-29
 
 ### 3. Determining Which Metrics to Monitor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Most common metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980)
@@ -662,8 +667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), management (4), data (2), [[Automation]] (2), game (1)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** require (2), let (1), self (1), return. (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -741,10 +746,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Service Management]] (1), [[ITIL]] (1), [[Microsoft Products|Products]] (1), management (1), business (1)
 > **Env Vars:** itsm (4), sla (4), itil (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -823,9 +828,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Env Vars:** nps (3), isp (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -872,15 +877,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Env Vars:** nps (7), sla (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Exploring Tools and Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common reporting tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980)
@@ -963,10 +968,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Microsoft]] (3), [[SQL]] (2), product (2), data (2)
 > **Env Vars:** itsm (6), sql (3), ssrs (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** require (2), super (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1007,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), power (1), game (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Baseline reporting
@@ -1054,9 +1059,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[IT Service Management]] (1), data (1)
 > **CLI Commands:** make (3)
 > **Warnings:** warning (2)
-> **Code Keywords:** public (1)
 > **Env Vars:** nps (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1065,7 +1070,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980)
@@ -1086,6 +1091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[IT Service Management]] (1), management (1), [[WordPress]] (1), [[Microsoft]] (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (1)
 > **Speakers:** - [instructor] (1)
 

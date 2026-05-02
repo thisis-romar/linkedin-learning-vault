@@ -33,7 +33,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20AI%20Tools%20for%20UX%20Design.md)
@@ -52,34 +52,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AI tools for UX designers
-  - Expectations
+  - [AI tools for UX designers](#ai-tools-for-ux-designers)
+  - [Expectations](#expectations)
 - [**1. Project Overview**](#1-project-overview) (1 videos)
-  - Client's ask
+  - [Client's ask](#clients-ask)
 - [**2. Creating Concepts Using Text-to-Image AI**](#2-creating-concepts-using-text-to-image-ai) (6 videos)
-  - Introduction to text-to-image AI apps
-  - Midjourney: Setup
-  - Midjourney: Using commands to create concepts
-  - Midjourney: Finer control using commands and parameters
-  - Midjourney: Uploading reference photos
-  - Alternative and beta tools for concept work
+  - [Introduction to text-to-image AI apps](#introduction-to-text-to-image-ai-apps)
+  - [Midjourney: Setup](#midjourney-setup)
+  - [Midjourney: Using commands to create concepts](#midjourney-using-commands-to-create-concepts)
+  - [Midjourney: Finer control using commands and parameters](#midjourney-finer-control-using-commands-and-parameters)
+  - [Midjourney: Uploading reference photos](#midjourney-uploading-reference-photos)
+  - [Alternative and beta tools for concept work](#alternative-and-beta-tools-for-concept-work)
 - [**3. Using AI Tools to Increase Image Resolution**](#3-using-ai-tools-to-increase-image-resolution) (1 videos)
-  - Upscaling your image assets
+  - [Upscaling your image assets](#upscaling-your-image-assets)
 - [**4. Building Image Assets Using AI Tools**](#4-building-image-assets-using-ai-tools) (3 videos)
-  - Creating hero imagery with Midjourney
-  - Using Dall·E 2 for icon creation
-  - Creating vectors from your AI-generated imagery
+  - [Creating hero imagery with Midjourney](#creating-hero-imagery-with-midjourney)
+  - [Using Dall·E 2 for icon creation](#using-dalle-2-for-icon-creation)
+  - [Creating vectors from your AI-generated imagery](#creating-vectors-from-your-ai-generated-imagery)
 - [**5. Using AI Tools to Create Brand Style Guides**](#5-using-ai-tools-to-create-brand-style-guides) (4 videos)
-  - Creating color swatches with Colormind and the other tools in Obsidian
-  - Creating font pairing using Fontjoy and other tools in Obsidian
-  - Using Chat GPT as your branding expert
-  - Using AI for concept logos
+  - [Creating color swatches with Colormind and the other tools in Obsidian](#creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian)
+  - [Creating font pairing using Fontjoy and other tools in Obsidian](#creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian)
+  - [Using Chat GPT as your branding expert](#using-chat-gpt-as-your-branding-expert)
+  - [Using AI for concept logos](#using-ai-for-concept-logos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrapping up
+  - [Wrapping up](#wrapping-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI tools for UX designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ux (3), ai (2), business (1), [[Midjourney]] (1), [[DALL-E]] (1)
 > **Env Vars:** dall (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [eric (1)
@@ -142,6 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), ux (2), [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** figma (2)
 > **Analogies:** for example (1), picture (1)
@@ -153,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Project Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Client's ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/client-s-ask?u=76281980)
@@ -218,7 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** business (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 ### 2. Creating Concepts Using Text-to-Image AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to text-to-image AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980)
@@ -311,8 +312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Midjourney]] (11), [[DALL-E]] (7), ai (3), [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dall (7)
-> **Code Keywords:** let (2), super (2), for. (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (2), [stability.ai](https://stability.ai) (2)
 > **Definitions:** is a  (2), is called (1), known as (1)
@@ -426,8 +427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Midjourney]] (22), hit (1), [[Slack]] (1), prompt (1)
 > **Tools:** discord (12), slack (1)
-> **Code Keywords:** let (2), private (1), throw (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (3), [discord.com](https://discord.com) (1)
 > **Prerequisites:** set up (2), setup (1), getting started (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -770,7 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), this. (3), type, (1), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Midjourney]] (21), prompt (9), [[Zoom]] (7), hit (6), [[Figma (Software)|Figma]] (5)
 > **Tools:** discord (8), figma (5)
 > **Analogies:** imagine (9), for example (1)
 > **UI Navigation:** click on (5), select the (1)
@@ -992,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), for. (3), super (2), for, (1), throw (1)
+> **Frameworks & Libraries:** [[Midjourney]] (18), prompt (9), hit (4), [[Figma (Software)|Figma]] (4), web (2)
 > **UI Navigation:** click on (4), go to (3), scroll down (1), scroll up (1)
 > **Analogies:** imagine (5), for example (1)
 > **Tools:** figma (4), discord (1)
@@ -1168,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for. (4), this, (1), this. (1), from. (1)
+> **Frameworks & Libraries:** [[Midjourney]] (14), prompt (7), [[Figma (Software)|Figma]] (4), hit (4), [[Google]] (1)
 > **UI Navigation:** go to (5), click on (5)
 > **Tools:** figma (4), discord (3)
 > **Env Vars:** url (6)
@@ -1320,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), this, (1), type. (1), for. (1)
+> **Frameworks & Libraries:** [[Midjourney]] (10), ai (7), [[Figma (Software)|Figma]] (3), [[Typography]] (3), prompt (3)
 > **Env Vars:** cole (2), dall (2), llm (1)
 > **CLI Commands:** make (3)
 > **URLs:** [automake.ai](https://automake.ai) (2), [u-i-z-a-r-d.io](https://u-i-z-a-r-d.io) (1)
@@ -1332,7 +1333,7 @@ created: 2026-04-29
 
 ### 3. Using AI Tools to Increase Image Resolution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upscaling your image assets
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980)
@@ -1427,7 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Midjourney]] (4), ai (4), product (3), hit (2), [[Figma (Software)|Figma]] (2)
 > **URLs:** [bigjpg.com](https://bigjpg.com) (2), [letsenhance.io](https://letsenhance.io) (1)
 > **Env Vars:** dall (1), cpu (1)
 > **Tools:** figma (2)
@@ -1438,7 +1439,7 @@ created: 2026-04-29
 
 ### 4. Building Image Assets Using AI Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating hero imagery with Midjourney
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980)
@@ -1773,7 +1774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), this, (3), for. (2), abstract (1), pass (1)
+> **Frameworks & Libraries:** [[Midjourney]] (26), prompt (8), product (6), [[Zoom]] (6), hit (4)
 > **Tools:** figma (2), discord (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** imagine (3)
@@ -1983,7 +1984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (3), for, (2), this, (2), super (1)
+> **Frameworks & Libraries:** [[Midjourney]] (17), [[DALL-E]] (17), [[ChatGPT]] (3), hit (3), [[Figma (Software)|Figma]] (3)
 > **Env Vars:** dall (18)
 > **Analogies:** just like (7), imagine (2), similar to (1)
 > **UI Navigation:** go to (3), click on (1), scroll down (1)
@@ -2143,7 +2144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), for, (1), super (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), [[Midjourney]] (3), ai (3), [[DALL-E]] (2), ux (2)
 > **Tools:** figma (8)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** click on (3), go to (1), drag and drop (1)
@@ -2155,7 +2156,7 @@ created: 2026-04-29
 
 ### 5. Using AI Tools to Create Brand Style Guides
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating color swatches with Colormind and the other tools in Obsidian
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980)
@@ -2414,7 +2415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this. (5), this, (3), switch (1), for, (1)
+> **Frameworks & Libraries:** [[Midjourney]] (8), hit (5), ai (2), prompt (2), [[DALL-E]] (2)
 > **UI Navigation:** go to (4), click on (1), scroll down (1), right-click (1)
 > **URLs:** [colormind.io](https://colormind.io) (2), [khroma.co](https://khroma.co) (2), [huemint.com](https://huemint.com) (1)
 > **Analogies:** similar to (2), imagine (2)
@@ -2552,7 +2553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), for, (1), this. (1)
+> **Frameworks & Libraries:** next (1), [[Algorithms]] (1), hit (1), [[Figma (Software)|Figma]] (1), [[Microsoft Products|Products]] (1)
 > **URLs:** [fontjoy.com](https://fontjoy.com) (3), [monotype.com](https://monotype.com) (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -2856,7 +2857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), interface (1), this, (1), delete (1), super (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), ux (7), [[Midjourney]] (5), ai (2), product (2)
 > **Env Vars:** gpt (22), dall (2)
 > **CLI Commands:** brew (6), make (3), find (3)
 > **Definitions:** is a  (6)
@@ -3166,7 +3167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), this. (4), continue (2), else. (1), for. (1)
+> **Frameworks & Libraries:** ai (3), business (2), [[Figma (Software)|Figma]] (2), data (1), [[Midjourney]] (1)
 > **UI Navigation:** click on (5), go to (4)
 > **CLI Commands:** brew (5), make (1)
 > **Env Vars:** gpt (5)
@@ -3178,7 +3179,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980)
@@ -3205,7 +3206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), super (1)
+> **Frameworks & Libraries:** ai (2), ux (2), [[Midjourney]] (1), [[ChatGPT]] (1), next (1)
 > **Env Vars:** dali (1)
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)

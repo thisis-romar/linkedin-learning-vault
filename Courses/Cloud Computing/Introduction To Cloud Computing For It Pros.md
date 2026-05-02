@@ -24,7 +24,7 @@ tags:
   - topic/cloud-computing
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20To%20Cloud%20Computing%20For%20It%20Pros.md)
@@ -43,58 +43,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The essentials of cloud computing
-  - What you should know
+  - [The essentials of cloud computing](#the-essentials-of-cloud-computing)
+  - [What you should know](#what-you-should-know)
 - [**1. Cloud Computing Basics**](#1-cloud-computing-basics) (7 videos)
-  - What is cloud computing?
-  - Explore the components of the cloud
-  - Cloud infrastructure
-  - Cloud services overview
-  - Storage and database services
-  - AI and ML-powered cloud services
-  - Low-code and no-code cloud services
+  - [What is cloud computing?](#what-is-cloud-computing)
+  - [Explore the components of the cloud](#explore-the-components-of-the-cloud)
+  - [Cloud infrastructure](#cloud-infrastructure)
+  - [Cloud services overview](#cloud-services-overview)
+  - [Storage and database services](#storage-and-database-services)
+  - [AI and ML-powered cloud services](#ai-and-ml-powered-cloud-services)
+  - [Low-code and no-code cloud services](#low-code-and-no-code-cloud-services)
 - [**2. Evaluate Cloud Computing for Business**](#2-evaluate-cloud-computing-for-business) (5 videos)
-  - The three main cloud computing scenarios
-  - The operational benefits of the cloud
-  - The economic benefits of the cloud
-  - Benefits of the cloud to staff
-  - The security risks of cloud computing
+  - [The three main cloud computing scenarios](#the-three-main-cloud-computing-scenarios)
+  - [The operational benefits of the cloud](#the-operational-benefits-of-the-cloud)
+  - [The economic benefits of the cloud](#the-economic-benefits-of-the-cloud)
+  - [Benefits of the cloud to staff](#benefits-of-the-cloud-to-staff)
+  - [The security risks of cloud computing](#the-security-risks-of-cloud-computing)
 - [**3. Cloud Storage**](#3-cloud-storage) (4 videos)
-  - Overview of cloud storage
-  - Storage providers
-  - Cloud storage security
-  - Cloud storage considerations
+  - [Overview of cloud storage](#overview-of-cloud-storage)
+  - [Storage providers](#storage-providers)
+  - [Cloud storage security](#cloud-storage-security)
+  - [Cloud storage considerations](#cloud-storage-considerations)
 - [**4. Cloud Tools and Services**](#4-cloud-tools-and-services) (4 videos)
-  - Explore Google Workspace
-  - Explore Microsoft 365
-  - Work with OneDrive
-  - Sync content with iCloud
+  - [Explore Google Workspace](#explore-google-workspace)
+  - [Explore Microsoft 365](#explore-microsoft-365)
+  - [Work with OneDrive](#work-with-onedrive)
+  - [Sync content with iCloud](#sync-content-with-icloud)
 - [**5. Cloud Tools for Teams**](#5-cloud-tools-for-teams) (4 videos)
-  - Microsoft 365 Groups
-  - Work with Microsoft Teams
-  - Share with Box.com
-  - Work together with Google Docs
+  - [Microsoft 365 Groups](#microsoft-365-groups)
+  - [Work with Microsoft Teams](#work-with-microsoft-teams)
+  - [Share with Box.com](#share-with-boxcom)
+  - [Work together with Google Docs](#work-together-with-google-docs)
 - [**6. Migrate to the Cloud**](#6-migrate-to-the-cloud) (6 videos)
-  - Make a cloud migration plan
-  - Analyze services, providers, and costs
-  - Release data using the wave approach
-  - Secure your data
-  - Establish a training plan
-  - Respond to change
+  - [Make a cloud migration plan](#make-a-cloud-migration-plan)
+  - [Analyze services, providers, and costs](#analyze-services-providers-and-costs)
+  - [Release data using the wave approach](#release-data-using-the-wave-approach)
+  - [Secure your data](#secure-your-data)
+  - [Establish a training plan](#establish-a-training-plan)
+  - [Respond to change](#respond-to-change)
 - [**7. Evaluate Cloud Performance**](#7-evaluate-cloud-performance) (2 videos)
-  - Monitor performance post transition
-  - Fine-tune cloud use
+  - [Monitor performance post transition](#monitor-performance-post-transition)
+  - [Fine-tune cloud use](#fine-tune-cloud-use)
 - [**8. Emerging Cloud Technologies**](#8-emerging-cloud-technologies) (4 videos)
-  - The Internet of Things
-  - Microservices
-  - Containers
-  - Artificial intelligence
+  - [The Internet of Things](#the-internet-of-things)
+  - [Microservices](#microservices)
+  - [Containers](#containers)
+  - [Artificial intelligence](#artificial-intelligence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-essentials-of-cloud-computing?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), business (1)
 > **Speakers:** - [david] (1)
 
 #### What you should know
@@ -136,13 +137,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (4), [[LinkedIn]] (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Cloud Computing Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cloud computing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980)
@@ -211,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (16), data (10), business (3), [[Microsoft Office]] (1), application (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
@@ -260,8 +261,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), next (2), data (2), web (1), [[Google]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Tools:** safari (1)
 > **Definitions:** is a  (1)
@@ -318,7 +319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), this, (1)
+> **Frameworks & Libraries:** cloud (6), [[Virtualization]] (6), power (3), [[Hardware]] (3), application (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
@@ -395,9 +396,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (6), application (6), cloud (4), [[SaaS|Software as a service]] (3), data (3)
 > **Analogies:** for example (2), similar to (2), just like (1)
 > **Definitions:** stands for (2), refers to (1), known as (1)
-> **Code Keywords:** let (2), for. (1)
 > **Prerequisites:** install (2), required to (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** iphoto (1), icloud (1)
@@ -453,8 +454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), cloud (4), [[Hardware]] (1), parallel (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [box.com](https://box.com) (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
@@ -495,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), require (1)
+> **Frameworks & Libraries:** ai (9), data (6), cloud (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), power (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -551,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), from, (1)
+> **Frameworks & Libraries:** cloud (4), business (4), [[Programming]] (3), [[Software Development]] (1), web (1)
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -561,7 +562,7 @@ created: 2026-04-29
 
 ### 2. Evaluate Cloud Computing for Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The three main cloud computing scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980)
@@ -628,7 +629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), private (1), finally, (1)
+> **Frameworks & Libraries:** cloud (23), application (4), data (4), management (1), [[Amazon EC2]] (1)
 > **Env Vars:** hipaa (2), ec2 (1), cpu (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
@@ -675,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), switch (1)
+> **Frameworks & Libraries:** cloud (8), application (2), data (1), [[Hardware]] (1), [[Automation]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -716,7 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new. (1), require (1), self (1)
+> **Frameworks & Libraries:** cloud (11), next (3), [[Hardware]] (2), business (1)
 > **Analogies:** kind of like (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -753,8 +754,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (1), application (1), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -815,15 +816,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), cloud (10), next (4), [[Security]] (3), application (2)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (2)
-> **Code Keywords:** raise (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 3. Cloud Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980)
@@ -886,7 +887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1)
+> **Frameworks & Libraries:** data (17), cloud (14), [[Google]] (2), business (1), web (1)
 > **Analogies:** for example (2)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Definitions:** is a  (1)
@@ -929,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), require (1), continue (1)
+> **Frameworks & Libraries:** cloud (5), [[Google]] (5), data (4), next (1), web (1)
 > **URLs:** [outlook.com](https://outlook.com) (1), [box.com](https://box.com) (1)
 > **Code Identifiers:** idrive (1)
 > **Cross-References:** in the next (1)
@@ -976,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (10), cloud (4), [[Security]] (3), power (1), next (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** required to (1)
@@ -1029,10 +1030,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), cloud (10), business (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1)
 > **CLI Commands:** find (2), aws (1)
 > **Env Vars:** aws (1), ssl (1)
 > **Definitions:** is a  (1), short for (1)
-> **Code Keywords:** let (1)
 > **Ports:** :00 (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
@@ -1041,7 +1042,7 @@ created: 2026-04-29
 
 ### 4. Cloud Tools and Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Google Workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980)
@@ -1106,6 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (15), business (5), cloud (4), [[Search]] (1), [[Google Drive]] (1)
 > **URLs:** [red30tech.com](https://red30tech.com) (2), [gmail.com](https://gmail.com) (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** drivers (1), iphone (1)
@@ -1163,7 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), for. (1), from, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), business (7), [[Microsoft Office|Office]] (3), [[Microsoft Outlook|Outlook]] (2), [[Android]] (2)
 > **Code Identifiers:** ipads (1), iphones (1)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Analogies:** such as (1), for example (1)
@@ -1231,7 +1233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), require (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), cloud (8), [[Microsoft 365]] (7), business (5), [[Windows]] (3)
 > **UI Navigation:** go to (2), switch to (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** it's like (1)
@@ -1306,9 +1308,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), feature (1), next (1)
 > **Code Identifiers:** icloud (12), iphone (5), ipad (2), ios (1)
 > **Analogies:** for example (3), imagine (2), picture (1)
-> **Code Keywords:** let (2), case, (1)
 > **UI Navigation:** in the sidebar (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1316,7 +1318,7 @@ created: 2026-04-29
 
 ### 5. Cloud Tools for Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft 365 Groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980)
@@ -1375,10 +1377,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), [[Microsoft 365]] (4), cloud (2), [[SharePoint]] (2), [[Microsoft Outlook|Outlook]] (2)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (3)
 > **Definitions:** in other words (1), is a  (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1486,7 +1488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (1), public (1), type. (1)
+> **Frameworks & Libraries:** teams (8), [[Microsoft 365]] (3), [[Microsoft Outlook|Outlook]] (3), application (1), hit (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), just like (1)
 > **Cross-References:** go back to (1)
@@ -1610,7 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (1), case, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** cloud (2), [[Google]] (2), next (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (5)
 > **Analogies:** for example (2), just like (1)
 > **Cross-References:** go back to (2)
@@ -1742,7 +1744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), continue (3), let (2), private (2), this, (1)
+> **Frameworks & Libraries:** [[Google]] (14), cloud (4), teams (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** picture (1), for example (1), just like (1), it's like (1)
 > **URLs:** [google.com](https://google.com) (2)
@@ -1754,7 +1756,7 @@ created: 2026-04-29
 
 ### 6. Migrate to the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make a cloud migration plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980)
@@ -1865,11 +1867,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), application (4), next (3), [[Security]] (2), database (2)
 > **Env Vars:** hipaa (2), pci (2), cpu (1), ec2 (1), cdn (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), such as (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Analyze services, providers, and costs
@@ -1943,10 +1945,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (22), [[Microsoft]] (3), business (2), [[Google]] (2), [[Automation]] (2)
 > **Code Identifiers:** icloud (1), vcenter (1)
 > **Env Vars:** pdf (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1985,7 +1987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** cloud (7), data (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Secure your data
@@ -2035,7 +2037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), protected (1), require (1)
+> **Frameworks & Libraries:** cloud (10), data (8), [[Security]] (6), management (2), [[Privacy]] (2)
 > **Env Vars:** crm (1), hcm (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
@@ -2097,7 +2099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1), require (1)
+> **Frameworks & Libraries:** cloud (5), [[Microsoft 365]] (1), [[Microsoft Office|Office]] (1), web (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** switch to (1)
@@ -2138,14 +2140,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** cloud (6), [[Google]] (1), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Evaluate Cloud Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitor performance post transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980)
@@ -2202,7 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), continue (1)
+> **Frameworks & Libraries:** cloud (14), data (4), [[Security]] (2), application (1), aws (1)
 > **CLI Commands:** make (2), aws (1)
 > **URLs:** [testmy.net](https://testmy.net) (1), [vmware.com](https://vmware.com) (1)
 > **Env Vars:** aws (1)
@@ -2290,7 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (18), cloud (12), [[Fine Tuning]] (1), business (1), management (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2300,7 +2302,7 @@ created: 2026-04-29
 
 ### 8. Emerging Cloud Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980)
@@ -2327,7 +2329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** cloud (7), data (4), [[Internet of Things (IoT)|Internet of things]] (2), [[Analytics]] (1), [[IoT]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Microservices
@@ -2363,6 +2365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (5), application (4), cloud (1), teams (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2388,7 +2391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (2)
+> **Frameworks & Libraries:** cloud (4), [[Microsoft Products|Products]] (2), [[Containerization]] (1), data (1), [[Virtual Machines]] (1)
 > **Env Vars:** aws (1), ibm (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** known as (1)
@@ -2423,14 +2426,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), continue (1), public (1)
+> **Frameworks & Libraries:** ai (10), cloud (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[Deep Learning]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980)
@@ -2455,6 +2458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[LinkedIn]] (2), business (1), [[Security]] (1), [[Big Data]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [david] (1)
 

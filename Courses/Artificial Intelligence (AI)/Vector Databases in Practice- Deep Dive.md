@@ -41,7 +41,7 @@ tags:
   - skill/vector-databases
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vector%20Databases%20in%20Practice-%20Deep%20Dive.md)
@@ -60,48 +60,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of AI-powered vector databases
+  - [The power of AI-powered vector databases](#the-power-of-ai-powered-vector-databases)
 - [**1. Search Functions in a Vector Database**](#1-search-functions-in-a-vector-database) (10 videos)
-  - A high-level view of vector databases
-  - What you can do with vector databases
-  - Get set up for the course
-  - Keyword filtering and keyword searches
-  - Vector searches
-  - Searching with filters
-  - Hybrid searches
-  - Retrieval augmented generation
-  - Challenge: Vector database queries
-  - Solution: Vector database queries
+  - [A high-level view of vector databases](#a-high-level-view-of-vector-databases)
+  - [What you can do with vector databases](#what-you-can-do-with-vector-databases)
+  - [Get set up for the course](#get-set-up-for-the-course)
+  - [Keyword filtering and keyword searches](#keyword-filtering-and-keyword-searches)
+  - [Vector searches](#vector-searches)
+  - [Searching with filters](#searching-with-filters)
+  - [Hybrid searches](#hybrid-searches)
+  - [Retrieval augmented generation](#retrieval-augmented-generation)
+  - [Challenge: Vector database queries](#challenge-vector-database-queries)
+  - [Solution: Vector database queries](#solution-vector-database-queries)
 - [**2. Building a Vector Database**](#2-building-a-vector-database) (8 videos)
-  - Create your own database
-  - Work with Weaviate
-  - Create an object collection
-  - Basic data import in Weaviate
-  - Establishing relationships with references
-  - Recap: Building a vector database
-  - Challenge: Add another object collection
-  - Solution: Add another object collection
+  - [Create your own database](#create-your-own-database)
+  - [Work with Weaviate](#work-with-weaviate)
+  - [Create an object collection](#create-an-object-collection)
+  - [Basic data import in Weaviate](#basic-data-import-in-weaviate)
+  - [Establishing relationships with references](#establishing-relationships-with-references)
+  - [Recap: Building a vector database](#recap-building-a-vector-database)
+  - [Challenge: Add another object collection](#challenge-add-another-object-collection)
+  - [Solution: Add another object collection](#solution-add-another-object-collection)
 - [**3. Building a Vector Database-Powered App**](#3-building-a-vector-database-powered-app) (7 videos)
-  - Web apps and vector databases
-  - Create a basic app
-  - Connect the app to Weaviate
-  - Parsing query responses
-  - Recommendations with RAG
-  - Challenge: App enhancements
-  - Solution: App enhancements
+  - [Web apps and vector databases](#web-apps-and-vector-databases)
+  - [Create a basic app](#create-a-basic-app)
+  - [Connect the app to Weaviate](#connect-the-app-to-weaviate)
+  - [Parsing query responses](#parsing-query-responses)
+  - [Recommendations with RAG](#recommendations-with-rag)
+  - [Challenge: App enhancements](#challenge-app-enhancements)
+  - [Solution: App enhancements](#solution-app-enhancements)
 - [**4. Making a Vector Database Work for Your Data**](#4-making-a-vector-database-work-for-your-data) (6 videos)
-  - Messiness of real data
-  - Pre-processing text for vector databases
-  - Chunking longer texts
-  - Chunk Wikipedia articles
-  - Challenge: Import Wikipedia data chunks
-  - Solution: Import Wikipedia data chunks
+  - [Messiness of real data](#messiness-of-real-data)
+  - [Pre-processing text for vector databases](#pre-processing-text-for-vector-databases)
+  - [Chunking longer texts](#chunking-longer-texts)
+  - [Chunk Wikipedia articles](#chunk-wikipedia-articles)
+  - [Challenge: Import Wikipedia data chunks](#challenge-import-wikipedia-data-chunks)
+  - [Solution: Import Wikipedia data chunks](#solution-import-wikipedia-data-chunks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning about vector databases
+  - [Continue learning about vector databases](#continue-learning-about-vector-databases)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of AI-powered vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980)
@@ -124,13 +124,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (2), database (2), [[Vector Databases]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. Search Functions in a Vector Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A high-level view of vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980)
@@ -187,9 +188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[Search]] (5), [[Vector Databases]] (5), [[Microsoft Word|Word]] (3), data (2)
 > **CLI Commands:** cat (3), find (2), make (1)
 > **Env Vars:** rgb (3), cmyk (1)
-> **Code Keywords:** let (2), abstract (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1), just like (1), for example (1)
 > **Speakers:** - [lecturer] (1), - now (1)
@@ -251,7 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), continue (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (6), database (6), data (6), [[Search]] (6), rag (2)
 > **CLI Commands:** find (3)
 > **Analogies:** just like (2), similar to (1)
 > **Env Vars:** rag (2)
@@ -328,8 +329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Weaviate]] (5), database (3), [[OpenAI API]] (3), ai (2)
 > **CLI Commands:** python (7), make (2)
-> **Code Keywords:** let (5), this. (2), function (2)
 > **Env Vars:** api (5), wsl (1), ide (1)
 > **Prerequisites:** set up (3), install (2), you'll need (1)
 > **UI Navigation:** go to (2), click on (1), navigate to (1)
@@ -422,7 +423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Search]] (6), data (4), database (3), next (2)
 > **CLI Commands:** find (2)
 > **Definitions:** in other words (1), is called (1)
 > **Analogies:** similar to (1), for example (1)
@@ -501,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), abstract (1)
+> **Frameworks & Libraries:** [[Search]] (14), [[Microsoft Word|Word]] (3), database (2), [[Vector Databases]] (1), data (1)
 > **Analogies:** for example (2), similar to (1)
 > **Cross-References:** we talked about (2)
 > **Env Vars:** rgb (1)
@@ -572,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), match. (1), require (1)
+> **Frameworks & Libraries:** [[Search]] (13), [[Metadata]] (2), data (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), imagine (1)
@@ -645,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1), type. (1)
+> **Frameworks & Libraries:** [[Search]] (29), [[Microsoft Word|Word]] (3), data (2), database (1), [[Metadata]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** bm25 (3)
 > **CLI Commands:** find (1)
@@ -726,8 +727,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (11), data (10), [[Search]] (5), prompt (4), [[Generative AI]] (3)
 > **Env Vars:** rag (11), gpt (1)
-> **Code Keywords:** let (3), module (1), pass (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
@@ -768,9 +769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), database (2), [[Python (Programming Language)|Python]] (1), rag (1), prompt (1)
 > **Versions:** 0.1 (1), 0.9 (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** for. (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -864,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (6), [[Metadata]] (4), rag (3), prompt (3), data (2)
 > **Env Vars:** rag (3)
 > **Versions:** 0.9 (2)
 > **CLI Commands:** python (1)
@@ -876,7 +877,7 @@ created: 2026-04-29
 
 ### 2. Building a Vector Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your own database
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980)
@@ -949,7 +950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), interface (1)
+> **Frameworks & Libraries:** database (12), next (3), [[Weaviate]] (3), api (3), data (2)
 > **Env Vars:** api (3), url (2), wcs (1)
 > **CLI Commands:** find (4), python (1)
 > **Prerequisites:** set up (2)
@@ -1019,8 +1020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Weaviate]] (6), database (3), [[Metadata]] (3), data (3), api (2)
 > **Env Vars:** api (2), url (1), wcs (1), sql (1), rag (1)
-> **Code Keywords:** let (4), continue (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Analogies:** for example (2)
 > **Best Practices:** it's best to (1)
@@ -1106,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (1)
+> **Frameworks & Libraries:** data (17), database (6), [[Weaviate]] (4), next (2), [[Relational Databases]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -1201,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1), function (1), override (1), module (1)
+> **Frameworks & Libraries:** data (13), database (6), [[Weaviate]] (5), next (3), [[OpenAI API]] (2)
 > **Env Vars:** uuid (3), api (2), csv (1), uid (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** insert_many (2)
@@ -1305,7 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1)
+> **Frameworks & Libraries:** data (13), database (2), product (1), [[Weaviate]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** hasreview (2), insert_many (1)
 > **Definitions:** is a  (1)
@@ -1364,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), interface (1)
+> **Frameworks & Libraries:** database (13), data (11), web (2), cloud (1), [[Hardware]] (1)
 > **Definitions:** in other words (1), means that (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1412,10 +1413,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), data (1)
 > **Analogies:** for example (1), similar to (1)
 > **File Paths:** movies.config (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** from. (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1515,7 +1516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), type. (1)
+> **Frameworks & Libraries:** data (6), database (5), next (3), cloud (1), web (1)
 > **Code Identifiers:** hassynopsis (2), data_type (1), formovie (1), add_reference (1), insert_many (1)
 > **Definitions:** is a  (2), is called (1)
 > **Best Practices:** don't forget (2), remember to (1)
@@ -1527,7 +1528,7 @@ created: 2026-04-29
 
 ### 3. Building a Vector Database-Powered App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web apps and vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980)
@@ -1584,7 +1585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), this, (1), let (1)
+> **Frameworks & Libraries:** web (11), database (7), [[Search]] (3), [[Python (Programming Language)|Python]] (2), data (2)
 > **CLI Commands:** python (2)
 > **Analogies:** just like (2)
 > **Definitions:** is an  (1)
@@ -1671,7 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), this. (1), type. (1)
+> **Frameworks & Libraries:** data (8), database (5), [[Search]] (4), next (2), web (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1), similar to (1)
 > **Env Vars:** rag (1)
@@ -1750,7 +1751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (2), pass (2), this. (1), try, (1)
+> **Frameworks & Libraries:** [[Search]] (9), database (4), data (3), next (2), [[Fetch]] (2)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -1839,7 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), case, (2), this. (1), default, (1)
+> **Frameworks & Libraries:** data (7), [[Search]] (3), next (3), [[Fetch]] (3), [[Weaviate]] (2)
 > **Code Identifiers:** hassynopsis (2), movie_id (1), movie_tab (1), movie_uuid (1), fetch_object_by_id (1)
 > **Env Vars:** uuid (2)
 > **Analogies:** just like (2)
@@ -1956,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (7), data (7), database (4), prompt (3), feature (2)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Env Vars:** rag (1)
@@ -1999,8 +2000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), next (1), feature (1), data (1), web (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type. (1), interface (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2091,7 +2092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), this. (1), function (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (8), data (6), [[Fetch]] (2), database (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** hasreview (2), hassynopsis (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** bm25 (2)
@@ -2103,7 +2104,7 @@ created: 2026-04-29
 
 ### 4. Making a Vector Database Work for Your Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Messiness of real data
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/messiness-of-real-data?u=76281980)
@@ -2174,10 +2175,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), web (3), database (1), next (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** import, (1), case, (1)
 > **Env Vars:** csv (1), url (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -2245,7 +2246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), from. (1), this. (1), class, (1)
+> **Frameworks & Libraries:** data (5), ai (2), api (2), [[Vector Databases]] (1), [[HTML]] (1)
 > **Env Vars:** api (2), html (1), xml (1), pdf (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (2)
@@ -2319,9 +2320,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (4), [[Databases]] (1), [[Vector Databases]] (1), [[Search]] (1)
 > **Definitions:** is a  (4), is an  (2), known as (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** for, (1), let (1)
 > **Cross-References:** go back to (1), we discussed (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
@@ -2407,7 +2408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), from. (2), this. (1)
+> **Frameworks & Libraries:** database (9), data (4), [[Microsoft Word|Word]] (2), [[Vector Databases]] (2), [[Relational Databases]] (2)
 > **Env Vars:** rag (2), json (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Code Identifiers:** chunk_size_max (1), chunk_number (1)
@@ -2463,7 +2464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), from. (1)
+> **Frameworks & Libraries:** data (6), database (4), application (1)
 > **Env Vars:** uuid (2)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** starter code (1)
@@ -2537,7 +2538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (2), pass (2), module (1), type. (1)
+> **Frameworks & Libraries:** data (10), database (3), rag (2), [[Databases]] (1)
 > **Env Vars:** uuid (3), rag (2)
 > **Best Practices:** remember to (2)
 > **Definitions:** is a  (1)
@@ -2548,7 +2549,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning about vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980)
@@ -2581,6 +2582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vector Databases]] (2), next (1), ai (1), rag (1), database (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rag (1)
 > **Definitions:** is a  (1)

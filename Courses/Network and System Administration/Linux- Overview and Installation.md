@@ -28,7 +28,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Linux-%20Overview%20and%20Installation.md)
@@ -47,44 +47,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Install the power of freedom with Linux
-  - What you should know
+  - [Install the power of freedom with Linux](#install-the-power-of-freedom-with-linux)
+  - [What you should know](#what-you-should-know)
 - [**1. Linux Overview**](#1-linux-overview) (5 videos)
-  - What is Linux?
-  - The origins of Linux and your future
-  - Open-source software
-  - Choosing a Linux distribution
-  - The state of Enterprise Linux
+  - [What is Linux?](#what-is-linux)
+  - [The origins of Linux and your future](#the-origins-of-linux-and-your-future)
+  - [Open-source software](#open-source-software)
+  - [Choosing a Linux distribution](#choosing-a-linux-distribution)
+  - [The state of Enterprise Linux](#the-state-of-enterprise-linux)
 - [**2. Before Installing Linux**](#2-before-installing-linux) (4 videos)
-  - What is virtualization?
-  - Install VirtualBox on Windows
-  - Install VirtualBox on Linux
-  - Manage VirtualBox with the GUI
+  - [What is virtualization?](#what-is-virtualization)
+  - [Install VirtualBox on Windows](#install-virtualbox-on-windows)
+  - [Install VirtualBox on Linux](#install-virtualbox-on-linux)
+  - [Manage VirtualBox with the GUI](#manage-virtualbox-with-the-gui)
 - [**3. Installing Linux**](#3-installing-linux) (6 videos)
-  - Creating a virtual machine
-  - Optimizing your virtual machine
-  - Before installing
-  - Install Linux from DVD ISO
-  - Reconfigure or migrate CentOS 8
-  - Virtual machine snapshots
+  - [Creating a virtual machine](#creating-a-virtual-machine)
+  - [Optimizing your virtual machine](#optimizing-your-virtual-machine)
+  - [Before installing](#before-installing)
+  - [Install Linux from DVD ISO](#install-linux-from-dvd-iso)
+  - [Reconfigure or migrate CentOS 8](#reconfigure-or-migrate-centos-8)
+  - [Virtual machine snapshots](#virtual-machine-snapshots)
 - [**4. Configuring Linux**](#4-configuring-linux) (5 videos)
-  - Update system software
-  - Install Guest Additions in Linux
-  - Configure basic system settings
-  - Customize GNOME 3 desktop
-  - Installing GNOME 3 extensions
+  - [Update system software](#update-system-software)
+  - [Install Guest Additions in Linux](#install-guest-additions-in-linux)
+  - [Configure basic system settings](#configure-basic-system-settings)
+  - [Customize GNOME 3 desktop](#customize-gnome-3-desktop)
+  - [Installing GNOME 3 extensions](#installing-gnome-3-extensions)
 - [**5. Using Linux**](#5-using-linux) (5 videos)
-  - Installing common software in CentOS 8
-  - Install software from third-party repositories
-  - Install non-RPM software
-  - Explore GNOME 3 desktop
-  - Customize GNOME 3 desktop
+  - [Installing common software in CentOS 8](#installing-common-software-in-centos-8)
+  - [Install software from third-party repositories](#install-software-from-third-party-repositories)
+  - [Install non-RPM software](#install-non-rpm-software)
+  - [Explore GNOME 3 desktop](#explore-gnome-3-desktop)
+  - [Customize GNOME 3 desktop](#customize-gnome-3-desktop)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install the power of freedom with Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Linux]] (9), cloud (1), [[Google]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [grant] (1)
 
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (14), [[Virtualization]] (3), [[Windows]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** amd (3), cpu (1), bios (1), iso (1)
 > **Prerequisites:** install (2), you'll need (2)
 > **Versions:** version 8 (3)
@@ -175,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Linux Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Linux?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980)
@@ -220,6 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (14), [[Google]] (3), [[Android]] (1), [[Scripting]] (1), [[PHP]] (1)
 > **CLI Commands:** php (1), python (1), ruby (1), find (1)
 > **Env Vars:** bsd (1), php (1), netgear (1)
 > **Code Identifiers:** ios (1), ereaders (1)
@@ -306,9 +308,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (13), [[Hardware]] (2), application (1), [[Red Hat Linux]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gnu (11)
 > **Definitions:** is a  (2), stands for (1), known as (1)
-> **Code Keywords:** module (1), for, (1), new, (1)
 > **URLs:** [distrowatch.com](https://distrowatch.com) (1)
 > **Tools:** command line (1)
 > **Analogies:** similar to (1)
@@ -421,9 +423,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** gpl (14), gnu (2), mit (1)
 > **Exercise Files:** source code (7)
-> **Code Keywords:** public (2), case, (1), let (1)
 > **CLI Commands:** make (3)
 > **Warnings:** be aware (1), note that (1), be careful (1)
 > **Definitions:** is called (1)
@@ -531,9 +533,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (13), [[Package Management]] (4), web (3), [[Security]] (2), [[Red Hat Linux]] (2)
 > **Env Vars:** rpm (2), suse (1), susa (1), apt (1)
 > **URLs:** [distrowatch.com](https://distrowatch.com) (3), [distrowash.com](https://distrowash.com) (1)
-> **Code Keywords:** from. (1), self (1), public (1)
 > **Warnings:** note that (2), keep in mind (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** apt (1)
@@ -649,9 +651,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (30), [[Red Hat Linux]] (2), next (2), product (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), curl (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1), similar to (1)
 > **Warnings:** note that (1), caution (1)
 > **Exercise Files:** source code (1)
@@ -660,7 +662,7 @@ created: 2026-04-29
 
 ### 2. Before Installing Linux
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is virtualization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980)
@@ -701,10 +703,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (4), [[Hardware]] (3), [[Linux]] (3), application (1), [[Windows]] (1)
 > **Env Vars:** cpu (1), bios (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
@@ -808,6 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Linux]] (5), next (3), [[Virtualization]] (1), power (1)
 > **UI Navigation:** click on (13), go to (2), scroll down (1), in the toolbar (1)
 > **Prerequisites:** install (12)
 > **Env Vars:** usb (2), ram (1), iso (1), pci (1), pxe (1)
@@ -815,7 +818,6 @@ created: 2026-04-29
 > **CLI Commands:** make (2)
 > **Code Identifiers:** macos (2)
 > **Exercise Files:** download the (2)
-> **Code Keywords:** case, (1)
 
 #### Install VirtualBox on Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980)
@@ -1002,12 +1004,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (11), hit (6), application (2), [[Security]] (2), [[Windows]] (1)
 > **Prerequisites:** install (14), configure (1)
 > **CLI Commands:** dnf (4), sudo (4), make (2), ls (2), cd (1)
 > **UI Navigation:** click on (10), go to (1), scroll down (1)
 > **Env Vars:** dnf (4), usb (2), gpasswd (1), pci (1), pxe (1)
 > **Tools:** terminal (5), command line (4)
-> **Code Keywords:** this. (1), from. (1), continue (1), let (1), function (1)
 > **URLs:** [virtualbox.org](https://virtualbox.org) (2)
 > **Warnings:** note that (2)
 
@@ -1098,7 +1100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), interface (1), pass (1), let (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Virtualization]] (1), [[Linux]] (1), next (1)
 > **Analogies:** for instance (2), picture (1), it's like (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -1108,7 +1110,7 @@ created: 2026-04-29
 
 ### 3. Installing Linux
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a virtual machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980)
@@ -1249,9 +1251,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), next (4), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), data (1)
 > **UI Navigation:** click on (14)
 > **Env Vars:** cpu (4), gui (1), vdi (1), kvm (1), sata (1)
-> **Code Keywords:** let (3), this, (2), override (1), type, (1)
 > **Prerequisites:** install (4), configure (1), you'll need (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (3), short for (1)
@@ -1357,9 +1359,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Virtual Machines]] (1), feature (1), [[Windows]] (1), data (1)
 > **Env Vars:** cpu (3), pae (2), nat (2), apic (1), ram (1)
 > **UI Navigation:** click on (10)
-> **Code Keywords:** let (3), this, (3), default, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** install (1)
@@ -1406,10 +1408,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), cd (1)
 > **Env Vars:** dvd (9), iso (5), usb (1), rom (1)
 > **Prerequisites:** install (12)
 > **CLI Commands:** make (1), cd (1)
-> **Code Keywords:** static (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1618,10 +1620,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (12), next (8), hit (2), [[Representational State Transfer (REST)|Rest]] (2), prompt (2)
 > **UI Navigation:** click on (22), select the (2), go to (1)
 > **Env Vars:** iso (8), dvd (3), gui (3), xfs (2), dvd1 (1)
 > **Prerequisites:** install (10), configure (2), you'll need (2), getting started (2), set up (1)
-> **Code Keywords:** let (3), continue (2), default, (2), this, (1), this. (1)
 > **CLI Commands:** make (4), cat (1)
 > **URLs:** [centos.org](https://centos.org) (1), [rockylinux.org](https://rockylinux.org) (1), [almalinuxos.org](https://almalinuxos.org) (1)
 > **Versions:** 8.5.2111 (1), version 8 (1), 5.2111 (1)
@@ -1708,6 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), cd (4), web (2), [[GitHub]] (2), next (1)
 > **CLI Commands:** sudo (5), cd (4), sed (3), make (1), yum (1)
 > **UI Navigation:** click on (12), go to (1)
 > **URLs:** [centos.org](https://centos.org) (5), [almalinux.org](https://almalinux.org) (1), [rockylinux.org](https://rockylinux.org) (1)
@@ -1715,7 +1718,6 @@ created: 2026-04-29
 > **Prerequisites:** install (3), you'll need (2)
 > **File Paths:** almalinux-deploy.sh (2), migrate2rocky.sh (2)
 > **Env Vars:** url (2)
-> **Warnings:** note that (2)
 
 #### Virtual machine snapshots
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/virtual-machine-snapshots?u=76281980)
@@ -1852,9 +1854,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), web (1)
 > **UI Navigation:** click on (15), select the (1), checkbox (1)
 > **Prerequisites:** install (7), configure (1), you'll need (1)
-> **Code Keywords:** let (3), delete (3), this: (1), this, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1862,7 +1864,7 @@ created: 2026-04-29
 
 ### 4. Configuring Linux
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Update system software
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980)
@@ -1961,11 +1963,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), application (2), [[Windows]] (1), hit (1), [[Security]] (1)
 > **Env Vars:** dvd (4), gui (2), gbg (2), iso (1), dnf (1)
 > **UI Navigation:** click on (6), select the (3)
 > **Tools:** terminal (4), command line (3), firefox (1)
 > **CLI Commands:** make (2), sudo (2), dnf (2)
-> **Code Keywords:** let (3), case, (1), this, (1), continue (1)
 > **Prerequisites:** install (5), you'll need (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
@@ -2063,9 +2065,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[Linux]] (2), cd (2), [[Software Development]] (1), dns (1)
 > **CLI Commands:** sudo (5), dnf (4), cd (2)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** let (2), this. (1), module (1)
 > **Tools:** terminal (4)
 > **Prerequisites:** install (4)
 > **Env Vars:** dnf (2)
@@ -2157,9 +2159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), hit (3), next (2), power (2), [[Search]] (1)
 > **UI Navigation:** click on (11), go to (1), scroll down (1)
 > **Prerequisites:** configure (6), install (2), you'll need (1)
-> **Code Keywords:** interface (3), let (2), default. (1), this, (1), delete (1)
 > **URLs:** [x.org](https://x.org) (2), [localnet.com](https://localnet.com) (1), [custom.com](https://custom.com) (1)
 > **Env Vars:** gui (3), gimp (1)
 > **CLI Commands:** make (2)
@@ -2309,9 +2311,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (3), hit (1), application (1), [[React.js|React]] (1)
 > **UI Navigation:** click on (12), go to (1), dropdown (1), select the (1)
 > **Env Vars:** gnome (7), gui (2)
-> **Code Keywords:** let (3), interface (1), from. (1), default. (1), default, (1)
 > **CLI Commands:** make (3), tar (1)
 > **URLs:** [gnome-look.org](https://gnome-look.org) (2), [gnome.org](https://gnome.org) (1)
 > **Analogies:** such as (2), for instance (1)
@@ -2397,11 +2399,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), web (2), [[Search]] (1), application (1)
 > **Env Vars:** gnome (11), cpu (1)
 > **UI Navigation:** click on (6)
 > **Prerequisites:** install (6)
 > **Analogies:** for instance (2), just like (1)
-> **Code Keywords:** continue (1), this, (1)
 > **Warnings:** warning (1), note that (1)
 > **URLs:** [gnome.org](https://gnome.org) (1)
 > **Tools:** firefox (1)
@@ -2409,7 +2411,7 @@ created: 2026-04-29
 
 ### 5. Using Linux
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing common software in CentOS 8
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980)
@@ -2492,11 +2494,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), hit (5), [[Linux]] (3), cd (2), [[Windows]] (1)
 > **Prerequisites:** install (11), you'll need (1)
 > **Env Vars:** gui (4), dnf (3), lan (1)
 > **CLI Commands:** dnf (3), cd (2), find (1), apache (1)
 > **Tools:** terminal (4), command line (3)
-> **Code Keywords:** let (3), interface (2), this. (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), note that (1)
@@ -2622,10 +2624,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Linux]] (9), [[Google]] (5), web (2), power (2)
 > **Env Vars:** rpm (11), dnf (9), epel (5), vlc (4), gui (1)
 > **CLI Commands:** sudo (9), dnf (9), make (2)
 > **Prerequisites:** install (19), you'll need (1)
-> **Code Keywords:** let (4), this. (1), default. (1), continue (1)
 > **Tools:** firefox (3), terminal (3)
 > **UI Navigation:** click on (4), scroll down (1), go to (1)
 > **Warnings:** note that (1), be careful (1), caution (1)
@@ -2732,9 +2734,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Linux]] (2), application (2), [[Package Management]] (1)
 > **CLI Commands:** snap (21), sudo (5), dnf (2), systemctl (1)
 > **Prerequisites:** install (13), set up (1)
-> **Code Keywords:** let (3), require (1), this, (1), var (1), this. (1)
 > **Env Vars:** rpm (4), epel (1), gui (1), gnome (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** click on (2), go to (1)
@@ -2836,8 +2838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), [[Linux]] (3), hit (2), [[Virtualization]] (1), [[Windows]] (1)
 > **Env Vars:** gnome (17), mate (2)
-> **Code Keywords:** super (5), default, (2), switch (1), let (1), this, (1)
 > **UI Navigation:** click on (4)
 > **Analogies:** just like (1), for instance (1)
 > **Definitions:** is a  (1)
@@ -2954,7 +2956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (7), let (1), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (7), application (3), feature (1), [[Linux]] (1), web (1)
 > **UI Navigation:** click on (3), navigate to (1), drag and drop (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), imagine (1)
@@ -2965,7 +2967,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980)
@@ -3000,7 +3002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Linux]] (6), next (3), [[LinkedIn]] (1)
 > **Env Vars:** gnome (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [grant] (1)

@@ -31,7 +31,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS%20for%20Developers-%20Identity%20Access%20Management%20(IAM).md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AWS user security with IAM
-  - What you should know
+  - [AWS user security with IAM](#aws-user-security-with-iam)
+  - [What you should know](#what-you-should-know)
 - [**1. AWS IAM Concepts**](#1-aws-iam-concepts) (4 videos)
-  - IAM overview
-  - Root account
-  - User accounts
-  - Create a user account
+  - [IAM overview](#iam-overview)
+  - [Root account](#root-account)
+  - [User accounts](#user-accounts)
+  - [Create a user account](#create-a-user-account)
 - [**2. Users and Policies**](#2-users-and-policies) (5 videos)
-  - Password settings
-  - Access keys
-  - Policy JSON
-  - Modifying policies
-  - Permission boundaries
+  - [Password settings](#password-settings)
+  - [Access keys](#access-keys)
+  - [Policy JSON](#policy-json)
+  - [Modifying policies](#modifying-policies)
+  - [Permission boundaries](#permission-boundaries)
 - [**3. Groups and Roles**](#3-groups-and-roles) (3 videos)
-  - Grouping users
-  - Roles
-  - Resource-based policies
+  - [Grouping users](#grouping-users)
+  - [Roles](#roles)
+  - [Resource-based policies](#resource-based-policies)
 - [**4. Advanced IAM**](#4-advanced-iam) (5 videos)
-  - Multi-factor authentication
-  - Federated access
-  - Credential report and access advisor
-  - CloudTrail
-  - Best practices
+  - [Multi-factor authentication](#multi-factor-authentication)
+  - [Federated access](#federated-access)
+  - [Credential report and access advisor](#credential-report-and-access-advisor)
+  - [CloudTrail](#cloudtrail)
+  - [Best practices](#best-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS user security with IAM
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980)
@@ -113,9 +113,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), management (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iam (3), aws (2)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** lambda (1)
 > **Speakers:** - managing (1)
 
 #### What you should know
@@ -145,16 +145,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** iam (1), aws (1)
-> **Code Keywords:** let (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. AWS IAM Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IAM overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980)
@@ -205,9 +205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), aws (2), management (1), database (1)
 > **Env Vars:** iam (3), aws (2)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** lambda (1), function (1)
 > **Analogies:** think of it like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -254,8 +254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Security]] (2), power (1)
 > **Env Vars:** iam (3), aws (2), mfa (1)
-> **Code Keywords:** require (2), continue (1)
 > **CLI Commands:** aws (2)
 > **Best Practices:** recommended (2)
 > **Speakers:** - [instructor] (1)
@@ -331,9 +331,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), management (2), next (2), api (1), data (1)
 > **Env Vars:** aws (8), iam (2), api (1), sdk (1)
 > **CLI Commands:** aws (8)
-> **Code Keywords:** interface (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command line (1)
 > **UI Navigation:** click on (1)
@@ -467,10 +467,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), next (5), management (1), database (1)
 > **Env Vars:** aws (6), iam (5)
 > **CLI Commands:** aws (6), make (2)
 > **UI Navigation:** go to (5)
-> **Code Keywords:** continue (1), require (1), from, (1), let (1)
 > **Prerequisites:** set up (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -479,7 +479,7 @@ created: 2026-04-29
 
 ### 2. Users and Policies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Password settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980)
@@ -544,10 +544,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), management (1), [[Security]] (1), [[Tokens]] (1), aws (1)
 > **Env Vars:** iam (2), sts (2), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **UI Navigation:** click on (1), go to (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** be aware (1)
@@ -646,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), type. (1), case, (1), interface (1)
+> **Frameworks & Libraries:** next (2), [[Security]] (1), [[Git]] (1)
 > **CLI Commands:** make (3), ssh (1), git (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Env Vars:** csv (1), ssh (1), https (1)
@@ -719,9 +719,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), database (1)
 > **Env Vars:** json (2), sns (2), iam (2), arn (2)
 > **UI Navigation:** go to (3), click on (2), select the (1)
-> **Code Keywords:** this, (2), let (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -827,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), delete (2), let (2)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Search]] (1), next (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** iam (1), json (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -902,7 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), else. (2)
+> **Frameworks & Libraries:** api (5)
 > **Env Vars:** api (5), iam (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** kind of like (1), just like (1), it's like (1)
@@ -912,7 +912,7 @@ created: 2026-04-29
 
 ### 3. Groups and Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping users
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/grouping-users-15110625?u=76281980)
@@ -1001,7 +1001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), this, (1)
+> **Frameworks & Libraries:** database (4), next (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** rds (1), ses (1)
@@ -1113,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (9), function (4), let (4), interface (1), this, (1)
+> **Frameworks & Libraries:** aws (7), database (4), [[Search]] (1), [[Node.js]] (1), [[JSON]] (1)
 > **Env Vars:** aws (7), iam (4), sdk (1), json (1), ses (1)
 > **CLI Commands:** aws (7), node (1)
 > **UI Navigation:** click on (4), dropdown (1), scroll down (1), go to (1)
@@ -1217,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), public (3), this, (1), this. (1), let (1)
+> **Frameworks & Libraries:** aws (4), api (2), management (1), [[JSON]] (1)
 > **Env Vars:** aws (4), api (2), arn (1), json (1)
 > **UI Navigation:** go to (4), click on (2), select the (1)
 > **CLI Commands:** aws (4)
@@ -1229,7 +1229,7 @@ created: 2026-04-29
 
 ### 4. Advanced IAM
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multi-factor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/multi-factor-authentication-15106896?u=76281980)
@@ -1274,9 +1274,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), aws (1)
 > **Env Vars:** mfa (4), aws (1), u2f (1)
 > **CLI Commands:** aws (1), make (1)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** dropdown (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1318,11 +1318,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Google]] (4), application (1), [[Security]] (1)
 > **Env Vars:** aws (5), iam (3), saml (3), url (1)
 > **CLI Commands:** aws (5), make (1), find (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1364,6 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (1), [[Security]] (1)
 > **Env Vars:** csv (2), aws (1), arn (1)
 > **CLI Commands:** aws (1)
 > **UI Navigation:** select the (1)
@@ -1426,7 +1427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (3), this. (1)
+> **Frameworks & Libraries:** cloud (2), [[Security]] (1), aws (1), [[JSON]] (1)
 > **Env Vars:** aws (1), csv (1), json (1), sns (1)
 > **CLI Commands:** make (2), aws (1)
 > **UI Navigation:** go to (1)
@@ -1469,15 +1470,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980)
@@ -1502,8 +1503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** lambda (1)
 > **Speakers:** - [bear] (1)
 
 

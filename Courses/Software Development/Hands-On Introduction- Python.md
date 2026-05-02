@@ -35,7 +35,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Hands-On%20Introduction-%20Python.md)
@@ -54,40 +54,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn Python by doing
-  - What you should know
-  - Using GitHub Codespaces with this course
+  - [Learn Python by doing](#learn-python-by-doing)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Running Python**](#1-running-python) (1 videos)
-  - Hello Python
+  - [Hello Python](#hello-python)
 - [**2. Diving into a Python Project**](#2-diving-into-a-python-project) (5 videos)
-  - Scope and indentation
-  - Fancy string work
-  - Getting what you need from lists with slices
-  - Looping and iteration
-  - Logic if/elif/else
+  - [Scope and indentation](#scope-and-indentation)
+  - [Fancy string work](#fancy-string-work)
+  - [Getting what you need from lists with slices](#getting-what-you-need-from-lists-with-slices)
+  - [Looping and iteration](#looping-and-iteration)
+  - [Logic if/elif/else](#logic-ifelifelse)
 - [**3. Let's Build Something!**](#3-lets-build-something) (5 videos)
-  - Reading a CSV file
-  - Making calculations
-  - Outputting JSON
-  - Challenge: Filtering output
-  - Solution: Filtering output
+  - [Reading a CSV file](#reading-a-csv-file)
+  - [Making calculations](#making-calculations)
+  - [Outputting JSON](#outputting-json)
+  - [Challenge: Filtering output](#challenge-filtering-output)
+  - [Solution: Filtering output](#solution-filtering-output)
 - [**4. Extending a Service**](#4-extending-a-service) (5 videos)
-  - Loading a JSON dataset
-  - Extending a small web server
-  - Searching through data
-  - Challenge: Filtering results
-  - Solution: Filtering results
+  - [Loading a JSON dataset](#loading-a-json-dataset)
+  - [Extending a small web server](#extending-a-small-web-server)
+  - [Searching through data](#searching-through-data)
+  - [Challenge: Filtering results](#challenge-filtering-results)
+  - [Solution: Filtering results](#solution-filtering-results)
 - [**5. Hands-on Python for AI**](#5-hands-on-python-for-ai) (3 videos)
-  - Python and AI
-  - Using GitHub Models
-  - OpenAI API
+  - [Python and AI](#python-and-ai)
+  - [Using GitHub Models](#using-github-models)
+  - [OpenAI API](#openai-api)
 - [**6. Python Cheat Sheets**](#6-python-cheat-sheets) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Extend your new Python skills
+  - [Extend your new Python skills](#extend-your-new-python-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Python by doing
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), ai (2), [[Control Flow]] (1), web application (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - if (1)
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Programming Foundations]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -270,7 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -282,7 +283,7 @@ created: 2026-04-29
 
 ### 1. Running Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980)
@@ -373,9 +374,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[GitHub]] (2), [[Programming]] (1), [[Web Development]] (1), data (1)
 > **CLI Commands:** python (19), python3 (2), cd (1), make (1)
 > **Tools:** terminal (9), github (2), visual studio (1)
-> **Code Keywords:** let (2), this. (1), this, (1)
 > **Env Vars:** nasa (1), ports (1), debug (1), console (1)
 > **Versions:** python 2 (1), python 3 (1), 10.6 (1)
 > **UI Navigation:** navigate to (2)
@@ -385,7 +386,7 @@ created: 2026-04-29
 
 ### 2. Diving into a Python Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scope and indentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/scope-and-indentation-24503428?u=76281980)
@@ -452,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (2), cd (2)
 > **CLI Commands:** python (6), cd (2), make (1)
-> **Code Keywords:** function (4), let (2), override (1), this, (1)
 > **File Paths:** main.py (3)
 > **Code Identifiers:** my_function (3)
 > **Definitions:** defined as (1), is a  (1), is an  (1)
@@ -518,10 +519,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), cd (1)
 > **CLI Commands:** python (3), cd (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **File Paths:** main.py (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** greet_format (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** template (1)
@@ -604,8 +605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (2), feature (1), cd (1)
 > **CLI Commands:** python (5), make (1), cd (1)
-> **Code Keywords:** let (2), finally, (1)
 > **File Paths:** main.py (1)
 > **Env Vars:** ipwd (1)
 > **Tools:** terminal (1)
@@ -723,9 +724,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** names (8), ages (2)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2), yield (1)
 > **Tools:** terminal (3)
 > **File Paths:** ex_files/02_04_begin/main.py (1), main.py (1)
 > **UI Navigation:** click on (1), navigate to (1)
@@ -801,7 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (3), let (3), this, (2), elif (2), else, (1)
+> **Frameworks & Libraries:** application (3), [[Python (Programming Language)|Python]] (2), cd (2), [[Control Flow]] (1)
 > **CLI Commands:** make (2), python (2), cd (2)
 > **Tools:** terminal (4)
 > **UI Navigation:** navigate to (2)
@@ -812,7 +813,7 @@ created: 2026-04-29
 
 ### 3. Let's Build Something!
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading a CSV file
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980)
@@ -895,8 +896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[JSON]] (3), data (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** csv (10), json (3), einstein_csv (1)
-> **Code Keywords:** module (2), let (2), from, (1), throw (1), finally, (1)
 > **CLI Commands:** python (5), cd (1)
 > **File Paths:** main.py (2), laureates.csv (2)
 > **Definitions:** is a  (2)
@@ -957,8 +958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Representational State Transfer (REST)|Rest]] (1), cd (1)
 > **CLI Commands:** python (4), cd (1)
-> **Code Keywords:** this. (1), let (1)
 > **Tools:** terminal (2)
 > **File Paths:** main.py (1)
 > **Code Identifiers:** born_date (1)
@@ -1079,9 +1080,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (29), data (6), [[Python (Programming Language)|Python]] (6), next (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** json (22), csv (8)
 > **CLI Commands:** python (6), make (1), cd (1)
-> **Code Keywords:** module (2), this, (2), this. (1), finally, (1)
 > **File Paths:** main.py (2), laureates.json (2), laureates.csv (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** navigate to (1), go to (1)
@@ -1115,6 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** json (2)
 > **Code Identifiers:** my_list (1)
 > **Cross-References:** in the next (1)
@@ -1166,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[JSON]] (3), cd (1), [[Python (Programming Language)|Python]] (1), data (1)
 > **Env Vars:** json (3)
 > **File Paths:** main.py (2)
 > **CLI Commands:** cd (1), python (1)
@@ -1178,7 +1180,7 @@ created: 2026-04-29
 
 ### 4. Extending a Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading a JSON dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980)
@@ -1281,8 +1283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), api (2), [[JSON]] (2), next (2), web (1)
 > **CLI Commands:** python (5), python3 (1), pip (1), cd (1)
-> **Code Keywords:** continue (2), this, (1), finally, (1), let (1)
 > **Env Vars:** api (2), json (2), http (1)
 > **Code Identifiers:** display_width (2), last_twenty_years (1)
 > **Tools:** terminal (3)
@@ -1417,8 +1419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[HTML]] (4), web application (3), application (2), [[JSON]] (2)
 > **CLI Commands:** python (7), pip (2), python3 (1), cd (1)
-> **Code Keywords:** function (5), let (2), pass (1), this. (1)
 > **Tools:** terminal (7)
 > **File Paths:** main.py (2), index.html (2), app.py (1), templates/index.html (1)
 > **UI Navigation:** go to (2), click on (2)
@@ -1507,7 +1509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), match. (1), delete (1), case. (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[Python (Programming Language)|Python]] (2), web application (1)
 > **CLI Commands:** make (2), python (2)
 > **Definitions:** is a  (3)
 > **File Paths:** app.py (2)
@@ -1541,9 +1543,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), application (1), [[HTML]] (1), api (1), next (1)
 > **File Paths:** 0404app.py (1), index.html (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Code Identifiers:** flname (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
@@ -1567,9 +1569,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), application (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **File Paths:** app.py (1)
-> **Code Keywords:** match. (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -1578,7 +1580,7 @@ created: 2026-04-29
 
 ### 5. Hands-on Python for AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980)
@@ -1595,8 +1597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), ai (1), data (1), [[Pandas (Software)|Pandas]] (1), [[PyTorch]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** include: (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1624,6 +1626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), ai (3), [[Codespaces]] (3), [[Prototyping]] (1), application (1)
 > **Tools:** github (7)
 > **CLI Commands:** python (1)
 > **Prerequisites:** you'll need (1)
@@ -1722,8 +1725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[GitHub]] (4), ai (4), cd (2), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** pip (3), cd (2), python3 (1), python (1)
-> **Code Keywords:** let (3), this, (1), finally, (1), this. (1)
 > **Tools:** github (4), terminal (2)
 > **Env Vars:** api (2), github_token (1), url (1)
 > **Analogies:** such as (4)
@@ -1734,12 +1737,12 @@ created: 2026-04-29
 
 ### 6. Python Cheat Sheets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extend your new Python skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980)
@@ -1766,8 +1769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), ai (1), [[Secure Coding]] (1), [[Security]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (5), make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - i (1)
 
 

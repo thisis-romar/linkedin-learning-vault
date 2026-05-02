@@ -32,7 +32,7 @@ tags:
   - skill/network-administration
   - skill/computer-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing-%20Understanding%20Networking.md)
@@ -51,42 +51,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. Introduction to Cloud Computing Networking**](#1-introduction-to-cloud-computing-networking) (3 videos)
-  - Cloud computing basics
-  - Understanding cloud deployment models
-  - The important role of cloud networking
+  - [Cloud computing basics](#cloud-computing-basics)
+  - [Understanding cloud deployment models](#understanding-cloud-deployment-models)
+  - [The important role of cloud networking](#the-important-role-of-cloud-networking)
 - [**2. Virtual Networks in the Cloud**](#2-virtual-networks-in-the-cloud) (3 videos)
-  - Understanding virtual networks and their purpose
-  - Creating and configuring virtual networks
-  - Addressing and subnetting in the cloud
+  - [Understanding virtual networks and their purpose](#understanding-virtual-networks-and-their-purpose)
+  - [Creating and configuring virtual networks](#creating-and-configuring-virtual-networks)
+  - [Addressing and subnetting in the cloud](#addressing-and-subnetting-in-the-cloud)
 - [**3. Cloud-Based Network Services**](#3-cloud-based-network-services) (5 videos)
-  - Cloud-based network services: DNS, DHCP, and VPN
-  - Setting up and managing DNS in the cloud
-  - Implementing Dynamic Host Configuration Protocol
-  - Configuring and managing VPN connections in the cloud
-  - Configuring and managing VPC (virtual private cloud)
+  - [Cloud-based network services: DNS, DHCP, and VPN](#cloud-based-network-services-dns-dhcp-and-vpn)
+  - [Setting up and managing DNS in the cloud](#setting-up-and-managing-dns-in-the-cloud)
+  - [Implementing Dynamic Host Configuration Protocol](#implementing-dynamic-host-configuration-protocol)
+  - [Configuring and managing VPN connections in the cloud](#configuring-and-managing-vpn-connections-in-the-cloud)
+  - [Configuring and managing VPC (virtual private cloud)](#configuring-and-managing-vpc-virtual-private-cloud)
 - [**4. Network Security in the Cloud**](#4-network-security-in-the-cloud) (4 videos)
-  - Cloud security and its challenges
-  - Implementing network security measures in the cloud
-  - Configuring network access control policies and rules
-  - Security services: Web app firewalls and DDoS protection
+  - [Cloud security and its challenges](#cloud-security-and-its-challenges)
+  - [Implementing network security measures in the cloud](#implementing-network-security-measures-in-the-cloud)
+  - [Configuring network access control policies and rules](#configuring-network-access-control-policies-and-rules)
+  - [Security services: Web app firewalls and DDoS protection](#security-services-web-app-firewalls-and-ddos-protection)
 - [**5. Interconnecting Cloud Networks**](#5-interconnecting-cloud-networks) (4 videos)
-  - Establishing connectivity between cloud environments
-  - Configuring VPNs for secure inter-cloud communication
-  - Interconnecting virtual networks within a cloud provider
-  - Integrating networks (hybrid and multicloud)
+  - [Establishing connectivity between cloud environments](#establishing-connectivity-between-cloud-environments)
+  - [Configuring VPNs for secure inter-cloud communication](#configuring-vpns-for-secure-inter-cloud-communication)
+  - [Interconnecting virtual networks within a cloud provider](#interconnecting-virtual-networks-within-a-cloud-provider)
+  - [Integrating networks (hybrid and multicloud)](#integrating-networks-hybrid-and-multicloud)
 - [**6. Network Monitoring and Troubleshooting**](#6-network-monitoring-and-troubleshooting) (4 videos)
-  - Network monitoring tools and techniques
-  - Configuring network monitoring services in the cloud
-  - Analyzing network traffic and troubleshooting issues
-  - Logging and analytics services
+  - [Network monitoring tools and techniques](#network-monitoring-tools-and-techniques)
+  - [Configuring network monitoring services in the cloud](#configuring-network-monitoring-services-in-the-cloud)
+  - [Analyzing network traffic and troubleshooting issues](#analyzing-network-traffic-and-troubleshooting-issues)
+  - [Logging and analytics services](#logging-and-analytics-services)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about cloud networking
+  - [Learning more about cloud networking](#learning-more-about-cloud-networking)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980)
@@ -109,13 +109,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** cloud (6)
 > **Speakers:** - welcome (1)
 
 
 ### 1. Introduction to Cloud Computing Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud computing basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980)
@@ -174,7 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** cloud (14), data (2), [[SaaS]] (2), [[IaaS]] (2), [[PaaS|Platform as a service]] (2)
 > **CLI Commands:** find (2)
 > **Definitions:** defined as (1), means that (1)
 > **Analogies:** such as (1)
@@ -219,7 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (5)
+> **Frameworks & Libraries:** cloud (8), [[SaaS]] (3), [[PaaS]] (3), [[IaaS]] (3), [[Private Clouds]] (3)
 > **Cross-References:** in the last (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), function (1)
+> **Frameworks & Libraries:** cloud (8), business (5), [[Security]] (4), [[Scalability]] (3), vpn (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
 > **Definitions:** means that (1), refers to (1)
 > **Env Vars:** vpn (1)
@@ -283,7 +283,7 @@ created: 2026-04-29
 
 ### 2. Virtual Networks in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding virtual networks and their purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980)
@@ -328,7 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (2)
+> **Frameworks & Libraries:** cloud (17), [[Security]] (3), business (2), [[Hardware]] (2), game (1)
 > **Definitions:** means that (2), refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -384,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), interface (1), function (1)
+> **Frameworks & Libraries:** cloud (6), traffic (3), [[Private Clouds]] (2), [[Routing]] (2), [[Security]] (2)
 > **Prerequisites:** configure (4), set up (1)
 > **Env Vars:** aws (1), vpc (1)
 > **Analogies:** such as (2)
@@ -428,7 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1)
+> **Frameworks & Libraries:** cloud (6), management (3), ai (2), [[Virtual Machines]] (1), [[Databases]] (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -436,7 +436,7 @@ created: 2026-04-29
 
 ### 3. Cloud-Based Network Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud-based network services: DNS, DHCP, and VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980)
@@ -485,8 +485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), dns (5), vpn (2), [[LinkedIn]] (2), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (5), dhcp (3), vpn (2)
-> **Code Keywords:** public (2), let (1), private (1)
 > **Definitions:** means that (2), stands for (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2)
 > **Analogies:** such as (2)
@@ -539,11 +539,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (15), cloud (3), [[Security]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** dns (15), cname (1), txt (1), dnssec (1)
 > **Definitions:** means that (2)
 > **Analogies:** for instance (1), such as (1)
 > **Prerequisites:** set up (1), configure (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Implementing Dynamic Host Configuration Protocol
@@ -597,8 +597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), dns (2), aws (1), [[Google]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** dhcp (10), dns (2), vpc (2), aws (1), ntp (1)
-> **Code Keywords:** let (1), require (1), private (1), this, (1), finally, (1)
 > **Prerequisites:** set up (2), configure (1), setup (1)
 > **CLI Commands:** find (2), aws (1)
 > **Cross-References:** we discussed (1), in the last (1)
@@ -635,9 +635,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (9), cloud (6)
 > **Env Vars:** vpn (9)
 > **Prerequisites:** set up (2), configure (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -690,8 +690,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), traffic (2), [[Security]] (2), [[Network Security]] (1), vpn (1)
 > **Env Vars:** vpc (12), vpn (1)
-> **Code Keywords:** public (2), let (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -701,7 +701,7 @@ created: 2026-04-29
 
 ### 4. Network Security in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security and its challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980)
@@ -748,7 +748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (1)
+> **Frameworks & Libraries:** [[Security]] (7), cloud (6), data (3), prompt (1), [[Network Security]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
@@ -820,10 +820,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Security]] (9), data (7), next (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), for example (1)
 > **Best Practices:** make sure to (3)
-> **Code Keywords:** protected (1), finally, (1)
 > **Env Vars:** iam (1), idps (1)
 > **Cross-References:** previous video (1), in the last (1)
 > **Prerequisites:** install (1), configure (1)
@@ -886,8 +886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), next (4), [[Network Security]] (3), data (2), management (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
@@ -931,16 +931,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (4), [[SQL]] (3), web application (2), [[Scripting]] (2), data (2)
 > **Env Vars:** sql (3), waf (2), http (2)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Interconnecting Cloud Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing connectivity between cloud environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980)
@@ -995,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (4), let (1), finally, (1)
+> **Frameworks & Libraries:** cloud (17), data (8), [[Security]] (4), aws (2), [[Google]] (2)
 > **Env Vars:** aws (2), vpn (2), vpc (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** such as (3)
@@ -1060,9 +1060,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (12), cloud (8), [[Security]] (3), strengths (2), [[Routing]] (2)
 > **Env Vars:** vpn (12), ssl (1), tls (1), l2tp (1), aws (1)
 > **CLI Commands:** make (3), aws (1)
-> **Code Keywords:** public (1), case. (1), case, (1), finally, (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1104,8 +1104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), vpn (4), aws (2), data (1), [[Microsoft]] (1)
 > **Env Vars:** vpn (4), aws (2), wan (1)
-> **Code Keywords:** public (4), private (1), finally, (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
@@ -1138,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (1), let (1)
+> **Frameworks & Libraries:** cloud (4), traffic (4), management (3), aws (1), [[Microsoft]] (1)
 > **CLI Commands:** aws (1), make (1)
 > **Analogies:** such as (2)
 > **Env Vars:** aws (1)
@@ -1147,7 +1147,7 @@ created: 2026-04-29
 
 ### 6. Network Monitoring and Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Network monitoring tools and techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980)
@@ -1204,8 +1204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), traffic (2), vpn (1), data (1), [[Performance Metrics]] (1)
 > **Env Vars:** vpc (1), vpn (1), cpu (1)
-> **Code Keywords:** case, (1), let (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
@@ -1262,9 +1262,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (3), hit (2), [[Virtual Machines]] (1), [[Google]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** public (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
@@ -1293,9 +1293,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), data (2), traffic (1), next (1), cloud (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1328,6 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Network Troubleshooting]] (1), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** aws (1)
@@ -1337,7 +1338,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about cloud networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980)
@@ -1374,8 +1375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** public (1), finally, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)

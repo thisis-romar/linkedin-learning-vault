@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20with%20AI-%20Beyond%20Pair%20Programming%20with%20AI.md)
@@ -48,50 +48,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Pair-programming with AI
-  - Prerequisites and how to use the exercise files
+  - [Pair-programming with AI](#pair-programming-with-ai)
+  - [Prerequisites and how to use the exercise files](#prerequisites-and-how-to-use-the-exercise-files)
 - [**1. Tools, Materials, and Environments**](#1-tools-materials-and-environments) (5 videos)
-  - Tools, materials, and environments
-  - AI as a chatty collaborator
-  - AI in the IDE
-  - AI in the pilot seat
-  - AI and rethinking what a developer is
+  - [Tools, materials, and environments](#tools-materials-and-environments)
+  - [AI as a chatty collaborator](#ai-as-a-chatty-collaborator)
+  - [AI in the IDE](#ai-in-the-ide)
+  - [AI in the pilot seat](#ai-in-the-pilot-seat)
+  - [AI and rethinking what a developer is](#ai-and-rethinking-what-a-developer-is)
 - [**2. Looking the AI in the Mouth**](#2-looking-the-ai-in-the-mouth) (9 videos)
-  - Where to start and how to start
-  - Inline generation
-  - Seeding, selecting, and expanding
-  - Generating documentation
-  - Documentation-Driven Development (DDD?)
-  - Chatting with code
-  - Code from a chat (ChatGPT)
-  - Artifacts (Claude)
-  - Knowledge, trust, and conservative models
+  - [Where to start and how to start](#where-to-start-and-how-to-start)
+  - [Inline generation](#inline-generation)
+  - [Seeding, selecting, and expanding](#seeding-selecting-and-expanding)
+  - [Generating documentation](#generating-documentation)
+  - [Documentation-Driven Development (DDD?)](#documentation-driven-development-ddd)
+  - [Chatting with code](#chatting-with-code)
+  - [Code from a chat (ChatGPT)](#code-from-a-chat-chatgpt)
+  - [Artifacts (Claude)](#artifacts-claude)
+  - [Knowledge, trust, and conservative models](#knowledge-trust-and-conservative-models)
 - [**3. Iteration, Experimentation, and Expansion**](#3-iteration-experimentation-and-expansion) (7 videos)
-  - Let's build an app together!
-  - Start with a prompt
-  - Use AI to build the layout
-  - Add an interactive map
-  - Use DDD to add an AI chat
-  - AI-driven code iteration
-  - Hallucinations, errors, and how to address them
+  - [Let's build an app together!](#lets-build-an-app-together)
+  - [Start with a prompt](#start-with-a-prompt)
+  - [Use AI to build the layout](#use-ai-to-build-the-layout)
+  - [Add an interactive map](#add-an-interactive-map)
+  - [Use DDD to add an AI chat](#use-ddd-to-add-an-ai-chat)
+  - [AI-driven code iteration](#ai-driven-code-iteration)
+  - [Hallucinations, errors, and how to address them](#hallucinations-errors-and-how-to-address-them)
 - [**4. Tests and Test-Driven Development**](#4-tests-and-test-driven-development) (5 videos)
-  - AI and the renewed importance of tests
-  - Writing tests with AI
-  - Getting AI to set up your test environment
-  - Effective TDD with modern AI tools
-  - The challenges of AI-powered TDD
+  - [AI and the renewed importance of tests](#ai-and-the-renewed-importance-of-tests)
+  - [Writing tests with AI](#writing-tests-with-ai)
+  - [Getting AI to set up your test environment](#getting-ai-to-set-up-your-test-environment)
+  - [Effective TDD with modern AI tools](#effective-tdd-with-modern-ai-tools)
+  - [The challenges of AI-powered TDD](#the-challenges-of-ai-powered-tdd)
 - [**5. Pushing Forward with Conservative Tools**](#5-pushing-forward-with-conservative-tools) (5 videos)
-  - Understanding bias in LLMs
-  - Detecting amplified old patterns
-  - Coaching the AI to use modern standards
-  - Documentation-driven AI assistance
-  - Leveraging pattern matching to push forward
+  - [Understanding bias in LLMs](#understanding-bias-in-llms)
+  - [Detecting amplified old patterns](#detecting-amplified-old-patterns)
+  - [Coaching the AI to use modern standards](#coaching-the-ai-to-use-modern-standards)
+  - [Documentation-driven AI assistance](#documentation-driven-ai-assistance)
+  - [Leveraging pattern matching to push forward](#leveraging-pattern-matching-to-push-forward)
 - [**6. Conclusion**](#6-conclusion) (1 videos)
-  - Upskilling is the new skill
+  - [Upskilling is the new skill](#upskilling-is-the-new-skill)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pair-programming with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980)
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), [[Programming]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - ai (1)
 
 #### Prerequisites and how to use the exercise files
@@ -158,18 +158,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[GitHub]] (3), [[GitHub Copilot]] (2), [[ChatGPT]] (1), application (1)
 > **Tools:** github (5)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **Prerequisites:** prerequisite (1), setup (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Tools, Materials, and Environments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools, materials, and environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/tools-materials-and-environments?u=76281980)
@@ -234,9 +234,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - here (1)
 
 #### AI as a chatty collaborator
@@ -314,7 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2), return, (1), let (1), super (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), prompt (5), product (4), [[React.js|React]] (3), [[JSON]] (2)
 > **Definitions:** is a  (2), in other words (1)
 > **Env Vars:** json (2)
 > **Analogies:** just like (1), for example (1)
@@ -344,9 +344,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[GitHub Copilot]] (1), [[Forms]] (1), prompt (1)
 > **Env Vars:** ide (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1)
 > **Tools:** github (1)
 > **Speakers:** - the (1)
 
@@ -385,8 +385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), next (2), data (2), prompt (1), [[Programming]] (1)
 > **CLI Commands:** find (1), rails (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - the (1)
 
@@ -483,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), match, (1), for, (1), this, (1)
+> **Frameworks & Libraries:** ai (14), next (3), power (3), [[Flux]] (2), [[Hardware]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
@@ -492,7 +492,7 @@ created: 2026-04-29
 
 ### 2. Looking the AI in the Mouth
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to start and how to start
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980)
@@ -553,10 +553,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[GitHub Copilot]] (2), prompt (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **Tools:** github (3), vs code (1)
 > **Env Vars:** ide (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - if (1)
 
@@ -637,7 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return, (1), for. (1), this, (1)
+> **Frameworks & Libraries:** ai (6), hit (4), [[Microsoft Copilot|Copilot]] (3), data (2), [[GitHub]] (1)
 > **Tools:** github (2), vs code (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ide (1), html (1)
@@ -744,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), const (2), import, (1), return. (1), interface (1)
+> **Frameworks & Libraries:** [[React.js|React]] (8), hit (7), [[Microsoft Copilot|Copilot]] (5), ai (3), [[Microsoft Word|Word]] (2)
 > **File Paths:** respimg.tsx (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** open the (1)
@@ -849,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), return. (1), interface (1), function (1), case, (1)
+> **Frameworks & Libraries:** ai (7), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1), hit (1), [[Git]] (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** click on (2), in the sidebar (1)
 > **CLI Commands:** find (1), git (1)
@@ -909,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (2), new. (1), module (1)
+> **Frameworks & Libraries:** ai (10), prompt (4), [[React.js|React]] (3), data (1), [[GitHub]] (1)
 > **Best Practices:** recommended (2), best practice (1)
 > **Tools:** github (1)
 > **Definitions:** in other words (1)
@@ -974,9 +974,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[React.js|React]] (2), feature (2), ai (1), [[ChatGPT]] (1)
 > **Code Identifiers:** usestate (5), seterror (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** return, (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1065,7 +1065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), this. (1), continue (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[GitHub]] (4), [[Microsoft Copilot|Copilot]] (4), ai (2), [[React.js|React]] (2)
 > **Tools:** github (4), vs code (2)
 > **Env Vars:** ide (3), tsx (1)
 > **CLI Commands:** find (1), rails (1)
@@ -1135,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), this, (1)
+> **Frameworks & Libraries:** api (3), [[ChatGPT]] (2), feature (2), [[React.js|React]] (2), data (2)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
@@ -1212,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), if, (1), from. (1), throw (1)
+> **Frameworks & Libraries:** ai (14), data (2), database (1), prompt (1), web (1)
 > **CLI Commands:** rails (1)
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
@@ -1223,7 +1223,7 @@ created: 2026-04-29
 
 ### 3. Iteration, Experimentation, and Expansion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Let's build an app together!
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980)
@@ -1288,7 +1288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), case, (1), break, (1), continue (1)
+> **Frameworks & Libraries:** ai (5), next (3), web (1), [[LinkedIn]] (1), product (1)
 > **Prerequisites:** set up (4), configure (1)
 > **Env Vars:** llm (1), api (1)
 > **Cross-References:** next chapter (1)
@@ -1398,8 +1398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[React.js|React]] (5), css (4), prompt (3), next (2)
 > **CLI Commands:** composer (4), find (2), make (2), cd (2), npm (2)
-> **Code Keywords:** this, (2), let (2), default, (1), switch (1), return. (1)
 > **File Paths:** tailwind.config.js (3), react.js (1), src/index.css (1), index.css (1), src/app.tsx (1)
 > **Prerequisites:** install (4), setup (2), set up (1), configure (1)
 > **Tools:** vs code (2), bash (2), github (1)
@@ -1492,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), this. (1), for. (1), continue (1)
+> **Frameworks & Libraries:** ai (5), hit (2), next (2), prompt (1), [[React.js|React]] (1)
 > **Env Vars:** tsx (10)
 > **CLI Commands:** composer (4), find (1), make (1)
 > **UI Navigation:** go to (1), open the (1), click on (1)
@@ -1665,7 +1665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), let (4), pass (2), this, (2), function (1)
+> **Frameworks & Libraries:** ai (8), [[React.js|React]] (6), api (2), [[Zoom]] (2), css (2)
 > **File Paths:** mapbox.tsx (3), leaflet.js (1), app.tsx (1)
 > **Env Vars:** api (2), css (2)
 > **CLI Commands:** make (3)
@@ -1855,9 +1855,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), ai (10), [[npm]] (3), web (2), [[Node.js]] (2)
 > **Env Vars:** api (14), npm (2), vite_openai_api_key (1), vite_assistant_id (1), uri (1)
 > **CLI Commands:** node (3), npm (3), make (2), yarn (2), python (1)
-> **Code Keywords:** let (6), this. (3), function (1), else. (1)
 > **File Paths:** node.js (2), chatbox.tsx (2)
 > **Documentation:** the documentation (3)
 > **Prerequisites:** install (2), set up (1)
@@ -1969,7 +1969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), this, (2), let (1), for. (1), pass (1)
+> **Frameworks & Libraries:** ai (17), api (4), [[OpenAI API]] (1), css (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (5), css (1)
 > **Code Identifiers:** navigatetolocation (3)
 > **CLI Commands:** make (1)
@@ -2041,7 +2041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), for. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** ai (12), prompt (4), [[Tokens]] (2), data (1), [[Version Control]] (1)
 > **CLI Commands:** make (2), rails (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** ide (2)
@@ -2052,7 +2052,7 @@ created: 2026-04-29
 
 ### 4. Tests and Test-Driven Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and the renewed importance of tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-the-renewed-importance-of-tests?u=76281980)
@@ -2087,9 +2087,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Test-Driven Development]] (4), [[Software Development]] (1), next (1)
 > **Env Vars:** tdd (4)
 > **CLI Commands:** make (2), rails (1)
-> **Code Keywords:** function (2), let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - test (1)
@@ -2169,8 +2169,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[ChatGPT]] (3), [[Test-Driven Development]] (1), ai (1), next (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (1), return, (1), for, (1)
 > **Prerequisites:** install (1), set up (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -2467,7 +2467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (2), if, (1), module (1), continue (1)
+> **Frameworks & Libraries:** ai (8), dom (5), [[React.js|React]] (3), next (2), [[npm]] (2)
 > **Prerequisites:** set up (13), install (5), setup (1)
 > **File Paths:** vitest.config.ts (3), vitest.config (3), test.ts (3), tests.ts (2), chatarea.test.tsx (1)
 > **CLI Commands:** make (3), find (2), npm (2), npx (1)
@@ -2579,7 +2579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), else, (1)
+> **Frameworks & Libraries:** ai (4), [[Test-Driven Development]] (2), [[React.js|React]] (2), data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), npx (1), npm (1)
 > **File Paths:** weathercard.test.js (1), weathercard.tsx (1)
 > **Env Vars:** tdd (1), npx (1)
@@ -2645,7 +2645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (2), let (1), finally, (1), else. (1)
+> **Frameworks & Libraries:** ai (11), [[Test-Driven Development]] (2), application (1), prompt (1), [[Software Development]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** tdd (2)
 > **Cross-References:** coming up (1), earlier in (1)
@@ -2656,7 +2656,7 @@ created: 2026-04-29
 
 ### 5. Pushing Forward with Conservative Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding bias in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980)
@@ -2709,9 +2709,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), prompt (2), generic (2), data (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (1), rails (1)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** ide (1)
 > **Tools:** github (1)
 > **Speakers:** - language (1)
@@ -2787,7 +2787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), function (1), let (1), else, (1), case, (1)
+> **Frameworks & Libraries:** ai (9), [[React.js|React]] (8), application (2), [[Search]] (2), [[Google]] (1)
 > **Env Vars:** jsx (3)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -2851,8 +2851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (6), ai (4), data (1)
 > **Env Vars:** jsx (5), dsx (1)
-> **Code Keywords:** this. (2), let (2), this, (1)
 > **Best Practices:** recommended (4)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
@@ -2911,7 +2911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), this. (1), new, (1), require (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), ai (3)
 > **Env Vars:** jsx (4)
 > **Cross-References:** previous video (2), as you saw (1), we talked about (1)
 > **CLI Commands:** find (2)
@@ -3003,7 +3003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), case, (1)
+> **Frameworks & Libraries:** ai (9), [[React.js|React]] (5), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** tsx (1)
@@ -3013,7 +3013,7 @@ created: 2026-04-29
 
 ### 6. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upskilling is the new skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980)
@@ -3052,6 +3052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Software Development]] (1), data (1), power (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)

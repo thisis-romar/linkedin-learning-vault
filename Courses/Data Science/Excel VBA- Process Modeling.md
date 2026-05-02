@@ -32,7 +32,7 @@ tags:
   - skill/data-modeling
   - skill/visual-basic-for-applications-vba
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20VBA-%20Process%20Modeling.md)
@@ -51,62 +51,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Analyze your business processes using Excel VBA
-  - Gain insight into your business through simulation
+  - [Analyze your business processes using Excel VBA](#analyze-your-business-processes-using-excel-vba)
+  - [Gain insight into your business through simulation](#gain-insight-into-your-business-through-simulation)
 - [**1. Defining Necessary VBA Constructs**](#1-defining-necessary-vba-constructs) (5 videos)
-  - Create a class module
-  - Define class properties
-  - Create an instance of a class
-  - Create collections
-  - Delete objects to free up memory
+  - [Create a class module](#create-a-class-module)
+  - [Define class properties](#define-class-properties)
+  - [Create an instance of a class](#create-an-instance-of-a-class)
+  - [Create collections](#create-collections)
+  - [Delete objects to free up memory](#delete-objects-to-free-up-memory)
 - [**2. Developing Process Control Structures**](#2-developing-process-control-structures) (8 videos)
-  - Describe process flow and programming goals
-  - Declare variables used in the simulation
-  - Define the Customers class and add a customer
-  - Define the Stations class and add stations
-  - Add code to calculate and write out times
-  - Delete unneeded objects
-  - Run the simulation
-  - Adapt the code for multiple runs
+  - [Describe process flow and programming goals](#describe-process-flow-and-programming-goals)
+  - [Declare variables used in the simulation](#declare-variables-used-in-the-simulation)
+  - [Define the Customers class and add a customer](#define-the-customers-class-and-add-a-customer)
+  - [Define the Stations class and add stations](#define-the-stations-class-and-add-stations)
+  - [Add code to calculate and write out times](#add-code-to-calculate-and-write-out-times)
+  - [Delete unneeded objects](#delete-unneeded-objects)
+  - [Run the simulation](#run-the-simulation)
+  - [Adapt the code for multiple runs](#adapt-the-code-for-multiple-runs)
 - [**3. Adding a Ticker to Track Time**](#3-adding-a-ticker-to-track-time) (5 videos)
-  - Define process flow and programming goals
-  - Create an outline of IF and For Next statements
-  - Add instructions within the framework
-  - Add code to write out simulation results
-  - Run the simulation
+  - [Define process flow and programming goals](#define-process-flow-and-programming-goals)
+  - [Create an outline of IF and For Next statements](#create-an-outline-of-if-and-for-next-statements)
+  - [Add instructions within the framework](#add-instructions-within-the-framework)
+  - [Add code to write out simulation results](#add-code-to-write-out-simulation-results)
+  - [Run the simulation](#run-the-simulation)
 - [**4. Adding Customers during the Simulation**](#4-adding-customers-during-the-simulation) (5 videos)
-  - Describe process flow and programming goals
-  - Use the Poisson distribution to calculate arrival times
-  - Add customers to the simulation
-  - Add code to write out simulation results
-  - Run the simulation
+  - [Describe process flow and programming goals](#describe-process-flow-and-programming-goals)
+  - [Use the Poisson distribution to calculate arrival times](#use-the-poisson-distribution-to-calculate-arrival-times)
+  - [Add customers to the simulation](#add-customers-to-the-simulation)
+  - [Add code to write out simulation results](#add-code-to-write-out-simulation-results)
+  - [Run the simulation](#run-the-simulation)
 - [**5. Modifying the Simulation**](#5-modifying-the-simulation) (7 videos)
-  - Describe process flow and programming goals
-  - Add capacity to each station
-  - Run the simulation with added station capacity
-  - Add more stations to the simulation
-  - Run the simulation with additional stations
-  - Add rework loops to stations
-  - Run the simulation with rework loops
+  - [Describe process flow and programming goals](#describe-process-flow-and-programming-goals)
+  - [Add capacity to each station](#add-capacity-to-each-station)
+  - [Run the simulation with added station capacity](#run-the-simulation-with-added-station-capacity)
+  - [Add more stations to the simulation](#add-more-stations-to-the-simulation)
+  - [Run the simulation with additional stations](#run-the-simulation-with-additional-stations)
+  - [Add rework loops to stations](#add-rework-loops-to-stations)
+  - [Run the simulation with rework loops](#run-the-simulation-with-rework-loops)
 - [**6. Allowing Conditional Processing**](#6-allowing-conditional-processing) (6 videos)
-  - Describe process flow and programming goals
-  - Allow conditional station paths
-  - Run the simulation
-  - Allow other employees to help the process
-  - Run the simulation with helpers
-  - Add time for customers to complete the process
+  - [Describe process flow and programming goals](#describe-process-flow-and-programming-goals)
+  - [Allow conditional station paths](#allow-conditional-station-paths)
+  - [Run the simulation](#run-the-simulation)
+  - [Allow other employees to help the process](#allow-other-employees-to-help-the-process)
+  - [Run the simulation with helpers](#run-the-simulation-with-helpers)
+  - [Add time for customers to complete the process](#add-time-for-customers-to-complete-the-process)
 - [**7. Analyzing Simulation Results**](#7-analyzing-simulation-results) (5 videos)
-  - Read the simulation results as written
-  - Manually reset the results cells
-  - Summarize results using the Total row
-  - Sort and filter Excel table values
-  - Troubleshoot errors in your code
+  - [Read the simulation results as written](#read-the-simulation-results-as-written)
+  - [Manually reset the results cells](#manually-reset-the-results-cells)
+  - [Summarize results using the Total row](#summarize-results-using-the-total-row)
+  - [Sort and filter Excel table values](#sort-and-filter-excel-table-values)
+  - [Troubleshoot errors in your code](#troubleshoot-errors-in-your-code)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further resources
+  - [Further resources](#further-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your business processes using Excel VBA
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980)
@@ -127,8 +127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (2), power (1), [[LinkedIn]] (1)
 > **Env Vars:** vba (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -217,9 +217,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Office]] (1)
 > **UI Navigation:** double-click (2), switch to (1), go to (1), right-click (1), open the (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), switch (1), let (1)
 > **Exercise Files:** exercise files (3)
 > **Warnings:** warning (2)
 > **Env Vars:** vba (1)
@@ -229,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Defining Necessary VBA Constructs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a class module
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980)
@@ -270,7 +270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (7)
+> **Frameworks & Libraries:** business (2), [[Simulation]] (1), [[Microsoft Excel|Excel]] (1), [[Programming]] (1)
 > **Env Vars:** vba (2), f11 (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
@@ -362,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), module (3), public (3), let (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2)
 > **Env Vars:** vba (1), f11 (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -441,7 +441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), class. (1), class, (1)
+> **Frameworks & Libraries:** data (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Excel|Excel]] (1), [[Simulation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** alt (1), f11 (1)
@@ -539,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (2), type. (1)
+> **Frameworks & Libraries:** next (5), [[Microsoft Excel|Excel]] (3), [[Simulation]] (1), data (1)
 > **Code Identifiers:** objc (6)
 > **Env Vars:** vba (2), f11 (1), dim (1)
 > **CLI Commands:** find (1), make (1)
@@ -590,7 +590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), delete (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vba (1), f11 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -601,7 +601,7 @@ created: 2026-04-29
 
 ### 2. Developing Process Control Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123394?u=76281980)
@@ -620,6 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (3)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -715,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (7), let (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Microsoft Excel|Excel]] (2), data (2), next (2)
 > **Code Identifiers:** lcustidcntr (2), lnbrstas (2), objc (1), objs (1), lstcntr (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** vba (3), f11 (1)
@@ -801,10 +802,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), next (1)
 > **Code Identifiers:** objc (2), lcustidcntr (1)
 > **Env Vars:** vba (2), f11 (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** module (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -960,8 +961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (14), data (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sta (4), f11 (3), objs (3), vba (2), lst (1)
-> **Code Keywords:** module (2), if, (2), continue (1), class. (1), this. (1)
 > **Prerequisites:** setup (7)
 > **UI Navigation:** scroll down (2), click on (1)
 > **CLI Commands:** find (1)
@@ -1074,7 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), function (2), class, (1), let (1), for, (1)
+> **Frameworks & Libraries:** next (5), business (1), application (1)
 > **Code Identifiers:** sngrand (2), stcntr (1), lstatime (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -1112,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), delete (1)
+> **Frameworks & Libraries:** [[Simulation]] (1), [[Microsoft Excel|Excel]] (1), [[Memory Management]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** f11 (1)
 > **Exercise Files:** exercise files (1)
@@ -1144,7 +1145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2)
+> **Frameworks & Libraries:** [[Simulation]] (3), business (1)
 > **Env Vars:** alt (1), f11 (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1239,8 +1240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Simulation]] (3), data (1)
 > **Env Vars:** nmbr (2), lnmbr (2), f11 (1), runs (1)
-> **Code Keywords:** module (4), let (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** setup (4)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -1251,7 +1252,7 @@ created: 2026-04-29
 
 ### 3. Adding a Ticker to Track Time
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-process-flow-and-programming-goals?u=76281980)
@@ -1274,7 +1275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), if. (1)
+> **Frameworks & Libraries:** [[Simulation]] (4), business (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
@@ -1402,7 +1403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), for. (1), else, (1), finally, (1), if, (1)
+> **Frameworks & Libraries:** next (15), [[Simulation]] (1)
 > **Env Vars:** objc (2), f11 (1), brstas (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1622,7 +1623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** next (11), business (1), [[Microsoft Excel|Excel]] (1), data (1), application (1)
 > **Env Vars:** sim (1), f11 (1), objc (1)
 > **CLI Commands:** find (1), ls (1)
 > **Code Identifiers:** sngrand (1), sndrand (1)
@@ -1670,9 +1671,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (5)
 > **Code Identifiers:** objc (1), lticker (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** module (1)
 > **Env Vars:** f11 (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
@@ -1732,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2)
+> **Frameworks & Libraries:** [[Simulation]] (2), business (1), data (1)
 > **Env Vars:** vba (1), f11 (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1743,7 +1744,7 @@ created: 2026-04-29
 
 ### 4. Adding Customers during the Simulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25122472?u=76281980)
@@ -1760,6 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (5)
 > **Speakers:** - [instructor] (1)
 
 #### Use the Poisson distribution to calculate arrival times
@@ -1851,7 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), lambda (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), data (1), [[Microsoft Word|Word]] (1), [[Probability]] (1)
 > **Env Vars:** poisson (1), dist (1), xlookup (1), m54 (1), l54 (1)
 > **Definitions:** means that (2), is a  (1), refers to (1)
 > **CLI Commands:** find (1), make (1)
@@ -1967,7 +1969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), module (1), if, (1), if. (1)
+> **Frameworks & Libraries:** next (11), [[Simulation]] (3), data (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sim (3), vba (2), obj (2)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Prerequisites:** setup (3)
@@ -2092,10 +2094,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (3), next (3), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** objc (4)
 > **UI Navigation:** scroll down (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), delete (1)
 > **Env Vars:** f11 (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -2220,7 +2222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), throw (1), else, (1)
+> **Frameworks & Libraries:** [[Simulation]] (6)
 > **Env Vars:** f11 (6)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** lticker (2), objc (1)
@@ -2232,7 +2234,7 @@ created: 2026-04-29
 
 ### 5. Modifying the Simulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123393?u=76281980)
@@ -2257,7 +2259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Simulation]] (2), business (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2363,8 +2365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), business (1), [[Microsoft Excel|Excel]] (1), data (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** switch (2), module (2), finally, (1), case, (1)
 > **Code Identifiers:** objc (1)
 > **Env Vars:** f11 (1)
 > **Cross-References:** in the next (1)
@@ -2499,7 +2501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), case, (2), module (1), while, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Simulation]] (1), business (1)
 > **Env Vars:** f11 (6), h196 (1), xlookup (1)
 > **UI Navigation:** scroll down (2), scroll up (1), double-click (1), go to (1)
 > **Cross-References:** go back to (2), later in (1)
@@ -2581,7 +2583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), delete (1), case, (1)
+> **Frameworks & Libraries:** next (4), data (3), business (2), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -2633,7 +2635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), case, (1), module (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), [[Simulation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Env Vars:** f11 (2)
@@ -2772,8 +2774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1), application (1)
 > **Code Identifiers:** lreworktime (4), objc (3), lrework (2), sngrand (1), lreworkcounter (1)
-> **Code Keywords:** module (2), let (1), switch (1), function (1), finally, (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** f11 (1), sng (1), cntr (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2844,9 +2846,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (4), [[Probability]] (1), business (1), data (1)
 > **Env Vars:** f11 (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -2856,7 +2858,7 @@ created: 2026-04-29
 
 ### 6. Allowing Conditional Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals?u=76281980)
@@ -2883,6 +2885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
@@ -2971,7 +2974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), module (2), let (2), if, (1)
+> **Frameworks & Libraries:** next (9), [[Probability]] (6), [[Simulation]] (2), data (1), business (1)
 > **Env Vars:** objc (3), alt (1), f11 (1)
 > **Versions:** 0.85 (1), 0.15 (1)
 > **Definitions:** means that (1), is a  (1)
@@ -3071,7 +3074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), module (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Probability]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** f11 (4)
 > **UI Navigation:** scroll down (2), right-click (1), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -3170,7 +3173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), require (1), let (1), module (1), else, (1)
+> **Frameworks & Libraries:** [[Simulation]] (4), next (2), [[Technical Support]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** vba (1), f11 (1)
 > **UI Navigation:** scroll down (2)
@@ -3391,9 +3394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (2), next (2)
 > **Env Vars:** f11 (27), alt (18), sim (1), vba (1)
 > **Versions:** 13.54 (2), 18.81 (2), 7.75 (2), 16.98 (1), 6.3 (1)
-> **Code Keywords:** delete (16), let (1), module (1), for. (1), class, (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** is a  (2)
@@ -3471,8 +3474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (2), next (2), business (1), data (1)
 > **UI Navigation:** scroll down (4), select the (1), right-click (1)
-> **Code Keywords:** case, (1), delete (1), module (1)
 > **Env Vars:** f11 (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3481,7 +3484,7 @@ created: 2026-04-29
 
 ### 7. Analyzing Simulation Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Read the simulation results as written
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980)
@@ -3526,6 +3529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (3), data (2), [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 36.17 (1)
 > **UI Navigation:** scroll down (1)
@@ -3589,7 +3593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Simulation]] (4), data (1)
 > **UI Navigation:** go to (1), select the (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3669,8 +3673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[Simulation]] (3)
 > **CLI Commands:** find (4)
-> **Code Keywords:** case, (2), default, (1)
 > **Env Vars:** h143 (1)
 > **Versions:** 3.54 (1)
 > **UI Navigation:** go to (1)
@@ -3733,10 +3737,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), [[Simulation]] (2), next (1)
 > **UI Navigation:** switch to (1), scroll down (1), go to (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** switch (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3863,7 +3867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), break. (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Simulation]] (2), [[Microsoft Excel|Excel]] (2), [[Programming]] (1), data (1), [[Probability]] (1)
 > **Env Vars:** f11 (3), vba (2), ctrl (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -3875,7 +3879,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980)
@@ -3908,6 +3912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), business (4), [[Simulation]] (1)
 > **Env Vars:** vba (2), crc (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)

@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Intelligent%20Automation%20Foundations.md)
@@ -45,40 +45,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Automation and Intelligence
-  - Background and Course Topics
+  - [Automation and Intelligence](#automation-and-intelligence)
+  - [Background and Course Topics](#background-and-course-topics)
 - [**1. The Importance of Intelligent Automation Today**](#1-the-importance-of-intelligent-automation-today) (2 videos)
-  - Intelligent automation: Hype or reality?
-  - The future of (your) work
+  - [Intelligent automation: Hype or reality?](#intelligent-automation-hype-or-reality)
+  - [The future of (your) work](#the-future-of-your-work)
 - [**2. The Basics of Intelligent Automation**](#2-the-basics-of-intelligent-automation) (6 videos)
-  - What is intelligent automation?
-  - The capabilities that make up intelligent automation
-  - Vision
-  - Execution
-  - Language
-  - Thinking and learning
+  - [What is intelligent automation?](#what-is-intelligent-automation)
+  - [The capabilities that make up intelligent automation](#the-capabilities-that-make-up-intelligent-automation)
+  - [Vision](#vision)
+  - [Execution](#execution)
+  - [Language](#language)
+  - [Thinking and learning](#thinking-and-learning)
 - [**3. The Tech behind the Senses**](#3-the-tech-behind-the-senses) (4 videos)
-  - Vision technologies
-  - Execution technologies
-  - Language technologies
-  - Thinking and learning technologies
+  - [Vision technologies](#vision-technologies)
+  - [Execution technologies](#execution-technologies)
+  - [Language technologies](#language-technologies)
+  - [Thinking and learning technologies](#thinking-and-learning-technologies)
 - [**4. Synergies in Action**](#4-synergies-in-action) (3 videos)
-  - Combinations and synergies
-  - Complex intelligent automation solutions
-  - Putting on the intelligent automation lens
+  - [Combinations and synergies](#combinations-and-synergies)
+  - [Complex intelligent automation solutions](#complex-intelligent-automation-solutions)
+  - [Putting on the intelligent automation lens](#putting-on-the-intelligent-automation-lens)
 - [**5. Methodologies and Frameworks**](#5-methodologies-and-frameworks) (4 videos)
-  - Methodology and framework topics
-  - Management of an intelligent automation program
-  - Purpose and structure of a center of excellence
-  - Success factors for scaling intelligent automation
+  - [Methodology and framework topics](#methodology-and-framework-topics)
+  - [Management of an intelligent automation program](#management-of-an-intelligent-automation-program)
+  - [Purpose and structure of a center of excellence](#purpose-and-structure-of-a-center-of-excellence)
+  - [Success factors for scaling intelligent automation](#success-factors-for-scaling-intelligent-automation)
 - [**Conclusion**](#conclusion) (3 videos)
-  - IA is not just about the IA
-  - The stars of the show
-  - Where to explore next
+  - [IA is not just about the IA](#ia-is-not-just-about-the-ia)
+  - [The stars of the show](#the-stars-of-the-show)
+  - [Where to explore next](#where-to-explore-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation and Intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), career (1)
 > **Definitions:** known as (1)
 > **Speakers:** - is (1)
 
@@ -135,13 +136,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), career (1), [[LinkedIn]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - my (1)
 
 
 ### 1. The Importance of Intelligent Automation Today
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intelligent automation: Hype or reality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980)
@@ -204,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), type, (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (9), career (3), [[Digital Transformation]] (1), product (1), cloud (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -243,13 +245,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), career (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
 
 ### 2. The Basics of Intelligent Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is intelligent automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980)
@@ -300,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (11), [[Hardware]] (1), [[Forms]] (1), [[Algorithms]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -346,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), [[Programming]] (1), [[Algorithms]] (1), data (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Vision
@@ -387,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), self (2), let (1)
+> **Frameworks & Libraries:** [[Automation]] (2), [[Computer Vision]] (1), traffic (1), product (1), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** mri (1)
 > **Speakers:** - as (1)
@@ -421,7 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** [[Automation]] (2), [[Programming]] (1), data (1), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** in other words (1)
@@ -462,8 +465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Big Data]] (1), [[Automation]] (1)
 > **CLI Commands:** cat (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** gpt3 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
@@ -499,13 +502,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
 
 ### 3. The Tech behind the Senses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vision technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980)
@@ -596,8 +600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (4), [[Automation]] (3), [[Security]] (2), [[Forms]] (1)
 > **Env Vars:** ocr (10), icr (6), idp (1)
-> **Code Keywords:** let (2), self (2), require (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
@@ -675,7 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), require (1), function (1), this, (1)
+> **Frameworks & Libraries:** rpa (5), data (4), [[Automation]] (3), [[Robotic Process Automation (RPA)|Robotic process automation]] (3), business (2)
 > **Env Vars:** rpa (5)
 > **Definitions:** is an  (1), defined as (1), in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -759,8 +763,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Analytics]] (3), [[Automation]] (3), management (2), [[Deep Learning]] (2)
 > **Env Vars:** uim (4), nlp (1)
-> **Code Keywords:** let (1), this, (1), function (1), interface (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -843,16 +847,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), management (3), [[Big Data]] (2), [[Automation]] (2), [[Decision-Making]] (2)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** self (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Synergies in Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combinations and synergies
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/combinations-and-synergies?u=76281980)
@@ -883,6 +887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (5), data (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - okay (1)
@@ -942,7 +947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Automation]] (3), [[Databases]] (3), business (2), application (2)
 > **Analogies:** such as (1)
 > **Speakers:** - to (1)
 
@@ -1009,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), for, (1)
+> **Frameworks & Libraries:** [[Automation]] (7), data (3), [[Human Resources (HR)|Human resources]] (1), business (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2)
@@ -1019,7 +1024,7 @@ created: 2026-04-29
 
 ### 5. Methodologies and Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Methodology and framework topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/methodology-and-framework-topics?u=76281980)
@@ -1036,6 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (5), teams (1), management (1)
 > **Speakers:** - the (1)
 
 #### Management of an intelligent automation program
@@ -1083,7 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Automation]] (7), business (3), leadership (2), management (1), [[Forms]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** coe (1)
 > **Cross-References:** in the next (1)
@@ -1123,6 +1129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (9), teams (1), business (1), rpa (1)
 > **Env Vars:** coe (8), dna (1), rpa (1)
 > **CLI Commands:** make (1)
 > **Versions:** 5.4 (1)
@@ -1200,9 +1207,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), data (6), [[Security]] (2), career (1), strengths (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1210,7 +1217,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IA is not just about the IA
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/ia-is-not-just-about-the-ia?u=76281980)
@@ -1239,6 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), management (4), business (1), teams (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - now (1)
 
@@ -1295,8 +1303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), [[Career Development]] (1), product (1), application (1), [[Social Media Marketing]] (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** finally, (1), super (1)
 > **Speakers:** - because (1)
 
 #### Where to explore next
@@ -1342,8 +1350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (5), [[LinkedIn]] (1), management (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** pass (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - congratulations (1)
 

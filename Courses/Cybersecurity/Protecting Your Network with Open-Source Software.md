@@ -32,7 +32,7 @@ tags:
   - skill/open-source-software
   - skill/network-security-implementation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Protecting%20Your%20Network%20with%20Open-Source%20Software.md)
@@ -51,74 +51,74 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Protect your network with free and open-source software
-  - What you should know
-  - Environment setup
+  - [Protect your network with free and open-source software](#protect-your-network-with-free-and-open-source-software)
+  - [What you should know](#what-you-should-know)
+  - [Environment setup](#environment-setup)
 - [**1. Understanding Open-Source Software**](#1-understanding-open-source-software) (5 videos)
-  - What is open-source software?
-  - Open-source software in networking
-  - Open-source solutions in cybersecurity
-  - Open-source vs. commercial software
-  - Costs and savings
+  - [What is open-source software?](#what-is-open-source-software)
+  - [Open-source software in networking](#open-source-software-in-networking)
+  - [Open-source solutions in cybersecurity](#open-source-solutions-in-cybersecurity)
+  - [Open-source vs. commercial software](#open-source-vs-commercial-software)
+  - [Costs and savings](#costs-and-savings)
 - [**2. Firewalls**](#2-firewalls) (6 videos)
-  - What is a firewall?
-  - Host firewalls
-  - Network firewalls
-  - Static packet filtering vs. stateful packet inspection
-  - Challenge: Disable UFW
-  - Solution: Disable UFW
+  - [What is a firewall?](#what-is-a-firewall)
+  - [Host firewalls](#host-firewalls)
+  - [Network firewalls](#network-firewalls)
+  - [Static packet filtering vs. stateful packet inspection](#static-packet-filtering-vs-stateful-packet-inspection)
+  - [Challenge: Disable UFW](#challenge-disable-ufw)
+  - [Solution: Disable UFW](#solution-disable-ufw)
 - [**3. Host as a Router**](#3-host-as-a-router) (10 videos)
-  - Netfilter and iptables
-  - Setting up a host firewall using iptables
-  - Automating netfilter configuration
-  - Understanding hosts as routers
-  - Adding a network adapter
-  - Testing the second adapter
-  - Setting up IP forwarding
-  - Changing netfilter settings: Part 1
-  - Changing netfilter settings: Part 2
-  - Testing the router
+  - [Netfilter and iptables](#netfilter-and-iptables)
+  - [Setting up a host firewall using iptables](#setting-up-a-host-firewall-using-iptables)
+  - [Automating netfilter configuration](#automating-netfilter-configuration)
+  - [Understanding hosts as routers](#understanding-hosts-as-routers)
+  - [Adding a network adapter](#adding-a-network-adapter)
+  - [Testing the second adapter](#testing-the-second-adapter)
+  - [Setting up IP forwarding](#setting-up-ip-forwarding)
+  - [Changing netfilter settings: Part 1](#changing-netfilter-settings-part-1)
+  - [Changing netfilter settings: Part 2](#changing-netfilter-settings-part-2)
+  - [Testing the router](#testing-the-router)
 - [**4. Host as a Network Firewall**](#4-host-as-a-network-firewall) (10 videos)
-  - Setting up hosts as network firewalls
-  - Setting up a web server
-  - Port forwarding
-  - Testing port forwarding
-  - Understanding one-legged DMZ
-  - Understanding true DMZ
-  - Understanding an application proxy firewall
-  - Setting up Squid
-  - Challenge: Fine-tuning the Squid configuration
-  - Solution: Fine-tuning the Squid configuration
+  - [Setting up hosts as network firewalls](#setting-up-hosts-as-network-firewalls)
+  - [Setting up a web server](#setting-up-a-web-server)
+  - [Port forwarding](#port-forwarding)
+  - [Testing port forwarding](#testing-port-forwarding)
+  - [Understanding one-legged DMZ](#understanding-one-legged-dmz)
+  - [Understanding true DMZ](#understanding-true-dmz)
+  - [Understanding an application proxy firewall](#understanding-an-application-proxy-firewall)
+  - [Setting up Squid](#setting-up-squid)
+  - [Challenge: Fine-tuning the Squid configuration](#challenge-fine-tuning-the-squid-configuration)
+  - [Solution: Fine-tuning the Squid configuration](#solution-fine-tuning-the-squid-configuration)
 - [**5. Packet Analysis**](#5-packet-analysis) (7 videos)
-  - What is packet analysis?
-  - ARP poisoning example
-  - Packet capturing with Wireshark
-  - Exploring Wireshark's advanced features
-  - Wireshark hands-on
-  - Challenge: Filtering with IP addresses and port numbers
-  - Solution: Filtering with IP addresses and port numbers
+  - [What is packet analysis?](#what-is-packet-analysis)
+  - [ARP poisoning example](#arp-poisoning-example)
+  - [Packet capturing with Wireshark](#packet-capturing-with-wireshark)
+  - [Exploring Wireshark's advanced features](#exploring-wiresharks-advanced-features)
+  - [Wireshark hands-on](#wireshark-hands-on)
+  - [Challenge: Filtering with IP addresses and port numbers](#challenge-filtering-with-ip-addresses-and-port-numbers)
+  - [Solution: Filtering with IP addresses and port numbers](#solution-filtering-with-ip-addresses-and-port-numbers)
 - [**6. IDSs and Vulnerability Assessment**](#6-idss-and-vulnerability-assessment) (8 videos)
-  - What is an IDS?
-  - Introducing Snort
-  - Snort as a packet sniffer
-  - Snort as an IDS: Establishing rules
-  - Snort as an IDS: Detecting pings
-  - What is a network vulnerability assessment?
-  - Nessus
-  - Network scanning with Nessus
+  - [What is an IDS?](#what-is-an-ids)
+  - [Introducing Snort](#introducing-snort)
+  - [Snort as a packet sniffer](#snort-as-a-packet-sniffer)
+  - [Snort as an IDS: Establishing rules](#snort-as-an-ids-establishing-rules)
+  - [Snort as an IDS: Detecting pings](#snort-as-an-ids-detecting-pings)
+  - [What is a network vulnerability assessment?](#what-is-a-network-vulnerability-assessment)
+  - [Nessus](#nessus)
+  - [Network scanning with Nessus](#network-scanning-with-nessus)
 - [**7. Logging and Monitoring**](#7-logging-and-monitoring) (6 videos)
-  - Logging
-  - syslog-ng
-  - Log forwarding: Part 1
-  - Log forwarding: Part 2
-  - Kiwi
-  - SNMP
+  - [Logging](#logging)
+  - [syslog-ng](#syslog-ng)
+  - [Log forwarding: Part 1](#log-forwarding-part-1)
+  - [Log forwarding: Part 2](#log-forwarding-part-2)
+  - [Kiwi](#kiwi)
+  - [SNMP](#snmp)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect your network with free and open-source software
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980)
@@ -143,8 +143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Intrusion Detection]] (1), open-source (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - network (1)
 
@@ -169,6 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), [[Virtual Machines]] (2), [[Windows]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Environment setup
@@ -198,8 +199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Virtual Machines]] (1), [[Virtualization]] (1), cloud (1), [[Microsoft Azure]] (1)
 > **Versions:** 192.168.70 (3), 192.168.35 (2), 192.168 (1), 192.68.35 (1)
-> **Code Keywords:** interface (1), default. (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ip_forward (1)
 > **Definitions:** is a  (1)
@@ -209,7 +210,7 @@ created: 2026-04-29
 
 ### 1. Understanding Open-Source Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is open-source software?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980)
@@ -258,7 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), public (1)
+> **Frameworks & Libraries:** open-source (11), [[Network Security]] (3), product (2), [[Linux]] (2), management (1)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** vms (1)
@@ -327,8 +328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (6), open-source (4), [[Linux]] (4), [[Ubuntu]] (2), [[Computer Networking]] (1)
 > **CLI Commands:** sudo (2), apt (2), make (1)
-> **Code Keywords:** interface (1), default. (1), let (1)
 > **Env Vars:** sans (1), sift (1)
 > **Prerequisites:** install (2)
 > **Analogies:** such as (1)
@@ -379,6 +380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Linux]] (2), [[Wireshark]] (2), [[Intrusion Detection]] (1), [[Vulnerability Assessment]] (1)
 > **Env Vars:** ids (3), ips (3), vms (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -440,9 +442,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), product (3), [[Intrusion Detection]] (2), [[Sustainability]] (1), [[Customer Support]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** snort (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -486,6 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (8), [[Technical Support]] (2), [[Cybersecurity]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Env Vars:** tco (4)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -496,7 +499,7 @@ created: 2026-04-29
 
 ### 2. Firewalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a firewall?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980)
@@ -557,9 +560,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (3), application (2), [[Microsoft Word|Word]] (1), data (1), traffic (1)
 > **Definitions:** refers to (1), is called (1), is a  (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), private (1)
 > **Env Vars:** hctp (1)
 > **Versions:** 192.168.0 (1)
 > **Warnings:** note that (1)
@@ -650,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (2), case, (1), public (1), switch (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Security]] (2), [[Linux]] (2), [[Ubuntu]] (2), [[Search]] (1)
 > **UI Navigation:** click on (7)
 > **Env Vars:** ufw (4)
 > **CLI Commands:** make (2)
@@ -714,7 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), case, (1)
+> **Frameworks & Libraries:** feature (2), traffic (1), data (1)
 > **Cross-References:** as you saw (1), later in (1)
 > **Prerequisites:** set up (2)
 > **Ports:** port 22222 (1)
@@ -768,7 +771,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (5), let (1), require (1)
 > **Env Vars:** spi (2), spf (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
@@ -803,9 +805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[Ubuntu]] (1), [[Search]] (1)
 > **Env Vars:** ufw (3)
 > **CLI Commands:** sudo (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -840,7 +842,7 @@ created: 2026-04-29
 
 ### 3. Host as a Router
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Netfilter and iptables
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980)
@@ -907,9 +909,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[Routing]] (5), [[CLI]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** acl (3), cli (1), net (1)
-> **Code Keywords:** interface (1), case. (1), finally, (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Tools:** command line (1), terminal (1)
 > **Analogies:** for example (1)
@@ -1032,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), interface (2), case, (1), super (1), switch (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Windows]] (3), traffic (2), prompt (1), [[Linux]] (1)
 > **Env Vars:** drop (3), nic (2), forward (2), input (1), cli (1)
 > **Versions:** 192.168.35 (2), 192.168 (2), 35.134 (1), 35.128 (1)
 > **CLI Commands:** sudo (4), make (1)
@@ -1128,8 +1130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), next (2), [[CLI]] (1), cd (1), [[Linux]] (1)
 > **CLI Commands:** make (2), ls (2), chmod (2), cd (1), sudo (1)
-> **Code Keywords:** let (2), this, (2), interface (1), finally, (1), case, (1)
 > **Env Vars:** drop (2), output (2), cli (1), input (1), accept (1)
 > **File Paths:** myfirewall.sh (4), myfw.sh (1)
 > **Tools:** command line (1)
@@ -1191,8 +1193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Hardware]] (1), [[Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1), lan (1)
 > **Env Vars:** nic (4), nat (2), lan (1)
-> **Code Keywords:** interface (4), switch (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Definitions:** we call this (1)
 > **Analogies:** picture (1)
@@ -1249,8 +1251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Local Area Network (LAN)|Local area network]] (2), lan (1), next (1)
 > **Versions:** 192.168.35 (4), 192.168.70 (4), 255.255.255 (1)
-> **Code Keywords:** private (2), let (1), interface (1)
 > **Definitions:** is a  (2), means that (1), refers to (1)
 > **Env Vars:** nic (1), lan (1)
 > **Warnings:** note that (1)
@@ -1284,8 +1286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (6), next (1)
 > **Versions:** 192.168.35 (4)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1362,7 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Linux]] (2), next (1)
 > **Code Identifiers:** ip_forward (6)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **CLI Commands:** sudo (1)
@@ -1395,7 +1397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), this, (1), interface (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (10), next (1), [[Google]] (1), dns (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Versions:** 192.168.35 (1), 8.8.8 (1)
 > **CLI Commands:** make (1)
@@ -1499,8 +1501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (2), cd (1), next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** forward (6), accept (5), established (3), related (3), masquerade (3)
-> **Code Keywords:** let (9), interface (7), match, (1)
 > **Speakers:** - o (2), - a (2), - [instructor] (1), - i (1), - m (1)
 > **CLI Commands:** make (2), cd (1), chmod (1), ls (1), sudo (1)
 > **Definitions:** stands for (4), refers to (1)
@@ -1534,8 +1536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Google]] (1), dns (1)
 > **Versions:** 192.168.70 (2), 8.8.8 (1), 192.168.35 (1)
-> **Code Keywords:** interface (2), let (1)
 > **Definitions:** means that (2)
 > **Env Vars:** dns (1)
 > **Speakers:** - [instructor] (1)
@@ -1543,7 +1545,7 @@ created: 2026-04-29
 
 ### 4. Host as a Network Firewall
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up hosts as network firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980)
@@ -1594,7 +1596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), switch (2), let (1), case, (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (10), traffic (5), web (1), next (1)
 > **Versions:** 192.168.35 (3), 192.168.70 (2)
 > **Prerequisites:** set up (3), prerequisite (1)
 > **Ports:** port 80 (3)
@@ -1672,7 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type, (1), this. (1)
+> **Frameworks & Libraries:** web (17), [[Ubuntu]] (6), [[Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1), next (1)
 > **Env Vars:** dmz (4), http (2), ctl (1), ubuntu (1)
 > **CLI Commands:** systemctl (4), apache (2), apt (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1779,7 +1781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), interface (6), new, (2), case, (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (7), web (3), [[Windows]] (2), cd (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** prerouting (3), dnat (3), forward (2), established (2), related (2)
 > **Versions:** 192.168.70 (4), 192.168.35 (3), 191.168 (1), 35.128 (1)
 > **CLI Commands:** cd (1), ls (1), make (1), sudo (1)
@@ -1809,7 +1811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), web (3), [[Windows]] (1)
 > **Env Vars:** dmz (2), ens (1)
 > **Versions:** 192.168.70 (1)
 > **Speakers:** - [instructor] (1)
@@ -1855,8 +1857,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), traffic (1), [[Security]] (1)
 > **Env Vars:** dmz (12)
-> **Code Keywords:** interface (6), switch (2), protected (1), public (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -1893,8 +1895,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **Env Vars:** dmz (9)
-> **Code Keywords:** interface (2), switch (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1954,9 +1956,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), web (5), data (4), open-source (1), [[Microsoft]] (1)
 > **Env Vars:** http (25), spf (2), spi (2), xyz (1), dmz (1)
 > **Definitions:** is an  (2), is called (1)
-> **Code Keywords:** static (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -2092,7 +2094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), type, (1), type . (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[Ubuntu]] (3), [[Microsoft]] (3), web (2), cd (1)
 > **CLI Commands:** sudo (4), apt (1), cd (1), ls (1), make (1)
 > **Code Identifiers:** url_regex (3), http_access (2)
 > **UI Navigation:** click on (4), go to (1)
@@ -2126,8 +2128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[LinkedIn]] (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2), [linkedin.com](https://linkedin.com) (1)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle bright music) (1)
@@ -2185,7 +2187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **CLI Commands:** sudo (3), systemctl (2)
 > **Code Identifiers:** http_access (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [linkedin.com](https://linkedin.com) (1)
@@ -2196,7 +2198,7 @@ created: 2026-04-29
 
 ### 5. Packet Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is packet analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980)
@@ -2249,10 +2251,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Local Area Network (LAN)|Local area network]] (1), application (1), data (1), next (1)
 > **Env Vars:** arp (4), tcp (3), udp (3), http (1)
 > **Definitions:** stands for (3), is a  (2), is an  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2331,8 +2333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (4), [[Network Security]] (3), [[Troubleshooting]] (1), application (1), [[Computer Networking]] (1)
 > **Env Vars:** arp (13), lan (4)
-> **Code Keywords:** pass (2), interface (1), switch (1), case, (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2424,8 +2426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (9), traffic (3), web (1), [[LinkedIn]] (1), next (1)
 > **Env Vars:** tcp (6), syn (4), ack (4)
-> **Code Keywords:** let (3), finally, (2), interface (2), case, (1)
 > **CLI Commands:** sudo (2), apt (1), find (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
@@ -2463,8 +2465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (9), feature (2), dns (2), next (1)
 > **Env Vars:** dns (2), gui (2), tcp (1)
-> **Code Keywords:** interface (1), continue (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -2535,7 +2537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), interface (4)
+> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (3), next (1), web (1), [[LinkedIn]] (1)
 > **Env Vars:** gui (2), acl (2)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **CLI Commands:** sudo (1), make (1)
@@ -2573,6 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), next (1), [[Search]] (1), [[Ubuntu]] (1), traffic (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 192.168.70 (2)
 > **Ports:** port 80 (1)
@@ -2580,7 +2583,6 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (bright music) (1)
 
 #### Solution: Filtering with IP addresses and port numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-filtering-with-ip-addresses-and-port-numbers?u=76281980)
@@ -2609,17 +2611,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), traffic (1)
 > **Env Vars:** syn (2), ack (2), tcp (1)
 > **Versions:** 192.168.70 (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - were (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. IDSs and Vulnerability Assessment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an IDS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980)
@@ -2676,9 +2678,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (6), traffic (3), management (3), data (3), [[Security]] (2)
 > **Env Vars:** ids (9), siem (4), ips (2), utm (2), idss (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1)
-> **Code Keywords:** else. (1), case, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
@@ -2738,11 +2740,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[Analytics]] (2), open-source (1), [[Intrusion Detection]] (1), [[Windows]] (1)
 > **Env Vars:** ids (6), ips (6), siem (2)
 > **Exercise Files:** download the (1), source code (1)
 > **Definitions:** is an  (1), stands for (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** interface (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
@@ -2830,7 +2832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), var (2), finally. (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Intrusion Detection]] (1), [[Ubuntu]] (1), application (1), prompt (1)
 > **CLI Commands:** apt (1), cd (1), ls (1)
 > **Versions:** 192.168.70 (2)
 > **UI Navigation:** go to (1), open the (1)
@@ -2954,7 +2956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), from. (2), interface (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), cd (2), next (2), [[Search]] (1)
 > **CLI Commands:** cd (2), sudo (2), make (1), ls (1)
 > **Env Vars:** icmp (2), sid (1), rule_path (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -3009,7 +3011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3), var (1), finally, (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), next (2)
 > **Env Vars:** ids (1), sid (1)
 > **Versions:** 192.168.70 (2)
 > **CLI Commands:** sudo (1)
@@ -3076,6 +3078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (6), [[Security]] (3), [[NIST]] (2), database (1), [[Network Security]] (1)
 > **Env Vars:** nist (2), cce (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -3104,6 +3107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (1), [[Real-Time]] (1), [[Malware Detection]] (1), web application (1), database (1)
 > **Env Vars:** cve (3), nvd (2), nist (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -3171,7 +3175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), type, (1)
+> **Frameworks & Libraries:** web application (1), web (1), [[Vulnerability Assessment]] (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), set up (1)
@@ -3183,7 +3187,7 @@ created: 2026-04-29
 
 ### 7. Logging and Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980)
@@ -3218,6 +3222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), feature (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3272,6 +3277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), management (1), database (1), [[Security]] (1), [[Debugging]] (1)
 > **Definitions:** is a  (2), stands for (1), refers to (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
@@ -3345,7 +3351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), try. (1), interface (1)
+> **Frameworks & Libraries:** [[Search]] (2), cd (1), [[Ubuntu]] (1)
 > **CLI Commands:** sudo (2), cd (1), ls (1)
 > **Env Vars:** log_auth (1), log_alert (1)
 > **Code Identifiers:** alert_syslog (1)
@@ -3463,8 +3469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (2), next (2), cd (1), [[Search]] (1)
 > **CLI Commands:** sudo (4), systemctl (2), apt (1), cd (1), ls (1)
-> **Code Keywords:** let (6), function (1), case, (1)
 > **Code Identifiers:** s_src (2), f_auth (2)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** install (1), make sure you have (1)
@@ -3505,7 +3511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Intrusion Detection]] (2), [[Ubuntu]] (1), dns (1)
 > **Env Vars:** dns (1), udp (1)
 > **Ports:** port 514 (1)
 > **UI Navigation:** go to (1)
@@ -3564,16 +3570,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (3), [[Network Security]] (1), database (1)
 > **Env Vars:** snmp (10), mib (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** switch (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980)
@@ -3594,7 +3600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Security]] (1), [[Cybersecurity]] (1), [[Network Forensics]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - thanks (1)
 

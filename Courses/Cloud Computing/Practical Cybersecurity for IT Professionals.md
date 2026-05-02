@@ -27,7 +27,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Practical%20Cybersecurity%20for%20IT%20Professionals.md)
@@ -46,66 +46,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Understanding cybersecurity
-  - What you should know
-  - Disclaimer
+  - [Understanding cybersecurity](#understanding-cybersecurity)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Why Cybersecurity?**](#1-why-cybersecurity) (7 videos)
-  - A history of hackers
-  - The cyber kill chain
-  - Stuxnet and the kill chain
-  - Common forms of cyberattack
-  - Viruses, spyware, and adware
-  - Cybercrime and ransomware
-  - Emerging trends in cybersecurity
+  - [A history of hackers](#a-history-of-hackers)
+  - [The cyber kill chain](#the-cyber-kill-chain)
+  - [Stuxnet and the kill chain](#stuxnet-and-the-kill-chain)
+  - [Common forms of cyberattack](#common-forms-of-cyberattack)
+  - [Viruses, spyware, and adware](#viruses-spyware-and-adware)
+  - [Cybercrime and ransomware](#cybercrime-and-ransomware)
+  - [Emerging trends in cybersecurity](#emerging-trends-in-cybersecurity)
 - [**2. Antivirus**](#2-antivirus) (4 videos)
-  - Introducing Microsoft Defender Antivirus
-  - Detecting malware with Microsoft Defender
-  - Automating scans with Task Scheduler
-  - Other antivirus solutions
+  - [Introducing Microsoft Defender Antivirus](#introducing-microsoft-defender-antivirus)
+  - [Detecting malware with Microsoft Defender](#detecting-malware-with-microsoft-defender)
+  - [Automating scans with Task Scheduler](#automating-scans-with-task-scheduler)
+  - [Other antivirus solutions](#other-antivirus-solutions)
 - [**3. Firewalls**](#3-firewalls) (7 videos)
-  - Why firewalls?
-  - Windows Firewall basics
-  - Advanced Windows Firewall
-  - ZedLan firewall log analyser
-  - Introducing Linux iptables
-  - Setting up a simple iptables firewall
-  - Analyzing firewall rules
+  - [Why firewalls?](#why-firewalls)
+  - [Windows Firewall basics](#windows-firewall-basics)
+  - [Advanced Windows Firewall](#advanced-windows-firewall)
+  - [ZedLan firewall log analyser](#zedlan-firewall-log-analyser)
+  - [Introducing Linux iptables](#introducing-linux-iptables)
+  - [Setting up a simple iptables firewall](#setting-up-a-simple-iptables-firewall)
+  - [Analyzing firewall rules](#analyzing-firewall-rules)
 - [**4. Network Scanning**](#4-network-scanning) (2 videos)
-  - Getting started with Nmap
-  - Advanced Nmap options
+  - [Getting started with Nmap](#getting-started-with-nmap)
+  - [Advanced Nmap options](#advanced-nmap-options)
 - [**5. Network Connections**](#5-network-connections) (5 videos)
-  - Getting started with netcat
-  - Transferring files using netcat
-  - Connecting to services
-  - Remote control with Sliver
-  - Setting up a netcat honeypot
+  - [Getting started with netcat](#getting-started-with-netcat)
+  - [Transferring files using netcat](#transferring-files-using-netcat)
+  - [Connecting to services](#connecting-to-services)
+  - [Remote control with Sliver](#remote-control-with-sliver)
+  - [Setting up a netcat honeypot](#setting-up-a-netcat-honeypot)
 - [**6. Vulnerability Scanning**](#6-vulnerability-scanning) (5 videos)
-  - Preparing Nessus
-  - Setting up a Nessus policy
-  - Running a Nessus scan
-  - Running an exploit
-  - Checking the configuration
+  - [Preparing Nessus](#preparing-nessus)
+  - [Setting up a Nessus policy](#setting-up-a-nessus-policy)
+  - [Running a Nessus scan](#running-a-nessus-scan)
+  - [Running an exploit](#running-an-exploit)
+  - [Checking the configuration](#checking-the-configuration)
 - [**7. Web Applications**](#7-web-applications) (5 videos)
-  - Combating application level threats
-  - Running an SQL injection attack
-  - Cross-site scripting
-  - Scanning with ZAP
-  - Using a proxy to manipulate web traffic
+  - [Combating application level threats](#combating-application-level-threats)
+  - [Running an SQL injection attack](#running-an-sql-injection-attack)
+  - [Cross-site scripting](#cross-site-scripting)
+  - [Scanning with ZAP](#scanning-with-zap)
+  - [Using a proxy to manipulate web traffic](#using-a-proxy-to-manipulate-web-traffic)
 - [**8. Network Protocols**](#8-network-protocols) (3 videos)
-  - Explaining data communications
-  - Capturing packets with Wireshark
-  - Making sense of the protocols
+  - [Explaining data communications](#explaining-data-communications)
+  - [Capturing packets with Wireshark](#capturing-packets-with-wireshark)
+  - [Making sense of the protocols](#making-sense-of-the-protocols)
 - [**9. AI Security**](#9-ai-security) (4 videos)
-  - Introduction to AI models
-  - Security of AI models
-  - Understanding prompt injections
-  - Securing AI agents
+  - [Introduction to AI models](#introduction-to-ai-models)
+  - [Security of AI models](#security-of-ai-models)
+  - [Understanding prompt injections](#understanding-prompt-injections)
+  - [Securing AI agents](#securing-ai-agents)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980)
@@ -126,7 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (3), career (2), [[LinkedIn]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -181,12 +181,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (2), [[Kali Linux]] (2), [[Ethical Hacking]] (2), [[Cybersecurity]] (1), [[Windows 10]] (1)
 > **Prerequisites:** set up (4), install (1)
 > **Versions:** 192.168.1 (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 
@@ -213,13 +213,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Why Cybersecurity?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A history of hackers
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980)
@@ -298,8 +298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (2), next (2), [[Microsoft Office|Office]] (1), [[Engineering]] (1)
 > **Env Vars:** dec (2), sun (1), cert (1), fbi (1), hope (1)
-> **Code Keywords:** public (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -409,10 +409,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), next (1), [[Banking]] (1), [[Phishing]] (1), web (1)
 > **Definitions:** known as (6)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** usb (2), pdf (1)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
 
@@ -473,9 +473,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Security]] (1), [[Data Acquisition]] (1), management (1), [[Windows]] (1)
 > **Env Vars:** scada (5), apt (4), w32 (1), usb (1), pcs7 (1)
 > **CLI Commands:** apt (4)
-> **Code Keywords:** self (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -606,11 +606,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (7), open-source (2), next (2), [[Forms]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** known as (2), in other words (1), is an  (1), is a  (1)
 > **Analogies:** such as (4), picture (1)
 > **Env Vars:** usb (3), ftp (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** case, (2), let (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -653,6 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** pup (2), usb (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)
@@ -721,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), new, (1), let (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Banking]] (1), [[Cryptography]] (1), [[Cybersecurity]] (1), next (1)
 > **Env Vars:** aids (1), nsa (1), bae (1), url (1)
 > **Definitions:** known as (2)
 > **Speakers:** - [instructor] (1)
@@ -851,9 +852,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (17), [[Cybersecurity]] (6), [[NIST]] (5), cloud (4), ai (4)
 > **Env Vars:** nist (5), crystals (2), iso27000 (1), csf (1), ssl (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
-> **Code Keywords:** private (1), let (1), require (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
@@ -862,7 +863,7 @@ created: 2026-04-29
 
 ### 2. Antivirus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Microsoft Defender Antivirus
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980)
@@ -959,7 +960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), protected (3), require (1), switch (1), override (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Microsoft Defender|Defender]] (5), cloud (4), [[Real-Time]] (4), [[Microsoft]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
@@ -1037,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), while. (2), while, (1), case, (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (5), [[Microsoft]] (1)
 > **Env Vars:** eicar (3), dos (1)
 > **UI Navigation:** click on (2), select the (1)
 > **URLs:** [virustest.com](https://virustest.com) (1)
@@ -1103,7 +1104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (3), [[Microsoft Defender]] (1), [[Microsoft]] (1), power (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1138,6 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7), [[Microsoft Defender|Defender]] (4), [[Windows]] (4), [[Microsoft]] (2)
 > **Env Vars:** wdo (2), usb (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -1145,7 +1147,7 @@ created: 2026-04-29
 
 ### 3. Firewalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why firewalls?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980)
@@ -1188,9 +1190,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Security]] (1), [[Phishing]] (1)
 > **Definitions:** is an  (1), known as (1), is called (1)
 > **Env Vars:** dmz (1), nat (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Windows Firewall basics
@@ -1274,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), let (5), public (5), protected (2), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Security]] (1), business (1), [[Microsoft Defender|Defender]] (1), [[Linux]] (1)
 > **UI Navigation:** click on (4), scroll down (2), navigate to (2)
 > **CLI Commands:** find (2), ssh (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -1442,7 +1444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), private (4), switch (4), public (1), from. (1)
+> **Frameworks & Libraries:** [[Windows]] (9), data (4), [[Security]] (3), [[Microsoft]] (3), next (2)
 > **UI Navigation:** select the (3), click on (3), navigate to (1), open the (1), scroll down (1)
 > **Versions:** 192.168.1 (4)
 > **Prerequisites:** set up (2), configure (1)
@@ -1532,8 +1534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), management (1), data (1), traffic (1)
 > **UI Navigation:** navigate to (1), checkbox (1), scroll down (1), click on (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** tcp (2), cnet (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
@@ -1650,7 +1652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), super (1), switch (1), pass (1), this. (1)
+> **Frameworks & Libraries:** data (4), traffic (3), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** sudo (6), make (1)
 > **Ports:** port 4546 (3), port 4545 (2)
 > **Env Vars:** tcp (3), arp (1)
@@ -1718,9 +1720,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), traffic (1), management (1), [[Ubuntu]] (1)
 > **Env Vars:** ssh (4), accept (3), input (3), output (1), i92 (1)
 > **CLI Commands:** ssh (5), sudo (5)
-> **Code Keywords:** let (5), this. (1), finally, (1)
 > **Ports:** port 4545 (4), port 22 (2)
 > **Prerequisites:** set up (4)
 > **Versions:** 192.168.1 (2), 168.1.52 (1)
@@ -1811,7 +1813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1)
+> **Frameworks & Libraries:** [[Git]] (2), traffic (2), open-source (1), [[GitHub]] (1)
 > **CLI Commands:** git (2), make (1), cat (1), sudo (1), pip3 (1)
 > **File Paths:** rules.csv (3), requirements.txt (1), st_analyzer.py (1)
 > **Code Identifiers:** firewall_policy_analyzer (2), st_analyzer (1)
@@ -1823,7 +1825,7 @@ created: 2026-04-29
 
 ### 4. Network Scanning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Nmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980)
@@ -1910,8 +1912,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), power (1), [[Windows]] (1), [[NIST]] (1), database (1)
 > **Env Vars:** tcp (4), syn (4), ack (2), apt (1), udp (1)
-> **Code Keywords:** let (8), this, (1), interface (1)
 > **Versions:** 192.168.1 (7), version 8 (1)
 > **CLI Commands:** sudo (3), apt (2), make (1)
 > **Definitions:** is a  (2), known as (2), is called (1)
@@ -1982,8 +1984,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), web (1), management (1), generic (1), [[Windows]] (1)
 > **Env Vars:** tcp (8), udp (8), snmp (1), http (1)
-> **Code Keywords:** let (2), switch (1), while. (1), finally, (1), while, (1)
 > **Versions:** 192.168.1 (4), 3.2 (1), 3.16 (1)
 > **CLI Commands:** sudo (4)
 > **Code Identifiers:** su (2), ssu (2)
@@ -1994,7 +1996,7 @@ created: 2026-04-29
 
 ### 5. Network Connections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with netcat
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980)
@@ -2053,7 +2055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), type: (3), let (2), pass (1), return, (1)
+> **Frameworks & Libraries:** data (6), [[Linux]] (1), application (1), [[Windows]] (1)
 > **Ports:** port 4545 (3)
 > **Env Vars:** tcp (1), fin (1)
 > **Versions:** 192.168.1 (2)
@@ -2138,9 +2140,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **File Paths:** testfile.txt (5), incoming.txt (3), tigers.txt (1), gandhi/tigers.txt (1)
 > **CLI Commands:** tar (6), cat (2), mkdir (1)
-> **Code Keywords:** let (6), this, (1)
 > **Ports:** port 4545 (2), port 53916 (1)
 > **Versions:** 192.168.1 (3)
 > **Prerequisites:** set up (2)
@@ -2209,8 +2211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (4), web (2), [[Google]] (1), [[HTML]] (1), data (1)
 > **Env Vars:** ftp (6), http (3)
-> **Code Keywords:** pass (2), switch (1), let (1)
 > **Ports:** port 21 (2), port 80 (1)
 > **Versions:** 192.168.1 (2), 1.1 (1)
 > **File Paths:** index.html (1)
@@ -2287,7 +2289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (3), super (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), prompt (2), traffic (1), [[Windows]] (1)
 > **CLI Commands:** find (2), curl (1), systemctl (1)
 > **Ports:** port 8888 (2)
 > **Env Vars:** tls (1), mtls (1)
@@ -2393,7 +2395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), super (1), finally, (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (2), application (1), cd (1)
 > **Ports:** port 25 (5)
 > **CLI Commands:** cat (2), cd (1), sudo (1)
 > **Env Vars:** tcp (2)
@@ -2405,7 +2407,7 @@ created: 2026-04-29
 
 ### 6. Vulnerability Scanning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing Nessus
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/preparing-nessus?u=76281980)
@@ -2478,7 +2480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1), interface (1)
+> **Frameworks & Libraries:** database (2), application (1), [[Security]] (1)
 > **UI Navigation:** select the (1), click on (1)
 > **CLI Commands:** sudo (1)
 > **URLs:** [https://127.0.0.1;8834](https://127.0.0.1;8834) (1)
@@ -2552,7 +2554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Ubuntu]] (6), next (1)
 > **CLI Commands:** ssh (2), find (1)
 > **UI Navigation:** select the (2), click on (1)
 > **Env Vars:** ssh (2)
@@ -2625,10 +2627,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[Ubuntu]] (3), [[Linux]] (1), [[Search]] (1), next (1)
 > **UI Navigation:** click on (4), select the (2), dropdown (1), scroll down (1)
 > **Env Vars:** html (4), cve (1), pdf (1)
 > **Versions:** 192.168.1 (3)
-> **Code Keywords:** let (1), this, (1)
 > **CLI Commands:** find (1)
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
@@ -2665,7 +2667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), prompt (1)
 > **CLI Commands:** find (1), make (1), ls (1)
 > **Tools:** github (1), command prompt (1)
 > **Env Vars:** cve (1)
@@ -2717,7 +2719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Linux]] (1), [[Windows]] (1), management (1), [[Regulatory Compliance]] (1)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
@@ -2726,7 +2728,7 @@ created: 2026-04-29
 
 ### 7. Web Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combating application level threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980)
@@ -2751,6 +2753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), web (6), [[OWASP]] (4), web application (2), [[HTML]] (1)
 > **Env Vars:** owasp (3), html (1), sql (1)
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Definitions:** is a  (1)
@@ -2839,8 +2842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), database (5), [[Python (Programming Language)|Python]] (3), data (3), [[Databases]] (3)
 > **Env Vars:** sql (9)
-> **Code Keywords:** let (3), interface (1), this. (1), case, (1)
 > **CLI Commands:** python (3), python3 (1), find (1)
 > **Tools:** command line (2)
 > **File Paths:** sqltest.py (1)
@@ -2893,7 +2896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Scripting]] (3), web (2), next (1), [[HTML]] (1)
 > **CLI Commands:** make (2), apache (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Analogies:** such as (1), picture (1)
@@ -2949,9 +2952,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Kali Linux]] (2), web application (2)
 > **Env Vars:** zap (6), owasp (2), url (1)
 > **UI Navigation:** click on (2), scroll down (1)
-> **Code Keywords:** let (2)
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3012,7 +3015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (1), this. (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (8), web (3), [[Banking]] (1), [[Security]] (1), [[Routing]] (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Env Vars:** http (1), zap (1)
 > **URLs:** [webappsecurity.com](https://webappsecurity.com) (1)
@@ -3022,7 +3025,7 @@ created: 2026-04-29
 
 ### 8. Network Protocols
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining data communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980)
@@ -3089,8 +3092,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (2), traffic (2), next (1), dns (1)
 > **Env Vars:** tcp (4), syn (4), ack (4), udp (2), http (1)
-> **Code Keywords:** module (1), pass (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -3188,8 +3191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (10), data (5), traffic (1), [[Ubuntu]] (1)
 > **Env Vars:** syn (3), tcp (3), apt (2), ack (2)
-> **Code Keywords:** let (6), module (1), interface (1), protected (1)
 > **CLI Commands:** sudo (3), apt (2)
 > **Versions:** 192.168.1 (2), 168.1.52 (1)
 > **Prerequisites:** install (2), set up (1)
@@ -3256,9 +3259,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (4), web (1), data (1), [[HTML]] (1), [[PHP]] (1)
 > **Env Vars:** tcp (2), http (2), html (1)
 > **UI Navigation:** click on (3), right-click (1), scroll down (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (1), php (1)
 > **Versions:** 192.168.1 (1), version 4 (1)
 > **API Endpoints:** get  (1)
@@ -3267,7 +3270,7 @@ created: 2026-04-29
 
 ### 9. AI Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980)
@@ -3370,7 +3373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), interface (1), while, (1)
+> **Frameworks & Libraries:** ai (19), [[Ollama]] (7), [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **CLI Commands:** python (5), sudo (1), pip3 (1)
 > **Env Vars:** api (3), llm (2), gpt (1)
 > **Prerequisites:** set up (3), install (2), you'll need (1)
@@ -3470,8 +3473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (27), data (10), [[Security]] (5), prompt (5), llm (4)
 > **Env Vars:** llm (4), owasp (2), nist (2), api (1), mitre (1)
-> **Code Keywords:** let (2), private (1), interface (1), case, (1)
 > **Definitions:** is a  (2), is an  (2), known as (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2), such as (1)
@@ -3524,7 +3527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** prompt (4), next (1), [[Microsoft Word|Word]] (1), [[Engineering]] (1), ai (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -3554,6 +3557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Large Language Models (LLM)|Large language models]] (1), web (1), [[Search]] (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **Code Identifiers:** ebay (1)
 > **Speakers:** - [narrator] (1)
@@ -3561,7 +3565,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980)
@@ -3580,6 +3584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (3), [[LinkedIn]] (2), web (1), cloud (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 

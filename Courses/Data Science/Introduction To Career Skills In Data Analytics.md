@@ -19,7 +19,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20To%20Career%20Skills%20In%20Data%20Analytics.md)
@@ -38,57 +38,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Starting out with data analytics
+  - [Starting out with data analytics](#starting-out-with-data-analytics)
 - [**1. Introduction to Data and Data Analysis**](#1-introduction-to-data-and-data-analysis) (4 videos)
-  - Defining data analysis and roles in data analysis
-  - Developing data fluency
-  - Understanding how data governance impacts the data analyst
-  - Understanding the importance of data quality
+  - [Defining data analysis and roles in data analysis](#defining-data-analysis-and-roles-in-data-analysis)
+  - [Developing data fluency](#developing-data-fluency)
+  - [Understanding how data governance impacts the data analyst](#understanding-how-data-governance-impacts-the-data-analyst)
+  - [Understanding the importance of data quality](#understanding-the-importance-of-data-quality)
 - [**2. Introduction to Business Intelligence**](#2-introduction-to-business-intelligence) (3 videos)
-  - What is BI and the value to business?
-  - How are business analytics and BI different?
-  - How data can provide intelligence to the organization
+  - [What is BI and the value to business?](#what-is-bi-and-the-value-to-business)
+  - [How are business analytics and BI different?](#how-are-business-analytics-and-bi-different)
+  - [How data can provide intelligence to the organization](#how-data-can-provide-intelligence-to-the-organization)
 - [**3. Identifying Data**](#3-identifying-data) (4 videos)
-  - Understanding the value of data-driven decision-making
-  - Questioning techniques to collect the right data
-  - Discovering and interpreting existing data
-  - Data sources and structures
+  - [Understanding the value of data-driven decision-making](#understanding-the-value-of-data-driven-decision-making)
+  - [Questioning techniques to collect the right data](#questioning-techniques-to-collect-the-right-data)
+  - [Discovering and interpreting existing data](#discovering-and-interpreting-existing-data)
+  - [Data sources and structures](#data-sources-and-structures)
 - [**4. Preparing Data**](#4-preparing-data) (4 videos)
-  - Describing data best practices
-  - Assessing and adapting the data for transformation
-  - Understanding the rules of the data
-  - Tips on preparing the data in Excel
+  - [Describing data best practices](#describing-data-best-practices)
+  - [Assessing and adapting the data for transformation](#assessing-and-adapting-the-data-for-transformation)
+  - [Understanding the rules of the data](#understanding-the-rules-of-the-data)
+  - [Tips on preparing the data in Excel](#tips-on-preparing-the-data-in-excel)
 - [**5. Transforming Data**](#5-transforming-data) (5 videos)
-  - Transforming data in Excel with Power Query
-  - Transforming data in SQL
-  - Transforming data in Power BI
-  - Common cleaning and transformation
-  - Using built-in functions
+  - [Transforming data in Excel with Power Query](#transforming-data-in-excel-with-power-query)
+  - [Transforming data in SQL](#transforming-data-in-sql)
+  - [Transforming data in Power BI](#transforming-data-in-power-bi)
+  - [Common cleaning and transformation](#common-cleaning-and-transformation)
+  - [Using built-in functions](#using-built-in-functions)
 - [**6. Modeling Data**](#6-modeling-data) (4 videos)
-  - Relational databases
-  - Modeling data for Power BI
-  - Master data management
-  - Unstructured data
+  - [Relational databases](#relational-databases)
+  - [Modeling data for Power BI](#modeling-data-for-power-bi)
+  - [Master data management](#master-data-management)
+  - [Unstructured data](#unstructured-data)
 - [**7. Visualizing Data**](#7-visualizing-data) (8 videos)
-  - Visualization methods and best practices
-  - Creating reports to visualize your data over pages
-  - Creating a dashboards for reporting
-  - Gathering requirements for visualizations
-  - Presenting data challenges effectively to others
-  - Finalizing dashboards
-  - Adding dashboard filters
-  - Modifying dashboard tooltips
+  - [Visualization methods and best practices](#visualization-methods-and-best-practices)
+  - [Creating reports to visualize your data over pages](#creating-reports-to-visualize-your-data-over-pages)
+  - [Creating a dashboards for reporting](#creating-a-dashboards-for-reporting)
+  - [Gathering requirements for visualizations](#gathering-requirements-for-visualizations)
+  - [Presenting data challenges effectively to others](#presenting-data-challenges-effectively-to-others)
+  - [Finalizing dashboards](#finalizing-dashboards)
+  - [Adding dashboard filters](#adding-dashboard-filters)
+  - [Modifying dashboard tooltips](#modifying-dashboard-tooltips)
 - [**8. Job Mapping in the Data Analytics Field**](#8-job-mapping-in-the-data-analytics-field) (4 videos)
-  - Data workers
-  - Data analysts
-  - Data engineers
-  - Data scientists
+  - [Data workers](#data-workers)
+  - [Data analysts](#data-analysts)
+  - [Data engineers](#data-engineers)
+  - [Data scientists](#data-scientists)
 - [**Continuing Your Data Analytics Learning Journey**](#continuing-your-data-analytics-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting out with data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980)
@@ -125,15 +125,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), career (4), business (3), [[Microsoft Excel|Excel]] (1), game (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - you (1)
 
 
 ### 1. Introduction to Data and Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data analysis and roles in data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980)
@@ -214,8 +214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (49), [[Microsoft Excel|Excel]] (2), career (1), [[Data Manipulation]] (1), business (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** csv (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
@@ -289,7 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (22), [[Banking]] (3), next (1), game (1), career (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
@@ -366,6 +366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Accountability]] (2), product (2), next (1), management (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -452,16 +453,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** in other words (1), is a  (1)
-> **Code Keywords:** case, (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - as (1)
 
 
 ### 2. Introduction to Business Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is BI and the value to business?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980)
@@ -532,10 +533,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), business (9), [[Business Intelligence (BI)|Business intelligence]] (5), hit (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - have (1)
 
@@ -600,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new. (1)
+> **Frameworks & Libraries:** data (10), business (7), [[Business Intelligence (BI)|Business intelligence]] (6), [[Analytics]] (4)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
@@ -659,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (11), business (2), [[Automation]] (1), [[Microsoft Office|Office]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - call (1)
@@ -667,7 +668,7 @@ created: 2026-04-29
 
 ### 3. Identifying Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the value of data-driven decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980)
@@ -730,8 +731,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), data (3), [[Microsoft Products|Products]] (1), hit (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - if (1)
@@ -815,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), data (5), next (2), product (2), [[Soft Skills]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - have (1)
 
@@ -902,9 +903,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[People Management]] (1), hr (1), management (1), hit (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 
 #### Data sources and structures
@@ -974,8 +975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), database (2), [[Databases]] (2), career (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1), type, (1), type. (1)
 > **Env Vars:** dob (1), csp (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -984,7 +985,7 @@ created: 2026-04-29
 
 ### 4. Preparing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing data best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980)
@@ -1135,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (1), continue (1)
+> **Frameworks & Libraries:** data (32), [[Microsoft Excel|Excel]] (7), [[Microsoft Excel]] (1), [[Zoom]] (1), database (1)
 > **UI Navigation:** go to (2), right-click (1), drag and drop (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
@@ -1230,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2)
+> **Frameworks & Libraries:** data (21), feature (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2), right-click (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1327,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (2), type, (1), include, (1)
+> **Frameworks & Libraries:** data (26), business (12)
 > **Definitions:** is a  (3), means that (2), is an  (1)
 > **Documentation:** specification (2), spec (1)
 > **CLI Commands:** make (1)
@@ -1539,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (2), type, (1), throw (1)
+> **Frameworks & Libraries:** data (28), [[Microsoft Power Query|Power query]] (3), hit (3), [[Microsoft Excel|Excel]] (2), business (1)
 > **UI Navigation:** go to (3), navigate to (1), click on (1), dropdown (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **CLI Commands:** make (1), find (1)
@@ -1551,7 +1552,7 @@ created: 2026-04-29
 
 ### 5. Transforming Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming data in Excel with Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980)
@@ -1686,8 +1687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** go to (5), right-click (4), double-click (2)
-> **Code Keywords:** let (4), function (3), type. (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1854,8 +1855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), database (5), [[SQL]] (3), [[Microsoft SQL Server]] (2), management (2)
 > **Env Vars:** sql (6), sequel (3), select (3), where (2), order (2)
-> **Code Keywords:** let (4), type. (3), function (1), from. (1), interface (1)
 > **SQL:** select (3), where (2), order by (2)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2), stands for (1)
@@ -2068,7 +2069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), new. (1), continue (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (20), product (19), data (13), power (3), bi (3)
 > **UI Navigation:** go to (6), right-click (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2148,7 +2149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), let (1), case. (1), function (1)
+> **Frameworks & Libraries:** data (9)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
@@ -2333,7 +2334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), function (2), this. (1), new. (1)
+> **Frameworks & Libraries:** power (7), bi (5), data (3), hit (2), [[DAX]] (2)
 > **UI Navigation:** go to (6), right-click (3), click on (1), dropdown (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** dax (2)
@@ -2343,7 +2344,7 @@ created: 2026-04-29
 
 ### 6. Modeling Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980)
@@ -2396,6 +2397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), database (4), [[Relational Databases]] (3), [[SQL]] (3), [[Databases]] (2)
 > **Env Vars:** sql (4), rdbms (1)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** make (1)
@@ -2492,8 +2494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), product (4), power (3), bi (3), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** go to (4)
-> **Code Keywords:** let (3)
 > **Definitions:** means that (2), is called (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
@@ -2547,8 +2549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), management (3), [[Microsoft Products|Products]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 
 #### Unstructured data
@@ -2628,9 +2630,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Unstructured Data]] (7), product (1), next (1)
 > **CLI Commands:** cat (9)
 > **Analogies:** picture (2), for example (1), imagine (1)
-> **Code Keywords:** let (2), else. (1)
 > **Env Vars:** png (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** is a  (1)
@@ -2640,7 +2642,7 @@ created: 2026-04-29
 
 ### 7. Visualizing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualization methods and best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/visualization-methods-and-best-practices?u=76281980)
@@ -2725,9 +2727,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), product (3), hit (1)
 > **CLI Commands:** make (5)
 > **Analogies:** imagine (3), picture (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - i (1)
@@ -2843,7 +2845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1), function (1)
+> **Frameworks & Libraries:** data (9), product (4), [[Dashboards]] (2), power (1), bi (1)
 > **UI Navigation:** go to (6), click on (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (2)
@@ -3087,9 +3089,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Dashboards]] (4), [[Microsoft Products|Products]] (2), product (1), feature (1)
 > **UI Navigation:** dropdown (5), go to (2), click on (1), right-click (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (4)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -3159,9 +3161,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Dashboards]] (2), express (1), ux (1), power (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** for, (1)
 > **Speakers:** - we (1)
 
 #### Presenting data challenges effectively to others
@@ -3247,8 +3249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), next (4), leadership (3), business (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
@@ -3383,8 +3385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (11), click on (1)
-> **Code Keywords:** let (8), this. (2)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -3467,7 +3469,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1)
 > **UI Navigation:** go to (4), navigate to (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
@@ -3590,7 +3591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default, (1), from. (1)
+> **Frameworks & Libraries:** power (2), bi (2), functional (1), [[Dashboards]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (1)
@@ -3601,7 +3602,7 @@ created: 2026-04-29
 
 ### 8. Job Mapping in the Data Analytics Field
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data workers
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980)
@@ -3652,8 +3653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (2), [[Search]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** if. (1), require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
@@ -3716,6 +3717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[SQL]] (2), [[Statistics]] (2), database (1), [[Databases]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (2)
 > **Warnings:** note that (1)
@@ -3760,6 +3762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Engineering]] (2), [[Security]] (2), [[Data Engineering]] (1), [[Privacy]] (1)
 > **Env Vars:** etl (1), elt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
@@ -3803,6 +3806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Statistics]] (1), teams (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** means that (1)
 > **Speakers:** - people (1)
@@ -3810,7 +3814,7 @@ created: 2026-04-29
 
 ### Continuing Your Data Analytics Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980)
@@ -3833,6 +3837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), career (1), [[Analytics]] (1), [[Statistics]] (1), [[LinkedIn]] (1)
 > **Speakers:** - i (1)
 
 

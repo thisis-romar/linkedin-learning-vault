@@ -28,7 +28,7 @@ tags:
   - skill/interview-preparation
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Nail%20Your%20C%2B%2B%20Interview.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - C++ interviews
-  - What you should know
+  - [C++ interviews](#c-interviews)
+  - [What you should know](#what-you-should-know)
 - [**1. Interview Basics**](#1-interview-basics) (5 videos)
-  - Getting ready for the interview
-  - Know the company
-  - Types of questions
-  - How to prepare for technical questions
-  - Questions to ask
+  - [Getting ready for the interview](#getting-ready-for-the-interview)
+  - [Know the company](#know-the-company)
+  - [Types of questions](#types-of-questions)
+  - [How to prepare for technical questions](#how-to-prepare-for-technical-questions)
+  - [Questions to ask](#questions-to-ask)
 - [**2. C++ Specific Questions**](#2-c-specific-questions) (6 videos)
-  - Difference between C and C++
-  - What is OOP?
-  - Polymorphism in C++
-  - Inheritance in C++
-  - Encapsulation in C++
-  - Abstraction in C++
+  - [Difference between C and C++](#difference-between-c-and-c)
+  - [What is OOP?](#what-is-oop)
+  - [Polymorphism in C++](#polymorphism-in-c)
+  - [Inheritance in C++](#inheritance-in-c)
+  - [Encapsulation in C++](#encapsulation-in-c)
+  - [Abstraction in C++](#abstraction-in-c)
 - [**3. C++ Programming Questions**](#3-c-programming-questions) (3 videos)
-  - Strings in C++
-  - Arrays in C++
-  - Vectors in C++
+  - [Strings in C++](#strings-in-c)
+  - [Arrays in C++](#arrays-in-c)
+  - [Vectors in C++](#vectors-in-c)
 - [**4. Advanced C++ Programming Topics**](#4-advanced-c-programming-topics) (3 videos)
-  - Linked lists in C++
-  - Stacks in C++
-  - Queues in C++
+  - [Linked lists in C++](#linked-lists-in-c)
+  - [Stacks in C++](#stacks-in-c)
+  - [Queues in C++](#queues-in-c)
 - [**5. C++ Classes**](#5-c-classes) (3 videos)
-  - Classes in C++
-  - Access modifiers in C++
-  - Virtual functions in C++
+  - [Classes in C++](#classes-in-c)
+  - [Access modifiers in C++](#access-modifiers-in-c)
+  - [Virtual functions in C++](#virtual-functions-in-c)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More practice with C++
+  - [More practice with C++](#more-practice-with-c)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### C++ interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/c-plus-plus-interviews-14295274?u=76281980)
@@ -102,8 +102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Programming]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [erin] (1)
 
@@ -122,13 +122,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Interview Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting ready for the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980)
@@ -173,8 +174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Interviewing]] (1), [[Engineering]] (1), database (1), [[Git]] (1)
 > **CLI Commands:** find (3), git (1)
-> **Code Keywords:** for. (1), require (1)
 > **Env Vars:** gui (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -239,8 +240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), next (2), [[Microsoft Word|Word]] (2), teams (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** case, (1), raise (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -302,8 +303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for. (1), pass (1), public (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -379,10 +380,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), data (3), strengths (1), [[Programming]] (1)
 > **Analogies:** for example (3), just like (1)
 > **URLs:** [leetcode.com](https://leetcode.com) (1), [pramp.com](https://pramp.com) (1), [geeksforgeeks.org](https://geeksforgeeks.org) (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** abstract (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -445,8 +446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Security]] (1), feature (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -456,7 +457,7 @@ created: 2026-04-29
 
 ### 2. C++ Specific Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Difference between C and C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980)
@@ -525,7 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), data (3), [[Programming]] (2), [[Debugging]] (1), [[Security]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -580,7 +581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), let (1), abstract (1)
+> **Frameworks & Libraries:** [[Programming]] (6), data (2), generic (2), [[Software Development]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Polymorphism in C++
@@ -614,8 +615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Microsoft Office|Office]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Forms]] (1)
 > **Analogies:** picture (2)
-> **Code Keywords:** class, (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -665,7 +666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), class, (2), let (1)
+> **Frameworks & Libraries:** feature (2), [[Windows]] (2), game (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -713,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), private (3)
+> **Frameworks & Libraries:** data (6), feature (1), generic (1), next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -749,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Algorithms]] (1), web (1), game (1), [[Team Collaboration]] (1)
 > **Env Vars:** pin (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -757,7 +758,7 @@ created: 2026-04-29
 
 ### 3. C++ Programming Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strings in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980)
@@ -828,8 +829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1), next (1)
 > **Definitions:** is a  (6), means that (1)
-> **Code Keywords:** function (2), match, (2), type, (1), let (1)
 > **CLI Commands:** make (1), cat (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -925,8 +926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (4), [[Programming]] (2)
 > **CLI Commands:** find (6), make (2)
-> **Code Keywords:** type. (1), let (1), this, (1), for. (1), for, (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1022,7 +1023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (2), function (2), case, (1)
+> **Frameworks & Libraries:** data (3), next (2)
 > **Definitions:** is a  (1), means that (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
@@ -1031,7 +1032,7 @@ created: 2026-04-29
 
 ### 4. Advanced C++ Programming Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linked lists in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/linked-lists-in-c-plus-plus?u=76281980)
@@ -1118,7 +1119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), function (8), return. (3), struct (2), let (2)
+> **Frameworks & Libraries:** node (16), data (6), next (4), [[Programming]] (1)
 > **CLI Commands:** node (16)
 > **Definitions:** is a  (4)
 > **Exercise Files:** exercise file (1)
@@ -1203,7 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), switch (2), type, (1), case. (1)
+> **Frameworks & Libraries:** data (2), next (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** filo (1)
@@ -1264,14 +1265,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), this, (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** toconvert (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. C++ Classes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classes in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980)
@@ -1324,7 +1325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), function (2), class, (2), let (1), this, (1)
+> **Frameworks & Libraries:** generic (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), game (1), [[Banking]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Access modifiers in C++
@@ -1370,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (4), protected (3), class. (3), class, (3)
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1411,7 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), class, (5)
+> **Frameworks & Libraries:** power (1), game (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -1420,7 +1421,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More practice with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980)
@@ -1437,6 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 

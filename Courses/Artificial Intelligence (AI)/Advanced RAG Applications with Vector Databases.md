@@ -45,7 +45,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20RAG%20Applications%20with%20Vector%20Databases.md)
@@ -64,47 +64,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - RAG with vector databases: Advanced strategies for AI optimization
-  - What you should know
-  - Setting up your exercise files
+  - [RAG with vector databases: Advanced strategies for AI optimization](#rag-with-vector-databases-advanced-strategies-for-ai-optimization)
+  - [What you should know](#what-you-should-know)
+  - [Setting up your exercise files](#setting-up-your-exercise-files)
 - [**1. Optimizing RAG**](#1-optimizing-rag) (15 videos)
-  - Introduction to preprocessing for RAG
-  - Chunking considerations
-  - Chunking examples
-  - Introduction to embeddings
-  - Embedding examples
-  - Metadata
-  - Demo: Chunking
-  - Demo: Metadata
-  - Demo: Embed and store
-  - Demo: Querying
-  - Demo: Adding the LLM
-  - Challenge: Cite your document sources
-  - Solution: Cite your document sources
-  - Challenge: Change the chunk size
-  - Solution: Change the chunk size
+  - [Introduction to preprocessing for RAG](#introduction-to-preprocessing-for-rag)
+  - [Chunking considerations](#chunking-considerations)
+  - [Chunking examples](#chunking-examples)
+  - [Introduction to embeddings](#introduction-to-embeddings)
+  - [Embedding examples](#embedding-examples)
+  - [Metadata](#metadata)
+  - [Demo: Chunking](#demo-chunking)
+  - [Demo: Metadata](#demo-metadata)
+  - [Demo: Embed and store](#demo-embed-and-store)
+  - [Demo: Querying](#demo-querying)
+  - [Demo: Adding the LLM](#demo-adding-the-llm)
+  - [Challenge: Cite your document sources](#challenge-cite-your-document-sources)
+  - [Solution: Cite your document sources](#solution-cite-your-document-sources)
+  - [Challenge: Change the chunk size](#challenge-change-the-chunk-size)
+  - [Solution: Change the chunk size](#solution-change-the-chunk-size)
 - [**2. Image Search with Vector Databases**](#2-image-search-with-vector-databases) (7 videos)
-  - Introduction to vector embeddings for images
-  - Vision models 101
-  - Demo: Getting semantic vectors
-  - Demo: Storing image vectors
-  - Demo: Comparing images semantically
-  - Challenge: Find the dog most similar to a cat
-  - Solution: Find the dog most similar to a cat
+  - [Introduction to vector embeddings for images](#introduction-to-vector-embeddings-for-images)
+  - [Vision models 101](#vision-models-101)
+  - [Demo: Getting semantic vectors](#demo-getting-semantic-vectors)
+  - [Demo: Storing image vectors](#demo-storing-image-vectors)
+  - [Demo: Comparing images semantically](#demo-comparing-images-semantically)
+  - [Challenge: Find the dog most similar to a cat](#challenge-find-the-dog-most-similar-to-a-cat)
+  - [Solution: Find the dog most similar to a cat](#solution-find-the-dog-most-similar-to-a-cat)
 - [**3. Multimodal RAG with Vector Databases**](#3-multimodal-rag-with-vector-databases) (7 videos)
-  - Introduction to the types of multimodality
-  - Ways to do multimodal RAG
-  - Introduction to multimodal embedding models
-  - Demo: Embedding and storing data
-  - Demo: Query images with text
-  - Challenge: Find anomalies in your embeddings
-  - Solution: Find anomalies in your embeddings
+  - [Introduction to the types of multimodality](#introduction-to-the-types-of-multimodality)
+  - [Ways to do multimodal RAG](#ways-to-do-multimodal-rag)
+  - [Introduction to multimodal embedding models](#introduction-to-multimodal-embedding-models)
+  - [Demo: Embedding and storing data](#demo-embedding-and-storing-data)
+  - [Demo: Query images with text](#demo-query-images-with-text)
+  - [Challenge: Find anomalies in your embeddings](#challenge-find-anomalies-in-your-embeddings)
+  - [Solution: Find anomalies in your embeddings](#solution-find-anomalies-in-your-embeddings)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RAG with vector databases: Advanced strategies for AI optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980)
@@ -125,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), rag (3), product (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** rag (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [yujian] (1)
 
 #### What you should know
@@ -204,8 +204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), database (4), rag (4), [[Vector Databases]] (3), llm (3)
 > **Env Vars:** rag (4), llm (3), gpt (1), lms (1), ide (1)
-> **Code Keywords:** interface (2), let (1), type. (1)
 > **CLI Commands:** python (2)
 > **Versions:** python 3 (1)
 > **Tools:** vs code (1)
@@ -238,10 +238,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Git]] (1)
 > **CLI Commands:** python (2), git (1)
 > **Exercise Files:** clone the repo (2), github repo (1)
 > **Prerequisites:** install (2), set up (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Versions:** python 3 (1)
 > **Tools:** github (1)
@@ -250,7 +250,7 @@ created: 2026-04-29
 
 ### 1. Optimizing RAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to preprocessing for RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980)
@@ -345,8 +345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Metadata]] (14), rag (8), llm (5), application (3)
 > **Env Vars:** rag (8), llm (5), gpt (1), dna (1)
-> **Code Keywords:** require (1), let (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** rule of thumb (1)
@@ -449,9 +449,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), llm (2), [[Generative AI]] (1), rag (1), database (1)
 > **Definitions:** is a  (5), refers to (1)
 > **CLI Commands:** cat (3), make (1)
-> **Code Keywords:** let (2), self (2)
 > **Env Vars:** llm (2), rag (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
@@ -537,8 +537,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Metadata]] (3), [[Information Retrieval]] (1), [[Engineering]] (1), api (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** let (3), class. (1), case, (1)
 > **Env Vars:** ama (1), api (1), oss (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -720,9 +720,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), product (10), [[Unstructured Data]] (2), power (2), [[Algorithms]] (2)
 > **Env Vars:** mteb (4), csv (1), idf (1), splade (1), bm25 (1)
 > **Analogies:** for example (3), imagine (3)
-> **Code Keywords:** let (3), type. (1), require (1)
 > **Definitions:** refers to (3), stands for (1), is a  (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Prerequisites:** set up (2)
@@ -786,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), llm (2), rag (1), [[LlamaIndex]] (1), [[Search]] (1)
 > **Env Vars:** llm (2), rag (1), gpt (1), mteb (1)
-> **Code Keywords:** let (1), finally, (1), case. (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Versions:** 3.5 (1)
@@ -862,7 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (2), from, (1)
+> **Frameworks & Libraries:** [[Metadata]] (31), data (6), rag (3), database (2), [[Vector Databases]] (1)
 > **Env Vars:** rag (3)
 > **Cross-References:** later in (1), in the last (1), we mentioned (1)
 > **Analogies:** for example (2), such as (1)
@@ -921,7 +921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), function (1), pass (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (2), [[LangChain]] (2), next (2), rag (1), application (1)
 > **Code Identifiers:** split_text (1), page_content (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rag (1)
@@ -971,7 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (3), let (1)
+> **Frameworks & Libraries:** [[Metadata]] (9), data (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -1009,7 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), module (1), pass (1)
+> **Frameworks & Libraries:** database (3), [[LangChain]] (3), next (3), data (2), [[Metadata]] (2)
 > **Env Vars:** faiss (2), llm (1), rag (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Code Identifiers:** langchain_community (1)
@@ -1043,9 +1043,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), rag (2), llm (2), [[LangChain]] (2), application (1)
 > **Code Identifiers:** vector_store (5), as_retriever (1)
 > **Env Vars:** rag (2), llm (2), faiss (1)
-> **Code Keywords:** function (3), pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Demo: Adding the LLM
@@ -1091,8 +1091,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (8), prompt (6), [[Python (Programming Language)|Python]] (2), rag (1), application (1)
 > **Env Vars:** llm (8), api (2), rag (1)
-> **Code Keywords:** pass (3), function (2), finally, (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** load_dotenv (1), langchain_openai (1)
 > **Exercise Files:** template (2)
@@ -1127,6 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (3), application (1), [[Metadata]] (1), [[Prompt Engineering]] (1), next (1)
 > **Env Vars:** rag (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1164,7 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Prompt Engineering]] (1), prompt (1), llm (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1215,7 +1216,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -1223,7 +1223,7 @@ created: 2026-04-29
 
 ### 2. Image Search with Vector Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to vector embeddings for images
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980)
@@ -1276,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), rag (2), [[Unstructured Data]] (1), data (1), [[PyTorch]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Vision models 101
@@ -1364,7 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Computer Vision]] (3), data (2), [[Transformer Models]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (1), imagine (1), picture (1)
 > **CLI Commands:** make (2)
@@ -1395,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Demo: Storing image vectors
@@ -1423,8 +1423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (1), [[LangChain]] (1), llm (1), next (1), [[Metadata]] (1)
 > **Env Vars:** faiss (2), rag (1), llm (1), utf (1)
-> **Code Keywords:** function (3)
 > **Speakers:** - [instructor] (1)
 
 #### Demo: Comparing images semantically
@@ -1452,8 +1452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), database (1)
 > **CLI Commands:** cat (3), find (1)
-> **Code Keywords:** pass (2), let (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1507,6 +1507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cat (4)
 > **Analogies:** similar to (2)
 > **Code Identifiers:** cats_retrieved (1)
@@ -1516,7 +1517,7 @@ created: 2026-04-29
 
 ### 3. Multimodal RAG with Vector Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the types of multimodality
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980)
@@ -1569,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1)
+> **Frameworks & Libraries:** data (6), ai (5), [[Microsoft Word|Word]] (1), power (1)
 > **Speakers:** - [instructor] (1)
 
 #### Ways to do multimodal RAG
@@ -1653,8 +1654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), rag (12), [[Search]] (1), application (1), [[LangChain]] (1)
 > **Env Vars:** rag (12), clip (1)
-> **Code Keywords:** let (2), type. (2), case, (1), type, (1), this. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
@@ -1723,8 +1724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Large Language Models (LLM)|Large language models]] (1), llm (1), [[Hugging Face]] (1)
 > **Env Vars:** clip (7), gpt (2), llm (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** such as (1)
@@ -1747,8 +1748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (1), llm (1), database (1)
 > **Env Vars:** faiss (2), llm (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Demo: Query images with text
@@ -1802,7 +1803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12)
+> **Frameworks & Libraries:** data (7), next (6), llm (2), prompt (1), rag (1)
 > **Env Vars:** llm (2), rag (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1836,7 +1837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), match, (1), function (1)
+> **Frameworks & Libraries:** data (4), rag (2), database (2), application (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** rag (2)
 > **Warnings:** note that (1)
@@ -1892,8 +1893,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), llm (1), data (1), [[Search]] (1)
 > **CLI Commands:** cat (4), find (1)
-> **Code Keywords:** let (3), this, (1)
 > **Env Vars:** llm (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1902,7 +1903,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980)
@@ -1919,6 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (1), [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** github (1)
 > **Speakers:** - [yujian] (1)

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/project-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Project%20Management%20Simplified.md)
@@ -47,55 +47,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Project management: A priceless skill
-  - Introduction to the 12-step process
+  - [Project management: A priceless skill](#project-management-a-priceless-skill)
+  - [Introduction to the 12-step process](#introduction-to-the-12-step-process)
 - [**1. Define Your Project**](#1-define-your-project) (5 videos)
-  - What is a project?
-  - Define the Iron Triangle
-  - Plan before you commit
-  - Kick-off meetings
-  - Key project drivers
+  - [What is a project?](#what-is-a-project)
+  - [Define the Iron Triangle](#define-the-iron-triangle)
+  - [Plan before you commit](#plan-before-you-commit)
+  - [Kick-off meetings](#kick-off-meetings)
+  - [Key project drivers](#key-project-drivers)
 - [**2. List the Tasks**](#2-list-the-tasks) (2 videos)
-  - Three ways to list all the project tasks
-  - Choose the level of granularity
+  - [Three ways to list all the project tasks](#three-ways-to-list-all-the-project-tasks)
+  - [Choose the level of granularity](#choose-the-level-of-granularity)
 - [**3. Plan the Running Order**](#3-plan-the-running-order) (3 videos)
-  - Use Post-its to plan the order of tasks
-  - How to estimate durations
-  - The importance of your project's critical path
+  - [Use Post-its to plan the order of tasks](#use-post-its-to-plan-the-order-of-tasks)
+  - [How to estimate durations](#how-to-estimate-durations)
+  - [The importance of your project's critical path](#the-importance-of-your-projects-critical-path)
 - [**4. Add Contingency**](#4-add-contingency) (2 videos)
-  - How much safety margin does a project need?
-  - How to calculate and add contingency
+  - [How much safety margin does a project need?](#how-much-safety-margin-does-a-project-need)
+  - [How to calculate and add contingency](#how-to-calculate-and-add-contingency)
 - [**5. Crashing**](#5-crashing) (1 videos)
-  - How to speed up your plan
+  - [How to speed up your plan](#how-to-speed-up-your-plan)
 - [**6. Gantt Chart**](#6-gantt-chart) (5 videos)
-  - How to create a Gantt chart
-  - A reason to love Gantt charts
-  - Set up a basic Gantt chart in Excel
-  - Add names and dates to your Gantt
-  - Add time and money to your Gantt
+  - [How to create a Gantt chart](#how-to-create-a-gantt-chart)
+  - [A reason to love Gantt charts](#a-reason-to-love-gantt-charts)
+  - [Set up a basic Gantt chart in Excel](#set-up-a-basic-gantt-chart-in-excel)
+  - [Add names and dates to your Gantt](#add-names-and-dates-to-your-gantt)
+  - [Add time and money to your Gantt](#add-time-and-money-to-your-gantt)
 - [**7. Resources**](#7-resources) (2 videos)
-  - Resource planning for one project
-  - Resource planning for multiple projects
+  - [Resource planning for one project](#resource-planning-for-one-project)
+  - [Resource planning for multiple projects](#resource-planning-for-multiple-projects)
 - [**8. Risk**](#8-risk) (1 videos)
-  - How to create a Risk chart
+  - [How to create a Risk chart](#how-to-create-a-risk-chart)
 - [**9. Monitor Progress**](#9-monitor-progress) (1 videos)
-  - How to monitor project progress
+  - [How to monitor project progress](#how-to-monitor-project-progress)
 - [**10. Monitor Cost**](#10-monitor-cost) (3 videos)
-  - Cost monitoring: The potential traps
-  - The six combinations of progress and spend
-  - How to forecast future cost
+  - [Cost monitoring: The potential traps](#cost-monitoring-the-potential-traps)
+  - [The six combinations of progress and spend](#the-six-combinations-of-progress-and-spend)
+  - [How to forecast future cost](#how-to-forecast-future-cost)
 - [**11. Re-adjust the Plan**](#11-re-adjust-the-plan) (2 videos)
-  - When to re-adjust the plan
-  - What to do when your project is late or over budget
+  - [When to re-adjust the plan](#when-to-re-adjust-the-plan)
+  - [What to do when your project is late or over budget](#what-to-do-when-your-project-is-late-or-over-budget)
 - [**12. Review**](#12-review) (2 videos)
-  - Why people avoid reviewing projects
-  - How to review a project
+  - [Why people avoid reviewing projects](#why-people-avoid-reviewing-projects)
+  - [How to review a project](#how-to-review-a-project)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply the simple 12-step process
+  - [Apply the simple 12-step process](#apply-the-simple-12-step-process)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project management: A priceless skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - projects (1)
 
@@ -210,15 +211,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - every (1)
 
 
 ### 1. Define Your Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a project?
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/what-is-a-project-24302498?u=76281980)
@@ -251,7 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1)
+> **Frameworks & Libraries:** management (1)
 > **Speakers:** - step (1)
 
 #### Define the Iron Triangle
@@ -301,6 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
@@ -381,9 +383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (1), feature (1)
 > **CLI Commands:** make (2)
 > **Documentation:** spec (1), specification (1)
-> **Code Keywords:** this. (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - when (1)
 
@@ -442,6 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** find (1)
 > **Documentation:** spec (1)
 > **Definitions:** is a  (1)
@@ -534,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), let (1), this, (1), if. (1)
+> **Frameworks & Libraries:** power (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -543,7 +546,7 @@ created: 2026-04-29
 
 ### 2. List the Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three ways to list all the project tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/three-ways-to-list-all-the-project-tasks-24307155?u=76281980)
@@ -674,6 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), management (1)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -684,7 +688,7 @@ created: 2026-04-29
 
 ### 3. Plan the Running Order
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Post-its to plan the order of tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/use-post-its-to-plan-the-order-of-tasks-24301534?u=76281980)
@@ -743,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** management (2), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -777,6 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - next (1)
@@ -868,6 +873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** go back to (1)
@@ -878,7 +884,7 @@ created: 2026-04-29
 
 ### 4. Add Contingency
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How much safety margin does a project need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-much-safety-margin-does-a-project-need-24302494?u=76281980)
@@ -946,7 +952,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
 
@@ -1037,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), let (1), case, (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - some (1)
@@ -1045,7 +1050,7 @@ created: 2026-04-29
 
 ### 5. Crashing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to speed up your plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-speed-up-your-plan-24302497?u=76281980)
@@ -1100,7 +1105,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), throw (1)
 > **Documentation:** specification (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -1111,7 +1115,7 @@ created: 2026-04-29
 
 ### 6. Gantt Chart
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create a Gantt chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980)
@@ -1196,8 +1200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Microsoft Excel|Excel]] (2), next (2), [[Microsoft]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** from. (1), this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
@@ -1253,7 +1257,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), finally, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
@@ -1517,8 +1520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (4)
 > **CLI Commands:** find (5), make (3)
-> **Code Keywords:** this. (4), let (1), finally, (1), this, (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1), known as (1)
@@ -1578,7 +1581,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
@@ -1693,7 +1695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1703,7 +1705,7 @@ created: 2026-04-29
 
 ### 7. Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resource planning for one project
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/resource-planning-for-one-project-24303470?u=76281980)
@@ -1768,8 +1770,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), parallel (1), hit (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - step (1)
 
@@ -1832,6 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
@@ -1839,7 +1842,7 @@ created: 2026-04-29
 
 ### 8. Risk
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create a Risk chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-risk-chart-24303471?u=76281980)
@@ -1900,15 +1903,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - all (1)
 
 
 ### 9. Monitor Progress
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to monitor project progress
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-monitor-project-progress-24304471?u=76281980)
@@ -1989,15 +1992,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2)
 > **Analogies:** think of it as (1), for example (1)
 > **Speakers:** - how (1)
 
 
 ### 10. Monitor Cost
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cost monitoring: The potential traps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/cost-monitoring-the-potential-traps-24303468?u=76281980)
@@ -2081,7 +2084,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - i (1)
 
@@ -2170,8 +2172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), management (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), case. (1), finally, (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - step (1)
@@ -2229,7 +2231,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this. (2), this, (1), let (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
@@ -2238,7 +2239,7 @@ created: 2026-04-29
 
 ### 11. Re-adjust the Plan
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to re-adjust the plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/when-to-re-adjust-the-plan-24306293?u=76281980)
@@ -2289,7 +2290,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1)
 > **Cross-References:** later in (1)
 > **Documentation:** specification (1)
 > **Prerequisites:** you'll need (1)
@@ -2346,7 +2346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** next (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - it (1)
@@ -2354,7 +2354,7 @@ created: 2026-04-29
 
 ### 12. Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why people avoid reviewing projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/why-people-avoid-reviewing-projects?u=76281980)
@@ -2421,7 +2421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this, (1), pass (1), else. (1), finally, (1)
+> **Frameworks & Libraries:** next (3), management (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
@@ -2484,14 +2484,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (4), management (2), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the simple 12-step process
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980)
@@ -2542,6 +2542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - well (1)
 

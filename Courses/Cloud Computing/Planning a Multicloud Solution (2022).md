@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20a%20Multicloud%20Solution%20(2022).md)
@@ -52,70 +52,70 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Planning a multicloud
-  - What is multicloud?
-  - Why multicloud?
-  - Multicloud advantages
-  - Multicloud disadvantages
-  - What you should know
+  - [Planning a multicloud](#planning-a-multicloud)
+  - [What is multicloud?](#what-is-multicloud)
+  - [Why multicloud?](#why-multicloud)
+  - [Multicloud advantages](#multicloud-advantages)
+  - [Multicloud disadvantages](#multicloud-disadvantages)
+  - [What you should know](#what-you-should-know)
 - [**1. Preparing for Multicloud**](#1-preparing-for-multicloud) (7 videos)
-  - Business case for multicloud
-  - Migration planning
-  - Security planning
-  - Governance planning
-  - Operations planning
-  - Skills and tools needed
-  - Other things to consider
+  - [Business case for multicloud](#business-case-for-multicloud)
+  - [Migration planning](#migration-planning)
+  - [Security planning](#security-planning)
+  - [Governance planning](#governance-planning)
+  - [Operations planning](#operations-planning)
+  - [Skills and tools needed](#skills-and-tools-needed)
+  - [Other things to consider](#other-things-to-consider)
 - [**2. Selecting Technology**](#2-selecting-technology) (8 videos)
-  - Public clouds
-  - Private clouds
-  - Tools for operations
-  - Tools for security
-  - Tools for governance
-  - Connecting legacy systems
-  - Data integration between clouds
-  - Linking things together
+  - [Public clouds](#public-clouds)
+  - [Private clouds](#private-clouds)
+  - [Tools for operations](#tools-for-operations)
+  - [Tools for security](#tools-for-security)
+  - [Tools for governance](#tools-for-governance)
+  - [Connecting legacy systems](#connecting-legacy-systems)
+  - [Data integration between clouds](#data-integration-between-clouds)
+  - [Linking things together](#linking-things-together)
 - [**3. Approaching Ops**](#3-approaching-ops) (5 videos)
-  - Building an ops process
-  - Building ops automation
-  - Building reactive ops
-  - Building proactive ops
-  - Case study: Multicloud operations
+  - [Building an ops process](#building-an-ops-process)
+  - [Building ops automation](#building-ops-automation)
+  - [Building reactive ops](#building-reactive-ops)
+  - [Building proactive ops](#building-proactive-ops)
+  - [Case study: Multicloud operations](#case-study-multicloud-operations)
 - [**4. Approaching Dev**](#4-approaching-dev) (5 videos)
-  - Building a dev process
-  - Building automation
-  - Continuous everything
-  - Integration of dev and ops
-  - Case study: Multicloud development
+  - [Building a dev process](#building-a-dev-process)
+  - [Building automation](#building-automation)
+  - [Continuous everything](#continuous-everything)
+  - [Integration of dev and ops](#integration-of-dev-and-ops)
+  - [Case study: Multicloud development](#case-study-multicloud-development)
 - [**5. Approaching Gov**](#5-approaching-gov) (5 videos)
-  - Resource governance and multicloud
-  - Service governance and multicloud
-  - Cost governance and multicloud
-  - Security governance and multicloud
-  - Case study: Multicloud governance
+  - [Resource governance and multicloud](#resource-governance-and-multicloud)
+  - [Service governance and multicloud](#service-governance-and-multicloud)
+  - [Cost governance and multicloud](#cost-governance-and-multicloud)
+  - [Security governance and multicloud](#security-governance-and-multicloud)
+  - [Case study: Multicloud governance](#case-study-multicloud-governance)
 - [**6. Approaching FinOps**](#6-approaching-finops) (5 videos)
-  - What is multicloud FinOps?
-  - Multicloud cost usage monitoring
-  - Multicloud cost usage reporting
-  - Multicloud cost controls
-  - Case study: Multicloud FinOps
+  - [What is multicloud FinOps?](#what-is-multicloud-finops)
+  - [Multicloud cost usage monitoring](#multicloud-cost-usage-monitoring)
+  - [Multicloud cost usage reporting](#multicloud-cost-usage-reporting)
+  - [Multicloud cost controls](#multicloud-cost-controls)
+  - [Case study: Multicloud FinOps](#case-study-multicloud-finops)
 - [**7. Putting Together a Multicloud Strategy**](#7-putting-together-a-multicloud-strategy) (5 videos)
-  - Logical planning
-  - Physical planning
-  - Building a strategy
-  - Deployment planning
-  - Bringing it all together
+  - [Logical planning](#logical-planning)
+  - [Physical planning](#physical-planning)
+  - [Building a strategy](#building-a-strategy)
+  - [Deployment planning](#deployment-planning)
+  - [Bringing it all together](#bringing-it-all-together)
 - [**8. Deployment and Testing**](#8-deployment-and-testing) (3 videos)
-  - Staged deployment
-  - Staged testing
-  - Case study: Multicloud deployment and testing
+  - [Staged deployment](#staged-deployment)
+  - [Staged testing](#staged-testing)
+  - [Case study: Multicloud deployment and testing](#case-study-multicloud-deployment-and-testing)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Final considerations for a successful multicloud deployment
-  - Next steps
+  - [Final considerations for a successful multicloud deployment](#final-considerations-for-a-successful-multicloud-deployment)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning a multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980)
@@ -142,6 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [dave] (1)
 
@@ -186,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), private (3), include. (1)
+> **Frameworks & Libraries:** cloud (14), [[Hybrid Cloud]] (2), [[Cloud Infrastructure]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
 > **Env Vars:** nist (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -229,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** cloud (16), business (5), [[Cloud Infrastructure]] (1), [[Databases]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -269,7 +270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), switch (1)
+> **Frameworks & Libraries:** cloud (8), business (6)
 > **Definitions:** means that (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
@@ -307,8 +308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (4), business (2), next (2), application (1)
 > **Definitions:** refers to (1), means that (1)
-> **Code Keywords:** public (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -330,13 +331,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** cloud (5), [[Enterprise Architecture]] (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Preparing for Multicloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business case for multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980)
@@ -385,7 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** cloud (12), business (10), next (1), game (1), database (1)
 > **Analogies:** such as (2)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
@@ -446,10 +447,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), data (9), application (9), business (6), [[Windows]] (2)
 > **Definitions:** means that (3), refers to (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** let (1), public (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (32), cloud (4), business (2), management (2), data (1)
 > **Definitions:** means that (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
@@ -532,6 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (14), [[Security]] (2), business (2), [[Microservices]] (1), data (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -562,6 +564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Security]] (1), cloud (1), [[Databases]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -606,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), include: (1), private (1)
+> **Frameworks & Libraries:** cloud (8), [[Security]] (5), application (3), [[Databases]] (2), web (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** make (1), find (1)
@@ -654,7 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), require (1)
+> **Frameworks & Libraries:** cloud (13), business (3), [[Security]] (2), [[Scripting]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** keep in mind (2)
@@ -664,7 +667,7 @@ created: 2026-04-29
 
 ### 2. Selecting Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Public clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980)
@@ -713,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (17), include, (1)
+> **Frameworks & Libraries:** cloud (12), [[IaaS]] (5), [[SaaS|Software as a service]] (2), [[SaaS]] (2), [[PaaS|Platform as a service]] (2)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (2)
@@ -755,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (12), public (6)
+> **Frameworks & Libraries:** cloud (12), [[Private Clouds]] (5), [[Hardware]] (2), data (1), [[Security]] (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
@@ -784,6 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), cloud (1), [[Security]] (1), database (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
@@ -822,9 +826,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), data (6), management (2), [[Legal Compliance]] (1), cloud (1)
 > **Env Vars:** iam (4)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** require (1), public (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -875,9 +879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), application (2), database (1), api (1), [[Legal Compliance]] (1)
 > **Analogies:** such as (6)
 > **Definitions:** is a  (2)
-> **Code Keywords:** function (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -911,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), this, (1)
+> **Frameworks & Libraries:** data (12), cloud (6), [[Databases]] (4), aws (1), database (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -942,6 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), cloud (5), business (3), database (2), [[Databases]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -974,6 +979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[Security]] (3), functional (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** means that (2), is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -982,7 +988,7 @@ created: 2026-04-29
 
 ### 3. Approaching Ops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building an ops process
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980)
@@ -1019,9 +1025,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (3), data (3), management (2), application (2), [[Security]] (2)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Building ops automation
@@ -1061,8 +1067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (7), cloud (4), [[Security]] (2), data (2), application (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** else. (1)
 > **Env Vars:** iot (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -1096,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1), public (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** cloud (4), [[Automation]] (3), [[React.js|React]] (2)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** find (1)
@@ -1131,8 +1137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), ai (2), [[Automation]] (1), business (1), data (1)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** let (1), type, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1161,7 +1167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), abstract (1), this, (1), interface (1), require (1)
+> **Frameworks & Libraries:** cloud (9), [[Automation]] (3), management (2), database (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** sql (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -1169,7 +1175,7 @@ created: 2026-04-29
 
 ### 4. Approaching Dev
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a dev process
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980)
@@ -1214,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), include, (1), public (1)
+> **Frameworks & Libraries:** cloud (11), [[Agile Development|Agile]] (2), business (2), application (1), [[DevOps]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** pov (1)
 > **UI Navigation:** select the (1)
@@ -1251,6 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (5), [[DevOps]] (5), cloud (2), [[Software Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1278,7 +1285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), this. (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), business (3), cloud (2), [[Agile Development|Agile]] (1)
 > **Versions:** 1.0 (1), 2.0 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1317,6 +1324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[DevOps]] (3), business (3), teams (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
@@ -1351,13 +1359,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this, (1)
+> **Frameworks & Libraries:** cloud (7), [[DevOps]] (6), business (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Approaching Gov
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resource governance and multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980)
@@ -1390,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), this. (1), public (1)
+> **Frameworks & Libraries:** cloud (4), [[Databases]] (2), ai (1), [[Microservices]] (1), [[Programming]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** known as (1), refers to (1)
@@ -1439,8 +1447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), cloud (4), database (3), [[Security]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Analogies:** such as (4), for example (2)
-> **Code Keywords:** function (1), public (1), case, (1), finally, (1)
 > **Env Vars:** ssn (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1479,6 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Financial Operations]] (1)
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1515,6 +1524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), cloud (5), application (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
@@ -1559,7 +1569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), case, (1)
+> **Frameworks & Libraries:** cloud (12), [[Databases]] (2), [[Security]] (2), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [narrator] (1)
@@ -1567,7 +1577,7 @@ created: 2026-04-29
 
 ### 6. Approaching FinOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is multicloud FinOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980)
@@ -1600,8 +1610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), business (3), [[Financial Operations]] (1), management (1), [[Automation]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
@@ -1639,7 +1649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** cloud (8), data (3)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1661,6 +1671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), cloud (2), database (1)
 > **Analogies:** such as (4)
 > **Env Vars:** sla (1)
 > **Speakers:** - [narrator] (1)
@@ -1690,6 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), data (2), [[Cost Management]] (1), [[React.js|React]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1710,14 +1722,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1)
+> **Frameworks & Libraries:** cloud (7), business (2), management (1), [[Automation]] (1)
 > **Env Vars:** sla (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Putting Together a Multicloud Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Logical planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980)
@@ -1752,8 +1764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), business (4), application (2), next (1), [[Databases]] (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), public (1)
 > **Warnings:** note that (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
@@ -1786,7 +1798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** cloud (5), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1), [[DevOps]] (1), [[Databases]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -1821,6 +1833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), business (7), [[Security]] (2)
 > **Cross-References:** we covered (1), previous video (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1856,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[Deployment Planning]] (2), [[DevOps]] (2), [[Configuration Management]] (2), [[Security]] (2), business (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1888,15 +1901,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Deployment Planning]] (1), cloud (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Deployment and Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Staged deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980)
@@ -1933,8 +1946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), cloud (2), [[Security]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Staged testing
@@ -1974,8 +1987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), business (1), [[Unit Testing]] (1), application (1), database (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** interface (1)
 > **Env Vars:** api (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
@@ -2017,7 +2030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), public (3)
+> **Frameworks & Libraries:** cloud (13), [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Security]] (3), business (2), [[Microsoft]] (2)
 > **Env Vars:** iam (1), aws (1), sql (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
@@ -2026,7 +2039,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final considerations for a successful multicloud deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980)
@@ -2065,9 +2078,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Databases]] (1), business (1), [[Cloud Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** include, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Next steps
@@ -2099,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), new, (1), this, (1)
+> **Frameworks & Libraries:** cloud (7)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)

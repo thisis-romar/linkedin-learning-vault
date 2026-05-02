@@ -35,7 +35,7 @@ tags:
   - skill/database-development
   - skill/database-applications
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations-%20Application%20Development.md)
@@ -54,39 +54,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Integrating databases with an application
-  - What you should know
-  - The exercise files
+  - [Integrating databases with an application](#integrating-databases-with-an-application)
+  - [What you should know](#what-you-should-know)
+  - [The exercise files](#the-exercise-files)
 - [**1. Application Layers**](#1-application-layers) (4 videos)
-  - Multitier architectures
-  - Communicate with the data layer
-  - Databases on the web
-  - Project overview
+  - [Multitier architectures](#multitier-architectures)
+  - [Communicate with the data layer](#communicate-with-the-data-layer)
+  - [Databases on the web](#databases-on-the-web)
+  - [Project overview](#project-overview)
 - [**2. PostgreSQL and PHP**](#2-postgresql-and-php) (10 videos)
-  - What is PHP and Apache?
-  - Create a PHP web server
-  - Connect to the PHP server
-  - PostgreSQL functions
-  - Use PHP variables
-  - Use if/else to handle errors
-  - Add data to a database
-  - Format SELECT query results
-  - Filter results with form controls
-  - Add data to a table with form controls
+  - [What is PHP and Apache?](#what-is-php-and-apache)
+  - [Create a PHP web server](#create-a-php-web-server)
+  - [Connect to the PHP server](#connect-to-the-php-server)
+  - [PostgreSQL functions](#postgresql-functions)
+  - [Use PHP variables](#use-php-variables)
+  - [Use if/else to handle errors](#use-ifelse-to-handle-errors)
+  - [Add data to a database](#add-data-to-a-database)
+  - [Format SELECT query results](#format-select-query-results)
+  - [Filter results with form controls](#filter-results-with-form-controls)
+  - [Add data to a table with form controls](#add-data-to-a-table-with-form-controls)
 - [**3. SQL Server and ASP.NET Core**](#3-sql-server-and-aspnet-core) (7 videos)
-  - What is ASP.NET Core?
-  - Create the ASP.NET Core web server with Docker
-  - Add a database to SQL Server
-  - ASP.NET modularity
-  - Model tabular data
-  - Controller classes
-  - URL segments
+  - [What is ASP.NET Core?](#what-is-aspnet-core)
+  - [Create the ASP.NET Core web server with Docker](#create-the-aspnet-core-web-server-with-docker)
+  - [Add a database to SQL Server](#add-a-database-to-sql-server)
+  - [ASP.NET modularity](#aspnet-modularity)
+  - [Model tabular data](#model-tabular-data)
+  - [Controller classes](#controller-classes)
+  - [URL segments](#url-segments)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating databases with an application
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** database (4), [[Software Development]] (1), [[Programming]] (1), application (1), [[Relational Databases]] (1)
 > **Speakers:** - [adam] (1)
 
 #### What you should know
@@ -145,10 +145,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), web (2), [[Relational Databases]] (1), [[HTML]] (1), css (1)
 > **CLI Commands:** docker (3), php (1), make (1)
 > **Env Vars:** html (1), css (1), php (1), asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1), [docker.com](https://docker.com) (1), [visualstudio.com](https://visualstudio.com) (1)
-> **Code Keywords:** this, (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
@@ -173,6 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **CLI Commands:** find (1), unzip (1)
 > **Exercise Files:** download the (2)
 > **Env Vars:** sql (1)
@@ -182,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Application Layers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multitier architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980)
@@ -285,7 +286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), finally, (2), this. (1), continue (1)
+> **Frameworks & Libraries:** database (13), data (9), application (9), [[Databases]] (5), [[Software Development]] (3)
 > **Analogies:** such as (2), picture (1), imagine (1), for example (1)
 > **CLI Commands:** find (2), psql (1)
 > **Env Vars:** sql (2), psql (1)
@@ -339,10 +340,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), application (5), data (3), management (1), [[Security]] (1)
 > **Env Vars:** gui (1), rdbms (1)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
@@ -405,6 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), database (5), [[Databases]] (4), [[HTML]] (3), [[Scripting]] (3)
 > **Env Vars:** html (3), css (2), php (1), asp (1), net (1)
 > **CLI Commands:** mysql (1), php (1), node (1), ruby (1), make (1)
 > **Analogies:** such as (3)
@@ -457,16 +459,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (3), application (3), [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (3)
 > **Env Vars:** sql (3), php (2), asp (2), net (2), html (2)
 > **CLI Commands:** php (2), docker (1), make (1)
 > **URLs:** [asp.net](https://asp.net) (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. PostgreSQL and PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PHP and Apache?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980)
@@ -529,9 +531,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[PHP]] (7), application (4), [[HTML]] (4), [[PostgreSQL]] (3)
 > **Env Vars:** php (7), html (4), http (2)
 > **CLI Commands:** php (7), apache (2), docker (2), make (1)
-> **Code Keywords:** this. (2), this, (1), let (1)
 > **Versions:** version 13 (1)
 > **Speakers:** - [narrator] (1)
 
@@ -770,10 +772,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (24), [[PHP]] (19), database (7), [[PostgreSQL]] (7), [[Linux]] (5)
 > **CLI Commands:** php (19), docker (17), make (6), find (4), apt (2)
 > **Env Vars:** php (19), pdo (6), html (3), pgsql (3), cls (2)
 > **Prerequisites:** set up (9), install (4), you'll need (1)
-> **Code Keywords:** let (7), var (2), this. (1), this, (1), default, (1)
 > **Tools:** command line (3), powershell (3), terminal (2), bash (2)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **Exercise Files:** exercise files (3), download the (1)
@@ -858,9 +860,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (12), web (9), database (2), [[HTML]] (2)
 > **CLI Commands:** php (12), docker (4), find (2), make (1), cp (1)
 > **Env Vars:** php (9), html (2)
-> **Code Keywords:** let (3), function (2), switch (2)
 > **Exercise Files:** exercise files (5)
 > **File Paths:** index.php (3)
 > **Code Identifiers:** php_web_server (2), pg_db_server (1)
@@ -966,9 +968,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), [[PostgreSQL]] (15), [[PHP]] (11), web (4), [[HTML]] (2)
 > **CLI Commands:** php (11), make (2), docker (2)
 > **Env Vars:** php (9), html (2), sql (1)
-> **Code Keywords:** function (4), let (2), case, (1), finally, (1)
 > **Code Identifiers:** pg_connect (3), pg_query (3), pg_db_server (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
@@ -1046,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), pass (1)
+> **Frameworks & Libraries:** database (9), [[PHP]] (4), [[SQL]] (3), [[PostgreSQL]] (1), next (1)
 > **Env Vars:** php (4), sql (3)
 > **CLI Commands:** php (4), make (1)
 > **UI Navigation:** scroll down (2)
@@ -1162,8 +1164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (23), [[PostgreSQL]] (6), [[PHP]] (3), [[PostgreSQL|Postgres]] (3), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** drop (4), database (4), php (3), force (2), ads (1)
-> **Code Keywords:** let (5), function (3), this, (2)
 > **Code Identifiers:** sql_query (2), pg_query (2), db_connection (1), pg_connect (1), pg_last_error (1)
 > **UI Navigation:** scroll down (3), click on (2), scroll up (1)
 > **CLI Commands:** php (3), docker (2)
@@ -1264,8 +1266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (16), data (9), [[Microsoft Products|Products]] (3), product (3), next (2)
 > **Env Vars:** create (3), schema (1), table (1), sku (1), insert (1)
-> **Code Keywords:** finally, (3), function (2), let (2), this, (1), delete (1)
 > **Code Identifiers:** pg_connect (2), two_trees (2), create_table_query (2), insert_data_query (2), create_schema_query (1)
 > **Prerequisites:** set up (5)
 > **UI Navigation:** scroll down (2), right-click (2)
@@ -1410,8 +1412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), product (6), [[HTML]] (4), database (3), [[PHP]] (2)
 > **Code Identifiers:** category_id (5), product_name (2), db_connection (1), query_db (1), pg_fetch_results (1)
-> **Code Keywords:** let (4), function (2), require (1), finally, (1), break. (1)
 > **Env Vars:** html (4), php (2), sql (1), css (1)
 > **CLI Commands:** php (2), find (2), make (1)
 > **UI Navigation:** scroll down (4), select the (1)
@@ -1564,7 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), finally, (2), case, (1)
+> **Frameworks & Libraries:** [[PHP]] (7), database (6), [[Microsoft Products|Products]] (5), web (4), [[SQL]] (2)
 > **Env Vars:** php (7), sql (2), html (1)
 > **CLI Commands:** php (7), make (2)
 > **UI Navigation:** dropdown (3), scroll down (1)
@@ -1696,7 +1698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1), function (1)
+> **Frameworks & Libraries:** database (6), data (5), [[Microsoft Products|Products]] (4), web (4), [[PHP]] (4)
 > **Code Identifiers:** sku_value (2), name_value (2), category_id_value (1), size_value (1), price_value (1)
 > **Env Vars:** php (3), sql (2), soap001 (1), insert_into (1), soap002 (1)
 > **CLI Commands:** php (4), make (1)
@@ -1708,7 +1710,7 @@ created: 2026-04-29
 
 ### 3. SQL Server and ASP.NET Core
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ASP.NET Core?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980)
@@ -1761,12 +1763,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), data (6), [[ASP.NET Core]] (5), [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2)
 > **Env Vars:** asp (6), net (6), sql (4), php (1), pdo (1)
 > **URLs:** [asp.net](https://asp.net) (6)
 > **CLI Commands:** make (2), php (1)
 > **Definitions:** is a  (3)
 > **Tools:** visual studio (2)
-> **Code Keywords:** interface (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** set up (1)
 
@@ -1909,9 +1911,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), database (7), [[Jetpack Compose|Compose]] (6), [[Microsoft SQL Server|Sql server]] (5), next (3)
 > **Env Vars:** asp (6), net (6), sql (5), php (2), sdk (1)
 > **CLI Commands:** docker (7), dotnet (3), php (2), find (2), make (1)
-> **Code Keywords:** let (8), finally, (2), switch (2), require (1), this. (1)
 > **Prerequisites:** configure (4), set up (3), install (1), setup (1), you'll need (1)
 > **Tools:** terminal (3), powershell (2), visual studio (1), command prompt (1)
 > **URLs:** [asp.net](https://asp.net) (4)
@@ -2101,9 +2103,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), [[SQL]] (11), data (10), web (6), [[Microsoft SQL Server|Sql server]] (5)
 > **Env Vars:** sql (17), asp (4), php (2), exec (1), mssql (1)
 > **CLI Commands:** docker (7), find (2), php (2), cp (2), make (1)
-> **Code Keywords:** let (9), interface (1)
 > **Tools:** command line (3), powershell (3), bash (1)
 > **File Paths:** trees.sql (4)
 > **UI Navigation:** click on (3), scroll down (1)
@@ -2231,7 +2233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (1), finally, (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (3), application (2), data (2), [[ASP.NET Core]] (1), [[HTML]] (1)
 > **Env Vars:** asp (4), net (4), html (1)
 > **UI Navigation:** right-click (3), navigate to (1), open the (1), scroll down (1)
 > **CLI Commands:** find (3), make (1)
@@ -2391,7 +2393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (1)
+> **Frameworks & Libraries:** database (15), data (13), application (6), web (3), [[Microsoft SQL Server|Sql server]] (3)
 > **CLI Commands:** find (3), docker (2), make (2)
 > **UI Navigation:** go to (2), click on (2), open the (1), scroll down (1)
 > **File Paths:** appsettings.json (2), docker-compose.yaml (1)
@@ -2571,7 +2573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (5), interface (2), class. (1)
+> **Frameworks & Libraries:** data (20), database (18), [[PHP]] (4), [[HTML]] (3), [[ASP.NET]] (2)
 > **Env Vars:** php (4), html (3), asp (1)
 > **CLI Commands:** php (4), find (3)
 > **Cross-References:** go back to (3)
@@ -2649,7 +2651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), require (1), function (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (2), data (2), database (2), web application (1), express (1)
 > **Env Vars:** url (5), sql (1), ide (1)
 > **CLI Commands:** find (2), docker (1)
 > **URLs:** [asp.net](https://asp.net) (3)
@@ -2661,7 +2663,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980)
@@ -2686,6 +2688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Application Development]] (1), [[Databases]] (1), database (1), [[PHP]] (1)
 > **Env Vars:** php (1), asp (1), net (1), mvc (1)
 > **CLI Commands:** php (1)
 > **URLs:** [asp.net](https://asp.net) (1)

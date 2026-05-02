@@ -39,7 +39,7 @@ tags:
   - skill/owasp
   - skill/web-application-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20the%20OWASP%20Top%2010.md)
@@ -58,24 +58,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - A first look at the 2021 OWASP Top Ten
+  - [A first look at the 2021 OWASP Top Ten](#a-first-look-at-the-2021-owasp-top-ten)
 - [**1. New to the Top Ten**](#1-new-to-the-top-ten) (10 videos)
-  - Broken access control
-  - Cryptographic failures
-  - Injection
-  - Insecure design
-  - Security misconfiguration
-  - Vulnerable and outdated components
-  - Identification and authentication failures
-  - Software and data integrity failures
-  - Security logging and monitoring failures
-  - Server-side request forgery (SSRF)
+  - [Broken access control](#broken-access-control)
+  - [Cryptographic failures](#cryptographic-failures)
+  - [Injection](#injection)
+  - [Insecure design](#insecure-design)
+  - [Security misconfiguration](#security-misconfiguration)
+  - [Vulnerable and outdated components](#vulnerable-and-outdated-components)
+  - [Identification and authentication failures](#identification-and-authentication-failures)
+  - [Software and data integrity failures](#software-and-data-integrity-failures)
+  - [Security logging and monitoring failures](#security-logging-and-monitoring-failures)
+  - [Server-side request forgery (SSRF)](#server-side-request-forgery-ssrf)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here with the 2021 OWASP Top Ten
+  - [Where to go from here with the 2021 OWASP Top Ten](#where-to-go-from-here-with-the-2021-owasp-top-ten)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A first look at the 2021 OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980)
@@ -104,15 +104,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Cybersecurity]] (2), [[Security]] (2), web application (1), [[LinkedIn]] (1)
 > **Env Vars:** owasp (3)
-> **Code Keywords:** let (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - every (1)
 
 
 ### 1. New to the Top Ten
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Broken access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980)
@@ -185,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), let (2), delete (1), case, (1)
+> **Frameworks & Libraries:** data (7), web (4), [[OWASP]] (3), [[Human Resources (HR)|Human resources]] (3), web application (1)
 > **Env Vars:** owasp (3)
 > **Analogies:** kind of like (1), similar to (1), imagine (1)
 > **CLI Commands:** make (2)
@@ -247,9 +247,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), web (5), [[OWASP]] (4), [[Representational State Transfer (REST)|Rest]] (2), business (1)
 > **Env Vars:** owasp (4), md5 (1), aes (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), private (1), protected (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -313,10 +313,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), data (8), application (8), [[Databases]] (3), [[SQL]] (3)
 > **Env Vars:** sql (3), owasp (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Insecure design
@@ -376,8 +376,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (4), web (3), web application (3), [[Security]] (2), application (1)
 > **Env Vars:** owasp (4)
-> **Code Keywords:** super (1), let (1), private (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** similar to (1), imagine (1)
 > **Prerequisites:** setup (1)
@@ -424,9 +424,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), [[OWASP]] (2), application (2), teams (2), web (1)
 > **Env Vars:** owasp (2), cis (2), aws (1)
 > **CLI Commands:** aws (1), make (1)
-> **Code Keywords:** if, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -486,6 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (3), web (3), [[Security]] (2), web application (1), teams (1)
 > **Env Vars:** owasp (3)
 > **CLI Commands:** apache (1)
 > **Best Practices:** you should always (1)
@@ -553,9 +554,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[OWASP]] (3), management (1), web application (1), application (1)
 > **Env Vars:** owasp (3), sms (1)
 > **Analogies:** imagine (1), kind of like (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Software and data integrity failures
@@ -615,9 +616,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), ci (3), cd (3), [[Software Development]] (3), product (3)
 > **CLI Commands:** cd (3)
 > **Env Vars:** owasp (2), owsp (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -689,10 +690,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[OWASP]] (3), data (2), career (1), next (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** owasp (3)
 > **UI Navigation:** open the (2)
-> **Code Keywords:** include: (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -725,17 +726,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (3), web (2), application (1), web application (1), api (1)
 > **Env Vars:** ssrf (6), owasp (3), api (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here with the 2021 OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980)
@@ -762,8 +763,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), web (3), [[OWASP]] (1), product (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 

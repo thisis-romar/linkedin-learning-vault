@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Vision.md)
@@ -55,29 +55,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Computer vision with OpenAI's API
-  - Vision API limitations
-  - Using the exercise files
-  - Responsible usage of AI
+  - [Computer vision with OpenAI's API](#computer-vision-with-openais-api)
+  - [Vision API limitations](#vision-api-limitations)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Responsible usage of AI](#responsible-usage-of-ai)
 - [**1. Vision API Essentials**](#1-vision-api-essentials) (5 videos)
-  - Setting up the API
-  - Vision API basics
-  - Vision API prompts
-  - Challenge: Ecommerce description
-  - Solution: Ecommerce description
+  - [Setting up the API](#setting-up-the-api)
+  - [Vision API basics](#vision-api-basics)
+  - [Vision API prompts](#vision-api-prompts)
+  - [Challenge: Ecommerce description](#challenge-ecommerce-description)
+  - [Solution: Ecommerce description](#solution-ecommerce-description)
 - [**2. App Developement with Vision API**](#2-app-developement-with-vision-api) (6 videos)
-  - What we'll build
-  - Project structure
-  - Vision code for our project
-  - Embedding vision code in our web app
-  - Challenge: User input items
-  - Solution: User input items
+  - [What we'll build](#what-well-build)
+  - [Project structure](#project-structure)
+  - [Vision code for our project](#vision-code-for-our-project)
+  - [Embedding vision code in our web app](#embedding-vision-code-in-our-web-app)
+  - [Challenge: User input items](#challenge-user-input-items)
+  - [Solution: User input items](#solution-user-input-items)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computer vision with OpenAI's API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/computer-vision-with-openai-s-api?u=76281980)
@@ -100,7 +100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** ai (1), [[OpenAI API]] (1), api (1), application (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (2)
 > **Speakers:** - use (1)
 
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4)
 > **Env Vars:** api (4)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
@@ -144,6 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
@@ -165,14 +167,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** api (1), power (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Vision API Essentials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/setting-up-the-api?u=76281980)
@@ -243,11 +245,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), management (1), next (1), cd (1), [[Graphic Design]] (1)
 > **Env Vars:** api (8), openai_api_key (1)
 > **CLI Commands:** python3 (3), pip (2), cd (1), make (1)
 > **Tools:** terminal (6)
 > **Prerequisites:** install (3), you'll need (1), set up (1)
-> **Code Keywords:** let (2), this. (1)
 > **Code Identifiers:** secret_key (1), test_vision (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **File Paths:** test_vision.py (1)
@@ -307,7 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), function (1)
+> **Frameworks & Libraries:** prompt (3), api (2), [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **File Paths:** test_vision.py (3)
 > **CLI Commands:** python (1), python3 (1), make (1)
 > **Code Identifiers:** test_vision (3)
@@ -353,8 +355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), prompt (3), [[Prompt Engineering]] (3), api (1), [[Generative AI]] (1)
 > **Env Vars:** json (5), api (1)
-> **Code Keywords:** let (1), this, (1), match, (1)
 > **File Paths:** test_vision.py (1)
 > **CLI Commands:** python3 (1)
 > **Code Identifiers:** test_vision (1)
@@ -393,7 +395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), prompt (2), [[JSON]] (1), [[Prompt Engineering]] (1), next (1)
 > **Code Identifiers:** ecommerce (1)
 > **Env Vars:** json (1)
 > **Cross-References:** in the next (1)
@@ -431,8 +433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[JSON]] (2), prompt (1)
 > **File Paths:** e_commerce.py (2)
-> **Code Keywords:** this. (1), let (1)
 > **Code Identifiers:** e_commerce (2)
 > **Env Vars:** json (2)
 > **CLI Commands:** python3 (1)
@@ -443,7 +445,7 @@ created: 2026-04-29
 
 ### 2. App Developement with Vision API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What we'll build
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/what-we-ll-build?u=76281980)
@@ -466,8 +468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), api (1), application (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -519,9 +521,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[HTML]] (4), web application (2), prompt (2), ai (2)
 > **File Paths:** vision.py (3), app.py (2), index.html (2)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (2), function (1), case. (1)
 > **Env Vars:** html (2), css (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **UI Navigation:** navigate to (1)
@@ -601,10 +603,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), prompt (3), [[Prompt Engineering]] (2), ai (1), api (1)
 > **File Paths:** vision.py (4)
 > **Tools:** terminal (3), jupyter (1)
 > **CLI Commands:** python3 (2), make (1)
-> **Code Keywords:** this. (2), let (1)
 > **UI Navigation:** navigate to (2)
 > **Env Vars:** api (1)
 > **Exercise Files:** exercise files (1)
@@ -677,8 +679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (7), application (2), next (2), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** vision.py (7), app.py (3)
-> **Code Keywords:** this, (2), let (1), except. (1), delete (1), function (1)
 > **CLI Commands:** make (2), python (1), python3 (1)
 > **UI Navigation:** navigate to (2)
 > **Env Vars:** prompt (1)
@@ -713,9 +715,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), application (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **File Paths:** app.py (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** set up (1)
@@ -763,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), delete (1)
+> **Frameworks & Libraries:** prompt (2), api (2), application (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **File Paths:** app.py (2)
 > **CLI Commands:** make (1), python3 (1)
 > **Env Vars:** api (2)
@@ -775,7 +777,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/next-steps?u=76281980)
@@ -798,9 +800,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[OpenAI API]] (2), [[Prompt Engineering]] (2), ai (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (4)
 > **CLI Commands:** python (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [ronnie] (1)
 
 

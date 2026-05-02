@@ -23,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure%20Synapse%20for%20Developers.md)
@@ -42,52 +42,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Data warehouses in the cloud
-  - What you should know
+  - [Data warehouses in the cloud](#data-warehouses-in-the-cloud)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started with Azure Synapse Analytics**](#1-getting-started-with-azure-synapse-analytics) (6 videos)
-  - Azure Synapse Analytics overview
-  - Creating Azure Synapse Analytics workspaces
-  - Analyzing the architecture of dedicated SQL pools
-  - Provisioning dedicated Synapse Analytics pools
-  - Challenge: Create a Synapse Analytics workspace with a dedicated pool
-  - Solution: Create a Synapse Analytics workspace with a dedicated pool
+  - [Azure Synapse Analytics overview](#azure-synapse-analytics-overview)
+  - [Creating Azure Synapse Analytics workspaces](#creating-azure-synapse-analytics-workspaces)
+  - [Analyzing the architecture of dedicated SQL pools](#analyzing-the-architecture-of-dedicated-sql-pools)
+  - [Provisioning dedicated Synapse Analytics pools](#provisioning-dedicated-synapse-analytics-pools)
+  - [Challenge: Create a Synapse Analytics workspace with a dedicated pool](#challenge-create-a-synapse-analytics-workspace-with-a-dedicated-pool)
+  - [Solution: Create a Synapse Analytics workspace with a dedicated pool](#solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool)
 - [**2. Populating Dedicated Synapse Analytics Pools**](#2-populating-dedicated-synapse-analytics-pools) (9 videos)
-  - Data loading in Azure Data Warehouse
-  - Preparing your data
-  - Exploring Azure Synapse Studio
-  - Loading data using the copy tool
-  - Load data using the COPY command
-  - Load data with PolyBase
-  - Transform data using data flows
-  - Challenge: Loading data using the copy tool
-  - Solution: Loading data using the copy tool
+  - [Data loading in Azure Data Warehouse](#data-loading-in-azure-data-warehouse)
+  - [Preparing your data](#preparing-your-data)
+  - [Exploring Azure Synapse Studio](#exploring-azure-synapse-studio)
+  - [Loading data using the copy tool](#loading-data-using-the-copy-tool)
+  - [Load data using the COPY command](#load-data-using-the-copy-command)
+  - [Load data with PolyBase](#load-data-with-polybase)
+  - [Transform data using data flows](#transform-data-using-data-flows)
+  - [Challenge: Loading data using the copy tool](#challenge-loading-data-using-the-copy-tool)
+  - [Solution: Loading data using the copy tool](#solution-loading-data-using-the-copy-tool)
 - [**3. Streaming Data into Azure Synapse Analytics**](#3-streaming-data-into-azure-synapse-analytics) (3 videos)
-  - Data streaming scenarios
-  - Creating a Stream Analytics job
-  - Testing data streaming using sample data
+  - [Data streaming scenarios](#data-streaming-scenarios)
+  - [Creating a Stream Analytics job](#creating-a-stream-analytics-job)
+  - [Testing data streaming using sample data](#testing-data-streaming-using-sample-data)
 - [**4. Querying Using Serverless SQL**](#4-querying-using-serverless-sql) (9 videos)
-  - Understanding serverless pools
-  - Querying and discovering data using serverless pools
-  - Using file metadata in queries
-  - Building a logical data warehouse, part 1
-  - Building a logical data warehouse, part 2
-  - Manage statistics
-  - Cost management
-  - Challenge: Query partitioned data
-  - Solution: Query partitioned data
+  - [Understanding serverless pools](#understanding-serverless-pools)
+  - [Querying and discovering data using serverless pools](#querying-and-discovering-data-using-serverless-pools)
+  - [Using file metadata in queries](#using-file-metadata-in-queries)
+  - [Building a logical data warehouse, part 1](#building-a-logical-data-warehouse-part-1)
+  - [Building a logical data warehouse, part 2](#building-a-logical-data-warehouse-part-2)
+  - [Manage statistics](#manage-statistics)
+  - [Cost management](#cost-management)
+  - [Challenge: Query partitioned data](#challenge-query-partitioned-data)
+  - [Solution: Query partitioned data](#solution-query-partitioned-data)
 - [**5. Querying and Best Practices in Dedicated SQL Pools**](#5-querying-and-best-practices-in-dedicated-sql-pools) (6 videos)
-  - Querying, labeling, and tracking data warehouse performance
-  - Transactions in dedicated SQL pool
-  - Optimizing queries with materialized views
-  - Connecting using external clients
-  - Creating and updating statistics
-  - Analyzing data distribution
+  - [Querying, labeling, and tracking data warehouse performance](#querying-labeling-and-tracking-data-warehouse-performance)
+  - [Transactions in dedicated SQL pool](#transactions-in-dedicated-sql-pool)
+  - [Optimizing queries with materialized views](#optimizing-queries-with-materialized-views)
+  - [Connecting using external clients](#connecting-using-external-clients)
+  - [Creating and updating statistics](#creating-and-updating-statistics)
+  - [Analyzing data distribution](#analyzing-data-distribution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with Synapse Analytics
+  - [Next steps with Synapse Analytics](#next-steps-with-synapse-analytics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data warehouses in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (8), [[Analytics]] (2), cloud (2), [[SQL]] (2), [[Big Data]] (1)
 > **Env Vars:** sql (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - in (1)
@@ -144,9 +144,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft SQL Server]] (1), data (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
@@ -154,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Azure Synapse Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Synapse Analytics overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980)
@@ -205,10 +205,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft Azure|Azure]] (8), [[Analytics]] (7), [[SQL]] (5), cloud (2)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - azure (1)
 
 #### Creating Azure Synapse Analytics workspaces
@@ -316,7 +316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), private (1), continue (1)
+> **Frameworks & Libraries:** data (5), [[Analytics]] (4), next (3), [[Microsoft Azure|Azure]] (2), [[Security]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** url (1)
 > **Tools:** azure portal (1)
@@ -383,9 +383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), data (9), [[SQL]] (8), power (4), [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** node (11)
 > **Env Vars:** sql (8)
-> **Code Keywords:** let (2), continue (1)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -477,7 +477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), from. (1), while. (1)
+> **Frameworks & Libraries:** data (17), node (8), [[SQL]] (4), next (2), parallel (2)
 > **CLI Commands:** node (8)
 > **Env Vars:** sql (4), dw100 (1)
 > **UI Navigation:** navigate to (2), click on (1), open the (1)
@@ -498,6 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (1), [[SQL]] (1), next (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -558,8 +559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (5), [[Microsoft Azure|Azure]] (2), [[Analytics]] (2), next (2)
 > **Env Vars:** sql (5)
-> **Code Keywords:** finally, (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -567,7 +568,7 @@ created: 2026-04-29
 
 ### 2. Populating Dedicated Synapse Analytics Pools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data loading in Azure Data Warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980)
@@ -668,8 +669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), power (2), [[SQL]] (2), node (2), hit (2)
 > **Env Vars:** elt (2), sql (2), where (2), etl (1), group (1)
-> **Code Keywords:** function (1), require (1), delete (1), finally, (1)
 > **Definitions:** stands for (2), is a  (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** node (2)
@@ -776,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (19), node (2), [[npm]] (2), [[Microsoft Azure|Azure]] (2), next (2)
 > **CLI Commands:** find (3), node (2), npm (2), make (1)
 > **UI Navigation:** navigate to (4), open the (1), select the (1), click on (1)
 > **Tools:** command prompt (1), azure portal (1)
@@ -878,9 +879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[SQL]] (7), database (3), next (3), application (1)
 > **Env Vars:** sql (7)
 > **Analogies:** for example (4), just like (1)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (4)
 > **UI Navigation:** navigate to (3)
 > **CLI Commands:** make (1)
@@ -1060,7 +1061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), case, (6), type. (2), type, (1), default. (1)
+> **Frameworks & Libraries:** data (15), next (7), [[Microsoft Azure|Azure]] (4), [[SQL]] (2)
 > **Env Vars:** copy (4), sql (2), url (1), sas (1), uri (1)
 > **UI Navigation:** click on (4), navigate to (3), select the (1), open the (1)
 > **Analogies:** for example (4)
@@ -1227,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), case, (2), finally, (2), return. (1), else. (1)
+> **Frameworks & Libraries:** data (12), next (3), [[SQL]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** csv (4), url (3), sql (2), secret (2), copy (1)
 > **UI Navigation:** navigate to (5), select the (1)
 > **CLI Commands:** make (5)
@@ -1443,7 +1444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), case, (3), finally, (2), this. (1)
+> **Frameworks & Libraries:** data (31), next (7), [[Hadoop]] (5), [[SQL]] (3), hit (2)
 > **Env Vars:** location (4), sql (3), external (2), distribution (2), create (1)
 > **UI Navigation:** navigate to (2), select the (1), go to (1)
 > **CLI Commands:** make (3)
@@ -1779,7 +1780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (48), finally, (3), default, (2), type. (2), case, (1)
+> **Frameworks & Libraries:** data (24), next (6), [[Microsoft Azure|Azure]] (6), [[JSON]] (4), [[Analytics]] (3)
 > **UI Navigation:** select the (6), navigate to (5), click on (5), open the (2), drag and drop (1)
 > **Env Vars:** csv (2), json (2), sql (2)
 > **Definitions:** is a  (4), is an  (1), is called (1)
@@ -1801,6 +1802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[SQL]] (1), next (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1900,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), default. (1)
+> **Frameworks & Libraries:** next (5), data (4), database (2), [[Microsoft Azure|Azure]] (2), [[Analytics]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Env Vars:** sql (1)
@@ -1911,7 +1913,7 @@ created: 2026-04-29
 
 ### 3. Streaming Data into Azure Synapse Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data streaming scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-streaming-scenarios?u=76281980)
@@ -1952,7 +1954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), self (1)
+> **Frameworks & Libraries:** data (19), [[SQL]] (1), next (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -2127,7 +2129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), case, (2), finally, (2), delete (1), else. (1)
+> **Frameworks & Libraries:** data (11), [[Analytics]] (5), [[SQL]] (4), [[Microsoft Azure|Azure]] (2), next (2)
 > **UI Navigation:** navigate to (7), select the (1), go to (1)
 > **Env Vars:** sql (4), json (1), select (1), into (1)
 > **CLI Commands:** find (4), make (1)
@@ -2223,7 +2225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), else, (1), self (1)
+> **Frameworks & Libraries:** data (19), application (5), [[npm]] (2), [[Analytics]] (2), [[Windows]] (1)
 > **UI Navigation:** open the (4), navigate to (3), click on (1), select the (1)
 > **CLI Commands:** npm (2), find (1), node (1), make (1)
 > **Env Vars:** npm (2), cmd (1)
@@ -2235,7 +2237,7 @@ created: 2026-04-29
 
 ### 4. Querying Using Serverless SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding serverless pools
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980)
@@ -2302,8 +2304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[SQL]] (6), node (3), power (2), next (2)
 > **Env Vars:** sql (6), dqp (1)
-> **Code Keywords:** let (2), while, (1), finally, (1), else, (1)
 > **CLI Commands:** node (3)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
@@ -2398,7 +2400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), from, (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), next (3), [[SQL]] (2), [[Microsoft]] (1)
 > **Env Vars:** csv (3), sql (2), url (1)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
@@ -2581,7 +2583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), case, (2), match. (1)
+> **Frameworks & Libraries:** data (21), [[SQL]] (2), feature (1), [[Analytics]] (1), next (1)
 > **Env Vars:** csv (5), sql (2), mpm (1), url (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** navigate to (3), open the (2)
@@ -2723,7 +2725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), finally, (2), from, (1), continue (1)
+> **Frameworks & Libraries:** data (13), database (10), next (3), [[Databases]] (1), [[Security]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** just like (5)
 > **Env Vars:** url (1), utf (1), sas (1), sql (1)
@@ -2803,7 +2805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (1)
+> **Frameworks & Libraries:** data (10)
 > **File Paths:** stores.csv (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** csv (2)
@@ -2879,8 +2881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (11), data (4), [[SQL]] (2)
 > **Env Vars:** sql (2), csv (2), bulk (1), data_source (1), where (1)
-> **Code Keywords:** default, (1), this, (1), let (1), case, (1)
 > **Code Identifiers:** create_openrowset_statistics (1), sp_create_openrowset_statistics (1), parser_version (1), drop_openrowset_statistic (1)
 > **CLI Commands:** apache (1), make (1), find (1)
 > **SQL:** where (1)
@@ -2947,7 +2949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (10), [[SQL]] (4), cloud (1)
 > **Env Vars:** sql (4)
 > **UI Navigation:** navigate to (2)
 > **Analogies:** for example (1)
@@ -2972,8 +2974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Azure|Azure]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -3074,7 +3076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** data (11), web (2), [[SQL]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** navigate to (4), drag and drop (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (1), openrowset (1)
@@ -3086,7 +3088,7 @@ created: 2026-04-29
 
 ### 5. Querying and Best Practices in Dedicated SQL Pools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying, labeling, and tracking data warehouse performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980)
@@ -3207,7 +3209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (1)
+> **Frameworks & Libraries:** data (10), [[SQL]] (6), application (2), power (1), [[Dashboards]] (1)
 > **Env Vars:** sql (6), label (1)
 > **CLI Commands:** make (3), find (3)
 > **UI Navigation:** navigate to (4), click on (1)
@@ -3281,6 +3283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), node (1)
 > **Env Vars:** sql (6), read (4), committed (3), snapshot (3), isolation (3)
 > **Analogies:** for example (3), it's like (1)
 > **CLI Commands:** make (2), node (1)
@@ -3398,7 +3401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (16), [[SQL]] (2), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Big Data]] (1)
 > **Definitions:** is a  (3)
 > **File Paths:** stores.json (1), stores.csv (1)
 > **Env Vars:** sql (2)
@@ -3468,8 +3471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), data (5), management (3), [[Databases]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** sql (8), jdbc (1), odbc (1), php (1), url (1)
-> **Code Keywords:** let (9), default, (1)
 > **UI Navigation:** open the (2), click on (1), navigate to (1)
 > **Analogies:** just like (3)
 > **Definitions:** is a  (2)
@@ -3561,9 +3564,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (13), data (9), [[SQL]] (1), database (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (1), alter (1), database (1), auto_create_statistics (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), case, (1), this, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -3664,8 +3667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft]] (2)
 > **Env Vars:** round_robin (4), rows (2), distribution_id (2), showspaceused (1), reserved_space (1)
-> **Code Keywords:** let (7), if, (1), this. (1)
 > **CLI Commands:** make (3), find (3)
 > **Exercise Files:** exercise files (2)
 > **SQL:** where (1)
@@ -3676,7 +3679,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Synapse Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980)
@@ -3701,9 +3704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Analytics]] (3), [[SQL]] (2), [[Microsoft Azure|Azure]] (1), cloud (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 

@@ -31,7 +31,7 @@ tags:
   - skill/github
   - skill/privacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GitHub%20Foundations-%20Privacy%2C%20Security%2C%20and%20Administration.md)
@@ -50,29 +50,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building secure and efficient GitHub workflows
+  - [Building secure and efficient GitHub workflows](#building-secure-and-efficient-github-workflows)
 - [**1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction**](#1-ensuring-your-github-accounts-integrity-authentication-and-security-introduction) (4 videos)
-  - Introduction to authentication and security
-  - Securing account with 2FA
-  - Understanding access permissions
-  - Enterprise Managed Users (EMUs) explained
+  - [Introduction to authentication and security](#introduction-to-authentication-and-security)
+  - [Securing account with 2FA](#securing-account-with-2fa)
+  - [Understanding access permissions](#understanding-access-permissions)
+  - [Enterprise Managed Users (EMUs) explained](#enterprise-managed-users-emus-explained)
 - [**2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction**](#2-configuring-and-managing-repositories-and-organizations-github-administration-introduction) (10 videos)
-  - Introduction to GitHub administration
-  - Enabling and disabling features
-  - Repository permission levels explained
-  - Setting repository visibility options
-  - Repository privacy settings and options
-  - Features and options in the security tab
-  - Understanding repository insights
-  - Managing collaborators in GitHub
-  - Managing organization settings
-  - Members, teams, and roles in a GitHub organization
+  - [Introduction to GitHub administration](#introduction-to-github-administration)
+  - [Enabling and disabling features](#enabling-and-disabling-features)
+  - [Repository permission levels explained](#repository-permission-levels-explained)
+  - [Setting repository visibility options](#setting-repository-visibility-options)
+  - [Repository privacy settings and options](#repository-privacy-settings-and-options)
+  - [Features and options in the security tab](#features-and-options-in-the-security-tab)
+  - [Understanding repository insights](#understanding-repository-insights)
+  - [Managing collaborators in GitHub](#managing-collaborators-in-github)
+  - [Managing organization settings](#managing-organization-settings)
+  - [Members, teams, and roles in a GitHub organization](#members-teams-and-roles-in-a-github-organization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps: Continuing your GitHub mastery journey
+  - [Next steps: Continuing your GitHub mastery journey](#next-steps-continuing-your-github-mastery-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building secure and efficient GitHub workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980)
@@ -109,14 +109,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Security]] (3), cloud (1), [[Data Engineering]] (1), teams (1)
 > **Tools:** github (3)
 > **Definitions:** means that (2)
-> **Code Keywords:** let (1)
 
 
 ### 1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to authentication and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), case, (2)
+> **Frameworks & Libraries:** [[Security]] (7), data (5), api (3), [[GitHub]] (2), next (2)
 > **Env Vars:** api (3), http (1), ssh (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2), ssh (1)
@@ -243,8 +243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), next (5), [[GitHub]] (3)
 > **Prerequisites:** set up (5), configure (1)
-> **Code Keywords:** let (2), this. (1), interface (1), this, (1)
 > **Env Vars:** sms (2), totp (1)
 > **Tools:** github (3)
 > **Best Practices:** recommended (2), best practice (1)
@@ -329,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), type. (1), let (1), finally, (1), public (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), teams (2), next (1), management (1), [[Generative AI]] (1)
 > **Tools:** github (5)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (3)
@@ -382,7 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), implements (1), delete (1), interface (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[GitHub]] (2), application (2), data (2), [[Secure Authentication]] (1)
 > **Env Vars:** emu (2), crud (1), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** github (2)
@@ -391,7 +391,7 @@ created: 2026-04-29
 
 ### 2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GitHub administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980)
@@ -456,8 +456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), feature (2), [[Codespaces]] (2), [[Microsoft Copilot|Copilot]] (2), [[Search]] (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** interface (2), let (2)
 > **Tools:** github (4)
 > **Env Vars:** readme (1), gpu (1), cpu (1)
 > **UI Navigation:** go to (1), select the (1), scroll down (1)
@@ -520,7 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), self (2), interface (1), for, (1)
+> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (3), [[Microsoft Copilot|Copilot]] (3), feature (2), cloud (1)
 > **Analogies:** for example (4)
 > **Prerequisites:** set up (3), configure (1)
 > **Tools:** github (3)
@@ -572,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), public (1), private (1), delete (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Security]] (1), [[DevOps]] (1)
 > **Tools:** github (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
@@ -658,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (5), private (4), case, (1), new. (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[GitHub]] (2), next (1), data (1), management (1)
 > **Definitions:** means that (3), is a  (2)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
@@ -719,7 +719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (3), delete (3), public (2), case, (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (2)
 > **CLI Commands:** make (1)
@@ -790,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), override (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (8), next (4), feature (3), api (2), ci (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (1), ssh (1), cd (1), aws (1)
 > **Env Vars:** api (2), ssh (1), aws (1)
@@ -841,8 +841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[GitHub]] (1), [[Engineering]] (1), open-source (1), [[Code Review]] (1)
 > **Analogies:** for example (3), picture (1)
-> **Code Keywords:** if, (1), case, (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -892,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is called (1)
@@ -964,7 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), public (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3), [[Security]] (3), feature (2), data (2)
 > **Tools:** github (3)
 > **UI Navigation:** go to (2), toggle (1)
 > **Analogies:** for example (2), picture (1)
@@ -1042,9 +1042,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), next (1), front-end (1), ux (1), management (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** go back to (1)
 > **Tools:** github (1)
@@ -1052,7 +1052,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps: Continuing your GitHub mastery journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980)
@@ -1095,10 +1095,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Security]] (5), feature (3), next (2), management (1)
 > **Tools:** github (7)
 > **Cross-References:** we covered (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** github repo (1)
 > **Definitions:** is a  (1)
 

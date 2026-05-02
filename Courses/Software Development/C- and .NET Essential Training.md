@@ -35,7 +35,7 @@ tags:
   - skill/-net-framework
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20and%20.NET%20Essential%20Training.md)
@@ -54,48 +54,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - .NET: The everywhere framework
-  - What you should know
-  - Installing .NET
-  - Exercise Files
-  - Tour of CoderPad
+  - [.NET: The everywhere framework](#net-the-everywhere-framework)
+  - [What you should know](#what-you-should-know)
+  - [Installing .NET](#installing-net)
+  - [Exercise Files](#exercise-files)
+  - [Tour of CoderPad](#tour-of-coderpad)
 - [**1. Overview of .NET**](#1-overview-of-net) (4 videos)
-  - What is .NET?
-  - Building a console application
-  - Basic .NET data types
-  - .NET garbage collection
+  - [What is .NET?](#what-is-net)
+  - [Building a console application](#building-a-console-application)
+  - [Basic .NET data types](#basic-net-data-types)
+  - [.NET garbage collection](#net-garbage-collection)
 - [**2. Working with Strings**](#2-working-with-strings) (5 videos)
-  - String interpolation
-  - String formatting
-  - String manipulation
-  - String searching
-  - Solution: Strings
+  - [String interpolation](#string-interpolation)
+  - [String formatting](#string-formatting)
+  - [String manipulation](#string-manipulation)
+  - [String searching](#string-searching)
+  - [Solution: Strings](#solution-strings)
 - [**3. Using Numbers and Dates**](#3-using-numbers-and-dates) (6 videos)
-  - Parsing numbers
-  - Formatting numerical data
-  - Using the DateTime class
-  - Formatting dates and times
-  - Parsing dates
-  - CoderPad Solution: How many days?
+  - [Parsing numbers](#parsing-numbers)
+  - [Formatting numerical data](#formatting-numerical-data)
+  - [Using the DateTime class](#using-the-datetime-class)
+  - [Formatting dates and times](#formatting-dates-and-times)
+  - [Parsing dates](#parsing-dates)
+  - [CoderPad Solution: How many days?](#coderpad-solution-how-many-days)
 - [**4. Working with Files**](#4-working-with-files) (6 videos)
-  - Creating files
-  - Reading and writing files
-  - Inspecting file information
-  - Working with directories
-  - Challenge: Files and directories
-  - Solution: Files and directories
+  - [Creating files](#creating-files)
+  - [Reading and writing files](#reading-and-writing-files)
+  - [Inspecting file information](#inspecting-file-information)
+  - [Working with directories](#working-with-directories)
+  - [Challenge: Files and directories](#challenge-files-and-directories)
+  - [Solution: Files and directories](#solution-files-and-directories)
 - [**5. Regular Expressions**](#5-regular-expressions) (5 videos)
-  - RegEx and .NET
-  - Finding and matching content
-  - Replacing content
-  - Using RegEx timeouts
-  - Solution: Regular expressions
+  - [RegEx and .NET](#regex-and-net)
+  - [Finding and matching content](#finding-and-matching-content)
+  - [Replacing content](#replacing-content)
+  - [Using RegEx timeouts](#using-regex-timeouts)
+  - [Solution: Regular expressions](#solution-regular-expressions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### .NET: The everywhere framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980)
@@ -118,8 +118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Windows]] (1), cross-platform (1), data (1)
 > **Env Vars:** net (4)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [joe] (1)
 
@@ -154,11 +154,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Windows]] (2), [[Programming Foundations]] (2), cross-platform (1), [[Microsoft]] (1)
 > **Tools:** visual studio (6), vs code (1), command line (1)
 > **Env Vars:** net (4)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -217,10 +217,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (4), [[Microsoft]] (1)
 > **Env Vars:** net (13)
 > **Prerequisites:** install (7), you'll need (1)
 > **CLI Commands:** dotnet (2), make (2)
-> **Code Keywords:** let (3), this, (1)
 > **Tools:** terminal (2), visual studio (1), vs code (1)
 > **UI Navigation:** click on (4)
 > **Cross-References:** go back to (3)
@@ -247,6 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Exercise Files:** exercise files (4)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -334,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (6)
-> **Code Keywords:** let (2), this. (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** sample code (1)
@@ -345,7 +346,7 @@ created: 2026-04-29
 
 ### 1. Overview of .NET
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is .NET?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980)
@@ -376,10 +377,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Programming]] (2), [[Windows]] (1), [[Linux]] (1), [[Android]] (1)
 > **Env Vars:** net (9), php (1), clr (1)
 > **CLI Commands:** python (1), php (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** for . (1)
 > **Code Identifiers:** ios (1)
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
@@ -504,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Windows]] (2), [[Linux]] (1), feature (1), [[Microsoft]] (1)
 > **Env Vars:** net (17)
-> **Code Keywords:** let (10), this, (2), this. (1), interface (1)
 > **Tools:** terminal (9), vs code (2)
 > **CLI Commands:** make (2), dotnet (2)
 > **Analogies:** such as (2), for example (2)
@@ -750,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (18), struct (12), this. (5), type. (3)
+> **Frameworks & Libraries:** data (8), next (2)
 > **Definitions:** is a  (6), is called (2), is an  (1)
 > **Env Vars:** net (5), sdk (1)
 > **Tools:** terminal (4), vs code (1)
@@ -822,7 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), this. (1)
+> **Frameworks & Libraries:** hit (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **CLI Commands:** make (2), dotnet (1)
 > **Env Vars:** net (3)
 > **Definitions:** in other words (1), is an  (1), refers to (1)
@@ -834,7 +835,7 @@ created: 2026-04-29
 
 ### 2. Working with Strings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### String interpolation
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980)
@@ -925,7 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), function (2), this, (1)
+> **Frameworks & Libraries:** data (3), feature (3), [[Debugging]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -1015,7 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), this, (1)
+> **Frameworks & Libraries:** data (9)
 > **Cross-References:** previous video (1), later in (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -1245,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (13), this. (2), case, (2), static (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), data (1)
 > **Definitions:** is a  (4), is called (1), means that (1), in other words (1)
 > **Analogies:** for example (4), such as (1), just like (1)
 > **CLI Commands:** cat (3), make (1), dotnet (1)
@@ -1398,7 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (6), this. (2), case, (2), case. (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Search]] (3), next (1)
 > **Env Vars:** net (2)
 > **Analogies:** for example (1), just like (1)
 > **Code Identifiers:** stringcomparison (1)
@@ -1444,14 +1445,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), class. (1), case. (1)
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Using Numbers and Dates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Parsing numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-numbers?u=76281980)
@@ -1566,7 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), case, (3), throw (2), this, (2), type. (1)
+> **Frameworks & Libraries:** data (5), [[Programming]] (1)
 > **Code Identifiers:** testfloat (4)
 > **Env Vars:** net (4)
 > **Versions:** 1.45 (2), 1.5 (1)
@@ -1752,7 +1752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), this. (2), finally, (2), default. (1), this, (1)
+> **Frameworks & Libraries:** data (9)
 > **Tools:** terminal (4)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** earlier in (1), go back to (1)
@@ -1880,7 +1880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), static (1), class. (1), class, (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** dotnet (3), make (2)
 > **Analogies:** for example (3)
 > **Env Vars:** net (2)
@@ -2060,7 +2060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (2), require (1), from. (1), function (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** net (3)
 > **Documentation:** the docs (3)
 > **Tools:** terminal (2), vs code (1)
@@ -2146,7 +2146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), if, (1), this. (1)
+> **Frameworks & Libraries:** next (2), data (1), [[Forms]] (1)
 > **Analogies:** just like (2), similar to (1)
 > **Cross-References:** earlier in (2)
 > **Tools:** terminal (1)
@@ -2195,14 +2195,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3)
 > **Code Identifiers:** parseddate (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Working with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating files
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/creating-files?u=76281980)
@@ -2323,7 +2322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (3), class. (2), this. (2), delete (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Programming]] (1), web (1), data (1)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1), terminal (1)
 > **Env Vars:** rest (1)
@@ -2422,7 +2421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (8), delete (1)
+> **Frameworks & Libraries:** next (2), data (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), click on (1)
 > **Tools:** terminal (1)
@@ -2540,7 +2539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this, (2), function (2), enum (1), throw (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (3)
 > **Tools:** terminal (1)
@@ -2694,7 +2693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (4), this. (3), delete (2), this, (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (5)
 > **Analogies:** just like (2), similar to (1), for example (1)
 > **Tools:** terminal (1), vs code (1)
@@ -2764,7 +2763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2), [[Programming]] (1), [[Microsoft Office]] (1)
 > **File Paths:** results.txt (2), test.txt (1)
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (2)
@@ -2816,7 +2815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), next (1), data (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -2826,7 +2825,7 @@ created: 2026-04-29
 
 ### 5. Regular Expressions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RegEx and .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/regex-and-dot-net?u=76281980)
@@ -2851,7 +2850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** net (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -3017,7 +3016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (7), match. (5), this. (3), pass (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** open the (1), scroll up (1)
@@ -3105,7 +3104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (9), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** dotnet (2), make (2), find (1)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** previous video (1)
@@ -3196,7 +3195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), function (2), pass (2), this. (1)
+> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (1), imagine (1)
 > **Versions:** 0.01 (1)
@@ -3299,7 +3298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (8), pass (1), static (1), case, (1)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** sourcedate (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3309,7 +3308,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/next-steps?u=76281980)
@@ -3328,8 +3327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1)
 > **Env Vars:** net (4)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [joe] (1)
 
 

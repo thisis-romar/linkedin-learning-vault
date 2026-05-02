@@ -34,7 +34,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Communication%20for%20Developers.md)
@@ -53,42 +53,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Strategies to communicate to wider audience
-  - Why don't people understand?
+  - [Strategies to communicate to wider audience](#strategies-to-communicate-to-wider-audience)
+  - [Why don't people understand?](#why-dont-people-understand)
 - [**1. You're More Different than You Think**](#1-youre-more-different-than-you-think) (3 videos)
-  - Three types of intelligence
-  - The joys and sorrows of groupthink
-  - A note about money and time
+  - [Three types of intelligence](#three-types-of-intelligence)
+  - [The joys and sorrows of groupthink](#the-joys-and-sorrows-of-groupthink)
+  - [A note about money and time](#a-note-about-money-and-time)
 - [**2. Overcoming Barriers of Experience**](#2-overcoming-barriers-of-experience) (3 videos)
-  - Using words that people know
-  - Don't dumb down, smarten up
-  - The magic of stories
+  - [Using words that people know](#using-words-that-people-know)
+  - [Don't dumb down, smarten up](#dont-dumb-down-smarten-up)
+  - [The magic of stories](#the-magic-of-stories)
 - [**3. Overcoming Barriers of Motivation**](#3-overcoming-barriers-of-motivation) (3 videos)
-  - Why don't they care?
-  - Reigniting hope in technology
-  - Leading through enthusiasm
+  - [Why don't they care?](#why-dont-they-care)
+  - [Reigniting hope in technology](#reigniting-hope-in-technology)
+  - [Leading through enthusiasm](#leading-through-enthusiasm)
 - [**4. Overcoming Barriers of Perspective**](#4-overcoming-barriers-of-perspective) (4 videos)
-  - Your success isn't their success
-  - Engineers vs. managers
-  - Finding shared goals
-  - You are both buyer and seller
+  - [Your success isn't their success](#your-success-isnt-their-success)
+  - [Engineers vs. managers](#engineers-vs-managers)
+  - [Finding shared goals](#finding-shared-goals)
+  - [You are both buyer and seller](#you-are-both-buyer-and-seller)
 - [**5. Overcoming Barriers of Style**](#5-overcoming-barriers-of-style) (3 videos)
-  - Learning about your audience
-  - Format is as important as content
-  - Responding to cultural cues
+  - [Learning about your audience](#learning-about-your-audience)
+  - [Format is as important as content](#format-is-as-important-as-content)
+  - [Responding to cultural cues](#responding-to-cultural-cues)
 - [**6. Using Your New Communication Skills**](#6-using-your-new-communication-skills) (6 videos)
-  - Communicating with clients
-  - Communicating with vendors
-  - Communicating with teammates
-  - Communicating with partners
-  - Communicating with conference audiences
-  - Communicating with the public
+  - [Communicating with clients](#communicating-with-clients)
+  - [Communicating with vendors](#communicating-with-vendors)
+  - [Communicating with teammates](#communicating-with-teammates)
+  - [Communicating with partners](#communicating-with-partners)
+  - [Communicating with conference audiences](#communicating-with-conference-audiences)
+  - [Communicating with the public](#communicating-with-the-public)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further strengthen communication
+  - [Further strengthen communication](#further-strengthen-communication)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategies to communicate to wider audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
@@ -194,14 +194,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), database (1), ux (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - if (1)
 
 
 ### 1. You're More Different than You Think
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three types of intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980)
@@ -262,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (1), [[Algorithms]] (1), [[Supply Chain Management]] (1), [[Microsoft Excel|Excel]] (1), strengths (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - communication (1)
 
@@ -326,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - lots (1)
 
@@ -405,15 +405,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** while, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
 
 ### 2. Overcoming Barriers of Experience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using words that people know
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980)
@@ -484,8 +484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3), [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (1), next (1)
 > **CLI Commands:** git (3)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Speakers:** - waterfall (1)
 
@@ -550,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
@@ -607,7 +607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** data (4), [[JSON]] (2), [[Containerization]] (1), [[Software Development]] (1)
 > **Env Vars:** json (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -618,7 +618,7 @@ created: 2026-04-29
 
 ### 3. Overcoming Barriers of Motivation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why don't they care?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980)
@@ -677,6 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1), strengths (1)
 > **Analogies:** such as (1)
 > **Speakers:** - true (1)
 
@@ -737,7 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), product (1), business (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -811,13 +812,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cms (1)
 > **Env Vars:** cms (1)
 
 
 ### 4. Overcoming Barriers of Perspective
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your success isn't their success
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980)
@@ -880,7 +881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1)
+> **Frameworks & Libraries:** product (2), [[React.js]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** ceo (2)
 > **File Paths:** react.js (1)
 > **CLI Commands:** make (1)
@@ -948,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1)
+> **Frameworks & Libraries:** [[Windows]] (1), web (1)
 > **Versions:** 4.5 (1)
 > **Speakers:** - there (1)
 
@@ -1008,7 +1009,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (2)
-> **Code Keywords:** else. (1), finally, (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - here (1)
@@ -1090,7 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), this, (1)
+> **Frameworks & Libraries:** product (1), [[Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
@@ -1099,7 +1099,7 @@ created: 2026-04-29
 
 ### 5. Overcoming Barriers of Style
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning about your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980)
@@ -1152,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), business (2), hit (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
@@ -1218,8 +1218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), functional (2), [[GitHub]] (2), product (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1), finally, (1)
 > **Tools:** github (2)
 > **File Paths:** readme.md (1)
 > **Env Vars:** readme (1)
@@ -1296,13 +1296,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), strengths (1)
 > **Speakers:** - every (1)
 
 
 ### 6. Using Your New Communication Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating with clients
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980)
@@ -1365,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1), [[Fine Tuning]] (1), power (1), business (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -1430,9 +1430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** batna (2)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** return. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - is (1)
 
@@ -1501,9 +1501,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (1), [[Slack]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** faq (1), ceo (1)
-> **Code Keywords:** while, (1)
 > **Tools:** slack (1)
 > **Analogies:** for example (1)
 > **Speakers:** - workplaces (1)
@@ -1559,7 +1559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (2), let (2), require (1)
+> **Frameworks & Libraries:** functional (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - companies (1)
 
@@ -1628,7 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2), case, (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1), similar to (1)
 > **Warnings:** be careful (1), be aware (1)
@@ -1699,14 +1699,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (2), else, (1)
+> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - now (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further strengthen communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980)
@@ -1741,8 +1741,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1), [[LinkedIn]] (1), hit (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** else, (1)
 > **Speakers:** - i (1)
 
 

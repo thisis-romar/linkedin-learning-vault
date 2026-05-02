@@ -28,7 +28,7 @@ tags:
   - skill/cost-management
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Controlling%20Cost%20with%20Azure%20Management%20and%20Billing.md)
@@ -47,32 +47,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Control costs with Azure management and billing
+  - [Control costs with Azure management and billing](#control-costs-with-azure-management-and-billing)
 - [**1. Introduction to Cost Management**](#1-introduction-to-cost-management) (3 videos)
-  - Introducing the scenario
-  - Understanding cost management and billing
-  - The cost management methodology
+  - [Introducing the scenario](#introducing-the-scenario)
+  - [Understanding cost management and billing](#understanding-cost-management-and-billing)
+  - [The cost management methodology](#the-cost-management-methodology)
 - [**2. Managing Costs with Budgets**](#2-managing-costs-with-budgets) (4 videos)
-  - Introducing budgets
-  - Creating a budget
-  - Automating actions with budgets
-  - Cost management best practices
+  - [Introducing budgets](#introducing-budgets)
+  - [Creating a budget](#creating-a-budget)
+  - [Automating actions with budgets](#automating-actions-with-budgets)
+  - [Cost management best practices](#cost-management-best-practices)
 - [**3. Analyzing Costs with Reporting**](#3-analyzing-costs-with-reporting) (5 videos)
-  - Introducing billing
-  - Downloading billing data
-  - Understanding your billing data
-  - Understanding scope
-  - Analyze costs with built-in views
+  - [Introducing billing](#introducing-billing)
+  - [Downloading billing data](#downloading-billing-data)
+  - [Understanding your billing data](#understanding-your-billing-data)
+  - [Understanding scope](#understanding-scope)
+  - [Analyze costs with built-in views](#analyze-costs-with-built-in-views)
 - [**4. Reducing Costs with Reservations**](#4-reducing-costs-with-reservations) (3 videos)
-  - Introducing reservations
-  - Understanding reservation recommendations
-  - Creating reservations
+  - [Introducing reservations](#introducing-reservations)
+  - [Understanding reservation recommendations](#understanding-reservation-recommendations)
+  - [Creating reservations](#creating-reservations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next with Azure management?
+  - [What's next with Azure management?](#whats-next-with-azure-management)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Control costs with Azure management and billing
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980)
@@ -97,13 +97,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (2), cloud (2), [[Microsoft Azure|Azure]] (2), [[Cost Management]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [james] (1)
 
 
 ### 1. Introduction to Cost Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980)
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Cost Management]] (2), cloud (2), business (2), [[Virtual Machines]] (1)
 > **Env Vars:** cio (1), sql (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -221,7 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Cost Management]] (5), data (5), cloud (3), [[Cloud Infrastructure]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -311,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Cost Management]] (6), business (6), cloud (5), teams (3)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** finally, (2), case, (1)
 > **Definitions:** is an  (3)
 > **Tools:** azure portal (1)
 > **UI Navigation:** select the (1)
@@ -321,7 +321,7 @@ created: 2026-04-29
 
 ### 2. Managing Costs with Budgets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing budgets
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-budgets?u=76281980)
@@ -394,9 +394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), cloud (2), [[Cost Management]] (1), next (1), web (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Creating a budget
@@ -464,7 +464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cost Management]] (4), next (4), [[Search]] (2)
 > **UI Navigation:** select the (3), in the toolbar (1)
 > **CLI Commands:** make (2)
 > **Tools:** azure portal (2)
@@ -560,7 +560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2), type. (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), next (3), hit (2), [[Virtual Machines]] (2), [[Automation]] (2)
 > **UI Navigation:** select the (5), dropdown (2), go to (1), in the toolbar (1), checkbox (1)
 > **Analogies:** such as (2), imagine (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -622,16 +622,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Cost Management]] (2), [[Virtual Machines]] (2), [[Microsoft]] (1), database (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Analyzing Costs with Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing billing
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980)
@@ -708,7 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Microsoft]] (4), teams (2), [[Cost Management]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -775,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (3), next (2), [[Cost Management]] (1), [[Microsoft]] (1)
 > **UI Navigation:** in the toolbar (2), select the (1)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** csv (2)
 > **Exercise Files:** download the (2)
 > **Definitions:** is a  (2)
@@ -843,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft]] (2), next (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -908,8 +908,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), management (5), data (4), [[Cost Management]] (2)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -974,8 +974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (3), [[Cost Management]] (2), next (2), dns (1)
 > **UI Navigation:** dropdown (2), in the toolbar (2), select the (1)
-> **Code Keywords:** let (1), this. (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dns (1)
 > **Tools:** azure portal (1)
@@ -986,7 +986,7 @@ created: 2026-04-29
 
 ### 4. Reducing Costs with Reservations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing reservations
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980)
@@ -1041,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (2), feature (1), [[Microsoft Products|Products]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1124,7 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), data (3), [[Microsoft]] (2), feature (1), [[Cost Management]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** azure portal (2)
 > **Env Vars:** api (1)
@@ -1205,9 +1205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Search]] (2), next (2), [[Powershell]] (1), [[CLI]] (1)
 > **UI Navigation:** select the (3), navigate to (1), in the toolbar (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this, (1)
 > **Env Vars:** cli (1), api (1), sql (1)
 > **Tools:** azure portal (2), powershell (1)
 > **Analogies:** such as (1)
@@ -1217,7 +1217,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next with Azure management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980)
@@ -1280,8 +1280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cost Management]] (6), business (2), next (2), [[Microsoft Azure|Azure]] (2), data (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** finally, (2), let (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)

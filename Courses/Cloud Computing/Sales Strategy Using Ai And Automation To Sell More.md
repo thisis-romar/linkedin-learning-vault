@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/sales-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Sales%20Strategy%20Using%20Ai%20And%20Automation%20To%20Sell%20More.md)
@@ -49,32 +49,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Become superhuman with your sales activities
-  - Exploring areas of automation and AI in sales
+  - [Become superhuman with your sales activities](#become-superhuman-with-your-sales-activities)
+  - [Exploring areas of automation and AI in sales](#exploring-areas-of-automation-and-ai-in-sales)
 - [**1. Sales Prospecting and Lead Generation: AI and Automation Tools**](#1-sales-prospecting-and-lead-generation-ai-and-automation-tools) (5 videos)
-  - Sales prospecting with AI and automation tools
-  - Lead enrichment with AI and automation
-  - Emailing and direct messages
-  - Meeting scheduling for sales professionals
-  - Gathering insights from marketing
+  - [Sales prospecting with AI and automation tools](#sales-prospecting-with-ai-and-automation-tools)
+  - [Lead enrichment with AI and automation](#lead-enrichment-with-ai-and-automation)
+  - [Emailing and direct messages](#emailing-and-direct-messages)
+  - [Meeting scheduling for sales professionals](#meeting-scheduling-for-sales-professionals)
+  - [Gathering insights from marketing](#gathering-insights-from-marketing)
 - [**2. Selling Processes: AI and Automation Tools**](#2-selling-processes-ai-and-automation-tools) (5 videos)
-  - The process of selling
-  - Managing sales deals with AI and automation
-  - Building proposals with AI and automation
-  - Completing sales deals with AI and automation
-  - Invoicing in your sales process using AI and automation
+  - [The process of selling](#the-process-of-selling)
+  - [Managing sales deals with AI and automation](#managing-sales-deals-with-ai-and-automation)
+  - [Building proposals with AI and automation](#building-proposals-with-ai-and-automation)
+  - [Completing sales deals with AI and automation](#completing-sales-deals-with-ai-and-automation)
+  - [Invoicing in your sales process using AI and automation](#invoicing-in-your-sales-process-using-ai-and-automation)
 - [**3. Post Sales and Forecasting: AI and Automation Tools**](#3-post-sales-and-forecasting-ai-and-automation-tools) (5 videos)
-  - How post-sales and forecasting may be automated
-  - Strategy and forecasting in sales
-  - Improving customer support efficiency
-  - Using automation tools to sell small items
-  - Using automation tools to gather sales statistics
+  - [How post-sales and forecasting may be automated](#how-post-sales-and-forecasting-may-be-automated)
+  - [Strategy and forecasting in sales](#strategy-and-forecasting-in-sales)
+  - [Improving customer support efficiency](#improving-customer-support-efficiency)
+  - [Using automation tools to sell small items](#using-automation-tools-to-sell-small-items)
+  - [Using automation tools to gather sales statistics](#using-automation-tools-to-gather-sales-statistics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to grow your sales AI and automation mindset
+  - [Continuing to grow your sales AI and automation mindset](#continuing-to-grow-your-sales-ai-and-automation-mindset)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Become superhuman with your sales activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/become-superhuman-with-your-sales-activities?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Automation]] (3), ai (2), data (1)
 > **Speakers:** - salespeople (1)
 
 #### Exploring areas of automation and AI in sales
@@ -163,14 +163,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** ai (3), [[Automation]] (2), [[Forecasting]] (1), product (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - before (1)
 
 
 ### 1. Sales Prospecting and Lead Generation: AI and Automation Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sales prospecting with AI and automation tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980)
@@ -209,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (3), ai (3), [[Lead Generation]] (1), [[Sales Presentations]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - prospecting (1)
 
@@ -276,8 +276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), ai (2), next (2), business (1), [[Search]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for, (1), new, (1)
 > **Env Vars:** crm (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** it's like (1)
@@ -345,7 +345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), let (1)
+> **Frameworks & Libraries:** ai (3), [[Automation]] (2), [[Microsoft Word|Word]] (2), data (2), teams (1)
 > **Warnings:** warning (1), be careful (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dos (1)
@@ -417,8 +417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Automation]] (1), web (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sms (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -484,16 +484,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Search]] (1), [[Microsoft Products|Products]] (1), ai (1), [[Automation]] (1)
 > **Env Vars:** crm (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - if (1)
 
 
 ### 2. Selling Processes: AI and Automation Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The process of selling
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/the-process-of-selling?u=76281980)
@@ -520,6 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), management (1), [[Microsoft Products|Products]] (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - once (1)
@@ -583,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while. (2), pass (1), this. (1)
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** crm (2)
 > **Best Practices:** remember to (1)
@@ -652,9 +653,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Microsoft Products|Products]] (2), database (1), [[Microsoft Office|Office]] (1), product (1)
 > **Env Vars:** rfp (3), crm (2), pdf (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - the (1)
 
@@ -705,10 +706,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), ai (1), [[Automation]] (1), product (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** crm (2), pdf (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** else, (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - when (1)
 
@@ -769,9 +770,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Microsoft Products|Products]] (1), [[Automation]] (1), [[Databases]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** crm (1)
 > **Analogies:** it's like (1)
 > **Best Practices:** remember to (1)
@@ -780,7 +781,7 @@ created: 2026-04-29
 
 ### 3. Post Sales and Forecasting: AI and Automation Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How post-sales and forecasting may be automated
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980)
@@ -827,8 +828,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Automation]] (2), next (1), [[Forecasting]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - it (1)
@@ -890,6 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (2), [[Automation]] (2), [[Forecasting]] (2), [[Probability]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - other (1)
@@ -975,9 +977,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Customer Support]] (1), [[Automation]] (1), [[Microsoft Office|Office]] (1), teams (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Warnings:** caution (1)
 > **Speakers:** - once (1)
@@ -1047,10 +1049,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1), teams (1), ai (1), [[Automation]] (1), next (1)
 > **Env Vars:** crm (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - often (1)
 
 #### Using automation tools to gather sales statistics
@@ -1118,6 +1120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), ai (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** crm (2)
 > **Speakers:** - monitoring (1)
@@ -1125,7 +1128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to grow your sales AI and automation mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/continuing-to-grow-your-sales-ai-and-automation-mindset?u=76281980)
@@ -1154,6 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Automation]] (2), [[LinkedIn]] (2), data (1), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - remember (1)

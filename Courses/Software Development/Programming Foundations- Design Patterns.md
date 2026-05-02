@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Design%20Patterns.md)
@@ -40,67 +40,67 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Don't reinvent the wheel
-  - What you should know
+  - [Don't reinvent the wheel](#dont-reinvent-the-wheel)
+  - [What you should know](#what-you-should-know)
 - [**1. Design Patterns**](#1-design-patterns) (3 videos)
-  - Object-oriented design experience
-  - What are design patterns?
-  - What are design principles?
+  - [Object-oriented design experience](#object-oriented-design-experience)
+  - [What are design patterns?](#what-are-design-patterns)
+  - [What are design principles?](#what-are-design-principles)
 - [**2. The Strategy Pattern**](#2-the-strategy-pattern) (10 videos)
-  - Revisiting inheritance
-  - Limitations of inheritance
-  - Trying interfaces
-  - Get inspiration from design principles
-  - Programming to an interface
-  - Applying the principles
-  - Exploring the strategy pattern
-  - Why HAS-A is better than IS-A
-  - Challenge: The Strategy pattern
-  - Solution: The Strategy pattern
+  - [Revisiting inheritance](#revisiting-inheritance)
+  - [Limitations of inheritance](#limitations-of-inheritance)
+  - [Trying interfaces](#trying-interfaces)
+  - [Get inspiration from design principles](#get-inspiration-from-design-principles)
+  - [Programming to an interface](#programming-to-an-interface)
+  - [Applying the principles](#applying-the-principles)
+  - [Exploring the strategy pattern](#exploring-the-strategy-pattern)
+  - [Why HAS-A is better than IS-A](#why-has-a-is-better-than-is-a)
+  - [Challenge: The Strategy pattern](#challenge-the-strategy-pattern)
+  - [Solution: The Strategy pattern](#solution-the-strategy-pattern)
 - [**3. The Adapter Pattern**](#3-the-adapter-pattern) (5 videos)
-  - Understanding the adapter pattern
-  - The Adapter pattern defined
-  - Using the Adapter pattern
-  - Challenge: The Adapter pattern
-  - Solution: The Adapter pattern
+  - [Understanding the adapter pattern](#understanding-the-adapter-pattern)
+  - [The Adapter pattern defined](#the-adapter-pattern-defined)
+  - [Using the Adapter pattern](#using-the-adapter-pattern)
+  - [Challenge: The Adapter pattern](#challenge-the-adapter-pattern)
+  - [Solution: The Adapter pattern](#solution-the-adapter-pattern)
 - [**4. The Observer Pattern**](#4-the-observer-pattern) (6 videos)
-  - Understanding the Observer pattern
-  - The Observer pattern defined
-  - Using the Observer pattern
-  - The Observer pattern and loose coupling
-  - Challenge: The Observer pattern
-  - Solution: The Observer pattern
+  - [Understanding the Observer pattern](#understanding-the-observer-pattern)
+  - [The Observer pattern defined](#the-observer-pattern-defined)
+  - [Using the Observer pattern](#using-the-observer-pattern)
+  - [The Observer pattern and loose coupling](#the-observer-pattern-and-loose-coupling)
+  - [Challenge: The Observer pattern](#challenge-the-observer-pattern)
+  - [Solution: The Observer pattern](#solution-the-observer-pattern)
 - [**5. The Decorator Pattern**](#5-the-decorator-pattern) (7 videos)
-  - Creating chaos with inheritance
-  - Understanding the open-closed principle
-  - Extending behavior with composition
-  - Understanding the decorator pattern
-  - Using the Decorator pattern
-  - Challenge: The Decorator pattern
-  - Solution: The Decorator pattern
+  - [Creating chaos with inheritance](#creating-chaos-with-inheritance)
+  - [Understanding the open-closed principle](#understanding-the-open-closed-principle)
+  - [Extending behavior with composition](#extending-behavior-with-composition)
+  - [Understanding the decorator pattern](#understanding-the-decorator-pattern)
+  - [Using the Decorator pattern](#using-the-decorator-pattern)
+  - [Challenge: The Decorator pattern](#challenge-the-decorator-pattern)
+  - [Solution: The Decorator pattern](#solution-the-decorator-pattern)
 - [**6. The Iterator Pattern**](#6-the-iterator-pattern) (8 videos)
-  - Encapsulating iteration
-  - Understanding the Iterator pattern
-  - Using the Iterator pattern
-  - Using built-in iterators
-  - The single responsibility principle
-  - The iterator pattern as language feature
-  - Challenge: The Iterator pattern
-  - Solution: The Iterator pattern
+  - [Encapsulating iteration](#encapsulating-iteration)
+  - [Understanding the Iterator pattern](#understanding-the-iterator-pattern)
+  - [Using the Iterator pattern](#using-the-iterator-pattern)
+  - [Using built-in iterators](#using-built-in-iterators)
+  - [The single responsibility principle](#the-single-responsibility-principle)
+  - [The iterator pattern as language feature](#the-iterator-pattern-as-language-feature)
+  - [Challenge: The Iterator pattern](#challenge-the-iterator-pattern)
+  - [Solution: The Iterator pattern](#solution-the-iterator-pattern)
 - [**7. The Factory Patterns**](#7-the-factory-patterns) (5 videos)
-  - The need for factory patterns
-  - The Factory Method pattern
-  - Using the Factory Method pattern
-  - Challenge: The simple Factory pattern
-  - Solution: The simple Factory pattern
+  - [The need for factory patterns](#the-need-for-factory-patterns)
+  - [The Factory Method pattern](#the-factory-method-pattern)
+  - [Using the Factory Method pattern](#using-the-factory-method-pattern)
+  - [Challenge: The simple Factory pattern](#challenge-the-simple-factory-pattern)
+  - [Solution: The simple Factory pattern](#solution-the-simple-factory-pattern)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Applying patterns
-  - Where to go from here
+  - [Applying patterns](#applying-patterns)
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Don't reinvent the wheel
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980)
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (5)
 > **Speakers:** - object (1), - design (1), - hi (1), - and (1)
 > **Analogies:** similar to (1)
 
@@ -159,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Speakers:** - to (1), - you (1), - we (1), - this (1)
 > **Env Vars:** ide (2), uml (1)
 > **CLI Commands:** python (1)
@@ -167,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented design experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980)
@@ -228,6 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1), [[Software Design]] (1), [[Programming]] (1)
 > **Speakers:** - object (1), - no (1), - we (1), - design (1), - so (1)
 > **CLI Commands:** make (2), rails (1)
 > **Prerequisites:** you'll need (2)
@@ -286,8 +289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Algorithms]] (1), [[Software Design]] (1), [[Banking]] (1), game (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** abstract (1)
 > **Exercise Files:** sample code (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -343,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -351,7 +354,7 @@ created: 2026-04-29
 
 ### 2. The Strategy Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Revisiting inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980)
@@ -390,9 +393,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **CLI Commands:** cat (2), make (1)
-> **Code Keywords:** class. (1), case, (1), from. (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - inheritance (1)
 
@@ -491,7 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), abstract (3), override (2), type, (1), this. (1)
+> **Frameworks & Libraries:** feature (2), application (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is an  (1)
@@ -543,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), type. (2), implements (2), abstract (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Simulation]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -639,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), interface (2), super (2), type. (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Design Patterns]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is an  (1)
@@ -687,7 +690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), class. (2)
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** sample code (1)
@@ -793,8 +796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[Java]] (1)
 > **Code Identifiers:** flybehavior (6), quackbehavior (6), performfly (4), performquack (4)
-> **Code Keywords:** let (4), interface (4), implements (2), abstract (2), class, (1)
 > **Exercise Files:** sample code (3), download the (1), exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -836,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3)
 > **Env Vars:** hasa (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -896,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
@@ -941,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), class, (1), class. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -968,7 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (energetic music) (1)
@@ -976,7 +979,7 @@ created: 2026-04-29
 
 ### 3. The Adapter Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980)
@@ -1017,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), case. (2), class. (2), abstract (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - we (1)
 
@@ -1072,7 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (10), let (4), implements (1), class. (1), case, (1)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1163,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (18), pass (6), implements (5), let (2), class, (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1193,7 +1196,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), class. (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
@@ -1239,7 +1241,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), implements (2), case, (1), pass (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (electronic music) (1)
@@ -1247,7 +1248,7 @@ created: 2026-04-29
 
 ### 4. The Observer Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-observer-pattern?u=76281980)
@@ -1304,8 +1305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 
@@ -1352,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (5)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** analogous to (1)
 > **Speakers:** - thinking (1)
@@ -1412,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (2), implements (2), case, (1), type. (1)
+> **Frameworks & Libraries:** data (4), [[Java]] (1)
 > **Code Identifiers:** registerobserver (3), removeobserver (2), notifyobservers (2), setvalue (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1456,7 +1457,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), implements (2), let (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1485,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** data (3), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -1512,14 +1512,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), implements (1)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
 
 ### 5. The Decorator Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating chaos with inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/creating-chaos-with-inheritance?u=76281980)
@@ -1614,7 +1614,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), class. (1), try. (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)
@@ -1680,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (1)
+> **Frameworks & Libraries:** next (1), [[Design Patterns]] (1), power (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
@@ -1756,7 +1755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), case, (1)
+> **Frameworks & Libraries:** next (3), [[Jetpack Compose|Compose]] (2)
 > **Versions:** 0.99 (1), 0.20 (1), 0.10 (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -1804,7 +1803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), let (1), class. (1), interface (1), class, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -1925,7 +1924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), super (4), abstract (4), let (4), extends (3)
+> **Frameworks & Libraries:** next (2)
 > **Versions:** 1.09 (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
@@ -1950,7 +1949,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
@@ -1986,7 +1984,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (3), class. (3), extends (1), pass (1)
 > **Code Identifiers:** getdescription (2)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
@@ -1996,7 +1993,7 @@ created: 2026-04-29
 
 ### 6. The Iterator Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Encapsulating iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980)
@@ -2041,7 +2038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2)
+> **Frameworks & Libraries:** [[Java]] (2), data (1), [[Programming]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -2131,7 +2128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2), type, (2), this, (2), for, (2)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Definitions:** means that (2), is an  (2), in other words (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2195,7 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (12), implements (4), let (2), pass (1)
+> **Frameworks & Libraries:** next (7), api (1)
 > **Code Identifiers:** hasnext (5)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -2228,7 +2225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2273,7 +2270,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (1), class. (1)
 > **CLI Commands:** find (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
@@ -2305,6 +2301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[Python (Programming Language)|Python]] (2), [[JavaScript]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is an  (1)
@@ -2338,6 +2335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (energetic music) (1)
@@ -2359,14 +2357,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Programming]] (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 7. The Factory Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for factory patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980)
@@ -2461,7 +2459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (4), type, (3), implements (2), require (1)
+> **Frameworks & Libraries:** product (2), [[Programming]] (1), application (1), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), is an  (1), we call this (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
@@ -2538,7 +2536,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), abstract (3), case, (2), interface (1), class. (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** orderpizza (1), createpizza (1)
 > **Speakers:** - [instructor] (1)
@@ -2597,7 +2594,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** createpizza (9), orderpizza (6)
-> **Code Keywords:** let (2), abstract (1), class, (1), pass (1), type. (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -2627,7 +2623,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1)
 > **Code Identifiers:** displayname (1), createzone (1)
 > **Env Vars:** gmt (1)
 > **Speakers:** - [instructor] (1)
@@ -2660,19 +2655,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), class. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980)
@@ -2725,8 +2719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - after (1), - so (1), - remember (1), - as (1)
-> **Code Keywords:** match. (1), match, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -2763,9 +2757,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (8), [[Search]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [elisabeth] (1)
 
 

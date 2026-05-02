@@ -31,7 +31,7 @@ tags:
   - skill/mysql
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%201%20The%20Basics.md)
@@ -50,76 +50,76 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - PHP with MySQL Essential Training: The Basics
-  - How to use the exercise files
+  - [PHP with MySQL Essential Training: The Basics](#php-with-mysql-essential-training-the-basics)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Start a Database-Driven Project**](#1-start-a-database-driven-project) (5 videos)
-  - Blueprint the application
-  - Establish your work area
-  - Create and style the first page
-  - Include and require files
-  - Make page assets reusable
+  - [Blueprint the application](#blueprint-the-application)
+  - [Establish your work area](#establish-your-work-area)
+  - [Create and style the first page](#create-and-style-the-first-page)
+  - [Include and require files](#include-and-require-files)
+  - [Make page assets reusable](#make-page-assets-reusable)
 - [**2. Build Web Pages with PHP**](#2-build-web-pages-with-php) (7 videos)
-  - Links and URLs
-  - Use URL parameters
-  - Default values for URL parameters
-  - Encode URL parameters
-  - Encode for HTML
-  - Challenge: Add pages
-  - Solution: Add pages
+  - [Links and URLs](#links-and-urls)
+  - [Use URL parameters](#use-url-parameters)
+  - [Default values for URL parameters](#default-values-for-url-parameters)
+  - [Encode URL parameters](#encode-url-parameters)
+  - [Encode for HTML](#encode-for-html)
+  - [Challenge: Add pages](#challenge-add-pages)
+  - [Solution: Add pages](#solution-add-pages)
 - [**3. Headers and Redirects**](#3-headers-and-redirects) (3 videos)
-  - Modify headers
-  - Page redirection
-  - Output buffering
+  - [Modify headers](#modify-headers)
+  - [Page redirection](#page-redirection)
+  - [Output buffering](#output-buffering)
 - [**4. Build Forms with PHP**](#4-build-forms-with-php) (6 videos)
-  - Build forms
-  - Use form parameters
-  - Detect form submission
-  - Single-page form processing
-  - Challenge: Add forms
-  - Solution: Add forms
+  - [Build forms](#build-forms)
+  - [Use form parameters](#use-form-parameters)
+  - [Detect form submission](#detect-form-submission)
+  - [Single-page form processing](#single-page-form-processing)
+  - [Challenge: Add forms](#challenge-add-forms)
+  - [Solution: Add forms](#solution-add-forms)
 - [**5. MySQL Basics**](#5-mysql-basics) (8 videos)
-  - MySQL introduction
-  - Create a database
-  - Create a database table
-  - CRUD in MySQL
-  - Populate a MySQL table
-  - Relational database tables
-  - Challenge: Pages table
-  - Solution: Pages table
+  - [MySQL introduction](#mysql-introduction)
+  - [Create a database](#create-a-database)
+  - [Create a database table](#create-a-database-table)
+  - [CRUD in MySQL](#crud-in-mysql)
+  - [Populate a MySQL table](#populate-a-mysql-table)
+  - [Relational database tables](#relational-database-tables)
+  - [Challenge: Pages table](#challenge-pages-table)
+  - [Solution: Pages table](#solution-pages-table)
 - [**6. Use PHP to Access MySQL**](#6-use-php-to-access-mysql) (7 videos)
-  - Database APIs in PHP
-  - Connect to MySQL with PHP
-  - Retrieve data
-  - Work with retrieved data
-  - Error handling
-  - Challenge: List pages
-  - Solution: List pages
+  - [Database APIs in PHP](#database-apis-in-php)
+  - [Connect to MySQL with PHP](#connect-to-mysql-with-php)
+  - [Retrieve data](#retrieve-data)
+  - [Work with retrieved data](#work-with-retrieved-data)
+  - [Error handling](#error-handling)
+  - [Challenge: List pages](#challenge-list-pages)
+  - [Solution: List pages](#solution-list-pages)
 - [**7. CRUD with PHP**](#7-crud-with-php) (7 videos)
-  - Find a single record
-  - Use form data to create records
-  - Use form data to update records
-  - Form options from database data
-  - Delete a record
-  - Challenge: Pages CRUD
-  - Solution: Pages CRUD
+  - [Find a single record](#find-a-single-record)
+  - [Use form data to create records](#use-form-data-to-create-records)
+  - [Use form data to update records](#use-form-data-to-update-records)
+  - [Form options from database data](#form-options-from-database-data)
+  - [Delete a record](#delete-a-record)
+  - [Challenge: Pages CRUD](#challenge-pages-crud)
+  - [Solution: Pages CRUD](#solution-pages-crud)
 - [**8. Validate Data with PHP**](#8-validate-data-with-php) (6 videos)
-  - Common data validation types
-  - Validate form values
-  - Display validation errors
-  - Problems with validation logic
-  - Challenge: Validations
-  - Solution: Validations
+  - [Common data validation types](#common-data-validation-types)
+  - [Validate form values](#validate-form-values)
+  - [Display validation errors](#display-validation-errors)
+  - [Problems with validation logic](#problems-with-validation-logic)
+  - [Challenge: Validations](#challenge-validations)
+  - [Solution: Validations](#solution-validations)
 - [**9. Prevent SQL Injection**](#9-prevent-sql-injection) (4 videos)
-  - Understand SQL injection
-  - Sanitize data for SQL
-  - Delimit data values
-  - Prepared statements
+  - [Understand SQL injection](#understand-sql-injection)
+  - [Sanitize data for SQL](#sanitize-data-for-sql)
+  - [Delimit data values](#delimit-data-values)
+  - [Prepared statements](#prepared-statements)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PHP with MySQL Essential Training: The Basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980)
@@ -148,9 +148,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[PHP]] (3), [[MySQL]] (3), data (3), [[Scripting]] (1)
 > **CLI Commands:** php (3), mysql (3)
 > **Env Vars:** php (3), url (1)
-> **Code Keywords:** delete (1), let (1)
 > **Speakers:** - [kevin] (1)
 
 #### How to use the exercise files
@@ -208,10 +208,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[MySQL]] (4), data (4), [[PHP]] (2), web (2)
 > **CLI Commands:** make (4), mysql (4), php (2), find (2)
 > **Exercise Files:** exercise files (10), exercise file (1)
 > **Env Vars:** php (2), mysql (1)
-> **Code Keywords:** return, (1)
 > **Tools:** command line (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Start a Database-Driven Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blueprint the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980)
@@ -375,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), let (4), delete (2), private (1), case, (1)
+> **Frameworks & Libraries:** database (9), [[Content Management]] (4), application (2), cms (2), web (2)
 > **Env Vars:** cms (2), php (2), html (1)
 > **CLI Commands:** php (2), make (1)
 > **UI Navigation:** click on (2)
@@ -510,7 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (19), let (8), private (5), this. (1), function (1)
+> **Frameworks & Libraries:** [[PHP]] (22), web (10), application (1), [[HTML]] (1), next (1)
 > **CLI Commands:** php (22), make (2)
 > **File Paths:** index.php (9), initialize.php (1), functions.php (1), list.php (1), dot.php (1)
 > **Code Identifiers:** globe_bank (1), page_edit (1), page_delete (1), page_list (1), page_new (1)
@@ -776,7 +776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), public (11), this. (2), else. (1), default. (1)
+> **Frameworks & Libraries:** [[PHP]] (23), web (6), css (4), [[HTML]] (3), [[MySQL]] (1)
 > **CLI Commands:** php (23), make (9), mysql (1)
 > **Env Vars:** php (12), html5 (3), html (3), url (3), gbi (3)
 > **File Paths:** index.php (9), staff.css (3), indexed.php (1), sheets/staff.css (1)
@@ -998,7 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), require (9), function (8), private (3), include, (2)
+> **Frameworks & Libraries:** [[PHP]] (30), feature (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Forms]] (2)
 > **CLI Commands:** php (30), make (4), find (3)
 > **File Paths:** initialize.php (6), functions.php (5), staff_header.php (2), index.php (2), footer.php (1)
 > **Env Vars:** php (13), html (2), url (2)
@@ -1174,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), private (4), require (3), this, (2), for. (1)
+> **Frameworks & Libraries:** [[PHP]] (17), [[HTML]] (1), next (1)
 > **CLI Commands:** php (17), make (6), find (5)
 > **Env Vars:** php (3), private_path (3), project_path (3), shared_path (2), gbi (1)
 > **File Paths:** index.php (6), initiali.php (1), staff_header.php (1), initializ.php (1), initialize.php (1)
@@ -1186,7 +1186,7 @@ created: 2026-04-29
 
 ### 2. Build Web Pages with PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Links and URLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980)
@@ -1429,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), function (4), public (2), case, (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (26), [[HTML]] (7), web (4), [[Microsoft Word|Word]] (3), css (2)
 > **Env Vars:** php (10), url (8), html (7), www_root (6), shared_path (2)
 > **CLI Commands:** php (26), make (3), find (1)
 > **File Paths:** index.php (10), localhost/subjects/index.php (1), staff/subjects/index.php (1), stylesheets/staff.css (1), initialize.php (1)
@@ -1661,7 +1661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), super (9), pass (2), type, (1), function (1)
+> **Frameworks & Libraries:** [[PHP]] (8), database (8), next (5), data (5), [[Databases]] (2)
 > **Env Vars:** url (10), php (7), http (1), post (1)
 > **CLI Commands:** php (8), make (3)
 > **API Endpoints:** get
@@ -1815,8 +1815,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (12), hit (1)
 > **CLI Commands:** php (12), make (4), find (1)
-> **Code Keywords:** let (10), super (1), raise (1), function (1), this, (1)
 > **Env Vars:** php (12), url (4)
 > **Versions:** php 7 (5), 7.0 (1)
 > **UI Navigation:** click on (3)
@@ -2049,8 +2049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (11), data (5), [[Search]] (3), web (2), [[HTML]] (1)
 > **Env Vars:** url (15), php (11), html (1), doe (1)
-> **Code Keywords:** let (16), function (4), case, (2), require (1), for. (1)
 > **CLI Commands:** php (11), make (6), find (1)
 > **UI Navigation:** go to (3), click on (2)
 > **API Endpoints:** get
@@ -2246,8 +2246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (24), [[JavaScript]] (15), data (7), [[PHP]] (4), [[Scripting]] (4)
 > **Env Vars:** html (24), php (4), url (1), xss (1)
-> **Code Keywords:** let (15), function (3), for. (1), for, (1), this, (1)
 > **CLI Commands:** php (4), make (3)
 > **Warnings:** watch out (4), gotcha (2)
 > **UI Navigation:** go to (3), click on (2)
@@ -2342,10 +2342,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (4), data (4), web (1), [[Content Management]] (1)
 > **CLI Commands:** make (9), php (7)
 > **Env Vars:** html (4), url (4), php (2)
 > **File Paths:** staff/index.php (1), staff/pages/index.php (1), subjects/index.php (1), staff/pages/show.php (1), show.php (1)
-> **Code Keywords:** let (1), this, (1), include, (1), require (1), for. (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2528,9 +2528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (15), [[PHP]] (7), data (5), database (4), leadership (1)
 > **Env Vars:** html (15), url (8), php (7), php7 (1)
 > **CLI Commands:** make (12), php (7)
-> **Code Keywords:** let (4), public (1), require (1), case, (1), super (1)
 > **File Paths:** pagesindex.php (2), staffpagesindex.php (1), index.php (1), initialize.php (1), show.php (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (2)
@@ -2540,7 +2540,7 @@ created: 2026-04-29
 
 ### 3. Headers and Redirects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify headers
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980)
@@ -2739,9 +2739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (20), web (7), data (7), [[HTML]] (3), next (2)
 > **Env Vars:** php (20), http (7), html (3), url (2), pdf (1)
 > **CLI Commands:** php (20), make (5), curl (2)
-> **Code Keywords:** let (13), function (4), new. (4), return. (2)
 > **File Paths:** new.php (4), index.php (2), functions.php (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is called (1), means that (1)
@@ -2921,7 +2921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), new. (6), function (4), for. (2), for, (2)
+> **Frameworks & Libraries:** [[PHP]] (17), data (7), web (5), [[HTML]] (3), [[E-Commerce]] (1)
 > **CLI Commands:** php (17), make (9), find (2)
 > **Env Vars:** url (8), php (3), html (3), http (1), httml (1)
 > **File Paths:** new.php (6), index.php (5), old.php (2), function.php (1)
@@ -3089,10 +3089,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (19), web (12), data (8), [[Search]] (2), [[HTML]] (1)
 > **CLI Commands:** php (19), make (3), find (1)
 > **Env Vars:** php (14), html (1)
 > **Code Identifiers:** ob_start (6), ob_end_flush (3), output_buffering (2), my_phpinfo (1), output_buffer (1)
-> **Code Keywords:** let (5), function (2), default. (1), return, (1)
 > **File Paths:** php.ini (3), my_phpinfo.php (1), initialize.php (1)
 > **Tools:** firefox (2), terminal (1), command line (1)
 > **Definitions:** is a  (3), means that (1)
@@ -3101,7 +3101,7 @@ created: 2026-04-29
 
 ### 4. Build Forms with PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980)
@@ -3344,7 +3344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), new. (4), case, (1), for, (1), for. (1)
+> **Frameworks & Libraries:** data (20), [[PHP]] (11), [[Forms]] (8), database (8), [[HTML]] (4)
 > **CLI Commands:** php (11), make (4), find (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (3), checkbox (2)
 > **Env Vars:** html (4), php (3), url (3), http (1)
@@ -3478,8 +3478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (12), [[Forms]] (4), data (2), [[HTML]] (1), database (1)
 > **CLI Commands:** php (12), make (4), find (2)
-> **Code Keywords:** super (8), let (7), new. (1), function (1), else. (1)
 > **Env Vars:** php (6), url (5), html (1)
 > **File Paths:** create.php (4), new.php (1), staff/subjects/create.php (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -3628,7 +3628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (5), new. (3), case. (2), super (2)
+> **Frameworks & Libraries:** [[PHP]] (11), data (9), hit (2)
 > **Env Vars:** post (11), url (3), server (1)
 > **CLI Commands:** php (11), make (2), find (1)
 > **API Endpoints:** post  (8), get  (4)
@@ -3838,7 +3838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), self (1), for, (1), pass (1), case, (1)
+> **Frameworks & Libraries:** [[PHP]] (8), data (1), [[HTML]] (1), business (1)
 > **CLI Commands:** php (8), make (6)
 > **File Paths:** create.php (3), edit.php (2), index.php (1), new.php (1)
 > **Env Vars:** url (3), html (1)
@@ -3904,9 +3904,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), management (2), [[Forms]] (2), hit (1), database (1)
 > **CLI Commands:** php (5), make (2)
 > **File Paths:** staff/pages/new.php (1), pages/index.php (1), edit.php (1), create.php (1)
-> **Code Keywords:** let (1), new. (1), require (1)
 > **Env Vars:** php (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -4060,8 +4060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (13), database (4), [[HTML]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (13), make (3)
-> **Code Keywords:** new. (7), let (6), case, (1)
 > **File Paths:** new.php (7), edit.php (3), index.php (2), create.php (1)
 > **UI Navigation:** click on (3), checkbox (1)
 > **Env Vars:** html (2), url (1)
@@ -4072,7 +4072,7 @@ created: 2026-04-29
 
 ### 5. MySQL Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MySQL introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980)
@@ -4245,8 +4245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), data (14), [[Databases]] (9), [[PHP]] (4), [[MySQL]] (4)
 > **CLI Commands:** php (4), mysql (4), find (2), make (1)
-> **Code Keywords:** let (2), type. (2), delete (2), switch (1), abstract (1)
 > **Analogies:** for example (4), similar to (3), just like (1)
 > **Env Vars:** php (4)
 > **Definitions:** is a  (3)
@@ -4395,9 +4395,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (34), [[MySQL]] (20), [[Databases]] (10), hit (4), [[Security]] (2)
 > **Env Vars:** database (5), show (4), databases (4), drop (3), create (2)
 > **CLI Commands:** mysql (20), make (3)
-> **Code Keywords:** let (5), default. (2), switch (2), return, (1), default, (1)
 > **Code Identifiers:** globe_bank (3), db_name (2)
 > **Tools:** terminal (2), command line (1), command prompt (1)
 > **Best Practices:** best practice (2)
@@ -4579,9 +4579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), [[MySQL]] (8), [[Databases]] (3), data (2), next (2)
 > **Env Vars:** show (8), tables (6), table (3), create (2), tinyint (2)
 > **CLI Commands:** mysql (8), make (5), find (1)
-> **Code Keywords:** this. (2), let (2), public (1), this: (1), from. (1)
 > **Code Identifiers:** menu_name (4), globe_bank (2), auto_increment (1)
 > **SQL:** create table (2), varchar (1), drop table (1)
 > **Definitions:** is a  (3), short for (1)
@@ -4701,7 +4701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), case, (2), let (1), from. (1)
+> **Frameworks & Libraries:** [[MySQL]] (4), data (4), next (4), [[SQL]] (4), database (3)
 > **Env Vars:** sql (4), crud (3)
 > **CLI Commands:** mysql (4)
 > **Cross-References:** in the next (3)
@@ -4897,7 +4897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), delete (5), return. (3)
+> **Frameworks & Libraries:** hit (8), [[MySQL]] (6), database (6), data (3), next (3)
 > **CLI Commands:** mysql (6), make (4), find (2)
 > **Definitions:** means that (1), is a  (1)
 > **Best Practices:** good practice (2)
@@ -5004,9 +5004,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[MySQL]] (3), database (2), [[SQL]] (1)
 > **CLI Commands:** make (4), mysql (3), find (1)
 > **Env Vars:** sql (1), alter (1), table (1), add (1), index (1)
-> **Code Keywords:** let (2), this. (1), this: (1)
 > **Analogies:** imagine (3)
 > **Code Identifiers:** subject_name (1), subject_id (1)
 > **SQL:** alter table (1), index (1)
@@ -5124,8 +5124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (8), data (4), database (4), [[SQL]] (3), hit (1)
 > **CLI Commands:** mysql (8), make (7), find (2)
-> **Code Keywords:** let (2), type, (1), delete (1)
 > **Env Vars:** sql (3), crud (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Code Identifiers:** globe_bank (1)
@@ -5270,8 +5270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[MySQL]] (3), hit (2), leadership (2), application (1)
 > **CLI Commands:** make (4), mysql (3), find (3)
-> **Code Keywords:** let (5), return, (1), type, (1), delete (1)
 > **Env Vars:** varchar (1), int (1), tinyint (1), text (1)
 > **Tools:** command line (2), command prompt (1), terminal (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -5282,7 +5282,7 @@ created: 2026-04-29
 
 ### 6. Use PHP to Access MySQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Database APIs in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980)
@@ -5393,9 +5393,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (12), [[PHP]] (8), api (6), database (5), [[Programming]] (4)
 > **CLI Commands:** mysql (12), php (8), make (1), find (1)
 > **Env Vars:** php (8), api (6), pdo (6), mysqli (1)
-> **Code Keywords:** interface (5), switch (3), let (2), new, (1)
 > **Definitions:** stands for (2), is an  (1), basically means (1), is a  (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** such as (1)
@@ -5582,7 +5582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), pass (5), require (3), private (1)
+> **Frameworks & Libraries:** database (27), [[PHP]] (13), [[MySQL]] (6), data (4), api (2)
 > **CLI Commands:** php (13), make (8), mysql (6)
 > **Env Vars:** php (9), api (2)
 > **Code Identifiers:** mysqli_connect (3), db_connect (3), db_disconnect (2), mysqli_close (1), globe_bank (1)
@@ -5812,7 +5812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (7), pass (3), delete (2), else. (2)
+> **Frameworks & Libraries:** database (15), [[PHP]] (10), [[SQL]] (8), data (7), [[MySQL]] (6)
 > **Env Vars:** sql (7), php (6), select (5), api (2), create (2)
 > **CLI Commands:** php (10), mysql (6), make (6), find (3)
 > **Code Identifiers:** mysqli_query (5), mysqli_free_result (2), query_functions (2), find_all_subjects (2), mysql_free_result (1)
@@ -5938,7 +5938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (3), function (2), while, (2), default, (1)
+> **Frameworks & Libraries:** database (8), data (6), [[Fetch]] (5), next (4), [[PHP]] (2)
 > **CLI Commands:** find (6), php (2), make (2), mysql (1)
 > **Code Identifiers:** mysqli_fetch_array (3), fetch_row (2), mysqli_fetch_row (1), mysqli_fetch_assoc (1), mysqli_num_rows (1)
 > **Env Vars:** php (2), sql (1)
@@ -6136,7 +6136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (5), this. (2), pass (2), this, (1)
+> **Frameworks & Libraries:** database (14), [[SQL]] (5), data (4), [[PHP]] (3), api (1)
 > **Code Identifiers:** mysqli_connect_error (3), confirm_db_connect (3), confirm_result_set (3), mysqli_connect_errno (2), mysqli_query (1)
 > **CLI Commands:** make (6), php (3), find (2)
 > **Env Vars:** sql (3), api (1), select (1)
@@ -6196,8 +6196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), database (4), data (2), next (2), hit (1)
 > **CLI Commands:** make (5), php (5), find (2), mysql (1)
-> **Code Keywords:** let (1), function (1), private (1), finally, (1)
 > **File Paths:** initialize.php (1), index.php (1), query_functions.php (1)
 > **Env Vars:** php (2)
 > **Code Identifiers:** query_functions (1)
@@ -6322,8 +6322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[SQL]] (6), [[PHP]] (5), [[Representational State Transfer (REST)|Rest]] (2), application (1)
 > **CLI Commands:** make (8), php (5), find (4)
-> **Code Keywords:** function (8), let (4), pass (3)
 > **Env Vars:** sql (5), order (2), asc (2), select (1)
 > **File Paths:** initialize.php (2), functions.php (1), index.php (1)
 > **SQL:** order by (2), select (1)
@@ -6334,7 +6334,7 @@ created: 2026-04-29
 
 ### 7. CRUD with PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Find a single record
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980)
@@ -6555,7 +6555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), pass (3), function (2), this. (2), this, (2)
+> **Frameworks & Libraries:** [[SQL]] (13), database (7), [[Fetch]] (4), data (3), business (3)
 > **CLI Commands:** find (12), make (7), php (2)
 > **Env Vars:** sql (13), php (2), crud (1), html (1)
 > **Code Identifiers:** mysqli_query (3), mysqli_fetch_assoc (1), mysqli_free_result (1)
@@ -6891,7 +6891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (36), function (8), pass (8), this, (3), new. (2)
+> **Frameworks & Libraries:** [[SQL]] (16), [[PHP]] (9), database (7), data (4), [[MySQL]] (2)
 > **Env Vars:** sql (16), php (9), html (1), url (1)
 > **CLI Commands:** php (9), find (6), make (6), mysql (2)
 > **File Paths:** create.php (4), show.php (3), new.php (2)
@@ -7095,7 +7095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (38), this, (5), function (4), pass (3), new. (2)
+> **Frameworks & Libraries:** database (15), [[PHP]] (11), data (7), [[SQL]] (6), [[MySQL]] (3)
 > **CLI Commands:** php (11), find (10), make (9), mysql (3)
 > **File Paths:** show.php (5), edit.php (3), new.php (2), create.php (1)
 > **Env Vars:** sql (6), where (1), url (1)
@@ -7327,7 +7327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), this, (2), function (2), pass (2), this. (2)
+> **Frameworks & Libraries:** database (8), data (3), [[PHP]] (3), [[SQL]] (2), [[Forms]] (1)
 > **CLI Commands:** find (6), make (6), php (3)
 > **UI Navigation:** click on (3), go to (2)
 > **File Paths:** edit.php (1), new.php (1), create.php (1)
@@ -7609,7 +7609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (45), let (19), pass (6), require (2), function (2)
+> **Frameworks & Libraries:** [[PHP]] (7), [[SQL]] (7), database (6), [[Search]] (4), data (1)
 > **CLI Commands:** make (10), php (7), find (6)
 > **Env Vars:** sql (7), crud (4), php (2), url (1)
 > **UI Navigation:** click on (5), scroll down (1)
@@ -7681,9 +7681,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), database (6), next (2), data (2), hit (1)
 > **CLI Commands:** php (9), make (5), find (3)
 > **File Paths:** new.php (3), index.php (2), show.php (2), edit.php (2)
-> **Code Keywords:** new. (3), delete (2), let (1), finally, (1), require (1)
 > **Code Identifiers:** subject_id (3), page_id (1)
 > **Env Vars:** crud (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -7915,8 +7915,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (15), [[MySQL]] (4), database (2), [[Forms]] (2), management (1)
 > **CLI Commands:** php (15), find (12), make (8), mysql (4)
-> **Code Keywords:** delete (11), pass (7), let (5), new. (3), function (2)
 > **File Paths:** index.php (5), delete.php (4), new.php (3), queryfunctions.php (1), show.php (1)
 > **Env Vars:** crud (2), sql (1), html (1)
 > **Analogies:** just like (3), similar to (1)
@@ -7927,7 +7927,7 @@ created: 2026-04-29
 
 ### 8. Validate Data with PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common data validation types
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980)
@@ -8160,7 +8160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4), function (3), require (2), private (1)
+> **Frameworks & Libraries:** data (16), [[PHP]] (9), next (4), [[Forms]] (2), database (2)
 > **Code Identifiers:** preg_match (4), is_blank (3), has_inclusion_of (2), in_array (2), validation_functions (1)
 > **CLI Commands:** php (9), make (4), find (2)
 > **Definitions:** is a  (7), means that (2), stands for (2), is called (1), is an  (1)
@@ -8388,7 +8388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (11), case, (2), pass (2), default, (2)
+> **Frameworks & Libraries:** data (11), database (5), next (3), hit (3), [[SQL]] (2)
 > **Code Identifiers:** update_subject (6), validate_subject (5), menu_name (3), has_inclusion_of (2), var_dump (1)
 > **CLI Commands:** make (6), find (3), php (1)
 > **File Paths:** edit.php (1)
@@ -8676,7 +8676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (34), new. (5), function (2), pass (2), switch (2)
+> **Frameworks & Libraries:** [[PHP]] (18), [[HTML]] (6), data (4), database (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** php (18), make (5), find (3)
 > **Env Vars:** html (6), php (6), css (1)
 > **File Paths:** new.php (5), create.php (4), edit.php (3)
@@ -8810,9 +8810,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (12), data (2), application (2)
 > **CLI Commands:** php (12), make (4), find (2)
 > **Env Vars:** php (12)
-> **Code Keywords:** function (4), else, (2), let (1), type. (1), match. (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** for example (2), just like (1)
 > **Warnings:** be careful (2), watch out (1)
@@ -8866,8 +8866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[PHP]] (2), database (2), [[Forms]] (1), [[SQL]] (1)
 > **CLI Commands:** make (6), php (2), find (1)
-> **Code Keywords:** function (2), pass (1), new. (1), require (1)
 > **File Paths:** new.php (1), edit.php (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** sql (1)
@@ -9076,8 +9076,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[PHP]] (4), [[MySQL]] (2), data (1), business (1)
 > **CLI Commands:** make (14), php (4), find (4), mysql (2)
-> **Code Keywords:** let (7), function (4), new. (2), case, (2), pass (2)
 > **Code Identifiers:** menu_name (4), current_id (4), insert_page (1), validate_page (1), has_unique (1)
 > **File Paths:** new.php (2), create.php (1), edit.php (1)
 > **UI Navigation:** go to (2)
@@ -9088,7 +9088,7 @@ created: 2026-04-29
 
 ### 9. Prevent SQL Injection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand SQL injection
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980)
@@ -9231,8 +9231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (25), data (15), [[Security]] (4), database (4), next (2)
 > **Env Vars:** sql (25), url (3), ires (1), owasp (1)
-> **Code Keywords:** this. (3), let (2), public (2), delete (1), break, (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), is called (1)
 > **Analogies:** imagine (3)
 > **CLI Commands:** find (1)
@@ -9539,7 +9539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (12), delete (2), super (1), this. (1)
+> **Frameworks & Libraries:** [[SQL]] (18), database (11), data (7), [[MySQL]] (4), [[PHP]] (3)
 > **Env Vars:** sql (18), url (2), php (2), where (2), html (1)
 > **CLI Commands:** make (6), mysql (4), find (4), php (3)
 > **Code Identifiers:** db_escape (8), mysqli_real_escape_string (6)
@@ -9645,8 +9645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (12), data (8), database (2), [[PHP]] (2), [[Security]] (1)
 > **Env Vars:** sql (12), php (2), url (1)
-> **Code Keywords:** let (5), this. (2), require (1), function (1), case. (1)
 > **CLI Commands:** php (2), mysql (1)
 > **Definitions:** means that (1)
 > **Best Practices:** best practice (1)
@@ -9747,9 +9747,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (5), [[MySQL]] (3), database (3), [[PHP]] (3)
 > **CLI Commands:** mysql (3), make (3), php (3)
 > **Env Vars:** sql (5), php (3)
-> **Code Keywords:** pass (4), let (1), case, (1)
 > **Exercise Files:** template (5)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -9758,7 +9758,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980)
@@ -9795,9 +9795,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), database (3), [[MySQL]] (2), [[Forms]] (1), data (1)
 > **Env Vars:** php (3), url (1), crud (1), html (1)
 > **CLI Commands:** php (3), mysql (2)
-> **Code Keywords:** public (2)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [kevin] (1)
 

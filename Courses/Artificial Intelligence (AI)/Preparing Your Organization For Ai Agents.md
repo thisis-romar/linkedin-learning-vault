@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Preparing%20Your%20Organization%20For%20Ai%20Agents.md)
@@ -52,23 +52,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Leading AI-driven change
-  - Introducing AI agents in your organization
+  - [Leading AI-driven change](#leading-ai-driven-change)
+  - [Introducing AI agents in your organization](#introducing-ai-agents-in-your-organization)
 - [**1. How AI Agents Will Change Business**](#1-how-ai-agents-will-change-business) (7 videos)
-  - Accelerating organizational change with AI agents
-  - How AI agents will optimize efficiency and productivity
-  - How AI agents will change leadership
-  - How AI agents will change customer service
-  - How AI agents will change HR
-  - How AI agents will change procurement
-  - How AI agents will change sales
+  - [Accelerating organizational change with AI agents](#accelerating-organizational-change-with-ai-agents)
+  - [How AI agents will optimize efficiency and productivity](#how-ai-agents-will-optimize-efficiency-and-productivity)
+  - [How AI agents will change leadership](#how-ai-agents-will-change-leadership)
+  - [How AI agents will change customer service](#how-ai-agents-will-change-customer-service)
+  - [How AI agents will change HR](#how-ai-agents-will-change-hr)
+  - [How AI agents will change procurement](#how-ai-agents-will-change-procurement)
+  - [How AI agents will change sales](#how-ai-agents-will-change-sales)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Preparing for a future with AI agents
-  - Where to go from here
+  - [Preparing for a future with AI agents](#preparing-for-a-future-with-ai-agents)
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading AI-driven change
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), next (1), [[Market Research]] (1), [[Automation]] (1), leadership (1)
 > **Speakers:** - get (1)
 
 #### Introducing AI agents in your organization
@@ -192,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new. (1)
+> **Frameworks & Libraries:** ai (6), business (5), next (4), teams (1), chatbot (1)
 > **Analogies:** just like (2), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - so (1)
@@ -200,7 +201,7 @@ created: 2026-04-29
 
 ### 1. How AI Agents Will Change Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerating organizational change with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980)
@@ -255,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (7), ai (4), [[Human Resources (HR)|Human resources]] (1), next (1), data (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - how (1)
 
@@ -314,6 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), business (3), next (2), data (1), teams (1)
 > **Speakers:** - so (1)
 
 #### How AI agents will change leadership
@@ -361,6 +363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), leadership (2), [[Microsoft Products|Products]] (2), data (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - which (1)
 
@@ -427,8 +430,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), product (5), [[Microsoft Products|Products]] (1), teams (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - ai (1)
 
@@ -481,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), require (1)
+> **Frameworks & Libraries:** ai (5), hr (5), next (1), [[Interviewing]] (1), data (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -536,8 +539,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), database (1), data (1), [[Agile Development|Agile]] (1), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
 
@@ -600,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), for. (1), while. (1)
+> **Frameworks & Libraries:** ai (5), product (5), teams (3), [[Microsoft Products|Products]] (3), business (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -609,7 +612,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for a future with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/preparing-for-a-future-with-ai-agents?u=76281980)
@@ -710,7 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), new, (1)
+> **Frameworks & Libraries:** ai (11), business (11), teams (6), power (1), management (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), imagine (1)
 > **Prerequisites:** set up (1)
@@ -743,6 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), business (6), next (2), leadership (2), teams (1)
 > **CLI Commands:** find (2)
 > **URLs:** [intelligence-briefing.com](https://intelligence-briefing.com) (1)
 > **Speakers:** - now (1)

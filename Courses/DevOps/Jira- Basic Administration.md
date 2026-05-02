@@ -31,7 +31,7 @@ tags:
   - skill/system-administration
   - skill/jira
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Basic%20Administration.md)
@@ -50,54 +50,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Basic administration in Jira
-  - Who is this course for?
-  - What do you need for this course?
+  - [Basic administration in Jira](#basic-administration-in-jira)
+  - [Who is this course for?](#who-is-this-course-for)
+  - [What do you need for this course?](#what-do-you-need-for-this-course)
 - [**1. What Is Jira and How Is It Used?**](#1-what-is-jira-and-how-is-it-used) (5 videos)
-  - What is Jira?
-  - How is Jira used?
-  - Which type of Jira do you have?
-  - Important terms and definitions
-  - Navigating the admin area
+  - [What is Jira?](#what-is-jira)
+  - [How is Jira used?](#how-is-jira-used)
+  - [Which type of Jira do you have?](#which-type-of-jira-do-you-have)
+  - [Important terms and definitions](#important-terms-and-definitions)
+  - [Navigating the admin area](#navigating-the-admin-area)
 - [**2. Admin Types and Responsibilities**](#2-admin-types-and-responsibilities) (3 videos)
-  - Types of Jira users
-  - Who does what?
-  - Utilizing global permissions
+  - [Types of Jira users](#types-of-jira-users)
+  - [Who does what?](#who-does-what)
+  - [Utilizing global permissions](#utilizing-global-permissions)
 - [**3. Setting Up a Test Environment**](#3-setting-up-a-test-environment) (2 videos)
-  - Choose a test environment
-  - Create a test environment
+  - [Choose a test environment](#choose-a-test-environment)
+  - [Create a test environment](#create-a-test-environment)
 - [**4. Managing Users**](#4-managing-users) (4 videos)
-  - How to manage users
-  - Leveraging groups and roles
-  - Challenge: Add a test user
-  - Solution
+  - [How to manage users](#how-to-manage-users)
+  - [Leveraging groups and roles](#leveraging-groups-and-roles)
+  - [Challenge: Add a test user](#challenge-add-a-test-user)
+  - [Solution](#solution)
 - [**5. Creating Jira Projects**](#5-creating-jira-projects) (4 videos)
-  - Types of Jira projects
-  - How to create a project
-  - Challenge: Create a test project
-  - Solution
+  - [Types of Jira projects](#types-of-jira-projects)
+  - [How to create a project](#how-to-create-a-project)
+  - [Challenge: Create a test project](#challenge-create-a-test-project)
+  - [Solution](#solution)
 - [**6. Creating Workflows**](#6-creating-workflows) (5 videos)
-  - Types of workflows
-  - Basic workflow concepts
-  - Using diagram and text mode
-  - Challenge: Create a workflow
-  - Solution
+  - [Types of workflows](#types-of-workflows)
+  - [Basic workflow concepts](#basic-workflow-concepts)
+  - [Using diagram and text mode](#using-diagram-and-text-mode)
+  - [Challenge: Create a workflow](#challenge-create-a-workflow)
+  - [Solution](#solution)
 - [**7. Troubleshooting Permission Problems**](#7-troubleshooting-permission-problems) (4 videos)
-  - Types of Jira permissions
-  - Using the Permission Helper
-  - Challenge: Determine the permission problem
-  - Solution
+  - [Types of Jira permissions](#types-of-jira-permissions)
+  - [Using the Permission Helper](#using-the-permission-helper)
+  - [Challenge: Determine the permission problem](#challenge-determine-the-permission-problem)
+  - [Solution](#solution)
 - [**8. Troubleshooting Missing Notifications**](#8-troubleshooting-missing-notifications) (4 videos)
-  - Types of Jira notifications
-  - Using the Notification Helper
-  - Challenge: Determine the notification problem
-  - Solution
+  - [Types of Jira notifications](#types-of-jira-notifications)
+  - [Using the Notification Helper](#using-the-notification-helper)
+  - [Challenge: Determine the notification problem](#challenge-determine-the-notification-problem)
+  - [Solution](#solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional learning resources
+  - [Additional learning resources](#additional-learning-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic administration in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Jira]] (1), application (1), data (1), [[Troubleshooting]] (1)
 > **Tools:** jira (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -163,10 +163,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), application (3), cloud (1), data (1), next (1)
 > **Tools:** jira (10), confluence (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### What do you need for this course?
@@ -200,6 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Jira]] (2), [[User Experience (UX)|User experience]] (1), [[Dashboards]] (1), cloud (1)
 > **Tools:** jira (2), confluence (1)
 > **Env Vars:** url (1)
 > **Prerequisites:** set up (1)
@@ -208,7 +209,7 @@ created: 2026-04-29
 
 ### 1. What Is Jira and How Is It Used?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Jira?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980)
@@ -231,6 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), teams (2), [[Software Development]] (2), [[Atlassian]] (1), [[Confluence]] (1)
 > **Tools:** jira (6), confluence (1), bitbucket (1)
 > **Speakers:** - [instructor] (1)
 
@@ -259,8 +261,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), product (1), hr (1), [[Security]] (1), next (1)
 > **Tools:** jira (7)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -421,8 +423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (29), application (17), cloud (15), management (12), [[Atlassian]] (12)
 > **Tools:** jira (29), bitbucket (1), github (1), confluence (1)
-> **Code Keywords:** interface (4), type, (4), let (3), self (2), type. (1)
 > **Env Vars:** url (4), jwm (1), jsm (1), aws (1)
 > **CLI Commands:** make (3), find (2), aws (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (3), [atlassian.net](https://atlassian.net) (1)
@@ -503,9 +505,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), teams (3), application (2), next (2), [[Scrum]] (2)
 > **Tools:** jira (9)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (1), function (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
@@ -592,10 +594,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (8), application (7), next (5), cloud (2), [[User Management]] (2)
 > **Tools:** jira (8)
 > **CLI Commands:** find (3)
 > **Prerequisites:** install (2), you'll need (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), just like (1)
 > **URLs:** [adminatlassian.com](https://adminatlassian.com) (1)
 > **Best Practices:** don't forget (1)
@@ -604,7 +606,7 @@ created: 2026-04-29
 
 ### 2. Admin Types and Responsibilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of Jira users
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980)
@@ -661,8 +663,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (11), application (4), data (3), cloud (2), [[Atlassian]] (1)
 > **Tools:** jira (11)
-> **Code Keywords:** type. (1), function (1), type, (1)
 > **Prerequisites:** configure (2)
 > **Env Vars:** jira (1)
 > **UI Navigation:** in the menu (1)
@@ -711,7 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** application (9), data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Jira]] (1)
 > **Prerequisites:** set up (1), configure (1), install (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -803,8 +805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (8), application (6), cloud (3), data (3), next (2)
 > **Tools:** jira (8)
-> **Code Keywords:** let (3), delete (2), function (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cmo (1)
 > **UI Navigation:** select the (1)
@@ -815,7 +817,7 @@ created: 2026-04-29
 
 ### 3. Setting Up a Test Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose a test environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980)
@@ -930,9 +932,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), application (8), cloud (5), [[Atlassian]] (5), next (3)
 > **Env Vars:** url (3), test (1), jsc (1), jql (1), ssl (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** delete (3), break. (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2), [mydatalasting.com](https://mydatalasting.com) (1)
 > **Analogies:** for example (1), similar to (1), just like (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -988,18 +990,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Atlassian]] (6), [[Jira]] (5), data (3), database (3), cloud (2)
 > **Prerequisites:** setup (4), getting started (1), install (1)
 > **Tools:** jira (5)
 > **Env Vars:** url (2), aws (1)
 > **CLI Commands:** aws (1), find (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Managing Users
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to manage users
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980)
@@ -1092,8 +1094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (13), [[Jira]] (11), application (6), cloud (4), business (3)
 > **Tools:** jira (11)
-> **Code Keywords:** delete (2), let (1)
 > **Env Vars:** jsm (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is an  (1)
@@ -1140,7 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), default, (1), let (1)
+> **Frameworks & Libraries:** [[Jira]] (1), teams (1), next (1)
 > **Tools:** jira (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1164,6 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Jira]] (2), data (1)
 > **Tools:** jira (2)
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1203,6 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), [[User Management]] (1), next (1), cloud (1)
 > **Tools:** jira (4)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1211,7 +1215,7 @@ created: 2026-04-29
 
 ### 5. Creating Jira Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of Jira projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980)
@@ -1256,8 +1260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), cloud (4), application (1), data (1), next (1)
 > **Tools:** jira (6)
-> **Code Keywords:** case. (1), type, (1), interface (1), type. (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1385,7 +1389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1)
+> **Frameworks & Libraries:** next (8), application (8), data (7), [[Jira]] (6), cloud (4)
 > **Tools:** jira (6)
 > **UI Navigation:** select the (2), click on (1), open the (1), checkbox (1)
 > **Definitions:** is a  (5)
@@ -1419,6 +1423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), data (1)
 > **Env Vars:** jira (3)
 > **Tools:** jira (3)
 > **Speakers:** - [instructor] (1)
@@ -1461,6 +1466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), cloud (2), [[Search]] (1), next (1), management (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -1469,7 +1475,7 @@ created: 2026-04-29
 
 ### 6. Creating Workflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980)
@@ -1550,9 +1556,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), business (2), product (1), teams (1), next (1)
 > **Tools:** jira (7)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1716,7 +1722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (2), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[Jira]] (5), data (3), cloud (3), next (1), management (1)
 > **Tools:** jira (5)
 > **CLI Commands:** make (3)
 > **Warnings:** be aware (2)
@@ -1755,7 +1761,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
 > **Speakers:** - let (1)
 
 #### Challenge: Create a workflow
@@ -1815,9 +1820,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (1), business (1), generic (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** test (3)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** you'll need (2)
 > **Tools:** jira (1)
@@ -1919,10 +1924,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), next (3), cloud (2)
 > **Env Vars:** test (7), test2 (1)
 > **UI Navigation:** go to (3), select the (2)
 > **Tools:** jira (4)
-> **Code Keywords:** let (2), delete (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -1931,7 +1936,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting Permission Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of Jira permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980)
@@ -2106,7 +2111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (2), this. (2), finally, (1), default. (1)
+> **Frameworks & Libraries:** [[Security]] (9), [[Jira]] (8), [[Atlassian]] (2), teams (2), management (2)
 > **Tools:** jira (8)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** remember to (1), don't forget (1)
@@ -2178,7 +2183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2)
+> **Frameworks & Libraries:** application (3), next (2), feature (1), data (1), [[Jira]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** indt (1)
@@ -2257,6 +2262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** jira (2)
 > **Tools:** jira (2)
@@ -2267,7 +2273,7 @@ created: 2026-04-29
 
 ### 8. Troubleshooting Missing Notifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of Jira notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980)
@@ -2344,10 +2350,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), hr (2), application (2), [[Dashboards]] (1), cloud (1)
 > **Tools:** jira (3)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** default, (1), override (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** required to (1)
@@ -2438,8 +2444,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (14), feature (2), next (2), application (1), generic (1)
 > **Tools:** jira (14)
-> **Code Keywords:** let (2), else, (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** rebrand (1)
@@ -2466,6 +2472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2513,6 +2520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** jira (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -2523,7 +2531,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional learning resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980)
@@ -2588,10 +2596,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), [[Atlassian]] (6), next (4), application (3), data (2)
 > **Tools:** jira (7)
 > **URLs:** [atlassian.com](https://atlassian.com) (1), [communityatlassian.com](https://communityatlassian.com) (1), [jirastrategy.com](https://jirastrategy.com) (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** continue (2)
 > **Warnings:** troubleshoot (2)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)

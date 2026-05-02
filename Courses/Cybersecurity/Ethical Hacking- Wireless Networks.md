@@ -31,7 +31,7 @@ tags:
   - skill/wireless-networking
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Wireless%20Networks.md)
@@ -50,46 +50,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn how to protect your wireless network
-  - What you should know before watching this course
-  - Course disclaimer
+  - [Learn how to protect your wireless network](#learn-how-to-protect-your-wireless-network)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [Course disclaimer](#course-disclaimer)
 - [**1. Wi-Fi Networks**](#1-wi-fi-networks) (10 videos)
-  - Understanding wireless networks
-  - Selecting an antenna for wireless network testing
-  - Configuring security in wireless networks
-  - Understanding the Wi-Fi Protected Setup (WPS)
-  - Extracting WEP passwords using Wifite
-  - Extracting network passwords through WPS
-  - Using WiFite and Aircrack-ng to test WPA passwords
-  - Using Pixiedust to recover keys
-  - A first look at WPA3
-  - Understanding Dragonblood
+  - [Understanding wireless networks](#understanding-wireless-networks)
+  - [Selecting an antenna for wireless network testing](#selecting-an-antenna-for-wireless-network-testing)
+  - [Configuring security in wireless networks](#configuring-security-in-wireless-networks)
+  - [Understanding the Wi-Fi Protected Setup (WPS)](#understanding-the-wi-fi-protected-setup-wps)
+  - [Extracting WEP passwords using Wifite](#extracting-wep-passwords-using-wifite)
+  - [Extracting network passwords through WPS](#extracting-network-passwords-through-wps)
+  - [Using WiFite and Aircrack-ng to test WPA passwords](#using-wifite-and-aircrack-ng-to-test-wpa-passwords)
+  - [Using Pixiedust to recover keys](#using-pixiedust-to-recover-keys)
+  - [A first look at WPA3](#a-first-look-at-wpa3)
+  - [Understanding Dragonblood](#understanding-dragonblood)
 - [**2. Rogue Access Points**](#2-rogue-access-points) (5 videos)
-  - Harvesting connections with an evil twin
-  - Set up the WiFi Pineapple
-  - Harvest credentials with the WiFi Pineapple
-  - Capturing WPA handshakes
-  - Scanning and attacking with Fluxion
+  - [Harvesting connections with an evil twin](#harvesting-connections-with-an-evil-twin)
+  - [Set up the WiFi Pineapple](#set-up-the-wifi-pineapple)
+  - [Harvest credentials with the WiFi Pineapple](#harvest-credentials-with-the-wifi-pineapple)
+  - [Capturing WPA handshakes](#capturing-wpa-handshakes)
+  - [Scanning and attacking with Fluxion](#scanning-and-attacking-with-fluxion)
 - [**3. Bluetooth**](#3-bluetooth) (3 videos)
-  - Understanding Bluetooth
-  - Scanning for Bluetooth devices
-  - Legacy attacks using Bluesnarfer
+  - [Understanding Bluetooth](#understanding-bluetooth)
+  - [Scanning for Bluetooth devices](#scanning-for-bluetooth-devices)
+  - [Legacy attacks using Bluesnarfer](#legacy-attacks-using-bluesnarfer)
 - [**4. Additional Tools**](#4-additional-tools) (7 videos)
-  - Using FernWi-Fi Cracker
-  - Discovering networks with inSSIDer
-  - Capturing wireless packets with Acrylic Analyzer
-  - Heat mapping with Ekehau
-  - Wi-Fi sniffing using Wireshark
-  - Scanning with Vistumbler
-  - Using Commview to scan Wi-Fi networks
+  - [Using FernWi-Fi Cracker](#using-fernwi-fi-cracker)
+  - [Discovering networks with inSSIDer](#discovering-networks-with-inssider)
+  - [Capturing wireless packets with Acrylic Analyzer](#capturing-wireless-packets-with-acrylic-analyzer)
+  - [Heat mapping with Ekehau](#heat-mapping-with-ekehau)
+  - [Wi-Fi sniffing using Wireshark](#wi-fi-sniffing-using-wireshark)
+  - [Scanning with Vistumbler](#scanning-with-vistumbler)
+  - [Using Commview to scan Wi-Fi networks](#using-commview-to-scan-wi-fi-networks)
 - [**5. Internet of Things**](#5-internet-of-things) (1 videos)
-  - Testing the Internet of Things
+  - [Testing the Internet of Things](#testing-the-internet-of-things)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn how to protect your wireless network
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** business (2), career (1), [[Wireless Networking]] (1), [[Forms]] (1), [[Network Security]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [malcolm (1)
 
@@ -147,6 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Hardware]] (2), [[Virtualization]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** usb (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -182,7 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Kali Linux]] (1)
 > **Env Vars:** pdf (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -190,7 +191,7 @@ created: 2026-04-29
 
 ### 1. Wi-Fi Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding wireless networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980)
@@ -305,9 +306,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), business (2), lan (2), power (1), [[Wireless Networking]] (1)
 > **Env Vars:** mac (8), ssid (4), wpa (3), lan (2), wpa2 (2)
 > **Definitions:** known as (5), is a  (3)
-> **Code Keywords:** protected (2), continue (1), require (1), let (1), this, (1)
 > **Versions:** 802.11 (1), 2.4 (1), 2.412 (1), 2.417 (1), 2.422 (1)
 > **CLI Commands:** cat (4)
 > **Analogies:** such as (3), for instance (1)
@@ -409,10 +410,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), lan (1), [[Forms]] (1)
 > **Code Identifiers:** dbm (8), dbi (3)
 > **Definitions:** is a  (3), known as (1), means that (1)
 > **Env Vars:** netgear (1), lan (1), wn722n (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - a (1)
 
 #### Configuring security in wireless networks
@@ -474,8 +475,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Security]] (2), traffic (1), [[Privacy]] (1), [[Cryptography]] (1)
 > **Env Vars:** wep (7), wpa2 (6), wpa (5), tkip (3), aes (2)
-> **Code Keywords:** protected (2), finally, (1)
 > **Prerequisites:** initialization (2)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -588,9 +589,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Security]] (1)
 > **Env Vars:** wps (13), wsc (6), eapol (5), ssid (2), wpa (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
-> **Code Keywords:** protected (1), catch, (1), while, (1)
 > **Prerequisites:** setup (2), required to (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
@@ -646,8 +647,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), next (1)
 > **Env Vars:** wep (2), usb (1), link_96e8a0 (1), ascii (1)
-> **Code Keywords:** interface (1), finally, (1), this, (1), let (1)
 > **Tools:** terminal (1), command line (1)
 > **Prerequisites:** initialization (2)
 > **Definitions:** is called (1)
@@ -713,9 +714,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2)
 > **Env Vars:** wps (8), bssid (2), pin (1), tg582n (1), wpa2 (1)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - wps (1)
 
@@ -760,8 +761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), web (1), [[Search]] (1)
 > **Env Vars:** wpa (5), wpa2 (1), mac (1), tpg (1), wps (1)
-> **Code Keywords:** let (2), protected (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -823,6 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2)
 > **Env Vars:** wps (3), bssid (2), n300 (1), tpg (1), pkr (1)
 > **Ports:** :08 (1), :18 (1), :12 (1), :50 (1)
 > **Definitions:** is a  (1)
@@ -869,9 +871,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), [[Security]] (2), data (2), traffic (2), [[IoT]] (1)
 > **Env Vars:** wpa3 (7), wpa2 (3), krack (1), aes (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** public (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -914,8 +916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2]] (1), power (1), [[Microsoft Products|Products]] (1), [[Security]] (1)
 > **Env Vars:** wpa3 (8), wpa2 (1), ec2 (1), mac (1)
-> **Code Keywords:** raise (1)
 > **Definitions:** known as (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -923,7 +925,7 @@ created: 2026-04-29
 
 ### 2. Rogue Access Points
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Harvesting connections with an evil twin
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980)
@@ -978,7 +980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2), interface (1)
+> **Frameworks & Libraries:** traffic (5), [[Wireshark]] (4), [[Routing]] (2), lan (1)
 > **Env Vars:** ssid (1), bssid (1), lan (1), wpa (1)
 > **Definitions:** is a  (3)
 > **Versions:** 802.11 (1)
@@ -1074,9 +1076,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Hardware]] (1), [[Linux]] (1), next (1)
 > **Env Vars:** vii (3), ssid (3), usb (2), http (1), led (1)
 > **Versions:** 802.11 (2), 172.16.40 (1), 2.1 (1)
-> **Code Keywords:** continue (1), interface (1), let (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Exercise Files:** download the (2)
 > **Definitions:** is a  (2)
@@ -1152,9 +1154,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), data (1), traffic (1)
 > **Env Vars:** mac (2), oui (1), comfast_ap (1), wpa2 (1), url (1)
 > **UI Navigation:** go to (2), click on (1), navigate to (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** install (2)
 > **URLs:** [webappsecurity.com](https://webappsecurity.com) (1)
 > **Ports:** :45 (1)
@@ -1184,7 +1186,6 @@ created: 2026-04-29
 >
 > **Env Vars:** wpa (3), pcap (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ipad (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1281,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), while. (1), this, (1), continue (1)
+> **Frameworks & Libraries:** database (2), [[Kali Linux]] (1), cd (1), [[Dashboards]] (1), dns (1)
 > **Env Vars:** comfast (3), usb (1), wlan (1), apd (1), ssl (1)
 > **Best Practices:** recommended (4)
 > **Prerequisites:** set up (1), install (1), configure (1)
@@ -1293,7 +1294,7 @@ created: 2026-04-29
 
 ### 3. Bluetooth
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Bluetooth
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980)
@@ -1380,8 +1381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Real-Time]] (2), [[Hardware]] (2), [[Security]] (1), node (1)
 > **Env Vars:** rfcomm (2), ieee (1), oui (1), hid (1), hfp (1)
-> **Code Keywords:** interface (8), case, (1), require (1)
 > **Definitions:** is a  (3), known as (2)
 > **Analogies:** such as (2), for example (2)
 > **Versions:** 2.4 (1), 802.15.1 (1)
@@ -1504,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (5), this, (2), interface (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Android]] (2), [[Security]] (1)
 > **Env Vars:** usb (4), e130 (2), oui (1), tl10 (1)
 > **Code Identifiers:** iphone (6)
 > **UI Navigation:** switch to (2), click on (1), go to (1)
@@ -1578,7 +1579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Security]] (1), data (1)
 > **Definitions:** is a  (3), is called (1)
 > **Prerequisites:** setup (1), configure (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1587,7 +1588,7 @@ created: 2026-04-29
 
 ### 4. Additional Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using FernWi-Fi Cracker
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-fernwi-fi-cracker?u=76281980)
@@ -1656,8 +1657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), next (1)
 > **Env Vars:** wpa (4), wep (1), wps (1), tpg (1), wpa2 (1)
-> **Code Keywords:** let (3), interface (1)
 > **UI Navigation:** select the (2), click on (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1705,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (1)
+> **Frameworks & Libraries:** product (1), [[Security]] (1)
 > **Env Vars:** ssid (2), bssid (2), mac (1)
 > **Code Identifiers:** inssider (2), insidder (2)
 > **UI Navigation:** switch to (2), click on (2)
@@ -1879,9 +1880,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (4), [[Security]] (2), strengths (1), [[Windows]] (1)
 > **UI Navigation:** select the (8), click on (3), right-click (1)
 > **Env Vars:** ieee802 (3), ssid (2), bssid (2), abcd1994 (1), mac (1)
-> **Code Keywords:** interface (3), let (1), this. (1), module (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.4 (1)
@@ -1975,8 +1976,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), business (1), [[Microsoft Products|Products]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
 > **Env Vars:** dwd (1), dxf (1), cad (1), jpeg (1), png (1)
-> **Code Keywords:** let (2), static (2)
 > **UI Navigation:** select the (2), open the (1), click on (1)
 > **Definitions:** is an  (2)
 > **Warnings:** note that (1)
@@ -2073,8 +2074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Wireshark]] (8), traffic (7), power (1), lan (1)
 > **Env Vars:** wpa (3), ssid (2), psk (2), tcp (2), lan (1)
-> **Code Keywords:** interface (5), let (4), switch (3), function (1)
 > **Versions:** 802.11 (8)
 > **UI Navigation:** open the (1), dropdown (1), scroll down (1), checkbox (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2173,8 +2174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (3), [[Google]] (2), [[Windows]] (1), [[GitHub]] (1)
 > **Env Vars:** gps (5), usb (2), ssid (2), lan (1), mac (1)
-> **Code Keywords:** interface (2), public (1), let (1), type, (1)
 > **UI Navigation:** click on (2), select the (2)
 > **CLI Commands:** make (2)
 > **Versions:** version 10 (2)
@@ -2299,8 +2300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), traffic (3), node (3), [[Wireshark]] (2), product (1)
 > **Env Vars:** wpa (4), ssid (2), tcp (2), bssid (2), mac (1)
-> **Code Keywords:** let (4), pass (2), switch (1)
 > **UI Navigation:** select the (3), click on (1), switch to (1), navigate to (1)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (1), known as (1)
@@ -2311,7 +2312,7 @@ created: 2026-04-29
 
 ### 5. Internet of Things
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing the Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980)
@@ -2392,7 +2393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (19), let (7)
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (3), dns (1), [[Linux]] (1)
 > **Env Vars:** soap (4), http (3), xml (3), tcp (1), dns (1)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **File Paths:** setup.xml (1), getbinarystate.txt (1), switchoff.txt (1), telnet.txt (1)
@@ -2404,7 +2405,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980)
@@ -2433,6 +2434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (3), [[LinkedIn]] (2), [[Kali Linux]] (2), [[Mobile Testing]] (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

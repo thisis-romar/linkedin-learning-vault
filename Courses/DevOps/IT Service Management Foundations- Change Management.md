@@ -35,7 +35,7 @@ tags:
   - skill/it-service-management
   - skill/change-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Management%20Foundations-%20Change%20Management.md)
@@ -54,37 +54,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Managing change with minimal pain
+  - [Managing change with minimal pain](#managing-change-with-minimal-pain)
 - [**1. Change Management Fundamentals**](#1-change-management-fundamentals) (4 videos)
-  - The Change Challenge
-  - Change management, the key to excellence
-  - A maze of twisty little processes, all alike
-  - The changing face of change management
+  - [The Change Challenge](#the-change-challenge)
+  - [Change management, the key to excellence](#change-management-the-key-to-excellence)
+  - [A maze of twisty little processes, all alike](#a-maze-of-twisty-little-processes-all-alike)
+  - [The changing face of change management](#the-changing-face-of-change-management)
 - [**2. Your Change Control Process**](#2-your-change-control-process) (13 videos)
-  - Change management overview
-  - Change management roles
-  - Prepare the change
-  - Validate the change
-  - Request the change
-  - Approve the change
-  - Schedule the change
-  - Communicate the change
-  - Perform the change
-  - Track the change
-  - Review the change
-  - Challenge: Creating your own change management process
-  - Solution: Example change management processes
+  - [Change management overview](#change-management-overview)
+  - [Change management roles](#change-management-roles)
+  - [Prepare the change](#prepare-the-change)
+  - [Validate the change](#validate-the-change)
+  - [Request the change](#request-the-change)
+  - [Approve the change](#approve-the-change)
+  - [Schedule the change](#schedule-the-change)
+  - [Communicate the change](#communicate-the-change)
+  - [Perform the change](#perform-the-change)
+  - [Track the change](#track-the-change)
+  - [Review the change](#review-the-change)
+  - [Challenge: Creating your own change management process](#challenge-creating-your-own-change-management-process)
+  - [Solution: Example change management processes](#solution-example-change-management-processes)
 - [**3. Implementing Change Management**](#3-implementing-change-management) (4 videos)
-  - Starting change management
-  - Change management antipatterns
-  - The human cost of change management
-  - AI and change management
+  - [Starting change management](#starting-change-management)
+  - [Change management antipatterns](#change-management-antipatterns)
+  - [The human cost of change management](#the-human-cost-of-change-management)
+  - [AI and change management](#ai-and-change-management)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Be the change you want to approve
+  - [Be the change you want to approve](#be-the-change-you-want-to-approve)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing change with minimal pain
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980)
@@ -107,13 +107,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Engineering]] (1), [[Operational Excellence]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Change Management Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Change Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-change-challenge?u=76281980)
@@ -162,8 +163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), application (1), cloud (1), [[Security]] (1), career (1)
 > **Env Vars:** sre (1), sox (1), pci (1), iso (1), hipaa (1)
-> **Code Keywords:** self (1), pass (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -229,6 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (11), business (3), [[DevOps]] (2), [[Incident Response]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ops (1)
 > **Cross-References:** in the next (1)
@@ -304,9 +306,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (15), [[IT Service Management]] (2), [[ITIL]] (2), [[Configuration Management]] (2), application (2)
 > **Env Vars:** itsm (2), itil (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -410,18 +412,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (10), [[ITIL]] (8), [[IT Service Management]] (3), [[Configuration Management]] (2), product (1)
 > **Env Vars:** itil (8), cobit (5), itsm (2), iso (2), cab (1)
 > **Versions:** 8.5 (1), 5.1 (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** require (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Your Change Control Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980)
@@ -516,9 +518,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), next (1), [[Windows]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** itsm (1), dora (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -585,9 +587,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), game (1), next (1), [[Automation]] (1), [[DevOps]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cab (2), itsm (1)
-> **Code Keywords:** let (1), switch (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -652,8 +654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Engineering]] (1), [[Security]] (1), [[Software Development]] (1), [[Jira]] (1)
 > **Env Vars:** pci (2), dss (1), jira (1)
-> **Code Keywords:** continue (2), require (1)
 > **CLI Commands:** make (2)
 > **Documentation:** spec (1)
 > **Tools:** jira (1)
@@ -760,8 +762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), application (3), cloud (2), [[Application Development]] (2), [[Security]] (2)
 > **CLI Commands:** make (8)
-> **Code Keywords:** function (1), for. (1), case, (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** cots (1)
 > **Speakers:** - [narrator] (1)
@@ -897,8 +899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), hit (1), [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1), cloud (1)
 > **CLI Commands:** make (10)
-> **Code Keywords:** let (2), require (2)
 > **Definitions:** is a  (2), known as (1)
 > **Tools:** jira (1)
 > **Warnings:** note that (1)
@@ -1008,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), require (1)
+> **Frameworks & Libraries:** management (3), [[Security]] (3), [[Automation]] (2), [[Cybersecurity]] (1), business (1)
 > **Env Vars:** raci (2)
 > **Cross-References:** earlier in (2)
 > **CLI Commands:** make (1)
@@ -1091,8 +1093,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), next (1), feature (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** default. (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1186,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this. (1), super (1)
+> **Frameworks & Libraries:** business (3), management (2), [[Windows]] (1), [[Microsoft Word|Word]] (1), teams (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** sas (2)
 > **Analogies:** for example (1)
@@ -1288,8 +1290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), traffic (3), [[DevOps]] (2), game (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** make (9)
-> **Code Keywords:** switch (2), let (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1379,8 +1381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Automation]] (1), [[Databases]] (1), database (1), [[Search]] (1)
 > **Tools:** slack (1), command line (1), jira (1)
-> **Code Keywords:** finally, (1), this. (1)
 > **Env Vars:** gui (1), api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1504,9 +1506,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[DevOps]] (2), [[React.js|React]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), finally, (1)
 > **Env Vars:** dora (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** just like (1)
@@ -1618,9 +1620,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (7), [[Jira]] (2), [[Slack]] (2), web (1), [[IT Process Automation]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Tools:** jira (2), slack (2)
-> **Code Keywords:** let (1), this, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle upbeat music) (1)
@@ -1700,8 +1702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), management (3), next (2), [[Slack]] (2), cloud (1)
 > **Tools:** slack (2), jira (1), github (1)
-> **Code Keywords:** let (1), pass (1), throw (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -1712,7 +1714,7 @@ created: 2026-04-29
 
 ### 3. Implementing Change Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting change management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980)
@@ -1787,8 +1789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Automation]] (2), [[ITIL]] (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** itil (1), cmdb (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1888,8 +1890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), management (3), [[ITIL]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Accountability]] (1)
 > **Env Vars:** pci (5), iso (3), cobit (2), itil (2), cmdb (2)
-> **Code Keywords:** require (2), let (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.6 (1)
@@ -1980,8 +1982,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), cloud (2), [[DevOps]] (1), database (1), data (1)
 > **CLI Commands:** make (10), find (1)
-> **Code Keywords:** case, (1), let (1), this. (1)
 > **Env Vars:** etto (2)
 > **Versions:** 1.8 (1)
 > **Definitions:** is a  (1)
@@ -2061,7 +2063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), public (1), private (1), let (1)
+> **Frameworks & Libraries:** ai (18), management (6), llm (3), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2073,7 +2075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be the change you want to approve
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980)
@@ -2128,9 +2130,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), [[Slack]] (2), [[Confluence]] (2), data (1)
 > **Tools:** slack (2), confluence (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** class. (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)

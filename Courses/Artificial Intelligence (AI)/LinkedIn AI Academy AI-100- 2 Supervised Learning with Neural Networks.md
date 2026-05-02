@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-neural-networks
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LinkedIn%20AI%20Academy%20AI-100-%202%20Supervised%20Learning%20with%20Neural%20Networks.md)
@@ -51,32 +51,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The LinkedIn AI Academy: Neural networks are the heart of AI
+  - [The LinkedIn AI Academy: Neural networks are the heart of AI](#the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai)
 - [**1. Deep Neural Networks**](#1-deep-neural-networks) (3 videos)
-  - Neuron: Basic element of neural net
-  - Neural nets and nonlinearly separable classification
-  - Multiclass deep neural networks
+  - [Neuron: Basic element of neural net](#neuron-basic-element-of-neural-net)
+  - [Neural nets and nonlinearly separable classification](#neural-nets-and-nonlinearly-separable-classification)
+  - [Multiclass deep neural networks](#multiclass-deep-neural-networks)
 - [**2. Convolutional Networks**](#2-convolutional-networks) (3 videos)
-  - What is a convolutional filter?
-  - Deep convolutional neural networks
-  - Transfer learning
+  - [What is a convolutional filter?](#what-is-a-convolutional-filter)
+  - [Deep convolutional neural networks](#deep-convolutional-neural-networks)
+  - [Transfer learning](#transfer-learning)
 - [**3. Sequence Classifiers**](#3-sequence-classifiers) (6 videos)
-  - Modeling sequences with language models
-  - Recurrent neural network language models
-  - Machine translation and encoder-decoder networks
-  - Attention-based neural networks
-  - Transformer model
-  - Pretrained language models
+  - [Modeling sequences with language models](#modeling-sequences-with-language-models)
+  - [Recurrent neural network language models](#recurrent-neural-network-language-models)
+  - [Machine translation and encoder-decoder networks](#machine-translation-and-encoder-decoder-networks)
+  - [Attention-based neural networks](#attention-based-neural-networks)
+  - [Transformer model](#transformer-model)
+  - [Pretrained language models](#pretrained-language-models)
 - [**4. Graph Neural Networks**](#4-graph-neural-networks) (3 videos)
-  - Motivation and introduction
-  - Node embeddings
-  - Graph neural networks
+  - [Motivation and introduction](#motivation-and-introduction)
+  - [Node embeddings](#node-embeddings)
+  - [Graph neural networks](#graph-neural-networks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing the AI-100 learning path
+  - [Continuing the AI-100 learning path](#continuing-the-ai-100-learning-path)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The LinkedIn AI Academy: Neural networks are the heart of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980)
@@ -93,12 +93,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Image Processing]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Speakers:** - [ananth] (1)
 
 
 ### 1. Deep Neural Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Neuron: Basic element of neural net
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980)
@@ -187,7 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), class. (7), let (2), this, (1), implements (1)
+> **Frameworks & Libraries:** product (5), [[Neural Networks]] (3), ai (1), feature (1)
 > **Definitions:** is called (2), is a  (2)
 > **Versions:** 0.5 (3)
 > **Analogies:** such as (2), for example (1)
@@ -268,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (2), function (2), this, (1), finally, (1), class, (1)
+> **Frameworks & Libraries:** product (2)
 > **Definitions:** is called (3), in other words (1), is a  (1)
 > **Cross-References:** as we saw (2), in the last (1)
 > **Versions:** 0.5 (2)
@@ -324,7 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), case, (1), finally, (1), self (1)
+> **Frameworks & Libraries:** power (1), [[Probability]] (1), [[Neural Networks]] (1), [[Speech Recognition]] (1), [[Image Processing]] (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** cat (1)
 > **Definitions:** is a  (1)
@@ -333,7 +334,7 @@ created: 2026-04-29
 
 ### 2. Convolutional Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a convolutional filter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980)
@@ -408,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Image Processing]] (2), data (1), [[Neural Networks]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (3), in other words (2), means that (1)
-> **Code Keywords:** let (3), case, (2)
 > **Analogies:** for example (2), compare this to (1)
 > **CLI Commands:** cat (1)
 > **Speakers:** - [instructor] (1)
@@ -483,6 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), product (1), [[Neural Networks]] (1)
 > **Analogies:** such as (3), for example (2), picture (1)
 > **Definitions:** is a  (1), is called (1)
 > **Cross-References:** as we saw (1)
@@ -553,16 +555,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[LinkedIn]] (2), [[Microsoft Office|Office]] (2), [[Google]] (1), [[Neural Networks]] (1)
 > **Analogies:** such as (6), picture (3)
 > **Env Vars:** bert (3), vgg (1), gpt (1)
 > **Definitions:** is a  (3), we call this (1)
-> **Code Keywords:** let (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Sequence Classifiers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling sequences with language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980)
@@ -635,7 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), for. (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17), next (10), [[Neural Networks]] (3)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
 > **UI Navigation:** switch to (1)
@@ -703,7 +705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (20), [[Neural Networks]] (3), next (3)
 > **Definitions:** is called (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -825,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), function (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (13), [[Neural Networks]] (4), [[LinkedIn]] (3), [[Forms]] (2), application (1)
 > **Analogies:** for example (3), imagine (1), just like (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** cat (2)
@@ -920,9 +922,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (21), [[Neural Networks]] (1), next (1)
 > **CLI Commands:** cat (6)
 > **Cross-References:** previous video (2), as we saw (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -987,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Neural Networks]] (5), next (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Forms]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** cat (2)
@@ -1079,19 +1081,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (5), [[Microsoft Word|Word]] (3), [[Fine Tuning]] (2), [[Neural Networks]] (1)
 > **Env Vars:** bert (18), cls (2), sep (1)
 > **Definitions:** is a  (4), is called (2)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** required to (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Graph Neural Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Motivation and introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980)
@@ -1164,10 +1166,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), node (8), [[Neural Networks]] (6), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Supervised Learning]] (1)
 > **CLI Commands:** node (8), make (2), find (1)
 > **Definitions:** is a  (2), is an  (2), is called (1)
 > **Analogies:** imagine (1), for example (1), for instance (1), such as (1)
-> **Code Keywords:** let (2), this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Node embeddings
@@ -1261,8 +1263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), generic (1), data (1), next (1)
 > **CLI Commands:** node (9)
-> **Code Keywords:** let (3), this. (3)
 > **Analogies:** similar to (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
@@ -1353,9 +1355,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (19), feature (5), data (2), [[Neural Networks]] (2), generic (1)
 > **CLI Commands:** node (19), make (3)
 > **Env Vars:** gnn (6), mlp (4)
-> **Code Keywords:** let (2), this, (1), finally, (1)
 > **Cross-References:** previous video (2), we covered (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1), for example (1)
@@ -1364,7 +1366,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing the AI-100 learning path
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980)
@@ -1391,8 +1393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), ai (3)
 > **Speakers:** - [ananth] (2), - [daniel] (2), - i (1), - [daniel (1)
-> **Code Keywords:** continue (1)
 
 
 ## Instructor

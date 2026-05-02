@@ -36,7 +36,7 @@ tags:
   - skill/python-programming-language
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Training%20Neural%20Networks%20in%20Python.md)
@@ -55,55 +55,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Creating a neural network in Python
-  - What you should know
-  - Using GitHub Codespaces with this course
+  - [Creating a neural network in Python](#creating-a-neural-network-in-python)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Choosing a Neural Network**](#1-choosing-a-neural-network) (6 videos)
-  - What is a neural network?
-  - Why Python
-  - The many applications of machine learning
-  - Types of classifiers
-  - Types of neural networks
-  - Multilayer perceptrons
+  - [What is a neural network?](#what-is-a-neural-network)
+  - [Why Python](#why-python)
+  - [The many applications of machine learning](#the-many-applications-of-machine-learning)
+  - [Types of classifiers](#types-of-classifiers)
+  - [Types of neural networks](#types-of-neural-networks)
+  - [Multilayer perceptrons](#multilayer-perceptrons)
 - [**2. The Building Blocks of Neural Networks**](#2-the-building-blocks-of-neural-networks) (9 videos)
-  - Neurons and the brain
-  - A simple model of a neuron
-  - Activation functions
-  - Perceptrons: A better model of a neuron
-  - Challenge: Finish the perceptron
-  - Solution: Finish the perceptron
-  - Logic gates
-  - Challenge: Logic gates with perceptrons
-  - Solution: Logic gates with perceptrons
+  - [Neurons and the brain](#neurons-and-the-brain)
+  - [A simple model of a neuron](#a-simple-model-of-a-neuron)
+  - [Activation functions](#activation-functions)
+  - [Perceptrons: A better model of a neuron](#perceptrons-a-better-model-of-a-neuron)
+  - [Challenge: Finish the perceptron](#challenge-finish-the-perceptron)
+  - [Solution: Finish the perceptron](#solution-finish-the-perceptron)
+  - [Logic gates](#logic-gates)
+  - [Challenge: Logic gates with perceptrons](#challenge-logic-gates-with-perceptrons)
+  - [Solution: Logic gates with perceptrons](#solution-logic-gates-with-perceptrons)
 - [**3. Building Your Network**](#3-building-your-network) (4 videos)
-  - Linear separability
-  - Writing the multilayer perceptron class
-  - Challenge: Finish the multilayer perceptron class
-  - Solution: Finish the multilayer perceptron class
+  - [Linear separability](#linear-separability)
+  - [Writing the multilayer perceptron class](#writing-the-multilayer-perceptron-class)
+  - [Challenge: Finish the multilayer perceptron class](#challenge-finish-the-multilayer-perceptron-class)
+  - [Solution: Finish the multilayer perceptron class](#solution-finish-the-multilayer-perceptron-class)
 - [**4. Training Your Network**](#4-training-your-network) (8 videos)
-  - The need for training
-  - The training process
-  - The error function
-  - Gradient descent
-  - The Delta rule
-  - The Backpropagation algorithm
-  - Challenge: Write your own Backpropagation method
-  - Solution: Write your own Backpropagation method
+  - [The need for training](#the-need-for-training)
+  - [The training process](#the-training-process)
+  - [The error function](#the-error-function)
+  - [Gradient descent](#gradient-descent)
+  - [The Delta rule](#the-delta-rule)
+  - [The Backpropagation algorithm](#the-backpropagation-algorithm)
+  - [Challenge: Write your own Backpropagation method](#challenge-write-your-own-backpropagation-method)
+  - [Solution: Write your own Backpropagation method](#solution-write-your-own-backpropagation-method)
 - [**5. Let's Make a Segment Display Classifier**](#5-lets-make-a-segment-display-classifier) (8 videos)
-  - Segment display recognition
-  - Challenge: Design your own SDR neural network
-  - Solution: Design your own SDR neural network
-  - Challenge: Train your own SDR neural network
-  - Solution: Train your own SDR neural network
-  - 7 to 1 network GUI demo
-  - 7 to 10 network GUI demo
-  - 7 to 7 network GUI demo
+  - [Segment display recognition](#segment-display-recognition)
+  - [Challenge: Design your own SDR neural network](#challenge-design-your-own-sdr-neural-network)
+  - [Solution: Design your own SDR neural network](#solution-design-your-own-sdr-neural-network)
+  - [Challenge: Train your own SDR neural network](#challenge-train-your-own-sdr-neural-network)
+  - [Solution: Train your own SDR neural network](#solution-train-your-own-sdr-neural-network)
+  - [7 to 1 network GUI demo](#7-to-1-network-gui-demo)
+  - [7 to 10 network GUI demo](#7-to-10-network-gui-demo)
+  - [7 to 7 network GUI demo](#7-to-7-network-gui-demo)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a neural network in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980)
@@ -124,8 +124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Python (Programming Language)|Python]] (2), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[PyTorch]] (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - neural (1)
 
 #### What you should know
@@ -155,11 +155,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[GitHub]] (2), [[Programming]] (1), [[Cloud Development]] (1), application (1)
 > **CLI Commands:** python (4)
 > **Prerequisites:** install (2), before we start (1), you'll need (1)
 > **Tools:** github (2), visual studio (1)
 > **Versions:** python 3 (2)
-> **Code Keywords:** interface (1)
 > **Env Vars:** ide (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -301,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** click on (3), switch to (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -313,7 +313,7 @@ created: 2026-04-29
 
 ### 1. Choosing a Neural Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a neural network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980)
@@ -350,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Fetch]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [presenter] (1)
 
@@ -378,6 +378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1), application (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -451,7 +452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), function (1), self (1)
+> **Frameworks & Libraries:** data (7), ai (5), application (4), [[Neural Networks]] (3), [[Algorithms]] (2)
 > **URLs:** [akinator.com](https://akinator.com) (2), [20q.net](https://20q.net) (2), [amazon.com](https://amazon.com) (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
@@ -538,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), data (2), application (1), [[Logistic Regression]] (1), [[Decision Trees]] (1)
 > **Definitions:** is a  (2), known as (2)
 > **Analogies:** for instance (1), similar to (1), for example (1)
 > **CLI Commands:** make (1)
@@ -595,8 +596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (6), ai (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), application (1), [[LinkedIn]] (1)
 > **Analogies:** picture (7)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
@@ -649,13 +650,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Neural Networks]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. The Building Blocks of Neural Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Neurons and the brain
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980)
@@ -698,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1), yield (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - earlier (1)
@@ -810,7 +812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), pass (1), class, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), next (1), data (1)
 > **Definitions:** means that (3), is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -943,7 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), let (4)
+> **Frameworks & Libraries:** feature (1), next (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (3), means that (2)
 > **Versions:** 1.25 (2), 1.26 (1), 1.24 (1)
 > **CLI Commands:** make (2)
@@ -1078,7 +1080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (8), finally, (3), case, (1), continue (1)
+> **Frameworks & Libraries:** product (2), [[GitHub]] (1), web (1), data (1)
 > **UI Navigation:** go to (2), switch to (1), click on (1), dropdown (1), open the (1)
 > **Tools:** visual studio (2), github (1)
 > **Versions:** 0.5 (2)
@@ -1122,7 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), function (2), class. (1), class, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - ready (1)
@@ -1151,7 +1153,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), this. (1)
 > **Code Identifiers:** set_weights (1)
 > **Speakers:** - [eduardo] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
@@ -1233,7 +1234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), class, (1), function (1)
+> **Frameworks & Libraries:** data (4), [[Neural Networks]] (1), express (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.5 (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -1266,6 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
@@ -1299,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), yield (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** nand (1), nor (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.99 (1)
@@ -1310,7 +1312,7 @@ created: 2026-04-29
 
 ### 3. Building Your Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear separability
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/linear-separability?u=76281980)
@@ -1409,8 +1411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** xor (9), nand (7)
-> **Code Keywords:** let (5), function (2), pass (1), finally, (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2)
 > **Speakers:** - [man] (1)
@@ -1480,7 +1482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), let (1), class, (1), pass (1)
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -1520,8 +1522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), return, (1)
 > **Code Identifiers:** printweights (1)
 > **Env Vars:** xor (1)
 > **Cross-References:** later in (1)
@@ -1586,7 +1588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** xor (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [presenter] (1)
@@ -1595,7 +1597,7 @@ created: 2026-04-29
 
 ### 4. Training Your Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for training
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980)
@@ -1706,7 +1708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (5), [[Programming]] (1), [[Neural Networks]] (1)
 > **Env Vars:** xor (3), nand (1)
 > **Definitions:** known as (2)
 > **Analogies:** for example (2)
@@ -1805,7 +1807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (2), feature (1), [[Neural Networks]] (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1870,7 +1872,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3)
 > **Definitions:** known as (2)
 > **Versions:** 0.6 (1)
 > **Speakers:** - [instructor] (1)
@@ -1934,7 +1935,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), this. (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2042,7 +2042,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
 > **Definitions:** known as (2), is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.5 (1)
@@ -2221,7 +2220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), class, (1), finally, (1)
+> **Frameworks & Libraries:** product (3), next (2), [[Zoom]] (2), [[Microsoft Products|Products]] (2)
 > **Versions:** 0.2 (2), 0.15 (2), 0.49 (1), 0.51 (1), 0.04 (1)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** in the next (1), in the last (1)
@@ -2304,7 +2303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), finally, (1), while. (1)
+> **Frameworks & Libraries:** next (2), feature (1), [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** xor (1)
@@ -2408,7 +2407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** npi (1)
 > **Cross-References:** in the last (1)
@@ -2418,7 +2417,7 @@ created: 2026-04-29
 
 ### 5. Let's Make a Segment Display Classifier
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Segment display recognition
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980)
@@ -2499,10 +2498,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), web (1), [[Search]] (1)
 > **Env Vars:** ocr (3), pdf (1), sdr (1)
 > **Analogies:** picture (2), for example (2)
 > **Definitions:** is a  (2), in other words (1)
-> **Code Keywords:** class. (1), let (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2549,7 +2548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2663,7 +2662,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), raise (1)
 > **Versions:** 0.1 (1), 0.1999 (1), 0.5 (1), 0.5999 (1)
 > **Definitions:** is a  (2), in other words (1), known as (1)
 > **CLI Commands:** cat (2)
@@ -2753,8 +2751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (1), functional (1), next (1)
 > **Env Vars:** gui (3), xor (1)
-> **Code Keywords:** finally, (2), delete (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** terminal (2)
 > **Analogies:** just like (1), for example (1)
@@ -2843,7 +2841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), while. (1), this. (1)
+> **Frameworks & Libraries:** next (2), [[Neural Networks]] (2), application (1)
 > **Tools:** terminal (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** gui (1)
@@ -2954,7 +2952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (2)
+> **Frameworks & Libraries:** application (2), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** is called (2), in other words (1)
 > **File Paths:** sdrnn_7to7.py (1), mlp.py (1)
 > **CLI Commands:** python (1), make (1)
@@ -3010,7 +3008,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3081,7 +3078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** application (1)
 > **Env Vars:** led (1), mlp (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
@@ -3091,7 +3088,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980)
@@ -3118,6 +3115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (3), next (3), [[Python (Programming Language)|Python]] (1), [[TensorFlow]] (1), [[PyTorch]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [eduardo] (1)
 

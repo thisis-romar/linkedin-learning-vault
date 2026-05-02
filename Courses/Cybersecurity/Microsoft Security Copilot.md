@@ -28,7 +28,7 @@ tags:
   - skill/security
   - skill/incident-response
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Microsoft%20Security%20Copilot.md)
@@ -47,27 +47,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introducing Microsoft Security Copilot
-  - What you should know
+  - [Introducing Microsoft Security Copilot](#introducing-microsoft-security-copilot)
+  - [What you should know](#what-you-should-know)
 - [**1. Microsoft Security Copilot Fundamentals**](#1-microsoft-security-copilot-fundamentals) (4 videos)
-  - What is Microsoft Security Copilot?
-  - The key concepts of Microsoft Security Copilot
-  - The workflow of Microsoft Security Copilot
-  - Get started with Microsoft Security Copilot
+  - [What is Microsoft Security Copilot?](#what-is-microsoft-security-copilot)
+  - [The key concepts of Microsoft Security Copilot](#the-key-concepts-of-microsoft-security-copilot)
+  - [The workflow of Microsoft Security Copilot](#the-workflow-of-microsoft-security-copilot)
+  - [Get started with Microsoft Security Copilot](#get-started-with-microsoft-security-copilot)
 - [**2. Microsoft Security Copilot in Action**](#2-microsoft-security-copilot-in-action) (7 videos)
-  - Create effective prompts in Microsoft Security Copilot
-  - Using plugins in Microsoft Security Copilot
-  - Handle incidents with Microsoft Security Copilot
-  - Analyze vulnerabilities with Microsoft Security Copilot
-  - Analyze suspicious code with Microsoft Security Copilot
-  - Query uploaded files with Microsoft Security Copilot
-  - Using promptbooks in Microsoft Security Copilot
+  - [Create effective prompts in Microsoft Security Copilot](#create-effective-prompts-in-microsoft-security-copilot)
+  - [Using plugins in Microsoft Security Copilot](#using-plugins-in-microsoft-security-copilot)
+  - [Handle incidents with Microsoft Security Copilot](#handle-incidents-with-microsoft-security-copilot)
+  - [Analyze vulnerabilities with Microsoft Security Copilot](#analyze-vulnerabilities-with-microsoft-security-copilot)
+  - [Analyze suspicious code with Microsoft Security Copilot](#analyze-suspicious-code-with-microsoft-security-copilot)
+  - [Query uploaded files with Microsoft Security Copilot](#query-uploaded-files-with-microsoft-security-copilot)
+  - [Using promptbooks in Microsoft Security Copilot](#using-promptbooks-in-microsoft-security-copilot)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course conclusion
+  - [Course conclusion](#course-conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980)
@@ -88,6 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Security]] (4), [[Cybersecurity]] (3), [[Microsoft Security]] (2), game (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - microsoft (1)
 
@@ -110,13 +111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), ai (2), [[Microsoft Security]] (1), [[Microsoft Copilot|Copilot]] (1), [[Generative AI]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Microsoft Security Copilot Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft Security Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980)
@@ -175,6 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), [[Microsoft Copilot|Copilot]] (14), [[Microsoft Security]] (4), management (4), ai (3)
 > **Env Vars:** xdr (1), siem (1), iam (1)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **Definitions:** is called (2)
@@ -220,8 +223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), prompt (4), [[Security]] (3), [[Microsoft Security]] (2), ai (1)
 > **Env Vars:** cve (3), cveid (1)
-> **Code Keywords:** let (1), this. (1), function (1)
 > **Definitions:** is an  (2), stands for (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -267,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Security]] (6), [[Microsoft Security]] (5), ai (5), prompt (4)
 > **Env Vars:** xdr (1), llm (1), cve (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -380,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), try. (1), finally, (1), delete (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Security]] (9), [[Microsoft Security]] (5), [[Microsoft]] (5), prompt (5)
 > **Analogies:** for example (3), such as (2)
 > **Env Vars:** url (1), soc (1), xdr (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -392,7 +395,7 @@ created: 2026-04-29
 
 ### 2. Microsoft Security Copilot in Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create effective prompts in Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980)
@@ -499,8 +502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (10), [[Security]] (9), [[Microsoft Security]] (6), [[Generative AI]] (4)
 > **Analogies:** for example (6), such as (2)
-> **Code Keywords:** let (3), function (1)
 > **Env Vars:** xdr (3)
 > **UI Navigation:** open the (2), select the (1)
 > **CLI Commands:** python (1), find (1)
@@ -572,9 +575,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (13), [[Microsoft Copilot|Copilot]] (9), prompt (5), [[Microsoft Security]] (3), [[Security]] (3)
 > **CLI Commands:** find (4)
 > **Env Vars:** xdr (1), api (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
@@ -663,8 +666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[Microsoft Copilot|Copilot]] (12), [[Microsoft Defender]] (5), [[Microsoft Security]] (3), management (1)
 > **Env Vars:** xdr (4), soc (1), siem (1), url (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
@@ -727,8 +730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Security]] (5), [[Search]] (4), [[Microsoft Security]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cve (9)
-> **Code Keywords:** let (3), finally, (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Best Practices:** recommended (2)
@@ -811,7 +814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), continue (1), public (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Security]] (7), [[Microsoft Security]] (3), [[Powershell]] (2), database (2)
 > **Tools:** powershell (2), command line (1)
 > **CLI Commands:** find (1), php (1)
 > **Env Vars:** xdr (1), cve (1)
@@ -887,8 +890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (5), [[Microsoft Copilot|Copilot]] (4), [[Incident Response]] (3), [[Microsoft Security]] (2), ai (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** rag (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - we (1)
@@ -960,9 +963,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Security]] (3), [[Microsoft Copilot|Copilot]] (3), prompt (2), [[Microsoft]] (1), next (1)
 > **Env Vars:** cve (6), cve_id (1), soc (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (2), finally, (1)
 > **UI Navigation:** checkbox (1), select the (1), go to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -971,7 +974,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980)
@@ -1000,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Security]] (4), [[Security]] (3), [[LinkedIn]] (2), ai (1)
 > **Speakers:** - you (1)
 
 

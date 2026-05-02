@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Speaking%20Confidently%20and%20Effectively.md)
@@ -41,20 +41,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Speaking Confidently and Effectively**](#1-speaking-confidently-and-effectively) (10 videos)
-  - Great speaking skills are a must-have
-  - Give your audience only what they need to know
-  - Identify a need or challenge
-  - Change your focus to calm your nerves
-  - Your audience wants you to succeed
-  - Align your body, tone, and words
-  - Project power with body language
-  - Speak in sync with your audience
-  - Plan for your biggest fears
-  - Three ways to handle difficult questions
+  - [Great speaking skills are a must-have](#great-speaking-skills-are-a-must-have)
+  - [Give your audience only what they need to know](#give-your-audience-only-what-they-need-to-know)
+  - [Identify a need or challenge](#identify-a-need-or-challenge)
+  - [Change your focus to calm your nerves](#change-your-focus-to-calm-your-nerves)
+  - [Your audience wants you to succeed](#your-audience-wants-you-to-succeed)
+  - [Align your body, tone, and words](#align-your-body-tone-and-words)
+  - [Project power with body language](#project-power-with-body-language)
+  - [Speak in sync with your audience](#speak-in-sync-with-your-audience)
+  - [Plan for your biggest fears](#plan-for-your-biggest-fears)
+  - [Three ways to handle difficult questions](#three-ways-to-handle-difficult-questions)
 
 ### 1. Speaking Confidently and Effectively
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Great speaking skills are a must-have
 > [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980)
@@ -149,8 +149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), leadership (1), career (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [pete] (3), - [diane] (3), - [woman] (1)
-> **Code Keywords:** raise (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1), it's like (1)
 > **CLI Commands:** make (1)
@@ -249,7 +249,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - [interviewer] (2), - [respondent] (2)
-> **Code Keywords:** let (1), self (1)
 > **Tools:** notion (2)
 
 #### Identify a need or challenge
@@ -349,11 +348,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - [man] (6), - [woman] (5)
 > **Analogies:** picture (2), it's like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 
 #### Change your focus to calm your nerves
@@ -415,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [female (1)
@@ -481,9 +480,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - [diane] (2), - [pete] (2)
-> **Code Keywords:** self (1), public (1), let (1)
 > **Tools:** notion (1)
 > **Analogies:** for example (1)
 
@@ -544,8 +543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1)
 > **Speakers:** - [female (3), - [male (2)
-> **Code Keywords:** default. (1), let (1)
 
 #### Project power with body language
 > [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980)
@@ -612,6 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [woman] (4), - [man] (2), - or (1)
 > **CLI Commands:** make (5)
 
@@ -680,6 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **Speakers:** - in (1), - you (1)
 > **Analogies:** such as (1)
 
@@ -744,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** game (1)
 > **Speakers:** - [interviewer] (1), - [interviewee] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -791,7 +792,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Speakers:** - [interviewer] (1), - [interviwee] (1)
 
 

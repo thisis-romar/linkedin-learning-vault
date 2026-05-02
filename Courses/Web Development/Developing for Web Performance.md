@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/web-application-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Developing%20for%20Web%20Performance.md)
@@ -52,57 +52,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What is performance and why is it so important?
+  - [What is performance and why is it so important?](#what-is-performance-and-why-is-it-so-important)
 - [**1. Web Performance: An Introduction**](#1-web-performance-an-introduction) (3 videos)
-  - What is web performance and optimization?
-  - How do we measure performance?
-  - Why does performance matter?
+  - [What is web performance and optimization?](#what-is-web-performance-and-optimization)
+  - [How do we measure performance?](#how-do-we-measure-performance)
+  - [Why does performance matter?](#why-does-performance-matter)
 - [**2. Web Performance Basics**](#2-web-performance-basics) (5 videos)
-  - How browsers render content
-  - HTTP/2 and multiplexing
-  - Bottlenecks
-  - Caching
-  - The PRPL pattern
+  - [How browsers render content](#how-browsers-render-content)
+  - [HTTP/2 and multiplexing](#http2-and-multiplexing)
+  - [Bottlenecks](#bottlenecks)
+  - [Caching](#caching)
+  - [The PRPL pattern](#the-prpl-pattern)
 - [**3. Creating a Performance Budget**](#3-creating-a-performance-budget) (3 videos)
-  - What is a performance budget?
-  - Creating a realistic performance budget
-  - Common culprits and performance hogs
+  - [What is a performance budget?](#what-is-a-performance-budget)
+  - [Creating a realistic performance budget](#creating-a-realistic-performance-budget)
+  - [Common culprits and performance hogs](#common-culprits-and-performance-hogs)
 - [**4. Optimizing Images**](#4-optimizing-images) (8 videos)
-  - Images are the leading cause of the slow web
-  - Image quality matters
-  - The image scaling hack
-  - Image format options
-  - Manual image optimization
-  - Automated image optimization
-  - Responsive images
-  - Lazy-loading images
+  - [Images are the leading cause of the slow web](#images-are-the-leading-cause-of-the-slow-web)
+  - [Image quality matters](#image-quality-matters)
+  - [The image scaling hack](#the-image-scaling-hack)
+  - [Image format options](#image-format-options)
+  - [Manual image optimization](#manual-image-optimization)
+  - [Automated image optimization](#automated-image-optimization)
+  - [Responsive images](#responsive-images)
+  - [Lazy-loading images](#lazy-loading-images)
 - [**5. Markup and Content**](#5-markup-and-content) (8 videos)
-  - Automated optimization of JavaScript and CSS
-  - JavaScript bundling vs. modules
-  - JavaScript loading: Async and defer
-  - Lazy-loading JavaScript modules with import()
-  - Minifying and uglifying JavaScript
-  - Critical CSS
-  - Deferring noncritical CSS
-  - Component-based CSS loading
+  - [Automated optimization of JavaScript and CSS](#automated-optimization-of-javascript-and-css)
+  - [JavaScript bundling vs. modules](#javascript-bundling-vs-modules)
+  - [JavaScript loading: Async and defer](#javascript-loading-async-and-defer)
+  - [Lazy-loading JavaScript modules with import()](#lazy-loading-javascript-modules-with-import)
+  - [Minifying and uglifying JavaScript](#minifying-and-uglifying-javascript)
+  - [Critical CSS](#critical-css)
+  - [Deferring noncritical CSS](#deferring-noncritical-css)
+  - [Component-based CSS loading](#component-based-css-loading)
 - [**6. Web Fonts**](#6-web-fonts) (5 videos)
-  - Web fonts can be major performance hogs
-  - Optimizing third-party web font delivery
-  - Optimizing self-hosted web font delivery
-  - Variable fonts to the rescue?
-  - Web fonts on a performance budget
+  - [Web fonts can be major performance hogs](#web-fonts-can-be-major-performance-hogs)
+  - [Optimizing third-party web font delivery](#optimizing-third-party-web-font-delivery)
+  - [Optimizing self-hosted web font delivery](#optimizing-self-hosted-web-font-delivery)
+  - [Variable fonts to the rescue?](#variable-fonts-to-the-rescue)
+  - [Web fonts on a performance budget](#web-fonts-on-a-performance-budget)
 - [**7. Optimizing Delivery**](#7-optimizing-delivery) (5 videos)
-  - Compress data with Gzip and Brotli
-  - Server push
-  - Preloading vs. prefetch
-  - Browser caching
-  - CDNs
+  - [Compress data with Gzip and Brotli](#compress-data-with-gzip-and-brotli)
+  - [Server push](#server-push)
+  - [Preloading vs. prefetch](#preloading-vs-prefetch)
+  - [Browser caching](#browser-caching)
+  - [CDNs](#cdns)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thank you
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is performance and why is it so important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-performance-and-why-is-it-so-important?u=76281980)
@@ -133,7 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** web (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [morten] (1)
@@ -141,7 +141,7 @@ created: 2026-04-29
 
 ### 1. Web Performance: An Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is web performance and optimization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-web-performance-and-optimization?u=76281980)
@@ -202,8 +202,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), web application (1), power (1), feature (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (2)
 > **Env Vars:** mdn (1), http (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Documentation:** mdn (1)
@@ -416,9 +416,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), data (4), [[Google]] (2), [[JavaScript]] (2), [[User Experience (UX)|User experience]] (2)
 > **UI Navigation:** go to (3), click on (3), open the (2), scroll down (1)
 > **Definitions:** is a  (8), means that (1)
-> **Code Keywords:** finally, (2), let (1), case, (1), else. (1), else, (1)
 > **Env Vars:** jpeg (2), seo (1), http (1), html (1), tti (1)
 > **Versions:** 237.99 (1), 1.49 (1), 1.48 (1), 153.9 (1)
 > **Analogies:** for example (2)
@@ -472,15 +472,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[User Experience (UX)|User experience]] (3), web (3), [[Search]] (2), data (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Web Performance Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How browsers render content
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980)
@@ -567,8 +567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), [[JavaScript]] (5), css (4), [[HTML]] (3), dom (3)
 > **Env Vars:** dns (6), http (4), css (4), isp (3), dom (3)
-> **Code Keywords:** let (1), case, (1), for. (1), for, (1), else, (1)
 > **Definitions:** is a  (2), known as (1), refers to (1)
 > **File Paths:** index.html (1), index.php (1), index.js (1)
 > **URLs:** [site.com](https://site.com) (3)
@@ -631,8 +631,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), data (2), [[JavaScript]] (2), web (1), css (1)
 > **Env Vars:** http (13), html (3), css (1), https (1), ssl (1)
-> **Code Keywords:** let (2), require (1), else. (1)
 > **Versions:** 1.1 (3)
 > **Definitions:** known as (2), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -708,9 +708,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), traffic (4), [[JavaScript]] (4), dns (2), data (2)
 > **Env Vars:** css (6), dns (2), http (1), cdn (1), tcp (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), async (1)
 > **Cross-References:** later in (2)
 > **Best Practices:** best practice (2)
 > **Definitions:** is an  (1)
@@ -806,8 +806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (6), css (4), next (2), web (2), management (1)
 > **Env Vars:** cdn (7), css (4), cms (1)
-> **Code Keywords:** static (4), default, (1), else. (1), module (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
@@ -841,17 +841,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), web (1), next (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** prpl (3), css (1)
 > **Definitions:** is an  (1), stands for (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Creating a Performance Budget
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a performance budget?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980)
@@ -894,7 +894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1)
+> **Frameworks & Libraries:** feature (2), data (1), [[User Experience (UX)|User experience]] (1), web (1), [[JavaScript]] (1)
 > **Env Vars:** http (1), css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -962,8 +962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Google]] (1), [[JavaScript]] (1), feature (1), hit (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** else. (1), case, (1), require (1), if, (1)
 > **Best Practices:** recommended (2), best practice (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - maybe (1)
@@ -1063,8 +1063,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), data (3), [[JavaScript]] (2), [[HTML]] (2), web (1)
 > **Env Vars:** http (4), css (4), cdn (3), https (2), html (2)
-> **Code Keywords:** let (2), this. (1), this, (1), case, (1), else, (1)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
@@ -1074,7 +1074,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Images are the leading cause of the slow web
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980)
@@ -1107,6 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), next (1), [[JavaScript]] (1)
 > **Env Vars:** http (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1251,8 +1252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), web (3), [[Zoom]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 2.5 (4), 1.8 (2), 9.9 (2), 1.4 (1), 3.9 (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** drag and drop (1)
@@ -1320,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), export, (1), this, (1)
+> **Frameworks & Libraries:** data (1), web (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -1422,10 +1423,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), application (1), feature (1), css (1)
 > **Env Vars:** jpeg (14), png (12), svg (9), gif (8), css (1)
 > **Code Identifiers:** webp (11)
 > **Definitions:** is a  (6)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (1), picture (1)
 > **Best Practices:** general rule (1), recommended (1)
 > **Speakers:** - the (1)
@@ -1515,9 +1516,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), hit (1), data (1)
 > **Env Vars:** svg (5), jpg (3), png (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** else. (1), finally, (1)
 > **Best Practices:** rule of thumb (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1736,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), async (1), this. (1), case, (1)
+> **Frameworks & Libraries:** node (4), web (3), [[CLI]] (3), [[Node.js]] (1), feature (1)
 > **Env Vars:** jpeg (6), cli (3), png (3)
 > **CLI Commands:** node (5), make (1)
 > **Code Identifiers:** webp (4), imageminpngquant (1)
@@ -1884,7 +1885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), case, (1), this, (1), let (1), finally, (1)
+> **Frameworks & Libraries:** feature (2), css (2), web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (2), uri (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -1949,7 +1950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), default. (1)
+> **Frameworks & Libraries:** web (3), [[JavaScript]] (3), feature (2), data (1), [[Google]] (1)
 > **Definitions:** is a  (2)
 > **Documentation:** specification (1)
 > **Best Practices:** recommended (1)
@@ -1958,7 +1959,7 @@ created: 2026-04-29
 
 ### 5. Markup and Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automated optimization of JavaScript and CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980)
@@ -2003,6 +2004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (8), css (5), web (3), [[HTML]] (1), [[React.js|React]] (1)
 > **Env Vars:** css (5), html (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -2105,8 +2107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (24), web (5), [[React.js|React]] (2), feature (2), front-end (1)
 > **Env Vars:** http (3)
-> **Code Keywords:** require (1), module (1)
 > **Exercise Files:** download the (2)
 > **CLI Commands:** make (1)
 > **Versions:** 1.1 (1)
@@ -2214,7 +2216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (10), let (1), this, (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (30), [[HTML]] (7), dom (6), css (1), [[Programming]] (1)
 > **Env Vars:** html (7), dom (6), css (1)
 > **Exercise Files:** download the (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -2361,7 +2363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (12), function (7), async (7), let (3), await (3)
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (5), feature (2), data (2), product (2)
 > **Env Vars:** html (5), cdn (2), esm (2)
 > **UI Navigation:** click on (3), go to (2), open the (1), scroll down (1)
 > **Prerequisites:** set up (4), setup (1)
@@ -2475,7 +2477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), module (5), this, (1), from, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[Java]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **Tools:** command line (1)
@@ -2683,8 +2685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (41), [[HTML]] (11), [[Representational State Transfer (REST)|Rest]] (3), [[JavaScript]] (2), dom (2)
 > **Env Vars:** css (41), html (11)
-> **Code Keywords:** let (4), this. (2), finally, (2)
 > **Definitions:** is a  (5), is an  (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
 > **File Paths:** index.html (2)
@@ -2748,8 +2750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), [[JavaScript]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Env Vars:** css (9)
-> **Code Keywords:** function (2), if, (2), case, (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -2784,6 +2786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), feature (2)
 > **Env Vars:** css (3)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -2791,7 +2794,7 @@ created: 2026-04-29
 
 ### 6. Web Fonts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web fonts can be major performance hogs
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980)
@@ -2818,8 +2821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), css (1), [[Google]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (1), fout (1), foit (1)
-> **Code Keywords:** require (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2912,7 +2915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), from. (2), else, (1), pass (1)
+> **Frameworks & Libraries:** [[Google]] (12), css (4), web (3), dns (3), [[Fetch]] (2)
 > **Env Vars:** css (4), dns (3), http (1), api (1)
 > **CLI Commands:** make (2)
 > **URLs:** [fontsgoogleapis.com](https://fontsgoogleapis.com) (1), [gstatic.com](https://gstatic.com) (1)
@@ -3017,7 +3020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), static (2), case, (2), type, (1)
+> **Frameworks & Libraries:** web (5), css (5), [[Google]] (3), hit (2), api (2)
 > **Env Vars:** css (5), api (2), ttf (1), html (1)
 > **File Paths:** style.css (1), index.html (1)
 > **CLI Commands:** find (1), make (1)
@@ -3093,7 +3096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), let (2), self (1), this, (1)
+> **Frameworks & Libraries:** [[Google]] (3)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
@@ -3152,6 +3155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), hit (1), css (1), next (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** we talked about (1), we covered (1)
 > **Env Vars:** css (1)
@@ -3160,7 +3164,7 @@ created: 2026-04-29
 
 ### 7. Optimizing Delivery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compress data with Gzip and Brotli
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980)
@@ -3245,7 +3249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), static (2), let (1), finally, (1), pass (1)
+> **Frameworks & Libraries:** web (2), [[Google]] (1), [[Node.js]] (1), [[Server Configuration]] (1)
 > **CLI Commands:** apache (1), node (1), make (1)
 > **Env Vars:** html5 (1), cdn (1)
 > **Definitions:** is a  (2)
@@ -3305,9 +3309,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[JavaScript]] (3), web (2), [[PHP]] (1)
 > **Env Vars:** http (4), html (4), css (4), php (1)
 > **Prerequisites:** configure (2), set up (1)
-> **Code Keywords:** this. (1), static (1)
 > **CLI Commands:** php (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
@@ -3354,7 +3358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), web (1), hit (1), next (1)
 > **Warnings:** be careful (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -3395,6 +3399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), css (1)
 > **Env Vars:** cdn (5), html5 (1), css (1)
 > **CLI Commands:** make (2), nginx (1), find (1)
 > **Exercise Files:** boilerplate (2), download the (1)
@@ -3432,6 +3437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), traffic (1), management (1)
 > **Env Vars:** cdn (11)
 > **Definitions:** is a  (1), is an  (1)
 > **Documentation:** the documentation (1)
@@ -3440,7 +3446,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/thank-you?u=76281980)
@@ -3463,6 +3469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), next (1)
 > **CLI Commands:** make (1), go build (1)
 > **URLs:** [web.dev](https://web.dev) (1)
 > **Env Vars:** mdn (1)

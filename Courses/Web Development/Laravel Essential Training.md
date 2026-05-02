@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/laravel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Laravel%20Essential%20Training.md)
@@ -44,70 +44,70 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Meet Laravel
-  - What you should know
-  - Understand the MVC architecture
-  - Using Codespaces with this course
+  - [Meet Laravel](#meet-laravel)
+  - [What you should know](#what-you-should-know)
+  - [Understand the MVC architecture](#understand-the-mvc-architecture)
+  - [Using Codespaces with this course](#using-codespaces-with-this-course)
 - [**1. Laravel Basics: Routes, Views, and Controllers**](#1-laravel-basics-routes-views-and-controllers) (7 videos)
-  - Serve the application
-  - Handle routing
-  - Creating a view
-  - Building layouts with Blade
-  - Working with controllers
-  - Challenge: Create a controller and a view, then add a route
-  - Solution: Create a controller and a view, then add a route
+  - [Serve the application](#serve-the-application)
+  - [Handle routing](#handle-routing)
+  - [Creating a view](#creating-a-view)
+  - [Building layouts with Blade](#building-layouts-with-blade)
+  - [Working with controllers](#working-with-controllers)
+  - [Challenge: Create a controller and a view, then add a route](#challenge-create-a-controller-and-a-view-then-add-a-route)
+  - [Solution: Create a controller and a view, then add a route](#solution-create-a-controller-and-a-view-then-add-a-route)
 - [**2. Laravel Basics: Configuration, Database, Migrations, and Eloquent**](#2-laravel-basics-configuration-database-migrations-and-eloquent) (6 videos)
-  - Understand Laravel configuration
-  - Working with the database
-  - Creating and running migrations
-  - Creating models and using Eloquent
-  - Challenge: Create a migration to add a column and update a row
-  - Solution: Create a migration to add a column and update a row
+  - [Understand Laravel configuration](#understand-laravel-configuration)
+  - [Working with the database](#working-with-the-database)
+  - [Creating and running migrations](#creating-and-running-migrations)
+  - [Creating models and using Eloquent](#creating-models-and-using-eloquent)
+  - [Challenge: Create a migration to add a column and update a row](#challenge-create-a-migration-to-add-a-column-and-update-a-row)
+  - [Solution: Create a migration to add a column and update a row](#solution-create-a-migration-to-add-a-column-and-update-a-row)
 - [**3. Starting Your Project**](#3-starting-your-project) (7 videos)
-  - Understand the project requirements
-  - Add authentication with Laravel Breeze
-  - Adding styles to the project
-  - Create the first model, migration, controller, and routes
-  - Register resource routes
-  - Challenge: Create a new resource
-  - Solution: Create a new resource
+  - [Understand the project requirements](#understand-the-project-requirements)
+  - [Add authentication with Laravel Breeze](#add-authentication-with-laravel-breeze)
+  - [Adding styles to the project](#adding-styles-to-the-project)
+  - [Create the first model, migration, controller, and routes](#create-the-first-model-migration-controller-and-routes)
+  - [Register resource routes](#register-resource-routes)
+  - [Challenge: Create a new resource](#challenge-create-a-new-resource)
+  - [Solution: Create a new resource](#solution-create-a-new-resource)
 - [**4. Creating, Indexing, and Showing**](#4-creating-indexing-and-showing) (9 videos)
-  - Add an index method to fetch all notes
-  - Create an index view to display all notes
-  - Add pagination and clean up the index view
-  - Add a create method and view to show a form
-  - Add a store action to save the data
-  - Add a show action and view to display single note
-  - Create a unique ID for each note
-  - Challenge: Add index and create methods for a new resource
-  - Solution: Add index and create methods for a new resource
+  - [Add an index method to fetch all notes](#add-an-index-method-to-fetch-all-notes)
+  - [Create an index view to display all notes](#create-an-index-view-to-display-all-notes)
+  - [Add pagination and clean up the index view](#add-pagination-and-clean-up-the-index-view)
+  - [Add a create method and view to show a form](#add-a-create-method-and-view-to-show-a-form)
+  - [Add a store action to save the data](#add-a-store-action-to-save-the-data)
+  - [Add a show action and view to display single note](#add-a-show-action-and-view-to-display-single-note)
+  - [Create a unique ID for each note](#create-a-unique-id-for-each-note)
+  - [Challenge: Add index and create methods for a new resource](#challenge-add-index-and-create-methods-for-a-new-resource)
+  - [Solution: Add index and create methods for a new resource](#solution-add-index-and-create-methods-for-a-new-resource)
 - [**5. Editing, Updating, and Deleting**](#5-editing-updating-and-deleting) (6 videos)
-  - Add an edit method and view to allow editing of the note
-  - Add an update method to update edited data
-  - Add a destroy method to delete a note
-  - Show flash data to users
-  - Challenge: Update notes with a new resource
-  - Solution: Update notes with a new resource
+  - [Add an edit method and view to allow editing of the note](#add-an-edit-method-and-view-to-allow-editing-of-the-note)
+  - [Add an update method to update edited data](#add-an-update-method-to-update-edited-data)
+  - [Add a destroy method to delete a note](#add-a-destroy-method-to-delete-a-note)
+  - [Show flash data to users](#show-flash-data-to-users)
+  - [Challenge: Update notes with a new resource](#challenge-update-notes-with-a-new-resource)
+  - [Solution: Update notes with a new resource](#solution-update-notes-with-a-new-resource)
 - [**6. Relationships**](#6-relationships) (5 videos)
-  - What are Eloquent relationships?
-  - Define relationships
-  - Query and save relationships
-  - Challenge: Define a new relationship and use it
-  - Solution: Define a new relationship and use it
+  - [What are Eloquent relationships?](#what-are-eloquent-relationships)
+  - [Define relationships](#define-relationships)
+  - [Query and save relationships](#query-and-save-relationships)
+  - [Challenge: Define a new relationship and use it](#challenge-define-a-new-relationship-and-use-it)
+  - [Solution: Define a new relationship and use it](#solution-define-a-new-relationship-and-use-it)
 - [**7. Soft Deleting**](#7-soft-deleting) (5 videos)
-  - Enable soft delete
-  - Query soft deleted models
-  - Show soft deleted model
-  - Restore soft deleted models
-  - Permanently delete models
+  - [Enable soft delete](#enable-soft-delete)
+  - [Query soft deleted models](#query-soft-deleted-models)
+  - [Show soft deleted model](#show-soft-deleted-model)
+  - [Restore soft deleted models](#restore-soft-deleted-models)
+  - [Permanently delete models](#permanently-delete-models)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Optional: Set up a local development environment
-  - Quick summary
-  - Next steps
+  - [Optional: Set up a local development environment](#optional-set-up-a-local-development-environment)
+  - [Quick summary](#quick-summary)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980)
@@ -132,9 +132,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (5), web (3), [[PHP]] (3), application (1), career (1)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 
 #### What you should know
@@ -158,9 +158,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), [[PHP]] (1), [[Databases]] (1), [[MySQL]] (1), [[Laravel]] (1)
 > **Env Vars:** html (1), php (1), http (1), mvc (1)
 > **CLI Commands:** php (1), mysql (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Definitions:** short for (1)
 
@@ -197,7 +197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1), let (1)
+> **Frameworks & Libraries:** application (3), data (3), database (2), web (2), [[Laravel]] (1)
 > **Env Vars:** mvc (2)
 > **Definitions:** is a  (1)
 
@@ -304,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), this. (3), continue (2), interface (1), let (1)
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (8), cloud (1), power (1), next (1)
 > **Tools:** github (8), visual studio (2)
 > **Env Vars:** url (8)
 > **UI Navigation:** click on (3), switch to (3)
@@ -316,7 +316,7 @@ created: 2026-04-29
 
 ### 1. Laravel Basics: Routes, Views, and Controllers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Serve the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980)
@@ -375,10 +375,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (8), [[PHP]] (7), [[Codespaces]] (2), application (2), [[Windows]] (2)
 > **CLI Commands:** php (7), make (2), docker (1)
 > **Tools:** terminal (4), command line (1)
 > **Env Vars:** php (2), ide (1), url (1)
-> **Code Keywords:** case, (1), interface (1), let (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Versions:** version 11 (1)
 > **Definitions:** is a  (1)
@@ -447,8 +447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), web (4), [[Laravel]] (3), [[Codespaces]] (2), application (1)
 > **CLI Commands:** php (6), find (3), make (2)
-> **Code Keywords:** let (5), from. (1), public (1), this. (1), else. (1)
 > **File Paths:** web.php (3), index.php (2), core.php (1)
 > **Env Vars:** url (4), ide (1), html (1)
 > **UI Navigation:** click on (1), open the (1), go to (1)
@@ -549,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), this, (2), function (1), if, (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[HTML]] (5), [[Laravel]] (3), web (1), data (1)
 > **CLI Commands:** php (11)
 > **Env Vars:** html (5), url (1), php (1)
 > **File Paths:** home.blade.php (2), welcome.blade.php (1), blade.php (1), web.php (1)
@@ -731,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), yield (3), this. (3), pass (2), extends (1)
+> **Frameworks & Libraries:** [[PHP]] (9), web (3), [[Laravel]] (2), [[Search]] (2), data (1)
 > **CLI Commands:** php (9)
 > **File Paths:** home.blade.php (4), base.blade.php (2), about.blade.php (1), web.php (1)
 > **UI Navigation:** go to (6)
@@ -812,7 +812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1), match, (1), class. (1), default, (1)
+> **Frameworks & Libraries:** [[Laravel]] (2), [[PHP]] (2), hit (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** php (1)
 > **Cross-References:** go back to (1)
@@ -853,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (1), next (1)
 > **UI Navigation:** switch to (2), go to (1)
-> **Code Keywords:** switch (2)
 > **Cross-References:** go back to (1), next video (1)
 > **Env Vars:** url (1)
 
@@ -899,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), public (1), function (1), class, (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1), web (1)
 > **CLI Commands:** php (3), make (1)
 > **Env Vars:** url (2), html (1)
 > **File Paths:** greeting.blade.php (1), web.php (1)
@@ -909,7 +909,7 @@ created: 2026-04-29
 
 ### 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Laravel configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980)
@@ -974,8 +974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[PHP]] (4), database (3), [[Laravel]] (3), data (1)
 > **CLI Commands:** php (4), git (1), make (1)
-> **Code Keywords:** let (3), this . (1), function (1)
 > **File Paths:** app.php (2), database.php (1), welcome.blade.php (1)
 > **Analogies:** for example (2), similar to (1)
 > **Env Vars:** url (2)
@@ -1122,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (3), delete (2), interface (1), class. (1)
+> **Frameworks & Libraries:** database (12), [[Laravel]] (9), [[MySQL]] (3), [[SQL]] (3), [[Fetch]] (3)
 > **Code Identifiers:** email_verified (1), remember_token (1), created_at (1), updated_at (1), whereall (1)
 > **UI Navigation:** click on (4), open the (2), right-click (1)
 > **Env Vars:** sql (3), orm (2), gui (1)
@@ -1200,7 +1200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), new. (1), default, (1)
+> **Frameworks & Libraries:** [[Laravel]] (5), database (2), [[PHP]] (2), hit (2), [[Version Control]] (1)
 > **Code Identifiers:** create_students_table (1), created_at (1), updated_at (1), password_reset_tokens (1)
 > **CLI Commands:** php (2), make (1)
 > **Tools:** terminal (2)
@@ -1304,7 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (3), class, (2), delete (1), case, (1)
+> **Frameworks & Libraries:** data (5), database (3), [[PHP]] (2), [[Fetch]] (2), next (2)
 > **CLI Commands:** php (2), make (2)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** similar to (1), just like (1)
@@ -1338,6 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), [[Laravel]] (1), database (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Env Vars:** gui (1)
 
@@ -1416,7 +1417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1)
+> **Frameworks & Libraries:** database (3), [[PHP]] (2), [[Laravel]] (2)
 > **CLI Commands:** find (5), php (2), make (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **URLs:** [example.com](https://example.com) (2), [laravel.com](https://laravel.com) (1)
@@ -1427,7 +1428,7 @@ created: 2026-04-29
 
 ### 3. Starting Your Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980)
@@ -1520,7 +1521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (6), finally, (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[Representational State Transfer (REST)|Rest]] (1), web application (1), node (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** node (1), find (1)
 > **Cross-References:** go back to (1)
@@ -1658,7 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (2), this, (1), this. (1), while. (1)
+> **Frameworks & Libraries:** [[Laravel]] (4), css (3), [[PHP]] (3), [[Codespaces]] (2), application (1)
 > **CLI Commands:** php (3), make (1), node (1), find (1)
 > **UI Navigation:** switch to (2), go to (2), open the (1)
 > **Prerequisites:** install (3), setup (1), set up (1)
@@ -1820,7 +1821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this. (3), this, (2), else. (1), from. (1)
+> **Frameworks & Libraries:** css (11), [[PHP]] (3), [[npm]] (3), [[Laravel]] (2), [[Codespaces]] (2)
 > **CLI Commands:** make (5), php (3), npm (3)
 > **UI Navigation:** go to (6), scroll down (2), navigate to (1), open the (1), scroll up (1)
 > **Env Vars:** css (10)
@@ -1914,7 +1915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), for. (1), pass (1), class, (1)
+> **Frameworks & Libraries:** [[PHP]] (2), hit (2), database (2), data (1), [[Laravel]] (1)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** http (1), crud (1)
@@ -2036,7 +2037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), while. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), web (1), [[Laravel]] (1), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (4), open the (1), scroll down (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **Env Vars:** url (4)
@@ -2063,6 +2064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** crud (1)
 
 #### Solution: Create a new resource
@@ -2124,7 +2126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class) (1), class, (1)
+> **Frameworks & Libraries:** [[PHP]] (4), hit (1), database (1), web (1)
 > **CLI Commands:** php (4), make (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **File Paths:** web.php (1)
@@ -2134,7 +2136,7 @@ created: 2026-04-29
 
 ### 4. Creating, Indexing, and Showing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add an index method to fetch all notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980)
@@ -2265,7 +2267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (5), class. (1), function (1), default, (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), database (2), data (2), [[PHP]] (1), next (1)
 > **Code Identifiers:** updated_at (5), user_id (2)
 > **UI Navigation:** go to (5), click on (2)
 > **CLI Commands:** make (3), php (1)
@@ -2401,7 +2403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (1), pass (1), function (1), class, (1)
+> **Frameworks & Libraries:** data (3), [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), php (1)
 > **Code Identifiers:** updated_at (2), diffforhumans (2)
 > **UI Navigation:** go to (1), open the (1)
@@ -2543,7 +2545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (4), pass (2), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Search]] (2), [[Laravel]] (1), css (1), node (1)
 > **UI Navigation:** go to (6), open the (1)
 > **CLI Commands:** php (2), make (2), node (1), find (1)
 > **File Paths:** navigation.blade.php (1), web.php (1)
@@ -2808,7 +2810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (6), delete (2), class. (1), else. (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Laravel]] (3), node (2), [[Forms]] (2), data (1)
 > **CLI Commands:** php (5), make (3), node (2)
 > **UI Navigation:** go to (6), open the (3), click on (1)
 > **Env Vars:** csrf (6), url (2)
@@ -3006,7 +3008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (4), protected (4), continue (3), this, (3)
+> **Frameworks & Libraries:** data (5), [[Laravel]] (2), database (1), [[Security]] (1), feature (1)
 > **UI Navigation:** go to (3), open the (1)
 > **Cross-References:** go back to (2)
 > **Documentation:** the docs (1)
@@ -3198,7 +3200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (5), this. (2), this, (1), case, (1)
+> **Frameworks & Libraries:** css (2), next (1), [[Laravel]] (1), application (1), [[PHP]] (1)
 > **UI Navigation:** open the (3), go to (2), click on (1)
 > **Code Identifiers:** diffforhumans (2), user_id (1), created_at (1), updated_at (1)
 > **CLI Commands:** make (3), php (1)
@@ -3312,7 +3314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (2), this. (2), public (2), function (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **UI Navigation:** go to (3), click on (2), open the (1)
 > **Env Vars:** url (3), save (1), note (1)
 > **CLI Commands:** php (2), make (1)
@@ -3467,7 +3469,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (1), protected (1)
 > **UI Navigation:** go to (2), open the (2), click on (1)
 > **Code Identifiers:** to_route (1)
 > **Env Vars:** url (1)
@@ -3476,7 +3477,7 @@ created: 2026-04-29
 
 ### 5. Editing, Updating, and Deleting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add an edit method and view to allow editing of the note
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980)
@@ -3583,7 +3584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (2), class, (1), this, (1), delete (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[PHP]] (1), [[HTML]] (1), data (1), next (1)
 > **CLI Commands:** make (2), php (1), find (1)
 > **UI Navigation:** open the (1), click on (1), scroll down (1), go to (1)
 > **Env Vars:** url (1), html (1), csr (1)
@@ -3650,7 +3651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (2), this, (2), pass (1)
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** to_route (1)
 > **Cross-References:** previous video (1)
@@ -3748,7 +3749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), delete (11), pass (1), this, (1), class, (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** open the (2), click on (2), scroll down (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** csrf (1), url (1)
@@ -3879,7 +3880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (3), pass (2), if ( (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[Laravel]] (1), [[PHP]] (1), next (1)
 > **UI Navigation:** go to (3), open the (2), click on (1)
 > **File Paths:** alert-success.blade.php (1)
 > **CLI Commands:** php (1)
@@ -3911,6 +3912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), database (1)
 > **Env Vars:** gui (1)
 > **Documentation:** the documentation (1)
 
@@ -4111,7 +4113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), pass (4), this, (3), this. (3), class. (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Fetch]] (2), database (2)
 > **Code Identifiers:** notebook_id (8), add_notebook_to_notes_table (1), foreignidfor (1), dropifexists (1), user_id (1)
 > **UI Navigation:** open the (6), go to (4), select the (2)
 > **CLI Commands:** php (3), make (1)
@@ -4123,7 +4125,7 @@ created: 2026-04-29
 
 ### 6. Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Eloquent relationships?
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/what-are-eloquent-relationships?u=76281980)
@@ -4144,7 +4146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** database (1)
 > **Analogies:** for example (1)
 
 #### Define relationships
@@ -4192,7 +4194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), function (2), pass (1), class. (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Code Identifiers:** hasmany (1), hasone (1), belongsto (1)
 > **UI Navigation:** scroll down (1), open the (1)
 > **Analogies:** just like (2)
@@ -4301,7 +4303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (5), delete (1), pass (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Laravel]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** belongsto (1), wherebelongsto (1)
 > **UI Navigation:** go to (2)
@@ -4329,7 +4331,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 
 #### Solution: Define a new relationship and use it
@@ -4403,7 +4404,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (2), function (2), class, (1), this. (1)
 > **Code Identifiers:** hasmany (2), belongsto (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Analogies:** similar to (1), just like (1)
@@ -4411,7 +4411,7 @@ created: 2026-04-29
 
 ### 7. Soft Deleting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable soft delete
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980)
@@ -4490,7 +4490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (5), this. (2)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **Code Identifiers:** deleted_at (3), add_soft_deletes (1), table_soft_delete (1), dropsoftdeletes (1)
 > **UI Navigation:** open the (3), click on (1), go to (1)
 > **CLI Commands:** php (2), make (1)
@@ -4649,7 +4649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (2), public (1), function (1), pass (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[PHP]] (3), next (2), web (1), [[Laravel]] (1)
 > **UI Navigation:** navigate to (3), open the (2), scroll down (1), click on (1), go to (1)
 > **CLI Commands:** php (3), make (2)
 > **File Paths:** web.php (1), navigation.blade.php (1)
@@ -4824,7 +4824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (6), else, (3), pass (2), default, (1)
+> **Frameworks & Libraries:** web (2), [[PHP]] (2), data (1)
 > **UI Navigation:** click on (4), open the (4), go to (2)
 > **File Paths:** web.php (2)
 > **CLI Commands:** php (2)
@@ -4931,7 +4931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), delete (2), this, (2), class. (1)
+> **Frameworks & Libraries:** web (1), [[PHP]] (1)
 > **Code Identifiers:** withtrashed (2), deleted_at (1)
 > **Env Vars:** csrf (1), found (1)
 > **UI Navigation:** open the (1), click on (1)
@@ -5066,7 +5066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (7), this. (5), public (1), function (1)
+> **Frameworks & Libraries:** next (1), web (1), [[PHP]] (1), database (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **CLI Commands:** php (1), make (1)
 > **Code Identifiers:** withtrashed (2)
@@ -5077,7 +5077,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optional: Set up a local development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980)
@@ -5164,10 +5164,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (15), [[Windows]] (5), [[PHP]] (4), database (3), application (3)
 > **CLI Commands:** php (4), composer (3), mysql (2), docker (2), apache (1)
 > **Prerequisites:** install (8), configure (1), set up (1)
 > **Env Vars:** php (3), nvm (1), ide (1), gui (1)
-> **Code Keywords:** while. (2), this. (1), let (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Tools:** visual studio (1), vs code (1), terminal (1)
 > **Code Identifiers:** macos (2)
@@ -5212,7 +5212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Laravel]] (2), functional (1), database (1)
 > **Env Vars:** crud (1)
 
 #### Next steps
@@ -5246,9 +5246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (8), feature (2), [[Search]] (2), functional (1), [[LinkedIn]] (1)
 > **Best Practices:** it's best to (1), don't forget (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 
 

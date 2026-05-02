@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20the%20Python%203%20Standard%20Library.md)
@@ -48,53 +48,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Make writing Python easier with Python standard libraries
-  - What you need to know
-  - Using exercise files
-  - How to use CoderPad
-  - Python standard library introduction
+  - [Make writing Python easier with Python standard libraries](#make-writing-python-easier-with-python-standard-libraries)
+  - [What you need to know](#what-you-need-to-know)
+  - [Using exercise files](#using-exercise-files)
+  - [How to use CoderPad](#how-to-use-coderpad)
+  - [Python standard library introduction](#python-standard-library-introduction)
 - [**1. Python: What's Built In?**](#1-python-whats-built-in) (9 videos)
-  - Logical operators: And, or, not
-  - Comparison operators
-  - Calculating length
-  - Range and list
-  - Min and max
-  - Rounding, absolute value, and exponents
-  - Sorted function
-  - Type functions
-  - Solution: Count valid numbers
+  - [Logical operators: And, or, not](#logical-operators-and-or-not)
+  - [Comparison operators](#comparison-operators)
+  - [Calculating length](#calculating-length)
+  - [Range and list](#range-and-list)
+  - [Min and max](#min-and-max)
+  - [Rounding, absolute value, and exponents](#rounding-absolute-value-and-exponents)
+  - [Sorted function](#sorted-function)
+  - [Type functions](#type-functions)
+  - [Solution: Count valid numbers](#solution-count-valid-numbers)
 - [**2. Python: Math**](#2-python-math) (7 videos)
-  - Trigonometry, ceiling, floor, and constants
-  - Factorial, square root, and GCD
-  - Python random module
-  - Calculating statistics with Python
-  - Iterators with itertools: Infinite processes
-  - Iterators with itertools: Permutations and combinations
-  - Solution: Calculate hypotenuse
+  - [Trigonometry, ceiling, floor, and constants](#trigonometry-ceiling-floor-and-constants)
+  - [Factorial, square root, and GCD](#factorial-square-root-and-gcd)
+  - [Python random module](#python-random-module)
+  - [Calculating statistics with Python](#calculating-statistics-with-python)
+  - [Iterators with itertools: Infinite processes](#iterators-with-itertools-infinite-processes)
+  - [Iterators with itertools: Permutations and combinations](#iterators-with-itertools-permutations-and-combinations)
+  - [Solution: Calculate hypotenuse](#solution-calculate-hypotenuse)
 - [**3. Python Input/Output**](#3-python-inputoutput) (8 videos)
-  - Command-line arguments
-  - Input and output
-  - Files and file writing
-  - File seeking in Python
-  - Iterative files
-  - Tempfile module
-  - Manipulate zip files in Python
-  - Solution: Count words in a file
+  - [Command-line arguments](#command-line-arguments)
+  - [Input and output](#input-and-output)
+  - [Files and file writing](#files-and-file-writing)
+  - [File seeking in Python](#file-seeking-in-python)
+  - [Iterative files](#iterative-files)
+  - [Tempfile module](#tempfile-module)
+  - [Manipulate zip files in Python](#manipulate-zip-files-in-python)
+  - [Solution: Count words in a file](#solution-count-words-in-a-file)
 - [**4. Python: Date and Time, HTML Parsing, and HTTP**](#4-python-date-and-time-html-parsing-and-http) (8 videos)
-  - Getting the current time with Python
-  - Formatting dates and times in Python with datetime
-  - Calculating future times and Python calendar module
-  - Create a timer with the Python time module
-  - Python HTML parser module
-  - Text wrap module
-  - Python HTTP package and urllib and JSON modules
-  - Solution: Add Fractions with Fraction Module
+  - [Getting the current time with Python](#getting-the-current-time-with-python)
+  - [Formatting dates and times in Python with datetime](#formatting-dates-and-times-in-python-with-datetime)
+  - [Calculating future times and Python calendar module](#calculating-future-times-and-python-calendar-module)
+  - [Create a timer with the Python time module](#create-a-timer-with-the-python-time-module)
+  - [Python HTML parser module](#python-html-parser-module)
+  - [Text wrap module](#text-wrap-module)
+  - [Python HTTP package and urllib and JSON modules](#python-http-package-and-urllib-and-json-modules)
+  - [Solution: Add Fractions with Fraction Module](#solution-add-fractions-with-fraction-module)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Add these built-in functions to your own applications
+  - [Add these built-in functions to your own applications](#add-these-built-in-functions-to-your-own-applications)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make writing Python easier with Python standard libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Algorithms]] (1)
 > **CLI Commands:** python (3), make (1)
-> **Code Keywords:** super (1), module (1), let (1)
 > **Env Vars:** http (1)
 > **Speakers:** - sometimes (1)
 
@@ -157,10 +157,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Control Flow]] (1), data (1)
 > **CLI Commands:** python (5)
 > **Tools:** pycharm (2), command line (1)
 > **Versions:** python 3 (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** such as (1)
@@ -185,6 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -236,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** show_expected_results (1), show_hints (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -298,8 +299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Java]] (1), application (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** module (2), function (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** kind of like (1)
@@ -308,7 +309,7 @@ created: 2026-04-29
 
 ### 1. Python: What's Built In?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Logical operators: And, or, not
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/logical-operators-and-or-not-14504431?u=76281980)
@@ -461,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (2), [[Programming]] (1)
 > **Code Identifiers:** israining (11), issunny (7), isadult (3)
-> **Code Keywords:** case, (9), let (6), super (1), this, (1), for, (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** in the next (2)
@@ -548,7 +549,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (1), this. (1), case, (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
@@ -650,7 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), case, (2), this, (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Swift (Programming Language)|Swift]] (2), [[Python (Programming Language)|Python]] (1), hit (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** firstname (1)
@@ -723,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), super (2), let (1)
+> **Frameworks & Libraries:** data (2), hit (1)
 > **Code Identifiers:** numberedcontestants (2), luckywinners (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -807,8 +807,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** playeronescore (4), playertwo (3), playertwoscore (3), playerone (2), playerthreescore (2)
-> **Code Keywords:** function (4), this, (2), let (1), module (1)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** previous video (1)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (2), this. (1), this, (1), module (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Google]] (2), power (2)
 > **Versions:** 2.5 (3), 1.2 (2), 0.5 (2), 3.6 (1), 1.4 (1)
 > **Definitions:** is a  (4), is called (1), stands for (1)
 > **Env Vars:** gpa (3), abs (2)
@@ -1102,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), lambda (3), this. (1), this, (1)
+> **Frameworks & Libraries:** game (8), data (4), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Env Vars:** jkc (2), ckl (1), abc (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1228,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), type. (2), this, (2), class, (2)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Definitions:** is a  (8), is an  (5)
 > **Cross-References:** previous video (2)
 > **Speakers:** - [instructor] (1)
@@ -1266,14 +1266,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
 > **Env Vars:** abs (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Python: Math
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trigonometry, ceiling, floor, and constants
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980)
@@ -1372,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (7), function (4), let (2)
+> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (1)
 > **Versions:** 10.3 (3), 47.9 (2), 0.3 (1)
 > **Definitions:** stands for (2), is a  (1)
 > **CLI Commands:** python (1)
@@ -1478,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), function (4), this, (3), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** gcd (4)
 > **CLI Commands:** python (2), find (1)
 > **Versions:** 6.28 (2), go 3 (1)
@@ -1605,7 +1604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (13), function (9), this, (3), let (3), else, (1)
+> **Frameworks & Libraries:** data (2), [[Probability]] (1)
 > **Env Vars:** heads (4), tails (4)
 > **CLI Commands:** cat (6), make (1)
 > **Code Identifiers:** lotterywinners (2), possiblepets (2), if_decider (1)
@@ -1723,7 +1722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (7), function (2), this, (2), let (1)
+> **Frameworks & Libraries:** data (21), [[Statistics]] (15)
 > **Code Identifiers:** agesdata (4)
 > **Versions:** 2.33333 (1), 11.7779 (1), 0.5 (1), 1.8 (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -1810,7 +1809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), module (3), continue (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** x_in (1), c_in (1), r_in (1)
 > **Env Vars:** racecar (3)
 > **CLI Commands:** python (1)
@@ -1920,7 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (3), module (2), switch (1)
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** colorsforpainting (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1957,7 +1956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), module (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1965,7 +1964,7 @@ created: 2026-04-29
 
 ### 3. Python Input/Output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980)
@@ -2090,8 +2089,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Python (Programming Language)|Python]] (1), data (1)
 > **Tools:** command line (14), terminal (1)
-> **Code Keywords:** this, (4), module (3), this. (1), function (1), let (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** ide (2)
 > **Versions:** go 0 (2)
@@ -2166,7 +2165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), function (1), this, (1), else, (1)
+> **Frameworks & Libraries:** prompt (1), data (1)
 > **Cross-References:** previous video (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -2264,11 +2263,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (1)
 > **Code Identifiers:** myfile (8), myfile2 (2)
 > **File Paths:** scores.txt (8)
 > **Env Vars:** gbj (3), khd (2), bbb (1)
 > **CLI Commands:** python (4), make (1)
-> **Code Keywords:** new, (1), case, (1), super (1), let (1), this, (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** stands for (1)
@@ -2340,7 +2339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), this, (3)
+> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** just like (1)
@@ -2413,9 +2412,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Env Vars:** bbb (5), pdj (3)
 > **Code Identifiers:** myfile (5)
-> **Code Keywords:** case, (2), this, (1), function (1)
 > **File Paths:** scores.txt (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2467,7 +2466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
 > **Code Identifiers:** tempfile (5)
 > **CLI Commands:** python (1)
 > **Analogies:** similar to (1)
@@ -2584,7 +2583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), this, (5), let (1), else, (1), case, (1)
+> **Frameworks & Libraries:** [[Metadata]] (8), data (2), application (1), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** wishlist.txt (4), purchase.txt (3), purchased.txt (3)
 > **Exercise Files:** zip file (10)
 > **Cross-References:** go back to (4), previous video (1)
@@ -2642,7 +2641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), function (1), default, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** word_count (2), create_file (1)
 > **CLI Commands:** python (2)
 > **Exercise Files:** sample code (1)
@@ -2651,7 +2650,7 @@ created: 2026-04-29
 
 ### 4. Python: Date and Time, HTML Parsing, and HTTP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the current time with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/getting-the-current-time-with-python-14502518?u=76281980)
@@ -2716,7 +2715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), class, (1), super (1)
+> **Frameworks & Libraries:** application (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2803,7 +2802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), function (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (1), application (1)
 > **Speakers:** - [instructor] (1)
 
 #### Calculating future times and Python calendar module
@@ -2881,8 +2880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), application (1)
 > **Code Identifiers:** testdate (6), myfirstlinkedincourse (3)
-> **Code Keywords:** module (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2947,7 +2946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (1), function (1), continue (1), case, (1)
+> **Frameworks & Libraries:** hit (5)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3040,8 +3039,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (23), data (14), [[Python (Programming Language)|Python]] (3), application (1), [[LinkedIn]] (1)
 > **Env Vars:** html (20)
-> **Code Keywords:** let (3), this, (3), self (3), module (2), class. (2)
 > **Code Identifiers:** samplehtml (2), handle_starttag (1), handle_endtag (1), handle_comments (1), htmlfile (1)
 > **CLI Commands:** python (3), make (1)
 > **File Paths:** samplehtml.html (2)
@@ -3122,7 +3121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (2), this, (1), this. (1), function (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** websitetext (2), dedent_text (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2)
@@ -3261,8 +3260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (8), api (6), [[Google]] (4), data (4), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** api (6), json (6), isbn (4), url (4), utf (1)
-> **Code Keywords:** module (7), this, (3), this. (1), function (1), let (1)
 > **Code Identifiers:** searchinfo (6), textsnippet (4)
 > **CLI Commands:** python (3), make (1), find (1)
 > **Definitions:** is a  (2), is an  (2)
@@ -3305,7 +3304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (2), function (1), class. (1), return. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
 > **CLI Commands:** python (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3313,7 +3312,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add these built-in functions to your own applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980)
@@ -3334,8 +3333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Statistics]] (1), application (1), data (1), next (1)
 > **CLI Commands:** python (3), find (1)
-> **Code Keywords:** module (1)
 > **Speakers:** - congratulations (1)
 
 

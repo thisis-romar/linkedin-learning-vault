@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/nosql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20To%20Nosql.md)
@@ -44,28 +44,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - A guide to NoSQL: No programming needed
+  - [A guide to NoSQL: No programming needed](#a-guide-to-nosql-no-programming-needed)
 - [**1. NoSQL? Why Can’t You Have Any Sequels?**](#1-nosql-why-cant-you-have-any-sequels) (3 videos)
-  - So what is NoSQL?
-  - Asking data questions with query languages
-  - Horizontal scalability
+  - [So what is NoSQL?](#so-what-is-nosql)
+  - [Asking data questions with query languages](#asking-data-questions-with-query-languages)
+  - [Horizontal scalability](#horizontal-scalability)
 - [**2. NoSQL Powers Everything**](#2-nosql-powers-everything) (2 videos)
-  - You're already using NoSQL databases—you just don't know it
-  - Give more examples
+  - [You're already using NoSQL databases—you just don't know it](#youre-already-using-nosql-databasesyou-just-dont-know-it)
+  - [Give more examples](#give-more-examples)
 - [**3. The Three Vs: Volume, Velocity, and Variety**](#3-the-three-vs-volume-velocity-and-variety) (5 videos)
-  - Volume: How much data are you really talking about?
-  - Velocity: Defining online speeds with OLTP
-  - Velocity: Understanding and increasing throughput
-  - Variety: Rethinking the data model
-  - Variety: NoSQL data models
+  - [Volume: How much data are you really talking about?](#volume-how-much-data-are-you-really-talking-about)
+  - [Velocity: Defining online speeds with OLTP](#velocity-defining-online-speeds-with-oltp)
+  - [Velocity: Understanding and increasing throughput](#velocity-understanding-and-increasing-throughput)
+  - [Variety: Rethinking the data model](#variety-rethinking-the-data-model)
+  - [Variety: NoSQL data models](#variety-nosql-data-models)
 - [**4. Differences in Scalability, Performance, and Data Modeling**](#4-differences-in-scalability-performance-and-data-modeling) (1 videos)
-  - Comparing the three Vs to current relational databases
+  - [Comparing the three Vs to current relational databases](#comparing-the-three-vs-to-current-relational-databases)
 - [**Conclusion**](#conclusion) (1 videos)
-  - That's a wrap
+  - [That's a wrap](#thats-a-wrap)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A guide to NoSQL: No programming needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980)
@@ -90,12 +90,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (4), [[Databases]] (3), [[LinkedIn]] (1), database (1)
 > **Speakers:** - [david] (1)
 
 
 ### 1. NoSQL? Why Can’t You Have Any Sequels?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### So what is NoSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980)
@@ -174,7 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), from, (1), this. (1)
+> **Frameworks & Libraries:** [[NoSQL]] (10), [[Databases]] (9), [[SQL]] (6), [[Relational Databases]] (4), data (3)
 > **Env Vars:** sql (6)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -250,7 +251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (12), [[Databases]] (7), database (6), [[NoSQL]] (2), [[SQL]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -322,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (7), data (7), database (2), [[Scalability]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
@@ -331,7 +332,7 @@ created: 2026-04-29
 
 ### 2. NoSQL Powers Everything
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### You're already using NoSQL databases—you just don't know it
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980)
@@ -378,9 +379,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (9), [[Databases]] (7), data (3), power (1), database (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** recommended (1)
@@ -435,9 +436,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (5), data (2), database (1), [[Relational Databases]] (1)
 > **CLI Commands:** find (1), apache (1), make (1)
 > **Code Identifiers:** ecommerce (1), icloud (1), itunes (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** covid (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -446,7 +447,7 @@ created: 2026-04-29
 
 ### 3. The Three Vs: Volume, Velocity, and Variety
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Volume: How much data are you really talking about?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980)
@@ -525,7 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (2), this. (1)
+> **Frameworks & Libraries:** data (11), [[NoSQL]] (9), [[Databases]] (9), database (4), node (3)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (2)
 > **Versions:** 4.5 (1)
@@ -613,8 +614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Databases]] (9), [[NoSQL]] (8), [[Relational Databases]] (5), application (3)
 > **Env Vars:** oltp (7), olap (6), sql (1)
-> **Code Keywords:** let (1), require (1), continue (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** find (1)
@@ -678,7 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** data (6), [[NoSQL]] (4), database (4), [[Databases]] (3), [[Big Data]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -754,7 +755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), new, (1), case, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** data (17), [[Relational Databases]] (5), [[Databases]] (4), [[SQL]] (3), [[Big Data]] (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2), we call this (1)
 > **Analogies:** for example (1), imagine (1)
@@ -812,8 +813,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (9), data (9), [[SQL]] (3), database (2), application (2)
 > **Env Vars:** sql (3)
-> **Code Keywords:** require (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [narrator] (1)
@@ -821,7 +822,7 @@ created: 2026-04-29
 
 ### 4. Differences in Scalability, Performance, and Data Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing the three Vs to current relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980)
@@ -874,15 +875,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (7), data (7), [[Relational Databases]] (6), database (5)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### That's a wrap
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980)
@@ -917,6 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (4), [[Databases]] (2), power (1), data (1), database (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)

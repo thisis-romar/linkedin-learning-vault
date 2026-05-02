@@ -34,7 +34,7 @@ tags:
   - skill/sales
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Sales%20Strategy-%20Key%20Account%20Growth%20with%20AI.md)
@@ -53,30 +53,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Prepare to grow with your top clients
-  - What you need to know
+  - [Prepare to grow with your top clients](#prepare-to-grow-with-your-top-clients)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Strategic Account Management**](#1-strategic-account-management) (3 videos)
-  - Combine account management with strategic alignment
-  - Secure the senior leader handshake
-  - Establish key account criteria
+  - [Combine account management with strategic alignment](#combine-account-management-with-strategic-alignment)
+  - [Secure the senior leader handshake](#secure-the-senior-leader-handshake)
+  - [Establish key account criteria](#establish-key-account-criteria)
 - [**2. Crucial Frameworks for Key Account Expansion**](#2-crucial-frameworks-for-key-account-expansion) (2 videos)
-  - Assemble the key account team
-  - Establish essentials for top-tier accounts with AI assistance
+  - [Assemble the key account team](#assemble-the-key-account-team)
+  - [Establish essentials for top-tier accounts with AI assistance](#establish-essentials-for-top-tier-accounts-with-ai-assistance)
 - [**3. Strategy, Growth, and Top Accounts**](#3-strategy-growth-and-top-accounts) (3 videos)
-  - Pinpoint key account opportunities and strategies with AI
-  - Advance by deploying top account team members
-  - Gain momentum with win rooms
+  - [Pinpoint key account opportunities and strategies with AI](#pinpoint-key-account-opportunities-and-strategies-with-ai)
+  - [Advance by deploying top account team members](#advance-by-deploying-top-account-team-members)
+  - [Gain momentum with win rooms](#gain-momentum-with-win-rooms)
 - [**4. Powerful Client Touchpoint Programs**](#4-powerful-client-touchpoint-programs) (3 videos)
-  - Activate executive engagement with an AI boost
-  - Focus on communicating your impact
-  - Collaborate on a joint planning roadmap
+  - [Activate executive engagement with an AI boost](#activate-executive-engagement-with-an-ai-boost)
+  - [Focus on communicating your impact](#focus-on-communicating-your-impact)
+  - [Collaborate on a joint planning roadmap](#collaborate-on-a-joint-planning-roadmap)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Create your customer success stories
-  - Design the path forward
+  - [Create your customer success stories](#create-your-customer-success-stories)
+  - [Design the path forward](#design-the-path-forward)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare to grow with your top clients
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/prepare-to-grow-with-your-top-clients?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
@@ -146,14 +146,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1), this. (1)
+> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** b2b (1)
 
 
 ### 1. Strategic Account Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combine account management with strategic alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980)
@@ -230,6 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** is a  (2)
 
 #### Secure the senior leader handshake
@@ -295,9 +296,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** require (1)
 
 #### Establish key account criteria
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/establish-key-account-criteria?u=76281980)
@@ -360,6 +361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), functional (1), teams (1), business (1), prompt (1)
 > **Analogies:** for example (2), for instance (1)
 > **Definitions:** defined as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -368,7 +370,7 @@ created: 2026-04-29
 
 ### 2. Crucial Frameworks for Key Account Expansion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assemble the key account team
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980)
@@ -439,6 +441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), business (1), [[Accountability]] (1), ai (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** required to (1)
@@ -510,15 +513,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), business (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** snap (1), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 
 
 ### 3. Strategy, Growth, and Top Accounts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pinpoint key account opportunities and strategies with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980)
@@ -585,6 +588,10 @@ created: 2026-04-29
 >
 > **[3:18](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980&t=198)** They also changed their approach for seeking out opportunities to meet current and future needs, which has yielded many big and small wins with their flagship client.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (2), teams (1), ai (1), product (1)
+
 #### Advance by deploying top account team members
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/advance-by-deploying-top-account-team-members?u=76281980)
 
@@ -650,7 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (1), let (1)
+> **Frameworks & Libraries:** teams (3), [[Accountability]] (1), ai (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 
@@ -719,14 +726,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sales Strategy]] (3), teams (3), business (3), [[Strategic Thinking]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 
 ### 4. Powerful Client Touchpoint Programs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Activate executive engagement with an AI boost
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/activate-executive-engagement-with-an-ai-boost?u=76281980)
@@ -795,7 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), require (1), let (1)
+> **Frameworks & Libraries:** hit (1)
 > **Analogies:** for example (1)
 
 #### Focus on communicating your impact
@@ -861,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2), product (1), next (1), ai (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 
@@ -929,14 +936,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), yield (1)
 > **Analogies:** imagine (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your customer success stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980)
@@ -1007,6 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Executive Leadership]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1), picture (1), such as (1)
 > **Prerequisites:** required to (1)
@@ -1048,6 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), management (1), next (1)
 > **Env Vars:** b2b (1)
 
 

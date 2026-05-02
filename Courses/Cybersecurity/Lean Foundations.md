@@ -26,7 +26,7 @@ tags:
   - topic/it-help-desk
   - topic/security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Lean%20Foundations.md)
@@ -45,43 +45,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Trim the fat by going lean
+  - [Trim the fat by going lean](#trim-the-fat-by-going-lean)
 - [**1. Lean Defined**](#1-lean-defined) (3 videos)
-  - What is lean?
-  - Why use lean?
-  - The need for continuous improvement
+  - [What is lean?](#what-is-lean)
+  - [Why use lean?](#why-use-lean)
+  - [The need for continuous improvement](#the-need-for-continuous-improvement)
 - [**2. Lean Processes**](#2-lean-processes) (7 videos)
-  - Process mapping
-  - Value stream analysis
-  - Process reengineering
-  - The principle of ideality
-  - The elegant solution
-  - The cost of complexity
-  - The theory of constraints
+  - [Process mapping](#process-mapping)
+  - [Value stream analysis](#value-stream-analysis)
+  - [Process reengineering](#process-reengineering)
+  - [The principle of ideality](#the-principle-of-ideality)
+  - [The elegant solution](#the-elegant-solution)
+  - [The cost of complexity](#the-cost-of-complexity)
+  - [The theory of constraints](#the-theory-of-constraints)
 - [**3. Lean Manufacturing**](#3-lean-manufacturing) (7 videos)
-  - Demand-driven business
-  - Demand-driven materials
-  - Lean inventory
-  - The pull approach
-  - Lean workstations
-  - Total productive maintenance
-  - Lean quality
+  - [Demand-driven business](#demand-driven-business)
+  - [Demand-driven materials](#demand-driven-materials)
+  - [Lean inventory](#lean-inventory)
+  - [The pull approach](#the-pull-approach)
+  - [Lean workstations](#lean-workstations)
+  - [Total productive maintenance](#total-productive-maintenance)
+  - [Lean quality](#lean-quality)
 - [**4. Lean Services**](#4-lean-services) (4 videos)
-  - Lean delivery
-  - Lean transportation
-  - Lean logistics
-  - Lean purchasing
+  - [Lean delivery](#lean-delivery)
+  - [Lean transportation](#lean-transportation)
+  - [Lean logistics](#lean-logistics)
+  - [Lean purchasing](#lean-purchasing)
 - [**5. Lean Thinking**](#5-lean-thinking) (4 videos)
-  - The lean culture
-  - The lean company
-  - Lean employees
-  - Lean thinking for supply chains
+  - [The lean culture](#the-lean-culture)
+  - [The lean company](#the-lean-company)
+  - [Lean employees](#lean-employees)
+  - [Lean thinking for supply chains](#lean-thinking-for-supply-chains)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Go leaner
+  - [Go leaner](#go-leaner)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trim the fat by going lean
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/trim-the-fat-by-going-lean?u=76281980)
@@ -106,13 +106,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), for, (1), let (1)
+> **Frameworks & Libraries:** business (2), management (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Lean Defined
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is lean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980)
@@ -181,8 +181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (1), defined as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** atm (1)
 > **Speakers:** - everyone (1)
 
@@ -249,6 +249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Microsoft Office|Office]] (1), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -328,16 +329,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** case. (1)
 > **URLs:** [lean.org](https://lean.org) (1)
 > **Speakers:** - i (1)
 
 
 ### 2. Lean Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Process mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/process-mapping-10019051?u=76281980)
@@ -418,8 +419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Definitions:** is an  (2), is a  (2), is called (1)
-> **Code Keywords:** this. (2), continue (1), else, (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - have (1)
@@ -535,10 +536,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (4), [[Six Sigma]] (1), [[Engineering]] (1), business (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Best Practices:** remember to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - continuous (1)
@@ -640,9 +641,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), business (3), [[Search]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - process (1)
@@ -724,7 +725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1), this. (1)
+> **Frameworks & Libraries:** business (1), product (1)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is called (1)
 > **Speakers:** - you (1)
@@ -806,6 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), functional (1), teams (1)
 > **Definitions:** in other words (1), is an  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** itunes (1)
@@ -893,7 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2)
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), business (3), [[Wellness]] (1), [[Six Sigma]] (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -975,16 +977,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), business (2), management (2), product (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Tools:** notion (1)
 > **Analogies:** for example (1)
 
 
 ### 3. Lean Manufacturing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demand-driven business
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980)
@@ -1049,8 +1051,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), business (4), product (2), [[Supply Chain Management]] (1), management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** for example (1)
 > **Speakers:** - every (1)
 
@@ -1115,6 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), product (1), [[Real-Time]] (1), business (1)
 > **Env Vars:** mrp (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
@@ -1216,6 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), product (2), management (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), picture (1)
 > **Best Practices:** don't forget (2)
@@ -1289,10 +1293,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), next (1), [[Real-Time]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** mrp (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - technology (1)
 
 #### Lean workstations
@@ -1386,9 +1390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** yield (1)
 > **Speakers:** - [instructor] (1)
 
 #### Total productive maintenance
@@ -1480,9 +1484,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (2), semiconductor (1), next (1)
 > **Env Vars:** oee (6), tpm (4), smed (1)
 > **Prerequisites:** setup (4)
-> **Code Keywords:** else, (1), this, (1), switch (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Best Practices:** the key is (1)
@@ -1556,16 +1560,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), [[Engineering]] (1)
 > **Definitions:** is a  (2), is called (1), means that (1), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Documentation:** specification (1)
 > **Speakers:** - henry (1)
 
 
 ### 4. Lean Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lean delivery
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980)
@@ -1636,8 +1640,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), business (6), [[Microsoft Products|Products]] (4), [[Microsoft Office|Office]] (1)
 > **Env Vars:** b2b (2), b2c (2), ups (1)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1714,9 +1718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (5), [[Agile Development|Agile]] (5), [[Electronics]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** switch (1)
 > **Definitions:** is called (1)
 > **Speakers:** - lean (1)
 
@@ -1803,7 +1807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), require (1)
+> **Frameworks & Libraries:** product (9), business (3), [[Microsoft Products|Products]] (2), application (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -1871,7 +1875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1880,7 +1884,7 @@ created: 2026-04-29
 
 ### 5. Lean Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The lean culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980)
@@ -1961,7 +1965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case, (1), let (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (4), management (3), business (2), career (1), next (1)
 > **Analogies:** for example (3)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** make (1)
@@ -2065,6 +2069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), product (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
 > **Env Vars:** ceo (1), nascar (1)
@@ -2146,9 +2151,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), functional (2), business (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** continue (1)
 > **Env Vars:** ups (1)
 > **Speakers:** - lean (1)
 
@@ -2227,8 +2232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (2), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** super (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - according (1)
@@ -2236,7 +2241,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Go leaner
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980)
@@ -2281,6 +2286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Six Sigma]] (2), business (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [lean.org](https://lean.org) (1)
 > **Definitions:** is a  (1)

@@ -39,7 +39,7 @@ tags:
   - skill/data-engineering
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Data%20Lakes%20and%20Lakehouses.md)
@@ -58,92 +58,92 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Data lakes, lakehouses, and more
-  - What you should know
-  - Final project preview
+  - [Data lakes, lakehouses, and more](#data-lakes-lakehouses-and-more)
+  - [What you should know](#what-you-should-know)
+  - [Final project preview](#final-project-preview)
 - [**1. Introduction to Data Lakes**](#1-introduction-to-data-lakes) (5 videos)
-  - What is a data lake?
-  - Origins and evolution
-  - Architecture core components
-  - Data lake vs. data warehouse
-  - Data lake vs. data mesh
+  - [What is a data lake?](#what-is-a-data-lake)
+  - [Origins and evolution](#origins-and-evolution)
+  - [Architecture core components](#architecture-core-components)
+  - [Data lake vs. data warehouse](#data-lake-vs-data-warehouse)
+  - [Data lake vs. data mesh](#data-lake-vs-data-mesh)
 - [**2. Storage In Data Lakes**](#2-storage-in-data-lakes) (7 videos)
-  - Storage types
-  - Storage hosting
-  - Storage solutions: S3, GCS and Azure Blob Storage and HDFS
-  - Folder structures
-  - File formats
-  - Data compression
-  - Data partitioning
+  - [Storage types](#storage-types)
+  - [Storage hosting](#storage-hosting)
+  - [Storage solutions: S3, GCS and Azure Blob Storage and HDFS](#storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs)
+  - [Folder structures](#folder-structures)
+  - [File formats](#file-formats)
+  - [Data compression](#data-compression)
+  - [Data partitioning](#data-partitioning)
 - [**3. Data Ingestion in Data Lakes**](#3-data-ingestion-in-data-lakes) (7 videos)
-  - Data ingestion methods
-  - ETL vs. ELT
-  - Data transformation
-  - Data quality
-  - Error handling, logging, and monitoring
-  - Orchestration
-  - Data ingestion platforms
+  - [Data ingestion methods](#data-ingestion-methods)
+  - [ETL vs. ELT](#etl-vs-elt)
+  - [Data transformation](#data-transformation)
+  - [Data quality](#data-quality)
+  - [Error handling, logging, and monitoring](#error-handling-logging-and-monitoring)
+  - [Orchestration](#orchestration)
+  - [Data ingestion platforms](#data-ingestion-platforms)
 - [**4. Data Management and Governance in Data Lakes**](#4-data-management-and-governance-in-data-lakes) (6 videos)
-  - Introduction to data management and governance
-  - Metadata management
-  - Data cataloging
-  - Data lineage
-  - Data security, privacy, and compliance
-  - Data management tools and platforms
+  - [Introduction to data management and governance](#introduction-to-data-management-and-governance)
+  - [Metadata management](#metadata-management)
+  - [Data cataloging](#data-cataloging)
+  - [Data lineage](#data-lineage)
+  - [Data security, privacy, and compliance](#data-security-privacy-and-compliance)
+  - [Data management tools and platforms](#data-management-tools-and-platforms)
 - [**5. Introduction to Data Lakehouses**](#5-introduction-to-data-lakehouses) (4 videos)
-  - What is a data lakehouse?
-  - ACID transactions
-  - Schema management
-  - Table formats: Delta Lake, Apache Iceberg, Apache Hudi
+  - [What is a data lakehouse?](#what-is-a-data-lakehouse)
+  - [ACID transactions](#acid-transactions)
+  - [Schema management](#schema-management)
+  - [Table formats: Delta Lake, Apache Iceberg, Apache Hudi](#table-formats-delta-lake-apache-iceberg-apache-hudi)
 - [**6. Data Consumption and Query Engines in Lakes and Lakehouses**](#6-data-consumption-and-query-engines-in-lakes-and-lakehouses) (7 videos)
-  - Introduction to data consumption
-  - Unified data analysis: Spark
-  - SQL on Hadoop: Hive and Impala
-  - Interactive query engines: Presto and Trino
-  - Data indexing
-  - Optimizing query performance
-  - Data consumption security considerations
+  - [Introduction to data consumption](#introduction-to-data-consumption)
+  - [Unified data analysis: Spark](#unified-data-analysis-spark)
+  - [SQL on Hadoop: Hive and Impala](#sql-on-hadoop-hive-and-impala)
+  - [Interactive query engines: Presto and Trino](#interactive-query-engines-presto-and-trino)
+  - [Data indexing](#data-indexing)
+  - [Optimizing query performance](#optimizing-query-performance)
+  - [Data consumption security considerations](#data-consumption-security-considerations)
 - [**7. Advanced Data Platforms for Lakes and Lakehouses**](#7-advanced-data-platforms-for-lakes-and-lakehouses) (6 videos)
-  - Unified analytics platforms: Databricks and Snowflake
-  - Cloud data warehouses: BigQuery, Azure Synapse, and Redshift
-  - Self-service data platforms: Dremio and Starburst
-  - Interactive notebooks: Jupyter, Zeppelin, Databricks
-  - BI tools: Tableau, Power BI, Superset, Metabase
-  - APIs and services for data consumption
+  - [Unified analytics platforms: Databricks and Snowflake](#unified-analytics-platforms-databricks-and-snowflake)
+  - [Cloud data warehouses: BigQuery, Azure Synapse, and Redshift](#cloud-data-warehouses-bigquery-azure-synapse-and-redshift)
+  - [Self-service data platforms: Dremio and Starburst](#self-service-data-platforms-dremio-and-starburst)
+  - [Interactive notebooks: Jupyter, Zeppelin, Databricks](#interactive-notebooks-jupyter-zeppelin-databricks)
+  - [BI tools: Tableau, Power BI, Superset, Metabase](#bi-tools-tableau-power-bi-superset-metabase)
+  - [APIs and services for data consumption](#apis-and-services-for-data-consumption)
 - [**8. Final Project: Building a Data Lakehouse**](#8-final-project-building-a-data-lakehouse) (9 videos)
-  - Final project overview
-  - Data model overview
-  - Project installation and code walkthrough
-  - Infrastructure setup
-  - Raw data ingestion
-  - Transformation models overview
-  - Solution: Build a data model with SQL
-  - Executing data transformations
-  - Data orchestration
+  - [Final project overview](#final-project-overview)
+  - [Data model overview](#data-model-overview)
+  - [Project installation and code walkthrough](#project-installation-and-code-walkthrough)
+  - [Infrastructure setup](#infrastructure-setup)
+  - [Raw data ingestion](#raw-data-ingestion)
+  - [Transformation models overview](#transformation-models-overview)
+  - [Solution: Build a data model with SQL](#solution-build-a-data-model-with-sql)
+  - [Executing data transformations](#executing-data-transformations)
+  - [Data orchestration](#data-orchestration)
 - [**9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse**](#9-final-project-bi-advanced-analytics-and-ml-in-the-lakehouse) (8 videos)
-  - Dremio walkthrough
-  - Executing queries and creating virtual datasets
-  - Creating complex virtual datasets using SQL
-  - Connecting Dremio to Apache Superset
-  - Creating a marketing dashboard
-  - Connecting Dremio to Jupyter Notebook
-  - Advanced product reviews analytics
-  - Solution: Vehicle health analytics in Jupyter
+  - [Dremio walkthrough](#dremio-walkthrough)
+  - [Executing queries and creating virtual datasets](#executing-queries-and-creating-virtual-datasets)
+  - [Creating complex virtual datasets using SQL](#creating-complex-virtual-datasets-using-sql)
+  - [Connecting Dremio to Apache Superset](#connecting-dremio-to-apache-superset)
+  - [Creating a marketing dashboard](#creating-a-marketing-dashboard)
+  - [Connecting Dremio to Jupyter Notebook](#connecting-dremio-to-jupyter-notebook)
+  - [Advanced product reviews analytics](#advanced-product-reviews-analytics)
+  - [Solution: Vehicle health analytics in Jupyter](#solution-vehicle-health-analytics-in-jupyter)
 - [**10. Final Project: Generative AI in the Lakehouse**](#10-final-project-generative-ai-in-the-lakehouse) (7 videos)
-  - Introduction to LLMs and vector embeddings: Llama
-  - Introduction to RAG (retrieval-augmented generation)
-  - Introduction to vector databases: Chroma
-  - What is Langchain?
-  - Generative AI project overview: Sales copilot
-  - Installation and code walkthrough
-  - Project execution: Using the copilot
+  - [Introduction to LLMs and vector embeddings: Llama](#introduction-to-llms-and-vector-embeddings-llama)
+  - [Introduction to RAG (retrieval-augmented generation)](#introduction-to-rag-retrieval-augmented-generation)
+  - [Introduction to vector databases: Chroma](#introduction-to-vector-databases-chroma)
+  - [What is Langchain?](#what-is-langchain)
+  - [Generative AI project overview: Sales copilot](#generative-ai-project-overview-sales-copilot)
+  - [Installation and code walkthrough](#installation-and-code-walkthrough)
+  - [Project execution: Using the copilot](#project-execution-using-the-copilot)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Recap and key takeaways
-  - Next steps on your data journey
+  - [Recap and key takeaways](#recap-and-key-takeaways)
+  - [Next steps on your data journey](#next-steps-on-your-data-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data lakes, lakehouses, and more
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980)
@@ -170,6 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[JSON]] (1)
 > **Env Vars:** csv (1), json (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -204,8 +205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
@@ -264,9 +265,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Capstone]] (2), [[Analytics]] (2), hit (1), open-source (1)
 > **CLI Commands:** apache (2), python (1), make (1)
 > **Env Vars:** dbt (1), sql (1), csv (1), json (1)
-> **Code Keywords:** let (2), super (1)
 > **Definitions:** is an  (2)
 > **Tools:** jupyter (1)
 > **Exercise Files:** template (1)
@@ -276,7 +277,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Data Lakes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data lake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980)
@@ -337,7 +338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), finally, (1)
+> **Frameworks & Libraries:** data (33), [[Analytics]] (5), ai (3), [[Real-Time]] (2), teams (2)
 > **Env Vars:** xml (1), json (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -392,6 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Agile Development|Agile]] (2), [[Hadoop]] (2), [[Google]] (2), cloud (2)
 > **CLI Commands:** apache (1)
 > **Env Vars:** cto (1)
 > **Cross-References:** later in (1)
@@ -476,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), super (1)
+> **Frameworks & Libraries:** data (31), management (4), [[Analytics]] (3), [[Metadata]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -537,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2)
+> **Frameworks & Libraries:** data (40), [[Business Intelligence (BI)|Business intelligence]] (2), [[SQL]] (2), database (2), management (2)
 > **CLI Commands:** apache (2)
 > **Env Vars:** sql (2)
 > **Cross-References:** in the next (1)
@@ -600,8 +602,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (41), [[Mesh]] (11), teams (5), product (3), management (2)
 > **Definitions:** is a  (4), means that (1)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -609,7 +611,7 @@ created: 2026-04-29
 
 ### 2. Storage In Data Lakes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980)
@@ -652,7 +654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), type, (1)
+> **Frameworks & Libraries:** data (15), cloud (1), [[Unstructured Data]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** nas (1), erp (1), hdfs (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
@@ -708,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), cloud (10), [[Security]] (4), strengths (4), [[Scalability]] (3)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Storage solutions: S3, GCS and Azure Blob Storage and HDFS
@@ -779,9 +781,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Hadoop]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Microsoft Azure|Azure]] (3), [[Analytics]] (3)
 > **Env Vars:** hdfs (3), sql (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), require (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
@@ -861,8 +863,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), management (5), business (3), [[Security]] (2), next (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -926,9 +928,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[JSON]] (4), web (2), [[Big Data]] (1), [[Hadoop]] (1)
 > **Env Vars:** json (4), orc (4), csv (3)
 > **CLI Commands:** apache (3)
-> **Code Keywords:** require (2), let (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
@@ -1008,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (38), cloud (1), [[Algorithms]] (1), [[Real-Time]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** zip (1), lzo (1), gzip (1), orc (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for instance (1)
@@ -1111,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), interface (1), case, (1)
+> **Frameworks & Libraries:** data (45), business (5), next (2), [[Hadoop]] (2), functional (1)
 > **Env Vars:** hdfs (3), sql (1), aws (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** apache (2), make (1), aws (1)
@@ -1121,7 +1123,7 @@ created: 2026-04-29
 
 ### 3. Data Ingestion in Data Lakes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data ingestion methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980)
@@ -1178,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), case, (1)
+> **Frameworks & Libraries:** data (23), [[Real-Time]] (8), management (1), [[IoT]] (1), [[Analytics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1225,12 +1227,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), etl (3), power (2), database (1), [[Data Transformation]] (1)
 > **Env Vars:** elt (7), etl (3)
 > **Cross-References:** we talked about (1), previous video (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - we (1)
 
 #### Data transformation
@@ -1298,7 +1300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (32), [[Data Transformation]] (3), [[Analytics]] (2), [[Databases]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** crm (1)
 > **Speakers:** - [instructor] (1)
@@ -1364,11 +1366,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (46), management (1), [[Real-Time]] (1), etl (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (2), make (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - data (1)
 
@@ -1439,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1), let (1), type. (1)
+> **Frameworks & Libraries:** data (23), [[Dashboards]] (3), [[Elasticsearch]] (2), [[Real-Time]] (2), management (1)
 > **CLI Commands:** make (1), apache (1)
 > **Analogies:** such as (2)
 > **Env Vars:** elk (1)
@@ -1544,10 +1546,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Orchestration]] (8), management (2), [[Troubleshooting]] (1), [[Apache Airflow]] (1)
 > **Definitions:** is a  (3), refers to (1), is an  (1)
 > **CLI Commands:** make (2), apache (1), python (1)
 > **Env Vars:** dag (3), dad (1)
-> **Code Keywords:** let (1), interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Data ingestion platforms
@@ -1611,17 +1613,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (39), cloud (4), etl (3), open-source (2), [[Real-Time]] (2)
 > **Env Vars:** etl (3), aws (2), elt (1), erp (1)
 > **Definitions:** is an  (3), is a  (3)
 > **CLI Commands:** aws (2), apache (1)
-> **Code Keywords:** interface (2)
 > **Prerequisites:** setup (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Data Management and Governance in Data Lakes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data management and governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980)
@@ -1674,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (26), management (7), [[Security]] (2), [[Privacy]] (2), [[Analytics]] (1)
 > **Definitions:** refers to (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
@@ -1737,9 +1739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Metadata]] (16), business (3), management (2), [[Analytics]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1790,8 +1792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), [[Metadata]] (7), management (2), [[Search]] (1), [[Security]] (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1), super (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1834,7 +1836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (20), [[Databases]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1888,9 +1890,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Security]] (9), [[Privacy]] (3), management (2), [[Network Security]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gdpr (1), hipaa (1), pci (1), dss (1)
-> **Code Keywords:** let (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
@@ -1972,16 +1974,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (51), management (10), [[Metadata]] (10), aws (4), [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** aws (4), apache (2), make (1), find (1)
 > **Definitions:** is a  (8)
 > **Env Vars:** aws (4), emr (1), etl (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Introduction to Data Lakehouses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data lakehouse?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980)
@@ -2048,10 +2050,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (41), [[Analytics]] (6), management (2), [[Unstructured Data]] (2), [[Business Intelligence (BI)|Business intelligence]] (2)
 > **Definitions:** is a  (2), means that (2), is an  (1), known as (1)
 > **CLI Commands:** apache (2), make (1)
 > **Analogies:** imagine (1), such as (1), similar to (1)
-> **Code Keywords:** let (1), implements (1)
 > **Env Vars:** acid (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - imagine (1)
@@ -2129,11 +2131,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), database (6), power (1), management (1), product (1)
 > **Definitions:** is an  (1), stands for (1), is a  (1), means that (1)
 > **Env Vars:** acid (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - now (1)
 
 #### Schema management
@@ -2213,8 +2215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), database (7), management (3), aws (2), [[SQL]] (1)
 > **Env Vars:** table (3), aws (2), uml (1), ddl (1), sql (1)
-> **Code Keywords:** let (3), continue (1)
 > **Definitions:** known as (1), is a  (1), in other words (1), means that (1)
 > **CLI Commands:** aws (2), apache (1)
 > **SQL:** create table (1), alter table (1), drop table (1)
@@ -2296,9 +2298,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), management (5), [[Scalability]] (1), [[Microsoft Excel|Excel]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (6), make (1)
 > **Env Vars:** acid (3), orc (1), sql (1)
-> **Code Keywords:** require (2), let (1)
 > **Definitions:** is an  (3)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - so (1)
@@ -2306,7 +2308,7 @@ created: 2026-04-29
 
 ### 6. Data Consumption and Query Engines in Lakes and Lakehouses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980)
@@ -2389,7 +2391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), static (1), interface (1)
+> **Frameworks & Libraries:** data (35), [[SQL]] (3), [[Unstructured Data]] (2), [[Real-Time]] (2), management (2)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -2489,11 +2491,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[SQL]] (7), [[Analytics]] (4), api (3), [[Real-Time]] (2)
 > **Env Vars:** sql (7), api (3), dag (1), hdfs (1), pandas (1)
 > **CLI Commands:** apache (1), python (1), yarn (1), make (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (2), for example (1), such as (1)
-> **Code Keywords:** let (1), interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### SQL on Hadoop: Hive and Impala
@@ -2547,9 +2549,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[SQL]] (8), [[Hadoop]] (3), [[Real-Time]] (2), cloud (1)
 > **Env Vars:** sql (8), hdfs (2), mpp (1), odbc (1)
 > **CLI Commands:** apache (3), make (1)
-> **Code Keywords:** interface (2), switch (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Interactive query engines: Presto and Trino
@@ -2603,7 +2605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), continue (1), let (1)
+> **Frameworks & Libraries:** data (12), [[SQL]] (2), business (1), open-source (1), [[Analytics]] (1)
 > **Env Vars:** sql (2), hdfs (1)
 > **Definitions:** is an  (1), known as (1), is a  (1)
 > **Analogies:** for example (1)
@@ -2676,7 +2678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), type, (1)
+> **Frameworks & Libraries:** data (16), [[Metadata]] (4), [[Unstructured Data]] (3), [[Search]] (2), database (1)
 > **CLI Commands:** apache (2), make (1)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is a  (1)
@@ -2781,9 +2783,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), concurrent (2), [[Agile Development|Agile]] (1), [[Snowflake]] (1), business (1)
 > **CLI Commands:** make (3), yarn (1), apache (1)
 > **Env Vars:** sql (1), select (1), cpu (1), yarn (1)
-> **Code Keywords:** let (2), static (1)
 > **Analogies:** for instance (1), for example (1), such as (1)
 > **Best Practices:** make sure to (2)
 > **SQL:** select (1)
@@ -2857,8 +2859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), [[Security]] (8), [[SQL]] (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (2), static (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - now (1)
@@ -2866,7 +2868,7 @@ created: 2026-04-29
 
 ### 7. Advanced Data Platforms for Lakes and Lakehouses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unified analytics platforms: Databricks and Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980)
@@ -2921,9 +2923,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Snowflake]] (8), [[Real-Time]] (3), [[Analytics]] (2), management (2)
 > **CLI Commands:** make (2), apache (1)
 > **Env Vars:** sql (2), acid (1)
-> **Code Keywords:** interface (1), let (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
@@ -2981,7 +2983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1), extends (1)
+> **Frameworks & Libraries:** data (39), [[Microsoft Azure|Azure]] (5), [[Analytics]] (4), cloud (3), [[Google]] (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -3042,7 +3044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (1), extends (1)
+> **Frameworks & Libraries:** data (24), [[Security]] (4), [[Analytics]] (3), [[SQL]] (2), ai (1)
 > **CLI Commands:** apache (2), make (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
@@ -3118,10 +3120,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), web (2), [[Programming]] (2), [[Apache Spark]] (2), [[Prototyping]] (1)
 > **Tools:** jupyter (7)
 > **CLI Commands:** make (2), apache (2), python (1), git (1)
 > **Env Vars:** html (1), jdbc (1), odbc (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
@@ -3188,9 +3190,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), bi (8), [[Dashboards]] (6), [[Tableau]] (4), business (3)
 > **CLI Commands:** apache (3), make (1), find (1), mysql (1)
 > **Env Vars:** sql (2), odbc (1)
-> **Code Keywords:** interface (2)
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3247,17 +3249,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), api (2), [[SQL]] (2), management (2), [[Analytics]] (1)
 > **Env Vars:** api (2), sql (2), http (1), hdfs (1), gdpr (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), interface (1), protected (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Final Project: Building a Data Lakehouse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980)
@@ -3378,10 +3380,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), [[Analytics]] (6), [[SQL]] (5), dbt (4), [[Capstone]] (3)
 > **CLI Commands:** apache (4), docker (3), python (2), aws (1), find (1)
 > **Env Vars:** sql (5), aws (1), elt (1)
 > **Tools:** jupyter (3), github (2)
-> **Code Keywords:** let (2), self (1), interface (1)
 > **Analogies:** such as (1), similar to (1)
 > **Exercise Files:** github repo (1)
 > **Prerequisites:** configure (1)
@@ -3442,7 +3444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** data (16), dbt (2), [[JSON]] (1), [[PySpark]] (1), [[Real-Time]] (1)
 > **Env Vars:** csv (1), json (1), pdf (1)
 > **Analogies:** such as (2)
 > **Cross-References:** as you saw (1)
@@ -3558,8 +3560,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Codespaces]] (7), [[GitHub]] (3), application (3), dbt (3)
 > **UI Navigation:** click on (5), go to (2), open the (2), in the sidebar (1)
-> **Code Keywords:** let (4), case, (1), this. (1), function (1), finally, (1)
 > **Tools:** github (3), visual studio (1), terminal (1), jupyter (1)
 > **CLI Commands:** docker (3), find (2)
 > **Env Vars:** dbt (3), yaml (1), readme (1)
@@ -3722,7 +3724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), while. (1), this. (1), case, (1), type. (1)
+> **Frameworks & Libraries:** data (4), [[Jetpack Compose|Compose]] (3), aws (3), [[Codespaces]] (1), product (1)
 > **UI Navigation:** click on (11), go to (1), open the (1), right-click (1)
 > **CLI Commands:** docker (4), aws (3), find (2), make (1)
 > **Env Vars:** aws (3), url (2), aws_access_key_id (1), aws_secret_access_key (1)
@@ -3904,7 +3906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), class, (3), function (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (20), [[JSON]] (4), [[Metadata]] (3), [[SQL]] (2), next (2)
 > **Env Vars:** json (3), sql (2), csv (2), aws (1), url (1)
 > **Code Identifiers:** config_loader (1), secret_key_id (1), secret_access_key (1), ingest_document_to_bronze (1), spark_utils (1)
 > **UI Navigation:** go to (7)
@@ -3998,8 +4000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), dbt (2), business (2), [[Privacy]] (2), [[SQL]] (1)
 > **Env Vars:** yml (8), dvt (4), dbt (2)
-> **Code Keywords:** let (4), case, (1)
 > **File Paths:** project.yml (2), profiles.yml (1), customers.sql (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (1), open the (1)
@@ -4050,7 +4052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Code Identifiers:** nessie_branch (2), sales_insight (1), sales_id (1), sale_date (1), sale_price (1)
 > **Env Vars:** dvt (1)
 > **Cross-References:** in the next (1)
@@ -4138,7 +4140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2)
+> **Frameworks & Libraries:** dbt (5), [[SQL]] (1), data (1)
 > **Env Vars:** yaml (1), dremio_user (1), dremio_password (1), sql (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (2)
@@ -4208,8 +4210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (9), [[Orchestration]] (3), [[CLI]] (3), data (2), [[Metadata]] (1)
 > **Env Vars:** dbt (9), cli (3), dag (2), dagster_dbt_parse_project_on_load (1)
-> **Code Keywords:** let (6), case, (3), this. (1)
 > **File Paths:** constants.py (2), assets.py (1), definitions.py (1), schedules.py (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** open the (1), click on (1), scroll down (1)
@@ -4219,7 +4221,7 @@ created: 2026-04-29
 
 ### 9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dremio walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980)
@@ -4288,7 +4290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), private (1)
+> **Frameworks & Libraries:** data (8), business (2), [[Jetpack Compose|Compose]] (1), [[Databases]] (1), database (1)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** docker (1)
@@ -4392,7 +4394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), from. (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[SQL]] (1), [[JSON]] (1), [[Search]] (1)
 > **UI Navigation:** click on (3), go to (2), select the (2)
 > **Code Identifiers:** total_purchases (2), is_vip (2), customers_vip (2)
 > **Analogies:** for example (6)
@@ -4460,7 +4462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), self (1)
+> **Frameworks & Libraries:** data (10), [[SQL]] (5), etl (2), [[Analytics]] (1), [[Dashboards]] (1)
 > **Env Vars:** sql (5), etl (2), vip (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Code Identifiers:** customers_vip (1), models_column (1), customers_vip_split_models (1)
@@ -4534,7 +4536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (1)
+> **Frameworks & Libraries:** database (6), data (5), [[SQL]] (3), bi (2), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** url (3), sql (3), create (2), dataset (1), chart (1)
 > **UI Navigation:** go to (3), click on (2), select the (1)
 > **CLI Commands:** apache (2), docker (1), python (1)
@@ -4778,7 +4780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (50), type, (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** hit (3), database (1), [[Dashboards]] (1)
 > **UI Navigation:** click on (11), go to (3), select the (1)
 > **Env Vars:** vip (6), count (3), sum (2), boolean (1), pdf (1)
 > **Code Identifiers:** is_vip (2), customer_vip_split_models (2), customers_vip (1), vip_customers_split_models (1)
@@ -4880,7 +4882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), module (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (4), next (3), [[Pandas (Software)|Pandas]] (2), [[SQL]] (2)
 > **CLI Commands:** python (4), apache (1)
 > **Env Vars:** url (3), sql (2)
 > **Ports:** port 9047 (1), port 32010 (1)
@@ -5044,7 +5046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (4), finally, (2), function (1), this, (1)
+> **Frameworks & Libraries:** data (16), product (7), [[Microsoft Word|Word]] (4), next (3), cloud (3)
 > **Code Identifiers:** vehicle_models (1), preprocess_text (1), customer_segmentation (1), customer_id (1), merged_df (1)
 > **Env Vars:** vip (5), sql (1)
 > **CLI Commands:** python (2), find (1), make (1)
@@ -5138,7 +5140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), type. (2), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (2), next (2), [[GitHub]] (1)
 > **Code Identifiers:** value_counts (3), json_normalize (2)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -5150,7 +5152,7 @@ created: 2026-04-29
 
 ### 10. Final Project: Generative AI in the Lakehouse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLMs and vector embeddings: Llama
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980)
@@ -5221,7 +5223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), require (1)
+> **Frameworks & Libraries:** data (4), [[Large Language Models (LLM)|Large language models]] (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Word|Word]] (2), [[Ollama]] (2)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pdf (1)
@@ -5261,8 +5263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), strengths (1), database (1), [[Real-Time]] (1)
 > **Env Vars:** rag (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Introduction to vector databases: Chroma
@@ -5314,7 +5316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (5), [[Microsoft Copilot|Copilot]] (4), data (4), [[Search]] (4), [[ChromaDB|Chroma]] (2)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rag (1)
@@ -5346,9 +5348,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (5), application (2), [[Vector Databases]] (2), llm (1), [[Ollama]] (1)
 > **Env Vars:** llms (1), llm (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5423,8 +5425,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[ChromaDB|Chroma]] (5), application (4), [[LangChain]] (4), [[Ollama]] (3)
 > **CLI Commands:** find (1), python (1), make (1)
-> **Code Keywords:** let (2), case, (1)
 > **Cross-References:** we covered (1), as we saw (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** template (1)
@@ -5498,8 +5500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[ChromaDB|Chroma]] (4), rag (3), data (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** manage_chroma_db (1), load_documents (1), split_documents (1), get_embedding_function (1), add_to_chroma (1)
-> **Code Keywords:** let (3), this, (1), finally, (1), function (1)
 > **CLI Commands:** python (1), find (1), make (1), pip (1)
 > **Prerequisites:** install (3), set up (1)
 > **Tools:** terminal (1), bash (1)
@@ -5684,7 +5686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (1), type. (1), delete (1)
+> **Frameworks & Libraries:** [[Ollama]] (7), [[Google]] (4), application (3), [[Codespaces]] (3), database (3)
 > **Env Vars:** url (5), gpu (4), llm (1), ollama_host (1), pdf (1)
 > **Tools:** colab (7), github (1), terminal (1)
 > **UI Navigation:** click on (4), scroll down (2), go to (1)
@@ -5696,7 +5698,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980)
@@ -5723,6 +5725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), management (1), next (1)
 > **Speakers:** - in (1)
 
 #### Next steps on your data journey
@@ -5748,8 +5751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), cloud (1), [[Interviewing]] (1), [[Engineering]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 

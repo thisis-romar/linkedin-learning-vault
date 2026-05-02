@@ -28,7 +28,7 @@ tags:
   - skill/cisco-networking
   - skill/network-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20Wireless%20Networks%2C%20Services%2C%20Security%2C%20and%20Virtualization.md)
@@ -47,54 +47,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you can learn
-  - How to get hands-on practice
+  - [Welcome](#welcome)
+  - [What you can learn](#what-you-can-learn)
+  - [How to get hands-on practice](#how-to-get-hands-on-practice)
 - [**1. Network Services**](#1-network-services) (12 videos)
-  - Domain name system (DNS)
-  - Cisco Discovery Protocol (CDP) theory
-  - CDP configuration
-  - Link Layer Discovery Protocol (LLDP) theory
-  - LLDP configuration
-  - Network Time Protocol (NTP) theory
-  - NTP configuration
-  - Network Address Translation (NAT) theory
-  - NAT configuration
-  - Dynamic Host Configuration Protocol (DHCP) overview
-  - DHCP options
-  - DHCP configuration
+  - [Domain name system (DNS)](#domain-name-system-dns)
+  - [Cisco Discovery Protocol (CDP) theory](#cisco-discovery-protocol-cdp-theory)
+  - [CDP configuration](#cdp-configuration)
+  - [Link Layer Discovery Protocol (LLDP) theory](#link-layer-discovery-protocol-lldp-theory)
+  - [LLDP configuration](#lldp-configuration)
+  - [Network Time Protocol (NTP) theory](#network-time-protocol-ntp-theory)
+  - [NTP configuration](#ntp-configuration)
+  - [Network Address Translation (NAT) theory](#network-address-translation-nat-theory)
+  - [NAT configuration](#nat-configuration)
+  - [Dynamic Host Configuration Protocol (DHCP) overview](#dynamic-host-configuration-protocol-dhcp-overview)
+  - [DHCP options](#dhcp-options)
+  - [DHCP configuration](#dhcp-configuration)
 - [**2. Network Security**](#2-network-security) (9 videos)
-  - Common network security concerns
-  - Access Control List (ACL) theory
-  - Standard numbered ACL theory
-  - Standard numbered ACL configuration
-  - Extended numbered ACL theory
-  - Extended numbered ACL configuration
-  - Extended named ACL configuration
-  - The need for switch port security
-  - Port security configuration
+  - [Common network security concerns](#common-network-security-concerns)
+  - [Access Control List (ACL) theory](#access-control-list-acl-theory)
+  - [Standard numbered ACL theory](#standard-numbered-acl-theory)
+  - [Standard numbered ACL configuration](#standard-numbered-acl-configuration)
+  - [Extended numbered ACL theory](#extended-numbered-acl-theory)
+  - [Extended numbered ACL configuration](#extended-numbered-acl-configuration)
+  - [Extended named ACL configuration](#extended-named-acl-configuration)
+  - [The need for switch port security](#the-need-for-switch-port-security)
+  - [Port security configuration](#port-security-configuration)
 - [**3. Wireless Networks**](#3-wireless-networks) (9 videos)
-  - Introduction to wireless LANs (WLANs)
-  - WLAN antennas
-  - WLAN frequencies and channels
-  - WLAN standards
-  - WLAN transmission methods
-  - WLAN optimization and features
-  - WLAN security basics
-  - WLAN security standards
-  - Configuring a Cisco Wireless LAN Controller (WLC)
+  - [Introduction to wireless LANs (WLANs)](#introduction-to-wireless-lans-wlans)
+  - [WLAN antennas](#wlan-antennas)
+  - [WLAN frequencies and channels](#wlan-frequencies-and-channels)
+  - [WLAN standards](#wlan-standards)
+  - [WLAN transmission methods](#wlan-transmission-methods)
+  - [WLAN optimization and features](#wlan-optimization-and-features)
+  - [WLAN security basics](#wlan-security-basics)
+  - [WLAN security standards](#wlan-security-standards)
+  - [Configuring a Cisco Wireless LAN Controller (WLC)](#configuring-a-cisco-wireless-lan-controller-wlc)
 - [**4. Network Virtualization**](#4-network-virtualization) (5 videos)
-  - Virtualized servers
-  - Virtualized network devices
-  - Introduction to software-defined networking (SDN)
-  - Software-defined wide area networks (SD-WANs)
-  - Software-Defined Access (SD-Access)
+  - [Virtualized servers](#virtualized-servers)
+  - [Virtualized network devices](#virtualized-network-devices)
+  - [Introduction to software-defined networking (SDN)](#introduction-to-software-defined-networking-sdn)
+  - [Software-defined wide area networks (SD-WANs)](#software-defined-wide-area-networks-sd-wans)
+  - [Software-Defined Access (SD-Access)](#software-defined-access-sd-access)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980)
@@ -123,8 +123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Virtualization]] (2), data (1), dns (1), next (1)
 > **Env Vars:** dns (1), ntp (1), nat (1), dhcp (1), ccie (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [kevin] (1)
 
 #### What you can learn
@@ -162,8 +162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), next (3), [[Virtualization]] (1), [[Wireless Networking]] (1), dns (1)
 > **Env Vars:** dns (1), dhcp (1), sdn (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -219,19 +219,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Google]] (2), [[Cisco Networking]] (2), [[Search]] (1), vpn (1)
 > **Env Vars:** cml (4), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Code Identifiers:** ios (2)
 > **Prerequisites:** set up (1), getting started (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **UI Navigation:** go to (1)
 
 
 ### 1. Network Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Domain name system (DNS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980)
@@ -284,11 +284,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (12), [[Microsoft Products|Products]] (5), web (4), [[Domain Name System (DNS)|Domain name system]] (2), database (1)
 > **Env Vars:** dns (12), dhcp (1)
 > **URLs:** [kineticoinc.com](https://kineticoinc.com) (10), [cisco.com](https://cisco.com) (1), [amazon.com](https://amazon.com) (1)
 > **Versions:** 203.0.113 (2), 192.0.2 (1)
 > **UI Navigation:** go to (3)
-> **Code Keywords:** this, (1), require (1)
 > **Ports:** port 53 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -394,8 +394,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), management (2), [[Troubleshooting]] (1), traffic (1), [[Diagramming]] (1)
 > **Env Vars:** cdp (20), vlan (3), sw2 (2), sw3 (2), sw4 (2)
-> **Code Keywords:** switch (8), let (2), type, (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** go to (1)
@@ -498,8 +498,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Routing]] (1), management (1), traffic (1)
 > **Env Vars:** cdp (17), sw1 (6), isp (2), igmp (1)
-> **Code Keywords:** interface (14), switch (7), let (4)
 > **Code Identifiers:** ios (3)
 > **Versions:** 10.1.1 (1), 15.83 (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -550,6 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (1)
 > **Env Vars:** cdp (8), lldp (8), mac (2), med (2), ieee802 (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Definitions:** is a  (1), stands for (1)
@@ -638,8 +639,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), generic (1), management (1), [[Routing]] (1)
 > **Env Vars:** lldp (26), cdp (5), tlv (2), sw1 (1), med (1)
-> **Code Keywords:** let (9), interface (8), switch (7)
 > **Analogies:** for example (2), just like (1)
 > **Prerequisites:** setup (1), set up (1), configure (1)
 > **UI Navigation:** go to (2)
@@ -718,6 +719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[NIST]] (1), [[Search]] (1)
 > **Env Vars:** ntp (5), udp (1), abc (1), nist (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -866,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ntp (14), utc (5), edt (2), est (1)
-> **Code Keywords:** let (18), interface (1), return. (1)
 > **Versions:** 1.1.1 (4), version 4 (1)
 > **Prerequisites:** configure (4), set up (1)
 > **Ports:** :00 (2), :46 (2)
@@ -1016,9 +1018,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), [[Microsoft Office|Office]] (5), traffic (4), [[Microsoft Word|Word]] (4), [[Security]] (1)
 > **Env Vars:** pc1 (11), nat (8), pat (4), pc2 (3), rfc (1)
 > **Versions:** 192.0.2 (8), 10.1.1 (4), version 4 (3), 203.0.113 (2)
-> **Code Keywords:** let (4), private (2), public (2), case. (2), case, (1)
 > **Definitions:** is a  (2), is an  (2), refers to (2), in other words (1)
 > **UI Navigation:** go to (2)
 > **Ports:** port 443 (1)
@@ -1116,8 +1118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Security]] (2), web (2), [[Hardware]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pat (6), pc1 (4), pc2 (4), nat (3), cpu (1)
-> **Code Keywords:** let (13), interface (6), this, (1)
 > **Versions:** 1.1.1 (2), 192.0.2 (2), 192.168.1 (1), 0.0.0 (1)
 > **Prerequisites:** set up (2), configure (2)
 > **Cross-References:** later in (2), go back to (1)
@@ -1216,10 +1218,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (2), [[IP Addressing]] (1)
 > **Env Vars:** dhcp (18), pc2 (7), pc1 (5), dns (2)
 > **Versions:** 192.168.1 (2), 172.16.1 (1)
 > **Prerequisites:** configure (3)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** such as (2)
 > **Speakers:** - when (1)
 
@@ -1288,8 +1290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), dns (1)
 > **Env Vars:** dhcp (13), mac (3), ttl (3), dns (1), tftp (1)
-> **Code Keywords:** interface (1), static (1), include, (1), finally, (1)
 > **Versions:** version 6 (2), 192.168.1 (1), 1.25 (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Cross-References:** previous video (1)
@@ -1428,7 +1430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), interface (11)
+> **Frameworks & Libraries:** dns (2), application (1)
 > **Env Vars:** dhcp (21), rr1 (3), dns (1)
 > **Versions:** 192.168.1 (13), 172.16.1 (3), 192.168.199 (1)
 > **Prerequisites:** set up (5), configure (4)
@@ -1439,7 +1441,7 @@ created: 2026-04-29
 
 ### 2. Network Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common network security concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980)
@@ -1522,10 +1524,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (6), traffic (3), [[Security]] (1), [[Engineering]] (1), business (1)
 > **Definitions:** is a  (3), is called (2), stands for (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sms (1), acl (1)
-> **Code Keywords:** let (1)
 > **Versions:** 192.0.2 (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1638,8 +1640,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), [[Security]] (2), next (2), [[Network Security]] (1)
 > **Env Vars:** acl (13), ace (1), tcb (1), tcp (1)
-> **Code Keywords:** let (4), interface (3), for, (1), match, (1)
 > **Definitions:** is an  (1), in other words (1), stands for (1), is called (1), is a  (1)
 > **Ports:** port 443 (1), port 80 (1)
 > **Analogies:** for example (2)
@@ -1712,8 +1714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), traffic (2)
 > **Env Vars:** acl (15)
-> **Code Keywords:** let (6), this. (1)
 > **Versions:** 0.0.0 (2), 255.255.255 (1)
 > **Cross-References:** next video (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -1828,8 +1830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4)
 > **Env Vars:** acl (10), pc2 (6), pc1 (5)
-> **Code Keywords:** let (8), interface (2), case. (1)
 > **Versions:** 203.0.113 (3), 10.1.0 (1), 0.0.0 (1), 10.1.1 (1)
 > **Definitions:** is an  (3)
 > **CLI Commands:** make (2)
@@ -1874,9 +1876,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), next (2)
 > **Env Vars:** acl (14), tcp (3), http (3), https (1)
 > **Ports:** port 23 (1), port 80 (1), port 443 (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** next video (2)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** is an  (1)
@@ -2033,8 +2035,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), prompt (1), next (1)
 > **Env Vars:** pc1 (10), acl (7), tcp (5), pc2 (3), https (2)
-> **Code Keywords:** let (13), interface (3), except, (1), else. (1), this. (1)
 > **Versions:** 203.0.113 (8), 10.1.1 (2), 10.1.0 (1), 0.0.0 (1)
 > **Ports:** port 443 (2), port 80 (2), port 23 (1)
 > **Prerequisites:** configure (3)
@@ -2197,8 +2199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6)
 > **Env Vars:** acl (13), http (10), ace (7), block (2), pc1 (2)
-> **Code Keywords:** let (12), interface (3)
 > **Versions:** 203.0.113 (6), 10.1.1 (2)
 > **Ports:** port 80 (3), port 23 (1), port 443 (1)
 > **Analogies:** imagine (1)
@@ -2272,7 +2274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (22), let (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (5), traffic (4), feature (2), next (1)
 > **Env Vars:** pc1 (8), mac (2)
 > **Definitions:** is called (2), stands for (1)
 > **Cross-References:** next video (1)
@@ -2375,8 +2377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (26), feature (2), traffic (1)
 > **Env Vars:** mac (32), vlan (1)
-> **Code Keywords:** switch (8), interface (7), let (5), finally, (2), case, (1)
 > **Prerequisites:** configure (3), prerequisite (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2386,7 +2388,7 @@ created: 2026-04-29
 
 ### 3. Wireless Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to wireless LANs (WLANs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980)
@@ -2453,12 +2455,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (7), [[Mesh]] (7), data (5), next (1)
 > **Env Vars:** lan (7), capwap (2), ap1 (1), ap2 (1), ap3 (1)
 > **Definitions:** is an  (2), is a  (1), stands for (1)
 > **Prerequisites:** configure (4)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1), let (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2553,7 +2555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), data (1), parallel (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - wireless (1)
@@ -2655,11 +2657,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Versions:** 2.4 (4), 802.11 (1)
 > **Env Vars:** ieee (4)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2756,6 +2758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), lan (1), feature (1), next (1), [[5G]] (1)
 > **Env Vars:** ieee (7), ofdm (5), ofdma (2), lan (1), dsss (1)
 > **Versions:** 2.4 (4), 802.11 (1), 1.3 (1), 9.6 (1)
 > **CLI Commands:** make (2)
@@ -2763,7 +2766,6 @@ created: 2026-04-29
 > **Documentation:** specification (1), spec (1)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** known as (1)
-> **Speakers:** - [instructor] (1)
 
 #### WLAN transmission methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980)
@@ -2828,8 +2830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), power (3), lan (2), [[Forms]] (2), next (1)
 > **Env Vars:** ofdm (6), ofdma (4), qam (3), lan (2), fdm (2)
-> **Code Keywords:** let (4), class. (2)
 > **Definitions:** is called (2), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
@@ -2917,8 +2919,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), data (1), lan (1)
 > **Env Vars:** mimo (3), qam (1), ofdma (1), lan (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** we discussed (2), previous video (1)
 > **Definitions:** is called (2)
 > **Versions:** 2.4 (1)
@@ -3002,11 +3004,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (1), [[Scalability]] (1), [[Security]] (1)
 > **Env Vars:** radius (6), psk (1)
 > **Analogies:** imagine (3), such as (1)
 > **Definitions:** known as (1), is called (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** match. (1)
 > **Speakers:** - [instructor] (1)
 
 #### WLAN security standards
@@ -3106,8 +3108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Privacy]] (2), data (2), traffic (2), [[Hardware]] (2)
 > **Env Vars:** wep (11), tkip (8), aes (8), wpa2 (7), wpa3 (6)
-> **Code Keywords:** protected (4), require (3), public (2)
 > **Prerequisites:** initialization (4), configure (1), set up (1), setup (1)
 > **Definitions:** stands for (2), is called (1), is a  (1), means that (1)
 > **Versions:** 802.11 (1)
@@ -3173,8 +3175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (5), [[Security]] (4), next (1)
 > **Env Vars:** wpa2 (6), lan (5), ccna (4), ssid (3), aes (3)
-> **Code Keywords:** let (8), interface (1)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** checkbox (1), click on (1)
 > **CLI Commands:** make (1)
@@ -3185,7 +3187,7 @@ created: 2026-04-29
 
 ### 4. Network Virtualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtualized servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980)
@@ -3244,10 +3246,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Windows]] (4), [[Linux]] (3), [[Virtual Machines]] (2), [[Hardware]] (1)
 > **Definitions:** in other words (2), is called (1), is a  (1)
 > **Prerequisites:** install (3)
 > **Env Vars:** sw1 (1), sw2 (1)
-> **Code Keywords:** interface (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3282,9 +3284,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), data (3), traffic (1), [[Virtual Machines]] (1), web (1)
 > **Prerequisites:** install (4)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Introduction to software-defined networking (SDN)
@@ -3346,8 +3348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), express (6), data (4), [[Programming]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** sdn (8), dna (4), rest (2), http (2), api (1)
-> **Code Keywords:** interface (4), this, (2), else. (1), switch (1), let (1)
 > **Definitions:** stands for (3), is called (2)
 > **CLI Commands:** python (2)
 > **API Endpoints:** get  (1), put  (1)
@@ -3409,13 +3411,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), data (5), [[Security]] (5), application (3), cloud (3)
 > **Env Vars:** wan (13), br1 (4), br2 (2), npls (2), sdn (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
 > **Code Identifiers:** vmanage (2)
 > **Definitions:** is a  (1), is called (1)
 > **Prerequisites:** set up (1), configure (1)
-> **Code Keywords:** interface (1)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 
 #### Software-Defined Access (SD-Access)
@@ -3469,8 +3471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), next (1), traffic (1), web (1), power (1)
 > **Env Vars:** pc1 (4), ise (3), acl (3), tcp (2), sw3 (2)
-> **Code Keywords:** let (2), switch (2), this. (1)
 > **Versions:** 192.0.2 (3), 192.168.1 (2)
 > **Ports:** port 443 (2)
 > **UI Navigation:** go to (1)
@@ -3480,7 +3482,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980)
@@ -3513,6 +3515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), dns (1), [[Network Security]] (1), [[Security]] (1), [[Virtualization]] (1)
 > **Env Vars:** dns (1), ntp (1), nat (1), dhcp (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** such as (1)

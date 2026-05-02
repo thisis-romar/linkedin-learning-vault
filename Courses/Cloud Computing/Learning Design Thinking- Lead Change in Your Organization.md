@@ -33,7 +33,7 @@ tags:
   - skill/design-thinking
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Design%20Thinking-%20Lead%20Change%20in%20Your%20Organization.md)
@@ -52,54 +52,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why design thinking matters
-  - About this course
+  - [Why design thinking matters](#why-design-thinking-matters)
+  - [About this course](#about-this-course)
 - [**1. What Is Design Thinking?**](#1-what-is-design-thinking) (10 videos)
-  - What is design thinking?
-  - The value of design thinking
-  - The design thinking approach
-  - The six elements of a design thinking mindset
-  - Avoiding common pitfalls of design thinking
-  - Why multidisciplinary matters
-  - Tangibility: Making space to create
-  - Tangibility: Making space to create when remote
-  - Tangibility: Making complexity visual
-  - Explore design thinking attributes in your teams today
+  - [What is design thinking?](#what-is-design-thinking)
+  - [The value of design thinking](#the-value-of-design-thinking)
+  - [The design thinking approach](#the-design-thinking-approach)
+  - [The six elements of a design thinking mindset](#the-six-elements-of-a-design-thinking-mindset)
+  - [Avoiding common pitfalls of design thinking](#avoiding-common-pitfalls-of-design-thinking)
+  - [Why multidisciplinary matters](#why-multidisciplinary-matters)
+  - [Tangibility: Making space to create](#tangibility-making-space-to-create)
+  - [Tangibility: Making space to create when remote](#tangibility-making-space-to-create-when-remote)
+  - [Tangibility: Making complexity visual](#tangibility-making-complexity-visual)
+  - [Explore design thinking attributes in your teams today](#explore-design-thinking-attributes-in-your-teams-today)
 - [**2. Leading Design Thinking**](#2-leading-design-thinking) (8 videos)
-  - Leading design thinking
-  - Challenges of leading design thinking
-  - Building your skills in leading a design thinking team
-  - Aligning the team
-  - Employing a team leap activity
-  - Set a shared goal: Mission countdown
-  - Active alignment
-  - Considerations when remote
+  - [Leading design thinking](#leading-design-thinking)
+  - [Challenges of leading design thinking](#challenges-of-leading-design-thinking)
+  - [Building your skills in leading a design thinking team](#building-your-skills-in-leading-a-design-thinking-team)
+  - [Aligning the team](#aligning-the-team)
+  - [Employing a team leap activity](#employing-a-team-leap-activity)
+  - [Set a shared goal: Mission countdown](#set-a-shared-goal-mission-countdown)
+  - [Active alignment](#active-alignment)
+  - [Considerations when remote](#considerations-when-remote)
 - [**3. Guiding Creative Collaboration**](#3-guiding-creative-collaboration) (9 videos)
-  - Human-centered design (HCD) overview
-  - Hypothesis generation
-  - Empathy for the journey
-  - Journey example
-  - Synthesis: Making sense of the data
-  - Concept generation
-  - Developing a service blueprint
-  - Managing creative flow with the wider group
-  - Is design thinking just a workshop?
+  - [Human-centered design (HCD) overview](#human-centered-design-hcd-overview)
+  - [Hypothesis generation](#hypothesis-generation)
+  - [Empathy for the journey](#empathy-for-the-journey)
+  - [Journey example](#journey-example)
+  - [Synthesis: Making sense of the data](#synthesis-making-sense-of-the-data)
+  - [Concept generation](#concept-generation)
+  - [Developing a service blueprint](#developing-a-service-blueprint)
+  - [Managing creative flow with the wider group](#managing-creative-flow-with-the-wider-group)
+  - [Is design thinking just a workshop?](#is-design-thinking-just-a-workshop)
 - [**4. AI as a Design Thinking Team Member**](#4-ai-as-a-design-thinking-team-member) (4 videos)
-  - Design thinking and AI
-  - AI as a research assistant
-  - AI as a concepting partner
-  - AI as your thought partner
+  - [Design thinking and AI](#design-thinking-and-ai)
+  - [AI as a research assistant](#ai-as-a-research-assistant)
+  - [AI as a concepting partner](#ai-as-a-concepting-partner)
+  - [AI as your thought partner](#ai-as-your-thought-partner)
 - [**5. Making to Advance Thinking**](#5-making-to-advance-thinking) (3 videos)
-  - Prototyping fast and often
-  - Lo-fi prototyping
-  - Prototyping beyond the screen
+  - [Prototyping fast and often](#prototyping-fast-and-often)
+  - [Lo-fi prototyping](#lo-fi-prototyping)
+  - [Prototyping beyond the screen](#prototyping-beyond-the-screen)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Culture change to make this mindset real
-  - Next steps
+  - [Culture change to make this mindset real](#culture-change-to-make-this-mindset-real)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why design thinking matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980)
@@ -122,6 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (3), ai (2), teams (1), product (1)
 > **CLI Commands:** make (1)
 
 #### About this course
@@ -151,15 +152,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (3), teams (2), ai (2), leadership (1), [[Prototyping]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** mit (1)
 > **Definitions:** is a  (1)
 
 
 ### 1. What Is Design Thinking?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is design thinking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/what-is-design-thinking?u=76281980)
@@ -210,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (6), teams (6), product (3), business (2)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (1), extends (1), require (1)
 
 #### The value of design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980)
@@ -262,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** [[Design Thinking]] (8), teams (2), business (2), [[Engineering]] (2), product (1)
 > **Env Vars:** ibm (1), cad (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -318,8 +319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (9), business (1), [[Search]] (1), [[Prototyping]] (1), teams (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 
 #### The six elements of a design thinking mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980)
@@ -404,8 +405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Design Thinking]] (2), teams (1), express (1), [[Slack]] (1)
 > **Env Vars:** hipaa (1), ceo (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the last (1)
 > **Tools:** slack (1)
 > **Best Practices:** don't forget (1)
@@ -468,6 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (12), teams (2), next (1)
 > **Warnings:** pitfall (5), watch out (1)
 > **CLI Commands:** make (1)
 
@@ -532,8 +534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), product (4), [[Design Thinking]] (2), teams (2), [[Team Collaboration]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 
@@ -592,8 +594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (3), business (1), [[Decision-Making]] (1), next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 
 #### Tangibility: Making space to create when remote
@@ -679,8 +681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Diagramming]] (3), [[Prototyping]] (3), [[Design Thinking]] (2), feature (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** continue (1), private (1), export. (1)
 > **Env Vars:** ibm (1)
 > **Versions:** 16.4 (1)
 > **Tools:** figma (1)
@@ -746,8 +748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1), next (1), hit (1), [[Diagramming]] (1), ai (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** picture (2), for example (1)
 
 #### Explore design thinking attributes in your teams today
@@ -813,7 +815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (2), while. (1), this. (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), ai (2), product (1), next (1), strengths (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** later in (1)
@@ -823,7 +825,7 @@ created: 2026-04-29
 
 ### 2. Leading Design Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980)
@@ -886,8 +888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), leadership (2), business (2), [[Design Thinking]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** keep in mind (1)
 
@@ -984,9 +986,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (3), next (3), leadership (2)
 > **CLI Commands:** find (2), make (1), rails (1)
 > **Analogies:** picture (2), just like (1)
-> **Code Keywords:** let (1), for, (1)
 > **Definitions:** is a  (1)
 
 #### Building your skills in leading a design thinking team
@@ -1056,6 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), leadership (1), [[Design Thinking]] (1), teams (1), [[Security]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 
@@ -1114,9 +1117,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), next (2), teams (1), business (1), [[Microsoft Word|Word]] (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Analogies:** for example (1), picture (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** ceo (1)
 > **Exercise Files:** exercise files (1)
 
@@ -1215,8 +1218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), business (1), ai (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Ports:** :15 (2)
 > **Analogies:** for example (2)
 > **Env Vars:** pdf (1)
@@ -1305,7 +1308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Products|Products]] (1), product (1), [[Slack]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Analogies:** picture (1)
@@ -1365,9 +1368,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), teams (1), generic (1), product (1), business (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 
@@ -1436,16 +1439,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Google Drive]] (1), [[Prototyping]] (1), [[Team Collaboration]] (1), [[Design Thinking]] (1)
 > **Cross-References:** we mentioned (2), earlier in (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1), don't forget (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 
 ### 3. Guiding Creative Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Human-centered design (HCD) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980)
@@ -1498,8 +1501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (1), business (1), data (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
@@ -1582,7 +1585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** data (1), feature (1), next (1), power (1), [[Design Thinking]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -1644,7 +1647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), for. (1), class, (1)
+> **Frameworks & Libraries:** product (5), [[LinkedIn]] (2), teams (1), [[Hardware]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** specification (1)
@@ -1721,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Sketching]] (1), data (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** emt (1)
 
@@ -1816,11 +1819,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (3), [[Statistics]] (1), [[Zoom]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (6), find (4)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
-> **Code Keywords:** let (1)
 
 #### Concept generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/concept-generation?u=76281980)
@@ -1889,8 +1892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), teams (2), feature (1)
 > **Analogies:** imagine (1), for example (1), similar to (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
@@ -1956,7 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** business (2), data (2), [[Design Thinking]] (1), next (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** emt (1)
@@ -2027,6 +2030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (3), teams (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1)
 
@@ -2069,13 +2073,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (9), teams (2), business (2), [[Microsoft Products|Products]] (2), leadership (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
 
 ### 4. AI as a Design Thinking Team Member
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design thinking and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980)
@@ -2142,8 +2147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (3), [[Forms]] (1), [[Design Thinking]] (1), [[Prototyping]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 
 #### AI as a research assistant
@@ -2197,7 +2202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** catch. (1), let (1), this. (1)
+> **Frameworks & Libraries:** ai (9), [[Design Thinking]] (3), business (2), data (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1)
 
@@ -2256,7 +2261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** ai (6), business (4), prompt (4), [[Design Thinking]] (3), [[Generative AI]] (3)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -2312,7 +2317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), for, (1)
+> **Frameworks & Libraries:** ai (10), [[Design Thinking]] (2), product (2), [[Microsoft Office|Office]] (1), business (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
@@ -2320,7 +2325,7 @@ created: 2026-04-29
 
 ### 5. Making to Advance Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping fast and often
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980)
@@ -2381,8 +2386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Microsoft Products|Products]] (2), [[Sketching]] (1), product (1), next (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** abstract (1), this, (1)
 > **Analogies:** for example (1)
 
 #### Lo-fi prototyping
@@ -2440,9 +2445,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Microsoft PowerPoint|Powerpoint]] (1), [[Generative AI]] (1), [[Sketching]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** interface (1), require (1)
 
 #### Prototyping beyond the screen
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980)
@@ -2483,14 +2488,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (4), teams (2), [[Microsoft Products|Products]] (1), product (1), [[Simulation]] (1)
 > **CLI Commands:** make (3), go build (1)
 > **Analogies:** for example (1), imagine (1)
-> **Code Keywords:** function (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Culture change to make this mindset real
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980)
@@ -2543,7 +2548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), teams (2), business (1), [[Design Thinking]] (1)
 > **Best Practices:** remember to (1), don't forget (1)
 > **CLI Commands:** find (1)
 
@@ -2586,7 +2591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), else, (1), if, (1), continue (1), let (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (4), [[Prototyping]] (2), teams (1), product (1), [[Sketching]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)

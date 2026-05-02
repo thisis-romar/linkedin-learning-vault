@@ -41,7 +41,7 @@ tags:
   - skill/javascript
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Modern%20Browser%20APIs.md)
@@ -60,38 +60,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Building apps with modern JavaScript
-  - What you should know
-  - Set up the development environment
+  - [Building apps with modern JavaScript](#building-apps-with-modern-javascript)
+  - [What you should know](#what-you-should-know)
+  - [Set up the development environment](#set-up-the-development-environment)
 - [**1. Improving Performance**](#1-improving-performance) (5 videos)
-  - Smoother animation with requestAnimationFrame()
-  - Faster navigation with prefetch
-  - Prioritized loading with preload
-  - Server communication with Beacon API
-  - Element visibility with Intersection Observer
+  - [Smoother animation with requestAnimationFrame()](#smoother-animation-with-requestanimationframe)
+  - [Faster navigation with prefetch](#faster-navigation-with-prefetch)
+  - [Prioritized loading with preload](#prioritized-loading-with-preload)
+  - [Server communication with Beacon API](#server-communication-with-beacon-api)
+  - [Element visibility with Intersection Observer](#element-visibility-with-intersection-observer)
 - [**2. Better Data Management**](#2-better-data-management) (7 videos)
-  - Overview of data handling
-  - Easier Ajax with the Fetch API
-  - Simplified IndexedDB with localForage
-  - localForage and multiple instances
-  - Caching data with the Cache API
-  - Making storage persistent
-  - Getting device memory information
+  - [Overview of data handling](#overview-of-data-handling)
+  - [Easier Ajax with the Fetch API](#easier-ajax-with-the-fetch-api)
+  - [Simplified IndexedDB with localForage](#simplified-indexeddb-with-localforage)
+  - [localForage and multiple instances](#localforage-and-multiple-instances)
+  - [Caching data with the Cache API](#caching-data-with-the-cache-api)
+  - [Making storage persistent](#making-storage-persistent)
+  - [Getting device memory information](#getting-device-memory-information)
 - [**3. Advanced User Experiences**](#3-advanced-user-experiences) (8 videos)
-  - Native overlays with the Dialog API
-  - Integrating with native notifications
-  - Detecting network conditions
-  - Using page visibility
-  - Going full screen with content
-  - Using full-screen events and styling
-  - Dynamic images with CSS Paint API
-  - Parameters with CSS Paint API
+  - [Native overlays with the Dialog API](#native-overlays-with-the-dialog-api)
+  - [Integrating with native notifications](#integrating-with-native-notifications)
+  - [Detecting network conditions](#detecting-network-conditions)
+  - [Using page visibility](#using-page-visibility)
+  - [Going full screen with content](#going-full-screen-with-content)
+  - [Using full-screen events and styling](#using-full-screen-events-and-styling)
+  - [Dynamic images with CSS Paint API](#dynamic-images-with-css-paint-api)
+  - [Parameters with CSS Paint API](#parameters-with-css-paint-api)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building apps with modern JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980)
@@ -118,8 +118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[JavaScript]] (4), [[HTML]] (1), css (1), application (1)
 > **Env Vars:** html (1), css (1)
-> **Code Keywords:** require (1)
 > **Analogies:** picture (1)
 > **Speakers:** - it (1)
 
@@ -156,6 +156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), web (2), [[HTML]] (2), css (2), [[Programming]] (1)
 > **Tools:** visual studio (2), vs code (2), sublime (1), emacs (1)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** make (1)
@@ -202,7 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), require (1)
+> **Frameworks & Libraries:** data (4), [[JSON]] (3), web (2), [[Search]] (1)
 > **Env Vars:** json (3)
 > **Tools:** vs code (2), visual studio (1)
 > **Prerequisites:** set up (2), install (1)
@@ -214,7 +215,7 @@ created: 2026-04-29
 
 ### 1. Improving Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Smoother animation with requestAnimationFrame()
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980)
@@ -301,7 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (3), pass (1), this. (1)
+> **Frameworks & Libraries:** api (3), web (1), [[HTML]] (1)
 > **UI Navigation:** open the (2), scroll down (2), scroll up (1)
 > **Code Identifiers:** animationref (4)
 > **Env Vars:** api (3)
@@ -375,7 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** next (3), feature (3), [[HTML]] (2), [[Analytics]] (2), [[Search]] (1)
 > **UI Navigation:** click on (3), open the (1)
 > **Code Identifiers:** prefetch_start (2), prefetch_page (1)
 > **Cross-References:** go back to (3)
@@ -459,7 +460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), this. (1)
+> **Frameworks & Libraries:** css (4), next (3), data (2), [[Fetch]] (1), [[Search]] (1)
 > **Env Vars:** css (4), w3c (1)
 > **Documentation:** spec (2), w3c (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -592,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), this. (1), case, (1)
+> **Frameworks & Libraries:** data (22), [[AJAX]] (8), api (7), [[Analytics]] (3), web (1)
 > **Env Vars:** api (7), url (6), xml (1), w3c (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** sendbeacon (2), strevent (2)
@@ -708,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), this. (2), const (1), this, (1)
+> **Frameworks & Libraries:** api (3), data (2), web (1), [[HTML]] (1), css (1)
 > **Code Identifiers:** isintersecting (2), intersectionratio (2), intersection_start (1), getelementbyid (1), targetelem (1)
 > **Env Vars:** api (3), css (1), w3c (1)
 > **Definitions:** is a  (2), means that (2), in other words (1)
@@ -720,7 +721,7 @@ created: 2026-04-29
 
 ### 2. Better Data Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980)
@@ -759,6 +760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), api (5), web (3), application (2), [[Fetch]] (2)
 > **Env Vars:** api (5)
 > **Code Identifiers:** localstorage (1), sessionstorage (1), localforage (1)
 > **CLI Commands:** make (2)
@@ -883,7 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (8), type. (3), pass (3), finally, (1)
+> **Frameworks & Libraries:** data (17), [[Fetch]] (8), api (5), [[JSON]] (4), [[JavaScript]] (4)
 > **Env Vars:** api (5), http (4), json (4), url (2), xml (1)
 > **Code Identifiers:** xhr (2), underscore_start (1), content_type (1)
 > **Cross-References:** go back to (3)
@@ -987,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (5), this. (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** data (8), database (2), [[Databases]] (2), api (1), [[HTML]] (1)
 > **Code Identifiers:** localforage (10), indexed_start (1)
 > **File Paths:** indexed_start.html (1), localforage.js (1)
 > **CLI Commands:** make (1)
@@ -1067,7 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), pass (1)
+> **Frameworks & Libraries:** data (5), database (1), [[Databases]] (1), api (1), [[JavaScript]] (1)
 > **Code Identifiers:** indexed_start (1), btnmulti (1), createinstance (1), setitem (1), getitem (1)
 > **Env Vars:** api (1)
 > **Cross-References:** previous video (1)
@@ -1184,8 +1186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), api (12), [[JSON]] (10), hit (9), [[Fetch]] (3)
 > **Env Vars:** api (12), json (10), url (10), http (3), mdn (1)
-> **Code Keywords:** function (7), let (5), case. (2), delete (2), case, (1)
 > **UI Navigation:** click on (4), scroll down (1), open the (1)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is a  (2)
@@ -1280,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), else, (1), try. (1)
+> **Frameworks & Libraries:** data (6), api (3), feature (3), web (2), [[JavaScript]] (1)
 > **Code Identifiers:** getelementbyid (2), persistel (2), storage_start (1), dtpersisted (1), textcontent (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** api (3), ram (2)
@@ -1340,9 +1342,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Representational State Transfer (REST)|Rest]] (1), feature (1), [[Security]] (1)
 > **Env Vars:** api (7), ram (5)
 > **Code Identifiers:** devmem (2), storage_start (1), devicememory (1), getelementbyid (1), devmemory (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Documentation:** spec (1)
 > **UI Navigation:** scroll down (1)
@@ -1351,7 +1353,7 @@ created: 2026-04-29
 
 ### 3. Advanced User Experiences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Native overlays with the Dialog API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980)
@@ -1446,7 +1448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (5), this. (1), for, (1), case. (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (2), web (1), [[JavaScript]] (1), api (1)
 > **Env Vars:** html (3), css (2), api (1)
 > **Cross-References:** go back to (5)
 > **UI Navigation:** click on (2), open the (1), scroll down (1), scroll up (1)
@@ -1558,7 +1560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (3), var (2), this, (1), require (1)
+> **Frameworks & Libraries:** web (6), api (2), feature (1), [[Windows]] (1), [[Linux]] (1)
 > **Documentation:** spec (2), the documentation (2), w3c (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2), w3c (1)
@@ -1696,7 +1698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (1), this. (1), this, (1), type, (1)
+> **Frameworks & Libraries:** api (4), web (3), feature (3), css (1), application (1)
 > **Code Identifiers:** conntype (3), netstate (1), isonline (1), statuselem (1), onlinestate (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** api (4), css (1)
@@ -1740,7 +1742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), function (1), switch (1), extends (1)
+> **Frameworks & Libraries:** api (5), web (1), data (1), next (1), game (1)
 > **Env Vars:** api (5)
 > **Code Identifiers:** pagevis_start (1), outputdiv (1), innerhtml (1), visibilitystate (1)
 > **Definitions:** is a  (1)
@@ -1833,7 +1835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), this. (1), new, (1), case. (1)
+> **Frameworks & Libraries:** api (5), web (1), feature (1), [[Microsoft]] (1), next (1)
 > **Env Vars:** api (5)
 > **UI Navigation:** open the (1), scroll down (1)
 > **Analogies:** for example (1), such as (1)
@@ -1957,8 +1959,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), css (1), [[Microsoft]] (1), [[Microsoft Word|Word]] (1), application (1)
 > **Env Vars:** api (4), css (1)
-> **Code Keywords:** function (2), class. (1)
 > **UI Navigation:** scroll down (1), open the (1), go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2068,7 +2070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), module (6), let (5), this, (2), implements (1)
+> **Frameworks & Libraries:** css (14), [[JavaScript]] (5), [[HTML]] (5), api (2), next (2)
 > **Env Vars:** css (13), html (5), api (2)
 > **Code Identifiers:** csspaint_start (3), registerpaint (3), paintworklet (2), addmodule (2), linewidth (1)
 > **File Paths:** csspaint_start.js (2)
@@ -2122,7 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (2), function (2), case, (1)
+> **Frameworks & Libraries:** css (5), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (5)
 > **UI Navigation:** open the (1), go to (1)
 > **CLI Commands:** make (1)
@@ -2133,7 +2135,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980)
@@ -2164,9 +2166,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[JavaScript]] (2), next (1), [[Vanilla]] (1), web application (1)
 > **Env Vars:** w3c (1), whatwg (1)
 > **Tools:** visual studio (2)
-> **Code Keywords:** finally, (1)
 > **Documentation:** w3c (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)

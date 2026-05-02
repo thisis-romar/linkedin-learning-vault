@@ -30,7 +30,7 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20and%20CSS-%20Linking.md)
@@ -49,37 +49,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Hyperlinks: The glue connecting the World Wide Web
+  - [Hyperlinks: The glue connecting the World Wide Web](#hyperlinks-the-glue-connecting-the-world-wide-web)
 - [**1. Links in HTML**](#1-links-in-html) (10 videos)
-  - The basic link
-  - Linking to offsite resources
-  - Opening links in different windows and iframes
-  - Linking to PDF files and other documents
-  - Linking within the same document and top of page
-  - Linking phone numbers
-  - Linking to email addresses and email messages
-  - Using images as links
-  - Including several links within an image using image maps
-  - Links in the <head> of the document
+  - [The basic link](#the-basic-link)
+  - [Linking to offsite resources](#linking-to-offsite-resources)
+  - [Opening links in different windows and iframes](#opening-links-in-different-windows-and-iframes)
+  - [Linking to PDF files and other documents](#linking-to-pdf-files-and-other-documents)
+  - [Linking within the same document and top of page](#linking-within-the-same-document-and-top-of-page)
+  - [Linking phone numbers](#linking-phone-numbers)
+  - [Linking to email addresses and email messages](#linking-to-email-addresses-and-email-messages)
+  - [Using images as links](#using-images-as-links)
+  - [Including several links within an image using image maps](#including-several-links-within-an-image-using-image-maps)
+  - [Links in the <head> of the document](#links-in-the-head-of-the-document)
 - [**2. Styling Links with CSS**](#2-styling-links-with-css) (6 videos)
-  - Styling links and link states
-  - Making exceptions to link styling
-  - Styling a text link to look like a button
-  - Understanding proper navigation markup
-  - Creating a simple vertical navigation bar
-  - Creating a simple horizontal navigation bar
+  - [Styling links and link states](#styling-links-and-link-states)
+  - [Making exceptions to link styling](#making-exceptions-to-link-styling)
+  - [Styling a text link to look like a button](#styling-a-text-link-to-look-like-a-button)
+  - [Understanding proper navigation markup](#understanding-proper-navigation-markup)
+  - [Creating a simple vertical navigation bar](#creating-a-simple-vertical-navigation-bar)
+  - [Creating a simple horizontal navigation bar](#creating-a-simple-horizontal-navigation-bar)
 - [**3. Maintaining Links**](#3-maintaining-links) (5 videos)
-  - Checking sites for link rot and broken links
-  - Redirecting links within a webpage
-  - Redirecting links on the server
-  - Content delivery networks
-  - Controlling which links search engines follow
+  - [Checking sites for link rot and broken links](#checking-sites-for-link-rot-and-broken-links)
+  - [Redirecting links within a webpage](#redirecting-links-within-a-webpage)
+  - [Redirecting links on the server](#redirecting-links-on-the-server)
+  - [Content delivery networks](#content-delivery-networks)
+  - [Controlling which links search engines follow](#controlling-which-links-search-engines-follow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyperlinks: The glue connecting the World Wide Web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980)
@@ -102,15 +102,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[HTML]] (2), css (2), career (1)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - links (1)
 
 
 ### 1. Links in HTML
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic link
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980)
@@ -229,7 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), super (2), else. (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Windows]] (1), [[Linux]] (1), web (1), css (1)
 > **Env Vars:** html (2), url (2), css (1), vscode (1)
 > **Definitions:** is a  (3), stands for (2), is called (1)
 > **File Paths:** second.html (2), about.html (2), about/about.html (1)
@@ -311,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (9), web (5), [[Google]] (4), [[HTML]] (2), hit (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** else. (1), case, (1), let (1), this, (1), this. (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **File Paths:** links.html (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -443,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (2), match. (1), this. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (9), [[HTML]] (2), web (1), [[Google]] (1), [[Security]] (1)
 > **UI Navigation:** click on (3), open the (2)
 > **Env Vars:** http (1), https (1), html (1), url (1)
 > **Tools:** firefox (3)
@@ -575,9 +575,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (5), [[Microsoft Word|Word]] (4), [[HTML]] (2), web (2), [[Microsoft Office]] (1)
 > **Env Vars:** pdf (18), irs (4), html (2)
 > **UI Navigation:** click on (5), go to (2), toggle (1)
-> **Code Keywords:** let (3), case, (1), this, (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
 > **Exercise Files:** download the (2), exercise files (1)
@@ -707,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (1), try. (1)
+> **Frameworks & Libraries:** web (4), [[HTML]] (2), css (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (4), is an  (2)
 > **Env Vars:** html (2), css (1)
@@ -769,6 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[User Experience (UX)|User experience]] (1), next (1), [[HTML]] (1), web (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** exercise file (1), exercise files (1)
 > **File Paths:** links.html (1)
@@ -877,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), super (1), this, (1)
+> **Frameworks & Libraries:** web (3), application (2), [[Google]] (2), [[JavaScript]] (1), [[HTML]] (1)
 > **Cross-References:** go back to (2), as you saw (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), just like (1)
@@ -949,12 +950,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), web (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** exercise (1), files (1), url (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** in other words (1), is a  (1)
 > **File Paths:** links.html (1)
-> **Code Keywords:** case, (1)
 > **URLs:** [https://www.twotreesoliveoil.com](https://www.twotreesoliveoil.com) (1)
 > **Exercise Files:** exercise files (1)
 
@@ -1057,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), interface (1)
+> **Frameworks & Libraries:** [[HTML]] (3), next (2), web (1), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **URLs:** [mass.gov](https://mass.gov) (3), [image-map.net](https://image-map.net) (2), [ct.gov](https://ct.gov) (1), [ri.gov](https://ri.gov) (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Analogies:** kind of like (3), for example (1)
@@ -1123,7 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), from. (1)
+> **Frameworks & Libraries:** web (2), [[HTML]] (1), [[Metadata]] (1)
 > **Code Identifiers:** ios (1), ipad (1), iphone (1)
 > **Tools:** vs code (2), firefox (1)
 > **Definitions:** is a  (2)
@@ -1135,7 +1136,7 @@ created: 2026-04-29
 
 ### 2. Styling Links with CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Styling links and link states
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980)
@@ -1266,7 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (1), case, (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (2), css (2), [[LinkedIn]] (2), web (2)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1336,7 +1337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), this, (1), let (1), override (1), for. (1)
+> **Frameworks & Libraries:** generic (3), [[LinkedIn]] (1), [[HTML]] (1), css (1)
 > **Definitions:** in other words (2), means that (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** make (1)
@@ -1459,8 +1460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[Forms]] (1), css (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (12)
-> **Code Keywords:** let (7), this. (2), default, (1), continue (1), this, (1)
 > **Env Vars:** html (3), html5 (1), css (1), rem (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Analogies:** just like (1), kind of like (1)
@@ -1565,8 +1566,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), web (1), [[Representational State Transfer (REST)|Rest]] (1), css (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** html (2), css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1666,7 +1667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), this. (2), default, (1)
+> **Frameworks & Libraries:** next (4), [[HTML]] (3), web (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (3)
 > **Cross-References:** in the next (2), next video (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1800,7 +1801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), throw (1), continue (1), case, (1)
+> **Frameworks & Libraries:** next (4), css (2), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[Debugging]] (1)
 > **CLI Commands:** make (9)
 > **Env Vars:** css (2), efac2f (2), rem (1), loi (1)
 > **Definitions:** is a  (2)
@@ -1812,7 +1813,7 @@ created: 2026-04-29
 
 ### 3. Maintaining Links
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking sites for link rot and broken links
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980)
@@ -1963,7 +1964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), this, (1), for. (1), case, (1)
+> **Frameworks & Libraries:** web (4), [[LinkedIn]] (2)
 > **Env Vars:** w3c (2), url (2), http (1), https (1)
 > **Definitions:** is a  (4), is called (1), means that (1)
 > **CLI Commands:** find (2), make (2)
@@ -2045,9 +2046,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[HTML]] (3), web (2), [[Metadata]] (1), next (1)
 > **Env Vars:** html (3), url (2), http (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (3)
 > **File Paths:** links.html (1)
 > **CLI Commands:** make (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
@@ -2115,9 +2116,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Google]] (2), [[PHP]] (2), [[Server Configuration]] (1), [[Content Management]] (1)
 > **Env Vars:** url (4), php (2), cms (1), https (1), www (1)
 > **CLI Commands:** find (5), php (2)
-> **Code Keywords:** let (4), break, (1), case, (1)
 > **UI Navigation:** click on (1), go to (1)
 > **URLs:** [jenkramer.org](https://jenkramer.org) (1)
 > **Analogies:** just like (1)
@@ -2173,8 +2174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), traffic (2), css (2), web (1), business (1)
 > **Env Vars:** cdn (4), css (2)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2267,8 +2268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (12), [[Google]] (8), web (1), [[LinkedIn]] (1), [[Drupal]] (1)
 > **File Paths:** robots.txt (11), sitemap.xml (1)
-> **Code Keywords:** public (2), default, (1), for, (1), case, (1), finally, (1)
 > **Definitions:** is a  (3), in other words (3)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** xml (1), w3c (1)
@@ -2279,7 +2280,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980)
@@ -2316,9 +2317,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), css (3), [[Metadata]] (1)
 > **Env Vars:** html (5), css (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [jen] (1)
 

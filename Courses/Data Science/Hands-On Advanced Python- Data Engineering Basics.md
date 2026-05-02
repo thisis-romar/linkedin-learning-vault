@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20Advanced%20Python-%20Data%20Engineering%20Basics.md)
@@ -50,37 +50,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Hands-on with advanced Python
-  - What you should know
-  - Getting set up: Codespaces
-  - CoderPad challenges
-  - The sample weather data set
+  - [Hands-on with advanced Python](#hands-on-with-advanced-python)
+  - [What you should know](#what-you-should-know)
+  - [Getting set up: Codespaces](#getting-set-up-codespaces)
+  - [CoderPad challenges](#coderpad-challenges)
+  - [The sample weather data set](#the-sample-weather-data-set)
 - [**1. Parsing and Exploring Data**](#1-parsing-and-exploring-data) (7 videos)
-  - Loading and parsing JSON data
-  - Basic data operations
-  - Filtering data
-  - Solution: Filtering
-  - Sorting data
-  - Transforming data
-  - Solution: Transforms
+  - [Loading and parsing JSON data](#loading-and-parsing-json-data)
+  - [Basic data operations](#basic-data-operations)
+  - [Filtering data](#filtering-data)
+  - [Solution: Filtering](#solution-filtering)
+  - [Sorting data](#sorting-data)
+  - [Transforming data](#transforming-data)
+  - [Solution: Transforms](#solution-transforms)
 - [**2. Working with Collections**](#2-working-with-collections) (5 videos)
-  - Count values with defaultdict
-  - Using the reduce function
-  - Grouping data
-  - Working with dates
-  - Solution: Collections
+  - [Count values with defaultdict](#count-values-with-defaultdict)
+  - [Using the reduce function](#using-the-reduce-function)
+  - [Grouping data](#grouping-data)
+  - [Working with dates](#working-with-dates)
+  - [Solution: Collections](#solution-collections)
 - [**3. Math and Statistics**](#3-math-and-statistics) (5 videos)
-  - Random values
-  - Random operations on sequences
-  - Solution: Random days
-  - Statistical functions
-  - Solution: Detect outliers
+  - [Random values](#random-values)
+  - [Random operations on sequences](#random-operations-on-sequences)
+  - [Solution: Random days](#solution-random-days)
+  - [Statistical functions](#statistical-functions)
+  - [Solution: Detect outliers](#solution-detect-outliers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on with advanced Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980)
@@ -109,8 +109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (1), [[Programming Concepts]] (1)
 > **CLI Commands:** python (7)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - are (1)
 
@@ -153,6 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Programming]] (4), data (2), feature (1)
 > **CLI Commands:** python (10)
 > **Tools:** visual studio (3), vs code (1)
 > **Prerequisites:** getting started (1)
@@ -229,11 +230,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[GitHub]] (3), [[Codespaces]] (2), prompt (2), [[Search]] (2)
 > **CLI Commands:** python (10), make (5), find (2)
 > **Prerequisites:** install (7), set up (3), you'll need (1)
 > **Tools:** github (3), terminal (3), vs code (3), visual studio (1)
 > **UI Navigation:** click on (4), go to (2), open the (1)
-> **Code Keywords:** let (2), this, (2)
 > **Versions:** version 3 (1), python 3 (1), 10.4 (1)
 > **Exercise Files:** download the (2), zip file (1)
 > **Speakers:** - [instructor] (1)
@@ -303,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** scroll down (1)
@@ -333,14 +334,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[JSON]] (2)
 > **File Paths:** sample-weather-history.json (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Parsing and Exploring Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading and parsing JSON data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980)
@@ -485,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (4), function (3), module (3), this, (1)
+> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (12), [[JSON]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (12), make (2)
 > **Tools:** terminal (12)
 > **Env Vars:** json (5)
@@ -591,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (7), lambda (3), pass (1), this, (1)
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (3), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4), python (3)
 > **Tools:** terminal (2)
 > **UI Navigation:** open the (1), right-click (1)
@@ -743,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (11), lambda (3), this. (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** previous video (1), in the last (1)
@@ -791,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1), module (1)
+> **Frameworks & Libraries:** data (2), [[JSON]] (1)
 > **Versions:** 0.7 (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** json (1)
@@ -914,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (12), lambda (4), case, (3), require (1)
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), next (1)
 > **Versions:** 0.2 (4), 0.3 (4), 2.5 (1), 5.9 (1), 1.9 (1)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -1100,7 +1101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), let (20), this. (3), module (2), else, (1)
+> **Frameworks & Libraries:** data (31)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** metric_weather (2), tuple_data (1)
 > **UI Navigation:** scroll up (1), scroll down (1), go to (1)
@@ -1138,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), module (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (3), [[JSON]] (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [instructor] (1)
@@ -1146,7 +1147,7 @@ created: 2026-04-29
 
 ### 2. Working with Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Count values with defaultdict
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980)
@@ -1289,7 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (5), module (2), this, (2), this. (2)
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (3), feature (1)
 > **Code Identifiers:** years_months (3), year_month (2), warmest_day (1), coldest_day (1)
 > **Cross-References:** earlier in (3), as we saw (2), go back to (1)
 > **Definitions:** is a  (6)
@@ -1479,7 +1480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (10), lambda (4), this. (3), module (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (1), generic (1), next (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **Code Identifiers:** total_snowfall (1), total_precip (1), warm_snow_day (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1657,7 +1658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (10), this, (3), lambda (2), module (1)
+> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (2), feature (1)
 > **CLI Commands:** make (4), python (2)
 > **Versions:** 0.02 (2), 0.01 (1), 0.1 (1)
 > **Cross-References:** go back to (2), earlier in (1)
@@ -1869,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (12), module (5), pass (3), this. (2)
+> **Frameworks & Libraries:** next (14), data (10), [[Python (Programming Language)|Python]] (3), hit (1)
 > **CLI Commands:** find (5), python (3)
 > **Env Vars:** iso (6)
 > **Cross-References:** go back to (1), earlier in (1)
@@ -1927,7 +1928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (1)
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (1)
 > **Versions:** 3.3 (1)
 > **Speakers:** - [instructor] (1)
@@ -1935,7 +1936,7 @@ created: 2026-04-29
 
 ### 3. Math and Statistics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Random values
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980)
@@ -2054,7 +2055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (6), module (2), pass (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Software Testing]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Cross-References:** go back to (2), next video (1)
 > **Versions:** 0.211 (1)
@@ -2152,7 +2153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (12), module (4), this, (2), pass (1)
+> **Frameworks & Libraries:** data (7), [[JSON]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** month_data (2), rnd_day (1), rnd_days (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -2198,7 +2199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** click on (1)
@@ -2347,7 +2348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), module (5), function (3), new, (2), else, (1)
+> **Frameworks & Libraries:** [[Statistics]] (11), data (8), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (4), python (3), make (2)
 > **Versions:** 100.02 (1), 58.99 (1)
 > **Tools:** terminal (2)
@@ -2412,14 +2413,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** data (1), next (1), [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980)
@@ -2442,6 +2443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Algorithms]] (1), [[Programming]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)

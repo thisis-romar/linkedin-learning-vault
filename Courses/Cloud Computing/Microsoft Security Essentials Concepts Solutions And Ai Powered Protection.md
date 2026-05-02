@@ -27,7 +27,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/microsoft-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Security%20Essentials%20Concepts%20Solutions%20And%20Ai%20Powered%20Protection.md)
@@ -46,86 +46,86 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learning Microsoft Security Essentials
-  - Microsoft security solutions overview
+  - [Learning Microsoft Security Essentials](#learning-microsoft-security-essentials)
+  - [Microsoft security solutions overview](#microsoft-security-solutions-overview)
 - [**1. Security Concepts**](#1-security-concepts) (6 videos)
-  - Security principles
-  - Security threats
-  - Governance, risk, and compliance (GRC)
-  - Shared responsibility model
-  - Defense in depth
-  - Zero Trust model
+  - [Security principles](#security-principles)
+  - [Security threats](#security-threats)
+  - [Governance, risk, and compliance (GRC)](#governance-risk-and-compliance-grc)
+  - [Shared responsibility model](#shared-responsibility-model)
+  - [Defense in depth](#defense-in-depth)
+  - [Zero Trust model](#zero-trust-model)
 - [**2. Identity and Access**](#2-identity-and-access) (14 videos)
-  - Identity and access security with Microsoft Entra
-  - Microsoft Entra ID: Identity management
-  - Microsoft Entra ID: Hybrid identities
-  - Microsoft Entra ID: Authentication methods
-  - Microsoft Entra ID: Password management
-  - Microsoft Entra ID: Multifactor authentication (MFA)
-  - Microsoft Entra Conditional Access
-  - Microsoft Entra roles and role-based access control (RBAC)
-  - Microsoft Entra ID Governance
-  - Microsoft Entra access reviews
-  - Microsoft Entra Privileged Identity Management (PIM)
-  - Microsoft Entra ID Protection
-  - Microsoft Entra Permissions Management
-  - Microsoft Entra Global Secure Access
+  - [Identity and access security with Microsoft Entra](#identity-and-access-security-with-microsoft-entra)
+  - [Microsoft Entra ID: Identity management](#microsoft-entra-id-identity-management)
+  - [Microsoft Entra ID: Hybrid identities](#microsoft-entra-id-hybrid-identities)
+  - [Microsoft Entra ID: Authentication methods](#microsoft-entra-id-authentication-methods)
+  - [Microsoft Entra ID: Password management](#microsoft-entra-id-password-management)
+  - [Microsoft Entra ID: Multifactor authentication (MFA)](#microsoft-entra-id-multifactor-authentication-mfa)
+  - [Microsoft Entra Conditional Access](#microsoft-entra-conditional-access)
+  - [Microsoft Entra roles and role-based access control (RBAC)](#microsoft-entra-roles-and-role-based-access-control-rbac)
+  - [Microsoft Entra ID Governance](#microsoft-entra-id-governance)
+  - [Microsoft Entra access reviews](#microsoft-entra-access-reviews)
+  - [Microsoft Entra Privileged Identity Management (PIM)](#microsoft-entra-privileged-identity-management-pim)
+  - [Microsoft Entra ID Protection](#microsoft-entra-id-protection)
+  - [Microsoft Entra Permissions Management](#microsoft-entra-permissions-management)
+  - [Microsoft Entra Global Secure Access](#microsoft-entra-global-secure-access)
 - [**3. Security Information and Event Management (SIEM)**](#3-security-information-and-event-management-siem) (2 videos)
-  - SIEM and SOAR with Microsoft Sentinel
-  - Microsoft Sentinel: Incident detection and response
+  - [SIEM and SOAR with Microsoft Sentinel](#siem-and-soar-with-microsoft-sentinel)
+  - [Microsoft Sentinel: Incident detection and response](#microsoft-sentinel-incident-detection-and-response)
 - [**4. Extended Detection and Response (XDR)**](#4-extended-detection-and-response-xdr) (8 videos)
-  - Threat protection with Microsoft Defender XDR
-  - Microsoft Defender investigation and response
-  - Microsoft Defender Threat Intelligence
-  - Microsoft Defender for Endpoint
-  - Microsoft Defender Vulnerability Management
-  - Microsoft Defender for Office 365
-  - Microsoft Defender for Identity
-  - Microsoft Defender for Cloud Apps
+  - [Threat protection with Microsoft Defender XDR](#threat-protection-with-microsoft-defender-xdr)
+  - [Microsoft Defender investigation and response](#microsoft-defender-investigation-and-response)
+  - [Microsoft Defender Threat Intelligence](#microsoft-defender-threat-intelligence)
+  - [Microsoft Defender for Endpoint](#microsoft-defender-for-endpoint)
+  - [Microsoft Defender Vulnerability Management](#microsoft-defender-vulnerability-management)
+  - [Microsoft Defender for Office 365](#microsoft-defender-for-office-365)
+  - [Microsoft Defender for Identity](#microsoft-defender-for-identity)
+  - [Microsoft Defender for Cloud Apps](#microsoft-defender-for-cloud-apps)
 - [**5. Cloud Infrastructure Security**](#5-cloud-infrastructure-security) (7 videos)
-  - Azure Virtual Network
-  - Azure network security group
-  - Azure Firewall
-  - Azure Web Application Firewall
-  - Azure DDoS Protection
-  - Azure Bastion
-  - Azure Key Vault
+  - [Azure Virtual Network](#azure-virtual-network)
+  - [Azure network security group](#azure-network-security-group)
+  - [Azure Firewall](#azure-firewall)
+  - [Azure Web Application Firewall](#azure-web-application-firewall)
+  - [Azure DDoS Protection](#azure-ddos-protection)
+  - [Azure Bastion](#azure-bastion)
+  - [Azure Key Vault](#azure-key-vault)
 - [**6. Cloud-Native Application Protection Platform (CNAPP)**](#6-cloud-native-application-protection-platform-cnapp) (4 videos)
-  - CNAPP with Microsoft Defender for Cloud
-  - Microsoft Defender for Cloud: Security posture management
-  - Microsoft Defender for Cloud: Workload protection
-  - Microsoft Defender for Cloud: DevOps security
+  - [CNAPP with Microsoft Defender for Cloud](#cnapp-with-microsoft-defender-for-cloud)
+  - [Microsoft Defender for Cloud: Security posture management](#microsoft-defender-for-cloud-security-posture-management)
+  - [Microsoft Defender for Cloud: Workload protection](#microsoft-defender-for-cloud-workload-protection)
+  - [Microsoft Defender for Cloud: DevOps security](#microsoft-defender-for-cloud-devops-security)
 - [**7. Endpoint Management and Security**](#7-endpoint-management-and-security) (1 videos)
-  - Endpoint management and security with Microsoft Intune
+  - [Endpoint management and security with Microsoft Intune](#endpoint-management-and-security-with-microsoft-intune)
 - [**8. Risk and Compliance Management**](#8-risk-and-compliance-management) (7 videos)
-  - Risk and compliance management with Microsoft Purview
-  - Microsoft Purview Audit
-  - Microsoft Purview eDiscovery
-  - Microsoft Purview Compliance Manager
-  - Microsoft Purview Communication Compliance
-  - Microsoft Purview Data Lifecycle Management
-  - Microsoft Purview Records Management
+  - [Risk and compliance management with Microsoft Purview](#risk-and-compliance-management-with-microsoft-purview)
+  - [Microsoft Purview Audit](#microsoft-purview-audit)
+  - [Microsoft Purview eDiscovery](#microsoft-purview-ediscovery)
+  - [Microsoft Purview Compliance Manager](#microsoft-purview-compliance-manager)
+  - [Microsoft Purview Communication Compliance](#microsoft-purview-communication-compliance)
+  - [Microsoft Purview Data Lifecycle Management](#microsoft-purview-data-lifecycle-management)
+  - [Microsoft Purview Records Management](#microsoft-purview-records-management)
 - [**9. Data Security and Governance**](#9-data-security-and-governance) (5 videos)
-  - Data security and governance with Microsoft Purview
-  - Microsoft Purview Information Protection
-  - Microsoft Purview Data Loss Prevention
-  - Microsoft Purview Insider Risk Management
-  - Microsoft Purview Data Catalog
+  - [Data security and governance with Microsoft Purview](#data-security-and-governance-with-microsoft-purview)
+  - [Microsoft Purview Information Protection](#microsoft-purview-information-protection)
+  - [Microsoft Purview Data Loss Prevention](#microsoft-purview-data-loss-prevention)
+  - [Microsoft Purview Insider Risk Management](#microsoft-purview-insider-risk-management)
+  - [Microsoft Purview Data Catalog](#microsoft-purview-data-catalog)
 - [**10. Privacy Protection**](#10-privacy-protection) (3 videos)
-  - Privacy protection with Microsoft Priva
-  - Microsoft Priva Privacy Risk Management
-  - Microsoft Priva Subject Rights Requests
+  - [Privacy protection with Microsoft Priva](#privacy-protection-with-microsoft-priva)
+  - [Microsoft Priva Privacy Risk Management](#microsoft-priva-privacy-risk-management)
+  - [Microsoft Priva Subject Rights Requests](#microsoft-priva-subject-rights-requests)
 - [**11. AI-Powered Protection**](#11-ai-powered-protection) (4 videos)
-  - AI-powered protection with Microsoft Security Copilot
-  - Microsoft Security Copilot process flow
-  - Effective prompts in Microsoft Security Copilot
-  - Copilot integration with Microsoft security solutions
+  - [AI-powered protection with Microsoft Security Copilot](#ai-powered-protection-with-microsoft-security-copilot)
+  - [Microsoft Security Copilot process flow](#microsoft-security-copilot-process-flow)
+  - [Effective prompts in Microsoft Security Copilot](#effective-prompts-in-microsoft-security-copilot)
+  - [Copilot integration with Microsoft security solutions](#copilot-integration-with-microsoft-security-solutions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning Microsoft security essentials
+  - [Continue learning Microsoft security essentials](#continue-learning-microsoft-security-essentials)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Microsoft Security Essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980)
@@ -150,7 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Security]] (4), [[Security]] (3), [[Cybersecurity]] (2), [[Microsoft]] (2), [[Microsoft Defender|Defender]] (2)
 > **Env Vars:** xdr (1)
 > **Speakers:** - ready (1)
 
@@ -179,16 +179,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[Microsoft]] (7), management (5), cloud (5), [[Microsoft Security]] (3)
 > **Env Vars:** siem (2), soar (2), iam (1), cnapp (1), xdr (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Security Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980)
@@ -239,6 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), data (2), [[Banking]] (1), [[Microsoft Word|Word]] (1), [[Network Security]] (1)
 > **Env Vars:** cia (3), iot (1)
 > **Analogies:** for example (4)
 > **Definitions:** is called (1), stands for (1), in other words (1)
@@ -304,10 +305,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (4), database (3), web application (2), [[Phishing]] (2)
 > **Analogies:** for example (4), such as (3)
 > **Definitions:** refers to (2), is a  (2), is an  (1)
 > **Env Vars:** sql (2), crm (1)
-> **Code Keywords:** protected (1)
 > **Code Identifiers:** ios (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -353,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), management (1), [[Continuous Monitoring]] (1), [[Microsoft]] (1)
 > **Env Vars:** grc (6)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -419,10 +420,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), [[SaaS]] (6), [[PaaS]] (5), [[Security]] (3), [[IaaS]] (3)
 > **Analogies:** for example (4)
 > **Env Vars:** ias (1), pas (1), saas (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** type, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Defense in depth
@@ -468,9 +469,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), data (4), application (3), business (2), management (2)
 > **Analogies:** such as (5), for example (4), imagine (1)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** vpn (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
@@ -553,7 +554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), protected (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (9), data (4), cloud (2), [[Microsoft Office|Office]] (1), [[Data Classification]] (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -561,7 +562,7 @@ created: 2026-04-29
 
 ### 2. Identity and Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identity and access security with Microsoft Entra
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980)
@@ -604,8 +605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (7), [[Microsoft]] (7), [[Microsoft Entra ID|Entra]] (6), [[Security]] (2), cloud (2)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** iam (2), aaa (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -706,8 +707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (6), [[Microsoft]] (4), management (3), [[Microsoft Entra ID|Entra]] (3), cloud (2)
 > **Analogies:** for example (4), such as (3)
-> **Code Keywords:** let (2), type. (1)
 > **Env Vars:** iot (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -755,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Microsoft]] (6), [[Microsoft Entra ID|Entra]] (5), management (3), [[Databases]] (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - although (1)
 
 #### Microsoft Entra ID: Authentication methods
@@ -818,8 +819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID]] (2), [[Tokens]] (2), [[Windows]] (2), application (1)
 > **Env Vars:** sms (2), oath (2), fido2 (2), usb (1)
-> **Code Keywords:** let (2), else, (2), protected (1), pass (1)
 > **Analogies:** it's like (1), such as (1), for example (1)
 > **Prerequisites:** configure (2)
 > **Definitions:** is called (1)
@@ -883,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), let (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID]] (2), [[Microsoft Entra ID|Entra]] (2), [[Active Directory]] (2), cloud (1)
 > **Analogies:** for example (4), such as (2)
 > **Prerequisites:** set up (3), configure (2)
 > **Env Vars:** sspr (1)
@@ -951,8 +952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Microsoft Entra ID]] (4), [[Microsoft]] (3), [[Hardware]] (2), [[Tokens]] (2)
 > **Env Vars:** mfa (8), sms (2), oath (1)
-> **Code Keywords:** require (2), type, (1), let (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -1016,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4), let (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (2), [[Microsoft Azure|Azure]] (2), [[DevOps]] (2), [[Microsoft Entra ID]] (1)
 > **Analogies:** for example (3), such as (3)
 > **Env Vars:** mfa (3)
 > **CLI Commands:** make (1)
@@ -1103,9 +1104,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (12), [[Microsoft Entra ID|Entra]] (11), [[Security]] (5), application (5), [[Microsoft Entra ID]] (3)
 > **Analogies:** such as (4), for example (3)
 > **Env Vars:** rbac (4)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -1178,8 +1179,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3), management (2), [[Human Resources (HR)|Human resources]] (1), application (1)
 > **Definitions:** refers to (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1248,8 +1249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3), business (2), [[Security]] (1), data (1)
 > **Analogies:** for example (6), such as (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Tools:** slack (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
@@ -1330,11 +1331,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Entra ID|Entra]] (6), management (6), application (2), business (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** pim (2), jit (1)
 > **Definitions:** refers to (1), known as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Microsoft Entra ID Protection
@@ -1392,8 +1393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (3), [[Security]] (2), web (1), application (1)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** require (1), let (1), protected (1)
 > **Env Vars:** mfa (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1457,10 +1458,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), management (5), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), aws (2)
 > **Env Vars:** aws (2), gcp (1), pci (1)
 > **CLI Commands:** aws (2), find (1)
 > **Prerequisites:** set up (1), configure (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1540,7 +1541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (14), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (12), [[Microsoft Entra ID|Entra]] (10), traffic (8), [[Security]] (5), cloud (5)
 > **Env Vars:** sse (2), casb (2), swg (1), ztna (1), fqdn (1)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is called (2)
@@ -1552,7 +1553,7 @@ created: 2026-04-29
 
 ### 3. Security Information and Event Management (SIEM)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SIEM and SOAR with Microsoft Sentinel
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980)
@@ -1609,9 +1610,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), data (8), management (4), [[Automation]] (4), [[Microsoft]] (3)
 > **Env Vars:** siem (8), soar (7)
 > **Definitions:** is a  (2), stands for (2)
-> **Code Keywords:** let (2), extends (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -1670,8 +1671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft]] (4), [[Security]] (3), [[Automation]] (3), [[Incident Response]] (3)
 > **Env Vars:** mitre (2), att (2), vip (1)
-> **Code Keywords:** let (2)
 > **Tools:** jupyter (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -1680,7 +1681,7 @@ created: 2026-04-29
 
 ### 4. Extended Detection and Response (XDR)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threat protection with Microsoft Defender XDR
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980)
@@ -1721,11 +1722,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Defender]] (17), [[Security]] (4), cloud (3), data (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** xdr (8), siem (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Microsoft Defender investigation and response
@@ -1761,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (2), [[Microsoft Copilot|Copilot]] (1), [[Microsoft Defender|Defender]] (1), ai (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1819,10 +1820,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Defender]] (5), [[Analytics]] (3), [[Search]] (3), data (1), [[Phishing]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** cve (3), ioc (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1865,7 +1866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (6), [[Security]] (3), management (3), [[Microsoft]] (2), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** air (1), api (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1)
@@ -1951,8 +1952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), [[Microsoft Defender]] (4), [[Security]] (4), [[Hardware]] (2), [[Real-Time]] (2)
 > **Env Vars:** cve (5)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -2017,10 +2018,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft Defender]] (4), [[Security]] (3), [[Phishing]] (2), [[Simulation]] (2)
 > **Env Vars:** url (2), siem (2), zap (1), air (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** install (1), set up (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2069,7 +2070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), module (1)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (9), cloud (3), [[Security]] (3), [[Microsoft]] (2), data (2)
 > **Analogies:** such as (3)
 > **Env Vars:** itdr (2)
 > **Definitions:** is a  (1), stands for (1)
@@ -2139,17 +2140,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[SaaS]] (5), [[Microsoft Defender]] (5), data (4), [[Security]] (3)
 > **Env Vars:** casb (2), sspm (1), xdr (1), oath (1)
 > **Definitions:** stands for (1), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Cloud Infrastructure Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Virtual Network
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980)
@@ -2220,8 +2221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Security]] (4), cloud (3), [[Microsoft Azure]] (1), [[Scalability]] (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** private (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
@@ -2296,8 +2297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), [[Security]] (7), [[Network Security]] (6), [[Microsoft Azure|Azure]] (3), application (1)
 > **Env Vars:** nsg (3), tcp (1), udp (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -2349,11 +2350,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), traffic (8), [[Network Security]] (7), [[Security]] (4), cloud (3)
 > **Env Vars:** https (1), nat (1), nsg (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** private (1)
 > **Speakers:** - [instructor] (1)
 
 #### Azure Web Application Firewall
@@ -2393,9 +2394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), web application (7), web (7), application (5), [[Security]] (4)
 > **Env Vars:** waf (5), owasp (2), cdn (1), sql (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2436,10 +2437,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), traffic (3), application (3), [[Microsoft Word|Word]] (1), [[IoT]] (1)
 > **Env Vars:** icmp (1), http (1), sql (1), waf (1)
 > **Analogies:** for example (3)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2494,7 +2495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (1), let (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Virtual Machines]] (5), cloud (1), [[Network Security]] (1), [[Microsoft]] (1)
 > **Env Vars:** rdp (2), ssh (2)
 > **Tools:** azure portal (3)
 > **CLI Commands:** ssh (2)
@@ -2547,8 +2548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (2), cloud (1), management (1), api (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** delete (1), self (1), let (1)
 > **Env Vars:** api (1), ssl (1), tls (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is a  (1)
@@ -2557,7 +2558,7 @@ created: 2026-04-29
 
 ### 6. Cloud-Native Application Protection Platform (CNAPP)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CNAPP with Microsoft Defender for Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980)
@@ -2606,8 +2607,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[Security]] (15), [[Microsoft Defender]] (5), [[DevOps]] (3), application (2)
 > **Env Vars:** cnapp (3), cnap (1), cspm (1), cwpp (1), xdr (1)
-> **Code Keywords:** extends (1), let (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** cd (1)
@@ -2692,11 +2693,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (20), [[Security]] (20), [[Microsoft Defender]] (7), management (5), [[Microsoft]] (3)
 > **Env Vars:** aws (2), gcp (2), nist (2), cspm (1), iso (1)
 > **Analogies:** for example (6), such as (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** recommended (1)
@@ -2736,8 +2737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Microsoft Defender]] (6), [[Microsoft Defender|Defender]] (4), [[Security]] (4), [[Databases]] (2)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cwp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2790,7 +2791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[DevOps]] (13), [[Security]] (10), cloud (5), [[Microsoft Defender]] (3), [[Software Development]] (2)
 > **CLI Commands:** cd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2798,7 +2799,7 @@ created: 2026-04-29
 
 ### 7. Endpoint Management and Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Endpoint management and security with Microsoft Intune
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980)
@@ -2873,8 +2874,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), [[Microsoft]] (6), management (5), cloud (4), [[Microsoft Copilot|Copilot]] (3)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** ios (1), macos (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
@@ -2885,7 +2886,7 @@ created: 2026-04-29
 
 ### 8. Risk and Compliance Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Risk and compliance management with Microsoft Purview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980)
@@ -2928,7 +2929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (15), [[Microsoft]] (5), [[Security]] (5), business (3), [[Compliance Management]] (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -2991,8 +2992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft]] (4), data (1), [[Security]] (1), [[Microsoft Teams]] (1)
 > **Definitions:** refers to (4), is a  (1)
-> **Code Keywords:** let (2), for. (1), finally, (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [narrator] (1)
@@ -3068,7 +3069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), case, (3), let (2)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Search]] (3), data (1), [[Analytics]] (1), [[Statistics]] (1)
 > **Code Identifiers:** ediscovery (7)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** for example (1), such as (1)
@@ -3139,8 +3140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4), data (3), [[Compliance Management]] (1), [[Information Security Management]] (1), [[Security]] (1)
 > **Env Vars:** iso (2), iec (2), gdpr (1), pci (1), dss (1)
-> **Code Keywords:** let (4)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -3194,7 +3195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Security]] (2), [[Regulatory Compliance]] (1), teams (1), [[Search]] (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -3264,7 +3265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3)
+> **Frameworks & Libraries:** data (11), management (7), [[Microsoft]] (3), [[SharePoint]] (3), [[Security]] (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
@@ -3331,7 +3332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1)
+> **Frameworks & Libraries:** management (6), next (6), [[Microsoft]] (4), data (2), business (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -3340,7 +3341,7 @@ created: 2026-04-29
 
 ### 9. Data Security and Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data security and governance with Microsoft Purview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980)
@@ -3373,7 +3374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (36), [[Security]] (6), [[Microsoft]] (6), business (4), management (2)
 > **Analogies:** such as (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -3451,8 +3452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft]] (7), business (3), [[Security]] (2), [[Data Classification]] (1)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** let (3), match, (1), public (1)
 > **Env Vars:** edm (2)
 > **Definitions:** known as (2)
 > **Speakers:** - [instructor] (1)
@@ -3522,9 +3523,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft]] (4), [[Financial Data]] (4), next (3), [[Microsoft OneDrive|Onedrive]] (2)
 > **Analogies:** such as (6), for example (5)
 > **Env Vars:** dlp (7), pii (1)
-> **Code Keywords:** let (4)
 > **Exercise Files:** template (3)
 > **Speakers:** - [instructor] (1)
 
@@ -3587,7 +3588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), public (1), finally, (1)
+> **Frameworks & Libraries:** management (7), [[Microsoft]] (5), data (2), business (1), next (1)
 > **Analogies:** for example (2), such as (1)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
@@ -3655,15 +3656,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), business (10), [[Microsoft Products|Products]] (6), [[Microsoft]] (3), management (3)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** function (1), let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 10. Privacy Protection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy protection with Microsoft Priva
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980)
@@ -3758,7 +3759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), default. (1), require (1)
+> **Frameworks & Libraries:** data (19), [[Privacy]] (12), [[Microsoft]] (5), management (5), [[Privacy Protection]] (4)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** gdpr (1)
@@ -3832,7 +3833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Privacy]] (9), management (6), [[Microsoft]] (4), [[Security]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdpr (1)
@@ -3880,7 +3881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), export, (2)
+> **Frameworks & Libraries:** data (20), [[Microsoft]] (4), [[Microsoft 365]] (4), [[Privacy]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdpr (1)
@@ -3891,7 +3892,7 @@ created: 2026-04-29
 
 ### 11. AI-Powered Protection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-powered protection with Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980)
@@ -3978,7 +3979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), try. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Security]] (15), [[Microsoft Security]] (13), [[Microsoft]] (10), ai (7)
 > **Definitions:** is called (2), is an  (1), is a  (1)
 > **Env Vars:** xdr (2), soc (1)
 > **Analogies:** such as (2), for example (1)
@@ -4070,8 +4071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), prompt (8), [[Microsoft Security]] (7), ai (4), [[Security]] (4)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** let (2), finally, (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** llm (1), xdr (1)
@@ -4158,9 +4159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Security]] (4), prompt (4), ai (3), [[Microsoft Security]] (2)
 > **Analogies:** for example (8)
 > **Definitions:** refers to (4), is a  (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** xdr (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -4318,7 +4319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type. (2), continue (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (33), [[Microsoft Security]] (10), [[Microsoft]] (10), [[Microsoft Defender]] (8), [[Microsoft Azure|Azure]] (5)
 > **Env Vars:** xdr (5), cve (1)
 > **Analogies:** for example (3), such as (1)
 > **Cross-References:** go back to (3)
@@ -4329,7 +4330,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Microsoft security essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980)
@@ -4358,7 +4359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Security]] (4), [[Security]] (2), [[Microsoft Defender|Defender]] (2), [[Privacy]] (1), [[Microsoft]] (1)
 > **Env Vars:** xdr (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - you (1)

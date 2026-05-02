@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/IoT%20Foundations-%20Fundamentals.md)
@@ -51,37 +51,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - From physical to digital: Your first step into the Internet of Things
-  - What you should know
-  - Architectural overview
+  - [From physical to digital: Your first step into the Internet of Things](#from-physical-to-digital-your-first-step-into-the-internet-of-things)
+  - [What you should know](#what-you-should-know)
+  - [Architectural overview](#architectural-overview)
 - [**1. The Software-Defined Product**](#1-the-software-defined-product) (4 videos)
-  - The digital twin
-  - The AI model
-  - Application
-  - IoT value modeling
+  - [The digital twin](#the-digital-twin)
+  - [The AI model](#the-ai-model)
+  - [Application](#application)
+  - [IoT value modeling](#iot-value-modeling)
 - [**2. The Hardware-Defined Product**](#2-the-hardware-defined-product) (4 videos)
-  - Hardware overview
-  - Sensors
-  - Embedded systems
-  - Connected sensors
+  - [Hardware overview](#hardware-overview)
+  - [Sensors](#sensors)
+  - [Embedded systems](#embedded-systems)
+  - [Connected sensors](#connected-sensors)
 - [**3. The Network Fabric**](#3-the-network-fabric) (4 videos)
-  - Overview and standards
-  - OT, IT, and fog networks
-  - IoT product cloud
-  - IoT platform
+  - [Overview and standards](#overview-and-standards)
+  - [OT, IT, and fog networks](#ot-it-and-fog-networks)
+  - [IoT product cloud](#iot-product-cloud)
+  - [IoT platform](#iot-platform)
 - [**4. External Systems**](#4-external-systems) (5 videos)
-  - Overview of external systems
-  - Analytics and AI
-  - Data services
-  - Business systems
-  - Other IoT products
+  - [Overview of external systems](#overview-of-external-systems)
+  - [Analytics and AI](#analytics-and-ai)
+  - [Data services](#data-services)
+  - [Business systems](#business-systems)
+  - [Other IoT products](#other-iot-products)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Main takeaways
-  - What was not included
+  - [Main takeaways](#main-takeaways)
+  - [What was not included](#what-was-not-included)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From physical to digital: Your first step into the Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), [[IoT]] (2), ai (2), product (1), data (1)
 > **Speakers:** - [bruce] (1)
 
 #### What you should know
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Programming]] (1), data (1), [[Analytics]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -189,8 +189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (10), [[Microsoft Products|Products]] (7), business (6), product (6), [[Internet of Things (IoT)|Internet of things]] (5)
 > **Env Vars:** b2c (2), b2b (2)
-> **Code Keywords:** let (1), interface (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 ### 1. The Software-Defined Product
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The digital twin
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980)
@@ -237,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), case, (1), let (1)
+> **Frameworks & Libraries:** product (14), [[IoT]] (5), ai (3), application (3), data (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -305,7 +305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), this. (1)
+> **Frameworks & Libraries:** [[IoT]] (5), product (5), ai (4), application (4), game (4)
 > **Env Vars:** cad (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -340,6 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), game (6), product (5), data (5), [[IoT]] (4)
 > **Speakers:** - [instructor] (1)
 
 #### IoT value modeling
@@ -421,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), case, (1), function (1)
+> **Frameworks & Libraries:** [[IoT]] (10), product (5), [[Microsoft Products|Products]] (4), next (2), [[Analytics]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -433,7 +434,7 @@ created: 2026-04-29
 
 ### 2. The Hardware-Defined Product
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hardware overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980)
@@ -462,6 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), data (5), [[Hardware]] (4), [[IoT]] (2), application (2)
 > **Env Vars:** iot (2)
 > **Speakers:** - [instructor] (1)
 
@@ -510,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), new, (1)
+> **Frameworks & Libraries:** data (5), [[IoT]] (3), application (2), product (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -542,6 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[IoT]] (2), data (2), [[Security]] (2), [[Real-Time]] (1)
 > **Env Vars:** cpu (1), mpu (1), rtos (1)
 > **Definitions:** is a  (2), known as (1)
 > **Warnings:** note that (1)
@@ -576,6 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (4), [[Microsoft Products|Products]] (3), power (1), product (1), business (1)
 > **Env Vars:** mpu (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -583,7 +587,7 @@ created: 2026-04-29
 
 ### 3. The Network Fabric
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview and standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980)
@@ -650,7 +654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** product (7), data (6), application (5), [[IoT]] (4), cloud (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -741,9 +745,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), product (4), [[Hardware]] (3), [[Automation]] (2), [[Internet of Things (IoT)|Internet of things]] (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** lpwa (1)
 > **Speakers:** - [instructor] (1)
 
@@ -776,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** cloud (5), [[IoT]] (5), product (4), business (3), data (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -835,15 +839,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (10), application (3), product (2), cloud (1), [[Forms]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **Env Vars:** aep (2), m2m (1), sim (1)
-> **Code Keywords:** module (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. External Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of external systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980)
@@ -876,7 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), interface (1)
+> **Frameworks & Libraries:** data (9), product (8), [[IoT]] (6), api (1), [[Analytics]] (1)
 > **Env Vars:** api (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
@@ -980,8 +984,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), [[Analytics]] (17), [[IoT]] (10), data (9), product (3)
 > **CLI Commands:** make (6)
-> **Code Keywords:** match, (2), static (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1019,8 +1023,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[IoT]] (3), [[Microservices]] (2), product (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ibm (4), api (1)
-> **Code Keywords:** interface (2)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1058,8 +1062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), business (4), [[IoT]] (2), data (2), management (2)
 > **Analogies:** for example (4)
-> **Code Keywords:** if, (2), interface (1)
 > **Env Vars:** crm (1), plm (1), erp (1)
 > **Speakers:** - the (1)
 
@@ -1090,13 +1094,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (4), [[IoT]] (2), data (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Main takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980)
@@ -1121,6 +1126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (4), product (2), data (2)
 > **Speakers:** - [instructor] (1)
 
 #### What was not included
@@ -1146,6 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (6), product (3), [[Security]] (1), [[Analytics]] (1), [[Big Data]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 

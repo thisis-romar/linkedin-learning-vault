@@ -23,7 +23,7 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Microsoft%20Copilot%20The%20Art%20Of%20Prompt%20Writing.md)
@@ -42,23 +42,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Write more effective prompts in Copilot
-  - Understand the Copilot subscriptions
+  - [Write more effective prompts in Copilot](#write-more-effective-prompts-in-copilot)
+  - [Understand the Copilot subscriptions](#understand-the-copilot-subscriptions)
 - [**1. What Makes a Good Prompt?**](#1-what-makes-a-good-prompt) (2 videos)
-  - Understand the ingredients of a good prompt
-  - Prompting dos and don'ts
+  - [Understand the ingredients of a good prompt](#understand-the-ingredients-of-a-good-prompt)
+  - [Prompting dos and don'ts](#prompting-dos-and-donts)
 - [**2. Prompt Examples**](#2-prompt-examples) (5 videos)
-  - Teams
-  - Word
-  - Powerpoint
-  - Excel
-  - Outlook
+  - [Teams](#teams)
+  - [Word](#word)
+  - [Powerpoint](#powerpoint)
+  - [Excel](#excel)
+  - [Outlook](#outlook)
 - [**3. Build Your AI Skills with Copilot Prompt Gallery**](#3-build-your-ai-skills-with-copilot-prompt-gallery) (1 videos)
-  - Explore Copilot Prompt Gallery
+  - [Explore Copilot Prompt Gallery](#explore-copilot-prompt-gallery)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Write more effective prompts in Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980)
@@ -75,7 +75,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), prompt (2), ai (1), [[LinkedIn]] (1)
 > **Speakers:** - in (1)
 
 #### Understand the Copilot subscriptions
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (27), [[Microsoft 365]] (7), [[Microsoft]] (5), web (4), business (3)
 > **Definitions:** is called (1), is a  (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** m365 (1)
@@ -130,7 +131,7 @@ created: 2026-04-29
 
 ### 1. What Makes a Good Prompt?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the ingredients of a good prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980)
@@ -225,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), finally, (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), prompt (10), ai (3), next (3), [[Microsoft Teams]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
@@ -371,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), for. (1), interface (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (25), prompt (11), next (5), [[Microsoft Word|Word]] (4), power (3)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (3), for example (2)
 > **Cross-References:** we discussed (2), in the next (1)
@@ -383,7 +384,7 @@ created: 2026-04-29
 
 ### 2. Prompt Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980)
@@ -452,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2), for. (1), case, (1)
+> **Frameworks & Libraries:** prompt (6), teams (5), [[Microsoft Copilot|Copilot]] (5), [[Microsoft Teams]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -533,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), case, (2), continue (2), delete (1)
+> **Frameworks & Libraries:** prompt (20), [[Microsoft Copilot|Copilot]] (19), [[Microsoft Word|Word]] (3), next (2), generic (1)
 > **Analogies:** imagine (2), for example (2)
 > **Cross-References:** we discussed (1), we mentioned (1)
 > **Definitions:** is a  (2)
@@ -655,7 +656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), self (3), continue (2), from. (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (20), prompt (11), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365|M365]] (1), product (1)
 > **Exercise Files:** template (6)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), this, (1), type. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), data (7), [[Microsoft Excel|Excel]] (5), [[Microsoft 365|M365]] (2), prompt (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** m365 (2)
@@ -859,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), self (5), include. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), prompt (8), [[Jetpack Compose|Compose]] (5), [[Microsoft Outlook|Outlook]] (2), [[SharePoint]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (1)
@@ -869,7 +870,7 @@ created: 2026-04-29
 
 ### 3. Build Your AI Skills with Copilot Prompt Gallery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Copilot Prompt Gallery
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980)
@@ -950,8 +951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (24), [[Microsoft Copilot|Copilot]] (20), [[Microsoft Word|Word]] (4), [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (3)
 > **CLI Commands:** find (10), make (1)
-> **Code Keywords:** let (3), for, (1), try. (1), for. (1), try, (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (1), we talked about (1)

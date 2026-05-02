@@ -28,7 +28,7 @@ tags:
   - skill/product-management
   - skill/product-road-mapping
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Product%20Management-%20Building%20a%20Product%20Roadmap.md)
@@ -47,32 +47,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started in building your product roadmap
+  - [Getting started in building your product roadmap](#getting-started-in-building-your-product-roadmap)
 - [**1. Product Roadmap Foundations**](#1-product-roadmap-foundations) (4 videos)
-  - Product roadmap definition and purpose
-  - Product roadmap template
-  - Roadmaps in agile organizations
-  - Roadmaps for early-stage products
+  - [Product roadmap definition and purpose](#product-roadmap-definition-and-purpose)
+  - [Product roadmap template](#product-roadmap-template)
+  - [Roadmaps in agile organizations](#roadmaps-in-agile-organizations)
+  - [Roadmaps for early-stage products](#roadmaps-for-early-stage-products)
 - [**2. Laying the Groundwork for Your Product Roadmap**](#2-laying-the-groundwork-for-your-product-roadmap) (5 videos)
-  - The importance of process when developing a product roadmap
-  - Why product roadmaps fail
-  - Select your stakeholders in developing your roadmap
-  - Customer research to inform your product roadmap
-  - Start with product strategy when building your roadmap
+  - [The importance of process when developing a product roadmap](#the-importance-of-process-when-developing-a-product-roadmap)
+  - [Why product roadmaps fail](#why-product-roadmaps-fail)
+  - [Select your stakeholders in developing your roadmap](#select-your-stakeholders-in-developing-your-roadmap)
+  - [Customer research to inform your product roadmap](#customer-research-to-inform-your-product-roadmap)
+  - [Start with product strategy when building your roadmap](#start-with-product-strategy-when-building-your-roadmap)
 - [**3. Product Roadmap: Decision-Making and Alignment**](#3-product-roadmap-decision-making-and-alignment) (4 videos)
-  - Identify key milestones for high-impact product roadmaps
-  - Estimate levels of effort in your product roadmap
-  - The first draft of your product roadmap
-  - The product roadmap meeting: Getting input and alignment
+  - [Identify key milestones for high-impact product roadmaps](#identify-key-milestones-for-high-impact-product-roadmaps)
+  - [Estimate levels of effort in your product roadmap](#estimate-levels-of-effort-in-your-product-roadmap)
+  - [The first draft of your product roadmap](#the-first-draft-of-your-product-roadmap)
+  - [The product roadmap meeting: Getting input and alignment](#the-product-roadmap-meeting-getting-input-and-alignment)
 - [**4. Common Challenges in a Product Roadmap**](#4-common-challenges-in-a-product-roadmap) (2 videos)
-  - Evangelize the product roadmap
-  - Maintain the product roadmap
+  - [Evangelize the product roadmap](#evangelize-the-product-roadmap)
+  - [Maintain the product roadmap](#maintain-the-product-roadmap)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Three steps for building your product roadmap
+  - [Three steps for building your product roadmap](#three-steps-for-building-your-product-roadmap)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started in building your product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980)
@@ -99,13 +99,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), business (1)
 > **Speakers:** - if (2), - hi (1), - and (1), - [ted] (1), - [eldad] (1)
-> **Code Keywords:** let (2)
 
 
 ### 1. Product Roadmap Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Product roadmap definition and purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980)
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), require (1), function (1)
+> **Frameworks & Libraries:** product (15), [[Product Development]] (6), business (4), [[Agile Development|Agile]] (1), [[Customer Support]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
@@ -228,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), implements (1)
+> **Frameworks & Libraries:** product (15), [[Microsoft Products|Products]] (3), [[Decision-Making]] (1), feature (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -283,8 +283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (18), [[Product Development]] (4), [[Agile Development|Agile]] (1), next (1), [[Engineering]] (1)
 > **Analogies:** such as (2), just like (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
@@ -326,14 +326,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** product (20), business (1), [[Product Development]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - there (1)
 
 
 ### 2. Laying the Groundwork for Your Product Roadmap
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of process when developing a product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980)
@@ -390,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), for, (1)
+> **Frameworks & Libraries:** product (8), hit (2), [[Product Development]] (2), [[Engineering]] (1), business (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
@@ -456,7 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1)
+> **Frameworks & Libraries:** product (8), [[Representational State Transfer (REST)|Rest]] (2), business (1), next (1), [[Decision-Making]] (1)
 > **Env Vars:** ceo (1), cto (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -517,7 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), include, (1)
+> **Frameworks & Libraries:** business (7), [[Product Development]] (4), product (4), hit (2), [[Engineering]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (2)
 > **Prerequisites:** you'll need (2)
@@ -603,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), continue (1)
+> **Frameworks & Libraries:** product (13), business (2), [[Product Development]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - people (1)
@@ -675,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (18), business (8), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Best Practices:** make sure to (1), it's best to (1)
 > **Prerequisites:** you'll need (1)
@@ -685,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Product Roadmap: Decision-Making and Alignment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify key milestones for high-impact product roadmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980)
@@ -748,9 +748,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (19), next (1), [[Microsoft Products|Products]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - this (1)
 
@@ -805,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this. (1), this, (1), try. (1), if, (1)
+> **Frameworks & Libraries:** [[Product Development]] (5), product (4), [[Engineering]] (2), next (1), business (1)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -876,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), this. (2), finally, (1), for. (1), implements (1)
+> **Frameworks & Libraries:** product (4), next (4), teams (4), [[Product Development]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - finally (1)
@@ -956,8 +956,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), business (4), next (2), [[Product Development]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (2)
 > **Analogies:** such as (1), for instance (1)
 > **Best Practices:** it's best to (2)
 > **Env Vars:** ceo (1)
@@ -967,7 +967,7 @@ created: 2026-04-29
 
 ### 4. Common Challenges in a Product Roadmap
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evangelize the product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980)
@@ -1030,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), raise (1), public (1)
+> **Frameworks & Libraries:** product (9), business (2), next (1), [[Technical Support]] (1), teams (1)
 > **Best Practices:** it's best to (1), best practice (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -1096,7 +1096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), case, (1)
+> **Frameworks & Libraries:** product (5), [[Product Development]] (1), business (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1105,7 +1105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three steps for building your product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980)
@@ -1150,8 +1150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), next (2), [[Product Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - congratulations (1), - first (1), - next (1), - finally (1), - in (1)
-> **Code Keywords:** implements (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 

@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Foundations%20of%20the%20Fourth%20Industrial%20Revolution%20(Industry%204.0).md)
@@ -41,42 +41,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How the fourth Industrial Revolution is changing the world
+  - [How the fourth Industrial Revolution is changing the world](#how-the-fourth-industrial-revolution-is-changing-the-world)
 - [**1. History of the Industrial Revolutions**](#1-history-of-the-industrial-revolutions) (4 videos)
-  - What is meant by Industrial Revolutions?
-  - The first and second Industrial Revolutions
-  - The third Industrial Revolution
-  - The fourth Industrial Revolution
+  - [What is meant by Industrial Revolutions?](#what-is-meant-by-industrial-revolutions)
+  - [The first and second Industrial Revolutions](#the-first-and-second-industrial-revolutions)
+  - [The third Industrial Revolution](#the-third-industrial-revolution)
+  - [The fourth Industrial Revolution](#the-fourth-industrial-revolution)
 - [**2. The Elements of Change**](#2-the-elements-of-change) (5 videos)
-  - The significance of velocity, scope, impact, and convergence
-  - Everyone is getting connected
-  - Exploring rapid digital transformation
-  - Rapid advances in different sciences
-  - Economic and demographic shifts
+  - [The significance of velocity, scope, impact, and convergence](#the-significance-of-velocity-scope-impact-and-convergence)
+  - [Everyone is getting connected](#everyone-is-getting-connected)
+  - [Exploring rapid digital transformation](#exploring-rapid-digital-transformation)
+  - [Rapid advances in different sciences](#rapid-advances-in-different-sciences)
+  - [Economic and demographic shifts](#economic-and-demographic-shifts)
 - [**3. The Core Technologies**](#3-the-core-technologies) (8 videos)
-  - The big picture of technology trends
-  - Artificial intelligence
-  - Internet-of-Things
-  - Blockchain, cryptos, tokens, and NFTs
-  - Autonomous vehicles
-  - Web3
-  - Here comes the metaverse
-  - Digital twins
+  - [The big picture of technology trends](#the-big-picture-of-technology-trends)
+  - [Artificial intelligence](#artificial-intelligence)
+  - [Internet-of-Things](#internet-of-things)
+  - [Blockchain, cryptos, tokens, and NFTs](#blockchain-cryptos-tokens-and-nfts)
+  - [Autonomous vehicles](#autonomous-vehicles)
+  - [Web3](#web3)
+  - [Here comes the metaverse](#here-comes-the-metaverse)
+  - [Digital twins](#digital-twins)
 - [**4. The Impact of this Revolution**](#4-the-impact-of-this-revolution) (4 videos)
-  - The emergence of smarter cities
-  - The future of work
-  - Vanishing industries and new industries
-  - Ethical consequences and considerations
+  - [The emergence of smarter cities](#the-emergence-of-smarter-cities)
+  - [The future of work](#the-future-of-work)
+  - [Vanishing industries and new industries](#vanishing-industries-and-new-industries)
+  - [Ethical consequences and considerations](#ethical-consequences-and-considerations)
 - [**5. Preparing and Responding to Change**](#5-preparing-and-responding-to-change) (3 videos)
-  - Taking action: Organizations
-  - Taking action: Individuals
-  - Revolution, climate change, and the big picture
+  - [Taking action: Organizations](#taking-action-organizations)
+  - [Taking action: Individuals](#taking-action-individuals)
+  - [Revolution, climate change, and the big picture](#revolution-climate-change-and-the-big-picture)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Final thoughts, next steps, and additional resources on the fourth Industrial Revolution
+  - [Final thoughts, next steps, and additional resources on the fourth Industrial Revolution](#final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How the fourth Industrial Revolution is changing the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/how-the-fourth-industrial-revolution-is-changing-the-world?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 ### 1. History of the Industrial Revolutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is meant by Industrial Revolutions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980)
@@ -175,6 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), [[Climate Change]] (1), next (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -262,6 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Automation]] (1), [[Banking]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Versions:** 1.0 (1), 2.0 (1)
 > **Speakers:** - just (1)
@@ -321,8 +323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), semiconductor (1), data (1), next (1)
 > **Versions:** 3.0 (1), 2.0 (1), 4.0 (1)
-> **Code Keywords:** new, (1), static (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -387,6 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), cloud (1), [[Digital Transformation]] (1), next (1)
 > **Versions:** 4.0 (4)
 > **Analogies:** for example (3), such as (1)
 > **Speakers:** - in (1)
@@ -394,7 +397,7 @@ created: 2026-04-29
 
 ### 2. The Elements of Change
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The significance of velocity, scope, impact, and convergence
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980)
@@ -493,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), self (1), finally, (1)
+> **Frameworks & Libraries:** product (3), cloud (2), game (1), [[Microsoft Word|Word]] (1), next (1)
 > **Analogies:** such as (4), think of it like (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -597,9 +600,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[IoT]] (3), [[Hardware]] (2), [[Internet of Things (IoT)|Internet of things]] (2), [[Telecommunications]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** tcp (2), arpanet (1), ftp (1)
-> **Code Keywords:** continue (2)
 > **Definitions:** is called (1)
 > **Speakers:** - it (1)
 
@@ -716,7 +719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), static (2), let (1), while, (1)
+> **Frameworks & Libraries:** web (2), [[Hardware]] (2), [[Microsoft Products|Products]] (2), business (1), product (1)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -812,7 +815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), new, (1), self (1), private (1), finally, (1)
+> **Frameworks & Libraries:** power (2), [[Banking]] (1), [[Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** crispr (1), nasa (1)
@@ -914,7 +917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Climate Change]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdp (1)
@@ -924,7 +927,7 @@ created: 2026-04-29
 
 ### 3. The Core Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The big picture of technology trends
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980)
@@ -999,7 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (3), traffic (1), [[Software Development]] (1), product (1), [[Hardware]] (1)
 > **Env Vars:** gps (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (1), picture (1)
@@ -1103,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this. (1), continue (1), let (1), this: (1)
+> **Frameworks & Libraries:** ai (23), data (2), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Search]] (1)
 > **Analogies:** such as (2), think of it like (1), for example (1), picture (1), imagine (1)
 > **Env Vars:** ibm (2), hal (1)
 > **Definitions:** is a  (3)
@@ -1209,8 +1212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (10), data (4), [[Internet of Things (IoT)|Internet of things]] (3), web (2), next (2)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)
@@ -1321,7 +1324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), delete (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (16), [[Databases]] (4), [[Tokens]] (4), database (3), data (2)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
@@ -1430,8 +1433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), traffic (2), application (1), [[Computer Vision]] (1), next (1)
 > **Definitions:** is called (5), means that (1), is a  (1)
-> **Code Keywords:** private (1), let (1), finally, (1), self (1)
 > **Env Vars:** lidar (2), darpa (1), ssae (1)
 > **Analogies:** such as (2), imagine (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -1505,8 +1508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), power (4), [[Blockchain]] (4), data (3), [[Decentralization]] (2)
 > **Versions:** 1.0 (2), 2.0 (1)
-> **Code Keywords:** static (1), pass (1)
 > **Env Vars:** nft (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
@@ -1593,9 +1596,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), [[Blockchain]] (2), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** imagine (2), for example (1)
-> **Code Keywords:** case, (1), interface (1)
 > **Cross-References:** later in (1), previous video (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -1691,17 +1694,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), data (3), [[Simulation]] (2), [[Real-Time]] (2), [[Microsoft Products|Products]] (2)
 > **Analogies:** for example (3), imagine (2), such as (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Env Vars:** cad (1), plm (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - the (1)
 
 
 ### 4. The Impact of this Revolution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The emergence of smarter cities
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980)
@@ -1794,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), public (1)
+> **Frameworks & Libraries:** next (3), product (1), hit (1), [[Sustainability]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - today (1)
@@ -1906,7 +1909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), continue (1), self (1)
+> **Frameworks & Libraries:** ai (6), [[Automation]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Software Development]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (4), for example (1), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -2012,7 +2015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), continue (2), let (1), static (1), finally, (1)
+> **Frameworks & Libraries:** ai (2), [[Windows]] (1), [[Microsoft Products|Products]] (1), product (1), business (1)
 > **Analogies:** for example (2), such as (2), for instance (1), picture (1)
 > **Definitions:** is a  (1), means that (1)
 > **Tools:** notion (1)
@@ -2139,7 +2142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), data (6), ai (6), [[Ethics]] (5), leadership (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -2150,7 +2153,7 @@ created: 2026-04-29
 
 ### 5. Preparing and Responding to Change
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking action: Organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980)
@@ -2287,7 +2290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), this, (2), continue (1), require (1)
+> **Frameworks & Libraries:** next (2), [[Swift (Programming Language)|Swift]] (1), [[Probability]] (1), [[Forms]] (1), leadership (1)
 > **Env Vars:** swot (3), ftse (1)
 > **Definitions:** in other words (1), means that (1)
 > **Speakers:** - in (1)
@@ -2363,9 +2366,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), career (2), management (1), [[Cybersecurity]] (1), [[Engineering]] (1)
 > **Analogies:** for example (3), such as (2), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** ubi (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - so (1)
@@ -2451,15 +2454,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), next (1), power (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), leadership (1)
 > **Analogies:** for example (2), such as (2), picture (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - a (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts, next steps, and additional resources on the fourth Industrial Revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980)
@@ -2500,6 +2503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Blockchain]] (2), data (2), career (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)

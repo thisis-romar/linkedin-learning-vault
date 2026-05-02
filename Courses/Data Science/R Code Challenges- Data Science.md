@@ -34,7 +34,7 @@ tags:
   - skill/r-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20Code%20Challenges-%20Data%20Science.md)
@@ -53,27 +53,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Practice with R programming
-  - CoderPad
+  - [Practice with R programming](#practice-with-r-programming)
+  - [CoderPad](#coderpad)
 - [**1. Data Science Basics with R**](#1-data-science-basics-with-r) (4 videos)
-  - Solution: Subsetting
-  - Solution: Join three datasets
-  - Solution: Palindrome
-  - Solution: Password validator
+  - [Solution: Subsetting](#solution-subsetting)
+  - [Solution: Join three datasets](#solution-join-three-datasets)
+  - [Solution: Palindrome](#solution-palindrome)
+  - [Solution: Password validator](#solution-password-validator)
 - [**2. Data Science Concepts with R**](#2-data-science-concepts-with-r) (3 videos)
-  - Solution: Fizz buzz
-  - Solution: Create a random door code
-  - Solution: Comparing stock price and interest rates
+  - [Solution: Fizz buzz](#solution-fizz-buzz)
+  - [Solution: Create a random door code](#solution-create-a-random-door-code)
+  - [Solution: Comparing stock price and interest rates](#solution-comparing-stock-price-and-interest-rates)
 - [**3. Think Like an R Programmer**](#3-think-like-an-r-programmer) (3 videos)
-  - Solution: Play rock, paper, scissors, lizard, spock
-  - Solution: Dealing with unexpected data
-  - Solution: Find the middle city
+  - [Solution: Play rock, paper, scissors, lizard, spock](#solution-play-rock-paper-scissors-lizard-spock)
+  - [Solution: Dealing with unexpected data](#solution-dealing-with-unexpected-data)
+  - [Solution: Find the middle city](#solution-find-the-middle-city)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice with R programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980)
@@ -92,8 +92,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [mark] (1)
 
 #### CoderPad
@@ -145,8 +145,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** showpackages (3), showhints (2), showexpectedresult (1), expectedresults (1)
-> **Code Keywords:** pass (1), function (1), case, (1), case. (1)
 > **Cross-References:** next video (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
@@ -155,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Data Science Basics with R
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Subsetting
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980)
@@ -262,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (2), [[Big Data]] (1), next (1), [[Databases]] (1)
 > **Code Identifiers:** worldpop (5), worldpoptime (1), worldpopdensity (1), worldpopvariant (1)
-> **Code Keywords:** let (4), function (3)
 > **Analogies:** kind of like (1), such as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** csv (1)
@@ -290,8 +290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Databases]] (2), [[SQL]] (1)
 > **Code Identifiers:** acmedata (7), housecolor (6), surveyid (5), firstname (5), allthedata (3)
-> **Code Keywords:** let (6), function (3), this, (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sql (1), join (1)
 > **Definitions:** is a  (1), means that (1)
@@ -390,8 +390,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** forward_pal (5), testthisword (4), reverse_pal (4)
-> **Code Keywords:** function (3), let (2), return, (1)
 > **Env Vars:** true (3), false (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (1)
@@ -468,7 +468,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (4), function (1), return, (1), this, (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **CLI Commands:** grep (1)
 > **Cross-References:** go back to (1)
@@ -479,7 +478,7 @@ created: 2026-04-29
 
 ### 2. Data Science Concepts with R
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Fizz buzz
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980)
@@ -590,8 +589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), hit (2), next (1), [[Microsoft Word|Word]] (1), data (1)
 > **Code Identifiers:** fizzbuzz (7), fizzbuzzvector (5), whichfizz (3)
-> **Code Keywords:** let (4), function (4), case, (2), while, (1), type, (1)
 > **Analogies:** kind of like (1), such as (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -705,7 +704,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** candidatecode (8), uniquedoorcode (1), candidatecodes (1)
-> **Code Keywords:** let (5), function (1), continue (1), case, (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Versions:** v4.0 (1), 4.0 (1)
@@ -784,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), case, (1)
+> **Frameworks & Libraries:** data (7), [[SQL]] (2), hit (1)
 > **Env Vars:** aapl (3), sql (2), cor (1)
 > **Definitions:** is a  (3), is an  (1), defined as (1)
 > **Prerequisites:** you'll need (2), setup (1)
@@ -796,7 +794,7 @@ created: 2026-04-29
 
 ### 3. Think Like an R Programmer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Play rock, paper, scissors, lizard, spock
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-play-rock-paper-scissors-lizard-spock?u=76281980)
@@ -903,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), case, (2), pass (1), case. (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** find (3)
 > **Prerequisites:** set up (3)
 > **Definitions:** is an  (1), means that (1)
@@ -1017,8 +1015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **Code Identifiers:** mysterymeat (9), mysterysum (6), cumulativestrings (5), valindx (4)
-> **Code Keywords:** let (6), function (2), switch (2), case, (2), from. (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -1141,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this. (1), from. (1), this, (1)
+> **Frameworks & Libraries:** data (3), hit (1), [[SQL]] (1)
 > **Env Vars:** cdp (5), dist (1), sql (1)
 > **CLI Commands:** find (5)
 > **UI Navigation:** go to (1), click on (1)
@@ -1152,7 +1150,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980)
@@ -1177,6 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), data (2), [[Statistics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [mark] (1)
 

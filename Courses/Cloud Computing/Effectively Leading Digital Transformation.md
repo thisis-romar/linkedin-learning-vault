@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Effectively%20Leading%20Digital%20Transformation.md)
@@ -41,46 +41,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Being a leader in business transformation
-  - Who is this course for?
+  - [Being a leader in business transformation](#being-a-leader-in-business-transformation)
+  - [Who is this course for?](#who-is-this-course-for)
 - [**1. Background for Business Transformation**](#1-background-for-business-transformation) (6 videos)
-  - Living in an age of disruption
-  - Defining modern digital and business transformation
-  - Technology as a commodity
-  - Working online
-  - Expanding data through the Internet of Things
-  - Evolution of automation and AI
+  - [Living in an age of disruption](#living-in-an-age-of-disruption)
+  - [Defining modern digital and business transformation](#defining-modern-digital-and-business-transformation)
+  - [Technology as a commodity](#technology-as-a-commodity)
+  - [Working online](#working-online)
+  - [Expanding data through the Internet of Things](#expanding-data-through-the-internet-of-things)
+  - [Evolution of automation and AI](#evolution-of-automation-and-ai)
 - [**2. Blockers to Successful Transformation**](#2-blockers-to-successful-transformation) (4 videos)
-  - Not understanding the problem
-  - Not understanding the need
-  - Not understanding the scope
-  - Not understanding the appetite
+  - [Not understanding the problem](#not-understanding-the-problem)
+  - [Not understanding the need](#not-understanding-the-need)
+  - [Not understanding the scope](#not-understanding-the-scope)
+  - [Not understanding the appetite](#not-understanding-the-appetite)
 - [**3. Preparing for Your Transformation**](#3-preparing-for-your-transformation) (6 videos)
-  - Identifying what's broken
-  - Mitigating the risk of information accumulation
-  - Streamlining and automating processes
-  - Engaging employees and growing skills
-  - Leveraging customer networks
-  - Innovating through experimentation
+  - [Identifying what's broken](#identifying-whats-broken)
+  - [Mitigating the risk of information accumulation](#mitigating-the-risk-of-information-accumulation)
+  - [Streamlining and automating processes](#streamlining-and-automating-processes)
+  - [Engaging employees and growing skills](#engaging-employees-and-growing-skills)
+  - [Leveraging customer networks](#leveraging-customer-networks)
+  - [Innovating through experimentation](#innovating-through-experimentation)
 - [**4. AI in the Workplace**](#4-ai-in-the-workplace) (6 videos)
-  - Defining AI
-  - Using AI to analyze and project
-  - Using AI to develop solutions
-  - Protecting security with AI
-  - Possible AI problems for business
-  - Developing ethical AI policies
+  - [Defining AI](#defining-ai)
+  - [Using AI to analyze and project](#using-ai-to-analyze-and-project)
+  - [Using AI to develop solutions](#using-ai-to-develop-solutions)
+  - [Protecting security with AI](#protecting-security-with-ai)
+  - [Possible AI problems for business](#possible-ai-problems-for-business)
+  - [Developing ethical AI policies](#developing-ethical-ai-policies)
 - [**5. Beyond the Launch**](#5-beyond-the-launch) (5 videos)
-  - Explaining in plain language
-  - Working through resistance
-  - Modeling behaviors
-  - Keeping communication channels open
-  - Developing a learning culture
+  - [Explaining in plain language](#explaining-in-plain-language)
+  - [Working through resistance](#working-through-resistance)
+  - [Modeling behaviors](#modeling-behaviors)
+  - [Keeping communication channels open](#keeping-communication-channels-open)
+  - [Developing a learning culture](#developing-a-learning-culture)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a leader in business transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/being-a-leader-in-business-transformation?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Digital Transformation]] (1)
 > **Speakers:** - [phil] (1)
 
 #### Who is this course for?
@@ -144,14 +145,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1)
+> **Frameworks & Libraries:** business (7), [[Digital Transformation]] (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Background for Business Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Living in an age of disruption
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/living-in-an-age-of-disruption?u=76281980)
@@ -210,7 +211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (2)
 > **Env Vars:** vcr (1), dvd (1)
 > **Speakers:** - [host] (1)
 
@@ -261,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), while. (1), static (1)
+> **Frameworks & Libraries:** business (5), [[Digital Transformation]] (3), data (3), [[Microsoft Excel|Excel]] (2), application (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sap (1)
 > **Speakers:** - [instructor] (1)
@@ -335,6 +336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Security]] (2), [[Digital Transformation]] (1), application (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** later in (1)
@@ -387,9 +389,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), cloud (4), [[Hardware]] (2), [[PaaS]] (2), aws (2)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
-> **Code Keywords:** for, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -453,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (7), [[Internet of Things (IoT)|Internet of things]] (2), power (2), cloud (1), [[Google]] (1)
 > **Env Vars:** dhl (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
@@ -507,8 +509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (3), [[SharePoint]] (3), [[Microsoft]] (3), power (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** new. (1), require (1)
 > **Env Vars:** erp (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
@@ -516,7 +518,7 @@ created: 2026-04-29
 
 ### 2. Blockers to Successful Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Not understanding the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/not-understanding-the-problem?u=76281980)
@@ -555,6 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), business (2)
 > **Prerequisites:** you need to have (2)
 > **Cross-References:** coming up (1)
 > **Analogies:** it's like (1)
@@ -609,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), else, (1)
+> **Frameworks & Libraries:** business (2), [[Requirements Gathering]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -692,8 +695,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (3), [[Digital Transformation]] (1), career (1), parallel (1), concurrent (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), continue (1)
 > **Prerequisites:** you'll need (1), make sure you have (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -756,14 +759,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Digital Transformation]] (2), business (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - here (1)
 
 
 ### 3. Preparing for Your Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying what's broken
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/identifying-what-s-broken?u=76281980)
@@ -808,6 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Digital Transformation]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [host] (1)
 
@@ -868,8 +872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Data Classification]] (2), [[Security]] (2), [[Banking]] (1), business (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this. (1), this, (1), for. (1)
 > **Prerequisites:** you'll need (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
@@ -931,9 +935,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), [[Microsoft]] (4), [[Automation]] (2), cloud (1), [[SharePoint]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -986,8 +990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Agile Development|Agile]] (3), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), for, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1042,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), data (1), [[Microsoft Products|Products]] (1), [[Slack]] (1)
 > **Tools:** slack (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1102,14 +1106,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** try. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. AI in the Workplace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/defining-ai?u=76281980)
@@ -1158,8 +1162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), next (4), business (3), data (2), [[Generative AI]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), continue (1), this, (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1224,6 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (4), [[Algorithms]] (2), business (1), feature (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ibm (1), covid (1)
 > **Definitions:** known as (1)
@@ -1266,7 +1271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), protected (1)
+> **Frameworks & Libraries:** ai (8), power (3), [[Debugging Code]] (1), [[Security]] (1), [[Copyright Law]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** gpt (1)
 > **Tools:** github (1)
@@ -1327,7 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), this. (1), let (1), case, (1)
+> **Frameworks & Libraries:** ai (14), [[Security]] (9), data (5), [[Algorithms]] (2), [[Phishing]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **Env Vars:** ids (1)
 > **Warnings:** keep in mind (1)
@@ -1390,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), for. (1), require (1)
+> **Frameworks & Libraries:** ai (17), data (3), [[Security]] (2), [[Midjourney]] (2), [[Generative AI]] (1)
 > **Env Vars:** dall (1), gpt (1)
 > **Warnings:** be aware (1), pitfall (1)
 > **CLI Commands:** make (1)
@@ -1438,16 +1443,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Generative AI]] (1), data (1), [[Forms]] (1), [[Algorithms]] (1)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Beyond the Launch
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining in plain language
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/explaining-in-plain-language?u=76281980)
@@ -1488,6 +1493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
@@ -1537,7 +1543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), self (1)
+> **Frameworks & Libraries:** express (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1588,6 +1594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (5), teams (2), management (1), product (1)
 > **Env Vars:** cio (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1645,7 +1652,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), continue (1)
 > **Speakers:** - [narrator] (1)
 
 #### Developing a learning culture
@@ -1709,18 +1715,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), management (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** lms (3)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), let (1)
 > **Code Identifiers:** edx (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/next-steps?u=76281980)
@@ -1751,6 +1757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), ai (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)

@@ -22,7 +22,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20Agentic%20AI-%20Building%20AI%20Agents%20with%20LlamaIndex.md)
@@ -41,49 +41,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to the course
-  - Setting up codespaces
+  - [Introduction to the course](#introduction-to-the-course)
+  - [Setting up codespaces](#setting-up-codespaces)
 - [**1. Agentic Concepts in LlamaIndex**](#1-agentic-concepts-in-llamaindex) (5 videos)
-  - Agentic AI: A review
-  - AI agents in LlamaIndex
-  - Tools and toolspecs in LlamaIndex
-  - Set up LLM and tools for a LlamaIndex agent
-  - Create and execute a LlamaIndex agent
+  - [Agentic AI: A review](#agentic-ai-a-review)
+  - [AI agents in LlamaIndex](#ai-agents-in-llamaindex)
+  - [Tools and toolspecs in LlamaIndex](#tools-and-toolspecs-in-llamaindex)
+  - [Set up LLM and tools for a LlamaIndex agent](#set-up-llm-and-tools-for-a-llamaindex-agent)
+  - [Create and execute a LlamaIndex agent](#create-and-execute-a-llamaindex-agent)
 - [**2. Build a Healthcare Assistant Agent**](#2-build-a-healthcare-assistant-agent) (5 videos)
-  - What is ReAct?
-  - Healthcare ReAct assistant: Design
-  - Set up Wikipedia tools for healthcare assistant
-  - Set up RAG for medications
-  - Set up and execute the healthcare agent
+  - [What is ReAct?](#what-is-react)
+  - [Healthcare ReAct assistant: Design](#healthcare-react-assistant-design)
+  - [Set up Wikipedia tools for healthcare assistant](#set-up-wikipedia-tools-for-healthcare-assistant)
+  - [Set up RAG for medications](#set-up-rag-for-medications)
+  - [Set up and execute the healthcare agent](#set-up-and-execute-the-healthcare-agent)
 - [**3. Build a Summarization Agent**](#3-build-a-summarization-agent) (3 videos)
-  - Summarization agent design
-  - Create the introspection agent
-  - Execute the introspection agent
+  - [Summarization agent design](#summarization-agent-design)
+  - [Create the introspection agent](#create-the-introspection-agent)
+  - [Execute the introspection agent](#execute-the-introspection-agent)
 - [**4. Workflow Concepts in LlamaIndex**](#4-workflow-concepts-in-llamaindex) (5 videos)
-  - Intro to LlamaIndex workflows
-  - LlamaIndex workflow components
-  - Managing data in LlamaIndex workflows
-  - A simple LlamaIndex workflow: Design
-  - Build and execute a simple LlamaIndex workflow
+  - [Intro to LlamaIndex workflows](#intro-to-llamaindex-workflows)
+  - [LlamaIndex workflow components](#llamaindex-workflow-components)
+  - [Managing data in LlamaIndex workflows](#managing-data-in-llamaindex-workflows)
+  - [A simple LlamaIndex workflow: Design](#a-simple-llamaindex-workflow-design)
+  - [Build and execute a simple LlamaIndex workflow](#build-and-execute-a-simple-llamaindex-workflow)
 - [**5. Build a Doctor Scheduling Assistant with Workflows**](#5-build-a-doctor-scheduling-assistant-with-workflows) (6 videos)
-  - Doctor scheduling assistant: Design
-  - Set up the doctor database tool
-  - Set up the doctor scheduling tool
-  - Set up custom events for scheduling
-  - Create a custom workflow for scheduling assistant
-  - Create and execute the scheduling agent
+  - [Doctor scheduling assistant: Design](#doctor-scheduling-assistant-design)
+  - [Set up the doctor database tool](#set-up-the-doctor-database-tool)
+  - [Set up the doctor scheduling tool](#set-up-the-doctor-scheduling-tool)
+  - [Set up custom events for scheduling](#set-up-custom-events-for-scheduling)
+  - [Create a custom workflow for scheduling assistant](#create-a-custom-workflow-for-scheduling-assistant)
+  - [Create and execute the scheduling agent](#create-and-execute-the-scheduling-agent)
 - [**6. Multi-agent Systems with LlamaIndex**](#6-multi-agent-systems-with-llamaindex) (5 videos)
-  - Multi-agent systems
-  - Multi-agent hospital application: Design
-  - Importing agents in a multi-agent application
-  - Set up the multi-agent application
-  - Execute the multi-agent application
+  - [Multi-agent systems](#multi-agent-systems)
+  - [Multi-agent hospital application: Design](#multi-agent-hospital-application-design)
+  - [Importing agents in a multi-agent application](#importing-agents-in-a-multi-agent-application)
+  - [Set up the multi-agent application](#set-up-the-multi-agent-application)
+  - [Execute the multi-agent application](#execute-the-multi-agent-application)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980)
@@ -106,7 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[LlamaIndex]] (2), power (1), business (1)
 > **Speakers:** - ai (1)
 
 #### Setting up codespaces
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[GitHub]] (1), [[LlamaIndex]] (1), [[LLaMA]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** python (1)
 > **Versions:** version 3 (1)
@@ -147,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Agentic Concepts in LlamaIndex
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agentic AI: A review
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980)
@@ -178,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (1), [[Routing]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -230,9 +231,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LlamaIndex]] (6), ai (5), [[Generative AI]] (1), open-source (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (1), rag (1)
 > **Cross-References:** in the next (1), later in (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -296,7 +297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), case. (1)
+> **Frameworks & Libraries:** [[Google]] (7), ai (5), [[LlamaIndex]] (4), [[Search]] (4), [[Generative AI]] (1)
 > **Documentation:** spec (5)
 > **URLs:** [llamahub.ai](https://llamahub.ai) (2)
 > **UI Navigation:** click on (2)
@@ -380,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (10), [[Microsoft Azure|Azure]] (6), ai (5), [[LlamaIndex]] (4), [[GPT-4]] (2)
 > **Env Vars:** llm (10), gpt (2), apa (2), url (2)
-> **Code Keywords:** function (5), let (4), require (1), async (1), case, (1)
 > **Prerequisites:** set up (5), configure (1), setup (1)
 > **CLI Commands:** find (4), make (1), python (1)
 > **Versions:** 4.0 (2)
@@ -448,8 +449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), llm (2), product (2), ai (1), next (1)
 > **Env Vars:** llm (2), lama (2), sum (1)
-> **Code Keywords:** this, (2), let (1), function (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -458,7 +459,7 @@ created: 2026-04-29
 
 ### 2. Build a Healthcare Assistant Agent
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ReAct?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980)
@@ -515,9 +516,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), [[React.js|React]] (5), next (3), prompt (2), ai (1)
 > **Env Vars:** llm (7)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -580,8 +581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[React.js|React]] (2), database (2), llm (2), ai (1)
 > **Env Vars:** lama (2), llm (2), rag (1)
-> **Code Keywords:** let (2), self (1), this, (1)
 > **CLI Commands:** find (2), make (1)
 > **Documentation:** spec (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -625,6 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), data (4), llm (3), database (2), [[React.js|React]] (1)
 > **Env Vars:** llm (3)
 > **Documentation:** spec (3)
 > **Warnings:** note that (2)
@@ -632,7 +634,6 @@ created: 2026-04-29
 > **Cross-References:** previous chapter (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** similar to (1)
-> **Prerequisites:** set up (1)
 
 #### Set up RAG for medications
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980)
@@ -673,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LlamaIndex]] (5), [[JSON]] (4), database (3), data (2), [[Vector Databases]] (1)
 > **Env Vars:** json (4), rag (1), llm (1)
-> **Code Keywords:** finally, (1), function (1)
 > **Prerequisites:** set up (2)
 > **File Paths:** dosages.json (1)
 > **Cross-References:** in the next (1)
@@ -723,14 +724,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (1), function (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), llm (4), [[LlamaIndex]] (2), prompt (1), [[JSON]] (1)
 > **Env Vars:** llm (4), json (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Build a Summarization Agent
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarization agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/summarization-agent-design-25231388?u=76281980)
@@ -793,8 +794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LlamaIndex]] (5), llm (5), prompt (3), application (1), product (1)
 > **Env Vars:** llm (5)
-> **Code Keywords:** let (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
@@ -845,8 +846,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), prompt (2), next (1)
 > **Code Identifiers:** self_reflection_agent_worker (2), main_agent_worker (2), llama_index (1), introspective_agent_worker (1), chat_history (1)
-> **Code Keywords:** pass (2), this, (1), class. (1), case, (1), finally, (1)
 > **Env Vars:** llm (4)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Prerequisites:** set up (2)
@@ -910,7 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (2), let (1), async (1), this, (1), pass (1)
+> **Frameworks & Libraries:** product (1), next (1)
 > **Code Identifiers:** introspective_agent (3), is_done (2), llama_index (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -919,7 +920,7 @@ created: 2026-04-29
 
 ### 4. Workflow Concepts in LlamaIndex
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to LlamaIndex workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980)
@@ -986,8 +987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LlamaIndex]] (7), ai (4), [[Programming]] (1), [[Generative AI]] (1), llm (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), function (1)
 > **Env Vars:** llm (1), rag (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1097,7 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), let (2), pass (2), function (2), async (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (7), data (2), application (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4), is an  (2), defined as (1)
 > **Prerequisites:** set up (1), required to (1)
 > **CLI Commands:** python (1)
@@ -1149,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), class, (1), let (1)
+> **Frameworks & Libraries:** data (10), next (2), management (1), ai (1)
 > **Definitions:** defined as (1), is a  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
@@ -1201,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), case. (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (2), ai (2), data (1), management (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1321,7 +1322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (2), class. (2), function (2), continue (2), let (1)
+> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (1), data (1), management (1), [[LlamaIndex]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** defined as (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -1331,7 +1332,7 @@ created: 2026-04-29
 
 ### 5. Build a Doctor Scheduling Assistant with Workflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Doctor scheduling assistant: Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980)
@@ -1382,8 +1383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), database (4), [[Microsoft Office|Office]] (1), [[JSON]] (1), llm (1)
 > **Env Vars:** csv (2), json (1), llm (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
@@ -1420,10 +1421,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[JSON]] (3), llm (2), [[React.js|React]] (1), next (1)
 > **Env Vars:** llm (2), json (2)
 > **Code Identifiers:** llama_index (2), doctor_tool (1)
 > **File Paths:** database.json (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
@@ -1466,7 +1467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5)
+> **Frameworks & Libraries:** next (2), [[LlamaIndex]] (1)
 > **Env Vars:** csv (4)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1526,9 +1527,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), next (3), [[React.js|React]] (1), prompt (1)
 > **Code Identifiers:** prepare_chat_history (2), handle_llm_input (1), handle_tool_call (1), handle_llm (1)
 > **Env Vars:** llm (4)
-> **Code Keywords:** case. (1), case, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
@@ -1651,8 +1652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (16), next (5), prompt (3), [[React.js|React]] (2), data (1)
 > **Env Vars:** llm (16)
-> **Code Keywords:** function (3), finally, (3), let (2), throw (2), class. (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is an  (1)
@@ -1736,8 +1737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), prompt (2), next (2), database (1), [[Fetch]] (1)
 > **Env Vars:** llm (5), csv (4), csp (1)
-> **Code Keywords:** let (6), finally, (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Prerequisites:** set up (2)
@@ -1746,7 +1747,7 @@ created: 2026-04-29
 
 ### 6. Multi-agent Systems with LlamaIndex
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-systems-25230378?u=76281980)
@@ -1789,7 +1790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[Routing]] (1)
 > **Speakers:** - [presenter] (1)
 
 #### Multi-agent hospital application: Design
@@ -1829,8 +1830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Search]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1862,6 +1863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Microservices]] (1)
 > **Env Vars:** rest (1), api (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1912,7 +1914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), async (4), let (1), this, (1)
+> **Frameworks & Libraries:** application (2), [[React.js|React]] (2), llm (2), prompt (2), [[LlamaIndex]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** llm (2)
 > **Best Practices:** recommended (1)
@@ -1960,10 +1962,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[React.js|React]] (1), ai (1)
 > **Code Identifiers:** doctors_and_appointments (2), llama_index (1)
 > **File Paths:** requests.csv (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1971,7 +1973,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/next-steps-25230379?u=76281980)
@@ -1996,8 +1998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), next (1), rag (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - we (1)
 

@@ -29,7 +29,7 @@ tags:
   - skill/next-js
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React-%20Server-Side%20Rendering.md)
@@ -48,41 +48,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn server-side rendering with React
-  - What you should know
+  - [Learn server-side rendering with React](#learn-server-side-rendering-with-react)
+  - [What you should know](#what-you-should-know)
 - [**1. Setting Up**](#1-setting-up) (5 videos)
-  - SSR: What, how, and why
-  - Chrome and Firefox tools
-  - Install the required libraries and tools
-  - Challenge: Why would you use SSR?
-  - Solution: Why would you use SSR?
+  - [SSR: What, how, and why](#ssr-what-how-and-why)
+  - [Chrome and Firefox tools](#chrome-and-firefox-tools)
+  - [Install the required libraries and tools](#install-the-required-libraries-and-tools)
+  - [Challenge: Why would you use SSR?](#challenge-why-would-you-use-ssr)
+  - [Solution: Why would you use SSR?](#solution-why-would-you-use-ssr)
 - [**2. Use Next.js to Build SSR**](#2-use-nextjs-to-build-ssr) (8 videos)
-  - Introducing Next.js with React
-  - Add initial components from template
-  - Add data for props
-  - Add Redux store and setup
-  - Add Redux actions
-  - Add Redux reducers
-  - Challenge: Why use Redux for SSR?
-  - Solution: Why use Redux for SSR?
+  - [Introducing Next.js with React](#introducing-nextjs-with-react)
+  - [Add initial components from template](#add-initial-components-from-template)
+  - [Add data for props](#add-data-for-props)
+  - [Add Redux store and setup](#add-redux-store-and-setup)
+  - [Add Redux actions](#add-redux-actions)
+  - [Add Redux reducers](#add-redux-reducers)
+  - [Challenge: Why use Redux for SSR?](#challenge-why-use-redux-for-ssr)
+  - [Solution: Why use Redux for SSR?](#solution-why-use-redux-for-ssr)
 - [**3. Server-Side Rendering with Node**](#3-server-side-rendering-with-node) (5 videos)
-  - Create initial Express or Next.js server
-  - Add the Express routes
-  - Add links and pages with Express or Next.js
-  - Challenge: Why use Node or Express for SSR?
-  - Solution: Why use Node or Express for SSR?
+  - [Create initial Express or Next.js server](#create-initial-express-or-nextjs-server)
+  - [Add the Express routes](#add-the-express-routes)
+  - [Add links and pages with Express or Next.js](#add-links-and-pages-with-express-or-nextjs)
+  - [Challenge: Why use Node or Express for SSR?](#challenge-why-use-node-or-express-for-ssr)
+  - [Solution: Why use Node or Express for SSR?](#solution-why-use-node-or-express-for-ssr)
 - [**4. Code Splitting**](#4-code-splitting) (4 videos)
-  - Code splitting in Next.js
-  - Other tools available for code splitting
-  - Challenge: What is the purpose of code splitting?
-  - Solution: What is the purpose of code splitting?
+  - [Code splitting in Next.js](#code-splitting-in-nextjs)
+  - [Other tools available for code splitting](#other-tools-available-for-code-splitting)
+  - [Challenge: What is the purpose of code splitting?](#challenge-what-is-the-purpose-of-code-splitting)
+  - [Solution: What is the purpose of code splitting?](#solution-what-is-the-purpose-of-code-splitting)
 - [**Conclusion**](#conclusion) (2 videos)
-  - React Router with SSR
-  - Next steps
+  - [React Router with SSR](#react-router-with-ssr)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn server-side rendering with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980)
@@ -109,8 +109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), application (3), [[Next.js]] (1), next (1), express (1)
 > **Env Vars:** ssr (5)
-> **Code Keywords:** finally, (1), let (1)
 > **File Paths:** next.js (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [emmanuel] (1)
@@ -140,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), application (1), [[JavaScript]] (1), [[Next.js]] (1), [[npm]] (1)
 > **Tools:** terminal (2), vs code (1)
 > **Definitions:** is a  (2)
 > **File Paths:** next.js (1)
@@ -150,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SSR: What, how, and why
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980)
@@ -195,8 +196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), [[HTML]] (4), [[React.js|React]] (2), data (2), [[Hardware]] (2)
 > **Env Vars:** html (4), ssr (3)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -234,8 +235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Web Development]] (1), [[Windows]] (1), [[Search]] (1), [[Google]] (1)
 > **Tools:** firefox (2), safari (1), github (1)
-> **Code Keywords:** case, (1), let (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
@@ -308,8 +309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (9), application (6), node (4), [[npm]] (3), [[Search]] (2)
 > **CLI Commands:** node (5), npm (3), npx (2), find (1)
-> **Code Keywords:** let (3), continue (2), switch (1), this, (1)
 > **Prerequisites:** install (7)
 > **Tools:** terminal (4), visual studio (1), vs code (1)
 > **UI Navigation:** go to (2), click on (2), switch to (1)
@@ -334,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ssr (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
@@ -363,15 +364,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), seo (1), power (1), [[Hardware]] (1)
 > **Env Vars:** ssr (4), seo (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
 
 ### 2. Use Next.js to Build SSR
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Next.js with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980)
@@ -530,7 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), case, (1), public (1), switch (1), this. (1)
+> **Frameworks & Libraries:** [[Next.js]] (10), application (10), next (9), [[npm]] (9), [[React.js|React]] (8)
 > **CLI Commands:** npm (9), make (5), mkdir (1), node (1)
 > **Env Vars:** json (5), ssr (3), css (2), npm (2), redox (1)
 > **File Paths:** next.js (10), index.js (3)
@@ -678,7 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), module (9), public (8), this. (2), continue (2)
+> **Frameworks & Libraries:** css (14), [[Next.js]] (5), application (4), [[React.js|React]] (3), [[HTML]] (2)
 > **Env Vars:** css (10), html (2)
 > **File Paths:** next.js (5), index.module.css (2), card.js (1), module.css (1), card.module.css (1)
 > **Code Identifiers:** classname (4)
@@ -736,7 +737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (5), continue (1), extends (1), static (1)
+> **Frameworks & Libraries:** data (19), api (9), [[React.js|React]] (8), application (5), [[Next.js]] (3)
 > **Env Vars:** api (9), ssr (1)
 > **File Paths:** next.js (3), index.js (1), api/data.json (1), data.json (1)
 > **CLI Commands:** make (2), npm (2), find (1)
@@ -872,7 +873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (4), function (3), static (1), async (1)
+> **Frameworks & Libraries:** next (4), application (3), management (2), [[React.js|React]] (2), [[Next.js]] (2)
 > **Code Identifiers:** initstore (4), createstore (2), startstate (1), getinitialprops (1)
 > **CLI Commands:** make (6)
 > **File Paths:** next.js (2), store.js (1), data.json (1)
@@ -966,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), pass (7), this, (1), this. (1)
+> **Frameworks & Libraries:** data (5), application (4)
 > **UI Navigation:** click on (2)
 > **Definitions:** is called (1), we call this (1)
 > **Analogies:** for example (2)
@@ -1171,7 +1172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case. (6), function (5), pass (5), case, (3)
+> **Frameworks & Libraries:** application (7), data (4), [[npm]] (3), next (2), api (1)
 > **CLI Commands:** make (3), npm (3)
 > **Env Vars:** npm (3), api (1), json (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1195,7 +1196,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
 > **Env Vars:** ssr (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
@@ -1219,8 +1219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), application (1), management (1), next (1)
 > **Env Vars:** ssr (3)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - okay (1)
@@ -1228,7 +1228,7 @@ created: 2026-04-29
 
 ### 3. Server-Side Rendering with Node
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create initial Express or Next.js server
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980)
@@ -1383,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (2), this. (1), public (1), const (1)
+> **Frameworks & Libraries:** express (14), next (11), [[npm]] (4), node (2), web (1)
 > **CLI Commands:** npm (4), make (3), node (2)
 > **Env Vars:** npm (4), ssr (2), mpm (1), json (1), http (1)
 > **Tools:** terminal (3)
@@ -1463,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this. (2)
+> **Frameworks & Libraries:** next (4), express (3), [[Next.js]] (1)
 > **CLI Commands:** make (3)
 > **File Paths:** next.js (1)
 > **Env Vars:** mpm (1)
@@ -1551,7 +1551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (2), switch (1), return, (1), this. (1)
+> **Frameworks & Libraries:** next (4), express (2), [[HTML]] (1), [[Next.js]] (1)
 > **UI Navigation:** go to (7), click on (1)
 > **File Paths:** server.js (2), ohyeah.js (1), page2.js (1), next.js (1)
 > **Env Vars:** html (1), yeah (1)
@@ -1577,8 +1577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (2), [[Next.js]] (2)
 > **File Paths:** next.js (2)
-> **Code Keywords:** continue (1), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
@@ -1597,6 +1597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (2), [[React.js|React]] (2), [[Next.js]] (1)
 > **Env Vars:** ssr (2), http (1)
 > **Analogies:** such as (2)
 > **File Paths:** next.js (1)
@@ -1607,7 +1608,7 @@ created: 2026-04-29
 
 ### 4. Code Splitting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code splitting in Next.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980)
@@ -1642,8 +1643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Next.js]] (5), application (3), css (1), [[React.js|React]] (1)
 > **File Paths:** next.js (5)
-> **Code Keywords:** case. (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1676,9 +1677,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Next.js]] (5), application (2), [[HTML]] (1)
 > **File Paths:** next.js (5)
 > **Env Vars:** ssr (2), amp (1), html (1)
-> **Code Keywords:** static (1), finally, (1)
 > **Definitions:** is a  (1), basically means (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1698,7 +1699,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
@@ -1717,16 +1717,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Next.js]] (1)
 > **File Paths:** next.js (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### React Router with SSR
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980)
@@ -1779,8 +1779,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (9), dom (3), [[Routing]] (2), web (1), [[npm]] (1)
 > **Env Vars:** ssr (5), spa (2)
-> **Code Keywords:** let (2), interface (1), continue (1), pass (1)
 > **Prerequisites:** install (2)
 > **File Paths:** routes.js (1)
 > **CLI Commands:** npm (1)
@@ -1810,11 +1810,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Next.js]] (3), [[GitHub]] (2)
 > **File Paths:** next.js (3)
 > **CLI Commands:** find (3)
 > **Env Vars:** ssr (2)
 > **Tools:** github (2)
-> **Code Keywords:** finally, (1)
 > **Documentation:** stack overflow (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)

@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Practice-%20Basic%20Queries.md)
@@ -49,23 +49,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Talking to your database in SQL
-  - What you should know
-  - Exploring the lab environment
+  - [Talking to your database in SQL](#talking-to-your-database-in-sql)
+  - [What you should know](#what-you-should-know)
+  - [Exploring the lab environment](#exploring-the-lab-environment)
 - [**1. Code Challenges**](#1-code-challenges) (7 videos)
-  - Solution: Get sorted data from a table
-  - Solution: Retrieve data from multiple tables
-  - Solution: Retrieve data filtered on a range
-  - Solution: Retrieve aggregated data
-  - Solution: Get data filtered with a string pattern
-  - Solution: Find the most expensive order
-  - Solution: Find the average of orders
+  - [Solution: Get sorted data from a table](#solution-get-sorted-data-from-a-table)
+  - [Solution: Retrieve data from multiple tables](#solution-retrieve-data-from-multiple-tables)
+  - [Solution: Retrieve data filtered on a range](#solution-retrieve-data-filtered-on-a-range)
+  - [Solution: Retrieve aggregated data](#solution-retrieve-aggregated-data)
+  - [Solution: Get data filtered with a string pattern](#solution-get-data-filtered-with-a-string-pattern)
+  - [Solution: Find the most expensive order](#solution-find-the-most-expensive-order)
+  - [Solution: Find the average of orders](#solution-find-the-average-of-orders)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Talking to your database in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980)
@@ -86,6 +86,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), data (3), database (2), business (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [david] (1)
 
@@ -114,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[SQL]] (3), [[Microsoft Products|Products]] (2), product (2), [[MySQL]] (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** mysql (1)
@@ -164,7 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), pass (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), database (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -172,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Get sorted data from a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-sorted-data-from-a-specific-table?u=76281980)
@@ -207,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1)
+> **Frameworks & Libraries:** data (3), database (2)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Retrieve data from multiple tables
@@ -243,9 +245,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (1)
 > **Env Vars:** inner (1), join (1), top (1), select (1)
 > **SQL:** inner join (1), select (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Retrieve data filtered on a range
@@ -285,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1)
+> **Frameworks & Libraries:** database (1), data (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -341,10 +343,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), [[SQL]] (1), data (1)
 > **Env Vars:** customerid (3), firstname (2), lastname (2), sql (1), orderid (1)
 > **CLI Commands:** find (1), make (1)
 > **SQL:** inner join (1), group by (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Get data filtered with a string pattern
@@ -386,6 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **SQL:** where (1), order by (1)
 > **Env Vars:** where (1), order (1)
 > **Speakers:** - [instructor] (1)
@@ -429,6 +432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** top (1), inner (1), joins (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 58.95 (1)
@@ -466,13 +470,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980)
@@ -493,8 +497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), data (1)
 > **Env Vars:** sql (6)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
 

@@ -40,7 +40,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Everyday%20Ai%20Concepts.md)
@@ -59,31 +59,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What is artificial intelligence?
+  - [What is artificial intelligence?](#what-is-artificial-intelligence)
 - [**1. Machine Learning**](#1-machine-learning) (2 videos)
-  - A machine that learns by doing (and redoing)
-  - Scale up and learn from massive datasets
+  - [A machine that learns by doing (and redoing)](#a-machine-that-learns-by-doing-and-redoing)
+  - [Scale up and learn from massive datasets](#scale-up-and-learn-from-massive-datasets)
 - [**2. Predictive Artificial Intelligence**](#2-predictive-artificial-intelligence) (5 videos)
-  - Accurately predict what someone will do
-  - Create a data model of what you've learned
-  - Train the system on what you know
-  - Let the machine discover what you don't know
-  - Give the machine an incentive to be right
+  - [Accurately predict what someone will do](#accurately-predict-what-someone-will-do)
+  - [Create a data model of what you've learned](#create-a-data-model-of-what-youve-learned)
+  - [Train the system on what you know](#train-the-system-on-what-you-know)
+  - [Let the machine discover what you don't know](#let-the-machine-discover-what-you-dont-know)
+  - [Give the machine an incentive to be right](#give-the-machine-an-incentive-to-be-right)
 - [**3. Generative Artificial Intelligence**](#3-generative-artificial-intelligence) (4 videos)
-  - Build a system that generates something new
-  - Create a foundation model of everything
-  - Let the machine learn without you
-  - Learn to get the most from the system
+  - [Build a system that generates something new](#build-a-system-that-generates-something-new)
+  - [Create a foundation model of everything](#create-a-foundation-model-of-everything)
+  - [Let the machine learn without you](#let-the-machine-learn-without-you)
+  - [Learn to get the most from the system](#learn-to-get-the-most-from-the-system)
 - [**4. Legal and Ethical Issues**](#4-legal-and-ethical-issues) (3 videos)
-  - Who owns what the machine learned?
-  - Can a machine make consequential decisions?
-  - Can you teach the system values?
+  - [Who owns what the machine learned?](#who-owns-what-the-machine-learned)
+  - [Can a machine make consequential decisions?](#can-a-machine-make-consequential-decisions)
+  - [Can you teach the system values?](#can-you-teach-the-system-values)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in AI concepts
+  - [Next steps in AI concepts](#next-steps-in-ai-concepts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is artificial intelligence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980)
@@ -110,13 +110,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** ai (5), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - artificial (1)
 
 
 ### 1. Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A machine that learns by doing (and redoing)
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980)
@@ -211,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (5), game (3), [[Google]] (2), [[Probability]] (2), next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** pass (1), case, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
@@ -297,8 +297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Big Data]] (4), data (3), [[Vanilla]] (3), [[Google]] (3)
 > **CLI Commands:** make (4), cat (1), find (1)
-> **Code Keywords:** while, (1), pass (1), self (1)
 > **Env Vars:** nasa (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
@@ -306,7 +306,7 @@ created: 2026-04-29
 
 ### 2. Predictive Artificial Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accurately predict what someone will do
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980)
@@ -399,8 +399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Neural Networks]] (3), [[Artificial Neural Networks]] (1), [[Big Data]] (1), next (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** self (1), continue (1), case, (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
@@ -492,8 +492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), business (3), [[Microsoft Products|Products]] (1), [[Algorithms]] (1), product (1)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** new. (1), public (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -587,9 +587,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Probability]] (1)
 > **Definitions:** is a  (4), is called (2)
 > **CLI Commands:** make (2), cat (1)
-> **Code Keywords:** this, (1), case, (1)
 > **Warnings:** keep in mind (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - most (1)
@@ -677,6 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Supervised Learning]] (1), [[Statistics]] (1), [[Probability]] (1), [[Algorithms]] (1)
 > **Definitions:** is called (1), is a  (1), means that (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1)
@@ -765,9 +766,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (7), game (5), [[Google]] (4), [[Deep Learning]] (2), data (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - earlier (1)
@@ -775,7 +776,7 @@ created: 2026-04-29
 
 ### 3. Generative Artificial Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a system that generates something new
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980)
@@ -864,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (3)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), next (2), ai (2), data (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
@@ -944,9 +945,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI]] (2), power (2), teams (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
-> **Code Keywords:** public (1), new, (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - you (1)
@@ -1024,8 +1025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Supervised Learning]] (6), power (2), [[Generative AI]] (1), ai (1)
 > **CLI Commands:** cat (4), find (1)
-> **Code Keywords:** self (3)
 > **Definitions:** means that (1), is called (1)
 > **Analogies:** picture (2)
 > **Warnings:** keep in mind (1)
@@ -1110,9 +1111,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (7), prompt (7), [[Generative AI]] (5), data (3), [[Prompt Engineering]] (3)
 > **Code Identifiers:** ipad (3)
 > **Analogies:** imagine (3)
-> **Code Keywords:** let (1), continue (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** you'll need (1)
@@ -1121,7 +1122,7 @@ created: 2026-04-29
 
 ### 4. Legal and Ethical Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who owns what the machine learned?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980)
@@ -1200,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), assert (1), class. (1)
+> **Frameworks & Libraries:** [[Google]] (3), ai (3), data (3), [[Generative AI]] (2), [[Search]] (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
@@ -1288,7 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Decision-Making]] (4), data (4), [[Supervised Learning]] (3), ai (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** it's like (1), imagine (1)
@@ -1393,8 +1394,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), ai (5), game (3), [[Statistics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Best Practices:** you should always (1)
 > **Warnings:** keep in mind (1)
@@ -1403,7 +1404,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in AI concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980)
@@ -1436,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (1), [[Generative AI]] (1), data (1)
 > **Speakers:** - this (1)
 
 

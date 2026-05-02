@@ -27,7 +27,7 @@ tags:
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Blockchain%20Basics.md)
@@ -46,29 +46,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building trust through software code
+  - [Building trust through software code](#building-trust-through-software-code)
 - [**1. Trust over the Internet**](#1-trust-over-the-internet) (2 videos)
-  - Risk management on the internet today
-  - Rethinking traditional client-server computing
+  - [Risk management on the internet today](#risk-management-on-the-internet-today)
+  - [Rethinking traditional client-server computing](#rethinking-traditional-client-server-computing)
 - [**2. What Is Blockchain Technology?**](#2-what-is-blockchain-technology) (5 videos)
-  - What problems does blockchain solve?
-  - Bitcoin gives birth to blockchain
-  - The basics of how blockchain works
-  - The growth of crypto coins and crypto tokens
-  - Going deeper on the role of key pairs
+  - [What problems does blockchain solve?](#what-problems-does-blockchain-solve)
+  - [Bitcoin gives birth to blockchain](#bitcoin-gives-birth-to-blockchain)
+  - [The basics of how blockchain works](#the-basics-of-how-blockchain-works)
+  - [The growth of crypto coins and crypto tokens](#the-growth-of-crypto-coins-and-crypto-tokens)
+  - [Going deeper on the role of key pairs](#going-deeper-on-the-role-of-key-pairs)
 - [**3. Transforming Transactions**](#3-transforming-transactions) (3 videos)
-  - The blockchain ecosystem
-  - Examples of blockchain in action today
-  - The future of blockchain innovation
+  - [The blockchain ecosystem](#the-blockchain-ecosystem)
+  - [Examples of blockchain in action today](#examples-of-blockchain-in-action-today)
+  - [The future of blockchain innovation](#the-future-of-blockchain-innovation)
 - [**4. Challenges to Be Solved**](#4-challenges-to-be-solved) (2 videos)
-  - Obstacles to broad blockchain adoption
-  - Challenges that blockchain presents to enterprises
+  - [Obstacles to broad blockchain adoption](#obstacles-to-broad-blockchain-adoption)
+  - [Challenges that blockchain presents to enterprises](#challenges-that-blockchain-presents-to-enterprises)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Taking the next steps with blockchain
+  - [Taking the next steps with blockchain](#taking-the-next-steps-with-blockchain)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building trust through software code
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980)
@@ -105,8 +105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Cryptocurrency]] (1), hit (1), game (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** notion (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Trust over the Internet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Risk management on the internet today
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980)
@@ -191,8 +191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Blockchain]] (4), business (3), [[Building Trust]] (1), [[Multi-factor Authentication]] (1)
 > **Analogies:** such as (4), for example (2)
-> **Code Keywords:** private (1), require (1), continue (1), self (1), function (1)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)
 > **Speakers:** - while (1)
@@ -314,7 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** database (20), data (13), [[Databases]] (4), [[Blockchain]] (3), [[Search]] (2)
 > **Analogies:** for example (3), imagine (2)
 > **Definitions:** is a  (3), we call this (1)
 > **CLI Commands:** find (1)
@@ -323,7 +323,7 @@ created: 2026-04-29
 
 ### 2. What Is Blockchain Technology?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What problems does blockchain solve?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980)
@@ -398,9 +398,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), power (4), [[Blockchain]] (4), [[E-Commerce]] (1), [[Databases]] (1)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** means that (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** ceo (1), cto (1)
 > **Speakers:** - a (1)
 
@@ -507,7 +507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (7), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Banking]] (1), database (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
@@ -627,7 +627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (4), private (4)
+> **Frameworks & Libraries:** [[Blockchain]] (11), database (6), data (3), power (3), application (2)
 > **Definitions:** is a  (2), means that (2), is called (1), in other words (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** node (1)
@@ -712,9 +712,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (9), [[Cryptocurrency]] (8), [[Blockchain]] (6), [[Ethereum]] (6), [[Security]] (3)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** short for (2), is a  (1), is called (1)
-> **Code Keywords:** continue (2), raise (1)
 > **Env Vars:** evm (2)
 > **Speakers:** - even (1)
 
@@ -799,7 +799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), private (7), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Blockchain]] (8), [[Cryptocurrency]] (2), [[Security]] (2), [[Forms]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** rsa (1)
 > **UI Navigation:** click on (1)
@@ -809,7 +809,7 @@ created: 2026-04-29
 
 ### 3. Transforming Transactions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The blockchain ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980)
@@ -894,8 +894,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (18), power (2), [[Cryptocurrency]] (2), [[Tokens]] (1), [[Ethereum]] (1)
 > **Analogies:** such as (7), for example (1), similar to (1)
-> **Code Keywords:** private (5), new, (1), public (1)
 > **Env Vars:** nft (2)
 > **Definitions:** is a  (1), is called (1)
 > **Cross-References:** in the next (1)
@@ -1006,7 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (1), finally, (1), protected (1), public (1)
+> **Frameworks & Libraries:** [[Blockchain]] (15), [[Sustainability]] (1), [[Security]] (1), power (1), application (1)
 > **Env Vars:** dao (3)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (2)
@@ -1104,7 +1104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), require (2), private (2), let (1), case, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (19), [[Smart Contracts]] (5), [[Ethereum]] (2), [[Cryptocurrency]] (1), [[Tokens]] (1)
 > **Analogies:** such as (4), for example (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** nft (1), ibm (1)
@@ -1114,7 +1114,7 @@ created: 2026-04-29
 
 ### 4. Challenges to Be Solved
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Obstacles to broad blockchain adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980)
@@ -1199,7 +1199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** [[Blockchain]] (13), business (3), [[Scalability]] (2), [[Security]] (2), data (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
@@ -1282,16 +1282,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (13), business (4), [[LinkedIn]] (1), feature (1), [[Forms]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - after (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the next steps with blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980)
@@ -1346,8 +1346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Cryptocurrency]] (2), next (2), [[Ethereum]] (2), power (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)

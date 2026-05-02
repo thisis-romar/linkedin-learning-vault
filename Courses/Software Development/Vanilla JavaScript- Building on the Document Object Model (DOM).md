@@ -30,7 +30,7 @@ tags:
   - skill/document-object-model-dom
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Vanilla%20JavaScript-%20Building%20on%20the%20Document%20Object%20Model%20(DOM).md)
@@ -49,41 +49,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn the JavaScript DOM inside and out
-  - Where to start
+  - [Learn the JavaScript DOM inside and out](#learn-the-javascript-dom-inside-and-out)
+  - [Where to start](#where-to-start)
 - [**1. Key DOM Concepts**](#1-key-dom-concepts) (6 videos)
-  - The Node interface
-  - DOM-specific maps and lists
-  - Random access with querySelector()
-  - CRUD in the DOM
-  - Challenge: queryAll++
-  - Solution: queryAll++
+  - [The Node interface](#the-node-interface)
+  - [DOM-specific maps and lists](#dom-specific-maps-and-lists)
+  - [Random access with querySelector()](#random-access-with-queryselector)
+  - [CRUD in the DOM](#crud-in-the-dom)
+  - [Challenge: queryAll++](#challenge-queryall)
+  - [Solution: queryAll++](#solution-queryall)
 - [**2. HTML to DOM**](#2-html-to-dom) (9 videos)
-  - Where does the DOM come from?
-  - DIY HTML parsing
-  - Building a firm foundation: The lexer
-  - Parsing text
-  - Parsing comments
-  - Parsing elements
-  - Parsing attributes
-  - Challenge: Void elements
-  - Solution: Void elements
+  - [Where does the DOM come from?](#where-does-the-dom-come-from)
+  - [DIY HTML parsing](#diy-html-parsing)
+  - [Building a firm foundation: The lexer](#building-a-firm-foundation-the-lexer)
+  - [Parsing text](#parsing-text)
+  - [Parsing comments](#parsing-comments)
+  - [Parsing elements](#parsing-elements)
+  - [Parsing attributes](#parsing-attributes)
+  - [Challenge: Void elements](#challenge-void-elements)
+  - [Solution: Void elements](#solution-void-elements)
 - [**3. Transforming the DOM**](#3-transforming-the-dom) (9 videos)
-  - Traversing the tree
-  - Building a pretty printer
-  - Processing document fragments
-  - Processing comments
-  - Processing elements
-  - Processing element attributes
-  - Handling text and cleanup
-  - Challenge: Empty tags
-  - Solution: Empty tags
+  - [Traversing the tree](#traversing-the-tree)
+  - [Building a pretty printer](#building-a-pretty-printer)
+  - [Processing document fragments](#processing-document-fragments)
+  - [Processing comments](#processing-comments)
+  - [Processing elements](#processing-elements)
+  - [Processing element attributes](#processing-element-attributes)
+  - [Handling text and cleanup](#handling-text-and-cleanup)
+  - [Challenge: Empty tags](#challenge-empty-tags)
+  - [Solution: Empty tags](#solution-empty-tags)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Level up your DOM skills
+  - [Level up your DOM skills](#level-up-your-dom-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the JavaScript DOM inside and out
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (4), [[HTML]] (3), [[JavaScript]] (2), [[LinkedIn]] (1), api (1)
 > **Env Vars:** dom (3), html (3), api (1)
-> **Code Keywords:** interface (2)
 > **Speakers:** - this (1)
 
 #### Where to start
@@ -129,14 +129,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), css (1)
 > **Env Vars:** html5 (1), css (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Key DOM Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Node interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980)
@@ -191,8 +191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (23), dom (4), [[HTML]] (3), next (2), [[Document Object Model (DOM)|Document object model]] (1)
 > **CLI Commands:** node (23), find (2)
-> **Code Keywords:** interface (4), type, (1), type. (1), super (1)
 > **Env Vars:** html (3), xml (1), w3c (1)
 > **Documentation:** w3c (1)
 > **UI Navigation:** navigate to (1)
@@ -365,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (1), function (1), continue (1), this, (1)
+> **Frameworks & Libraries:** node (8), [[JavaScript]] (8), dom (7), [[HTML]] (5), application (3)
 > **CLI Commands:** node (8), python (3), make (1)
 > **Env Vars:** dom (7), html (5)
 > **Code Identifiers:** foreach (4), childnodes (2), getelementbyid (1), childrenforeach (1)
@@ -603,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), function (8), this, (2), pass (2), match, (2)
+> **Frameworks & Libraries:** [[HTML]] (9), dom (8), application (4), [[Forms]] (4), hit (3)
 > **Code Identifiers:** queryselectorall (10), queryselector (4), innerhtml (3), refreshoutput (1), foreach (1)
 > **Env Vars:** dom (8), html (8), w3c (2), html5 (1)
 > **CLI Commands:** find (6), make (3)
@@ -887,7 +887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), delete (10), function (9), switch (4), case. (2)
+> **Frameworks & Libraries:** dom (6), node (5), application (3), [[HTML]] (3), next (2)
 > **Code Identifiers:** deletematches (7), queryselectorall (4), innertext (3), parentelement (3), textifymatches (3)
 > **Env Vars:** dom (6), crud (4), html (3), img (1)
 > **CLI Commands:** find (5), node (5), make (3)
@@ -929,7 +929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), let (2)
+> **Frameworks & Libraries:** [[Search]] (3), feature (2), dom (1)
 > **Env Vars:** dom (1), html5 (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** queryselector (1)
@@ -1025,7 +1025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), match. (3), function (2), match, (2), class. (2)
+> **Frameworks & Libraries:** [[HTML]] (4), css (3), [[Search]] (3), feature (1), application (1)
 > **Env Vars:** html (4), css (3)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (2)
@@ -1037,7 +1037,7 @@ created: 2026-04-29
 
 ### 2. HTML to DOM
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where does the DOM come from?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980)
@@ -1130,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), function (2), this, (1), continue (1)
+> **Frameworks & Libraries:** [[HTML]] (9), application (3), [[JavaScript]] (3), node (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** html (9), html5 (3), dom (1)
 > **CLI Commands:** node (3), make (1), python (1), find (1)
 > **Exercise Files:** source code (2)
@@ -1169,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2), interface (1)
+> **Frameworks & Libraries:** [[HTML]] (5), dom (2), [[Tokens]] (1), next (1), [[JavaScript]] (1)
 > **Env Vars:** html (5), dom (2)
 > **Definitions:** is a  (2), is called (1)
 > **Code Identifiers:** parsecontent (1), prettyparse (1)
@@ -1547,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), function (18), this. (9), assert (7), match. (5)
+> **Frameworks & Libraries:** [[HTML]] (8), next (5), [[Search]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** html (8), eof (5)
 > **Exercise Files:** source code (7)
 > **CLI Commands:** make (4)
@@ -1645,8 +1645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), node (3), dom (2), next (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** prettyparse (8), parsecontent (5), appendchild (2), flushtext (2), createdocumentfragment (1)
-> **Code Keywords:** function (7), let (6), this, (2), class, (1)
 > **Env Vars:** html (7), dom (2)
 > **CLI Commands:** node (3), python (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1749,7 +1749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), match. (2), this. (1), private (1)
+> **Frameworks & Libraries:** [[HTML]] (4), node (3), dom (2), [[Tokens]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (3), find (2), make (1), python (1)
 > **Env Vars:** html (4), http (1)
 > **Cross-References:** go back to (2)
@@ -1934,7 +1934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), match. (2), case, (2), else, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (3), web (1), next (1), node (1)
 > **Env Vars:** html (4), tbd (2)
 > **CLI Commands:** python (3), node (1), make (1)
 > **Analogies:** for example (2), kind of like (1), similar to (1), picture (1)
@@ -2124,7 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), match. (3), match, (3), case, (2)
+> **Frameworks & Libraries:** node (4), next (4), [[HTML]] (3), [[Python (Programming Language)|Python]] (2), web (1)
 > **Code Identifiers:** parseattribute (4), createattribute (2), readuntil (2), parsecontent (1), setattributenode (1)
 > **CLI Commands:** node (4), python (2), make (1)
 > **Env Vars:** html (3), tbd (1), href (1), html5 (1)
@@ -2166,7 +2166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), self (2), let (1)
+> **Frameworks & Libraries:** hr (3), [[HTML]] (2), application (1)
 > **Env Vars:** html (2), xhtml (2), w3c (1)
 > **CLI Commands:** make (2)
 > **Documentation:** w3c (1)
@@ -2254,7 +2254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), self (2), function (1), case. (1)
+> **Frameworks & Libraries:** next (2), [[HTML]] (2), [[JavaScript]] (1), [[Tokens]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** parseelement (2), voidelements (2), voidelement (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** html (2), w3c (1)
@@ -2266,7 +2266,7 @@ created: 2026-04-29
 
 ### 3. Transforming the DOM
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Traversing the tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980)
@@ -2325,9 +2325,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), dom (5), [[HTML]] (4), [[Algorithms]] (1), next (1)
 > **Env Vars:** dom (5), html (4)
 > **CLI Commands:** node (6), make (1)
-> **Code Keywords:** let (1), delete (1), function (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2362,8 +2362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (4), node (2), application (1), [[HTML]] (1), [[Zoom]] (1)
 > **Env Vars:** dom (4), html (1), css (1)
-> **Code Keywords:** let (2), this. (1), function (1)
 > **CLI Commands:** node (2)
 > **Exercise Files:** source code (2)
 > **Code Identifiers:** prettyprint (1)
@@ -2475,7 +2475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (7), switch (1), pass (1)
+> **Frameworks & Libraries:** node (14), dom (4), [[HTML]] (2), css (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** prettyprint (8), refreshoutput (2), nodetype (2), printchildnodes (2), clonenode (1)
 > **CLI Commands:** node (14), python (1), find (1), make (1)
 > **Env Vars:** dom (4), document_fragment_node (3), html (2), css (2)
@@ -2577,9 +2577,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (12), css (10), dom (2), [[HTML]] (1)
 > **CLI Commands:** node (12), make (2)
 > **Env Vars:** css (10), dom (2), html (1), rel (1)
-> **Code Keywords:** let (10), function (2), switch (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - one (1)
@@ -2753,7 +2753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (3), case, (1), this. (1), switch (1)
+> **Frameworks & Libraries:** node (7), next (6), css (3), [[HTML]] (2), web (1)
 > **Code Identifiers:** createelement (3), tagname (2), nodename (2), opentag (2), appendchild (2)
 > **CLI Commands:** node (7), make (1)
 > **Env Vars:** css (3), html (2), tbd (2), element_node (1)
@@ -2881,8 +2881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (14), css (2)
 > **Code Identifiers:** attrvalue (7), attrname (6), createelement (3), nodevalue (2), foreach (1)
-> **Code Keywords:** let (11), case, (2), function (1), switch (1), const (1)
 > **CLI Commands:** node (14), make (1)
 > **Env Vars:** tbd (2), css (2), attribute_node (1), ca6836 (1)
 > **Cross-References:** go back to (4)
@@ -3001,7 +3001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (2), this, (1), switch (1), case, (1)
+> **Frameworks & Libraries:** node (6), css (2), [[Microsoft]] (1), [[HTML]] (1)
 > **CLI Commands:** node (6), make (2)
 > **Env Vars:** css (2), html (1)
 > **Exercise Files:** source code (2)
@@ -3027,7 +3027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** hr (1)
 > **Exercise Files:** source code (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
@@ -3094,7 +3094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class, (2), this, (1)
+> **Frameworks & Libraries:** hr (4), css (2), dom (1), node (1), next (1)
 > **Cross-References:** go back to (3)
 > **Env Vars:** css (2)
 > **CLI Commands:** node (1)
@@ -3105,7 +3105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your DOM skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980)
@@ -3128,6 +3128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), dom (1)
 > **CLI Commands:** go build (1)
 > **Env Vars:** dom (1)
 > **Speakers:** - [instructor] (1)

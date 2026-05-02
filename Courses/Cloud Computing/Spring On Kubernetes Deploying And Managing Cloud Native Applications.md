@@ -32,7 +32,7 @@ tags:
   - skill/spring-boot
   - skill/kubernetes
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Spring%20On%20Kubernetes%20Deploying%20And%20Managing%20Cloud%20Native%20Applications.md)
@@ -51,44 +51,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Spring to Kubernetes
-  - What you need to know
-  - Setting up the Codespaces environment
-  - Developer workflows
+  - [Spring to Kubernetes](#spring-to-kubernetes)
+  - [What you need to know](#what-you-need-to-know)
+  - [Setting up the Codespaces environment](#setting-up-the-codespaces-environment)
+  - [Developer workflows](#developer-workflows)
 - [**1. Cloud Native Spring**](#1-cloud-native-spring) (9 videos)
-  - Cloud native applications
-  - Creating the application
-  - Preparing data access
-  - Building data access
-  - Exposing as a webservice
-  - Challenge: Cloud Native Spring
-  - Solution: Cloud Native Spring
-  - Logging with Spring
-  - Metrics with Spring
+  - [Cloud native applications](#cloud-native-applications)
+  - [Creating the application](#creating-the-application)
+  - [Preparing data access](#preparing-data-access)
+  - [Building data access](#building-data-access)
+  - [Exposing as a webservice](#exposing-as-a-webservice)
+  - [Challenge: Cloud Native Spring](#challenge-cloud-native-spring)
+  - [Solution: Cloud Native Spring](#solution-cloud-native-spring)
+  - [Logging with Spring](#logging-with-spring)
+  - [Metrics with Spring](#metrics-with-spring)
 - [**2. Spring Images**](#2-spring-images) (5 videos)
-  - Containerized workloads
-  - Spring Docker plugin
-  - Building a custom Docker image
-  - Uploading to a container registry
-  - Spring Native images
+  - [Containerized workloads](#containerized-workloads)
+  - [Spring Docker plugin](#spring-docker-plugin)
+  - [Building a custom Docker image](#building-a-custom-docker-image)
+  - [Uploading to a container registry](#uploading-to-a-container-registry)
+  - [Spring Native images](#spring-native-images)
 - [**3. Deploying to Kubernetes**](#3-deploying-to-kubernetes) (7 videos)
-  - Deploying to Kubernetes
-  - Building the initial scaffolding
-  - Building a deployment
-  - Building a service
-  - Adding ingress
-  - Adding monitoring
-  - Introduction to Helm
+  - [Deploying to Kubernetes](#deploying-to-kubernetes)
+  - [Building the initial scaffolding](#building-the-initial-scaffolding)
+  - [Building a deployment](#building-a-deployment)
+  - [Building a service](#building-a-service)
+  - [Adding ingress](#adding-ingress)
+  - [Adding monitoring](#adding-monitoring)
+  - [Introduction to Helm](#introduction-to-helm)
 - [**4. Additional Topics**](#4-additional-topics) (3 videos)
-  - Testing strategies
-  - Automation in CI/CD
-  - Security considerations
+  - [Testing strategies](#testing-strategies)
+  - [Automation in CI/CD](#automation-in-cicd)
+  - [Security considerations](#security-considerations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring to Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Kubernetes]] (2), [[Java]] (1), application (1), next (1)
 > **Speakers:** - [frank] (1)
 
 #### What you need to know
@@ -156,6 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (4), [[Spring Framework]] (3), application (2), [[Kubernetes]] (2), [[Automation]] (2)
 > **CLI Commands:** make (1), cd (1)
 > **Prerequisites:** prerequisite (1), you need to have (1)
 > **Definitions:** is an  (1)
@@ -250,8 +252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (11), database (5), data (4), [[GitHub]] (2), next (2)
 > **CLI Commands:** docker (6), nginx (3), node (1)
-> **Code Keywords:** let (3), this. (2), while, (2), this, (1), delete (1)
 > **Definitions:** is a  (5), is called (1), is an  (1)
 > **Tools:** terminal (3), github (2), command line (1)
 > **Prerequisites:** install (3), set up (1), setup (1)
@@ -312,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), ci (2), power (2), [[Databases]] (1), cd (1)
 > **CLI Commands:** find (1), cd (1)
-> **Code Keywords:** let (1), require (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** ram (1)
 > **Definitions:** is a  (1)
@@ -323,7 +325,7 @@ created: 2026-04-29
 
 ### 1. Cloud Native Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud native applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980)
@@ -426,9 +428,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), cloud (8), [[Kubernetes]] (7), [[LinkedIn]] (2), [[Security]] (2)
 > **Env Vars:** cicd (1), jvm (1), json (1)
 > **CLI Commands:** docker (1), make (1)
-> **Code Keywords:** let (1), for. (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** before we start (1)
@@ -516,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (2)
+> **Frameworks & Libraries:** application (6), [[Spring Boot]] (3), [[Java]] (3), next (2), [[Codespaces]] (1)
 > **Env Vars:** jpa (2), lts (1)
 > **Prerequisites:** set up (2), setup (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -650,8 +652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), application (6), database (5), api (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
 > **Env Vars:** api (3), db_name (3), db_port (2), db_username (2), db_password (2)
-> **Code Keywords:** let (5), this. (1)
 > **UI Navigation:** go to (2), select the (1), navigate to (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** psql (1), go build (1)
@@ -710,7 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), let (4), class, (2), interface (2)
+> **Frameworks & Libraries:** data (6), [[Java]] (4), api (1), [[SQL]] (1), application (1)
 > **Env Vars:** uuid (4), api (1), jpa (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** customerid (1), firstname (1), lastname (1), findbyemail (1)
@@ -788,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), public (2), class. (1), private (1), super (1)
+> **Frameworks & Libraries:** web (4), application (2), [[Java]] (2), data (1), api (1)
 > **Code Identifiers:** getallcustomers (1), haslength (1), ispresent (1), customerrepository (1), findall (1)
 > **Env Vars:** ide (2), api (1)
 > **Ports:** :8080 (2)
@@ -832,8 +834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), database (1)
 > **Code Identifiers:** getall (2), getone (2)
-> **Code Keywords:** delete (1), finally, (1), default, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dat (1)
 > **Best Practices:** don't forget (1)
@@ -913,9 +915,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Java]] (1), data (1), [[Microsoft Products|Products]] (1), web (1)
 > **Code Identifiers:** findbyname (2), findbyemail (1), getbyid (1), deletebyid (1)
 > **Env Vars:** reset_content (1), post (1), put (1), delete (1)
-> **Code Keywords:** delete (2), match, (1)
 > **API Endpoints:** post
  (1), put
  (1), delete  (1)
@@ -1007,7 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (2), this. (2), include, (1), pass (1)
+> **Frameworks & Libraries:** application (5), [[JSON]] (3), [[Spring Boot]] (2), [[Kubernetes]] (2), api (1)
 > **Env Vars:** json (3), xml (2), info (1), spring_profiles_active (1), ide (1)
 > **Code Identifiers:** springprofile (2), jsonconsoleappender (2), artifactid (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1131,7 +1133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), private (3), this. (3), class. (2), pass (2)
+> **Frameworks & Libraries:** application (7), [[Spring Boot]] (1), [[Java]] (1), [[Spring Framework]] (1), web (1)
 > **Code Identifiers:** timermap (5), getallcustomers (3), metricscommontags (1), appname (1), commontags (1)
 > **Env Vars:** get_all_customers (4)
 > **UI Navigation:** go to (4)
@@ -1143,7 +1145,7 @@ created: 2026-04-29
 
 ### 2. Spring Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Containerized workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980)
@@ -1202,8 +1204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Containerization]] (3), [[Linux]] (2), application (2), cloud (2)
 > **CLI Commands:** docker (4)
-> **Code Keywords:** let (2), yield (1), self (1)
 > **Env Vars:** lxc (3), cncf (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1245,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (2), this. (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Java]] (1), api (1), application (1), next (1)
 > **CLI Commands:** docker (4)
 > **Env Vars:** build (1), success (1), api (1), palm (1)
 > **URLs:** [docker.io](https://docker.io) (1)
@@ -1379,9 +1381,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), application (3), api (3), [[Spring Boot]] (2), [[Version Control]] (2)
 > **CLI Commands:** docker (10), mkdir (2), make (2), mvn (1), node (1)
 > **Env Vars:** jdk (4), jre (3), run (2), workdir (1), copy (1)
-> **Code Keywords:** let (5), from= (1), extends (1), this. (1), pass (1)
 > **Versions:** 0.0.1 (2), 3.9.8 (1), 21.0.4 (1)
 > **Ports:** :21 (1), port 8080 (1), :8080 (1)
 > **File Paths:** pom.xml (1), launch.json (1)
@@ -1417,8 +1419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1), node (1)
 > **CLI Commands:** docker (2), node (1)
-> **Code Keywords:** let (1), this, (1)
 > **Versions:** 0.0.1 (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
@@ -1499,6 +1501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), application (2), [[Spring Boot]] (2), [[LinkedIn]] (1), [[Kubernetes]] (1)
 > **Env Vars:** jvm (2), cpu (1), jmx (1), oss (1), oci (1)
 > **CLI Commands:** node (1), find (1), docker (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1508,7 +1511,7 @@ created: 2026-04-29
 
 ### 3. Deploying to Kubernetes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying to Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980)
@@ -1537,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), traffic (2), application (1), database (1)
 > **Speakers:** - [instructor] (1)
 
 #### Building the initial scaffolding
@@ -1623,7 +1626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), type: (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Kubernetes]] (2), data (2), application (1), api (1)
 > **File Paths:** namespace.yaml (2), secret.yaml (1), deployment/secret.yaml (1)
 > **CLI Commands:** kubectl (2)
 > **Code Identifiers:** apiversion (2)
@@ -1753,8 +1756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[Kubernetes]] (4), hit (3), [[Metadata]] (2), node (2)
 > **Env Vars:** api (5), http (3), yaml (1)
-> **Code Keywords:** let (4), this. (2), case. (1), from, (1)
 > **CLI Commands:** make (3), node (2), docker (1), git (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Tools:** terminal (4)
@@ -1811,7 +1814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** api (5), traffic (2), [[Metadata]] (1), [[Spring Boot]] (1), [[Kubernetes]] (1)
 > **Ports:** port 80 (1), port 8080 (1)
 > **Env Vars:** api (1), tcp (1)
 > **Tools:** terminal (2)
@@ -1923,8 +1926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Kubernetes]] (3), [[Routing]] (2), data (2), database (1)
 > **CLI Commands:** nginx (4)
-> **Code Keywords:** this. (3), let (1)
 > **Env Vars:** api (2), http (2)
 > **UI Navigation:** go to (4)
 > **URLs:** [kubernetes.io](https://kubernetes.io) (2), [k8s.io](https://k8s.io) (1)
@@ -2045,7 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), else, (1), this. (1)
+> **Frameworks & Libraries:** api (5), traffic (3), hit (3), [[Kubernetes]] (2), data (2)
 > **UI Navigation:** go to (2), open the (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (2)
@@ -2133,7 +2136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Helm]] (17), [[Kubernetes]] (4), application (2), [[Automation]] (2), ci (1)
 > **CLI Commands:** cd (2), find (1)
 > **Env Vars:** yaml (1)
 > **Definitions:** is a  (1)
@@ -2142,7 +2145,7 @@ created: 2026-04-29
 
 ### 4. Additional Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980)
@@ -2245,7 +2248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), database (4), [[Integration Testing]] (4), [[Security]] (4), cloud (2)
 > **CLI Commands:** cd (2), docker (1)
 > **Prerequisites:** setup (2), you need to have (1)
 > **Env Vars:** sast (1), dast (1)
@@ -2315,8 +2318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (4), ci (3), cd (3), [[GitHub]] (3), [[Automation]] (2)
 > **CLI Commands:** cd (3), find (2)
-> **Code Keywords:** let (2), pass (1), this, (1)
 > **Env Vars:** scm (4)
 > **Tools:** github (3)
 > **Definitions:** is a  (1)
@@ -2402,7 +2405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), extends (1), else. (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (3), cloud (3), [[Kubernetes]] (1), traffic (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [presenter] (1)
@@ -2410,7 +2413,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980)
@@ -2481,7 +2484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), try. (1), class. (1), finally, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Spring Boot]] (3), [[Helm]] (3), web (2), next (1)
 > **Env Vars:** ram (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)

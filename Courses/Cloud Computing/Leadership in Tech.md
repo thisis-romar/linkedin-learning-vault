@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leadership%20in%20Tech.md)
@@ -48,26 +48,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Promo**](#promo) (1 videos)
-  - Leadership in tech: Promo
+  - [Leadership in tech: Promo](#leadership-in-tech-promo)
 - [**1. Tech Leader Interviews**](#1-tech-leader-interviews) (14 videos)
-  - Awareness, Synthesis, and Inspiration: Jeff Weiner
-  - Building diverse teams: Mohak Shroff
-  - Authentic leadership: Kathryn Koehler
-  - Beyond coding careers in tech: Igor Perisic
-  - Work and life balance: Tanya Staples
-  - Leadership, execution, and craftsmanship: Erran Berger
-  - Feedback and career conversations: Fiona Trayler
-  - Growth mindset: Chris Pruett
-  - Career change best foot forward: Jennifer Shappley
-  - Public speaking for leaders: Tim Fortescue
-  - Paying it forward: Erica Lockheimer
-  - New leader or new team: Ya Xu
-  - Awareness and feedback: Jeff Weiner
-  - New hire career conversations: Erran Berger
+  - [Awareness, Synthesis, and Inspiration: Jeff Weiner](#awareness-synthesis-and-inspiration-jeff-weiner)
+  - [Building diverse teams: Mohak Shroff](#building-diverse-teams-mohak-shroff)
+  - [Authentic leadership: Kathryn Koehler](#authentic-leadership-kathryn-koehler)
+  - [Beyond coding careers in tech: Igor Perisic](#beyond-coding-careers-in-tech-igor-perisic)
+  - [Work and life balance: Tanya Staples](#work-and-life-balance-tanya-staples)
+  - [Leadership, execution, and craftsmanship: Erran Berger](#leadership-execution-and-craftsmanship-erran-berger)
+  - [Feedback and career conversations: Fiona Trayler](#feedback-and-career-conversations-fiona-trayler)
+  - [Growth mindset: Chris Pruett](#growth-mindset-chris-pruett)
+  - [Career change best foot forward: Jennifer Shappley](#career-change-best-foot-forward-jennifer-shappley)
+  - [Public speaking for leaders: Tim Fortescue](#public-speaking-for-leaders-tim-fortescue)
+  - [Paying it forward: Erica Lockheimer](#paying-it-forward-erica-lockheimer)
+  - [New leader or new team: Ya Xu](#new-leader-or-new-team-ya-xu)
+  - [Awareness and feedback: Jeff Weiner](#awareness-and-feedback-jeff-weiner)
+  - [New hire career conversations: Erran Berger](#new-hire-career-conversations-erran-berger)
 
 ### Promo
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leadership in tech: Promo
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980)
@@ -88,12 +88,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), leadership (1), career (1)
 > **Non-Speech:** (upbeat and pleasant rock music) (1)
 
 
 ### 1. Tech Leader Interviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Awareness, Synthesis, and Inspiration: Jeff Weiner
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980)
@@ -278,8 +279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), strengths (2), business (2), leadership (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [erica] (7), - and (3), - i (2), - no (2), - you (2)
-> **Code Keywords:** self (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1), it's like (1)
 > **Env Vars:** ceo (1)
@@ -426,9 +427,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), teams (2), career (1), product (1), [[Engineering]] (1)
 > **Speakers:** - so (2), - and (2), - yeah (2), - it (2), - yes (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** raise (1), match. (1)
 > **Analogies:** picture (1), imagine (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -565,11 +566,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (1), power (1), management (1), leadership (1), strengths (1)
 > **Speakers:** - no (3), - yeah (3), - and (2), - what (2), - in (1)
 > **CLI Commands:** make (12), find (1)
 > **Definitions:** is a  (5)
 > **Non-Speech:** (upbeat music) (4)
-> **Code Keywords:** let (2), super (1)
 
 #### Beyond coding careers in tech: Igor Perisic
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980)
@@ -798,10 +799,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[LinkedIn]] (3), career (2), [[Microsoft Products|Products]] (1), power (1)
 > **Speakers:** - and (5), - you (4), - i (4), - how (2), - it (2)
 > **Analogies:** it's like (3), just like (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), let (1)
 > **UI Navigation:** go to (2)
 > **Non-Speech:** (laughter) (1)
 
@@ -952,8 +953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), product (1), [[Microsoft Office|Office]] (1), next (1)
 > **Speakers:** - i (6), - yeah (6), - [erica] (4), - and (4), - right (3)
-> **Code Keywords:** this, (7)
 > **Analogies:** it's like (5), kind of like (1)
 > **CLI Commands:** find (2), make (2)
 > **Ports:** :00 (1), :30 (1)
@@ -1091,9 +1092,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (5), [[LinkedIn]] (3), [[Engineering]] (2), product (2), next (1)
 > **Speakers:** - yeah (4), - yes (2), - and (2), - leadership (1), - outside (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** super (1), this. (1)
 > **Tools:** notion (2)
 > **Env Vars:** lec (1)
 > **Non-Speech:** (upbeat pop music) (1)
@@ -1263,8 +1264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5), business (2), [[LinkedIn]] (1), teams (1), feature (1)
 > **Speakers:** - i (3), - yeah (2), - early (1), - got (1), - never (1)
-> **Code Keywords:** super (1), else. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Versions:** version 2 (1)
@@ -1367,8 +1368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), career (3), [[Engineering]] (1), business (1), next (1)
 > **Speakers:** - you (3), - i (2), - having (1), - exactly (1), - [chris] (1)
-> **Code Keywords:** let (3), self (2), super (1), continue (1), this, (1)
 > **Analogies:** it's like (5), for example (2), just like (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Prerequisites:** you need to have (1)
@@ -1483,9 +1484,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (4), teams (3), hr (3), [[Engineering]] (2), [[LinkedIn]] (2)
 > **Speakers:** - yeah (3), - and (3), - i (2), - no (2), - finding (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (4)
 > **Non-Speech:** (upbeat music) (4)
 > **UI Navigation:** go to (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -1562,7 +1563,6 @@ created: 2026-04-29
 >
 > **Speakers:** - yeah (4), - so (1), - and (1), - yep (1), - authenticity (1)
 > **Non-Speech:** (upbeat music) (3)
-> **Code Keywords:** public (1), else, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
@@ -1606,6 +1606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), [[LinkedIn]] (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - early (1)
@@ -1683,8 +1684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft]] (1), [[LinkedIn]] (1), data (1), leadership (1)
 > **Speakers:** - and (3), - a (2), - ya (1), - absolutely (1), - definitely (1)
-> **Code Keywords:** super (2), this, (1)
 > **Non-Speech:** (upbeat music) (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** coming up (1)
@@ -1763,8 +1764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1), next (1)
 > **Speakers:** - and (4), - way (2), - got (2), - let (1), - right (1)
-> **Code Keywords:** let (1), case, (1)
 > **Non-Speech:** (upbeat hip hop music) (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -1828,8 +1829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), career (1), [[LinkedIn]] (1)
 > **Speakers:** - i (3), - how (1), - on (1), - what (1), - and (1)
-> **Code Keywords:** else. (1), let (1), this. (1)
 > **Non-Speech:** (upbeat drum music) (1)
 
 

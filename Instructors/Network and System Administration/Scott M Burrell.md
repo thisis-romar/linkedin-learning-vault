@@ -9,7 +9,7 @@ linkedin_topics:
 tags:
   - instructor
   - topic/network-and-system-administration
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Network%20and%20System%20Administration/Scott%20M%20Burrell.md)

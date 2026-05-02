@@ -32,7 +32,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/RAG%20Fine-Tuning-%20Advanced%20Techniques%20for%20Accuracy%20and%20Model%20Performance.md)
@@ -51,30 +51,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to RAG and fine-tuning
+  - [Welcome to RAG and fine-tuning](#welcome-to-rag-and-fine-tuning)
 - [**1. Introduction to RAG**](#1-introduction-to-rag) (3 videos)
-  - Understanding RAG
-  - What is fine-tuning?
-  - Combining RAG and fine-tuning: RAFT
+  - [Understanding RAG](#understanding-rag)
+  - [What is fine-tuning?](#what-is-fine-tuning)
+  - [Combining RAG and fine-tuning: RAFT](#combining-rag-and-fine-tuning-raft)
 - [**2. RAFT technique**](#2-raft-technique) (3 videos)
-  - Understand RAFT
-  - Fine-tuning and inference
-  - Results of RAFT
+  - [Understand RAFT](#understand-raft)
+  - [Fine-tuning and inference](#fine-tuning-and-inference)
+  - [Results of RAFT](#results-of-raft)
 - [**3. Dataset Preparation for RAFT**](#3-dataset-preparation-for-raft) (4 videos)
-  - Preparing the data for RAFT
-  - Q&A pair generation
-  - Adding answers to document-question pairs
-  - Generate and save dataset
+  - [Preparing the data for RAFT](#preparing-the-data-for-raft)
+  - [Q&A pair generation](#qa-pair-generation)
+  - [Adding answers to document-question pairs](#adding-answers-to-document-question-pairs)
+  - [Generate and save dataset](#generate-and-save-dataset)
 - [**4. Fine-Tune the Model in Hugging Face**](#4-fine-tune-the-model-in-hugging-face) (3 videos)
-  - Intro to Hugging Face
-  - Fine-tuning the Llama 3.2 model on Hugging Face
-  - Using the fine-tuned model
+  - [Intro to Hugging Face](#intro-to-hugging-face)
+  - [Fine-tuning the Llama 3.2 model on Hugging Face](#fine-tuning-the-llama-32-model-on-hugging-face)
+  - [Using the fine-tuned model](#using-the-fine-tuned-model)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with RAG and fine-tuning
+  - [Next steps with RAG and fine-tuning](#next-steps-with-rag-and-fine-tuning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to RAG and fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980)
@@ -99,15 +99,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Large Language Models (LLM)|Large language models]] (1), data (1), rag (1), [[Hugging Face]] (1)
 > **Env Vars:** raft (2), rag (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [harshit] (1)
 
 
 ### 1. Introduction to RAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understanding-rag?u=76281980)
@@ -144,8 +144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (8), ai (4), data (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), game (1)
 > **Env Vars:** rag (8)
-> **Code Keywords:** finally, (3), let (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** think of it as (1)
@@ -208,8 +208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), rag (1), next (1)
 > **Analogies:** just like (2), imagine (1), it's like (1), similar to (1)
-> **Code Keywords:** let (3), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** rag (1), raft (1)
 > **Warnings:** keep in mind (1)
@@ -272,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (9), [[Fine Tuning]] (2), next (2), data (2), ai (1)
 > **Env Vars:** rag (9), raft (9)
-> **Code Keywords:** let (5), finally, (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -282,7 +282,7 @@ created: 2026-04-29
 
 ### 2. RAFT technique
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand RAFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understand-raft?u=76281980)
@@ -331,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (1), llm (1), next (1)
 > **Env Vars:** raft (5), rag (1), llm (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -387,7 +387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** next (2), data (1), [[Supervised Learning]] (1)
 > **Env Vars:** raft (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -449,10 +449,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (5), data (3), [[Hugging Face]] (1), [[TensorFlow]] (1), api (1)
 > **Env Vars:** raft (13), rag (5), gpt (2), api (1), dsf (1)
 > **Versions:** 3.5 (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -460,7 +460,7 @@ created: 2026-04-29
 
 ### 3. Dataset Preparation for RAFT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing the data for RAFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980)
@@ -615,8 +615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (9), [[OpenAI API]] (7), hit (5), next (5), [[Metadata]] (4)
 > **Env Vars:** pdf (9), api (8), raft (2), gpt (1), ram (1)
-> **Code Keywords:** function (8), let (6), module (2), this. (2), finally, (1)
 > **Tools:** colab (8)
 > **UI Navigation:** click on (4), toggle (1), select the (1)
 > **CLI Commands:** make (2), python (2)
@@ -723,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (2), let (1), for. (1), this. (1)
+> **Frameworks & Libraries:** next (5), prompt (4), data (1), [[LangChain]] (1), [[Banking]] (1)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
@@ -819,7 +819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), finally, (2), this, (2), let (1), require (1)
+> **Frameworks & Libraries:** parallel (5), prompt (3), next (2), data (1), [[LangChain]] (1)
 > **Code Identifiers:** generate_answer (1), generate_triplets_in_parallel (1)
 > **Env Vars:** gpt (1), api (1)
 > **Cross-References:** in the next (1)
@@ -892,9 +892,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[JSON]] (9), [[Fine Tuning]] (3), [[Pandas (Software)|Pandas]] (2), [[Hugging Face]] (1)
 > **Env Vars:** json (9), csv (3)
 > **Definitions:** is a  (2), basically means (1)
-> **Code Keywords:** let (2)
 > **Tools:** colab (2)
 > **Cross-References:** next chapter (1)
 > **Warnings:** keep in mind (1)
@@ -903,7 +903,7 @@ created: 2026-04-29
 
 ### 4. Fine-Tune the Model in Hugging Face
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980)
@@ -974,9 +974,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (7), ai (5), cloud (3), [[LLaMA]] (3), data (3)
 > **CLI Commands:** find (3), aws (2), make (1)
 > **Env Vars:** aws (2), gpt (1), nlp (1)
-> **Code Keywords:** case, (1), let (1)
 > **Versions:** 3.2 (2)
 > **Tools:** github (2)
 > **Analogies:** just like (1), for example (1)
@@ -1114,7 +1114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (3), this, (1), public (1), this. (1)
+> **Frameworks & Libraries:** [[LLaMA]] (6), [[Hardware]] (3), [[Hugging Face]] (2), next (2), data (1)
 > **Env Vars:** nvidia (3), a10g (2), sdk (1), ram (1), gpu (1)
 > **UI Navigation:** click on (4), select the (2), dropdown (1), go to (1)
 > **Versions:** 3.2 (5)
@@ -1198,7 +1198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), pass (2), private (1), finally, (1), from. (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[LLaMA]] (3), [[Hugging Face]] (2), [[Fine Tuning]] (1)
 > **Env Vars:** gpu (1), cpu (1), cuda (1), pdf (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** before we start (1), you'll need (1)
@@ -1210,7 +1210,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with RAG and fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980)
@@ -1243,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** ai (4), data (2), [[LinkedIn]] (2), [[LangChain]] (1), [[Hugging Face]] (1)
 > **Env Vars:** raft (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)

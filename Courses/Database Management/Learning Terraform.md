@@ -30,7 +30,7 @@ tags:
   - topic/devops
   - skill/terraform
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20Terraform.md)
@@ -49,43 +49,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn Terraform for your cloud infrastructure
-  - What you need
+  - [Learn Terraform for your cloud infrastructure](#learn-terraform-for-your-cloud-infrastructure)
+  - [What you need](#what-you-need)
 - [**1. First Steps with Terraform**](#1-first-steps-with-terraform) (4 videos)
-  - What is Terraform?
-  - Your Terraform code repo
-  - Setting up AWS for Terraform
-  - Terraform Cloud
+  - [What is Terraform?](#what-is-terraform)
+  - [Your Terraform code repo](#your-terraform-code-repo)
+  - [Setting up AWS for Terraform](#setting-up-aws-for-terraform)
+  - [Terraform Cloud](#terraform-cloud)
 - [**2. Terraform in Action**](#2-terraform-in-action) (6 videos)
-  - Terraform plan
-  - First Terraform run
-  - How Terraform works
-  - Terraform states
-  - Editing your code
-  - Understanding Terraform errors
+  - [Terraform plan](#terraform-plan)
+  - [First Terraform run](#first-terraform-run)
+  - [How Terraform works](#how-terraform-works)
+  - [Terraform states](#terraform-states)
+  - [Editing your code](#editing-your-code)
+  - [Understanding Terraform errors](#understanding-terraform-errors)
 - [**3. Infrastructure as Code**](#3-infrastructure-as-code) (7 videos)
-  - Resources
-  - Basic resource types
-  - Terraform style
-  - Security group
-  - Using modules
-  - Terraform registry: Providers
-  - Terraform registry: Modules
+  - [Resources](#resources)
+  - [Basic resource types](#basic-resource-types)
+  - [Terraform style](#terraform-style)
+  - [Security group](#security-group)
+  - [Using modules](#using-modules)
+  - [Terraform registry: Providers](#terraform-registry-providers)
+  - [Terraform registry: Modules](#terraform-registry-modules)
 - [**4. Advanced Topics**](#4-advanced-topics) (8 videos)
-  - Get ready to scale
-  - Expanding your installation
-  - Variables
-  - Split out your data
-  - Modularize
-  - Deploying environments
-  - Cleaning up: Terraform destroy
-  - Terraform CLI
+  - [Get ready to scale](#get-ready-to-scale)
+  - [Expanding your installation](#expanding-your-installation)
+  - [Variables](#variables)
+  - [Split out your data](#split-out-your-data)
+  - [Modularize](#modularize)
+  - [Deploying environments](#deploying-environments)
+  - [Cleaning up: Terraform destroy](#cleaning-up-terraform-destroy)
+  - [Terraform CLI](#terraform-cli)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Terraform for your cloud infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (3), [[Cloud Infrastructure]] (1), aws (1), functional (1), cloud (1)
 > **CLI Commands:** terraform (3), aws (1)
-> **Code Keywords:** module (1), let (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** aws (1)
 > **Speakers:** - [josh] (1)
@@ -147,17 +147,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (4), aws (4), cloud (2), web (1), [[GitHub]] (1)
 > **CLI Commands:** terraform (4), aws (4), git (1)
 > **Prerequisites:** you'll need (4), set up (1)
 > **Env Vars:** aws (4)
-> **Code Keywords:** let (2)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. First Steps with Terraform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Terraform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980)
@@ -210,9 +210,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (16), [[Kubernetes]] (5), management (4), cloud (4), application (3)
 > **CLI Commands:** terraform (16), make (1), docker (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
-> **Code Keywords:** let (1), throw (1), finally, (1)
 > **Analogies:** for example (1), picture (1)
 > **Tools:** command line (1)
 > **UI Navigation:** go to (1)
@@ -262,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Terraform]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** terraform (2), find (1)
-> **Code Keywords:** this. (1), let (1), switch (1)
 > **Tools:** github (3)
 > **Exercise Files:** exercise files (2), github repo (1)
 > **Cross-References:** later in (1)
@@ -377,10 +377,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), [[Terraform]] (9), next (3), [[Security]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** aws (10), terraform (9), make (2)
 > **Env Vars:** aws (9), iam (2), csv (2)
 > **UI Navigation:** scroll down (4), go to (3), click on (3)
-> **Code Keywords:** delete (3), this. (2), case. (1), for. (1)
 > **Prerequisites:** set up (2), you'll need (1), setup (1)
 > **Definitions:** is a  (2)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -505,9 +505,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (13), cloud (6), [[GitHub]] (6), aws (4), [[Version Control]] (2)
 > **CLI Commands:** terraform (13), make (4), aws (4)
 > **Prerequisites:** set up (5), install (3), configure (1)
-> **Code Keywords:** case, (4), let (2), continue (1), this. (1)
 > **Tools:** github (6), command line (2)
 > **Env Vars:** aws (4), aws_access_key_id (1), aws_secret_access_key (1)
 > **UI Navigation:** go to (1), scroll down (1), dropdown (1), select the (1), click on (1)
@@ -517,7 +517,7 @@ created: 2026-04-29
 
 ### 2. Terraform in Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Terraform plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980)
@@ -598,10 +598,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (6), web (2), aws (2), data (2), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** terraform (6), aws (2), find (2)
 > **Env Vars:** ami (3), aws (2), ec2 (1)
 > **UI Navigation:** scroll down (2), click on (1), dropdown (1), go to (1)
-> **Code Keywords:** let (3), type, (1)
 > **Code Identifiers:** aws_instance (1), get_password_data (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -682,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), public (2), interface (1), default. (1)
+> **Frameworks & Libraries:** [[Terraform]] (4), aws (3), cloud (2), web (2), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** terraform (4), aws (3)
 > **Env Vars:** aws (3), ec2 (2), dns (1), ebs (1)
 > **UI Navigation:** go to (2), scroll down (1), click on (1), checkbox (1)
@@ -764,10 +764,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (17), data (4), node (3), aws (2), [[Security]] (2)
 > **CLI Commands:** terraform (17), make (4), node (3), aws (2)
 > **Definitions:** means that (3), known as (1), is a  (1), is an  (1)
 > **Env Vars:** aws (2), api (1), ec2 (1)
-> **Code Keywords:** function (1), static (1)
 > **Speakers:** - [instructor] (1)
 
 #### Terraform states
@@ -815,6 +815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (6), aws (3), cloud (2), [[Microsoft Word|Word]] (1), [[JSON]] (1)
 > **CLI Commands:** terraform (6), aws (3), find (3)
 > **Env Vars:** aws (3), json (1), ami (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -913,9 +914,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (5), [[GitHub]] (3), cloud (3), [[Microsoft Word|Word]] (1), aws (1)
 > **UI Navigation:** go to (5), click on (3), scroll down (1), dropdown (1)
 > **CLI Commands:** terraform (5), find (1), aws (1)
-> **Code Keywords:** let (3), this. (1), var (1)
 > **Tools:** github (3)
 > **Exercise Files:** starter code (1), github repo (1)
 > **URLs:** [github.dev](https://github.dev) (1)
@@ -1025,8 +1026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (9), web (7), aws (2), cloud (1)
 > **CLI Commands:** terraform (9), make (2), aws (2)
-> **Code Keywords:** let (9), delete (2), interface (1)
 > **UI Navigation:** scroll down (3), go to (2), click on (1)
 > **Cross-References:** go back to (4)
 > **Env Vars:** aws (2)
@@ -1037,7 +1038,7 @@ created: 2026-04-29
 
 ### 3. Infrastructure as Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980)
@@ -1094,8 +1095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (9), aws (6), [[Microsoft Word|Word]] (2), [[Microsoft Azure|Azure]] (1), next (1)
 > **CLI Commands:** terraform (9), aws (6), make (1)
-> **Code Keywords:** let (2), finally, (2), self (1), type, (1), case, (1)
 > **Env Vars:** aws (6)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Prerequisites:** you'll need (1), you need to have (1)
@@ -1182,8 +1183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (8), aws (5), [[Security]] (3), data (1), cloud (1)
 > **CLI Commands:** terraform (8), aws (5)
-> **Code Keywords:** case, (5), public (2), static (2), let (1), finally, (1)
 > **Env Vars:** aws (5), ami (3), vpc (2), acl (1), cidr (1)
 > **Definitions:** is a  (1), stands for (1), is an  (1), is called (1)
 > **Code Identifiers:** aws_instance (1), aws_eip (1)
@@ -1241,8 +1242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (10), aws (1)
 > **CLI Commands:** terraform (10), aws (1), make (1)
-> **Code Keywords:** let (2), pass (1), case, (1), finally, (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1385,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default. (3), case, (2), public (2), for. (1)
+> **Frameworks & Libraries:** [[Security]] (16), data (4), aws (2), [[Terraform]] (2), web (2)
 > **Env Vars:** vpc (6), http (3), aws (2), https (2), cidr (2)
 > **Code Identifiers:** aws_security_group (3), aws_vpc (2), vpc_id (1), aws_security_group_rule (1), blog_http_in (1)
 > **CLI Commands:** aws (2), terraform (2), find (2), make (1)
@@ -1469,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (18), pass (2), public (2), finally, (2), let (1)
+> **Frameworks & Libraries:** [[Terraform]] (4), data (3), web (2), dns (2), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** terraform (4), find (2), make (1), git (1)
 > **Env Vars:** dns (2), ec2 (2), ami (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -1541,9 +1542,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[Kubernetes]] (6), [[Terraform]] (4), next (2), cloud (2)
 > **CLI Commands:** aws (9), terraform (4), find (4)
 > **Env Vars:** aws (9), ec2 (1), ami (1)
-> **Code Keywords:** let (4), for. (1), type, (1), public (1)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** go to (1), click on (1)
 > **URLs:** [terraform.io](https://terraform.io) (1)
@@ -1729,7 +1730,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (19), let (14), this. (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (14), [[Terraform]] (3), aws (2), feature (1), [[Search]] (1)
 > **CLI Commands:** find (7), terraform (3), aws (2), make (2)
 > **Env Vars:** aws (2), cidr (2), vpc (1), http (1), https (1)
 > **Code Identifiers:** blog_sg (2), blog_new (1), ingress_rules (1), ingress_cidr_blocks (1), security_group_id (1)
@@ -1741,7 +1742,7 @@ created: 2026-04-29
 
 ### 4. Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get ready to scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980)
@@ -1894,7 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), module (3), delete (3), this, (3), this. (2)
+> **Frameworks & Libraries:** [[Terraform]] (13), aws (2), [[GitHub]] (2), hit (2), cloud (2)
 > **CLI Commands:** terraform (13), make (4), aws (2), find (1)
 > **Env Vars:** vpc (12), aws (2), nat (1), vpn (1)
 > **UI Navigation:** scroll down (3), go to (2)
@@ -2250,7 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), module (17), delete (12), case, (4), this. (3)
+> **Frameworks & Libraries:** [[Security]] (11), aws (10), [[Terraform]] (7), [[Search]] (4), traffic (4)
 > **Env Vars:** aws (9), alb (7), vpc (5), arn (4), ami (3)
 > **CLI Commands:** aws (10), terraform (7), make (3), find (2), apache (1)
 > **Prerequisites:** set up (12), setup (1)
@@ -2316,8 +2317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (5), data (4), aws (2), next (2), [[Security]] (1)
 > **CLI Commands:** terraform (5), aws (2)
-> **Code Keywords:** this. (2), override (1), var (1), let (1), self (1)
 > **Env Vars:** ami (3), aws (2), asg (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), similar to (1)
@@ -2506,7 +2507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (32), var (8), delete (3), module (1), type. (1)
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (2), [[Terraform]] (2), [[Git]] (1), [[Security]] (1)
 > **CLI Commands:** make (13), terraform (2), git (1), find (1)
 > **Env Vars:** ami (6), alb (2), asg (2), var (2), vpc (1)
 > **Versions:** 10.0 (3), 10.1 (1), 10.2 (1)
@@ -2785,7 +2786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (20), let (19), delete (4), this. (2), case, (2)
+> **Frameworks & Libraries:** [[Terraform]] (16), dns (4), aws (3), web (1), [[Search]] (1)
 > **CLI Commands:** terraform (16), make (7), aws (3), find (2)
 > **Env Vars:** alb (9), dns (4), aws (3), vpc (3), url (1)
 > **UI Navigation:** click on (4), scroll down (3), go to (1)
@@ -3031,7 +3032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), module (6), this, (2), continue (1), var (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), aws (5), cloud (4), [[GitHub]] (2), [[Version Control]] (1)
 > **CLI Commands:** terraform (5), aws (5), make (3), apache (1)
 > **Env Vars:** aws (5), url (4), alb (2), vpc (1), ami (1)
 > **Prerequisites:** set up (6), configure (1), you'll need (1)
@@ -3221,7 +3222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), delete (8), case, (2), this. (2), case. (1)
+> **Frameworks & Libraries:** [[Terraform]] (10), aws (3), [[Amazon EC2|Ec2]] (3), cloud (1)
 > **CLI Commands:** terraform (10), aws (3), make (3), find (1)
 > **Env Vars:** alb (5), aws (3), ec2 (3), vpc (1)
 > **UI Navigation:** click on (5), go to (5), scroll down (2)
@@ -3432,8 +3433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (34), cloud (7), aws (3), open-source (2), web (2)
 > **CLI Commands:** terraform (34), make (3), find (3), aws (3)
-> **Code Keywords:** let (11), delete (3), this. (2), interface (2), for, (1)
 > **Tools:** command line (7), terminal (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (3), you'll need (1)
@@ -3444,7 +3445,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980)
@@ -3501,9 +3502,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (11), aws (3), cloud (2), next (1), application (1)
 > **CLI Commands:** terraform (11), find (4), aws (3)
 > **Env Vars:** aws (3)
-> **Code Keywords:** let (1), module (1)
 > **Documentation:** the documentation (1), the docs (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)

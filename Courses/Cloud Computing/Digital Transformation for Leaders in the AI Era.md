@@ -33,7 +33,7 @@ tags:
   - skill/digital-transformation
   - skill/team-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Transformation%20for%20Leaders%20in%20the%20AI%20Era.md)
@@ -52,30 +52,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Digital transformation for leaders
+  - [Digital transformation for leaders](#digital-transformation-for-leaders)
 - [**1. Transforming the Digital Business Landscape**](#1-transforming-the-digital-business-landscape) (2 videos)
-  - Digital transformation's next wave
-  - Digital transformation business objectives
+  - [Digital transformation's next wave](#digital-transformations-next-wave)
+  - [Digital transformation business objectives](#digital-transformation-business-objectives)
 - [**2.Translate Big Ideas into Transformation Initiatives**](#2translate-big-ideas-into-transformation-initiatives) (3 videos)
-  - Evolving a digital strategy
-  - Repositioning transitions into transformation
-  - How does AI impact digital strategy
+  - [Evolving a digital strategy](#evolving-a-digital-strategy)
+  - [Repositioning transitions into transformation](#repositioning-transitions-into-transformation)
+  - [How does AI impact digital strategy](#how-does-ai-impact-digital-strategy)
 - [**3. Digital Transformation Core Competencies**](#3-digital-transformation-core-competencies) (5 videos)
-  - Key leadership roles in transformation initiatives
-  - The ecosystems transformation leaders must influence
-  - Why Agile is a fundamental transformation practice
-  - Which innovation practices drive transformation
-  - Technology in digital transformation
+  - [Key leadership roles in transformation initiatives](#key-leadership-roles-in-transformation-initiatives)
+  - [The ecosystems transformation leaders must influence](#the-ecosystems-transformation-leaders-must-influence)
+  - [Why Agile is a fundamental transformation practice](#why-agile-is-a-fundamental-transformation-practice)
+  - [Which innovation practices drive transformation](#which-innovation-practices-drive-transformation)
+  - [Technology in digital transformation](#technology-in-digital-transformation)
 - [**4. Delivering Ongoing Impact through Transformation**](#4-delivering-ongoing-impact-through-transformation) (3 videos)
-  - Where to find AI's transformational use cases
-  - Digital transformation and organizational culture
-  - Measuring success in digital transformation
+  - [Where to find AI's transformational use cases](#where-to-find-ais-transformational-use-cases)
+  - [Digital transformation and organizational culture](#digital-transformation-and-organizational-culture)
+  - [Measuring success in digital transformation](#measuring-success-in-digital-transformation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Key takeaways for leading digital transformation
+  - [Key takeaways for leading digital transformation](#key-takeaways-for-leading-digital-transformation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital transformation for leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980)
@@ -102,13 +102,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1), data (1), product (1), management (1), [[Digital Transformation]] (1)
 > **Env Vars:** cto (1), cio (1)
 > **Speakers:** - over (1)
 
 
 ### 1. Transforming the Digital Business Landscape
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital transformation's next wave
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980)
@@ -179,9 +180,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), ai (4), teams (2), data (2), [[Analytics]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 
 #### Digital transformation business objectives
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1)
+> **Frameworks & Libraries:** business (9), [[Digital Transformation]] (5), ai (4), [[Microsoft Products|Products]] (4), data (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -268,7 +269,7 @@ created: 2026-04-29
 
 ### 2.Translate Big Ideas into Transformation Initiatives
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evolving a digital strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980)
@@ -349,9 +350,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Digital Transformation]] (1), cloud (1), ai (1), business (1)
 > **Exercise Files:** template (3), exercise files (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - here (1)
 
@@ -450,7 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1)
+> **Frameworks & Libraries:** product (3), [[E-Commerce]] (2), business (2), cloud (1), [[Search]] (1)
 > **Env Vars:** crm (1), erp (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - transitions (1)
@@ -536,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), super (1)
+> **Frameworks & Libraries:** ai (23), data (6), teams (4), hr (2), next (2)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the last (1)
@@ -546,7 +547,7 @@ created: 2026-04-29
 
 ### 3. Digital Transformation Core Competencies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key leadership roles in transformation initiatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980)
@@ -625,8 +626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), product (6), [[Agile Development|Agile]] (5), teams (5), functional (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Speakers:** - on (1)
@@ -712,7 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), management (3), leadership (3), next (3), product (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -822,7 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), self (1), raise (1)
+> **Frameworks & Libraries:** teams (15), [[Agile Development|Agile]] (10), [[Scrum]] (7), product (5), management (4)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -928,7 +929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2)
+> **Frameworks & Libraries:** data (16), ai (11), management (8), [[Agile Development|Agile]] (7), [[Security]] (4)
 > **Analogies:** such as (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -1012,7 +1013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1)
+> **Frameworks & Libraries:** business (5), [[Microsoft Products|Products]] (5), data (4), ai (4), product (2)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** crm (1)
 > **Tools:** notion (1)
@@ -1021,7 +1022,7 @@ created: 2026-04-29
 
 ### 4. Delivering Ongoing Impact through Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to find AI's transformational use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980)
@@ -1112,9 +1113,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), data (7), [[Security]] (3), product (2), business (2)
 > **Env Vars:** cfo (2), cmo (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
@@ -1193,7 +1194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), require (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4), data (2), ai (1), next (1)
 > **Analogies:** such as (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - you (1)
@@ -1277,8 +1278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Digital Transformation]] (5), data (3), product (2), [[Automation]] (1)
 > **Env Vars:** ceo (2), okr (1), kpi (1)
-> **Code Keywords:** require (2), let (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
@@ -1287,7 +1288,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways for leading digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980)
@@ -1338,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), from, (1)
+> **Frameworks & Libraries:** leadership (3), [[Digital Transformation]] (1), [[Agile Development|Agile]] (1), business (1), [[Microsoft Office|Office]] (1)
 > **Ports:** :00 (1)
 > **Speakers:** - thank (1)
 

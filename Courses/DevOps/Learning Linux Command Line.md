@@ -29,7 +29,7 @@ tags:
   - skill/linux-system-administration
   - skill/cli
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Linux%20Command%20Line.md)
@@ -48,62 +48,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learning Linux command line
-  - What you should know
-  - A very quick intro to Linux
+  - [Learning Linux command line](#learning-linux-command-line)
+  - [What you should know](#what-you-should-know)
+  - [A very quick intro to Linux](#a-very-quick-intro-to-linux)
 - [**1. Setting Up Your Environment**](#1-setting-up-your-environment) (3 videos)
-  - Using GitHub Codespaces with this course
-  - Creating a Linux virtual machine
-  - Following along on other platforms
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
+  - [Creating a Linux virtual machine](#creating-a-linux-virtual-machine)
+  - [Following along on other platforms](#following-along-on-other-platforms)
 - [**2. Command-Line Basics**](#2-command-line-basics) (7 videos)
-  - What is the command line?
-  - Understand how commands are structured
-  - Write commands in a shell at the prompt
-  - Finding help for commands
-  - Helpful keyboard shortcuts in the terminal
-  - Challenge: Find command information
-  - Solution: Find command information
+  - [What is the command line?](#what-is-the-command-line)
+  - [Understand how commands are structured](#understand-how-commands-are-structured)
+  - [Write commands in a shell at the prompt](#write-commands-in-a-shell-at-the-prompt)
+  - [Finding help for commands](#finding-help-for-commands)
+  - [Helpful keyboard shortcuts in the terminal](#helpful-keyboard-shortcuts-in-the-terminal)
+  - [Challenge: Find command information](#challenge-find-command-information)
+  - [Solution: Find command information](#solution-find-command-information)
 - [**3. Files, Directories, and Permissions**](#3-files-directories-and-permissions) (15 videos)
-  - The Linux file system
-  - Understanding file paths
-  - Navigating the file system
-  - Finding directory and file information
-  - Create and remove directories
-  - Copy, move, and delete files and directories
-  - Find files from the command line
-  - Understand user roles and sudo
-  - Understand file permissions
-  - Modify file permissions
-  - Create hard and symbolic links
-  - Challenge: Fix broken syntax
-  - Solution: Fix broken syntax
-  - Challenge: Practice working with files
-  - Solution: Practice working with files
+  - [The Linux file system](#the-linux-file-system)
+  - [Understanding file paths](#understanding-file-paths)
+  - [Navigating the file system](#navigating-the-file-system)
+  - [Finding directory and file information](#finding-directory-and-file-information)
+  - [Create and remove directories](#create-and-remove-directories)
+  - [Copy, move, and delete files and directories](#copy-move-and-delete-files-and-directories)
+  - [Find files from the command line](#find-files-from-the-command-line)
+  - [Understand user roles and sudo](#understand-user-roles-and-sudo)
+  - [Understand file permissions](#understand-file-permissions)
+  - [Modify file permissions](#modify-file-permissions)
+  - [Create hard and symbolic links](#create-hard-and-symbolic-links)
+  - [Challenge: Fix broken syntax](#challenge-fix-broken-syntax)
+  - [Solution: Fix broken syntax](#solution-fix-broken-syntax)
+  - [Challenge: Practice working with files](#challenge-practice-working-with-files)
+  - [Solution: Practice working with files](#solution-practice-working-with-files)
 - [**4. Common Command-Line Tasks and Tools**](#4-common-command-line-tasks-and-tools) (14 videos)
-  - The importance of modularity
-  - Use pipes to connect commands together
-  - View text files with cat, head, tail, and less
-  - Search for text in files and streams with grep
-  - Manipulate text with awk, sed, and sort
-  - Edit text with Vim
-  - Edit text with nano
-  - Working with tar and zip archives
-  - Challenge: Create and share a file
-  - Solution: Create and share a file
-  - Output redirection
-  - Exploring environment variables and PATH
-  - Challenge: Extract information from a text file
-  - Solution: Extract information from a text file
+  - [The importance of modularity](#the-importance-of-modularity)
+  - [Use pipes to connect commands together](#use-pipes-to-connect-commands-together)
+  - [View text files with cat, head, tail, and less](#view-text-files-with-cat-head-tail-and-less)
+  - [Search for text in files and streams with grep](#search-for-text-in-files-and-streams-with-grep)
+  - [Manipulate text with awk, sed, and sort](#manipulate-text-with-awk-sed-and-sort)
+  - [Edit text with Vim](#edit-text-with-vim)
+  - [Edit text with nano](#edit-text-with-nano)
+  - [Working with tar and zip archives](#working-with-tar-and-zip-archives)
+  - [Challenge: Create and share a file](#challenge-create-and-share-a-file)
+  - [Solution: Create and share a file](#solution-create-and-share-a-file)
+  - [Output redirection](#output-redirection)
+  - [Exploring environment variables and PATH](#exploring-environment-variables-and-path)
+  - [Challenge: Extract information from a text file](#challenge-extract-information-from-a-text-file)
+  - [Solution: Extract information from a text file](#solution-extract-information-from-a-text-file)
 - [**5. A Peek at Some More Advanced Topics**](#5-a-peek-at-some-more-advanced-topics) (3 videos)
-  - Find information about your Linux distribution
-  - Find system hardware and disk information
-  - Install and update software with a package manager
+  - [Find information about your Linux distribution](#find-information-about-your-linux-distribution)
+  - [Find system hardware and disk information](#find-system-hardware-and-disk-information)
+  - [Install and update software with a package manager](#install-and-update-software-with-a-package-manager)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Linux command line
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980)
@@ -134,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Linux]] (2), [[Windows]] (1), [[User Management]] (1), [[Programming]] (1)
 > **Tools:** command line (2), bash (2)
-> **Code Keywords:** interface (1), let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [scott] (1)
 
@@ -182,6 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[GitHub]] (3), [[Windows]] (2), next (2), [[Ubuntu]] (1)
 > **Tools:** command line (3), github (3)
 > **CLI Commands:** make (1), git (1), find (1)
 > **Cross-References:** in the next (2)
@@ -240,11 +241,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (22), [[Ubuntu]] (4), [[Hardware]] (2), web (1), [[Kali Linux]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** gnu (3), minix (1)
 > **Tools:** command line (2), bash (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** public (1), interface (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -252,7 +253,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GitHub Codespaces with this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980)
@@ -317,10 +318,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (10), [[Linux]] (6), [[GitHub]] (6), [[Software Development]] (2), cloud (2)
 > **Tools:** terminal (7), github (6), command line (3), bash (1)
 > **CLI Commands:** make (2), find (1), cd (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this. (1), super (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -511,12 +512,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (9), next (6), [[Linux]] (4), [[GitHub]] (4), [[Windows]] (4)
 > **Tools:** terminal (7), github (4), command line (1), firefox (1)
 > **UI Navigation:** click on (8), open the (3), go to (1)
 > **CLI Commands:** make (7), find (3)
 > **Prerequisites:** install (6), you'll need (3), set up (1)
 > **Exercise Files:** download the (5), exercise files (4)
-> **Code Keywords:** let (2), case, (2), else, (1), require (1), while, (1)
 > **URLs:** [virtualbox.org](https://virtualbox.org) (2), [ubuntu.com](https://ubuntu.com) (2)
 > **Env Vars:** iso (1), cpu (1)
 
@@ -567,10 +568,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (11), [[Windows]] (6), [[GitHub]] (2), [[Codespaces]] (1), [[Windows 10]] (1)
 > **Env Vars:** wsl (1), utm (1), amd64 (1), arm64 (1), ar64 (1)
 > **Tools:** bash (3), github (2), terminal (2)
 > **CLI Commands:** make (2), find (1), ssh (1), git (1), unzip (1)
-> **Code Keywords:** interface (3), this, (1), default, (1)
 > **Exercise Files:** exercise files (1), zip file (1)
 > **Definitions:** means that (1), is called (1)
 > **Code Identifiers:** macos (1)
@@ -579,7 +580,7 @@ created: 2026-04-29
 
 ### 2. Command-Line Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the command line?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980)
@@ -656,8 +657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (3), [[Software Development]] (2), data (2), web (1)
 > **Tools:** bash (8), terminal (7)
-> **Code Keywords:** interface (8), extends (1), continue (1)
 > **Env Vars:** gui (2)
 > **Definitions:** is a  (1), is called (1)
 > **Code Identifiers:** macos (1)
@@ -777,9 +778,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1), [[Linux]] (1)
 > **CLI Commands:** ls (6), grep (3), make (2), cat (1)
 > **Tools:** command line (7)
-> **Code Keywords:** let (1), this. (1), else. (1)
 > **Documentation:** the documentation (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -877,8 +878,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), application (2), [[Search]] (1), [[Linux]] (1), next (1)
 > **CLI Commands:** ls (6), find (3), rails (1)
-> **Code Keywords:** case, (3), let (2), interface (2), type, (1), from. (1)
 > **Tools:** terminal (4), command line (1), bash (1)
 > **Speakers:** - [instructor] (1), - l (1)
 > **Env Vars:** gnu (1)
@@ -1007,9 +1008,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), hit (2), [[Programming]] (1), feature (1), prompt (1)
 > **CLI Commands:** ls (8), find (5)
 > **Tools:** command line (5), bash (4), terminal (1)
-> **Code Keywords:** let (2), switch (1), case, (1)
 > **Documentation:** the documentation (2), man page (1)
 > **Cross-References:** go back to (2)
 > **Env Vars:** ctrl (1)
@@ -1125,8 +1126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[Microsoft Word|Word]] (2), feature (1), hit (1), next (1)
 > **Tools:** command line (5), bash (5), terminal (2)
-> **Code Keywords:** return. (2), let (2), pass (2), delete (2), switch (1)
 > **CLI Commands:** ls (2), find (1), make (1)
 > **Env Vars:** ctrl (2), doc (1)
 > **Definitions:** is a  (3)
@@ -1150,7 +1151,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
 > **CLI Commands:** find (1)
 > **Tools:** command line (1)
 > **Best Practices:** remember to (1)
@@ -1221,8 +1221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Statistics]] (1), next (1)
 > **CLI Commands:** find (6), ls (4)
-> **Code Keywords:** let (4), for. (2), switch (1), case, (1)
 > **Tools:** terminal (3), command line (1)
 > **File Paths:** myfile.txt (1), file.txt (1)
 > **Cross-References:** go back to (1)
@@ -1233,7 +1233,7 @@ created: 2026-04-29
 
 ### 3. Files, Directories, and Permissions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Linux file system
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980)
@@ -1344,7 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1), else, (1), else. (1)
+> **Frameworks & Libraries:** [[Linux]] (8), data (2), [[Databases]] (1), application (1), [[Windows]] (1)
 > **Tools:** command line (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** etc (1), usb (1)
@@ -1434,9 +1434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Tools:** command line (2), bash (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** case, (1), continue (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [scott] (1)
 
@@ -1551,8 +1551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (11), hr (7), prompt (3), [[Engineering]] (2)
 > **CLI Commands:** cd (11), ls (4)
-> **Code Keywords:** let (6), case, (2)
 > **Tools:** terminal (8)
 > **Exercise Files:** exercise files (5)
 > **Analogies:** for example (3)
@@ -1655,11 +1655,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (1), next (1), [[Forms]] (1), feature (1), [[Linux]] (1)
 > **CLI Commands:** ls (11), cd (1)
 > **Definitions:** is a  (2), means that (1), stands for (1), is an  (1)
 > **Tools:** terminal (2), command line (1)
 > **File Paths:** poems.txt (2)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** psd (1), ascii (1)
 > **Cross-References:** go back to (1), in the last (1)
 > **Code Identifiers:** masos (1)
@@ -1738,13 +1738,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** mkdir (6), make (2), ls (1)
-> **Code Keywords:** let (4), case, (1)
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (2)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
 #### Copy, move, and delete files and directories
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/copy-move-and-delete-files-and-directories?u=76281980)
@@ -1919,8 +1919,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (3), next (2), management (1)
 > **CLI Commands:** rm (11), cp (6), mv (6), make (3), ls (3)
-> **Code Keywords:** let (13), delete (8), case, (1), continue (1)
 > **File Paths:** poems2.txt (5), simple_data.txt (4), literature.txt (4), poems.txt (3), poems3.txt (3)
 > **Code Identifiers:** simple_data (5)
 > **Tools:** command line (4)
@@ -1987,8 +1987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3)
 > **CLI Commands:** find (11)
-> **Code Keywords:** for. (2), let (1)
 > **Exercise Files:** exercise files (3)
 > **File Paths:** poems.txt (1)
 > **Tools:** command line (1)
@@ -2129,8 +2129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), prompt (4), [[System Administration]] (3), power (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (13), make (6), ls (2), snap (1)
-> **Code Keywords:** super (9), switch (5), delete (1), this, (1), let (1)
 > **Prerequisites:** install (3), set up (2), setup (1)
 > **Definitions:** is a  (3), is called (1)
 > **Tools:** command line (3)
@@ -2259,10 +2259,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1)
 > **CLI Commands:** chmod (9), make (3), chown (1)
 > **Definitions:** means that (3), is a  (2)
 > **Analogies:** for example (2), kind of like (1)
-> **Code Keywords:** this: (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2425,9 +2425,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), [[Security]] (2), [[Scripting]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** chmod (5), ls (4), cat (3), sudo (3), chown (2)
 > **File Paths:** test.sh (13)
-> **Code Keywords:** let (8), this, (2), case, (1)
 > **Tools:** bash (7), command line (1)
 > **Definitions:** is a  (3), refers to (1), means that (1)
 > **Cross-References:** as we saw (2)
@@ -2513,9 +2513,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Linux]] (1)
 > **File Paths:** writing.txt (5), poems.txt (2), words.txt (1)
 > **Definitions:** is a  (4), short for (1)
-> **Code Keywords:** let (1), continue (1), break, (1), case, (1)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
 > **Analogies:** just like (1)
@@ -2539,7 +2539,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Fix broken syntax
@@ -2573,6 +2572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (2), [[Linux]] (1)
 > **CLI Commands:** make (2), cd (2), ls (1), mv (1), tar (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2594,8 +2594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2616,13 +2616,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Tools:** command line (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Common Command-Line Tasks and Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of modularity
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-importance-of-modularity?u=76281980)
@@ -2669,8 +2670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), next (1)
 > **Tools:** command line (4)
-> **Code Keywords:** function (2), case, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -2735,7 +2736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), case, (1), this, (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), feature (1)
 > **Tools:** command line (4)
 > **CLI Commands:** cat (1), find (1)
 > **Analogies:** for example (2)
@@ -2837,9 +2838,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), [[System Administration]] (1), [[Programming]] (1)
 > **CLI Commands:** cat (12), make (1), find (1)
 > **File Paths:** poems.txt (7)
-> **Code Keywords:** interface (2), case, (1), let (1), pass (1)
 > **Analogies:** for example (3), just like (1)
 > **Definitions:** is called (1), short for (1), is an  (1)
 > **Cross-References:** as we saw (1), go back to (1)
@@ -2951,8 +2952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** grep (20), find (2)
-> **Code Keywords:** let (2), this, (2), case, (2), match. (1), require (1)
 > **Analogies:** for example (2), such as (1)
 > **File Paths:** poems.txt (2)
 > **Exercise Files:** exercise file (1)
@@ -3126,8 +3127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Search]] (1), [[System Administration]] (1), [[Programming]] (1)
 > **CLI Commands:** awk (16), sed (7), cat (6), make (2), grep (1)
-> **Code Keywords:** let (8), this, (2), case, (2), return, (1), this. (1)
 > **File Paths:** simple_data.txt (7), dupes.txt (2)
 > **Code Identifiers:** simple_data (7)
 > **Definitions:** is a  (2), stands for (2), short for (1)
@@ -3250,9 +3251,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Linux]] (1), [[Search]] (1), hit (1)
 > **Tools:** vim (18), command line (4), terminal (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** new. (2), type, (1), case, (1), let (1)
 > **File Paths:** new.txt (2), poems.txt (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Env Vars:** vim (2)
@@ -3328,11 +3329,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), power (1), [[Ubuntu]] (1), feature (1), [[Microsoft Word|Word]] (1)
 > **Tools:** vim (4), terminal (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), is called (1)
 > **File Paths:** new2.txt (1), nanopoems.txt (1)
-> **Code Keywords:** let (1), match. (1)
 > **Cross-References:** as we saw (1), earlier in (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -3512,8 +3513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), data (4), cd (4), [[Windows]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** tar (33), ls (6), cd (4), mkdir (4), unzip (4)
-> **Code Keywords:** let (7), case . (2), while. (1), else, (1), case, (1)
 > **Definitions:** short for (2), is a  (2)
 > **Exercise Files:** zip file (3)
 > **Code Identifiers:** macos (1)
@@ -3539,7 +3540,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1), tar (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Create and share a file
@@ -3583,9 +3583,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), chmod (1), tar (1), ls (1)
 > **File Paths:** notes.txt (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Output redirection
@@ -3701,8 +3701,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), [[Scripting]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** ls (9), cat (3), find (1)
-> **Code Keywords:** let (7), else. (1), case, (1)
 > **Tools:** command line (3), bash (2), terminal (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -3807,11 +3807,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (2), [[LinkedIn]] (1)
 > **Env Vars:** path (14)
 > **CLI Commands:** ls (5), make (5), find (3)
 > **Tools:** bash (5)
 > **Code Identifiers:** bash_profile (4)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is a  (2), short for (1)
 > **Prerequisites:** install (2), setup (1)
 > **UI Navigation:** scroll up (1), open the (1)
@@ -3839,8 +3839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** tar (1), make (1)
-> **Code Keywords:** this, (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
@@ -3944,7 +3944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (5), let (4), for, (2), case, (1)
+> **Frameworks & Libraries:** [[Search]] (1), data (1), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** awk (4), tar (1), cat (1), grep (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** invalid_users.txt (2)
@@ -3956,7 +3956,7 @@ created: 2026-04-29
 
 ### 5. A Peek at Some More Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Find information about your Linux distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980)
@@ -4027,9 +4027,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (9), [[Ubuntu]] (3), [[Microsoft Word|Word]] (1), [[Troubleshooting]] (1), [[Windows]] (1)
 > **Env Vars:** lsb (2), amd (2), usr (1), lts (1)
 > **CLI Commands:** find (2), make (1), ls (1), cat (1)
-> **Code Keywords:** let (2), case, (2), else, (1)
 > **Prerequisites:** set up (2), install (1), getting started (1)
 > **Versions:** 24.04.2 (1), 6.8.0 (1)
 > **Analogies:** such as (1), for example (1)
@@ -4161,7 +4161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (5), var (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Linux]] (2), [[Zoom]] (1), next (1), data (1)
 > **CLI Commands:** find (5), sudo (2), cat (1)
 > **Env Vars:** ram (1), cpu (1), pci (1), usb (1)
 > **Prerequisites:** set up (2), install (2)
@@ -4273,9 +4273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[Package Management]] (3), [[Search]] (3), [[Ubuntu]] (2), [[Security]] (2)
 > **CLI Commands:** apt (12), sudo (3), find (2), dnf (1), make (1)
 > **Prerequisites:** install (14), configure (1)
-> **Code Keywords:** let (4), case, (2), for. (1), super (1), from, (1)
 > **Env Vars:** apt (7), dnf (1), suse (1)
 > **Tools:** command line (2)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -4285,7 +4285,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980)
@@ -4322,6 +4322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), [[Scripting]] (1), [[Ubuntu]] (1), web (1), [[LinkedIn]] (1)
 > **Tools:** command line (4), bash (2), terminal (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [scott] (1)

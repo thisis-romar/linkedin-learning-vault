@@ -37,7 +37,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Google%20Gemini%20For%20Developers.md)
@@ -56,38 +56,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building the future: Google Gemini tools for AI developers
+  - [Building the future: Google Gemini tools for AI developers](#building-the-future-google-gemini-tools-for-ai-developers)
 - [**1. Gemini Dev Environments**](#1-gemini-dev-environments) (5 videos)
-  - Understand Google Gemini 2.x models
-  - Understand Google Gemini 2.x experimental models
-  - Understand Google Gemini 2.x Canvas
-  - Use Google AI Studio
-  - Use Colab Jupyter Notebook
+  - [Understand Google Gemini 2.x models](#understand-google-gemini-2x-models)
+  - [Understand Google Gemini 2.x experimental models](#understand-google-gemini-2x-experimental-models)
+  - [Understand Google Gemini 2.x Canvas](#understand-google-gemini-2x-canvas)
+  - [Use Google AI Studio](#use-google-ai-studio)
+  - [Use Colab Jupyter Notebook](#use-colab-jupyter-notebook)
 - [**2. Gemini Prompts**](#2-gemini-prompts) (4 videos)
-  - Design and test language model prompts
-  - Use system instructions with prompts
-  - Use Gemini compare mode
-  - Design and test multimodal prompts
+  - [Design and test language model prompts](#design-and-test-language-model-prompts)
+  - [Use system instructions with prompts](#use-system-instructions-with-prompts)
+  - [Use Gemini compare mode](#use-gemini-compare-mode)
+  - [Design and test multimodal prompts](#design-and-test-multimodal-prompts)
 - [**3. Gemini Model Settings**](#3-gemini-model-settings) (4 videos)
-  - Configure model temperature
-  - Configure model safety settings
-  - Configure model parameters
-  - Use the AI Studio dashboard
+  - [Configure model temperature](#configure-model-temperature)
+  - [Configure model safety settings](#configure-model-safety-settings)
+  - [Configure model parameters](#configure-model-parameters)
+  - [Use the AI Studio dashboard](#use-the-ai-studio-dashboard)
 - [**4. Gemini Model Tools**](#4-gemini-model-tools) (4 videos)
-  - Use structured output
-  - Use code execution
-  - Use function calling
-  - Use model grounding
+  - [Use structured output](#use-structured-output)
+  - [Use code execution](#use-code-execution)
+  - [Use function calling](#use-function-calling)
+  - [Use model grounding](#use-model-grounding)
 - [**5. Gemini Model Applications**](#5-gemini-model-applications) (3 videos)
-  - Generate videos with Veo 2
-  - Test Gemini Live
-  - Test a Gemini app
+  - [Generate videos with Veo 2](#generate-videos-with-veo-2)
+  - [Test Gemini Live](#test-gemini-live)
+  - [Test a Gemini app](#test-a-gemini-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the future: Google Gemini tools for AI developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980)
@@ -108,14 +108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Google Gemini]] (2), ai (2), [[Generative AI]] (1), [[Gemini]] (1), prompt (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [lynn] (1)
 
 
 ### 1. Gemini Dev Environments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Google Gemini 2.x models
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), this. (1), case, (1)
+> **Frameworks & Libraries:** business (5), prompt (4), llm (2), [[Gemini]] (2), application (2)
 > **Env Vars:** llm (2)
 > **Versions:** 2.0 (2)
 > **Prerequisites:** set up (1), before we start (1)
@@ -258,8 +258,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), llm (2), [[Google]] (2), business (2), application (2)
 > **Versions:** 2.5 (8), 2.0 (3)
-> **Code Keywords:** case, (2), super (2), public (1), this, (1), let (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** llm (2)
 > **UI Navigation:** go to (1), switch to (1)
@@ -358,7 +358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), for, (1), super (1), let (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), llm (3), application (3), prompt (3), business (2)
 > **Env Vars:** llm (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -448,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), pass (2), case, (2), for, (1)
+> **Frameworks & Libraries:** prompt (7), [[Gemini]] (4), [[Google]] (3), llm (3), [[Search]] (2)
 > **Versions:** 2.5 (4), 2.0 (1), 1.5 (1), 1.25 (1), 3.50 (1)
 > **Env Vars:** llm (3), api (1)
 > **Definitions:** is a  (3)
@@ -519,8 +519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), ai (3), prompt (3), [[Gemini]] (3), [[Google]] (2)
 > **Env Vars:** api (12), ide (2), llm (1)
-> **Code Keywords:** this, (2), public (2), interface (2), this. (1)
 > **Tools:** colab (4), vs code (2)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Exercise Files:** sample code (2), template (1)
@@ -531,7 +531,7 @@ created: 2026-04-29
 
 ### 2. Gemini Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design and test language model prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980)
@@ -644,7 +644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), self (2), case. (2), super (2), for, (1)
+> **Frameworks & Libraries:** prompt (10), [[Gemini]] (3), [[Google]] (2), ai (2), data (2)
 > **CLI Commands:** cat (2), python (1), make (1), find (1)
 > **Versions:** 2.5 (2), 1.5 (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -704,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** prompt (8), ai (3), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Vertex]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** llm (1)
 > **Cross-References:** go back to (1)
@@ -807,7 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), case. (1), this, (1), new. (1)
+> **Frameworks & Libraries:** prompt (6), ai (2), [[Python (Programming Language)|Python]] (2), next (1), [[Google]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** python (2)
 > **Versions:** 2.5 (2)
@@ -898,7 +898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), for, (1), this. (1), new, (1), class, (1)
+> **Frameworks & Libraries:** prompt (2), [[Gemini]] (2), [[Multimodal Prompting]] (1), [[Search]] (1), [[Google]] (1)
 > **Versions:** 2.5 (1), 2.0 (1)
 > **Analogies:** picture (1), it's like (1)
 > **CLI Commands:** find (1)
@@ -909,7 +909,7 @@ created: 2026-04-29
 
 ### 3. Gemini Model Settings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure model temperature
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980)
@@ -1008,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), from, (1), require (1), case, (1), switch (1)
+> **Frameworks & Libraries:** prompt (3), ai (2), [[Vertex]] (1), [[Probability]] (1), [[Tokens]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Versions:** 2.5 (1)
@@ -1079,7 +1079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), interface (1), this, (1), this. (1)
+> **Frameworks & Libraries:** api (1), ai (1), prompt (1)
 > **Prerequisites:** configure (2)
 > **Env Vars:** api (1)
 > **Versions:** 2.5 (1)
@@ -1153,9 +1153,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (6), next (2), [[Probability]] (1), [[Gemini]] (1), prompt (1)
 > **Code Identifiers:** topp (5), topk (3)
 > **Versions:** 0.95 (2), 0.3 (1), 0.2 (1), 0.1 (1), 0.5 (1)
-> **Code Keywords:** interface (1), switch (1), let (1), new. (1)
 > **Cross-References:** we talked about (1), go back to (1)
 > **UI Navigation:** switch to (1), go to (1)
 > **Env Vars:** api (1)
@@ -1189,8 +1189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Google]] (2), ai (1), [[Gemini]] (1)
 > **Env Vars:** api (3)
-> **Code Keywords:** interface (1)
 > **Documentation:** the documentation (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1198,7 +1198,7 @@ created: 2026-04-29
 
 ### 4. Gemini Model Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use structured output
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980)
@@ -1245,7 +1245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), function (1), this. (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[JSON]] (4), prompt (3), ai (2), next (1)
 > **Env Vars:** json (4), api (1)
 > **Versions:** 2.5 (2), 1.5 (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1312,8 +1312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), prompt (3), [[Gemini]] (2), next (1)
 > **CLI Commands:** python (6), make (1)
-> **Code Keywords:** let (2), case. (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), super (2), this, (2), let (1), await (1)
+> **Frameworks & Libraries:** prompt (7), ai (3), [[Gemini]] (3), application (2), next (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** such as (2)
 > **Code Identifiers:** generatecontent (1)
@@ -1505,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), let (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Google]] (10), [[Search]] (7), ai (3), api (3), data (3)
 > **Versions:** 1.5 (3), 2.5 (2)
 > **Env Vars:** api (3), llm (1)
 > **CLI Commands:** make (2)
@@ -1517,7 +1517,7 @@ created: 2026-04-29
 
 ### 5. Gemini Model Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate videos with Veo 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/generate-videos-with-veo2?u=76281980)
@@ -1622,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), this, (1), case, (1), while. (1)
+> **Frameworks & Libraries:** [[Google]] (3), game (2), [[Large Language Models (LLM)|Large language models]] (1), cloud (1), next (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** cat (1)
 > **Cross-References:** later in (1)
@@ -1724,8 +1724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (12), [[Google]] (6), [[Search]] (3), ai (2), next (1)
 > **Speakers:** - [instructor] (8), - [gemini] (7)
-> **Code Keywords:** let (3), function (2), this, (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (gemini beeps) (2)
@@ -1788,7 +1788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), function (1), this. (1), super (1), new, (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Tokens]] (3), ai (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), next (1)
 > **Env Vars:** faq (1), html (1), css (1), sdk (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
@@ -1799,7 +1799,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980)
@@ -1832,6 +1832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), ai (3), [[LinkedIn]] (1), [[GitHub]] (1), [[Vertex]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** readme (1)
 > **Documentation:** the documentation (1)

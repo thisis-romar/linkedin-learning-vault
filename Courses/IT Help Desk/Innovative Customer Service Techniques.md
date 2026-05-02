@@ -26,7 +26,7 @@ tags:
   - topic/it-help-desk
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Innovative%20Customer%20Service%20Techniques.md)
@@ -45,29 +45,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Getting Innovative with Your Customer Service**](#getting-innovative-with-your-customer-service) (3 videos)
-  - Help your team unlock their potential
-  - What you'll learn from watching this course
-  - Understanding why customer service is hard
+  - [Help your team unlock their potential](#help-your-team-unlock-their-potential)
+  - [What you'll learn from watching this course](#what-youll-learn-from-watching-this-course)
+  - [Understanding why customer service is hard](#understanding-why-customer-service-is-hard)
 - [**1. Influencing Customer Perceptions**](#1-influencing-customer-perceptions) (4 videos)
-  - Identifying the most important need
-  - Winning the moments of truth
-  - Making wait time more bearable
-  - Getting customers to know your name
+  - [Identifying the most important need](#identifying-the-most-important-need)
+  - [Winning the moments of truth](#winning-the-moments-of-truth)
+  - [Making wait time more bearable](#making-wait-time-more-bearable)
+  - [Getting customers to know your name](#getting-customers-to-know-your-name)
 - [**2. Enhancing Your Service Senses**](#2-enhancing-your-service-senses) (4 videos)
-  - Improving your powers of observation
-  - Overcoming the illusion of speed
-  - Understanding the consequences of multitasking
-  - Avoiding directed attention fatigue
+  - [Improving your powers of observation](#improving-your-powers-of-observation)
+  - [Overcoming the illusion of speed](#overcoming-the-illusion-of-speed)
+  - [Understanding the consequences of multitasking](#understanding-the-consequences-of-multitasking)
+  - [Avoiding directed attention fatigue](#avoiding-directed-attention-fatigue)
 - [**3. Building Teamwork**](#3-building-teamwork) (3 videos)
-  - Identifying the secrets of employee motivation
-  - Increasing teamwork between departments
-  - Creating positive social pressure
+  - [Identifying the secrets of employee motivation](#identifying-the-secrets-of-employee-motivation)
+  - [Increasing teamwork between departments](#increasing-teamwork-between-departments)
+  - [Creating positive social pressure](#creating-positive-social-pressure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Resources to improve your customer service
+  - [Resources to improve your customer service](#resources-to-improve-your-customer-service)
 
 ### Getting Innovative with Your Customer Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Help your team unlock their potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/help-your-team-unlock-their-potential?u=76281980)
@@ -92,7 +92,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** next (2), teams (1)
 > **Speakers:** - one (1)
 
 #### What you'll learn from watching this course
@@ -124,8 +124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** try. (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -191,7 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - one (1)
@@ -199,7 +199,7 @@ created: 2026-04-29
 
 ### 1. Influencing Customer Perceptions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the most important need
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980)
@@ -300,8 +300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Technical Support]] (2), next (1), data (1), business (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** for, (1), override (1), finally, (1)
 > **Env Vars:** laura (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
@@ -402,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1), finally, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), product (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** known as (1), is a  (1)
 > **Exercise Files:** download the (1)
@@ -495,8 +495,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Security]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - customers (1)
@@ -574,15 +574,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
 
 ### 2. Enhancing Your Service Senses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improving your powers of observation
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/improving-your-powers-of-observation-2?u=76281980)
@@ -693,7 +693,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - customer (1)
@@ -809,8 +808,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1), traffic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), for. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - customers (1)
@@ -914,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), try. (2), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Windows]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - nearly (1), - hello (1), - the (1)
 > **Env Vars:** icmi (1)
@@ -1029,7 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), next (2), business (1)
 > **Analogies:** such as (2), just like (1)
 > **Env Vars:** add (1)
 > **Speakers:** - do (1)
@@ -1037,7 +1036,7 @@ created: 2026-04-29
 
 ### 3. Building Teamwork
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the secrets of employee motivation
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-secrets-of-employee-motivation-2?u=76281980)
@@ -1126,6 +1125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), business (1), strengths (1), next (1)
 > **CLI Commands:** make (7), find (1)
 > **Speakers:** - if (1)
 
@@ -1242,7 +1242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), this, (1), let (1)
+> **Frameworks & Libraries:** teams (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1362,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
@@ -1371,7 +1371,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources to improve your customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/resources-to-improve-your-customer-service?u=76281980)
@@ -1404,7 +1404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), finally, (1)
+> **Frameworks & Libraries:** teams (1)
 > **Definitions:** is a  (2)
 > **URLs:** [insidecustomerservice.com](https://insidecustomerservice.com) (1)
 > **Cross-References:** go back to (1)

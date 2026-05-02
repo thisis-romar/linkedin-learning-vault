@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Using%20the%20Azure%20AI%20Model%20Catalog.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Effortlessly navigate Azure's AI model catalog
-  - What you should know
+  - [Effortlessly navigate Azure's AI model catalog](#effortlessly-navigate-azures-ai-model-catalog)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to the Azure AI Model Catalog**](#1-introduction-to-the-azure-ai-model-catalog) (3 videos)
-  - Overview of the Azure AI model catalog
-  - Importance and benefits of using the model catalog
-  - Key features and capabilities
+  - [Overview of the Azure AI model catalog](#overview-of-the-azure-ai-model-catalog)
+  - [Importance and benefits of using the model catalog](#importance-and-benefits-of-using-the-model-catalog)
+  - [Key features and capabilities](#key-features-and-capabilities)
 - [**2. Navigating the Model Catalog**](#2-navigating-the-model-catalog) (3 videos)
-  - Accessing the Azure AI model catalog
-  - Understanding the user interface
-  - Searching and filtering models
+  - [Accessing the Azure AI model catalog](#accessing-the-azure-ai-model-catalog)
+  - [Understanding the user interface](#understanding-the-user-interface)
+  - [Searching and filtering models](#searching-and-filtering-models)
 - [**3. Types of Models Available**](#3-types-of-models-available) (4 videos)
-  - Curated by Azure AI: Popular non-Microsoft models
-  - Azure OpenAI models: Exclusive models available on Azure
-  - Open models from Hugging Face: Real-time inference models
-  - Industry models from partners
+  - [Curated by Azure AI: Popular non-Microsoft models](#curated-by-azure-ai-popular-non-microsoft-models)
+  - [Azure OpenAI models: Exclusive models available on Azure](#azure-openai-models-exclusive-models-available-on-azure)
+  - [Open models from Hugging Face: Real-time inference models](#open-models-from-hugging-face-real-time-inference-models)
+  - [Industry models from partners](#industry-models-from-partners)
 - [**4. Model Selection and Comparison**](#4-model-selection-and-comparison) (3 videos)
-  - Reviewing model cards and sample inferences
-  - Comparing benchmarks across models and datasets
-  - Selecting the right model for your business scenario
+  - [Reviewing model cards and sample inferences](#reviewing-model-cards-and-sample-inferences)
+  - [Comparing benchmarks across models and datasets](#comparing-benchmarks-across-models-and-datasets)
+  - [Selecting the right model for your business scenario](#selecting-the-right-model-for-your-business-scenario)
 - [**5. Deploying Models**](#5-deploying-models) (3 videos)
-  - Deployment options: Managed compute vs. serverless APIs
-  - Step-by-step guide to deploying a model
-  - Integrating models into applications
+  - [Deployment options: Managed compute vs. serverless APIs](#deployment-options-managed-compute-vs-serverless-apis)
+  - [Step-by-step guide to deploying a model](#step-by-step-guide-to-deploying-a-model)
+  - [Integrating models into applications](#integrating-models-into-applications)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Recap
-  - Additional resources for continued learning
+  - [Recap](#recap)
+  - [Additional resources for continued learning](#additional-resources-for-continued-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Effortlessly navigate Azure's AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (2)
 > **Speakers:** - [sammy] (1)
 
 #### What you should know
@@ -133,14 +133,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to the Azure AI Model Catalog
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the Azure AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980)
@@ -175,6 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (7), [[Azure AI Foundry]] (2), [[Microsoft]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -229,6 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (4), data (2), product (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -305,7 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), type. (1), for, (1), static (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), ai (7), data (3), feature (2), [[Search]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sdk (1)
@@ -315,7 +317,7 @@ created: 2026-04-29
 
 ### 2. Navigating the Model Catalog
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing the Azure AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980)
@@ -382,8 +384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (4), [[LinkedIn]] (2), web (1), [[Search]] (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** make sure you have (1), you'll need (1)
 > **URLs:** [azure.com](https://azure.com) (1)
@@ -412,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** for example (1)
@@ -499,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1), type. (1), type, (1), module (1)
+> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft Azure|Azure]] (5), next (4), [[LLaMA]] (3), api (2)
 > **Analogies:** for example (4), for instance (1), think of it as (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** api (2), gpu (1)
@@ -509,7 +511,7 @@ created: 2026-04-29
 
 ### 3. Types of Models Available
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Curated by Azure AI: Popular non-Microsoft models
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980)
@@ -574,9 +576,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), ai (8), [[Microsoft]] (4), [[Hardware]] (1), [[LLaMA]] (1)
 > **Env Vars:** nvidia (1), ai21 (1), jais (1), g42 (1), ntt (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -621,8 +623,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), ai (3), [[DALL-E]] (2), [[ChatGPT]] (1), api (1)
 > **Env Vars:** tts (2), api (1), gpt (1)
-> **Code Keywords:** let (1), from. (1)
 > **Versions:** 3.5 (1), 4.5 (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** chatgpt (1)
@@ -685,8 +687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Hugging Face]] (12), ai (2), [[Real-Time]] (2), [[Microsoft]] (2)
 > **CLI Commands:** find (2), make (1), apache (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** mit (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -737,6 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (4), [[Microsoft]] (1), [[Scalability]] (1), application (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - aside (1)
@@ -744,7 +747,7 @@ created: 2026-04-29
 
 ### 4. Model Selection and Comparison
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing model cards and sample inferences
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980)
@@ -825,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (3), from, (1), this, (1)
+> **Frameworks & Libraries:** data (3), ai (1), [[LLaMA]] (1), [[Hardware]] (1), next (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
 > **Env Vars:** gpu (1)
@@ -956,7 +959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (1), this, (1), for, (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Azure|Azure]] (2), [[LLaMA]] (2), next (1), ai (1)
 > **UI Navigation:** go to (3), scroll down (2), open the (1), select the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** lama (1)
@@ -1090,9 +1093,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), business (3), data (3), [[GPT-4]] (2), [[Fine Tuning]] (2)
 > **Analogies:** for example (4), for instance (2)
 > **Env Vars:** gpt (2), api (1), roi (1)
-> **Code Keywords:** require (2), yield (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1100,7 +1103,7 @@ created: 2026-04-29
 
 ### 5. Deploying Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deployment options: Managed compute vs. serverless APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980)
@@ -1223,10 +1226,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (16), [[Microsoft Azure|Azure]] (11), api (2), [[GPT-4]] (2), next (1)
 > **Versions:** 2.50 (2), 0.02 (1), 0.20 (1), 4.59 (1), 0.75 (1)
 > **Env Vars:** gpt (3), api (2), nc6 (1), nc24 (1), nc48 (1)
 > **Analogies:** for example (3), it's like (2), for instance (1)
-> **Code Keywords:** let (4), require (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1282,10 +1285,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), next (2), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (6), go to (3)
 > **Env Vars:** uri (2), nc24 (2), ads (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Versions:** 3.67 (1)
 > **Exercise Files:** sample code (1)
@@ -1388,7 +1391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), case. (1)
+> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (6), [[Azure AI Foundry]] (2), [[Python (Programming Language)|Python]] (1), api (1)
 > **Env Vars:** sdk (3), url (2), api (1), uri (1)
 > **CLI Commands:** make (5), python (1)
 > **Prerequisites:** install (1), configure (1), set up (1)
@@ -1399,7 +1402,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980)
@@ -1456,8 +1459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Microsoft Azure|Azure]] (8), data (2), [[Search]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), interface (1)
 > **Cross-References:** we discussed (1), we talked about (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -1483,8 +1486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** make (1), python (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** sdk (1)
 > **Speakers:** - [instructor] (1)
 

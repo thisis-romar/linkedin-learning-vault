@@ -34,7 +34,7 @@ tags:
   - skill/data-wrangling
   - skill/r-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Wrangling%20in%20R.md)
@@ -53,68 +53,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Preparing for data wrangling
-  - What you need to know
-  - Exercise files
+  - [Preparing for data wrangling](#preparing-for-data-wrangling)
+  - [What you need to know](#what-you-need-to-know)
+  - [Exercise files](#exercise-files)
 - [**1. Tidy Data**](#1-tidy-data) (4 videos)
-  - What is tidy data?
-  - Variables, observations, and values
-  - Common data problems
-  - Using the tidyverse
+  - [What is tidy data?](#what-is-tidy-data)
+  - [Variables, observations, and values](#variables-observations-and-values)
+  - [Common data problems](#common-data-problems)
+  - [Using the tidyverse](#using-the-tidyverse)
 - [**2. Working with Tibbles**](#2-working-with-tibbles) (3 videos)
-  - Building and printing tibbles
-  - Subsetting tibbles
-  - Filtering tibbles
+  - [Building and printing tibbles](#building-and-printing-tibbles)
+  - [Subsetting tibbles](#subsetting-tibbles)
+  - [Filtering tibbles](#filtering-tibbles)
 - [**3. Importing Data into R**](#3-importing-data-into-r) (8 videos)
-  - What are CSV files?
-  - Importing CSV files into R
-  - What are TSV files?
-  - Importing TSV files into R
-  - Importing delimited files into R
-  - Importing fixed-width files into R
-  - Importing Excel files into R
-  - Reading data from databases and the web
+  - [What are CSV files?](#what-are-csv-files)
+  - [Importing CSV files into R](#importing-csv-files-into-r)
+  - [What are TSV files?](#what-are-tsv-files)
+  - [Importing TSV files into R](#importing-tsv-files-into-r)
+  - [Importing delimited files into R](#importing-delimited-files-into-r)
+  - [Importing fixed-width files into R](#importing-fixed-width-files-into-r)
+  - [Importing Excel files into R](#importing-excel-files-into-r)
+  - [Reading data from databases and the web](#reading-data-from-databases-and-the-web)
 - [**4. Data Transformation**](#4-data-transformation) (5 videos)
-  - Wide vs. long datasets
-  - Making wide datasets long with pivot_longer()
-  - Making long datasets wide with pivot_wider()
-  - Converting data types in R
-  - Working with dates and times in R
+  - [Wide vs. long datasets](#wide-vs-long-datasets)
+  - [Making wide datasets long with pivot_longer()](#making-wide-datasets-long-with-pivot_longer)
+  - [Making long datasets wide with pivot_wider()](#making-long-datasets-wide-with-pivot_wider)
+  - [Converting data types in R](#converting-data-types-in-r)
+  - [Working with dates and times in R](#working-with-dates-and-times-in-r)
 - [**5. Data Cleaning**](#5-data-cleaning) (5 videos)
-  - Detecting outliers
-  - Missing and special values in R
-  - Breaking apart columns with separate()
-  - Combining columns with unite()
-  - Manipulating strings in R with stringr
+  - [Detecting outliers](#detecting-outliers)
+  - [Missing and special values in R](#missing-and-special-values-in-r)
+  - [Breaking apart columns with separate()](#breaking-apart-columns-with-separate)
+  - [Combining columns with unite()](#combining-columns-with-unite)
+  - [Manipulating strings in R with stringr](#manipulating-strings-in-r-with-stringr)
 - [**6. Data Wrangling Case Study: Coal Consumption**](#6-data-wrangling-case-study-coal-consumption) (5 videos)
-  - Understanding the coal dataset
-  - Reading in the coal dataset
-  - Converting the coal dataset from wide to long
-  - Segmenting the coal dataset
-  - Visualizing the coal dataset
+  - [Understanding the coal dataset](#understanding-the-coal-dataset)
+  - [Reading in the coal dataset](#reading-in-the-coal-dataset)
+  - [Converting the coal dataset from wide to long](#converting-the-coal-dataset-from-wide-to-long)
+  - [Segmenting the coal dataset](#segmenting-the-coal-dataset)
+  - [Visualizing the coal dataset](#visualizing-the-coal-dataset)
 - [**7. Data Wrangling Case Study: Water Quality**](#7-data-wrangling-case-study-water-quality) (8 videos)
-  - Understanding the water quality dataset
-  - Reading in the water quality dataset
-  - Filtering the water quality dataset
-  - Water quality data types
-  - Correcting data entry errors
-  - Identifying and removing outliers
-  - Converting temperature from Fahrenheit to Celsius
-  - Widening the water quality dataset
+  - [Understanding the water quality dataset](#understanding-the-water-quality-dataset)
+  - [Reading in the water quality dataset](#reading-in-the-water-quality-dataset)
+  - [Filtering the water quality dataset](#filtering-the-water-quality-dataset)
+  - [Water quality data types](#water-quality-data-types)
+  - [Correcting data entry errors](#correcting-data-entry-errors)
+  - [Identifying and removing outliers](#identifying-and-removing-outliers)
+  - [Converting temperature from Fahrenheit to Celsius](#converting-temperature-from-fahrenheit-to-celsius)
+  - [Widening the water quality dataset](#widening-the-water-quality-dataset)
 - [**8. Data Wrangling Case Study: Social Security Disability**](#8-data-wrangling-case-study-social-security-disability) (7 videos)
-  - Understanding the social security disability dataset
-  - Importing the social security disability dataset
-  - Making the social security disability dataset long
-  - Formatting dates in the social security disability dataset
-  - Fiscal years in the social security disability dataset
-  - Widening the social security disability dataset
-  - Visualizing the social security disability dataset
+  - [Understanding the social security disability dataset](#understanding-the-social-security-disability-dataset)
+  - [Importing the social security disability dataset](#importing-the-social-security-disability-dataset)
+  - [Making the social security disability dataset long](#making-the-social-security-disability-dataset-long)
+  - [Formatting dates in the social security disability dataset](#formatting-dates-in-the-social-security-disability-dataset)
+  - [Fiscal years in the social security disability dataset](#fiscal-years-in-the-social-security-disability-dataset)
+  - [Widening the social security disability dataset](#widening-the-social-security-disability-dataset)
+  - [Visualizing the social security disability dataset](#visualizing-the-social-security-disability-dataset)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for data wrangling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980)
@@ -139,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (1), [[Statistical Analysis]] (1)
 > **Definitions:** is an  (1), known as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [mike] (1)
 
 #### What you need to know
@@ -162,6 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Prerequisites:** install (1), getting started (1)
 > **Speakers:** - [instructor] (1)
 
@@ -194,6 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[RStudio]] (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - [instructor] (1)
@@ -201,7 +203,7 @@ created: 2026-04-29
 
 ### 1. Tidy Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tidy data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980)
@@ -272,10 +274,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), [[Microsoft Word|Word]] (1), parallel (1), [[Data Manipulation]] (1), power (1)
 > **Definitions:** known as (3), is a  (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
@@ -398,7 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1), this. (1), case, (1), delete (1)
+> **Frameworks & Libraries:** data (18), [[Forms]] (4), [[Statistics]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -572,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), self (1), case, (1), type. (1)
+> **Frameworks & Libraries:** data (26), [[Forms]] (1)
 > **Analogies:** for example (5)
 > **Cross-References:** later in (2), earlier in (1), in the last (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -684,8 +686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[RStudio]] (5), next (2), [[Data Manipulation]] (1)
 > **Prerequisites:** install (7), you'll need (1)
-> **Code Keywords:** let (3), continue (1), try. (1), function (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [rstudio.com](https://rstudio.com) (1)
@@ -696,7 +698,7 @@ created: 2026-04-29
 
 ### 2. Working with Tibbles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building and printing tibbles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980)
@@ -801,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), override (1), type, (1)
+> **Frameworks & Libraries:** data (28), next (3), [[Databases]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** co2 (3), csv (1)
 > **Code Identifiers:** as_tibble (2)
@@ -861,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (2), [[RStudio]] (1)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -939,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (6)
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -947,7 +949,7 @@ created: 2026-04-29
 
 ### 3. Importing Data into R
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are CSV files?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-csv-files?u=76281980)
@@ -1010,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Databases]] (1), web (1), next (1)
 > **Env Vars:** csv (11)
-> **Code Keywords:** let (2), case, (2), switch (1)
 > **Definitions:** known as (2), is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
@@ -1155,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (5), type, (2), this, (1)
+> **Frameworks & Libraries:** data (11), web (3), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** read_csv (10), col_names (3)
 > **Env Vars:** csv (3), url (2), http (1)
 > **CLI Commands:** make (2), find (2)
@@ -1199,10 +1201,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** tsv (4), csv (1)
 > **Analogies:** similar to (1), for example (1), imagine (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1315,8 +1317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **Code Identifiers:** read_tsv (9), read_csv (3), call_names (1), col_types (1)
-> **Code Keywords:** let (6), function (5), type, (1)
 > **Analogies:** just like (2), similar to (1), such as (1), for example (1)
 > **Env Vars:** tsv (1), http (1), drg (1), csv (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1405,8 +1407,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1)
 > **Code Identifiers:** read_delim (9), read_csv (3), read_tsv (3), escape_backslash (1)
-> **Code Keywords:** function (7), let (4), case, (3), this. (1)
 > **Env Vars:** csv (2), tsv (1)
 > **Analogies:** for example (2)
 > **File Paths:** 594442.youcanlearnit.net/workstoppages.txt (1)
@@ -1492,7 +1494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), case, (1), if, (1), public (1)
+> **Frameworks & Libraries:** data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** read_fwf (2)
 > **Env Vars:** csv (1), http (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1626,7 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), case, (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (1), business (1), express (1)
 > **Code Identifiers:** read_excel (9), col_names (1)
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** you'll need (1), install (1)
@@ -1686,17 +1688,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Databases]] (7), database (6), web (4), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** rodbc (5), odbc (3), sql (2), url (1), api (1)
 > **Definitions:** stands for (1), known as (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** mysql (1)
-> **Code Keywords:** try. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Data Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wide vs. long datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980)
@@ -1757,8 +1759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (3), type. (1)
 > **Definitions:** is called (2), is a  (1), is an  (1)
 > **Best Practices:** general rule (1), the key is (1)
 > **Cross-References:** earlier in (1)
@@ -1843,7 +1845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7)
+> **Frameworks & Libraries:** data (24)
 > **Code Identifiers:** pivot_longer (8), names_to (2), values_to (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1), we discussed (1)
@@ -1909,7 +1911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (2), case, (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** pivot_wider (2)
 > **File Paths:** mexicanweather.csv (1)
@@ -2067,7 +2069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (9), type. (2), this, (1), this. (1)
+> **Frameworks & Libraries:** data (17), teams (9)
 > **Code Identifiers:** foulshots_strings (5), foulshots_converted (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -2190,7 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (6), this, (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), stands for (1)
@@ -2201,7 +2203,7 @@ created: 2026-04-29
 
 ### 5. Data Cleaning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Detecting outliers
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/detecting-outliers?u=76281980)
@@ -2390,7 +2392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), this, (1), finally, (1), try. (1)
+> **Frameworks & Libraries:** data (34), next (1)
 > **Analogies:** for example (2), imagine (2)
 > **Definitions:** is called (1), is an  (1), means that (1)
 > **CLI Commands:** find (2)
@@ -2514,7 +2516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), case, (2), type, (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (4), for example (2), imagine (1), similar to (1)
 > **Warnings:** caution (1), watch out (1), be aware (1)
 > **Definitions:** is an  (1)
@@ -2617,7 +2619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** drg (9)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -2681,7 +2683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (6), finally, (1), for, (1), delete (1)
+> **Frameworks & Libraries:** data (4)
 > **Speakers:** - [instructor] (1)
 
 #### Manipulating strings in R with stringr
@@ -2865,7 +2867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (6), finally, (1), this, (1), try. (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (2), next (2), [[Search]] (1)
 > **Env Vars:** drg (13), str (1)
 > **Code Identifiers:** str_to_upper (2), str_to_lower (1), str_to_title (1), str_trim (1), str_sub (1)
 > **CLI Commands:** make (3)
@@ -2876,7 +2878,7 @@ created: 2026-04-29
 
 ### 6. Data Wrangling Case Study: Coal Consumption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the coal dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980)
@@ -2929,7 +2931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), let (1)
+> **Frameworks & Libraries:** data (10), next (1), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -3005,7 +3007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), case, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1), next (1)
 > **Code Identifiers:** read_csv (3)
 > **Cross-References:** earlier in (1), go back to (1), in the next (1)
 > **Env Vars:** csv (2)
@@ -3081,7 +3083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), continue (1)
+> **Frameworks & Libraries:** data (18)
 > **Cross-References:** in the last (1), earlier in (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - i (1)
@@ -3161,7 +3163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), else. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3232,7 +3234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
@@ -3241,7 +3243,7 @@ created: 2026-04-29
 
 ### 7. Data Wrangling Case Study: Water Quality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the water quality dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980)
@@ -3284,8 +3286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (2), [[Metadata]] (1), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ph (1)
 > **URLs:** [austintexas.gov](https://austintexas.gov) (1)
 > **UI Navigation:** scroll down (1)
@@ -3339,7 +3341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2)
+> **Frameworks & Libraries:** data (11)
 > **Env Vars:** csv (3)
 > **File Paths:** austinwater.csv (1)
 > **CLI Commands:** make (1)
@@ -3454,7 +3456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (3), this, (2), continue (1), case. (1)
+> **Frameworks & Libraries:** data (4), next (1)
 > **Code Identifiers:** ph (10), site_name (1), site_type (1), sample_date (1), phs (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -3526,7 +3528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), case, (1)
+> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
 > **Code Identifiers:** filtered_water (2), sitetype (1), parametertype (1), datatype (1), mdy_hms (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
@@ -3591,7 +3593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), case. (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** ph (2), filtered_water (2)
 > **CLI Commands:** make (1)
 > **Versions:** 78.9 (1)
@@ -3686,7 +3688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this, (2)
+> **Frameworks & Libraries:** data (3), next (1)
 > **Code Identifiers:** ph (2)
 > **Env Vars:** fls (1)
 > **Versions:** 78.9 (1)
@@ -3746,7 +3748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3859,7 +3861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), from. (1), type, (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ph (2)
 > **Definitions:** is an  (1)
@@ -3869,7 +3871,7 @@ created: 2026-04-29
 
 ### 8. Data Wrangling Case Study: Social Security Disability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the social security disability dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980)
@@ -3924,8 +3926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), data (6), next (2), application (1), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (2)
-> **Code Keywords:** public (1)
 > **Versions:** 2.3 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3965,7 +3967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2)
+> **Frameworks & Libraries:** data (10), [[RStudio]] (1), [[Security]] (1), application (1)
 > **Env Vars:** csv (3)
 > **File Paths:** ssadisability.csv (1)
 > **URLs:** [http://fiveninefourfourfourtwo.youcanlearnit.net](http://fiveninefourfourfourtwo.youcanlearnit.net) (1)
@@ -4018,7 +4020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), try. (1)
+> **Frameworks & Libraries:** data (8), [[Data Manipulation]] (1)
 > **Code Identifiers:** ssa_long (1), pivot_longer (1)
 > **Env Vars:** ssa (1)
 > **Speakers:** - [instructor] (1)
@@ -4114,7 +4116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (7), switch (1), from. (1)
+> **Frameworks & Libraries:** data (3), application (1), [[Jetpack Compose|Compose]] (1)
 > **Code Identifiers:** ssa_long (6), sdate (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
@@ -4166,7 +4168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), this, (1)
+> **Frameworks & Libraries:** next (2), data (1), business (1)
 > **Env Vars:** ssa (1), fls (1), dmy (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** means that (1)
@@ -4224,7 +4226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2)
+> **Frameworks & Libraries:** application (4)
 > **Env Vars:** ssa (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4264,7 +4266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), continue (1)
+> **Frameworks & Libraries:** data (4), [[Security]] (2), application (1)
 > **Env Vars:** ssa (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4272,7 +4274,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/next-steps?u=76281980)
@@ -4299,6 +4301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [data.gov](https://data.gov) (1)
 > **Definitions:** is a  (1)

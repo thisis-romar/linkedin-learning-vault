@@ -30,7 +30,7 @@ tags:
   - skill/ai-prompting
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Top%20Ten%20AI%20Prompts.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction
-  - The top 10 AI prompts
-  - What makes a good prompt?
+  - [Introduction](#introduction)
+  - [The top 10 AI prompts](#the-top-10-ai-prompts)
+  - [What makes a good prompt?](#what-makes-a-good-prompt)
 - [**1. The Top 10 AI Prompts**](#1-the-top-10-ai-prompts) (20 videos)
-  - Using AI to draft a business plan
-  - Demo of using AI to draft a business plan
-  - Using AI to analyze a financial report
-  - Demo of using AI to analyze a financial report
-  - Using AI to create a SWOT analysis
-  - Demo of using AI to create a SWOT analysis
-  - Using AI to get career coaching
-  - Demo of using AI to get career coaching
-  - Using AI to write a project proposal
-  - Demo of using AI to write a project proposal
-  - Using AI to prepare for your annual review
-  - Demo of using AI to prepare for your annual review
-  - Using AI to summarize a research paper
-  - Demo of using AI to summarize a research paper
-  - Using AI to optimize a process
-  - Demo of using AI to optimize a process
-  - Using AI to create a data analysis report
-  - Demo of using AI to create a data analysis report
-  - Using AI to create training material
-  - Demo of using AI to create training material
+  - [Using AI to draft a business plan](#using-ai-to-draft-a-business-plan)
+  - [Demo of using AI to draft a business plan](#demo-of-using-ai-to-draft-a-business-plan)
+  - [Using AI to analyze a financial report](#using-ai-to-analyze-a-financial-report)
+  - [Demo of using AI to analyze a financial report](#demo-of-using-ai-to-analyze-a-financial-report)
+  - [Using AI to create a SWOT analysis](#using-ai-to-create-a-swot-analysis)
+  - [Demo of using AI to create a SWOT analysis](#demo-of-using-ai-to-create-a-swot-analysis)
+  - [Using AI to get career coaching](#using-ai-to-get-career-coaching)
+  - [Demo of using AI to get career coaching](#demo-of-using-ai-to-get-career-coaching)
+  - [Using AI to write a project proposal](#using-ai-to-write-a-project-proposal)
+  - [Demo of using AI to write a project proposal](#demo-of-using-ai-to-write-a-project-proposal)
+  - [Using AI to prepare for your annual review](#using-ai-to-prepare-for-your-annual-review)
+  - [Demo of using AI to prepare for your annual review](#demo-of-using-ai-to-prepare-for-your-annual-review)
+  - [Using AI to summarize a research paper](#using-ai-to-summarize-a-research-paper)
+  - [Demo of using AI to summarize a research paper](#demo-of-using-ai-to-summarize-a-research-paper)
+  - [Using AI to optimize a process](#using-ai-to-optimize-a-process)
+  - [Demo of using AI to optimize a process](#demo-of-using-ai-to-optimize-a-process)
+  - [Using AI to create a data analysis report](#using-ai-to-create-a-data-analysis-report)
+  - [Demo of using AI to create a data analysis report](#demo-of-using-ai-to-create-a-data-analysis-report)
+  - [Using AI to create training material](#using-ai-to-create-training-material)
+  - [Demo of using AI to create training material](#demo-of-using-ai-to-create-training-material)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/get-the-top-10-most-in-demand-ai-prompts?u=76281980)
@@ -123,7 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), for, (1), let (1)
+> **Frameworks & Libraries:** ai (7), business (5), career (2), power (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ebitda (1)
 > **Cross-References:** in the next (1)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (3), this. (1)
+> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1), prompt (1), [[Gemini]] (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
@@ -246,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1)
+> **Frameworks & Libraries:** ai (5), prompt (4), teams (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -256,7 +256,7 @@ created: 2026-04-29
 
 ### 1. The Top 10 AI Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to draft a business plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-training-material?u=76281980)
@@ -331,7 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), include, (1), switch (1), continue (1)
+> **Frameworks & Libraries:** prompt (12), business (7), ai (5), next (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** you'll need (1)
@@ -506,7 +506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), static (5), this, (2), interface (1), this. (1)
+> **Frameworks & Libraries:** business (10), prompt (10), ai (2), [[Microsoft Products|Products]] (2), [[Sales Strategy]] (2)
 > **Definitions:** means that (2), is a  (2), is an  (1)
 > **Versions:** 1.5 (2), version 2 (1), 7.3 (1)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
@@ -576,8 +576,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), prompt (4), next (2), business (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** pdf (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -698,8 +698,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (2), prompt (2), business (2), next (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** let (5)
 > **Speakers:** - so (1)
 
 #### Using AI to create a SWOT analysis
@@ -761,8 +761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), prompt (2), career (1), generic (1), next (1)
 > **Env Vars:** swot (5)
-> **Code Keywords:** return. (1), super (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -933,7 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (4), this. (3), static (3)
+> **Frameworks & Libraries:** [[HTML]] (4), strengths (4), prompt (2), [[Microsoft Products|Products]] (2), web (2)
 > **Env Vars:** swot (4), html (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (2), cat (1)
@@ -979,6 +979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (6), prompt (4), next (2)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
@@ -1076,7 +1077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), delete (1), static (1)
+> **Frameworks & Libraries:** career (5), prompt (4), [[Speech Recognition]] (2), ai (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Documentation:** spec (1)
@@ -1139,6 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), ai (2), [[Interviewing]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1318,7 +1320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** prompt (4), next (4), ai (2), [[Gemini]] (1), business (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
@@ -1375,8 +1377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), next (3), career (1), [[Interviewing]] (1), ai (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
 
@@ -1561,7 +1563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1), this, (1), continue (1)
+> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), leadership (2), next (2), ai (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - so (1), - [chatgpt] (1), - yes (1)
 > **Cross-References:** in the last (2)
@@ -1612,7 +1614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), this, (1), let (1)
+> **Frameworks & Libraries:** ai (4), next (2), prompt (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1735,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), this. (2)
+> **Frameworks & Libraries:** prompt (5), next (1)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** mdck (3), pdf (1)
 > **Cross-References:** in the next (1)
@@ -1793,7 +1795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), super (1), let (1)
+> **Frameworks & Libraries:** ai (3), prompt (2), next (2), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - hey (1)
 
@@ -1938,8 +1940,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), next (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Copilot]] (1), prompt (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
@@ -2004,7 +2006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else, (1), delete (1)
+> **Frameworks & Libraries:** data (8), prompt (4), ai (2), next (2), business (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - it (1)
@@ -2180,8 +2182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), prompt (5), web (2), [[Gemini]] (1), ai (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), this, (1), continue (1)
 > **Env Vars:** csv (1)
 > **Versions:** 44.382 (1)
 > **Analogies:** imagine (1)
@@ -2253,7 +2255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), continue (1), for. (1), class, (1)
+> **Frameworks & Libraries:** prompt (8), hr (1), hit (1), ai (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - and (1)
 
@@ -2460,14 +2462,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (1), for, (1)
+> **Frameworks & Libraries:** prompt (5), business (3), ai (2), power (2), next (2)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - this (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980)
@@ -2512,9 +2514,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), prompt (3), ai (3), business (1), career (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** swot (1), seo (1)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** picture (1)
 > **Speakers:** - well (1)

@@ -33,7 +33,7 @@ tags:
   - skill/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Securing%20Cloud%20Resources%20with%20Microsoft%20Defender%20for%20Cloud.md)
@@ -52,44 +52,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Importance of securing your workloads on the cloud
-  - Track your spending in Azure
+  - [Importance of securing your workloads on the cloud](#importance-of-securing-your-workloads-on-the-cloud)
+  - [Track your spending in Azure](#track-your-spending-in-azure)
 - [**1. Manage Security with Microsoft Defender for Cloud**](#1-manage-security-with-microsoft-defender-for-cloud) (6 videos)
-  - Microsoft Defender for Cloud overview
-  - Enable Microsoft Defender for Cloud
-  - Review your security recommendations
-  - Remediate recommendations
-  - Disable a recommendation
-  - Automate recommendation responses using Workflow Automation
+  - [Microsoft Defender for Cloud overview](#microsoft-defender-for-cloud-overview)
+  - [Enable Microsoft Defender for Cloud](#enable-microsoft-defender-for-cloud)
+  - [Review your security recommendations](#review-your-security-recommendations)
+  - [Remediate recommendations](#remediate-recommendations)
+  - [Disable a recommendation](#disable-a-recommendation)
+  - [Automate recommendation responses using Workflow Automation](#automate-recommendation-responses-using-workflow-automation)
 - [**2. Cloud Security**](#2-cloud-security) (5 videos)
-  - Working with security alerts
-  - Deep dive into inventory
-  - Onboard non-Azure servers to Defender for Cloud
-  - Learning about workbooks
-  - Learning all about security policy
+  - [Working with security alerts](#working-with-security-alerts)
+  - [Deep dive into inventory](#deep-dive-into-inventory)
+  - [Onboard non-Azure servers to Defender for Cloud](#onboard-non-azure-servers-to-defender-for-cloud)
+  - [Learning about workbooks](#learning-about-workbooks)
+  - [Learning all about security policy](#learning-all-about-security-policy)
 - [**3. Working with Security Center Recommendations**](#3-working-with-security-center-recommendations) (6 videos)
-  - Secure Score: Access and track your secure score
-  - Microsoft Defender regulatory compliance
-  - Configure autoprovisioning
-  - Set up email notification
-  - Configure CI/CD with Defender for Cloud
-  - Continuous export
+  - [Secure Score: Access and track your secure score](#secure-score-access-and-track-your-secure-score)
+  - [Microsoft Defender regulatory compliance](#microsoft-defender-regulatory-compliance)
+  - [Configure autoprovisioning](#configure-autoprovisioning)
+  - [Set up email notification](#set-up-email-notification)
+  - [Configure CI/CD with Defender for Cloud](#configure-cicd-with-defender-for-cloud)
+  - [Continuous export](#continuous-export)
 - [**4. Firewall Manager**](#4-firewall-manager) (6 videos)
-  - Get started with Firewall Manager
-  - Create Azure Firewall policies
-  - Secure your virtual hub
-  - Secure your hub virtual network
-  - Security partner providers
-  - DDoS protection plans
+  - [Get started with Firewall Manager](#get-started-with-firewall-manager)
+  - [Create Azure Firewall policies](#create-azure-firewall-policies)
+  - [Secure your virtual hub](#secure-your-virtual-hub)
+  - [Secure your hub virtual network](#secure-your-hub-virtual-network)
+  - [Security partner providers](#security-partner-providers)
+  - [DDoS protection plans](#ddos-protection-plans)
 - [**5. Managing Security Solutions**](#5-managing-security-solutions) (2 videos)
-  - Integrate security solutions and data sources
-  - Configuring workflow automation
+  - [Integrate security solutions and data sources](#integrate-security-solutions-and-data-sources)
+  - [Configuring workflow automation](#configuring-workflow-automation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More about Azure security
+  - [More about Azure security](#more-about-azure-security)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of securing your workloads on the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980)
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (8), [[Security]] (5), [[Microsoft Defender]] (3), career (1), [[Microsoft Defender|Defender]] (1)
 > **Speakers:** - now (1)
 
 #### Track your spending in Azure
@@ -214,7 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), default, (1), default. (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Cost Management]] (3), [[Microsoft]] (1), [[GitHub]] (1), [[Microsoft Defender]] (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1), go to (1)
 > **Tools:** azure portal (2), github (1)
 > **Env Vars:** https (1)
@@ -226,7 +226,7 @@ created: 2026-04-29
 
 ### 1. Manage Security with Microsoft Defender for Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Defender for Cloud overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980)
@@ -369,8 +369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (34), [[Security]] (28), [[Microsoft Defender]] (17), [[Microsoft Defender|Defender]] (12), next (7)
 > **CLI Commands:** find (2), aws (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** aws (1), gcp (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -473,10 +473,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (17), cloud (16), [[Security]] (15), [[Microsoft Azure|Azure]] (11), [[Microsoft Defender]] (7)
 > **UI Navigation:** click on (3), navigate to (2), select the (1)
 > **Env Vars:** sql (1), siem (1), aws (1), gcp (1), dns (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -571,7 +571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), type, (1)
+> **Frameworks & Libraries:** [[Security]] (5), cloud (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Defender|Defender]] (3), [[Virtual Machines]] (3)
 > **CLI Commands:** aws (2), find (1), make (1)
 > **Env Vars:** aws (2), gcp (2)
 > **UI Navigation:** navigate to (1), toggle (1)
@@ -783,8 +783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Security]] (7), [[Microsoft Defender|Defender]] (4), cloud (3), [[Microsoft Defender]] (3)
 > **UI Navigation:** click on (12), select the (3), navigate to (1), go to (1)
-> **Code Keywords:** let (6), case, (5), default. (2), public (2), type, (1)
 > **Analogies:** picture (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -848,8 +848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft Azure|Azure]] (2), cloud (2), [[Microsoft Defender]] (1), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** navigate to (3), open the (2), go to (1), click on (1)
-> **Code Keywords:** let (1)
 > **Tools:** azure portal (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - disabling (1)
@@ -945,7 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (2), case, (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Automation]] (9), [[Security]] (8), cloud (4), [[Microsoft Defender]] (2), feature (2)
 > **UI Navigation:** go to (2), click on (1), select the (1), open the (1)
 > **CLI Commands:** docker (1)
 > **Speakers:** - security (1)
@@ -953,7 +953,7 @@ created: 2026-04-29
 
 ### 2. Cloud Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with security alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980)
@@ -1066,8 +1066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), cloud (9), [[Microsoft Defender|Defender]] (6), data (3), [[Microsoft Defender]] (2)
 > **UI Navigation:** click on (6), go to (1)
-> **Code Keywords:** let (3), case. (1), type, (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** att (1), mitre (1)
 > **Prerequisites:** configure (2)
@@ -1149,7 +1149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** cloud (8), [[Security]] (5), [[Microsoft Defender]] (5), [[Microsoft Defender|Defender]] (3), [[Analytics]] (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - the (1)
 
@@ -1206,12 +1206,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Microsoft Defender|Defender]] (8), [[Analytics]] (8), cloud (7), aws (6)
 > **Env Vars:** aws (6), oms (2), mma (1)
 > **UI Navigation:** click on (4), go to (2), navigate to (1)
 > **CLI Commands:** aws (6)
 > **Tools:** azure portal (3)
 > **Prerequisites:** install (2), getting started (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 
@@ -1318,8 +1318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Azure|Azure]] (6), [[Vulnerability Assessment]] (3), [[Analytics]] (3), [[Microsoft Defender]] (2)
 > **UI Navigation:** select the (4), navigate to (2), click on (2), toggle (1), dropdown (1)
-> **Code Keywords:** let (3), export. (2), type, (1), case, (1), default. (1)
 > **Prerequisites:** configure (3)
 > **Tools:** azure portal (2)
 > **Cross-References:** we discussed (1)
@@ -1455,9 +1455,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), [[Microsoft Azure|Azure]] (10), cloud (4), [[Regulatory Compliance]] (3), next (3)
 > **Definitions:** is a  (6), is an  (1)
 > **UI Navigation:** click on (4), select the (2)
-> **Code Keywords:** let (2), default. (1), finally, (1)
 > **Env Vars:** cli (1), iso (1)
 > **Tools:** azure portal (1), powershell (1)
 > **Warnings:** note that (1)
@@ -1466,7 +1466,7 @@ created: 2026-04-29
 
 ### 3. Working with Security Center Recommendations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure Score: Access and track your secure score
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980)
@@ -1573,7 +1573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), protected (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (12), [[Microsoft Azure|Azure]] (5), feature (3), cloud (3), management (3)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -1665,9 +1665,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (4), [[Microsoft Defender|Defender]] (4), cloud (4), [[Security]] (4), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** pdf (2), iso (2), csv (1), pci (1), dss (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
@@ -1737,8 +1737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (8), data (7), [[Analytics]] (5), cloud (4)
 > **UI Navigation:** toggle (3), navigate to (1), select the (1), click on (1)
-> **Code Keywords:** let (3), type. (1)
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -1796,8 +1796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Security]] (3), [[Microsoft Defender|Defender]] (3), [[Microsoft Defender]] (1)
 > **UI Navigation:** click on (2), navigate to (1), select the (1)
-> **Code Keywords:** default, (1), default. (1), let (1)
 > **Speakers:** - setting (1)
 
 #### Configure CI/CD with Defender for Cloud
@@ -1861,8 +1861,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Microsoft Defender]] (4), [[Microsoft Defender|Defender]] (4), data (3), feature (3)
 > **CLI Commands:** cd (3)
-> **Code Keywords:** let (2), default. (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -1955,8 +1955,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), cloud (4), data (4), [[Microsoft Defender|Defender]] (3), [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (4), select the (3), navigate to (1), checkbox (1)
-> **Code Keywords:** export. (1), let (1), export, (1)
 > **Env Vars:** csv (2), siem (1)
 > **Definitions:** is called (1), is an  (1)
 > **Exercise Files:** download the (1)
@@ -1965,7 +1965,7 @@ created: 2026-04-29
 
 ### 4. Firewall Manager
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Firewall Manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980)
@@ -2080,7 +2080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), static (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), traffic (12), application (4), cloud (3), management (3)
 > **Env Vars:** nat (2), https (2), dnat (1), http (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** configure (4)
@@ -2357,8 +2357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), application (6), [[Google]] (5), traffic (4), [[Security]] (3)
 > **Env Vars:** dnat (7), rdp (4), fqdn (2), dns (2), ssl (1)
-> **Code Keywords:** let (8), public (8), default. (2), private (2), case. (1)
 > **UI Navigation:** click on (9), select the (4), go to (3), navigate to (1)
 > **Definitions:** is a  (5), is an  (2)
 > **Versions:** 10.0.2 (2), 209.244.0 (2), 0.0.0 (1), 10.0.1 (1)
@@ -2541,8 +2541,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), traffic (11), [[Security]] (5), next (4), [[Routing]] (3)
 > **UI Navigation:** click on (6), select the (2), open the (2), navigate to (1)
-> **Code Keywords:** default. (4), let (2), private (2), public (1), module (1)
 > **Env Vars:** wan (3), dns (2), rdp (2), dnat (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2)
 > **Tools:** azure portal (2)
@@ -2801,8 +2801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (9), [[Microsoft Azure|Azure]] (8), next (7), web (2), [[Search]] (2)
 > **Env Vars:** vpn (9), rdp (4), udr (2), iis (2), sku (2)
-> **Code Keywords:** let (6), private (4), public (4), case, (1), new, (1)
 > **UI Navigation:** go to (4), click on (4), navigate to (2)
 > **Prerequisites:** setup (3), configure (2), set up (1)
 > **Tools:** azure portal (3)
@@ -2900,7 +2900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), default. (2), public (2), let (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (22), [[Microsoft Azure|Azure]] (7), traffic (3), next (3), management (1)
 > **Env Vars:** wan (4), cidr (1), vwan (1), vpn (1)
 > **UI Navigation:** click on (4), go to (2), checkbox (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -2976,7 +2976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), interface (2), protected (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Defender]] (2), cloud (2), application (2), [[Security]] (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Tools:** azure portal (1)
@@ -2986,7 +2986,7 @@ created: 2026-04-29
 
 ### 5. Managing Security Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate security solutions and data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980)
@@ -3365,9 +3365,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (14), [[Microsoft Azure|Azure]] (13), application (12), [[Security]] (11), data (7)
 > **UI Navigation:** click on (23), go to (8), select the (6), navigate to (1), open the (1)
 > **Env Vars:** waf (14), siem (4), add (3), aws (2), mma (2)
-> **Code Keywords:** public (7), let (4), default. (2), this. (1), default, (1)
 > **Prerequisites:** install (4), configure (3), setup (2)
 > **CLI Commands:** find (3), aws (2), node (1)
 > **Definitions:** is a  (4)
@@ -3467,7 +3467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1), default. (1), default, (1)
+> **Frameworks & Libraries:** [[Automation]] (18), [[Security]] (7), feature (2), [[Regulatory Compliance]] (2), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Speakers:** - [instructor] (1)
@@ -3475,7 +3475,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More about Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980)
@@ -3502,6 +3502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), cloud (5), [[Microsoft Azure|Azure]] (4), [[Microsoft Defender]] (3), next (1)
 > **Speakers:** - security (1)
 
 

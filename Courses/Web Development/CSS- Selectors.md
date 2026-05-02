@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Selectors.md)
@@ -47,55 +47,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of selectors
+  - [The power of selectors](#the-power-of-selectors)
 - [**1. Review of Basic CSS**](#1-review-of-basic-css) (4 videos)
-  - CSS terminology
-  - Type selectors, classes, and IDs
-  - Selector lists
-  - Compound selectors
+  - [CSS terminology](#css-terminology)
+  - [Type selectors, classes, and IDs](#type-selectors-classes-and-ids)
+  - [Selector lists](#selector-lists)
+  - [Compound selectors](#compound-selectors)
 - [**2. Combinator Selectors**](#2-combinator-selectors) (5 videos)
-  - The HTML family tree: Parents, children, ancestor, descendant, and siblings
-  - Descendant selectors
-  - Parent-child selectors
-  - Adjacent and general sibling selectors
-  - Reading and writing selectors
+  - [The HTML family tree: Parents, children, ancestor, descendant, and siblings](#the-html-family-tree-parents-children-ancestor-descendant-and-siblings)
+  - [Descendant selectors](#descendant-selectors)
+  - [Parent-child selectors](#parent-child-selectors)
+  - [Adjacent and general sibling selectors](#adjacent-and-general-sibling-selectors)
+  - [Reading and writing selectors](#reading-and-writing-selectors)
 - [**3. Attribute Selectors**](#3-attribute-selectors) (4 videos)
-  - Simple attribute selectors
-  - Exact and partial attribute value selectors
-  - Beginning, ending, and arbitrary substring attribute value selectors
-  - Cool attribute selector tricks
+  - [Simple attribute selectors](#simple-attribute-selectors)
+  - [Exact and partial attribute value selectors](#exact-and-partial-attribute-value-selectors)
+  - [Beginning, ending, and arbitrary substring attribute value selectors](#beginning-ending-and-arbitrary-substring-attribute-value-selectors)
+  - [Cool attribute selector tricks](#cool-attribute-selector-tricks)
 - [**4. Pseudo-classes for document structures**](#4-pseudo-classes-for-document-structures) (4 videos)
-  - Understanding only selectors, :only-child, :only-of-type
-  - Understanding first and last selectors, :first-child, :first-of-type, :last-child, :last-of-type
-  - Understanding nth selectors – :nth-child, :nth-of-type, :nth-last-child, :nth-last-of-type
-  - :root and :empty
+  - [Understanding only selectors, :only-child, :only-of-type](#understanding-only-selectors-only-child-only-of-type)
+  - [Understanding first and last selectors, :first-child, :first-of-type, :last-child, :last-of-type](#understanding-first-and-last-selectors-first-child-first-of-type-last-child-last-of-type)
+  - [Understanding nth selectors – :nth-child, :nth-of-type, :nth-last-child, :nth-last-of-type](#understanding-nth-selectors-nth-child-nth-of-type-nth-last-child-nth-last-of-type)
+  - [:root and :empty](#root-and-empty)
 - [**5. Pseudo-classes for links**](#5-pseudo-classes-for-links) (4 videos)
-  - Basic link states: :link, :visited, :hover, :active
-  - :any-link for combining link states
-  - Pseudo-classes for in-page navigation, :target
-  - Accessibility pseudo-classes: :focus, :focus-within
+  - [Basic link states: :link, :visited, :hover, :active](#basic-link-states-link-visited-hover-active)
+  - [:any-link for combining link states](#any-link-for-combining-link-states)
+  - [Pseudo-classes for in-page navigation, :target](#pseudo-classes-for-in-page-navigation-target)
+  - [Accessibility pseudo-classes: :focus, :focus-within](#accessibility-pseudo-classes-focus-focus-within)
 - [**6. Pseudo-classes for forms**](#6-pseudo-classes-for-forms) (5 videos)
-  - Form controls: :required and :optional; :enabled and :disabled
-  - Form controls: :read-only and :read-write
-  - Form control states: :indeterminate, :default, :checked
-  - Text fields: :autofill, :placeholder-shown
-  - Error checking: :valid, :invalid, :in-range, :out-of-range
+  - [Form controls: :required and :optional; :enabled and :disabled](#form-controls-required-and-optional-enabled-and-disabled)
+  - [Form controls: :read-only and :read-write](#form-controls-read-only-and-read-write)
+  - [Form control states: :indeterminate, :default, :checked](#form-control-states-indeterminate-default-checked)
+  - [Text fields: :autofill, :placeholder-shown](#text-fields-autofill-placeholder-shown)
+  - [Error checking: :valid, :invalid, :in-range, :out-of-range](#error-checking-valid-invalid-in-range-out-of-range)
 - [**7. Additional pseudo-classes, pseudo-elements, and the universal selector**](#7-additional-pseudo-classes-pseudo-elements-and-the-universal-selector) (5 videos)
-  - Comparing is() and where()
-  - Understanding :not
-  - :has()
-  - Meet the pseudo-elements ::before, ::after, ::first-line, ::first-letter
-  - *, the universal selector
+  - [Comparing is() and where()](#comparing-is-and-where)
+  - [Understanding :not](#understanding-not)
+  - [:has()](#has)
+  - [Meet the pseudo-elements ::before, ::after, ::first-line, ::first-letter](#meet-the-pseudo-elements-before-after-first-line-first-letter)
+  - [*, the universal selector](#the-universal-selector)
 - [**8. Choosing Selectors**](#8-choosing-selectors) (3 videos)
-  - CSS selectors and browser support
-  - Why can't I use CSS classes exclusively? Selectors best practices
-  - Impact of CSS selectors on performance
+  - [CSS selectors and browser support](#css-selectors-and-browser-support)
+  - [Why can't I use CSS classes exclusively? Selectors best practices](#why-cant-i-use-css-classes-exclusively-selectors-best-practices)
+  - [Impact of CSS selectors on performance](#impact-of-css-selectors-on-performance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional CSS practice
+  - [Additional CSS practice](#additional-css-practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors-23420115?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Review of Basic CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980)
@@ -182,9 +182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[Programming]] (2), [[HTML]] (1)
 > **Env Vars:** css (8), html (1)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** let (2), this, (1), case, (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -236,9 +236,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), generic (2), css (1)
 > **Env Vars:** html (4), css (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
-> **Code Keywords:** override (2), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Selector lists
@@ -284,8 +284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), [[Programming]] (1)
 > **Warnings:** warning (7), common mistake (1)
-> **Code Keywords:** finally, (1), this, (1)
 > **Env Vars:** html (2)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
@@ -340,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (3)
 > **Env Vars:** css (3), html (2)
 > **Cross-References:** earlier in (2)
 > **Analogies:** for example (2)
@@ -350,7 +350,7 @@ created: 2026-04-29
 
 ### 2. Combinator Selectors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The HTML family tree: Parents, children, ancestor, descendant, and siblings
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980)
@@ -425,7 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), finally, (1)
+> **Frameworks & Libraries:** [[HTML]] (6), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), css (1)
 > **Env Vars:** html (6), css (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -511,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), case, (1), this. (1), else. (1), case. (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Content Management Systems (CMS)|Content management systems]] (1), [[WordPress]] (1), [[Drupal]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (3), css (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -565,7 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), case, (1), case. (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (2)
 > **Env Vars:** html (1)
@@ -630,9 +630,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), next (2), css (2)
 > **Env Vars:** html (2), css (2)
 > **Cross-References:** later in (4)
-> **Code Keywords:** this, (1), let (1), this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [female (1)
@@ -674,6 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Analogies:** for example (3)
 > **Warnings:** warning (2), note that (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -684,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Attribute Selectors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple attribute selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980)
@@ -747,7 +748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (1)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
@@ -815,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), match. (1), case, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -875,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -937,8 +938,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[WordPress]] (1), [[Drupal]] (1), [[Programming]] (1), [[HTML]] (1)
 > **Env Vars:** url (4), pdf (3), html (1), css (1)
-> **Code Keywords:** this, (2), this. (2), case, (2), let (1), super (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -949,7 +950,7 @@ created: 2026-04-29
 
 ### 4. Pseudo-classes for document structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding only selectors, :only-child, :only-of-type
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/understanding-only-selectors-only-child-only-of-type?u=76281980)
@@ -1004,7 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), let (2), this. (1), type, (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -1061,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (9), type. (3), let (2), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
 > **Env Vars:** html (1)
@@ -1141,7 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (3), type. (2), super (2), this, (2)
+> **Frameworks & Libraries:** [[Engineering]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (1), just like (1), imagine (1)
 > **UI Navigation:** select the (2)
 > **Cross-References:** in the last (1)
@@ -1222,8 +1223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (10), [[HTML]] (6), [[JavaScript]] (3), next (1), dom (1)
 > **Env Vars:** css (10), html (6), dom (1), php (1)
-> **Code Keywords:** class. (2), let (1), this. (1), var (1)
 > **CLI Commands:** make (1), php (1), python (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
@@ -1232,7 +1233,7 @@ created: 2026-04-29
 
 ### 5. Pseudo-classes for links
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic link states: :link, :visited, :hover, :active
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980)
@@ -1321,7 +1322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** next (3), css (2), web (1), [[LinkedIn]] (1), [[Microsoft]] (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Env Vars:** css (2)
 > **Cross-References:** next chapter (1)
@@ -1361,7 +1362,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), case, (1), raise (1)
 > **Definitions:** is a  (1), in other words (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -1394,8 +1394,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[HTML]] (1)
 > **UI Navigation:** scroll down (1), click on (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1496,8 +1496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[CodePen]] (2), prompt (1), [[Forms]] (1)
 > **CLI Commands:** make (9)
-> **Code Keywords:** let (6), this. (2), super (1)
 > **Env Vars:** lvha (2), lvfha (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1505,7 +1505,7 @@ created: 2026-04-29
 
 ### 6. Pseudo-classes for forms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Form controls: :required and :optional; :enabled and :disabled
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980)
@@ -1628,7 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), switch (2), this. (1), default. (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JavaScript]] (3), [[Forms]] (2), css (2), [[Programming]] (2)
 > **Env Vars:** html (5), css (2)
 > **UI Navigation:** dropdown (2), checkbox (2)
 > **Definitions:** is a  (4)
@@ -1761,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case. (1)
+> **Frameworks & Libraries:** [[HTML]] (6), css (2), next (1), [[JavaScript]] (1)
 > **Env Vars:** html (6), css (2)
 > **CLI Commands:** make (4), sudo (1)
 > **Definitions:** is a  (3)
@@ -1901,7 +1901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default, (3), default. (2), for, (1), class. (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3), next (2), css (1)
 > **Env Vars:** html (3), css (1)
 > **UI Navigation:** checkbox (2), select the (1)
 > **Cross-References:** go back to (1)
@@ -2042,7 +2042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), this. (1), finally, (1), override (1)
+> **Frameworks & Libraries:** [[HTML]] (4), next (2), data (1), web (1), [[Security]] (1)
 > **Env Vars:** html (4), mdn (2)
 > **Cross-References:** as we saw (1), go back to (1), as you saw (1)
 > **Documentation:** mdn (2), the docs (1)
@@ -2238,7 +2238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), switch (1), class, (1), class. (1)
+> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[Forms]] (3), [[JavaScript]] (1), data (1)
 > **Env Vars:** html (4), css (4)
 > **Definitions:** is a  (2), in other words (1), means that (1), is called (1)
 > **CLI Commands:** make (3)
@@ -2250,7 +2250,7 @@ created: 2026-04-29
 
 ### 7. Additional pseudo-classes, pseudo-elements, and the universal selector
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing is() and where()
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980)
@@ -2445,7 +2445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), case, (3), class, (2), continue (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (2), next (1), web (1), [[Design Systems]] (1)
 > **Env Vars:** html (3), css (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** later in (1)
@@ -2514,7 +2514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), let (2), class. (2), for. (1), this. (1)
+> **Frameworks & Libraries:** [[Debugging]] (3), [[HTML]] (2), web (1)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** html (2)
 > **CLI Commands:** sudo (1)
@@ -2629,7 +2629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), super (2), this, (2), for, (1)
+> **Frameworks & Libraries:** css (1), next (1), [[Web Development]] (1), power (1)
 > **CLI Commands:** make (9), sudo (2)
 > **Definitions:** is a  (4), is an  (1), in other words (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2749,8 +2749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), css (2), [[Forms]] (1), [[Google]] (1), [[JavaScript]] (1)
 > **Env Vars:** pdf (10), html (2), css (2)
-> **Code Keywords:** this. (2), let (2), type, (1), case, (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
@@ -2833,7 +2833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this. (1), super (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -2842,7 +2842,7 @@ created: 2026-04-29
 
 ### 8. Choosing Selectors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS selectors and browser support
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980)
@@ -2877,10 +2877,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4)
 > **Env Vars:** css (4), ie6 (2), ie7 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** for. (1), case. (1)
 > **Versions:** 2.1 (2)
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 > **Cross-References:** we talked about (1)
@@ -2949,8 +2949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), [[HTML]] (4), generic (2), [[JavaScript]] (2), [[Programming]] (1)
 > **Env Vars:** css (9), html (4)
-> **Code Keywords:** override (2), throw (1), let (1), class, (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** later in (1)
@@ -2977,15 +2977,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3)
 > **Env Vars:** css (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional CSS practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/additional-css-practice?u=76281980)
@@ -3008,6 +3008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6)
 > **Env Vars:** css (6)
 > **Speakers:** - [jen] (1)
 

@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design%20for%20Ecommerce.md)
@@ -40,34 +40,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Great ecommerce user experiences
+  - [Great ecommerce user experiences](#great-ecommerce-user-experiences)
 - [**1. Online Shopping Behavior**](#1-online-shopping-behavior) (4 videos)
-  - How people buy online
-  - B2B ecommerce
-  - Omnichannel ecommerce
-  - Responding to a pandemic
+  - [How people buy online](#how-people-buy-online)
+  - [B2B ecommerce](#b2b-ecommerce)
+  - [Omnichannel ecommerce](#omnichannel-ecommerce)
+  - [Responding to a pandemic](#responding-to-a-pandemic)
 - [**2. Understand Your Site's Goals**](#2-understand-your-sites-goals) (4 videos)
-  - Helping decision-making
-  - Persuading people to buy
-  - Supporting the purchase process
-  - Out-of-band communications
+  - [Helping decision-making](#helping-decision-making)
+  - [Persuading people to buy](#persuading-people-to-buy)
+  - [Supporting the purchase process](#supporting-the-purchase-process)
+  - [Out-of-band communications](#out-of-band-communications)
 - [**3. Ecommerce Design Guidelines**](#3-ecommerce-design-guidelines) (8 videos)
-  - Homepage
-  - Search and navigation
-  - Category pages
-  - Product pages
-  - Carts
-  - Checkout
-  - Gift finders and wish lists
-  - Gift cards
+  - [Homepage](#homepage)
+  - [Search and navigation](#search-and-navigation)
+  - [Category pages](#category-pages)
+  - [Product pages](#product-pages)
+  - [Carts](#carts)
+  - [Checkout](#checkout)
+  - [Gift finders and wish lists](#gift-finders-and-wish-lists)
+  - [Gift cards](#gift-cards)
 - [**4. Making the Changes**](#4-making-the-changes) (3 videos)
-  - Forming a successful team
-  - Journey and service mapping
-  - Testing changes
+  - [Forming a successful team](#forming-a-successful-team)
+  - [Journey and service mapping](#journey-and-service-mapping)
+  - [Testing changes](#testing-changes)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Great ecommerce user experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980)
@@ -120,15 +120,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (7), business (3), product (2), web (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - considering (1)
 
 
 ### 1. Online Shopping Behavior
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How people buy online
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980)
@@ -213,8 +213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Search]] (2), [[Microsoft Excel|Excel]] (1), product (1), [[Customer Support]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), new. (1), interface (1)
 > **Speakers:** - in (1)
 
 #### B2B ecommerce
@@ -322,8 +322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), business (4), [[Microsoft Products|Products]] (4), [[E-Commerce]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** b2b (8), b2c (1)
-> **Code Keywords:** function (1), self (1), continue (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -407,8 +407,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Microsoft Products|Products]] (2), web (2), [[User Experience (UX)|User experience]] (2), [[Android]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - mobile (1)
@@ -466,15 +466,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (3), business (3), [[Security]] (1), next (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - i (1)
 
 
 ### 2. Understand Your Site's Goals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Helping decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980)
@@ -595,8 +595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), next (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** new, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - some (1)
 
@@ -657,8 +657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Design Patterns]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this, (1), while, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
 
@@ -747,9 +747,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), [[E-Commerce]] (4), [[Microsoft Products|Products]] (3), business (3), hit (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for instance (2), think of it as (1)
-> **Code Keywords:** from. (1), continue (1)
 > **URLs:** [backcountry.com](https://backcountry.com) (2)
 > **Versions:** 2.8 (1)
 > **Definitions:** is a  (1)
@@ -836,9 +836,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Email Marketing]] (1), feature (1), [[Microsoft Products|Products]] (1), generic (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** return. (1)
 > **Analogies:** it's like (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
@@ -847,7 +847,7 @@ created: 2026-04-29
 
 ### 3. Ecommerce Design Guidelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Homepage
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980)
@@ -932,8 +932,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (4), [[Search]] (2), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** static (1), this, (1)
 > **Best Practices:** don't forget (2)
 > **UI Navigation:** navigate to (1)
 > **Definitions:** is a  (1)
@@ -1042,9 +1042,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (15), product (3), [[Microsoft Word|Word]] (1), traffic (1), management (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** d2500 (1), d3200 (1), seo (1), usa (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** in the menu (2)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
@@ -1137,8 +1137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (14), [[Microsoft Products|Products]] (8), [[Search]] (2), next (2)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** let (2), interface (1)
 > **Analogies:** just like (1), for instance (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - category (1)
@@ -1272,7 +1272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), function (1)
+> **Frameworks & Libraries:** product (24), business (4), feature (3), [[Microsoft Products|Products]] (3), [[Zoom]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pdf (1)
 > **Analogies:** for instance (1)
@@ -1347,7 +1347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), else. (1), interface (1), require (1)
+> **Frameworks & Libraries:** product (3), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -1452,7 +1452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), require (1), default. (1)
+> **Frameworks & Libraries:** product (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (1), generic (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1)
@@ -1527,9 +1527,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), feature (2), [[Search]] (1), generic (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** remember to (1), recommended (1)
-> **Code Keywords:** require (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - although (1)
 
@@ -1606,15 +1606,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (1), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - of (1)
 
 
 ### 4. Making the Changes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Forming a successful team
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980)
@@ -1673,8 +1673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), product (2), [[Design Thinking]] (1), ux (1), data (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this: (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - when (1)
@@ -1750,8 +1750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), product (2), teams (1), [[User Experience (UX)|User experience]] (1), [[Market Research]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** else. (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for instance (1)
@@ -1826,8 +1826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Prototyping]] (1), [[LinkedIn]] (1), [[Analytics]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** interface (1), static (1)
 > **Exercise Files:** template (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - as (1)

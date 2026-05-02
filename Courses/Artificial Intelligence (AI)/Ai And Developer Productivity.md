@@ -29,7 +29,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ai%20And%20Developer%20Productivity.md)
@@ -48,49 +48,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - AI and developer productivity
-  - What you should know
-  - Understanding the role of AI in software development
-  - Amplifying developer creativity: The AI advantage
+  - [AI and developer productivity](#ai-and-developer-productivity)
+  - [What you should know](#what-you-should-know)
+  - [Understanding the role of AI in software development](#understanding-the-role-of-ai-in-software-development)
+  - [Amplifying developer creativity: The AI advantage](#amplifying-developer-creativity-the-ai-advantage)
 - [**1. Exploring GPT Technology and Effective Use of Prompts**](#1-exploring-gpt-technology-and-effective-use-of-prompts) (4 videos)
-  - Introduction to GPT technology
-  - How GPT works
-  - Prompt engineering strategies
-  - Practical use cases of GPT in software development
+  - [Introduction to GPT technology](#introduction-to-gpt-technology)
+  - [How GPT works](#how-gpt-works)
+  - [Prompt engineering strategies](#prompt-engineering-strategies)
+  - [Practical use cases of GPT in software development](#practical-use-cases-of-gpt-in-software-development)
 - [**2. Code Optimization with AI**](#2-code-optimization-with-ai) (6 videos)
-  - A disclaimer before we begin
-  - GPT for idea generation
-  - Leveraging AI for code reviews
-  - AI-assisted code completion
-  - Bug detection with AI
-  - AI-powered performance optimization
+  - [A disclaimer before we begin](#a-disclaimer-before-we-begin)
+  - [GPT for idea generation](#gpt-for-idea-generation)
+  - [Leveraging AI for code reviews](#leveraging-ai-for-code-reviews)
+  - [AI-assisted code completion](#ai-assisted-code-completion)
+  - [Bug detection with AI](#bug-detection-with-ai)
+  - [AI-powered performance optimization](#ai-powered-performance-optimization)
 - [**3. Automated Testing and Quality Assurance Enhanced by AI**](#3-automated-testing-and-quality-assurance-enhanced-by-ai) (4 videos)
-  - The traditional challenges of software testing
-  - Test data generation with AI
-  - Test script generation with AI
-  - The pros and cons of using AI tools for test scripting
+  - [The traditional challenges of software testing](#the-traditional-challenges-of-software-testing)
+  - [Test data generation with AI](#test-data-generation-with-ai)
+  - [Test script generation with AI](#test-script-generation-with-ai)
+  - [The pros and cons of using AI tools for test scripting](#the-pros-and-cons-of-using-ai-tools-for-test-scripting)
 - [**4. Intelligent Debugging and Issue Resolution Strategies**](#4-intelligent-debugging-and-issue-resolution-strategies) (4 videos)
-  - Understanding common coding errors
-  - GPT-powered debugging tools
-  - Efficient issue identification
-  - Contextual issue resolution
+  - [Understanding common coding errors](#understanding-common-coding-errors)
+  - [GPT-powered debugging tools](#gpt-powered-debugging-tools)
+  - [Efficient issue identification](#efficient-issue-identification)
+  - [Contextual issue resolution](#contextual-issue-resolution)
 - [**5. Collaborative Development for Remote Teams with AI**](#5-collaborative-development-for-remote-teams-with-ai) (2 videos)
-  - Collaboration and modern software development
-  - AI-powered communication tools
+  - [Collaboration and modern software development](#collaboration-and-modern-software-development)
+  - [AI-powered communication tools](#ai-powered-communication-tools)
 - [**6. AI-Powered Code Documentation Techniques**](#6-ai-powered-code-documentation-techniques) (2 videos)
-  - The significance of clear code documentation
-  - Generating your first draft with AI
+  - [The significance of clear code documentation](#the-significance-of-clear-code-documentation)
+  - [Generating your first draft with AI](#generating-your-first-draft-with-ai)
 - [**7. AI Interview Preparation: Technical Questions and Confidence Building**](#7-ai-interview-preparation-technical-questions-and-confidence-building) (4 videos)
-  - The traditional challenges of acing an interview
-  - Technical interview practice with AI
-  - Behavioral interview preparation with AI
-  - Best practices for interview success
+  - [The traditional challenges of acing an interview](#the-traditional-challenges-of-acing-an-interview)
+  - [Technical interview practice with AI](#technical-interview-practice-with-ai)
+  - [Behavioral interview preparation with AI](#behavioral-interview-preparation-with-ai)
+  - [Best practices for interview success](#best-practices-for-interview-success)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Using AI to improve productivity
+  - [Using AI to improve productivity](#using-ai-to-improve-productivity)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and developer productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980)
@@ -117,6 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), ai (1), [[Software Development]] (1)
 > **Speakers:** - [temidayo] (1)
 
 #### What you should know
@@ -138,7 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), public (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Git]] (1)
 > **CLI Commands:** git (1)
 > **Speakers:** - [instructor] (1)
 
@@ -191,7 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Software Development]] (3), [[Automation]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -260,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (1), [[Programming]] (1), functional (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
@@ -268,7 +269,7 @@ created: 2026-04-29
 
 ### 1. Exploring GPT Technology and Effective Use of Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GPT technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980)
@@ -353,9 +354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), ai (3), [[ChatGPT]] (2), [[Supervised Learning]] (1), power (1)
 > **Env Vars:** gpt (12)
 > **Analogies:** imagine (2), it's like (2), think of it as (1)
-> **Code Keywords:** let (2), for, (1), throw (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -428,9 +429,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), data (3), [[GPT-4]] (2), ai (2), [[Tokens]] (2)
 > **Env Vars:** gpt (19)
 > **Definitions:** known as (2), refers to (1), is a  (1)
-> **Code Keywords:** let (1), self (1)
 > **Analogies:** such as (1), it's like (1)
 > **Speakers:** - [narrator] (1)
 
@@ -531,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), throw (1), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), prompt (8), next (2), database (2), data (2)
 > **Env Vars:** rise (2), rtf (2), care (1), tag (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -596,8 +597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Debugging]] (1), [[Code Review]] (1), [[Automation]] (1), prompt (1)
 > **Env Vars:** gpt (11)
-> **Code Keywords:** let (2)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -605,7 +606,7 @@ created: 2026-04-29
 
 ### 2. Code Optimization with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A disclaimer before we begin
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980)
@@ -652,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (9), [[Generative AI]] (1), [[Software Development]] (1), application (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -709,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), feature (3), [[ChatGPT]] (3), [[JavaScript]] (2), prompt (2)
 > **Env Vars:** gpt (7)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Analogies:** imagine (1)
@@ -788,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), ai (6), data (4), [[JavaScript]] (4), [[Algorithms]] (2)
 > **Env Vars:** rise (2)
 > **Analogies:** picture (1), just like (1)
 > **Tools:** github (1)
@@ -841,7 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this. (1), let (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (3), prompt (2), [[Debugging]] (1), [[JavaScript]] (1)
 > **Env Vars:** tag (1), json (1)
 > **Analogies:** imagine (1), just like (1)
 > **Tools:** github (1)
@@ -893,7 +894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (6), power (1), [[Software Development]] (1), web (1), database (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -901,7 +902,7 @@ created: 2026-04-29
 
 ### 3. Automated Testing and Quality Assurance Enhanced by AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The traditional challenges of software testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980)
@@ -966,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), catch, (1), for, (1)
+> **Frameworks & Libraries:** data (10), management (3), [[Test Automation]] (3), [[Automation]] (3), ai (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1)
@@ -1017,7 +1018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (12), [[ChatGPT]] (6), ai (3), product (2), [[Algorithms]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1069,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (5), ai (4), [[JavaScript]] (4), [[ChatGPT]] (4), [[Scripting]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
@@ -1121,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), while, (1)
+> **Frameworks & Libraries:** ai (9), [[Scripting]] (1), data (1), [[Scalability]] (1)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1129,7 +1130,7 @@ created: 2026-04-29
 
 ### 4. Intelligent Debugging and Issue Resolution Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding common coding errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-common-coding-errors?u=76281980)
@@ -1200,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1), function (1)
+> **Frameworks & Libraries:** ai (4)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [presenter] (1)
@@ -1266,7 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), catch. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Debugging]] (3), prompt (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Copilot|Copilot]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (2)
 > **Env Vars:** gpt (1)
@@ -1330,7 +1331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Debugging]] (6), ai (3), next (2), application (2), [[Programming]] (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** common error (1)
@@ -1379,8 +1380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (4), hit (1), [[Zoom]] (1), [[Debugging]] (1)
 > **Analogies:** picture (2), for example (1), imagine (1)
-> **Code Keywords:** let (1), function (1), this. (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1388,7 +1389,7 @@ created: 2026-04-29
 
 ### 5. Collaborative Development for Remote Teams with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaboration and modern software development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980)
@@ -1431,6 +1432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Software Development]] (3), teams (3), [[Sketching]] (1), [[Microsoft Products|Products]] (1)
 > **Cross-References:** in the next (1)
 > **Tools:** slack (1)
 > **Analogies:** imagine (1)
@@ -1497,8 +1499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), feature (2), [[Engineering]] (1), game (1)
 > **URLs:** [read.ai](https://read.ai) (8), [krisp.ai](https://krisp.ai) (4)
-> **Code Keywords:** let (4), require (1), public (1)
 > **Analogies:** think of it as (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1507,7 +1509,7 @@ created: 2026-04-29
 
 ### 6. AI-Powered Code Documentation Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The significance of clear code documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980)
@@ -1568,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), self (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1), hit (1), next (1), ai (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
@@ -1644,8 +1646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), next (1), feature (1), [[JavaScript]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** function (1), let (1), from, (1)
 > **Tools:** visual studio (1), vs code (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** click on (1)
@@ -1656,7 +1658,7 @@ created: 2026-04-29
 
 ### 7. AI Interview Preparation: Technical Questions and Confidence Building
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The traditional challenges of acing an interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980)
@@ -1711,8 +1713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), strengths (2), ai (2), [[Interview Preparation]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1789,7 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2)
+> **Frameworks & Libraries:** ai (2), prompt (2), database (2), api (2), [[Debugging]] (2)
 > **Env Vars:** api (2)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1867,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** ai (3), [[Interview Preparation]] (2), [[ChatGPT]] (2), prompt (1), leadership (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** star (1)
@@ -1924,7 +1926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** ai (7), strengths (1), data (1), [[Storytelling]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1934,7 +1936,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to improve productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980)
@@ -1967,7 +1969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), continue (1)
+> **Frameworks & Libraries:** next (2), [[Software Development]] (1), ai (1), [[Software Projects]] (1)
 > **Speakers:** - finally (1)
 
 

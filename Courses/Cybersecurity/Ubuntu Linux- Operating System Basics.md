@@ -33,7 +33,7 @@ tags:
   - skill/linux-system-administration
   - skill/ubuntu
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ubuntu%20Linux-%20Operating%20System%20Basics.md)
@@ -52,41 +52,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - Environment setup
+  - [Welcome](#welcome)
+  - [Environment setup](#environment-setup)
 - [**1. Booting and Starting Up**](#1-booting-and-starting-up) (5 videos)
-  - Booting the system
-  - Configuring and modifying the bootloader
-  - Manage the startup process
-  - Update the kernel
-  - Change kernel parameters
+  - [Booting the system](#booting-the-system)
+  - [Configuring and modifying the bootloader](#configuring-and-modifying-the-bootloader)
+  - [Manage the startup process](#manage-the-startup-process)
+  - [Update the kernel](#update-the-kernel)
+  - [Change kernel parameters](#change-kernel-parameters)
 - [**2. Software and Updates**](#2-software-and-updates) (4 videos)
-  - Updating software
-  - Installing from source
-  - Understanding shared libraries
-  - Explore AppArmor
+  - [Updating software](#updating-software)
+  - [Installing from source](#installing-from-source)
+  - [Understanding shared libraries](#understanding-shared-libraries)
+  - [Explore AppArmor](#explore-apparmor)
 - [**3. Resources and Reports**](#3-resources-and-reports) (8 videos)
-  - Examine resource utilization
-  - Working with processes
-  - Explore resource bottlenecks
-  - Explore system hardware
-  - Upgrade or add hardware
-  - Explore system log files
-  - Monitor security and audit the system
-  - System usage reporting
+  - [Examine resource utilization](#examine-resource-utilization)
+  - [Working with processes](#working-with-processes)
+  - [Explore resource bottlenecks](#explore-resource-bottlenecks)
+  - [Explore system hardware](#explore-system-hardware)
+  - [Upgrade or add hardware](#upgrade-or-add-hardware)
+  - [Explore system log files](#explore-system-log-files)
+  - [Monitor security and audit the system](#monitor-security-and-audit-the-system)
+  - [System usage reporting](#system-usage-reporting)
 - [**4. Automation and Scheduling**](#4-automation-and-scheduling) (2 videos)
-  - Schedule and verify tasks
-  - Configuration management and automation
+  - [Schedule and verify tasks](#schedule-and-verify-tasks)
+  - [Configuration management and automation](#configuration-management-and-automation)
 - [**5. Recovery and Support**](#5-recovery-and-support) (3 videos)
-  - Consider a disaster recovery plan
-  - Train team members and document changes
-  - Incident management
+  - [Consider a disaster recovery plan](#consider-a-disaster-recovery-plan)
+  - [Train team members and document changes](#train-team-members-and-document-changes)
+  - [Incident management](#incident-management)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980)
@@ -111,8 +111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Security]] (1), [[Automation]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [scott] (1)
 
 #### Environment setup
@@ -144,6 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (4), cloud (1), [[Microsoft Azure|Azure]] (1), aws (1), [[Linux]] (1)
 > **Prerequisites:** install (1), set up (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -153,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Booting and Starting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Booting the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980)
@@ -254,8 +255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), data (3), [[Ubuntu]] (1)
 > **CLI Commands:** systemctl (4), sudo (3), make (1)
-> **Code Keywords:** let (4), switch (3), case, (1)
 > **Documentation:** man page (2)
 > **Tools:** command line (1), terminal (1)
 > **UI Navigation:** go to (1), switch to (1)
@@ -358,9 +359,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), [[Ubuntu]] (1)
 > **Env Vars:** grub (6), ram (2), msdos1 (2), lilo (1), hd0 (1)
 > **CLI Commands:** find (4), make (2), ls (2), sudo (1)
-> **Code Keywords:** default. (2), while, (1), for, (1), default, (1), pass (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** install (2)
@@ -450,8 +451,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** systemctl (8), sudo (3), make (1)
-> **Code Keywords:** let (4), interface (1)
 > **Env Vars:** ipa (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** means that (1)
@@ -543,8 +544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[Ubuntu]] (3), [[Hardware]] (1), [[Package Management]] (1)
 > **CLI Commands:** find (3), sudo (2), wget (1), make (1)
-> **Code Keywords:** require (1), this. (1), continue (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Prerequisites:** you'll need (2), install (1)
 > **Versions:** 4.4.0 (1), 4.11 (1)
@@ -609,11 +610,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), management (1)
 > **CLI Commands:** sudo (3), make (2), cat (1)
 > **Code Identifiers:** ip_forward (3)
 > **Env Vars:** etc (2)
 > **Prerequisites:** set up (1), you'll need (1)
-> **Code Keywords:** override (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll up (1)
 > **Best Practices:** recommended (1)
@@ -621,7 +622,7 @@ created: 2026-04-29
 
 ### 2. Software and Updates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating software
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980)
@@ -732,10 +733,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[Ubuntu]] (2), [[Package Management]] (1), functional (1), [[Security]] (1)
 > **CLI Commands:** apt (27), sudo (4), make (2), find (2), ls (1)
 > **Env Vars:** apt (9), iso (1)
 > **Prerequisites:** install (10)
-> **Code Keywords:** interface (1), for, (1), for. (1), let (1), continue (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Exercise Files:** download the (2)
 > **Definitions:** is a  (1), means that (1)
@@ -822,10 +823,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (1)
 > **CLI Commands:** make (8), sudo (3), apt (2), find (1), wget (1)
 > **Prerequisites:** install (7), configure (3)
 > **Exercise Files:** source code (7)
-> **Code Keywords:** let (3), this. (1), switch (1), case, (1)
 > **Env Vars:** url (1), ctrl (1)
 > **UI Navigation:** navigate to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -884,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** ls (4), find (1), make (1)
-> **Code Keywords:** require (1), case, (1)
 > **Env Vars:** ld_library_path (1)
 > **Versions:** 2.23 (1)
 > **Definitions:** means that (1)
@@ -954,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (2), switch (2), interface (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Linux]] (1), application (1), [[Troubleshooting]] (1)
 > **CLI Commands:** ls (2), make (2), cat (1), sudo (1), apt (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Prerequisites:** install (2)
@@ -965,7 +966,7 @@ created: 2026-04-29
 
 ### 3. Resources and Reports
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Examine resource utilization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980)
@@ -1102,8 +1103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (3), power (2), application (1), [[NIST]] (1)
 > **Env Vars:** ram (2), res (2), shr (2), mem (2), nist (1)
-> **Code Keywords:** let (2), while. (1), finally, (1), default, (1)
 > **UI Navigation:** toggle (4)
 > **Versions:** 1.00 (1), 0.50 (1), 2.00 (1)
 > **CLI Commands:** make (1)
@@ -1342,8 +1343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Linux]] (1), power (1)
 > **CLI Commands:** find (4), make (4), sudo (2), grep (2)
-> **Code Keywords:** let (6), this, (2), while. (1), pass (1)
 > **Tools:** terminal (8), bash (2)
 > **Definitions:** means that (3), is a  (2), is an  (2), is called (1)
 > **Env Vars:** cpu (3), f11 (1), cmd (1), stime (1)
@@ -1414,11 +1415,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), application (2), web (2), database (1)
 > **Env Vars:** ram (7), ssd (1)
 > **Versions:** 1.00 (2), 2.00 (2), 0.50 (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** interface (1), else. (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1540,8 +1541,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Statistics]] (2), next (2), application (1), hit (1)
 > **Env Vars:** smart (6), ram (2), grub (1), usb (1)
-> **Code Keywords:** let (4), pass (2), else, (1), function (1)
 > **CLI Commands:** sudo (5), apt (1)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** install (2)
@@ -1612,7 +1613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), module (2), require (2), type, (1), interface (1)
+> **Frameworks & Libraries:** [[Hardware]] (17), power (3), [[Wireless Networking]] (2), [[Virtual Machines]] (1), [[Troubleshooting]] (1)
 > **Env Vars:** ram (4), usb (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** install (2), you'll need (1)
@@ -1727,7 +1728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), var (1), interface (1), from. (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Ubuntu]] (1), [[Zoom]] (1), application (1), [[Hardware]] (1)
 > **CLI Commands:** cat (3), grep (3), make (1), find (1)
 > **Prerequisites:** set up (2), configure (1)
 > **UI Navigation:** scroll up (1)
@@ -1815,8 +1816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Ubuntu]] (1), [[Configuration Management]] (1), [[Intrusion Detection]] (1)
 > **CLI Commands:** sudo (8), make (3), ls (2), cat (2), ssh (1)
-> **Code Keywords:** let (2), var (1)
 > **Env Vars:** etc (2), ssh (1)
 > **Best Practices:** good practice (1), make sure to (1)
 > **Prerequisites:** you'll need (1), install (1)
@@ -1987,9 +1988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Linux]] (1), [[Scripting]] (1), next (1)
 > **CLI Commands:** awk (12), find (1), cat (1)
 > **Env Vars:** awk (12)
-> **Code Keywords:** let (7), for ( (1), case, (1), var (1)
 > **File Paths:** summary.sh (2)
 > **Tools:** bash (2)
 > **Versions:** 2.3 (1)
@@ -1998,7 +1999,7 @@ created: 2026-04-29
 
 ### 4. Automation and Scheduling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Schedule and verify tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980)
@@ -2153,7 +2154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), pass (1), var (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Ports:** :01 (3), :15 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -2203,6 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Configuration Management]] (7), [[Ansible]] (1), management (1), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2), ansible (1), find (1)
 > **Analogies:** such as (2), for example (1)
 > **Code Identifiers:** macos (1)
@@ -2213,7 +2215,7 @@ created: 2026-04-29
 
 ### 5. Recovery and Support
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider a disaster recovery plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980)
@@ -2296,7 +2298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), require (1)
+> **Frameworks & Libraries:** data (10), business (6), [[Hardware]] (3), power (2), leadership (2)
 > **CLI Commands:** make (3)
 > **Best Practices:** good practice (1), recommended (1)
 > **Prerequisites:** setup (2)
@@ -2366,6 +2368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), application (1), [[System Administration]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** go to (1)
@@ -2424,6 +2427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Incident Response]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Slack]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Env Vars:** ric (1)
@@ -2434,7 +2438,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/summary?u=76281980)
@@ -2453,6 +2457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), next (1)
 > **Speakers:** - [scott] (1)
 
 

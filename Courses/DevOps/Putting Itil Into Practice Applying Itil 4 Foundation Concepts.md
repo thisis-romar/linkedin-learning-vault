@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20Itil%20Into%20Practice%20Applying%20Itil%204%20Foundation%20Concepts.md)
@@ -44,58 +44,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - ITIL® 4 in the real world
-  - What you should know
+  - [ITIL® 4 in the real world](#itil-4-in-the-real-world)
+  - [What you should know](#what-you-should-know)
 - [**1.  ITIL® Foundation Concepts**](#1-itil-foundation-concepts) (1 videos)
-  - What your  ITIL® Foundation course covered
+  - [What your  ITIL® Foundation course covered](#what-your-itil-foundation-course-covered)
 - [**2. Seven Ways to Apply  ITIL® Foundation Concepts**](#2-seven-ways-to-apply-itil-foundation-concepts) (11 videos)
-  - Seven ways to apply service management
-  - Enact outcomes
-  - Enable outcomes
-  - Enlighten and empower people
-  - Reduce barriers and increase enablers
-  - Improve moments of truth
-  - Bring the first four ways together
-  - Root out variation
-  - Root out dependency
-  - Lower transaction costs
-  - Reflect and act
+  - [Seven ways to apply service management](#seven-ways-to-apply-service-management)
+  - [Enact outcomes](#enact-outcomes)
+  - [Enable outcomes](#enable-outcomes)
+  - [Enlighten and empower people](#enlighten-and-empower-people)
+  - [Reduce barriers and increase enablers](#reduce-barriers-and-increase-enablers)
+  - [Improve moments of truth](#improve-moments-of-truth)
+  - [Bring the first four ways together](#bring-the-first-four-ways-together)
+  - [Root out variation](#root-out-variation)
+  - [Root out dependency](#root-out-dependency)
+  - [Lower transaction costs](#lower-transaction-costs)
+  - [Reflect and act](#reflect-and-act)
 - [**3. Service Management Key Concepts**](#3-service-management-key-concepts) (4 videos)
-  - Apply key service management concepts
-  - Services and service management
-  - Create value with services
-  - Service relationships
+  - [Apply key service management concepts](#apply-key-service-management-concepts)
+  - [Services and service management](#services-and-service-management)
+  - [Create value with services](#create-value-with-services)
+  - [Service relationships](#service-relationships)
 - [**4. Service Management Dimensions**](#4-service-management-dimensions) (3 videos)
-  - Apply the four dimensions
-  - Organizations and information dimensions
-  - Partners and process dimensions
+  - [Apply the four dimensions](#apply-the-four-dimensions)
+  - [Organizations and information dimensions](#organizations-and-information-dimensions)
+  - [Partners and process dimensions](#partners-and-process-dimensions)
 - [**5. Service Value System**](#5-service-value-system) (2 videos)
-  - Apply service value system
-  - Apply service value system components
+  - [Apply service value system](#apply-service-value-system)
+  - [Apply service value system components](#apply-service-value-system-components)
 - [**6. Service Management Guiding Principles**](#6-service-management-guiding-principles) (3 videos)
-  - Apply the  ITIL® guiding principles
-  - Apply guiding principles, part 1
-  - Apply guiding principles, part 2
+  - [Apply the  ITIL® guiding principles](#apply-the-itil-guiding-principles)
+  - [Apply guiding principles, part 1](#apply-guiding-principles-part-1)
+  - [Apply guiding principles, part 2](#apply-guiding-principles-part-2)
 - [**7. Service Value Chain Activities**](#7-service-value-chain-activities) (3 videos)
-  - Apply the  ITIL® service value chain
-  - Apply value chain activities, part 1
-  - Apply value chain activities, part 2
+  - [Apply the  ITIL® service value chain](#apply-the-itil-service-value-chain)
+  - [Apply value chain activities, part 1](#apply-value-chain-activities-part-1)
+  - [Apply value chain activities, part 2](#apply-value-chain-activities-part-2)
 - [**8. 18 Practices**](#8-18-practices) (9 videos)
-  - Apply  ITIL® management practices
-  - Apply general management practices
-  - Service management practices, part 1
-  - Service management practices, part 2
-  - Service management practices, part 3
-  - Service management practices, part 4
-  - Service management practices, part 5
-  - Service management practices, part 6
-  - Apply the deployment management practice
+  - [Apply  ITIL® management practices](#apply-itil-management-practices)
+  - [Apply general management practices](#apply-general-management-practices)
+  - [Service management practices, part 1](#service-management-practices-part-1)
+  - [Service management practices, part 2](#service-management-practices-part-2)
+  - [Service management practices, part 3](#service-management-practices-part-3)
+  - [Service management practices, part 4](#service-management-practices-part-4)
+  - [Service management practices, part 5](#service-management-practices-part-5)
+  - [Service management practices, part 6](#service-management-practices-part-6)
+  - [Apply the deployment management practice](#apply-the-deployment-management-practice)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ITIL® 4 in the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (7), [[IT Service Management]] (1), [[Agile Development|Agile]] (1), cloud (1), next (1)
 > **Env Vars:** itil (7)
 > **Speakers:** - [dave] (1)
 
@@ -130,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (3)
 > **Env Vars:** itil (3)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
@@ -137,7 +139,7 @@ created: 2026-04-29
 
 ### 1.  ITIL® Foundation Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What your  ITIL® Foundation course covered
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-your-itil-foundation-course-covered-23398575?u=76281980)
@@ -186,9 +188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (8), management (7)
 > **Env Vars:** itil (8)
 > **Warnings:** note that (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -196,7 +198,7 @@ created: 2026-04-29
 
 ### 2. Seven Ways to Apply  ITIL® Foundation Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Seven ways to apply service management
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980)
@@ -245,8 +247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (5), [[Agile Development|Agile]] (3), teams (3), management (2), [[Engineering]] (2)
 > **Env Vars:** itil (5)
-> **Code Keywords:** function (1), let (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -315,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), business (2), [[Agile Development|Agile]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -366,6 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (1), next (1), [[Agile Development|Agile]] (1), [[Orchestration]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ita (1)
 > **Prerequisites:** set up (1)
@@ -416,6 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Python (Programming Language)|Python]] (1), [[MongoDB]] (1), business (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -467,9 +471,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (3), teams (2), [[Agile Development|Agile]] (1), [[DevOps]] (1)
 > **Env Vars:** swot (5)
 > **Definitions:** is a  (3), stands for (1)
-> **Code Keywords:** return, (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -534,9 +538,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Engineering]] (3), [[Agile Development|Agile]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[DevOps]] (1)
 > **Env Vars:** cab (4), sas (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** raise (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -578,6 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (2), [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -629,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), else, (1), super (1), this, (1)
+> **Frameworks & Libraries:** application (1), management (1), [[DevOps]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -706,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), this. (1)
+> **Frameworks & Libraries:** cloud (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[ITIL]] (1), product (1), [[Hardware]] (1)
 > **Env Vars:** itil (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
@@ -770,10 +775,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Agile Development|Agile]] (3), feature (2), cloud (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Reflect and act
@@ -837,6 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (3), teams (3), management (2)
 > **Env Vars:** itil (3), oem (1), dml (1), idle (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is an  (1)
@@ -847,7 +853,7 @@ created: 2026-04-29
 
 ### 3. Service Management Key Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply key service management concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-key-service-management-concepts-23399019?u=76281980)
@@ -888,7 +894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** management (5), [[User Experience (UX)|User experience]] (1), ux (1)
 > **Speakers:** - [instructor] (1)
 
 #### Services and service management
@@ -976,7 +982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** management (4), [[ITIL]] (2), feature (1), [[Security]] (1)
 > **Warnings:** warning (3), note that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** itil (2)
@@ -1080,7 +1086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[ITIL]] (4), next (2), data (1)
 > **Env Vars:** itil (4)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1142,14 +1148,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** management (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Service Management Dimensions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the four dimensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-four-dimensions-23394691?u=76281980)
@@ -1225,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** next (2), management (2), [[Security]] (2), [[Regulatory Compliance]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
@@ -1289,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[ITIL]] (2), [[Hardware]] (1), [[Telecommunications]] (1), next (1), business (1)
 > **Env Vars:** itil (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1297,7 +1303,7 @@ created: 2026-04-29
 
 ### 5. Service Value System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply service value system
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-23400018?u=76281980)
@@ -1354,7 +1360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1), yield (1)
+> **Frameworks & Libraries:** [[ITIL]] (3), management (1), business (1), next (1)
 > **Env Vars:** itil (3), svs (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1459,7 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[ITIL]] (3), management (3), [[Microsoft Products|Products]] (2), product (1), [[Problem Management]] (1)
 > **Env Vars:** itil (3), svs (1), stlc (1), cab (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1469,7 +1475,7 @@ created: 2026-04-29
 
 ### 6. Service Management Guiding Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the  ITIL® guiding principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-guiding-principles-23394686?u=76281980)
@@ -1500,7 +1506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[ITIL]] (1), management (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1569,6 +1575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (5), teams (1), [[DevOps]] (1), [[Agile Development|Agile]] (1), management (1)
 > **Env Vars:** itil (5)
 > **Speakers:** - [instructor] (1)
 
@@ -1621,14 +1628,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (4), [[Automation]] (1)
 > **Env Vars:** itil (4)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Service Value Chain Activities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the  ITIL® service value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980)
@@ -1675,8 +1682,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (2), product (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** itil (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1732,7 +1739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), management (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
@@ -1790,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[ITIL]] (1)
 > **Env Vars:** itil (1)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
@@ -1799,7 +1806,7 @@ created: 2026-04-29
 
 ### 8. 18 Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply  ITIL® management practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-itil-management-practices-23396557?u=76281980)
@@ -1832,8 +1839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (3), management (1)
 > **Env Vars:** itil (3)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Apply general management practices
@@ -1905,7 +1912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), extends (1)
+> **Frameworks & Libraries:** management (7), business (3), [[Microsoft Products|Products]] (3), [[ITIL]] (2), [[Security]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** itil (2)
@@ -2008,7 +2015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** management (5), [[ITIL]] (4), cloud (1)
 > **Env Vars:** itil (4)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [narrator] (1)
@@ -2098,7 +2105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (1)
+> **Frameworks & Libraries:** management (6), [[ITIL]] (3), feature (1), data (1), cloud (1)
 > **Env Vars:** itil (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -2177,7 +2184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1)
+> **Frameworks & Libraries:** management (2), [[Problem Management]] (2), next (1), [[Automation]] (1), cloud (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** warning (1)
@@ -2268,7 +2275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** management (4), cloud (3), next (2), [[Configuration Management]] (2), ci (1)
 > **Env Vars:** itl (3)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2332,8 +2339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (4), management (3), business (1), cloud (1)
 > **Env Vars:** itil (4), bcm (2), scm (2)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2421,7 +2428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (1), self (1)
+> **Frameworks & Libraries:** management (10), [[ITIL]] (5), business (3), [[Automation]] (1)
 > **Env Vars:** itil (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2508,7 +2515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** management (5), [[E-Commerce]] (2), [[Hardware]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** make (2), cd (1)
 > **Env Vars:** prod (1)
 > **Cross-References:** in the next (1)
@@ -2518,7 +2525,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980)
@@ -2541,6 +2548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (2), teams (1)
 > **Env Vars:** itil (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)

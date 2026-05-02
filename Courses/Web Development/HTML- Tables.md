@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Tables.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Create semantic HTML tables
-  - What you should know
-  - Working with CodePen
+  - [Create semantic HTML tables](#create-semantic-html-tables)
+  - [What you should know](#what-you-should-know)
+  - [Working with CodePen](#working-with-codepen)
 - [**1. Table Basics**](#1-table-basics) (10 videos)
-  - Display data semantically
-  - Understand table rows and table data
-  - Add content and data to table cells
-  - Understand table headings
-  - Identify table head, body, and foot
-  - Include table captions
-  - Group columns and apply to headers
-  - Use colspan and rowspan
-  - Challenge: Mark up a table
-  - Solution: Mark up a table
+  - [Display data semantically](#display-data-semantically)
+  - [Understand table rows and table data](#understand-table-rows-and-table-data)
+  - [Add content and data to table cells](#add-content-and-data-to-table-cells)
+  - [Understand table headings](#understand-table-headings)
+  - [Identify table head, body, and foot](#identify-table-head-body-and-foot)
+  - [Include table captions](#include-table-captions)
+  - [Group columns and apply to headers](#group-columns-and-apply-to-headers)
+  - [Use colspan and rowspan](#use-colspan-and-rowspan)
+  - [Challenge: Mark up a table](#challenge-mark-up-a-table)
+  - [Solution: Mark up a table](#solution-mark-up-a-table)
 - [**2. Styling HTML Tables**](#2-styling-html-tables) (6 videos)
-  - Style table borders and basic styling
-  - Style the table caption
-  - Style your table headers and footers
-  - Stripe table rows with background colors
-  - Challenge: Style HTML tables
-  - Solution: Style HTML tables
+  - [Style table borders and basic styling](#style-table-borders-and-basic-styling)
+  - [Style the table caption](#style-the-table-caption)
+  - [Style your table headers and footers](#style-your-table-headers-and-footers)
+  - [Stripe table rows with background colors](#stripe-table-rows-with-background-colors)
+  - [Challenge: Style HTML tables](#challenge-style-html-tables)
+  - [Solution: Style HTML tables](#solution-style-html-tables)
 - [**3. Making Tables Responsive**](#3-making-tables-responsive) (5 videos)
-  - Responsive tables with side scrolling
-  - Reformat a table for responsive layout
-  - Final styling tweaks
-  - Challenge: Make tables responsive
-  - Solution: Make tables responsive
+  - [Responsive tables with side scrolling](#responsive-tables-with-side-scrolling)
+  - [Reformat a table for responsive layout](#reformat-a-table-for-responsive-layout)
+  - [Final styling tweaks](#final-styling-tweaks)
+  - [Challenge: Make tables responsive](#challenge-make-tables-responsive)
+  - [Solution: Make tables responsive](#solution-make-tables-responsive)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create semantic HTML tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980)
@@ -98,9 +98,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), css (1)
 > **Env Vars:** html (5), css (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - if (1)
 
 #### What you should know
@@ -130,6 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), css (3), [[CodePen]] (3), [[JavaScript]] (1)
 > **Env Vars:** html (5), css (3), url (1)
 > **CLI Commands:** make (1)
 > **URLs:** [codepen.io](https://codepen.io) (1)
@@ -172,6 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (4), product (1), [[HTML]] (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** html (1), css (1), url (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -181,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Table Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Display data semantically
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980)
@@ -238,6 +240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), data (6), web (5), css (3), next (2)
 > **Env Vars:** html (7), css (3), w3c (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Documentation:** w3c (1)
@@ -347,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), css (4), next (2), data (2), [[CodePen]] (1)
 > **Env Vars:** html (7), css (4)
-> **Code Keywords:** let (6)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** just like (3)
@@ -418,8 +421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), data (5), css (1), hit (1), next (1)
 > **Env Vars:** html (6), css (1)
-> **Code Keywords:** let (2), this, (1), continue (1)
 > **Analogies:** just like (1), kind of like (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -471,7 +474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1)
+> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1), product (1), [[CodePen]] (1)
 > **Env Vars:** html (1), css (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1)
@@ -590,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), finally, (1)
+> **Frameworks & Libraries:** data (8), next (4), [[HTML]] (1)
 > **Versions:** 125.04 (1), 1425.46 (1), 75.02 (1), 1350.43 (1), 150.05 (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
@@ -660,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), css (2), data (1), product (1), next (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -777,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), class, (2), case. (2), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -872,7 +875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1)
+> **Frameworks & Libraries:** data (2), next (2), product (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for example (2)
 > **Env Vars:** html (1)
@@ -925,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), for. (1)
+> **Frameworks & Libraries:** data (2), [[HTML]] (1), next (1)
 > **Definitions:** is a  (2), in other words (2)
 > **CLI Commands:** make (3)
 > **Exercise Files:** exercise files (2)
@@ -1005,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -1015,7 +1018,7 @@ created: 2026-04-29
 
 ### 2. Styling HTML Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Style table borders and basic styling
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/style-table-borders-and-basic-styling?u=76281980)
@@ -1098,7 +1101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), this, (1), for, (1)
+> **Frameworks & Libraries:** css (4), data (1), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** css (4), ccae51 (1)
 > **Cross-References:** previous chapter (1), in the last (1), later in (1)
@@ -1164,7 +1167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), else. (1)
+> **Frameworks & Libraries:** next (1), [[HTML]] (1), css (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** html (1), ccae51 (1), css (1)
 > **Analogies:** for example (1)
@@ -1261,8 +1264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (3), for. (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1345,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Search]] (2), css (1)
 > **Env Vars:** rgba (4), css (1)
 > **Definitions:** is a  (3), in other words (2)
 > **Versions:** 0.2 (2)
@@ -1385,6 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[CodePen]] (2), [[HTML]] (1), css (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
@@ -1453,9 +1457,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), css (1)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [woman] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1463,7 +1467,7 @@ created: 2026-04-29
 
 ### 3. Making Tables Responsive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsive tables with side scrolling
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980)
@@ -1528,7 +1532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (2), this. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), css (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** css (1)
@@ -1640,10 +1644,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), next (3), [[Representational State Transfer (REST)|Rest]] (2), product (1), [[JavaScript]] (1)
 > **Env Vars:** css (7), php (1)
 > **CLI Commands:** make (3), php (1), python (1)
 > **Analogies:** just like (3), kind of like (1)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** means that (1), in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1712,8 +1716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), hit (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), this, (1), override (1)
 > **Analogies:** just like (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1742,9 +1746,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (3), css (3), next (1)
 > **Env Vars:** html (3), css (3)
 > **CLI Commands:** make (4)
-> **Code Keywords:** case, (1), let (1), this. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1792,9 +1796,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[HTML]] (3), [[JavaScript]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** css (4), html (3), php (1)
 > **CLI Commands:** make (3), php (1), python (1)
-> **Code Keywords:** let (1), throw (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1802,7 +1806,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980)
@@ -1829,6 +1833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), web (1), css (1)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)

@@ -42,7 +42,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Foundations-%20Machine%20Learning.md)
@@ -61,45 +61,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to AI foundations: Machine learning course
-  - Reviewing the course scenarios
+  - [Introduction to AI foundations: Machine learning course](#introduction-to-ai-foundations-machine-learning-course)
+  - [Reviewing the course scenarios](#reviewing-the-course-scenarios)
 - [**1. Understanding Machine Learning**](#1-understanding-machine-learning) (3 videos)
-  - Exploring machine learning
-  - Examining how machines learn
-  - Why traditional ML still matters
+  - [Exploring machine learning](#exploring-machine-learning)
+  - [Examining how machines learn](#examining-how-machines-learn)
+  - [Why traditional ML still matters](#why-traditional-ml-still-matters)
 - [**2. Implementing a Machine Learning Solution**](#2-implementing-a-machine-learning-solution) (4 videos)
-  - Breaking down the machine learning lifecycle
-  - Framing machine learning problems
-  - Identifying a pre-built model
-  - Understanding tools used to train a model
+  - [Breaking down the machine learning lifecycle](#breaking-down-the-machine-learning-lifecycle)
+  - [Framing machine learning problems](#framing-machine-learning-problems)
+  - [Identifying a pre-built model](#identifying-a-pre-built-model)
+  - [Understanding tools used to train a model](#understanding-tools-used-to-train-a-model)
 - [**3. Preparing Data for Machine Learning**](#3-preparing-data-for-machine-learning) (4 videos)
-  - Obtaining data
-  - Visualizing and understanding data
-  - Understanding feature engineering
-  - Demo: Performing feature engineering
+  - [Obtaining data](#obtaining-data)
+  - [Visualizing and understanding data](#visualizing-and-understanding-data)
+  - [Understanding feature engineering](#understanding-feature-engineering)
+  - [Demo: Performing feature engineering](#demo-performing-feature-engineering)
 - [**4. Training a Machine Learning Model**](#4-training-a-machine-learning-model) (6 videos)
-  - Understanding learning algorithms and model training
-  - Exploring learning algorithms for classification
-  - Reviewing learning algorithms for regression
-  - Examining additional learning algorithms
-  - Training a custom machine learning model
-  - Demo: Training a custom machine learning model
+  - [Understanding learning algorithms and model training](#understanding-learning-algorithms-and-model-training)
+  - [Exploring learning algorithms for classification](#exploring-learning-algorithms-for-classification)
+  - [Reviewing learning algorithms for regression](#reviewing-learning-algorithms-for-regression)
+  - [Examining additional learning algorithms](#examining-additional-learning-algorithms)
+  - [Training a custom machine learning model](#training-a-custom-machine-learning-model)
+  - [Demo: Training a custom machine learning model](#demo-training-a-custom-machine-learning-model)
 - [**5. Evaluating Model Performance**](#5-evaluating-model-performance) (5 videos)
-  - Exploring common classification metrics
-  - Understanding the confusion matrix
-  - Exploring common regression metrics
-  - Determining feature importance
-  - Combating bias
+  - [Exploring common classification metrics](#exploring-common-classification-metrics)
+  - [Understanding the confusion matrix](#understanding-the-confusion-matrix)
+  - [Exploring common regression metrics](#exploring-common-regression-metrics)
+  - [Determining feature importance](#determining-feature-importance)
+  - [Combating bias](#combating-bias)
 - [**6. Operationalizing a Machine Learning Pipeline**](#6-operationalizing-a-machine-learning-pipeline) (2 videos)
-  - Structuring a machine learning pipeline
-  - Demo: Designing and building a pipeline
+  - [Structuring a machine learning pipeline](#structuring-a-machine-learning-pipeline)
+  - [Demo: Designing and building a pipeline](#demo-designing-and-building-a-pipeline)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Your machine learning journey
-  - Bridge to generative AI
+  - [Your machine learning journey](#your-machine-learning-journey)
+  - [Bridge to generative AI](#bridge-to-generative-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI foundations: Machine learning course
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/introduction-to-ai-foundations-machine-learning-course?u=76281980)
@@ -122,6 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** required to (1)
 > **Speakers:** - the (1)
@@ -171,13 +172,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new, (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (4), [[Linear Regression]] (2), [[Search]] (1), data (1)
 > **Speakers:** - i (1)
 
 
 ### 1. Understanding Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980)
@@ -248,6 +249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Simulation]] (1), [[Algorithms]] (1), [[Big Data]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -314,9 +316,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Supervised Learning]] (7), [[Reinforcement Learning]] (7), [[Marketing Strategy]] (1), ai (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -371,14 +373,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (4), [[Generative AI]] (3), [[Deep Learning]] (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Implementing a Machine Learning Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down the machine learning lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980)
@@ -451,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), public (1), from. (1), from, (1)
+> **Frameworks & Libraries:** data (22), [[Software Development]] (2), [[Agile Development|Agile]] (1), business (1), [[Fine Tuning]] (1)
 > **Definitions:** is an  (2), stands for (1), is a  (1)
 > **Env Vars:** sdlc (2)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -515,8 +517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), feature (2), next (2), [[LinkedIn]] (1), aws (1)
 > **CLI Commands:** make (2), aws (1), find (1)
-> **Code Keywords:** let (2), for, (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (2)
 > **Env Vars:** aws (1)
@@ -588,8 +590,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), aws (2), [[Java]] (1)
 > **CLI Commands:** make (2), find (2), aws (2), apache (1)
-> **Code Keywords:** require (1), this. (1)
 > **Env Vars:** aws (2)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
@@ -665,10 +667,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (10), [[Pandas (Software)|Pandas]] (4), [[Programming]] (3), [[Hardware]] (2)
 > **CLI Commands:** python (10), find (3), aws (1)
 > **Env Vars:** cpu (1), aws (1), csv (1), json (1), tsv (1)
 > **Tools:** jupyter (3)
-> **Code Keywords:** case. (1), let (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (2)
 > **Cross-References:** later in (1)
@@ -677,7 +679,7 @@ created: 2026-04-29
 
 ### 3. Preparing Data for Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Obtaining data
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980)
@@ -788,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), public (1), for. (1), function (1)
+> **Frameworks & Libraries:** data (14), [[Supervised Learning]] (4), next (4), [[Linear Regression]] (3), feature (2)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (1), python (1)
 > **Code Identifiers:** read_csv (1), housing_df (1)
@@ -881,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1)
+> **Frameworks & Libraries:** data (6), feature (5), [[Python (Programming Language)|Python]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Env Vars:** usd (1)
 > **Versions:** 0.5 (1)
@@ -963,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), feature (6), [[Feature Engineering]] (3), next (3), [[Algorithms]] (2)
 > **Definitions:** is a  (6), is an  (1)
-> **Code Keywords:** delete (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Demo: Performing feature engineering
@@ -1070,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (10), pass (1)
+> **Frameworks & Libraries:** data (15), next (7), feature (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** knn (5)
 > **UI Navigation:** scroll down (4)
 > **Tools:** jupyter (3)
@@ -1080,7 +1082,7 @@ created: 2026-04-29
 
 ### 4. Training a Machine Learning Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding learning algorithms and model training
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980)
@@ -1161,7 +1163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (2), [[Decision Trees]] (2), [[Linear Regression]] (1), [[Logistic Regression]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** auc (1)
@@ -1246,7 +1248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (3), function (2), pass (2), from. (1)
+> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (2), [[Probability]] (2), [[Search]] (2), [[Algorithms]] (2)
 > **Definitions:** is a  (2), is called (2), stands for (1)
 > **Env Vars:** knn (1), aws (1), url (1), api (1)
 > **CLI Commands:** python (1), aws (1), docker (1)
@@ -1344,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), function (3), for. (1), from. (1)
+> **Frameworks & Libraries:** data (14), [[Algorithms]] (5), [[Linear Regression]] (5), next (2), [[Decision Trees]] (1)
 > **Code Identifiers:** reg_model (1), rf_model (1), xgb_model (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** xgb (1)
@@ -1428,8 +1430,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft Word|Word]] (3), [[Supervised Learning]] (2), [[Marketing Strategy]] (1), nlp (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** self (2), let (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** knn (1), nlp (1)
 > **Analogies:** for example (1), such as (1)
@@ -1540,7 +1542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), continue (1)
+> **Frameworks & Libraries:** next (5), data (4), [[Algorithms]] (2), game (1), [[Linear Regression]] (1)
 > **Versions:** 0.3 (2), 0.1 (1), 0.01 (1), 0.77 (1), 0.78 (1)
 > **Code Identifiers:** get_params (1), n_estimators (1)
 > **Definitions:** is a  (2)
@@ -1704,8 +1706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Supervised Learning]] (3), [[Python (Programming Language)|Python]] (2), aws (2), [[Deep Learning]] (2)
 > **Env Vars:** lst (9), aws (2), rgb (1), cnn (1), iam (1)
-> **Code Keywords:** let (6), class. (2), type, (1), case, (1)
 > **CLI Commands:** python (2), aws (2), find (2), make (2)
 > **UI Navigation:** scroll down (5), click on (1), select the (1), go to (1)
 > **Definitions:** is a  (3)
@@ -1716,7 +1718,7 @@ created: 2026-04-29
 
 ### 5. Evaluating Model Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring common classification metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-common-classification-metrics?u=76281980)
@@ -1803,7 +1805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), public (1), class. (1), case, (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** auc (3), roc (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
@@ -1875,7 +1877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (2), class, (1), public (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -1973,7 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), pass (2), continue (1)
+> **Frameworks & Libraries:** next (1), feature (1)
 > **Env Vars:** mse (3), rmse (1), mae (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Code Identifiers:** y_xgb_pred_test (1)
@@ -2060,7 +2062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), function (2), for, (1), if. (1)
+> **Frameworks & Libraries:** feature (12), [[Algorithms]] (2), next (1), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2136,8 +2138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), business (1), power (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** picture (1), for example (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** you'll need (1)
@@ -2146,7 +2148,7 @@ created: 2026-04-29
 
 ### 6. Operationalizing a Machine Learning Pipeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring a machine learning pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980)
@@ -2231,7 +2233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (6), parallel (3), [[Linear Regression]] (2), [[Feature Engineering]] (1), [[Algorithms]] (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is called (1)
 > **Analogies:** imagine (1)
@@ -2312,7 +2314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), continue (1)
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (5), [[Linear Regression]] (3), next (3), [[Feature Engineering]] (2)
 > **CLI Commands:** find (1)
 > **Versions:** 0.56 (1)
 > **UI Navigation:** navigate to (1)
@@ -2321,7 +2323,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your machine learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980)
@@ -2366,7 +2368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), from. (1)
+> **Frameworks & Libraries:** data (4), next (2), ai (2), power (1), [[Search]] (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - congratulations (1)
 
@@ -2415,8 +2417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (6), next (2), [[Large Language Models (LLM)|Large language models]] (1), [[Gemini]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new, (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** next chapter (1)
 > **Analogies:** such as (1)

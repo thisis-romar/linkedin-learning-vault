@@ -50,7 +50,7 @@ tags:
   - topic/network-and-system-administration
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Essential%20Training.md)
@@ -69,78 +69,78 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started with Python
-  - Who this course is for
-  - Resources for this course
+  - [Getting started with Python](#getting-started-with-python)
+  - [Who this course is for](#who-this-course-is-for)
+  - [Resources for this course](#resources-for-this-course)
 - [**1. Gearing Up for Python**](#1-gearing-up-for-python) (6 videos)
-  - How computers think
-  - Installing Python, Pip, and Jupyter Notebooks
-  - The Zen of Python
-  - Writing a program
-  - Jupyter notebooks
-  - Using Coderpad
+  - [How computers think](#how-computers-think)
+  - [Installing Python, Pip, and Jupyter Notebooks](#installing-python-pip-and-jupyter-notebooks)
+  - [The Zen of Python](#the-zen-of-python)
+  - [Writing a program](#writing-a-program)
+  - [Jupyter notebooks](#jupyter-notebooks)
+  - [Using Coderpad](#using-coderpad)
 - [**2. Quickstart**](#2-quickstart) (8 videos)
-  - Variables and types
-  - Data structures
-  - Operators
-  - Control flow
-  - Functions
-  - Classes and objects
-  - About the challenges
-  - Solution: Factorials
+  - [Variables and types](#variables-and-types)
+  - [Data structures](#data-structures)
+  - [Operators](#operators)
+  - [Control flow](#control-flow)
+  - [Functions](#functions)
+  - [Classes and objects](#classes-and-objects)
+  - [About the challenges](#about-the-challenges)
+  - [Solution: Factorials](#solution-factorials)
 - [**3. Basic Data Types**](#3-basic-data-types) (6 videos)
-  - Ints and floats
-  - Other types of numbers
-  - Booleans
-  - Strings
-  - Bytes
-  - Solution: Converting hex to decimal
+  - [Ints and floats](#ints-and-floats)
+  - [Other types of numbers](#other-types-of-numbers)
+  - [Booleans](#booleans)
+  - [Strings](#strings)
+  - [Bytes](#bytes)
+  - [Solution: Converting hex to decimal](#solution-converting-hex-to-decimal)
 - [**4. Basic Data Structures**](#4-basic-data-structures) (6 videos)
-  - Lists
-  - Tuples and sets
-  - Dictionaries
-  - List comprehensions
-  - Dictionary comprehensions
-  - Solution: Encoding ASCII art
+  - [Lists](#lists)
+  - [Tuples and sets](#tuples-and-sets)
+  - [Dictionaries](#dictionaries)
+  - [List comprehensions](#list-comprehensions)
+  - [Dictionary comprehensions](#dictionary-comprehensions)
+  - [Solution: Encoding ASCII art](#solution-encoding-ascii-art)
 - [**5. Control Flow**](#5-control-flow) (4 videos)
-  - If and else
-  - While
-  - For
-  - Solution: Finding primes faster
+  - [If and else](#if-and-else)
+  - [While](#while)
+  - [For](#for)
+  - [Solution: Finding primes faster](#solution-finding-primes-faster)
 - [**6. Functions**](#6-functions) (4 videos)
-  - The anatomy of a function
-  - Variables and scope
-  - Functions as variables
-  - Solution: Sum of triangles
+  - [The anatomy of a function](#the-anatomy-of-a-function)
+  - [Variables and scope](#variables-and-scope)
+  - [Functions as variables](#functions-as-variables)
+  - [Solution: Sum of triangles](#solution-sum-of-triangles)
 - [**7. Classes and Objects**](#7-classes-and-objects) (4 videos)
-  - The anatomy of a class
-  - Static and instance methods
-  - Inheritance
-  - Solution: Drawing shapes
+  - [The anatomy of a class](#the-anatomy-of-a-class)
+  - [Static and instance methods](#static-and-instance-methods)
+  - [Inheritance](#inheritance)
+  - [Solution: Drawing shapes](#solution-drawing-shapes)
 - [**8. Errors**](#8-errors) (4 videos)
-  - Errors and exceptions
-  - Handling exceptions
-  - Custom exceptions
-  - Solution: Bad arguments
+  - [Errors and exceptions](#errors-and-exceptions)
+  - [Handling exceptions](#handling-exceptions)
+  - [Custom exceptions](#custom-exceptions)
+  - [Solution: Bad arguments](#solution-bad-arguments)
 - [**9. Threads and Processes**](#9-threads-and-processes) (3 videos)
-  - Intro to threads and processes
-  - Multithreading
-  - Multiprocessing
+  - [Intro to threads and processes](#intro-to-threads-and-processes)
+  - [Multithreading](#multithreading)
+  - [Multiprocessing](#multiprocessing)
 - [**10. Working with Files**](#10-working-with-files) (4 videos)
-  - Opening, reading, and writing
-  - CSV
-  - JSON
-  - Solution: Compressing ASCII art
+  - [Opening, reading, and writing](#opening-reading-and-writing)
+  - [CSV](#csv)
+  - [JSON](#json)
+  - [Solution: Compressing ASCII art](#solution-compressing-ascii-art)
 - [**11. Packaging Python**](#11-packaging-python) (2 videos)
-  - Command-line arguments
-  - Creating modules and packages
+  - [Command-line arguments](#command-line-arguments)
+  - [Creating modules and packages](#creating-modules-and-packages)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Wrap up
-  - Python challenge project
+  - [Wrap up](#wrap-up)
+  - [Python challenge project](#python-challenge-project)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980)
@@ -175,8 +175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (1), [[Control Flow]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), parallel (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - oh (1)
 > **Non-Speech:** (light music) (1)
@@ -266,8 +266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (5), data (1), [[HTML]] (1)
 > **CLI Commands:** python (5), make (1), unzip (1), find (1)
-> **Code Keywords:** let (2)
 > **Tools:** terminal (1), command line (1)
 > **Env Vars:** html (1)
 > **Prerequisites:** set up (1)
@@ -308,8 +308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[GitHub]] (2), data (1)
 > **CLI Commands:** python (7), find (3)
-> **Code Keywords:** let (2), type, (1), function (1), finally, (1)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **Documentation:** reference guide (2)
 > **Tools:** github (2)
@@ -319,7 +319,7 @@ created: 2026-04-29
 
 ### 1. Gearing Up for Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How computers think
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980)
@@ -438,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** data (10), next (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Analogies:** for example (2), kind of like (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
@@ -604,6 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (22), hit (9), [[Troubleshooting]] (5), next (5), prompt (5)
 > **CLI Commands:** python (22), make (4), pip (4), find (3), python3 (2)
 > **Tools:** terminal (7), command prompt (5), jupyter (5), github (4), command line (2)
 > **UI Navigation:** go to (5), click on (1), navigate to (1)
@@ -611,7 +612,6 @@ created: 2026-04-29
 > **Prerequisites:** install (4), you'll need (2)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
 > **URLs:** [python.org](https://python.org) (1), [visualstudio.com](https://visualstudio.com) (1)
-> **Env Vars:** zip (1), cmd (1)
 
 #### The Zen of Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980)
@@ -672,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[JavaScript]] (1), [[Programming]] (1), prompt (1), [[Fetch]] (1)
 > **CLI Commands:** python (9), make (1)
-> **Code Keywords:** function (2), this. (2), module (2), let (1)
 > **Tools:** terminal (2), command prompt (1)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** go to (1)
@@ -759,10 +759,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), cd (3), prompt (2), [[Windows]] (1), [[Programming]] (1)
 > **CLI Commands:** python (14), cd (3), make (1)
 > **Tools:** terminal (3), command prompt (2), visual studio (1), sublime (1), pycharm (1)
 > **File Paths:** hello.py (4)
-> **Code Keywords:** let (2), function (1), break, (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **Definitions:** is an  (1), stands for (1)
 > **Exercise Files:** exercise files (1)
@@ -879,9 +879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (3), web application (2), [[Programming]] (1), hit (1)
 > **Tools:** jupyter (7), visual studio (4), command line (3), github (1)
 > **CLI Commands:** python (7), make (4)
-> **Code Keywords:** let (3), new, (1), delete (1), type, (1), this, (1)
 > **Env Vars:** url (2), ide (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -939,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), pass (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
@@ -949,7 +949,7 @@ created: 2026-04-29
 
 ### 2. Quickstart
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Variables and types
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980)
@@ -1130,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), function (2), this. (2), type. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), next (1), career (1), [[Engineering]] (1), strengths (1)
 > **CLI Commands:** python (11)
 > **Definitions:** is a  (4), we call this (1), is called (1), is an  (1)
 > **Tools:** jupyter (2)
@@ -1330,7 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), this. (2), throw (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (4), make (2)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** similar to (2), kind of like (1)
@@ -1487,8 +1487,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), power (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cat (4), python (2), make (1)
-> **Code Keywords:** let (4)
 > **Analogies:** for example (1), imagine (1)
 > **Warnings:** keep in mind (1), be careful (1)
 > **Cross-References:** later in (1)
@@ -1596,7 +1596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), this. (1), else: (1), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[Control Flow]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** similar to (1)
@@ -1723,7 +1723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (3), return. (1), type, (1), type. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** make (3), python (2)
 > **Definitions:** is a  (3), stands for (1), means that (1)
 > **Code Identifiers:** appendfour (2), mylist (2)
@@ -1868,7 +1868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), self (7), let (5), this, (4), class. (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (3), power (1), next (1)
 > **CLI Commands:** make (7), python (4)
 > **Definitions:** is a  (5), stands for (1), is called (1)
 > **Prerequisites:** initialization (3)
@@ -1992,8 +1992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (2), feature (1), [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (5), make (2), find (1)
-> **Code Keywords:** function (2), super (1), else. (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -2086,7 +2086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), function (4), this, (3), case. (2), return, (1)
+> **Frameworks & Libraries:** business (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** we call this (2), short for (1)
 > **Versions:** 1.2 (1)
@@ -2095,7 +2095,7 @@ created: 2026-04-29
 
 ### 3. Basic Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ints and floats
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/ints-and-floats?u=76281980)
@@ -2174,7 +2174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), this, (3), class, (1), for, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (1)
 > **Versions:** 5.0 (1), 8.9 (1), 8.99999 (1), 4.67 (1), 1.2 (1)
 > **CLI Commands:** python (6)
 > **Definitions:** is an  (1), is called (1)
@@ -2281,7 +2281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), pass (4), function (3), let (2), from. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **Versions:** 1.2 (2), 1.0 (2), 3.14 (2), 0.2 (1), 0.3333 (1)
 > **CLI Commands:** python (5)
 > **Cross-References:** in the last (1)
@@ -2446,7 +2446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (5), this, (2), else, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (1), next (1)
 > **CLI Commands:** python (9), find (1), make (1)
 > **Warnings:** be careful (2)
 > **Versions:** 0.0 (1)
@@ -2616,8 +2616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), data (1), feature (1)
 > **CLI Commands:** python (11), make (1)
-> **Code Keywords:** let (8), function (2), this, (1), finally, (1)
 > **Definitions:** is an  (1), is called (1), stands for (1), is a  (1)
 > **Versions:** python 3 (1), version 3 (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -2752,7 +2752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), case, (1), function (1), pass (1)
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (6), [[Programming]] (1), power (1)
 > **CLI Commands:** python (6), find (2), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -2842,7 +2842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), return. (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** power (5), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** hexnum (2)
 > **Definitions:** is a  (1)
@@ -2851,7 +2851,7 @@ created: 2026-04-29
 
 ### 4. Basic Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980)
@@ -2986,7 +2986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (3), this, (3), function (3), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), feature (2), data (2)
 > **Code Identifiers:** mylist (16)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (1), is called (1)
@@ -3172,7 +3172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (8), this, (3), class. (1), throw (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (1), [[Programming]] (1), [[Fetch]] (1)
 > **Code Identifiers:** myset (13), mytuple (4), mylist (3), returnsmultiplevalues (2)
 > **CLI Commands:** python (6), make (4), find (1)
 > **Cross-References:** later in (1)
@@ -3344,7 +3344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (4), pass (4), function (4), this. (2)
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
 > **CLI Commands:** python (3), cat (3), find (2), make (2)
 > **Definitions:** is a  (3), is called (1)
 > **UI Navigation:** go to (1)
@@ -3484,7 +3484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (6), this. (3), this, (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Python (Programming Language)|Python]] (2), feature (1), [[Programming]] (1), next (1)
 > **Code Identifiers:** mystring (6), cleanword (4)
 > **CLI Commands:** make (6), python (2)
 > **Analogies:** for example (2), for instance (2)
@@ -3561,7 +3561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2)
 > **Code Identifiers:** animallist (4), otheritem (1), dict_items (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** just like (3)
@@ -3641,7 +3641,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** prevchar (6), encodedlist (5), encodestring (2), stringval (1), decodestring (1)
-> **Code Keywords:** function (4), finally, (3), let (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ascii (1)
 > **Definitions:** is a  (1)
@@ -3650,7 +3649,7 @@ created: 2026-04-29
 
 ### 5. Control Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### If and else
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/if-and-else?u=76281980)
@@ -3771,7 +3770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), elif (5), switch (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (4), next (1)
 > **CLI Commands:** python (5), find (1)
 > **Definitions:** stands for (1), known as (1)
 > **Code Identifiers:** fizzbuzz (1)
@@ -3887,7 +3886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (9), let (8), this, (4), pass (3), class, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), hit (2), web (1), next (1), power (1)
 > **Code Identifiers:** wait_until (7)
 > **CLI Commands:** python (3), make (1)
 > **UI Navigation:** go to (1)
@@ -4026,7 +4025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), continue (3), break. (3), let (2), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Cryptography]] (1), [[Security]] (1), power (1)
 > **CLI Commands:** python (6), find (2)
 > **Code Identifiers:** found_factors (5), mylist (1), animallookup (1)
 > **Versions:** 0.5 (2)
@@ -4101,7 +4100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), break. (1), else, (1), finally, (1)
+> **Frameworks & Libraries:** power (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** note that (1), be careful (1)
@@ -4112,7 +4111,7 @@ created: 2026-04-29
 
 ### 6. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The anatomy of a function
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980)
@@ -4281,7 +4280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (11), pass (5), this, (3), this. (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (3), functional (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (4), make (2)
 > **Code Identifiers:** performoperation (5)
 > **Definitions:** we call this (2), stands for (1)
@@ -4438,7 +4437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (36), let (11), this. (2), class. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (7)
 > **CLI Commands:** python (8), make (3), find (1)
 > **Code Identifiers:** vara (7), varb (2), varc (1)
 > **Tools:** jupyter (2)
@@ -4555,7 +4554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), lambda (7), let (3), pass (2), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5), [[Microsoft Word|Word]] (1), business (1)
 > **CLI Commands:** python (6), make (1)
 > **Analogies:** imagine (1), for instance (1), for example (1)
 > **Code Identifiers:** co_code (1)
@@ -4603,7 +4602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -4611,7 +4610,7 @@ created: 2026-04-29
 
 ### 7. Classes and Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The anatomy of a class
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980)
@@ -4744,7 +4743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (7), function (6), static (5), let (3), class. (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), business (1)
 > **CLI Commands:** make (4), python (1)
 > **Warnings:** be careful (2), note that (2), warning (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -4922,7 +4921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (15), static (14), let (11), function (6), pass (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), [[Python (Programming Language)|Python]] (6), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **CLI Commands:** python (6), make (5)
 > **Definitions:** is called (4), is a  (3), is an  (1)
 > **Warnings:** keep in mind (1)
@@ -5057,7 +5056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), class. (8), self (8), class, (6), this. (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** make (4), python (3)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
@@ -5154,7 +5153,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), this. (1), override (1), class. (1)
 > **Code Identifiers:** printchar (2), trianglewidth (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** ascii (1)
@@ -5164,7 +5162,7 @@ created: 2026-04-29
 
 ### 8. Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Errors and exceptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/errors-and-exceptions?u=76281980)
@@ -5253,7 +5251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4), extends (3), this. (1), try. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (3), find (1)
 > **Code Identifiers:** causeerror (3), callcauseerror (1)
 > **Definitions:** is called (2), is a  (1)
@@ -5440,7 +5438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (10), this. (5), raise (4), pass (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **Code Identifiers:** handleexception (3), causeerror (2), raiseerror (1), raiseerrors (1)
 > **CLI Commands:** make (5), python (1)
 > **Analogies:** for instance (3)
@@ -5520,7 +5518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (4), function (4), extends (3), raise (3)
+> **Frameworks & Libraries:** next (1), web (1)
 > **Code Identifiers:** statuscode (3), causeerror (2), raiseservererror (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** http (2)
@@ -5563,7 +5561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (2), finally, (2), class, (1), raise (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -5571,7 +5569,7 @@ created: 2026-04-29
 
 ### 9. Threads and Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to threads and processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980)
@@ -5652,8 +5650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (3), data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** this. (1), let (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - i (1)
@@ -5767,7 +5765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (7), pass (4), finally, (3), this, (2)
+> **Frameworks & Libraries:** data (2), [[Programming]] (1), [[Fetch]] (1), parallel (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Code Identifiers:** longsquare (3)
 > **Definitions:** is called (2)
@@ -5889,7 +5887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (8), function (6), let (4), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), parallel (3), next (2), database (1)
 > **CLI Commands:** python (5), make (1), pip (1)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** install (2)
@@ -5901,7 +5899,7 @@ created: 2026-04-29
 
 ### 10. Working with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening, reading, and writing
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980)
@@ -6042,7 +6040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (4), function (3), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), management (1), [[Microsoft Excel|Excel]] (1), feature (1)
 > **CLI Commands:** python (4), make (2)
 > **File Paths:** 10_01_file.txt (2), output.txt (1)
 > **UI Navigation:** go to (1), double-click (1)
@@ -6184,7 +6182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (3), module (2), type, (1), this, (1)
+> **Frameworks & Libraries:** data (13), next (4), [[Python (Programming Language)|Python]] (3), [[Search]] (1)
 > **Env Vars:** csv (12)
 > **CLI Commands:** python (3), make (1)
 > **File Paths:** 10_02_us.csv (2), ma_prime.csv (1)
@@ -6300,8 +6298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (33), [[Python (Programming Language)|Python]] (6), data (1)
 > **Env Vars:** json (24)
-> **Code Keywords:** let (5), module (3), pass (3), self (3), class. (2)
 > **CLI Commands:** python (6), make (2), cat (2), find (1)
 > **Code Identifiers:** pythondict (2), jsonstring (1)
 > **Definitions:** is a  (1), is called (1)
@@ -6376,7 +6374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), this. (1)
+> **Frameworks & Libraries:** data (5), [[JSON]] (4), next (2)
 > **Env Vars:** json (4), asci (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** earlier in (1), we discussed (1)
@@ -6385,7 +6383,7 @@ created: 2026-04-29
 
 ### 11. Packaging Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980)
@@ -6500,7 +6498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (4), this. (2), pass (1), class. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (2)
 > **File Paths:** somefile.txt (6), example.py (1), 11_1_writefile.py (1)
 > **CLI Commands:** python (5), make (3)
 > **Tools:** terminal (2), command line (2), jupyter (1)
@@ -6720,7 +6718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (30), let (10), function (8), this. (4), else. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Microsoft Word|Word]] (1)
 > **File Paths:** init.py (9), primes.py (8), usepackage.py (4), usemodule.py (3), factors.py (3)
 > **Code Identifiers:** getfactors (7), listprimes (4), usemodule (4), isprime (3), usepackage (3)
 > **CLI Commands:** python (15)
@@ -6732,7 +6730,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap up
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980)
@@ -6783,8 +6781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (5), web (3), [[GitHub]] (1), [[Automation]] (1)
 > **CLI Commands:** python (8), make (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** http (1)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
@@ -6826,8 +6824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1), next (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)

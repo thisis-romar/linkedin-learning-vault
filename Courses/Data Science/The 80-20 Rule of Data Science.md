@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%2080-20%20Rule%20of%20Data%20Science.md)
@@ -41,42 +41,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is the 80/20 rule of data science?
-  - What you should know for this course
+  - [What is the 80/20 rule of data science?](#what-is-the-8020-rule-of-data-science)
+  - [What you should know for this course](#what-you-should-know-for-this-course)
 - [**1. Getting Started with Prioritizing**](#1-getting-started-with-prioritizing) (5 videos)
-  - Defining success
-  - Make minimum viable products (MVP) your friend
-  - The point of diminishing returns
-  - Why do data science projects fail?
-  - Plan for deployment
+  - [Defining success](#defining-success)
+  - [Make minimum viable products (MVP) your friend](#make-minimum-viable-products-mvp-your-friend)
+  - [The point of diminishing returns](#the-point-of-diminishing-returns)
+  - [Why do data science projects fail?](#why-do-data-science-projects-fail)
+  - [Plan for deployment](#plan-for-deployment)
 - [**2. Database Selection and Quality Checks**](#2-database-selection-and-quality-checks) (5 videos)
-  - Comb the literature
-  - Triaging data sources
-  - Checking data quality
-  - Dealing with missing data
-  - Finding strong features
+  - [Comb the literature](#comb-the-literature)
+  - [Triaging data sources](#triaging-data-sources)
+  - [Checking data quality](#checking-data-quality)
+  - [Dealing with missing data](#dealing-with-missing-data)
+  - [Finding strong features](#finding-strong-features)
 - [**3. Simple Models First**](#3-simple-models-first) (6 videos)
-  - Feature transformations
-  - Transforming continuous features
-  - Interaction terms
-  - Adding data sources
-  - Linear regression
-  - Logistic regression
+  - [Feature transformations](#feature-transformations)
+  - [Transforming continuous features](#transforming-continuous-features)
+  - [Interaction terms](#interaction-terms)
+  - [Adding data sources](#adding-data-sources)
+  - [Linear regression](#linear-regression)
+  - [Logistic regression](#logistic-regression)
 - [**4. Tracking Performance**](#4-tracking-performance) (4 videos)
-  - Choosing metrics
-  - Designing simple dashboards
-  - Rapid prototyping
-  - When to stop
+  - [Choosing metrics](#choosing-metrics)
+  - [Designing simple dashboards](#designing-simple-dashboards)
+  - [Rapid prototyping](#rapid-prototyping)
+  - [When to stop](#when-to-stop)
 - [**5. Communicating the 80/20 of Data Science**](#5-communicating-the-8020-of-data-science) (3 videos)
-  - Focus on outcome, not technique
-  - Manage expectations and build trust
-  - Emphasize collaboration
+  - [Focus on outcome, not technique](#focus-on-outcome-not-technique)
+  - [Manage expectations and build trust](#manage-expectations-and-build-trust)
+  - [Emphasize collaboration](#emphasize-collaboration)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Key takeaways for your future career in data science
+  - [Key takeaways for your future career in data science](#key-takeaways-for-your-future-career-in-data-science)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the 80/20 rule of data science?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - data (1)
 
@@ -148,6 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ai (1), next (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -156,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Prioritizing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining success
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/defining-success?u=76281980)
@@ -255,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (1), let (1)
+> **Frameworks & Libraries:** data (7), business (2), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -332,6 +333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (2), functional (2), teams (1), application (1)
 > **Env Vars:** mvp (8)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -422,8 +424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), power (1), [[Performance Metrics]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - in (1)
@@ -509,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (16), management (5), business (2), power (2), teams (1)
 > **CLI Commands:** rails (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
@@ -593,6 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Decision-Making]] (1), cloud (1), application (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mvp (1)
 > **Prerequisites:** set up (1)
@@ -601,7 +604,7 @@ created: 2026-04-29
 
 ### 2. Database Selection and Quality Checks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comb the literature
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980)
@@ -694,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), type. (1), abstract (1), super (1)
+> **Frameworks & Libraries:** data (5), [[Search]] (3), feature (1), [[Feature Engineering]] (1), [[Performance Metrics]] (1)
 > **Analogies:** imagine (2), such as (2)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -778,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Security]] (1), [[Real-Time]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - just (1)
 
 #### Checking data quality
@@ -885,8 +888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), business (3), product (1), [[Statistics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -967,6 +970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), feature (4), [[Algorithms]] (3), [[Decision Trees]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
@@ -1030,14 +1034,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1)
+> **Frameworks & Libraries:** feature (17)
 > **Definitions:** is a  (1)
 > **Speakers:** - not (1)
 
 
 ### 3. Simple Models First
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Feature transformations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980)
@@ -1092,7 +1096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** feature (7), data (6), [[Linear Regression]] (1), product (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - feature (1)
@@ -1152,8 +1156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Linear Regression]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1), data (1)
 > **Analogies:** imagine (1), think of it like (1), such as (1)
-> **Code Keywords:** yield (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - imagine (1)
 
@@ -1236,7 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), type. (1), yield (1)
+> **Frameworks & Libraries:** feature (5), data (2), product (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1333,7 +1337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), public (1)
+> **Frameworks & Libraries:** data (27), [[Algorithms]] (2), [[Computer Vision]] (1), application (1), game (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
 > **Definitions:** is an  (1)
@@ -1392,6 +1396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Linear Regression]] (4), [[Algorithms]] (1), power (1), [[Feature Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - least (1)
@@ -1433,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this, (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Probability]] (3), feature (2), power (1), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -1441,7 +1446,7 @@ created: 2026-04-29
 
 ### 4. Tracking Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980)
@@ -1526,8 +1531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), product (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Versions:** 0.1 (1)
 > **Cross-References:** go back to (1)
@@ -1617,9 +1622,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (4), data (4), feature (2), [[Performance Metrics]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), imagine (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - imagine (1)
 
 #### Rapid prototyping
@@ -1665,6 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Prototyping]] (5), feature (1), [[Algorithms]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** h2o (1)
 > **Speakers:** - in (1)
@@ -1740,6 +1746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (2), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Best Practices:** remember to (1)
@@ -1748,7 +1755,7 @@ created: 2026-04-29
 
 ### 5. Communicating the 80/20 of Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus on outcome, not technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980)
@@ -1805,7 +1812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try, (1), return. (1)
+> **Frameworks & Libraries:** business (5), data (3), [[Algorithms]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **Env Vars:** roi (1)
 > **Definitions:** means that (1)
@@ -1868,8 +1875,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - clients (1)
@@ -1937,6 +1944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (3), next (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1946,7 +1954,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways for your future career in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980)
@@ -1977,7 +1985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1)
+> **Frameworks & Libraries:** data (8), business (2), [[LinkedIn]] (2)
 > **URLs:** [winningwithdatascience.com](https://winningwithdatascience.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)

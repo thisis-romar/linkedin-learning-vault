@@ -32,7 +32,7 @@ tags:
   - skill/sql
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Server%20Fundamentals-%20Master%20Basic%20Query%20Techniques.md)
@@ -51,39 +51,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - How can SQL answer your data questions?
-  - Introduction to CoderPad
+  - [How can SQL answer your data questions?](#how-can-sql-answer-your-data-questions)
+  - [Introduction to CoderPad](#introduction-to-coderpad)
 - [**1. Introduction to SQL Server and Relational Database Concepts**](#1-introduction-to-sql-server-and-relational-database-concepts) (4 videos)
-  - What is SQL Server?
-  - Understanding servers, databases, and tables
-  - Relational database concepts
-  - Surrogate, primary, and foreign keys
+  - [What is SQL Server?](#what-is-sql-server)
+  - [Understanding servers, databases, and tables](#understanding-servers-databases-and-tables)
+  - [Relational database concepts](#relational-database-concepts)
+  - [Surrogate, primary, and foreign keys](#surrogate-primary-and-foreign-keys)
 - [**2. Single Table Select Statements**](#2-single-table-select-statements) (5 videos)
-  - SQL data types and nullability
-  - Reading from a single table in SQL
-  - Filtering on a single condition in SQL
-  - Filtering on multiple conditions in SQL
-  - Solution: Filtering dates
+  - [SQL data types and nullability](#sql-data-types-and-nullability)
+  - [Reading from a single table in SQL](#reading-from-a-single-table-in-sql)
+  - [Filtering on a single condition in SQL](#filtering-on-a-single-condition-in-sql)
+  - [Filtering on multiple conditions in SQL](#filtering-on-multiple-conditions-in-sql)
+  - [Solution: Filtering dates](#solution-filtering-dates)
 - [**3. Multiple Table Select Statements**](#3-multiple-table-select-statements) (6 videos)
-  - Inner joins
-  - Multiple inner joins
-  - Solution: Inner joins
-  - Outer joins
-  - Solution: Working with multiple tables
-  - Subqueries
+  - [Inner joins](#inner-joins)
+  - [Multiple inner joins](#multiple-inner-joins)
+  - [Solution: Inner joins](#solution-inner-joins)
+  - [Outer joins](#outer-joins)
+  - [Solution: Working with multiple tables](#solution-working-with-multiple-tables)
+  - [Subqueries](#subqueries)
 - [**4. Additional SQL Query Tools**](#4-additional-sql-query-tools) (6 videos)
-  - Case statements
-  - Solution: Case statement
-  - Built-in functions
-  - Aggregates
-  - Solution: Aggregates
-  - Query processing order
+  - [Case statements](#case-statements)
+  - [Solution: Case statement](#solution-case-statement)
+  - [Built-in functions](#built-in-functions)
+  - [Aggregates](#aggregates)
+  - [Solution: Aggregates](#solution-aggregates)
+  - [Query processing order](#query-processing-order)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How can SQL answer your data questions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[SQL]] (3), [[Programming]] (2), career (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[LinkedIn]] (1), data (1), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft]] (1)
 > **Env Vars:** ansi (1), sql (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -152,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Introduction to SQL Server and Relational Database Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQL Server?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980)
@@ -213,11 +214,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), [[Microsoft SQL Server|Sql server]] (8), database (5), data (4), management (3)
 > **Env Vars:** sql (18), ssms (3), rdbms (1)
 > **Definitions:** is an  (2), is a  (2), is called (2), stands for (1)
 > **Prerequisites:** you'll need (3), install (2), setup (1), set up (1)
 > **CLI Commands:** mysql (1), make (1), docker (1)
-> **Code Keywords:** interface (1), this. (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -298,6 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (14), data (7), [[Microsoft SQL Server|Sql server]] (5), next (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (5), ssms (2), dbo (1)
 > **UI Navigation:** click on (3), dropdown (2), go to (1), open the (1)
 > **Prerequisites:** set up (1), install (1), you'll need (1)
@@ -305,7 +307,6 @@ created: 2026-04-29
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** two.trees.sql (1)
 > **Analogies:** similar to (1)
-> **Speakers:** - [instructor] (1)
 
 #### Relational database concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980)
@@ -364,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (14), database (7), product (5), [[Microsoft Excel|Excel]] (2), [[Relational Databases]] (1)
 > **Env Vars:** erd (2), sql (1)
 > **Definitions:** is called (2), means that (1)
 > **Analogies:** such as (1)
@@ -415,6 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2), short for (1), is called (1)
 > **Env Vars:** sql (2), guid (1)
 > **CLI Commands:** make (1)
@@ -425,7 +427,7 @@ created: 2026-04-29
 
 ### 2. Single Table Select Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL data types and nullability
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980)
@@ -472,9 +474,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), database (1)
 > **Env Vars:** null (4), sql (3), datetime (3), int (1), decimal (1)
 > **Definitions:** means that (2), is a  (1), defined as (1)
-> **Code Keywords:** type. (1), type, (1)
 > **SQL:** varchar (1)
 > **Speakers:** - [instructor] (1)
 
@@ -599,9 +601,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (5), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), next (1)
 > **Code Identifiers:** additional_service (4), minimum_participants (2)
 > **UI Navigation:** click on (2), select the (1)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** sql (1), ssms (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -811,7 +813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), match. (2), let (2), case. (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft SQL Server|Sql server]] (5), next (2), [[Microsoft Word|Word]] (2), [[Microsoft]] (1)
 > **CLI Commands:** find (5), make (3)
 > **Env Vars:** sql (6)
 > **Warnings:** be careful (3), warning (1)
@@ -937,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), require (1), let (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2), data (1), next (1)
 > **Env Vars:** sql (4), ssms (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
@@ -987,7 +989,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1)
 > **CLI Commands:** find (1)
 > **SQL:** where (1)
 > **Env Vars:** where (1)
@@ -998,7 +999,7 @@ created: 2026-04-29
 
 ### 3. Multiple Table Select Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inner joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980)
@@ -1071,8 +1072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (14), data (9), database (2), [[Microsoft SQL Server|Sql server]] (2), next (1)
 > **Env Vars:** dbo (2), sql (2), ssms (1)
-> **Code Keywords:** type, (1), let (1), this, (1), for. (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), just like (1)
 > **Code Identifiers:** flavor_id (1)
@@ -1143,7 +1144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1), case, (1), type. (1), case. (1)
+> **Frameworks & Libraries:** product (17), game (1), database (1)
 > **Env Vars:** erd (1), ert (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -1180,9 +1181,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** inner (1), join (1), concat (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **SQL:** inner join (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1288,7 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (1), switch (1)
+> **Frameworks & Libraries:** product (4), data (3), database (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1335,8 +1336,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), data (1)
 > **Env Vars:** sql (2), ansi (1)
-> **Code Keywords:** match, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -1427,8 +1428,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft SQL Server|Sql server]] (1)
 > **Code Identifiers:** city_state_zip (4), city_name (2), city_state_zip_id (2)
-> **Code Keywords:** let (3), this, (1), case, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
@@ -1437,7 +1438,7 @@ created: 2026-04-29
 
 ### 4. Additional SQL Query Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Case statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980)
@@ -1640,7 +1641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), case. (1), else. (1), default, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (2), [[Data Manipulation]] (1), next (1), product (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1), is called (1)
@@ -1679,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1892,7 +1893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), this. (5), var (4), this, (3), override (3)
+> **Frameworks & Libraries:** data (19), [[Microsoft SQL Server|Sql server]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **Env Vars:** sysdatetime (5), sql (4), ansi (3), getdate (3)
 > **CLI Commands:** make (8), find (2)
 > **Definitions:** is a  (1), known as (1), means that (1), is an  (1)
@@ -1960,7 +1961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (2), let (1), new, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), data (2), [[Microsoft]] (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** sql (3)
 > **Analogies:** for example (2)
@@ -1998,8 +1999,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), data (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** match, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2070,9 +2071,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (1), next (1), [[Debugging]] (1)
 > **Env Vars:** where (5), order (4), group (3), sql (1), select (1)
 > **SQL:** where (5), order by (4), group by (3), select (1), having (1)
-> **Code Keywords:** function (5), let (2), case, (2), default, (1), from. (1)
 > **Code Identifiers:** full_name (1), customer_name (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -2080,7 +2081,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980)
@@ -2099,6 +2100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Microsoft]] (1), [[SQL]] (1), [[LinkedIn]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (5)
 > **Documentation:** the documentation (1), stack overflow (1)
 > **Definitions:** is a  (1)

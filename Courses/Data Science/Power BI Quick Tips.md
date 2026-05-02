@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Quick%20Tips.md)
@@ -47,56 +47,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Working faster in Power BI
+  - [Working faster in Power BI](#working-faster-in-power-bi)
 - [**1. Creating Workspaces and Sharing Content**](#1-creating-workspaces-and-sharing-content) (8 videos)
-  - Accessing workspaces
-  - Creating a shared workspace in Power BI
-  - Editing a shared workspace
-  - Add people or groups to a shared workspace
-  - Share a semantic model
-  - Discover and use data from the OneLake catalog
-  - Sharing a Power BI dashboard or report
-  - Accessing "Shared with me"
+  - [Accessing workspaces](#accessing-workspaces)
+  - [Creating a shared workspace in Power BI](#creating-a-shared-workspace-in-power-bi)
+  - [Editing a shared workspace](#editing-a-shared-workspace)
+  - [Add people or groups to a shared workspace](#add-people-or-groups-to-a-shared-workspace)
+  - [Share a semantic model](#share-a-semantic-model)
+  - [Discover and use data from the OneLake catalog](#discover-and-use-data-from-the-onelake-catalog)
+  - [Sharing a Power BI dashboard or report](#sharing-a-power-bi-dashboard-or-report)
+  - [Accessing "Shared with me"](#accessing-shared-with-me)
 - [**2. Connecting Data**](#2-connecting-data) (2 videos)
-  - Uploading a file to the Power BI service
-  - Connecting to sample data
+  - [Uploading a file to the Power BI service](#uploading-a-file-to-the-power-bi-service)
+  - [Connecting to sample data](#connecting-to-sample-data)
 - [**3. Creating Visualizations, Reports, and Dashboards**](#3-creating-visualizations-reports-and-dashboards) (11 videos)
-  - Auto-create a report from a dataset
-  - Create a paginated report from a dataset
-  - Creating a new blank report from a dataset
-  - Creating a page in a report
-  - Creating a chart tile
-  - Pin a visualization to a dashboard
-  - Creating a big number tile
-  - Creating a table tile
-  - Create a slicer
-  - Rearrange and resize tiles
-  - Filter data
+  - [Auto-create a report from a dataset](#auto-create-a-report-from-a-dataset)
+  - [Create a paginated report from a dataset](#create-a-paginated-report-from-a-dataset)
+  - [Creating a new blank report from a dataset](#creating-a-new-blank-report-from-a-dataset)
+  - [Creating a page in a report](#creating-a-page-in-a-report)
+  - [Creating a chart tile](#creating-a-chart-tile)
+  - [Pin a visualization to a dashboard](#pin-a-visualization-to-a-dashboard)
+  - [Creating a big number tile](#creating-a-big-number-tile)
+  - [Creating a table tile](#creating-a-table-tile)
+  - [Create a slicer](#create-a-slicer)
+  - [Rearrange and resize tiles](#rearrange-and-resize-tiles)
+  - [Filter data](#filter-data)
 - [**4. Bookmarks, Favorites, and Notifications**](#4-bookmarks-favorites-and-notifications) (4 videos)
-  - Subscribing for email notifications
-  - Set up an alert
-  - Bookmark a report
-  - Favoriting a dashboard
+  - [Subscribing for email notifications](#subscribing-for-email-notifications)
+  - [Set up an alert](#set-up-an-alert)
+  - [Bookmark a report](#bookmark-a-report)
+  - [Favoriting a dashboard](#favoriting-a-dashboard)
 - [**5. Embedding and Exporting Data**](#5-embedding-and-exporting-data) (5 videos)
-  - Get a link to embed a report to a SharePoint page
-  - Export to Excel for further analysis
-  - Export to PowerPoint
-  - Export to PDF
-  - Generate a QR code
+  - [Get a link to embed a report to a SharePoint page](#get-a-link-to-embed-a-report-to-a-sharepoint-page)
+  - [Export to Excel for further analysis](#export-to-excel-for-further-analysis)
+  - [Export to PowerPoint](#export-to-powerpoint)
+  - [Export to PDF](#export-to-pdf)
+  - [Generate a QR code](#generate-a-qr-code)
 - [**6. Working with the Power BI Mobile App**](#6-working-with-the-power-bi-mobile-app) (1 videos)
-  - Working with the Power BI iOS mobile app
+  - [Working with the Power BI iOS mobile app](#working-with-the-power-bi-ios-mobile-app)
 - [**7. Interacting with Power BI Reports in Microsoft Teams**](#7-interacting-with-power-bi-reports-in-microsoft-teams) (3 videos)
-  - Adding a Power BI report to a team channel
-  - Sharing a Power BI report to a Teams chat or channel post
-  - Adding the Power BI app to Microsoft Teams
+  - [Adding a Power BI report to a team channel](#adding-a-power-bi-report-to-a-team-channel)
+  - [Sharing a Power BI report to a Teams chat or channel post](#sharing-a-power-bi-report-to-a-teams-chat-or-channel-post)
+  - [Adding the Power BI app to Microsoft Teams](#adding-the-power-bi-app-to-microsoft-teams)
 - [**8. Getting Assistance from Copilot in Power BI**](#8-getting-assistance-from-copilot-in-power-bi) (3 videos)
-  - Asking Copilot to create a report page
-  - Asking Copilot to suggest content for a Power BI report
-  - Asking questions about Power BI report data
+  - [Asking Copilot to create a report page](#asking-copilot-to-create-a-report-page)
+  - [Asking Copilot to suggest content for a Power BI report](#asking-copilot-to-suggest-content-for-a-power-bi-report)
+  - [Asking questions about Power BI report data](#asking-questions-about-power-bi-report-data)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working faster in Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980)
@@ -117,10 +117,14 @@ created: 2026-04-29
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=42)** Please join me in my LinkedIn Learning course to eliminate obstacles and be more productive with the Microsoft Power BI Service.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (6), [[Microsoft Power BI]] (2), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1), power (1)
+
 
 ### 1. Creating Workspaces and Sharing Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing workspaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980)
@@ -143,6 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), power (1), bi (1), web (1), [[Dashboards]] (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Best Practices:** recommended (1)
 
@@ -191,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** hr (2), power (1), bi (1), [[Dashboards]] (1)
 > **UI Navigation:** go to (1), select the (1), scroll down (1)
 > **Env Vars:** png (1), jpeg (1)
 > **CLI Commands:** find (1)
@@ -227,8 +232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 
 #### Add people or groups to a shared workspace
@@ -263,7 +268,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** select the (1)
 
 #### Share a semantic model
@@ -297,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), let (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 
 #### Discover and use data from the OneLake catalog
@@ -339,7 +343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), let (1), this, (1), switch (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft]] (1), [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (1), select the (1), switch to (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
@@ -375,8 +379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else. (1), this, (1)
 > **UI Navigation:** select the (1)
 
 #### Accessing "Shared with me"
@@ -400,10 +404,14 @@ created: 2026-04-29
 >
 > **[0:48](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=48)** And that's how you can access Power BI Service content shared with you.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (3), power (2), bi (2), [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
+
 
 ### 2. Connecting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Uploading a file to the Power BI service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980)
@@ -436,9 +444,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), bi (2), data (2), [[Microsoft Excel|Excel]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Env Vars:** pbix (2), rdl (1), xlsx (1)
 > **UI Navigation:** select the (3)
-> **Code Keywords:** from. (1), from, (1)
 
 #### Connecting to sample data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980)
@@ -479,13 +487,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), power (2), bi (2), next (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 
 
 ### 3. Creating Visualizations, Reports, and Dashboards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Auto-create a report from a dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980)
@@ -532,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), include, (1), include. (1)
+> **Frameworks & Libraries:** data (7), power (2), bi (2), next (1)
 > **UI Navigation:** select the (1)
 
 #### Create a paginated report from a dataset
@@ -572,7 +581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (3), data (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Definitions:** is a  (1)
 
@@ -619,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (3), next (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (2)
 > **Env Vars:** csv (1)
 > **Analogies:** such as (1)
@@ -643,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** right-click (1)
 
 #### Creating a chart tile
@@ -695,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1), else. (1)
+> **Frameworks & Libraries:** data (3), product (3), next (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -730,7 +739,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
 > **UI Navigation:** go to (1)
 
 #### Creating a big number tile
@@ -764,7 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 
@@ -793,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else, (1)
+> **Frameworks & Libraries:** data (2)
 > **Cross-References:** later in (1)
 
 #### Create a slicer
@@ -831,9 +839,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1)
 > **Env Vars:** lax (2)
 > **UI Navigation:** go to (1), drag and drop (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
@@ -888,7 +896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -914,13 +922,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** set up (1)
 
 
 ### 4. Bookmarks, Favorites, and Notifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Subscribing for email notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980)
@@ -993,7 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), include, (1), this. (1), default. (1), this, (1)
+> **Frameworks & Libraries:** next (1), power (1), bi (1)
 > **UI Navigation:** scroll down (1), toggle (1)
 > **Prerequisites:** set up (2)
 
@@ -1028,9 +1037,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** default. (1)
 
 #### Bookmark a report
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/bookmark-a-report-25201872?u=76281980)
@@ -1060,7 +1069,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** go back to (1)
 
 #### Favoriting a dashboard
@@ -1086,14 +1094,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (2)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 
 
 ### 5. Embedding and Exporting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get a link to embed a report to a SharePoint page
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980)
@@ -1114,6 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (3), power (1), bi (1)
 > **UI Navigation:** go to (1)
 
 #### Export to Excel for further analysis
@@ -1143,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** export. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), web (2), power (1), bi (1), [[Microsoft OneDrive|Onedrive]] (1)
 
 #### Export to PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980)
@@ -1192,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** export. (2), export, (1), default. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft PowerPoint|Powerpoint]] (6), power (2), bi (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
@@ -1227,8 +1236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** pdf (5)
-> **Code Keywords:** export. (2)
 > **UI Navigation:** open the (1)
 > **Definitions:** means that (1)
 
@@ -1251,13 +1260,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Env Vars:** jpeg (1)
 
 
 ### 6. Working with the Power BI Mobile App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with the Power BI iOS mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-with-the-power-bi-ios-mobile-app-25205179?u=76281980)
@@ -1265,7 +1273,7 @@ created: 2026-04-29
 
 ### 7. Interacting with Power BI Reports in Microsoft Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a Power BI report to a team channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980)
@@ -1306,7 +1314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), include. (1), let (1), from, (1)
+> **Frameworks & Libraries:** power (7), bi (7), [[Search]] (1), next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 
@@ -1335,7 +1343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1)
+> **Frameworks & Libraries:** power (3), bi (3), teams (2)
 > **UI Navigation:** select the (1)
 
 #### Adding the Power BI app to Microsoft Teams
@@ -1365,12 +1373,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (9), bi (9), [[Microsoft Teams]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Search]] (1)
 > **UI Navigation:** in the sidebar (1), right-click (1)
 
 
 ### 8. Getting Assistance from Copilot in Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking Copilot to create a report page
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980)
@@ -1411,7 +1420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this: (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), power (2), bi (2), prompt (1)
 > **Env Vars:** lax (1)
 > **Prerequisites:** you'll need (1)
 
@@ -1460,7 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), prompt (3), data (1)
 > **UI Navigation:** toggle (1)
 
 #### Asking questions about Power BI report data
@@ -1500,7 +1509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), prompt (2), power (1), bi (1), leadership (1)
 > **Analogies:** such as (1)
 
 

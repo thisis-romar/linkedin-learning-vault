@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Interface.md)
@@ -40,27 +40,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introducing the interface
+  - [Introducing the interface](#introducing-the-interface)
 - [**1. Visual Principles**](#1-visual-principles) (4 videos)
-  - Aesthetics in user interface
-  - Gestalt principles
-  - Grouping and organization
-  - Hierarchy
+  - [Aesthetics in user interface](#aesthetics-in-user-interface)
+  - [Gestalt principles](#gestalt-principles)
+  - [Grouping and organization](#grouping-and-organization)
+  - [Hierarchy](#hierarchy)
 - [**2. Visual Interface Design**](#2-visual-interface-design) (4 videos)
-  - Grids and information density
-  - Typography and legibility
-  - Use icons
-  - The power and importance of color
+  - [Grids and information density](#grids-and-information-density)
+  - [Typography and legibility](#typography-and-legibility)
+  - [Use icons](#use-icons)
+  - [The power and importance of color](#the-power-and-importance-of-color)
 - [**3. Taking Visual Design Further**](#3-taking-visual-design-further) (3 videos)
-  - Incorporate illustrations
-  - Present data in design
-  - Visual interest with animation
+  - [Incorporate illustrations](#incorporate-illustrations)
+  - [Present data in design](#present-data-in-design)
+  - [Visual interest with animation](#visual-interest-with-animation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Take the interface further
+  - [Take the interface further](#take-the-interface-further)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980)
@@ -83,14 +83,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), product (1), ux (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
 
 ### 1. Visual Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aesthetics in user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980)
@@ -145,7 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5)
+> **Frameworks & Libraries:** ux (2), [[User Experience (UX)|User experience]] (2), business (1), [[User Interface Design]] (1), application (1)
 > **Analogies:** for example (3)
 > **Definitions:** refers to (1), is an  (1)
 > **Speakers:** - ux (1)
@@ -211,7 +211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), case, (1)
+> **Frameworks & Libraries:** [[User Interface Design]] (1), business (1), next (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Speakers:** - when (1)
 
@@ -280,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), case, (2), let (1), module (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (3)
 > **URLs:** [benefits.gov](https://benefits.gov) (1), [opentable.com](https://opentable.com) (1)
 > **UI Navigation:** click on (1)
@@ -347,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), web (1), [[Search]] (1), cloud (1), [[User Interface Design]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -355,7 +355,7 @@ created: 2026-04-29
 
 ### 2. Visual Interface Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grids and information density
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/grids-and-information-density?u=76281980)
@@ -420,9 +420,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), product (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (2)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -476,6 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Typography]] (3), next (2), application (1), ux (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
@@ -554,6 +555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), product (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
@@ -624,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7)
+> **Frameworks & Libraries:** [[User Interface Design]] (2), [[Representational State Transfer (REST)|Rest]] (1), web (1), [[Analytics]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
@@ -635,7 +637,7 @@ created: 2026-04-29
 
 ### 3. Taking Visual Design Further
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Incorporate illustrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980)
@@ -692,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), for. (1)
+> **Frameworks & Libraries:** product (4), [[Google]] (2), [[Microsoft Products|Products]] (1), feature (1), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - illustrations (1)
@@ -750,8 +752,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Google]] (1), [[Analytics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
@@ -814,6 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), [[User Experience (UX)|User experience]] (1), data (1), functional (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -823,7 +826,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the interface further
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980)
@@ -848,6 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), ux (1), [[Prototyping]] (1)
 > **Speakers:** - thanks (1)
 
 

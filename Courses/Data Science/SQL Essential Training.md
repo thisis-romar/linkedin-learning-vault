@@ -43,7 +43,7 @@ tags:
   - topic/database-management
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Essential%20Training.md)
@@ -62,100 +62,100 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The data-driven world
-  - What you should know
-  - CoderPad tour
+  - [The data-driven world](#the-data-driven-world)
+  - [What you should know](#what-you-should-know)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. The Basics of Database Structures**](#1-the-basics-of-database-structures) (2 videos)
-  - Relational database theory
-  - The SQLite database engine
+  - [Relational database theory](#relational-database-theory)
+  - [The SQLite database engine](#the-sqlite-database-engine)
 - [**2. The SQL Stack**](#2-the-sql-stack) (2 videos)
-  - WSDA Music (sample database)
-  - Learning tips
+  - [WSDA Music (sample database)](#wsda-music-sample-database)
+  - [Learning tips](#learning-tips)
 - [**3. The SQLite Database Environment**](#3-the-sqlite-database-environment) (5 videos)
-  - How to access the DB Browser for SQLite software
-  - Load the sample database file
-  - Getting familiar with a database
-  - The browse data area
-  - The query writing area
+  - [How to access the DB Browser for SQLite software](#how-to-access-the-db-browser-for-sqlite-software)
+  - [Load the sample database file](#load-the-sample-database-file)
+  - [Getting familiar with a database](#getting-familiar-with-a-database)
+  - [The browse data area](#the-browse-data-area)
+  - [The query writing area](#the-query-writing-area)
 - [**4. Composing Queries**](#4-composing-queries) (8 videos)
-  - Queries
-  - Query commenting
-  - Query composition
-  - Query composition best practices
-  - Column custom names
-  - Sorting query results
-  - Limiting query results
-  - Solution: Concise track pricing report
+  - [Queries](#queries)
+  - [Query commenting](#query-commenting)
+  - [Query composition](#query-composition)
+  - [Query composition best practices](#query-composition-best-practices)
+  - [Column custom names](#column-custom-names)
+  - [Sorting query results](#sorting-query-results)
+  - [Limiting query results](#limiting-query-results)
+  - [Solution: Concise track pricing report](#solution-concise-track-pricing-report)
 - [**5. Discovering Insights in Data**](#5-discovering-insights-in-data) (11 videos)
-  - Types of SQL operators
-  - Filter and analyze numeric data
-  - BETWEEN and IN operators
-  - Filter and analyze text data
-  - Search records without an exact match
-  - Filter and analyze using dates
-  - Filter records based on more than one condition
-  - Logical operator OR
-  - Brackets and order
-  - IF THEN logic with CASE
-  - Solution: Categorize tracks by price
+  - [Types of SQL operators](#types-of-sql-operators)
+  - [Filter and analyze numeric data](#filter-and-analyze-numeric-data)
+  - [BETWEEN and IN operators](#between-and-in-operators)
+  - [Filter and analyze text data](#filter-and-analyze-text-data)
+  - [Search records without an exact match](#search-records-without-an-exact-match)
+  - [Filter and analyze using dates](#filter-and-analyze-using-dates)
+  - [Filter records based on more than one condition](#filter-records-based-on-more-than-one-condition)
+  - [Logical operator OR](#logical-operator-or)
+  - [Brackets and order](#brackets-and-order)
+  - [IF THEN logic with CASE](#if-then-logic-with-case)
+  - [Solution: Categorize tracks by price](#solution-categorize-tracks-by-price)
 - [**6. Accessing Data from Multiple Tables**](#6-accessing-data-from-multiple-tables) (11 videos)
-  - Joins explained
-  - How tables share a relationship, part 1
-  - How tables share a relationship, part 2
-  - Simplifying JOINs
-  - Types of JOINs
-  - The INNER JOIN
-  - The LEFT JOIN
-  - The RIGHT JOIN
-  - Tables and Entity Relationship diagrams
-  - Joining many tables
-  - Solution:  Analyzing customer support interactions
+  - [Joins explained](#joins-explained)
+  - [How tables share a relationship, part 1](#how-tables-share-a-relationship-part-1)
+  - [How tables share a relationship, part 2](#how-tables-share-a-relationship-part-2)
+  - [Simplifying JOINs](#simplifying-joins)
+  - [Types of JOINs](#types-of-joins)
+  - [The INNER JOIN](#the-inner-join)
+  - [The LEFT JOIN](#the-left-join)
+  - [The RIGHT JOIN](#the-right-join)
+  - [Tables and Entity Relationship diagrams](#tables-and-entity-relationship-diagrams)
+  - [Joining many tables](#joining-many-tables)
+  - [Solution:  Analyzing customer support interactions](#solution-analyzing-customer-support-interactions)
 - [**7. SQL Functions**](#7-sql-functions) (9 videos)
-  - Calculating with functions
-  - String, date, and aggregate function types
-  - Connecting strings
-  - Separating text
-  - UPPER and LOWER string functions
-  - Date functions
-  - Aggregate functions
-  - Nesting functions
-  - Solution: Customer postal code transformation
+  - [Calculating with functions](#calculating-with-functions)
+  - [String, date, and aggregate function types](#string-date-and-aggregate-function-types)
+  - [Connecting strings](#connecting-strings)
+  - [Separating text](#separating-text)
+  - [UPPER and LOWER string functions](#upper-and-lower-string-functions)
+  - [Date functions](#date-functions)
+  - [Aggregate functions](#aggregate-functions)
+  - [Nesting functions](#nesting-functions)
+  - [Solution: Customer postal code transformation](#solution-customer-postal-code-transformation)
 - [**8. Grouping**](#8-grouping) (7 videos)
-  - Grouping your query results
-  - Filtering with a grouped condition
-  - Grouping with the WHERE clause
-  - Grouping with the HAVING clause
-  - Grouping with the WHERE and HAVING clause
-  - Grouping by many fields
-  - Solution: Calculate Average spend per city
+  - [Grouping your query results](#grouping-your-query-results)
+  - [Filtering with a grouped condition](#filtering-with-a-grouped-condition)
+  - [Grouping with the WHERE clause](#grouping-with-the-where-clause)
+  - [Grouping with the HAVING clause](#grouping-with-the-having-clause)
+  - [Grouping with the WHERE and HAVING clause](#grouping-with-the-where-and-having-clause)
+  - [Grouping by many fields](#grouping-by-many-fields)
+  - [Solution: Calculate Average spend per city](#solution-calculate-average-spend-per-city)
 - [**9. Nesting Queries**](#9-nesting-queries) (7 videos)
-  - Subqueries and aggregate functions
-  - SELECT clause subquery
-  - Aggregated subqueries
-  - Non-aggregate subqueries
-  - IN clause subquery
-  - DISTINCT clause subquery
-  - Solution: Uncovering unpopular tracks
+  - [Subqueries and aggregate functions](#subqueries-and-aggregate-functions)
+  - [SELECT clause subquery](#select-clause-subquery)
+  - [Aggregated subqueries](#aggregated-subqueries)
+  - [Non-aggregate subqueries](#non-aggregate-subqueries)
+  - [IN clause subquery](#in-clause-subquery)
+  - [DISTINCT clause subquery](#distinct-clause-subquery)
+  - [Solution: Uncovering unpopular tracks](#solution-uncovering-unpopular-tracks)
 - [**10. Stored Queries**](#10-stored-queries) (5 videos)
-  - View introduction
-  - Creating a view
-  - Editing a view
-  - Joining views
-  - Deleting views
+  - [View introduction](#view-introduction)
+  - [Creating a view](#creating-a-view)
+  - [Editing a view](#editing-a-view)
+  - [Joining views](#joining-views)
+  - [Deleting views](#deleting-views)
 - [**11. Adding, Modifying, and Deleting Data**](#11-adding-modifying-and-deleting-data) (4 videos)
-  - Analysis and administration
-  - Inserting data
-  - Updating data
-  - Deleting data
+  - [Analysis and administration](#analysis-and-administration)
+  - [Inserting data](#inserting-data)
+  - [Updating data](#updating-data)
+  - [Deleting data](#deleting-data)
 - [**12. Scenario: Mock SQL Interview**](#12-scenario-mock-sql-interview) (2 videos)
-  - Preparing for a Non-Technical Interview
-  - Non-Technical Interview Practice
+  - [Preparing for a Non-Technical Interview](#preparing-for-a-non-technical-interview)
+  - [Non-Technical Interview Practice](#non-technical-interview-practice)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and tips
+  - [Next steps and tips](#next-steps-and-tips)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The data-driven world
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980)
@@ -178,8 +178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[SQL]] (2), [[Google]] (1), next (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
@@ -230,8 +230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[SQL]] (5), data (2), [[Databases]] (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (5)
-> **Code Keywords:** let (2), function (1), continue (1)
 > **Documentation:** reference guide (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** install (1)
@@ -270,6 +270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -277,7 +278,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Database Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational database theory
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980)
@@ -344,8 +345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (7), [[Relational Databases]] (2), [[Microsoft Word|Word]] (2), [[Search]] (1)
 > **Env Vars:** sql (7), select (2)
-> **Code Keywords:** let (2), from, (1), this, (1)
 > **SQL:** select (2)
 > **Definitions:** defined as (1), short for (1)
 > **Analogies:** such as (1)
@@ -399,9 +400,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[SQL]] (7), management (7), [[Jetpack Compose|Compose]] (4), [[Google]] (1)
 > **Env Vars:** sql (7), rdbms (4), select (2), order (2)
 > **SQL:** select (2), order by (2)
-> **Code Keywords:** function (2), let (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -410,7 +411,7 @@ created: 2026-04-29
 
 ### 2. The SQL Stack
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### WSDA Music (sample database)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980)
@@ -447,8 +448,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), database (2), data (2), management (2), product (1)
 > **Env Vars:** sql (3), wsda (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the last (1), we covered (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **Definitions:** is a  (2)
@@ -479,6 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), data (2), database (1)
 > **Env Vars:** sql (7)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -486,7 +488,7 @@ created: 2026-04-29
 
 ### 3. The SQLite Database Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to access the DB Browser for SQLite software
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980)
@@ -515,7 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1)
+> **Frameworks & Libraries:** database (4), management (2), data (1), [[SQL]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** rdbms (1), sql (1)
 > **Exercise Files:** source code (1)
@@ -551,9 +553,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), next (2), [[Windows]] (2), application (2)
 > **UI Navigation:** navigate to (2), click on (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** wsda (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -603,7 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** database (14)
 > **Env Vars:** wsda (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -647,7 +649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** database (6), data (5), [[SQL]] (1), management (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
@@ -699,15 +701,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), database (2), [[Jetpack Compose|Compose]] (2), data (1)
 > **Env Vars:** sql (5)
-> **Code Keywords:** let (3)
 > **Definitions:** is called (1)
 > **Speakers:** - let (1)
 
 
 ### 4. Composing Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980)
@@ -746,9 +748,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (1), data (1), database (1)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 
 #### Query commenting
@@ -818,9 +820,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Jetpack Compose|Compose]] (2), data (2), database (1), next (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (1), this. (1), this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Query composition
@@ -942,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), from. (1), from, (1), finally, (1)
+> **Frameworks & Libraries:** [[SQL]] (7), database (4), [[Jetpack Compose|Compose]] (3), data (3), management (1)
 > **Env Vars:** sql (7), wsda (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Best Practices:** best practice (1)
@@ -1003,8 +1005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), data (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** sql (9), select (4)
-> **Code Keywords:** let (2), this, (2)
 > **SQL:** select (4)
 > **Best Practices:** best practice (4)
 > **UI Navigation:** go to (1)
@@ -1082,7 +1084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), this. (1)
+> **Frameworks & Libraries:** business (5), [[Microsoft Word|Word]] (4), management (3), database (2), [[SQL]] (2)
 > **Env Vars:** wsda (2), sql (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [lecturer] (1)
@@ -1162,7 +1164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (2), business (1), management (1), next (1)
 > **Env Vars:** sql (2), desc (2), wsda (1), asc (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -1220,8 +1222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), management (1)
 > **Env Vars:** limit (4), sql (2), order (1)
-> **Code Keywords:** let (2), case, (1), this, (1)
 > **SQL:** order by (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - our (1)
@@ -1261,14 +1263,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (3), management (2), hit (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 5. Discovering Insights in Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of SQL operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980)
@@ -1313,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (4), [[SQL]] (2), next (2), database (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - all (1)
 
@@ -1372,8 +1374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), management (2), data (1), power (1)
 > **Env Vars:** where (6), sql (4), order (2), wsda (1), select (1)
-> **Code Keywords:** let (7), from, (1), case, (1)
 > **SQL:** where (6), order by (2), select (1)
 > **Versions:** 1.98 (8)
 > **UI Navigation:** go to (1)
@@ -1437,9 +1439,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), [[SQL]] (4), hit (1)
 > **Versions:** 1.98 (12), 3.96 (6)
 > **Env Vars:** wsda (4), sql (4), where (3)
-> **Code Keywords:** let (7), this, (1), for, (1)
 > **SQL:** where (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1526,8 +1528,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (6), management (5), business (1)
 > **Env Vars:** sql (6), wsda (5), where (3)
-> **Code Keywords:** let (6), for, (2), this. (1), for. (1)
 > **CLI Commands:** make (2), find (1)
 > **SQL:** where (3)
 > **Analogies:** just like (1)
@@ -1640,8 +1642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), management (6), [[Search]] (3), next (2), database (1)
 > **Env Vars:** sql (9), wsda (4), where (2), equal (1)
-> **Code Keywords:** let (7), this, (1)
 > **Definitions:** is a  (3)
 > **SQL:** where (2)
 > **CLI Commands:** make (1)
@@ -1736,7 +1738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), type, (2), this. (2), continue (1)
+> **Frameworks & Libraries:** data (6), database (6), [[SQL]] (3), management (2)
 > **Env Vars:** where (6), sql (3), wsda (2)
 > **SQL:** where (6)
 > **Ports:** :00 (2)
@@ -1798,7 +1800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (2), management (1)
 > **Env Vars:** where (2), sql (2), wsda (2)
 > **SQL:** where (2)
 > **Speakers:** - [instructor] (1)
@@ -1844,7 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** management (1), [[Search]] (1)
 > **Env Vars:** wsda (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1943,9 +1945,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), management (2)
 > **Env Vars:** bemdas (4), pemdas (3), sql (3), where (2), wsda (1)
 > **Versions:** 1.98 (11), 1.99 (1)
-> **Code Keywords:** let (5), this, (2), this. (2), case, (1)
 > **Definitions:** stands for (1), refers to (1), is a  (1)
 > **SQL:** where (2)
 > **CLI Commands:** find (1)
@@ -2076,8 +2078,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), management (4), database (3), data (2)
 > **Env Vars:** case (15), where (6), wsda (5), sql (4), end (2)
-> **Code Keywords:** let (11), type. (3), this. (2), case. (1), include, (1)
 > **Versions:** 6.99 (4), 1.99 (2), 8.91 (1), 1.98 (1)
 > **SQL:** where (6), order by (1)
 > **UI Navigation:** go to (1)
@@ -2135,7 +2137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), case. (1), case, (1)
+> **Frameworks & Libraries:** next (3), management (2), [[Microsoft Word|Word]] (2), data (1)
 > **Env Vars:** price (2), select (1), order (1), composer (1)
 > **CLI Commands:** composer (2)
 > **SQL:** select (1), order by (1)
@@ -2147,7 +2149,7 @@ created: 2026-04-29
 
 ### 6. Accessing Data from Multiple Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Joins explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980)
@@ -2182,9 +2184,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (3), [[Analytics]] (1), next (1), power (1)
 > **Env Vars:** sql (3), wsda (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - you (1)
 
@@ -2267,7 +2269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), continue (1), this, (1), case, (1)
+> **Frameworks & Libraries:** database (3), next (2), [[SQL]] (2), data (1)
 > **Env Vars:** wsda (3), sql (2)
 > **Definitions:** is a  (2), known as (2), is called (1)
 > **Cross-References:** we mentioned (1)
@@ -2346,7 +2348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** database (4), [[Relational Databases]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Env Vars:** erd (4)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
@@ -2442,7 +2444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2)
+> **Frameworks & Libraries:** [[SQL]] (3), database (1), next (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
@@ -2487,7 +2489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this: (1), this. (1), delete (1)
+> **Frameworks & Libraries:** data (3), database (1)
 > **Env Vars:** wsda (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** required to (1)
@@ -2534,7 +2536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), [[SQL]] (1), database (1)
 > **Definitions:** refers to (1), in other words (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)
@@ -2582,8 +2584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (4), [[Search]] (1)
 > **Env Vars:** sql (5)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2636,9 +2638,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), data (4), database (3), management (3), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (5), rdbms (1)
 > **Analogies:** similar to (2), such as (1)
-> **Code Keywords:** let (1), this. (1)
 > **Cross-References:** we mentioned (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (1)
@@ -2706,8 +2708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (3), erd (2), wsda (1)
-> **Code Keywords:** let (3), from. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
@@ -2797,8 +2799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), management (2), [[SQL]] (2)
 > **Env Vars:** wsda (2), sql (2), inner (2), join (2), order (1)
-> **Code Keywords:** let (5), this, (1), finally, (1)
 > **SQL:** inner join (2), order by (1), select (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2847,7 +2849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** management (2), next (1)
 > **SQL:** select (2), order by (1)
 > **Env Vars:** select (2), order (1)
 > **Speakers:** - [instructor] (1)
@@ -2856,7 +2858,7 @@ created: 2026-04-29
 
 ### 7. SQL Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating with functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/calculating-with-functions-19066645?u=76281980)
@@ -2889,8 +2891,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Word|Word]] (1), data (1)
 > **Env Vars:** sql (5)
-> **Code Keywords:** let (3), require (1)
 > **UI Navigation:** select the (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
@@ -2910,7 +2912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** upper (2), sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3017,7 +3019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (5), continue (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[SQL]] (2), data (1), database (1)
 > **Env Vars:** sql (2), wsda (1), select (1)
 > **CLI Commands:** make (3)
 > **SQL:** select (1)
@@ -3086,7 +3088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), this, (2), case, (1)
+> **Frameworks & Libraries:** management (2), hit (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** wsda (2)
 > **Analogies:** for instance (1)
@@ -3123,7 +3125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (5), case. (2), case, (1)
+> **Frameworks & Libraries:** [[SQL]] (1), next (1)
 > **Env Vars:** upper (3), lower (2), sql (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -3205,7 +3207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (8), pass (2), case, (2), this, (1)
+> **Frameworks & Libraries:** management (3), database (2), next (2), data (1), [[SQL]] (1)
 > **Env Vars:** wsda (4), sql (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -3284,7 +3286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (6), this, (2), from, (1), case, (1)
+> **Frameworks & Libraries:** management (2), data (1), [[SQL]] (1)
 > **Env Vars:** wsda (2), sql (1), avg (1)
 > **Versions:** 329.46 (1), 000.86 (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -3338,7 +3340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (4), this, (3)
+> **Frameworks & Libraries:** [[SQL]] (1), management (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** sql (1), wsda (1)
 > **Versions:** 8.06 (1)
@@ -3383,7 +3385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** management (2), database (1), next (1), hit (1)
 > **Env Vars:** usa (2), asc (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
@@ -3392,7 +3394,7 @@ created: 2026-04-29
 
 ### 8. Grouping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping your query results
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-your-query-results-19069541?u=76281980)
@@ -3417,7 +3419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** management (2)
 > **Env Vars:** wsda (2)
 > **Analogies:** for example (1)
 > **Speakers:** - here (1)
@@ -3527,7 +3529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (8), from, (1), case, (1), from. (1)
+> **Frameworks & Libraries:** management (3), [[SQL]] (3), feature (1), data (1), database (1)
 > **Env Vars:** avg (6), group (5), wsda (4), sql (3), select (3)
 > **SQL:** group by (5), select (3), order by (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -3579,7 +3581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), type, (1)
+> **Frameworks & Libraries:** [[Search]] (3), data (2), management (1), [[SQL]] (1)
 > **Env Vars:** wsda (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3664,9 +3666,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), management (1)
 > **Env Vars:** where (7), having (6), group (4), sql (2), wsda (1)
 > **SQL:** where (7), having (6), group by (4), order by (1), select (1)
-> **Code Keywords:** let (10), function (4), case, (1), this. (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for instance (1)
@@ -3722,9 +3724,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), management (1)
 > **Env Vars:** where (8), having (6), wsda (1), group (1), order (1)
 > **SQL:** where (8), having (6), group by (1), order by (1)
-> **Code Keywords:** let (4)
 > **Speakers:** - now (1)
 
 #### Grouping by many fields
@@ -3792,7 +3794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** data (2), [[SQL]] (2), management (1)
 > **Env Vars:** sql (2), wsda (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -3835,7 +3837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), this. (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), management (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3843,7 +3845,7 @@ created: 2026-04-29
 
 ### 9. Nesting Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Subqueries and aggregate functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/subqueries-and-aggregate-functions-19069540?u=76281980)
@@ -3874,7 +3876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** management (2)
 > **Analogies:** kind of like (1), for instance (1)
 > **Env Vars:** wsda (1)
 > **Speakers:** - have (1)
@@ -3960,7 +3962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), this, (2), this. (2), continue (1)
+> **Frameworks & Libraries:** [[SQL]] (3), management (2), data (1)
 > **Env Vars:** where (5), select (3), sql (3), wsda (2)
 > **SQL:** where (5), select (3)
 > **Versions:** 8.06 (6)
@@ -4070,7 +4072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (2), from, (1), case, (1)
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), management (1)
 > **Env Vars:** wsda (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -4120,7 +4122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (1), this. (1), from, (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -4188,7 +4190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), from, (2), include, (1)
+> **Frameworks & Libraries:** management (2), [[SQL]] (2), data (1), [[Search]] (1)
 > **Env Vars:** where (4), wsda (2), sql (2)
 > **SQL:** where (4)
 > **UI Navigation:** select the (3)
@@ -4297,7 +4299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (1), this, (1)
+> **Frameworks & Libraries:** data (2), management (2), database (1)
 > **CLI Commands:** composer (2), find (1), make (1)
 > **Env Vars:** wsda (4)
 > **Definitions:** is a  (2), known as (1)
@@ -4353,9 +4355,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (1), data (1), hit (1), database (1)
 > **Env Vars:** select (2), where (2), distinct (1), order (1)
 > **SQL:** select (2), where (2), order by (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** composer (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -4363,7 +4365,7 @@ created: 2026-04-29
 
 ### 10. Stored Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### View introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980)
@@ -4394,10 +4396,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), management (1), data (1)
 > **Env Vars:** sql (2), wsda (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
@@ -4488,7 +4490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), this, (1), case, (1), delete (1)
+> **Frameworks & Libraries:** next (4), database (3), [[SQL]] (2), [[Microsoft Word|Word]] (1), hit (1)
 > **Env Vars:** create (4), view (3), sql (2), select (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
@@ -4562,7 +4564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), delete (1)
+> **Frameworks & Libraries:** database (4), management (2), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (1), data (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** sql (3), rdbms (1)
 > **CLI Commands:** make (3)
@@ -4607,7 +4609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (3)
+> **Frameworks & Libraries:** data (1), [[SQL]] (1), database (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
@@ -4663,7 +4665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1)
+> **Frameworks & Libraries:** database (2), hit (2), [[SQL]] (2), next (1), data (1)
 > **Env Vars:** sql (2)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
@@ -4671,7 +4673,7 @@ created: 2026-04-29
 
 ### 11. Adding, Modifying, and Deleting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analysis and administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980)
@@ -4698,8 +4700,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (4), [[SQL]] (2), career (1), [[Data Manipulation]] (1)
 > **Env Vars:** dml (3), wsda (2), sql (2)
-> **Code Keywords:** else, (1), let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
 
@@ -4800,8 +4802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (4), [[SQL]] (3), next (3), management (2)
 > **Env Vars:** insert (13), into (9), dml (5), sql (3), nvarchar (3)
-> **Code Keywords:** let (9), this. (2), this, (2), delete (1)
 > **SQL:** insert into (9)
 > **UI Navigation:** go to (1), select the (1)
 > **Definitions:** is an  (2)
@@ -4873,9 +4875,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), management (2), [[SQL]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** where (6), update (2), sql (2), wsda (1), dml (1)
 > **SQL:** where (6), update (2)
-> **Code Keywords:** let (6), this, (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
@@ -4939,7 +4941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), let (2), this, (2), from, (1), from. (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2), management (2), database (1), next (1)
 > **Env Vars:** dml (2), wsda (2)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -4950,7 +4952,7 @@ created: 2026-04-29
 
 ### 12. Scenario: Mock SQL Interview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for a Non-Technical Interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980)
@@ -5003,8 +5005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (5), [[Databases]] (4), [[Simulation]] (3), application (1)
 > **Env Vars:** sql (5)
-> **Code Keywords:** self (2), interface (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Best Practices:** remember to (1)
@@ -5086,16 +5088,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Sustainability]] (2), [[Analytics]] (1), [[Statistics]] (1), generic (1)
 > **Speakers:** - [interviewer] (3), - [instructor] (3)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (3)
 > **Non-Speech:** (upbeat music) (3)
 > **Definitions:** is a  (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980)
@@ -5130,6 +5132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (3), [[Microsoft Excel]] (1), [[Microsoft Power BI]] (1)
 > **Env Vars:** sql (5)
 > **Speakers:** - and (1)
 > **Non-Speech:** (upbeat music) (1)

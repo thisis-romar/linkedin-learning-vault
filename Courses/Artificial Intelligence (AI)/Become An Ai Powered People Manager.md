@@ -18,7 +18,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Become%20An%20Ai%20Powered%20People%20Manager.md)
@@ -37,27 +37,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How AI is transforming the manager's role
+  - [How AI is transforming the manager's role](#how-ai-is-transforming-the-managers-role)
 - [**1. AI Tips for Managers**](#1-ai-tips-for-managers) (14 videos)
-  - AI will make you efficient, not extinct
-  - Make your team meetings impactful with AI
-  - Use AI to enhance your one-to-one meetings
-  - Use AI to coach and give better feedback to your team
-  - Practice accepting feedback with AI
-  - Create training and development opportunities using AI
-  - Delegate to your team with confidence with the help of AI
-  - Manage conflict like a leader using AI
-  - Leverage AI in your own development
-  - Identify and get ahead of trends using AI
-  - Leverage AI to develop cross-functional knowledge
-  - Use AI to build and drive strategy
-  - How AI can help you present data like never before
-  - Use AI to support internal mobility
+  - [AI will make you efficient, not extinct](#ai-will-make-you-efficient-not-extinct)
+  - [Make your team meetings impactful with AI](#make-your-team-meetings-impactful-with-ai)
+  - [Use AI to enhance your one-to-one meetings](#use-ai-to-enhance-your-one-to-one-meetings)
+  - [Use AI to coach and give better feedback to your team](#use-ai-to-coach-and-give-better-feedback-to-your-team)
+  - [Practice accepting feedback with AI](#practice-accepting-feedback-with-ai)
+  - [Create training and development opportunities using AI](#create-training-and-development-opportunities-using-ai)
+  - [Delegate to your team with confidence with the help of AI](#delegate-to-your-team-with-confidence-with-the-help-of-ai)
+  - [Manage conflict like a leader using AI](#manage-conflict-like-a-leader-using-ai)
+  - [Leverage AI in your own development](#leverage-ai-in-your-own-development)
+  - [Identify and get ahead of trends using AI](#identify-and-get-ahead-of-trends-using-ai)
+  - [Leverage AI to develop cross-functional knowledge](#leverage-ai-to-develop-cross-functional-knowledge)
+  - [Use AI to build and drive strategy](#use-ai-to-build-and-drive-strategy)
+  - [How AI can help you present data like never before](#how-ai-can-help-you-present-data-like-never-before)
+  - [Use AI to support internal mobility](#use-ai-to-support-internal-mobility)
 - [**2. Helpful Resources**](#2-helpful-resources) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI is transforming the manager's role
 > [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/how-ai-is-transforming-the-manager-role?u=76281980)
@@ -78,13 +78,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), management (1), leadership (1)
 > **Speakers:** - i (1)
 
 
 ### 1. AI Tips for Managers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI will make you efficient, not extinct
 > [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980)
@@ -171,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (14), ai (10), [[Generative AI]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** just like (1), such as (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Env Vars:** hbr (1)
@@ -261,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), self (1), for. (1)
+> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (6), prompt (5), next (2), [[Microsoft]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), in the last (1), in the next (1)
 > **Definitions:** in other words (2)
@@ -314,7 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), prompt (2), ai (2), [[People Management]] (1), [[Real-Time]] (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - whether (1)
@@ -388,11 +388,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), ai (3), prompt (3), next (2), career (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2)
 > **Analogies:** just like (2)
 > **Warnings:** keep in mind (1), common mistake (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - as (1)
 
@@ -461,8 +461,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), [[ChatGPT]] (5), ai (2), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)
@@ -538,9 +538,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (4), ai (2), management (1), career (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for, (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - i (1)
@@ -598,7 +598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), ai (3), prompt (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
@@ -664,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), ai (6), next (2), prompt (1), career (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (2)
 > **Best Practices:** don't forget (1), make sure to (1)
@@ -717,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[ChatGPT]] (3), leadership (2), hr (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - by (1)
 
@@ -789,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), leadership (5), ai (2), web (1), database (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** heads up (1)
 > **Speakers:** - it (1)
@@ -861,6 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (4), [[ChatGPT]] (4), prompt (3), ai (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
@@ -924,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** data (10), [[ChatGPT]] (5), leadership (2), [[Strategic Thinking]] (2), [[Decision-Making]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -999,8 +1000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (3), prompt (2), next (1)
 > **Env Vars:** gpt (4)
-> **Code Keywords:** let (2), continue (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
@@ -1056,14 +1057,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1)
+> **Frameworks & Libraries:** next (5), [[ChatGPT]] (4), career (4), ai (2), leadership (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
 
 ### 2. Helpful Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Path Context

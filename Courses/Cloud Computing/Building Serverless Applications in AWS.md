@@ -31,7 +31,7 @@ tags:
   - skill/serverless-computing
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20Serverless%20Applications%20in%20AWS.md)
@@ -50,33 +50,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Building a serverless application in AWS
-  - What you need to know
+  - [Building a serverless application in AWS](#building-a-serverless-application-in-aws)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Getting Started**](#1-getting-started) (7 videos)
-  - What is a serverless application?
-  - Overview of AWS services
-  - Overview of Amazon S3
-  - Overview of AWS Lambda
-  - Overview of Amazon DynamoDB
-  - Overview of API Gateway
-  - What we are building today
+  - [What is a serverless application?](#what-is-a-serverless-application)
+  - [Overview of AWS services](#overview-of-aws-services)
+  - [Overview of Amazon S3](#overview-of-amazon-s3)
+  - [Overview of AWS Lambda](#overview-of-aws-lambda)
+  - [Overview of Amazon DynamoDB](#overview-of-amazon-dynamodb)
+  - [Overview of API Gateway](#overview-of-api-gateway)
+  - [What we are building today](#what-we-are-building-today)
 - [**2. AWS Account and Website Setup**](#2-aws-account-and-website-setup) (3 videos)
-  - Creating and using an AWS account
-  - Create an S3 bucket and upload the landing page
-  - Configure the S3 bucket for static website hosting
+  - [Creating and using an AWS account](#creating-and-using-an-aws-account)
+  - [Create an S3 bucket and upload the landing page](#create-an-s3-bucket-and-upload-the-landing-page)
+  - [Configure the S3 bucket for static website hosting](#configure-the-s3-bucket-for-static-website-hosting)
 - [**3. Amazon DynamoDB and AWS Lambda Setup**](#3-amazon-dynamodb-and-aws-lambda-setup) (2 videos)
-  - Set up a DynamoDB table for data storage
-  - Create a Lambda function to retrieve data
+  - [Set up a DynamoDB table for data storage](#set-up-a-dynamodb-table-for-data-storage)
+  - [Create a Lambda function to retrieve data](#create-a-lambda-function-to-retrieve-data)
 - [**4. API Gateway Setup and Testing**](#4-api-gateway-setup-and-testing) (3 videos)
-  - Configure API Gateway
-  - Edit an app.js file
-  - Test the recipe website to ensure proper functionality
+  - [Configure API Gateway](#configure-api-gateway)
+  - [Edit an app.js file](#edit-an-appjs-file)
+  - [Test the recipe website to ensure proper functionality](#test-the-recipe-website-to-ensure-proper-functionality)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a serverless application in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/building-a-serverless-application-in-aws?u=76281980)
@@ -99,9 +99,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), cloud (2), aws (2)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 
 #### What you need to know
@@ -129,15 +129,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Programming]] (3), aws (2), [[Python (Programming Language)|Python]] (2), [[Java]] (1)
 > **CLI Commands:** aws (2), python (2)
 > **Env Vars:** aws (2), html (1), css (1)
-> **Code Keywords:** let (2), else. (1)
 > **Speakers:** - before (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a serverless application?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980)
@@ -194,11 +194,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Serverless Computing]] (3), cloud (3), aws (2), power (1), [[Scalability]] (1)
 > **Definitions:** refers to (1), short for (1), is an  (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 
 #### Overview of AWS services
@@ -230,9 +230,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), cloud (2), [[Microsoft Products|Products]] (1), management (1), [[Databases]] (1)
 > **Env Vars:** aws (6), ec2 (1), api (1)
 > **CLI Commands:** aws (6)
-> **Code Keywords:** case, (1), lambda (1), let (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [narrator] (1)
@@ -268,10 +268,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), aws (2), cloud (1), application (1), [[Scalability]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), pdf (1)
 > **Definitions:** known as (1), is an  (1)
-> **Code Keywords:** lambda (1)
 > **Versions:** 99.9 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - if (1)
@@ -311,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), application (1), [[Representational State Transfer (REST)|Rest]] (1), traffic (1), [[Programming]] (1)
 > **CLI Commands:** aws (6), python (1), node (1)
-> **Code Keywords:** lambda (7), let (1)
 > **Env Vars:** aws (6)
 > **Analogies:** for instance (1), picture (1), similar to (1)
 > **File Paths:** node.js (1)
@@ -350,9 +350,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (4), [[Databases]] (2), aws (2), application (2)
 > **Env Vars:** aws (2), api (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
@@ -387,11 +387,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), application (4), concurrent (2), traffic (2), [[Programming]] (1)
 > **Env Vars:** api (11), aws (1), rest (1), http (1)
 > **Analogies:** similar to (2), such as (1)
 > **Definitions:** stands for (1), is an  (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
@@ -432,7 +432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (4), let (2), function (2), static (1), continue (1)
+> **Frameworks & Libraries:** application (5), aws (4), web application (2), next (2), data (2)
 > **Env Vars:** aws (4), html (1), css (1), api (1)
 > **CLI Commands:** aws (4)
 > **Cross-References:** next chapter (1)
@@ -443,7 +443,7 @@ created: 2026-04-29
 
 ### 2. AWS Account and Website Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and using an AWS account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/creating-and-using-an-aws-account?u=76281980)
@@ -488,9 +488,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), management (1), next (1)
 > **CLI Commands:** aws (10)
 > **Env Vars:** aws (10)
-> **Code Keywords:** require (1), let (1)
 > **UI Navigation:** click on (2)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Cross-References:** next video (1)
@@ -544,8 +544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), application (1), management (1), [[Search]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (6), scroll down (1)
-> **Code Keywords:** let (1), public (1), default. (1), static (1)
 > **File Paths:** app.js (1), index.html (1), style.css (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
@@ -598,8 +598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), aws (2), [[LinkedIn]] (1), database (1), next (1)
 > **UI Navigation:** click on (6), scroll down (2), navigate to (1)
-> **Code Keywords:** static (4), case, (1), let (1)
 > **Env Vars:** html (2), aws (2), url (2)
 > **CLI Commands:** aws (2), find (1)
 > **Cross-References:** go back to (1)
@@ -610,7 +610,7 @@ created: 2026-04-29
 
 ### 3. Amazon DynamoDB and AWS Lambda Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a DynamoDB table for data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980)
@@ -677,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1), finally, (1), lambda (1), function (1)
+> **Frameworks & Libraries:** [[JSON]] (4), aws (2), next (2), management (1), [[Search]] (1)
 > **Env Vars:** json (4), aws (2)
 > **UI Navigation:** click on (5), navigate to (1)
 > **CLI Commands:** aws (2), find (1), make (1)
@@ -743,7 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), lambda (7), let (2), default, (1)
+> **Frameworks & Libraries:** aws (2), [[Search]] (2), [[Node.js]] (1), next (1), api (1)
 > **UI Navigation:** click on (6), scroll up (1), scroll down (1)
 > **Env Vars:** aws (2), iam (2), api (1)
 > **CLI Commands:** aws (2), node (1), make (1)
@@ -755,7 +755,7 @@ created: 2026-04-29
 
 ### 4. API Gateway Setup and Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure API Gateway
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980)
@@ -808,8 +808,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), application (3), [[Representational State Transfer (REST)|Rest]] (2), [[Search]] (1), aws (1)
 > **Env Vars:** api (12), rest (2), aws (1), http (1), url (1)
-> **Code Keywords:** let (5), lambda (4), function (4)
 > **UI Navigation:** click on (7), scroll down (2)
 > **CLI Commands:** aws (1), find (1)
 > **File Paths:** app.js (1)
@@ -864,9 +864,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), application (3), aws (1), management (1), front-end (1)
 > **UI Navigation:** click on (6), navigate to (3), go to (1), scroll down (1)
 > **Env Vars:** api (3), url (3), cors (2), aws (1)
-> **Code Keywords:** let (3), delete (2), case, (1)
 > **File Paths:** app.js (5)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** aws (1)
@@ -893,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1), include, (1), lambda (1)
+> **Frameworks & Libraries:** application (2), api (1)
 > **Env Vars:** url (1), api (1)
 > **UI Navigation:** click on (2)
 > **Speakers:** - now (1)
@@ -901,7 +901,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980)
@@ -926,6 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), aws (2), next (2), functional (1), application (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - congratulations (1)

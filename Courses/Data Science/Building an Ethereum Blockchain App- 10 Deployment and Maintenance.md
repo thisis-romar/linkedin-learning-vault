@@ -36,7 +36,7 @@ tags:
   - skill/ethereum
   - skill/software-deployment
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%2010%20Deployment%20and%20Maintenance.md)
@@ -55,16 +55,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Deploying and Maintaining Ethereum Apps**](#1-deploying-and-maintaining-ethereum-apps) (6 videos)
-  - Test blockchains
-  - The live blockchain: Mainnet
-  - Connecting to multiple blockchains and Infura
-  - Configuring Truffle and Infura
-  - Funding your account lab
-  - Deploying to the live blockchain
+  - [Test blockchains](#test-blockchains)
+  - [The live blockchain: Mainnet](#the-live-blockchain-mainnet)
+  - [Connecting to multiple blockchains and Infura](#connecting-to-multiple-blockchains-and-infura)
+  - [Configuring Truffle and Infura](#configuring-truffle-and-infura)
+  - [Funding your account lab](#funding-your-account-lab)
+  - [Deploying to the live blockchain](#deploying-to-the-live-blockchain)
 
 ### 1. Deploying and Maintaining Ethereum Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test blockchains
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980)
@@ -255,7 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (4), continue (1), default. (1), static (1)
+> **Frameworks & Libraries:** [[Blockchain]] (11), [[Ethereum]] (6), [[Smart Contracts]] (5), [[Software Development]] (1), [[Solidity]] (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Definitions:** is a  (3), is an  (1), basically means (1)
 > **CLI Commands:** make (2), find (2)
@@ -361,7 +361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Ethereum]] (2), application (2), [[Cryptocurrency]] (1), [[Security]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Code Identifiers:** dapp (1)
 > **Definitions:** means that (1)
@@ -490,7 +490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (4), private (3), for. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Ethereum]] (3), node (2), [[Cryptocurrency]] (1), api (1)
 > **Env Vars:** infura (4), evm (2), url (2), api (1)
 > **Prerequisites:** set up (3), install (1), configure (1)
 > **CLI Commands:** node (2), make (1)
@@ -606,8 +606,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (1), data (1), api (1), [[Fetch]] (1), [[Ethereum]] (1)
 > **Prerequisites:** install (4), set up (3), configure (1)
-> **Code Keywords:** let (4), from. (1), module (1), this, (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** npm (1), find (1), make (1)
 > **URLs:** [trufflesuite.com](https://trufflesuite.com) (2), [infura.io](https://infura.io) (1)
@@ -738,7 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (3), default, (1), this, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (2), [[Ethereum]] (2)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1)
@@ -908,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), continue (1), new, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Smart Contracts]] (2), [[Microsoft Word|Word]] (2), [[Ethereum]] (2), [[Software Development]] (2)
 > **Versions:** 0.1 (1), 4.1 (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1), in other words (1)

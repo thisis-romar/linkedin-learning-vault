@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Rest%20Apis.md)
@@ -42,36 +42,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. REST API: Representational State Transfer Application Programming Interface**](#1-rest-api-representational-state-transfer-application-programming-interface) (7 videos)
-  - The RESTful librarian
-  - What is a REST API?
-  - Sidebar: URL vs. URI
-  - The six constraints of REST
-  - How REST relates to HTTP
-  - Who or what interacts with REST APIs?
-  - Tools to see REST API in action
+  - [The RESTful librarian](#the-restful-librarian)
+  - [What is a REST API?](#what-is-a-rest-api)
+  - [Sidebar: URL vs. URI](#sidebar-url-vs-uri)
+  - [The six constraints of REST](#the-six-constraints-of-rest)
+  - [How REST relates to HTTP](#how-rest-relates-to-http)
+  - [Who or what interacts with REST APIs?](#who-or-what-interacts-with-rest-apis)
+  - [Tools to see REST API in action](#tools-to-see-rest-api-in-action)
 - [**2. Request**](#2-request) (4 videos)
-  - Anatomy of a REST request
-  - Discovery
-  - Resource
-  - Methods (Verbs)
+  - [Anatomy of a REST request](#anatomy-of-a-rest-request)
+  - [Discovery](#discovery)
+  - [Resource](#resource)
+  - [Methods (Verbs)](#methods-verbs)
 - [**3. Response**](#3-response) (3 videos)
-  - Response header
-  - HTTP status messages
-  - REST and Authorization/Authentication
+  - [Response header](#response-header)
+  - [HTTP status messages](#http-status-messages)
+  - [REST and Authorization/Authentication](#rest-and-authorizationauthentication)
 - [**4. Request/Response Pairs**](#4-requestresponse-pairs) (5 videos)
-  - Request/response pairs
-  - GET
-  - POST
-  - PUT/PATCH
-  - DELETE
+  - [Request/response pairs](#requestresponse-pairs)
+  - [GET](#get)
+  - [POST](#post)
+  - [PUT/PATCH](#putpatch)
+  - [DELETE](#delete)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/welcome?u=76281980)
@@ -120,8 +120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), application (4), web (2), api (2), data (2)
 > **Env Vars:** rest (7), api (2)
-> **Code Keywords:** interface (1), let (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - open (1)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 ### 1. REST API: Representational State Transfer Application Programming Interface
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The RESTful librarian
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/the-restful-librarian?u=76281980)
@@ -168,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Representational State Transfer (REST)|Rest]] (7), api (7), database (2), next (2)
 > **Env Vars:** rest (7), api (7)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -238,8 +239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), [[Representational State Transfer (REST)|Rest]] (9), data (7), api (5), web (5)
 > **Env Vars:** rest (9), api (5), html (4), uri (2), mdn (1)
-> **Code Keywords:** interface (3), delete (3), this, (1)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
@@ -296,9 +297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (2), web (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** urn (9), url (8), uri (7), http (1), ftp (1)
 > **Definitions:** is a  (2), in other words (1), refers to (1)
-> **Code Keywords:** let (1), abstract (1), finally, (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Speakers:** - short (1)
 
@@ -395,8 +396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (10), data (6), web (3), [[JSON]] (3), api (2)
 > **Env Vars:** rest (9), uri (3), json (3), api (2), aka (1)
-> **Code Keywords:** interface (6), self (2), pass (2), finally, (2), let (1)
 > **Definitions:** is a  (3), in other words (2), refers to (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -435,10 +436,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (10), web (8), api (2), [[Software Architecture]] (1)
 > **Env Vars:** rest (10), http (9), smtp (2), api (2), ftp (1)
 > **Definitions:** is a  (2), short for (1), in other words (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - working (1)
 
 #### Who or what interacts with REST APIs?
@@ -502,8 +503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (20), api (15), data (5), [[WordPress]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** rest (20), api (15)
-> **Code Keywords:** from, (1), interface (1), this. (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
@@ -620,8 +621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (28), api (10), data (6), web (2), [[Search]] (1)
 > **Env Vars:** rest (25), api (8), req (2), res (2), http (2)
-> **Code Keywords:** let (3), this, (2), public (2), switch (1), interface (1)
 > **Tools:** visual studio (4), postman (1), insomnia (1)
 > **UI Navigation:** click on (3), scroll down (1), switch to (1), go to (1)
 > **CLI Commands:** find (3), make (2)
@@ -632,7 +633,7 @@ created: 2026-04-29
 
 ### 2. Request
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anatomy of a REST request
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980)
@@ -687,9 +688,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (11), data (6), api (5), [[WordPress]] (5), [[JSON]] (5)
 > **Env Vars:** rest (11), uri (7), api (5), post (3), json (2)
 > **API Endpoints:** get  (4), post  (3), /v2/posts (1)
-> **Code Keywords:** this. (2), this, (1), let (1), delete (1), self (1)
 > **URLs:** [restful.dev](https://restful.dev) (1), [site.com](https://site.com) (1)
 > **Code Identifiers:** jquery (1)
 > **Speakers:** - in (1)
@@ -741,9 +742,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (10), api (10), [[WordPress]] (3), application (2), data (1)
 > **Env Vars:** rest (10), api (10)
 > **CLI Commands:** find (2)
-> **Code Keywords:** pass (2)
 > **Code Identifiers:** per_page (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -819,9 +820,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), data (7), api (1), [[JSON]] (1), [[HTML]] (1)
 > **Env Vars:** rest (7), api (1), uri (1), xml (1), json (1)
 > **Definitions:** is a  (4), in other words (1)
-> **Code Keywords:** let (1), case, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -902,15 +903,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (7), product (3), web (2), api (2)
 > **Env Vars:** http (8), rest (7), api (2), url (1), json (1)
-> **Code Keywords:** delete (4), pass (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
 
 ### 3. Response
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Response header
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/response-header?u=76281980)
@@ -949,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (4), api (4), [[JSON]] (3), hit (1)
 > **Env Vars:** api (4), rest (3), json (3), http (2), uri (1)
-> **Code Keywords:** type, (1), from. (1)
 > **Versions:** 1.1 (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -1022,9 +1023,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), next (1)
 > **Env Vars:** http (6), rest (3), uri (3), url (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### REST and Authorization/Authentication
@@ -1070,8 +1071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), api (5), [[WordPress]] (2), web (1), [[Tokens]] (1)
 > **Env Vars:** rest (7), api (5), head (2), post (2), put (2)
-> **Code Keywords:** delete (2), else. (1), let (1), continue (1), require (1)
 > **API Endpoints:** options  (1), post  (1), delete  (1), head  (1), get  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1081,7 +1082,7 @@ created: 2026-04-29
 
 ### 4. Request/Response Pairs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Request/response pairs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/request-response-pairs?u=76281980)
@@ -1126,8 +1127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), api (3), [[WordPress]] (2), data (1)
 > **Env Vars:** rest (5), api (3), post (1)
-> **Code Keywords:** pass (2), this, (1), let (1), default, (1), else. (1)
 > **API Endpoints:** get  (2), post  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous chapter (1)
@@ -1189,8 +1190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[JSON]] (2), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** url (2), api (1), json (1)
-> **Code Keywords:** let (1), public (1), self (1)
 > **UI Navigation:** scroll down (3)
 > **CLI Commands:** find (2)
 > **URLs:** [restful.dev](https://restful.dev) (1)
@@ -1283,9 +1284,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), api (6), [[WordPress]] (6), data (6), [[JSON]] (4)
 > **Env Vars:** post (7), rest (6), api (6), json (3)
 > **API Endpoints:** post  (7), get  (2)
-> **Code Keywords:** finally, (2), this. (1), public (1), else. (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** go back to (1)
@@ -1357,11 +1358,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (16), api (12), [[WordPress]] (4), [[Search]] (1)
 > **Env Vars:** rest (14), api (11), put (10), post (6), patch (5)
 > **API Endpoints:** put  (4), patch  (3), post  (2), put
  (2), get  (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** delete (1), let (1), type. (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
@@ -1455,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (17), case, (1), this: (1), let (1), pass (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (9), api (7), [[WordPress]] (5), database (3), application (1)
 > **Env Vars:** rest (9), api (7), uri (2), url (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -1465,7 +1466,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/next-steps?u=76281980)
@@ -1490,8 +1491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), [[Search]] (1), [[Programming]] (1), application (1), [[LinkedIn]] (1)
 > **Env Vars:** rest (6)
-> **Code Keywords:** function (1), continue (1)
 > **CLI Commands:** go build (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [morten] (1)

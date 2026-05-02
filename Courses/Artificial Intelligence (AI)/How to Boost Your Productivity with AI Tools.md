@@ -31,7 +31,7 @@ tags:
   - skill/ai-productivity
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Boost%20Your%20Productivity%20with%20AI%20Tools.md)
@@ -50,40 +50,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI is a dream for productivity
+  - [AI is a dream for productivity](#ai-is-a-dream-for-productivity)
 - [**1. Your Approach to Using AI in Business**](#1-your-approach-to-using-ai-in-business) (8 videos)
-  - The two reasons to use AI in business
-  - Watch this before you start using AI for work
-  - Identifying opportunities to benefit from AI
-  - A different approach to AI prompt writing
-  - Taking responsibility for the output of AI
-  - Organizing your AI prompts
-  - Understanding AI agents and automation
-  - How to work with AI deep research
+  - [The two reasons to use AI in business](#the-two-reasons-to-use-ai-in-business)
+  - [Watch this before you start using AI for work](#watch-this-before-you-start-using-ai-for-work)
+  - [Identifying opportunities to benefit from AI](#identifying-opportunities-to-benefit-from-ai)
+  - [A different approach to AI prompt writing](#a-different-approach-to-ai-prompt-writing)
+  - [Taking responsibility for the output of AI](#taking-responsibility-for-the-output-of-ai)
+  - [Organizing your AI prompts](#organizing-your-ai-prompts)
+  - [Understanding AI agents and automation](#understanding-ai-agents-and-automation)
+  - [How to work with AI deep research](#how-to-work-with-ai-deep-research)
 - [**2. AI Prompts to Make Your Job Easier**](#2-ai-prompts-to-make-your-job-easier) (8 videos)
-  - Using GenAI to write better email replies
-  - Creating effective project plans with AI assistance
-  - Writing HTML code more effectively with GenAI
-  - How to create better presentations from a document with AI
-  - Developing better social media posts with AI
-  - Using AI to analyze and understand policy documents
-  - How to improve proposal writing with AI assistance
-  - Using AI for data analysis and spreadsheets
+  - [Using GenAI to write better email replies](#using-genai-to-write-better-email-replies)
+  - [Creating effective project plans with AI assistance](#creating-effective-project-plans-with-ai-assistance)
+  - [Writing HTML code more effectively with GenAI](#writing-html-code-more-effectively-with-genai)
+  - [How to create better presentations from a document with AI](#how-to-create-better-presentations-from-a-document-with-ai)
+  - [Developing better social media posts with AI](#developing-better-social-media-posts-with-ai)
+  - [Using AI to analyze and understand policy documents](#using-ai-to-analyze-and-understand-policy-documents)
+  - [How to improve proposal writing with AI assistance](#how-to-improve-proposal-writing-with-ai-assistance)
+  - [Using AI for data analysis and spreadsheets](#using-ai-for-data-analysis-and-spreadsheets)
 - [**3. AI Prompts to Help Make Your Work Better**](#3-ai-prompts-to-help-make-your-work-better) (8 videos)
-  - Broadening your idea generation with GenAI
-  - Creating effective mind maps with GenAI
-  - Strengthening your debate skills with GenAI
-  - Using AI to challenge conventional thinking
-  - Presenting ideas to stakeholders with GenAI help
-  - Finding your thinking blind spots with AI prompts
-  - Adapting your message for various stakeholders with GenAI
-  - Creating visual aids and graphics with AI assistance
+  - [Broadening your idea generation with GenAI](#broadening-your-idea-generation-with-genai)
+  - [Creating effective mind maps with GenAI](#creating-effective-mind-maps-with-genai)
+  - [Strengthening your debate skills with GenAI](#strengthening-your-debate-skills-with-genai)
+  - [Using AI to challenge conventional thinking](#using-ai-to-challenge-conventional-thinking)
+  - [Presenting ideas to stakeholders with GenAI help](#presenting-ideas-to-stakeholders-with-genai-help)
+  - [Finding your thinking blind spots with AI prompts](#finding-your-thinking-blind-spots-with-ai-prompts)
+  - [Adapting your message for various stakeholders with GenAI](#adapting-your-message-for-various-stakeholders-with-genai)
+  - [Creating visual aids and graphics with AI assistance](#creating-visual-aids-and-graphics-with-ai-assistance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI is a dream for productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980)
@@ -144,6 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), next (2), product (1), [[LinkedIn]] (1), career (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -152,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Your Approach to Using AI in Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The two reasons to use AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980)
@@ -233,8 +234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), next (2), [[Microsoft Excel|Excel]] (1), game (1), [[HTML]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -319,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), delete (1), case, (1)
+> **Frameworks & Libraries:** ai (8), data (8), business (2), next (1), prompt (1)
 > **Analogies:** picture (1)
 > **Speakers:** - picture (1)
 
@@ -376,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), [[Generative AI]] (1), prompt (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
@@ -451,7 +452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), this ( (1), this. (1), for. (1)
+> **Frameworks & Libraries:** prompt (10), [[ChatGPT]] (2), [[Generative AI Tools]] (1), ai (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Speakers:** - if (1), - [curly (1)
@@ -491,9 +492,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
 
@@ -570,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), [[ChatGPT]] (2), chatbot (2), next (2), web (1)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** let (2), interface (1), finally, (1), for. (1)
 > **Env Vars:** seo (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** double-click (1)
@@ -665,9 +666,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Automation]] (2), next (2), [[LinkedIn]] (1), [[Email Marketing]] (1)
 > **Definitions:** means that (2), in other words (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - since (1)
 
@@ -724,13 +725,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Office|Office]] (1), feature (1), data (1), power (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - ai (1)
 
 
 ### 2. AI Prompts to Make Your Job Easier
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GenAI to write better email replies
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980)
@@ -895,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (1), this, (1), for. (1), for, (1)
+> **Frameworks & Libraries:** ai (6), prompt (3), data (2), next (2), [[Newsletters]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Definitions:** means that (1), is a  (1)
 > **Exercise Files:** template (1)
@@ -1052,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for { (1), continue (1), this, (1), from, (1)
+> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), ai (3), [[GPT-4]] (1), teams (1)
 > **Analogies:** just like (2), it's like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
@@ -1147,7 +1149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), super (1), return. (1), this { (1)
+> **Frameworks & Libraries:** [[HTML]] (4), seo (4), prompt (3), ai (3), [[Search]] (1)
 > **Env Vars:** html (4), seo (4)
 > **CLI Commands:** make (3)
 > **Analogies:** it's like (1)
@@ -1258,7 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this { (2), continue (1)
+> **Frameworks & Libraries:** prompt (5), ai (4), [[ChatGPT]] (3), business (1), teams (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -1387,7 +1389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), this. (1)
+> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), web (2), [[Search]] (1), business (1)
 > **CLI Commands:** find (4), make (4)
 > **Analogies:** picture (1), imagine (1)
 > **Definitions:** is an  (1)
@@ -1630,7 +1632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), from. (1), this, (1)
+> **Frameworks & Libraries:** prompt (6), data (6), next (3), ai (2), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** dpo (2)
@@ -1850,8 +1852,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (8), ai (6), [[Microsoft Word|Word]] (2), next (2), business (1)
 > **CLI Commands:** make (9), find (1)
-> **Code Keywords:** let (3), this, (3), for, (1), require (1), for. (1)
 > **Env Vars:** rfp (3), gpt (1)
 > **Definitions:** is a  (4)
 > **Non-Speech:** (upbeat music) (2)
@@ -2084,7 +2086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (3), for. (1)
+> **Frameworks & Libraries:** ai (5), prompt (5), data (5), [[Microsoft Excel|Excel]] (3), [[Microsoft Copilot|Copilot]] (2)
 > **UI Navigation:** go to (4), click on (4), dropdown (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
@@ -2094,7 +2096,7 @@ created: 2026-04-29
 
 ### 3. AI Prompts to Help Make Your Work Better
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Broadening your idea generation with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980)
@@ -2243,7 +2245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (2), continue (2)
+> **Frameworks & Libraries:** ai (5), prompt (5), [[ChatGPT]] (2), teams (1), generic (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
@@ -2311,7 +2313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** node (3), prompt (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (3), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
@@ -2380,7 +2382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (2), [[Search]] (1), data (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** coming up (2)
 > **Speakers:** - when (1)
@@ -2448,7 +2450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1)
+> **Frameworks & Libraries:** prompt (3), business (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - no (1)
@@ -2560,7 +2562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), this. (1)
+> **Frameworks & Libraries:** prompt (3), [[Decision-Making]] (2), product (2), [[ChatGPT]] (1), [[Security]] (1)
 > **Env Vars:** ceo (1), cfo (1), coo (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - from (1)
@@ -2825,7 +2827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), return. (1), while, (1)
+> **Frameworks & Libraries:** prompt (8), business (4), ai (2), strengths (2), web (2)
 > **Definitions:** is a  (5), means that (1)
 > **Analogies:** it's like (2), picture (1), kind of like (1), imagine (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -3029,7 +3031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), this. (1)
+> **Frameworks & Libraries:** product (7), business (5), prompt (3), [[Representational State Transfer (REST)|Rest]] (1), ai (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** source_document (1), target_audience (1)
@@ -3249,7 +3251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (3), this, (2), while. (1), for, (1)
+> **Frameworks & Libraries:** ai (10), prompt (9), business (4), [[ChatGPT]] (3), [[Gemini]] (2)
 > **CLI Commands:** make (4)
 > **Non-Speech:** (bright upbeat music) (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -3259,7 +3261,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980)
@@ -3286,6 +3288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Generative AI Tools]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - well (1)

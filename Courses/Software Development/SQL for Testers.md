@@ -28,7 +28,7 @@ tags:
   - skill/sql
   - skill/database-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/SQL%20for%20Testers.md)
@@ -47,38 +47,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Dive deep into quality
-  - What you should know
+  - [Dive deep into quality](#dive-deep-into-quality)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started**](#1-getting-started) (4 videos)
-  - What is SQL and why use it as a tester?
-  - Getting setup with the tools you need
-  - Getting started with SQL queries
-  - Understanding more complex SQL queries
+  - [What is SQL and why use it as a tester?](#what-is-sql-and-why-use-it-as-a-tester)
+  - [Getting setup with the tools you need](#getting-setup-with-the-tools-you-need)
+  - [Getting started with SQL queries](#getting-started-with-sql-queries)
+  - [Understanding more complex SQL queries](#understanding-more-complex-sql-queries)
 - [**2. Querying SQL Data**](#2-querying-sql-data) (4 videos)
-  - Setting up a site for testing
-  - Validate user workflows
-  - Validate data integrity
-  - Working through an example
+  - [Setting up a site for testing](#setting-up-a-site-for-testing)
+  - [Validate user workflows](#validate-user-workflows)
+  - [Validate data integrity](#validate-data-integrity)
+  - [Working through an example](#working-through-an-example)
 - [**3. Using SQL for Data Generation**](#3-using-sql-for-data-generation) (5 videos)
-  - Create new entries in a table
-  - Update existing entries in a table
-  - Deleting data from a table
-  - Challenge: Data generation
-  - Solution: Data generation
+  - [Create new entries in a table](#create-new-entries-in-a-table)
+  - [Update existing entries in a table](#update-existing-entries-in-a-table)
+  - [Deleting data from a table](#deleting-data-from-a-table)
+  - [Challenge: Data generation](#challenge-data-generation)
+  - [Solution: Data generation](#solution-data-generation)
 - [**4. Testing SQL Queries**](#4-testing-sql-queries) (7 videos)
-  - Transactions
-  - Field constrains
-  - Schema validation
-  - Security testing
-  - Performance testing
-  - Challenge: Database tests
-  - Solution: Database tests
+  - [Transactions](#transactions)
+  - [Field constrains](#field-constrains)
+  - [Schema validation](#schema-validation)
+  - [Security testing](#security-testing)
+  - [Performance testing](#performance-testing)
+  - [Challenge: Database tests](#challenge-database-tests)
+  - [Solution: Database tests](#solution-database-tests)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dive deep into quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), application (3), product (1), web (1), database (1)
 > **Env Vars:** sql (7)
 > **Definitions:** is an  (1)
 > **Speakers:** - [dave] (1)
@@ -128,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (2), application (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** python (2)
 > **Tools:** command line (1)
@@ -136,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQL and why use it as a tester?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980)
@@ -213,8 +215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (16), data (6), database (3), application (2), web (1)
 > **Env Vars:** sql (16)
-> **Code Keywords:** let (2), this, (1), from. (1), continue (1)
 > **CLI Commands:** find (4)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Analogies:** for example (2)
@@ -297,8 +299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), database (6), [[Windows]] (3), data (2), application (1)
 > **Env Vars:** sql (9), fake_car_data (4)
-> **Code Keywords:** let (5), interface (2), continue (2), this, (1), case, (1)
 > **CLI Commands:** find (3), unzip (1)
 > **UI Navigation:** go to (1), navigate to (1), double-click (1), right-click (1)
 > **Exercise Files:** exercise files (1)
@@ -369,7 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1)
+> **Frameworks & Libraries:** data (5), [[SQL]] (3)
 > **Env Vars:** bmw (3), sql (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (2), is a  (1)
@@ -509,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (4), let (4), this. (2), this, (2), default. (1)
+> **Frameworks & Libraries:** data (10), [[SQL]] (5), next (3)
 > **Env Vars:** sql (5), desc (1), asc (1)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** make (1)
@@ -520,7 +522,7 @@ created: 2026-04-29
 
 ### 2. Querying SQL Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a site for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980)
@@ -603,10 +605,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), application (7), [[Python (Programming Language)|Python]] (5), [[SQL]] (4), data (3)
 > **Prerequisites:** install (7), you'll need (4), set up (2)
 > **CLI Commands:** python (5), pip (3), make (1), cd (1)
 > **Env Vars:** sql (3), flask_app (2), url (2), pip (1), zip (1)
-> **Code Keywords:** let (4), interface (2), this, (1)
 > **UI Navigation:** go to (2), navigate to (1), open the (1), click on (1)
 > **Tools:** github (1), command prompt (1)
 > **File Paths:** databaseinitializationscript.sql (1)
@@ -693,7 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), interface (2), this, (2), continue (1), return, (1)
+> **Frameworks & Libraries:** product (6), [[SQL]] (4), database (4), data (4), [[Microsoft Products|Products]] (2)
 > **Env Vars:** sql (4)
 > **URLs:** [gmail.com](https://gmail.com) (2)
 > **UI Navigation:** go to (2)
@@ -803,9 +805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), data (6), [[SQL]] (3)
 > **Code Identifiers:** productid (9), userid (5), productids (1), firstname (1)
 > **Env Vars:** select (5), join (4), sql (3), inner (3), distinct (1)
-> **Code Keywords:** let (9), this, (2), this. (1)
 > **SQL:** select (5), inner join (3), join (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1)
@@ -895,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from. (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), data (1), database (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -903,7 +905,7 @@ created: 2026-04-29
 
 ### 3. Using SQL for Data Generation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create new entries in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980)
@@ -1038,7 +1040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), switch (1), else, (1), this, (1), from, (1)
+> **Frameworks & Libraries:** data (17), [[SQL]] (3), database (3), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3)
 > **Analogies:** imagine (2), for example (1)
 > **Warnings:** warning (2)
@@ -1134,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (4), this. (2), case, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (2), product (2), [[SQL]] (1)
 > **Prerequisites:** set up (2), initialization (1)
 > **File Paths:** ad_100_users.sql (1)
 > **CLI Commands:** make (1)
@@ -1216,7 +1218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (7), this, (3), this. (2), case, (1)
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (6), database (4), business (2), data (2)
 > **Analogies:** imagine (1), just like (1)
 > **Warnings:** be careful (2)
 > **Speakers:** - [instructor] (1)
@@ -1272,8 +1274,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), data (2), product (2), [[Microsoft Products|Products]] (2), database (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** sql (3)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** initialization (1)
@@ -1353,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), this, (1)
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (12), data (3), next (2), [[Microsoft Word|Word]] (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** find (1)
@@ -1364,7 +1366,7 @@ created: 2026-04-29
 
 ### 4. Testing SQL Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980)
@@ -1511,7 +1513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (2), this, (2), this. (1)
+> **Frameworks & Libraries:** database (7), [[Microsoft Products|Products]] (5), [[SQL]] (3), product (2), data (1)
 > **Env Vars:** sql (3), begin (1), transaction (1), insert (1), into (1)
 > **Warnings:** be aware (3)
 > **CLI Commands:** make (2)
@@ -1711,7 +1713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this. (2), self (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (6), data (4), next (3)
 > **Definitions:** is a  (3), means that (2)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -1791,7 +1793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), abstract (1), let (1), this. (1), raise (1)
+> **Frameworks & Libraries:** data (5), database (4), [[Microsoft Products|Products]] (4), application (2), product (1)
 > **Analogies:** picture (2), for example (1)
 > **CLI Commands:** find (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -1912,7 +1914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (5), case, (4), this. (3), private (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[SQL]] (7), data (6), application (3), [[OWASP]] (2)
 > **Code Identifiers:** categoryid (14), categorid (1)
 > **Env Vars:** sql (8), owasp (2), url (1)
 > **CLI Commands:** find (1), make (1)
@@ -2003,10 +2005,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Databases]] (5), database (4), [[Microsoft Products|Products]] (3), application (1)
 > **Warnings:** be careful (2), keep in mind (1), be aware (1), watch out (1)
 > **CLI Commands:** make (3), sqlite3 (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** this. (1), let (1)
 > **Env Vars:** sql (1)
 > **Versions:** 4.99 (1)
 > **Cross-References:** earlier in (1)
@@ -2085,8 +2087,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (3), [[Databases]] (2), [[E-Commerce]] (2), next (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1), class, (1), class. (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** picture (1)
@@ -2251,7 +2253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), class. (10), this. (4), class, (3), case, (2)
+> **Frameworks & Libraries:** next (3), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** select the (1)
@@ -2261,7 +2263,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980)
@@ -2296,6 +2298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), data (2), database (2), [[Security]] (1), [[Search]] (1)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)

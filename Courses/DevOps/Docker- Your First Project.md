@@ -30,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Docker-%20Your%20First%20Project.md)
@@ -49,35 +49,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Your first Docker project
-  - What you should know
+  - [Your first Docker project](#your-first-docker-project)
+  - [What you should know](#what-you-should-know)
 - [**1. The Project**](#1-the-project) (3 videos)
-  - Application using Docker
-  - Setting up your development environment
-  - Reviewing a project on GitHub
+  - [Application using Docker](#application-using-docker)
+  - [Setting up your development environment](#setting-up-your-development-environment)
+  - [Reviewing a project on GitHub](#reviewing-a-project-on-github)
 - [**2. Creating a First Docker Project**](#2-creating-a-first-docker-project) (2 videos)
-  - Writing a Dockerfile
-  - Building a Docker image from Dockerfile
+  - [Writing a Dockerfile](#writing-a-dockerfile)
+  - [Building a Docker image from Dockerfile](#building-a-docker-image-from-dockerfile)
 - [**3. Pulling and Pushing Docker Images**](#3-pulling-and-pushing-docker-images) (6 videos)
-  - Searching for images in Docker Hub
-  - Working with custom images
-  - Tagging and labeling images
-  - Working with a private image repository
-  - Inspecting images
-  - Removing images
+  - [Searching for images in Docker Hub](#searching-for-images-in-docker-hub)
+  - [Working with custom images](#working-with-custom-images)
+  - [Tagging and labeling images](#tagging-and-labeling-images)
+  - [Working with a private image repository](#working-with-a-private-image-repository)
+  - [Inspecting images](#inspecting-images)
+  - [Removing images](#removing-images)
 - [**4. Running Docker Containers**](#4-running-docker-containers) (6 videos)
-  - Running a container
-  - Listing containers
-  - Inspecting containers
-  - Reviewing container log files
-  - Working with volumes and mounts
-  - Reviewing your daily workflow
+  - [Running a container](#running-a-container)
+  - [Listing containers](#listing-containers)
+  - [Inspecting containers](#inspecting-containers)
+  - [Reviewing container log files](#reviewing-container-log-files)
+  - [Working with volumes and mounts](#working-with-volumes-and-mounts)
+  - [Reviewing your daily workflow](#reviewing-your-daily-workflow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first Docker project
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project?u=76281980)
@@ -98,8 +98,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Containerization]] (1), [[Software Development]] (1), teams (1)
 > **CLI Commands:** docker (4)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [shelley] (1)
 
@@ -122,6 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Containerization]] (1), application (1)
 > **Tools:** terminal (2), bash (1)
 > **CLI Commands:** make (1), docker (1)
 > **Speakers:** - [instructor] (1)
@@ -129,7 +130,7 @@ created: 2026-04-29
 
 ### 1. The Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application using Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980)
@@ -180,9 +181,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Python (Programming Language)|Python]] (4), web application (2), [[DevOps]] (1), [[Programming]] (1)
 > **CLI Commands:** docker (8), python (4)
 > **Prerequisites:** configure (1), setup (1), set up (1), install (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -222,10 +223,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), application (1), next (1), [[Search]] (1)
 > **CLI Commands:** docker (11)
 > **Tools:** vs code (5), docker desktop (3)
 > **Prerequisites:** install (3), set up (2)
-> **Code Keywords:** let (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -283,10 +284,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6), [[GitHub]] (5), cd (1), next (1)
 > **Tools:** github (5), bash (2), vs code (2), command line (1)
 > **CLI Commands:** git (6), find (1), cd (1)
 > **UI Navigation:** switch to (2), navigate to (1), open the (1), in the menu (1), click on (1)
-> **Code Keywords:** switch (3), interface (1)
 > **Env Vars:** readme (1), url (1), https (1)
 > **Documentation:** the readme (1)
 > **Exercise Files:** github repo (1)
@@ -295,7 +296,7 @@ created: 2026-04-29
 
 ### 2. Creating a First Docker Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing a Dockerfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980)
@@ -374,8 +375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (3), next (3), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (9), python (4), pip (2), find (1)
-> **Code Keywords:** case, (2), default. (1), this, (1)
 > **File Paths:** app.py (2), requirements.txt (1)
 > **Env Vars:** workdir (1), env (1), cmd (1)
 > **Prerequisites:** install (3)
@@ -452,10 +453,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), application (1), [[Troubleshooting]] (1), [[Debugging]] (1), next (1)
 > **CLI Commands:** docker (17), rm (3)
 > **Tools:** terminal (3), bash (1), vs code (1)
 > **Env Vars:** url (3)
-> **Code Keywords:** default, (1), this, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -464,7 +465,7 @@ created: 2026-04-29
 
 ### 3. Pulling and Pushing Docker Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Searching for images in Docker Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980)
@@ -537,8 +538,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), [[Python (Programming Language)|Python]] (5), [[GitHub]] (1), application (1)
 > **CLI Commands:** docker (8), python (5), find (2), make (1)
-> **Code Keywords:** finally, (2)
 > **Tools:** github (1), command line (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** template (1)
@@ -589,10 +590,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), next (2)
 > **CLI Commands:** docker (8), ls (2)
 > **Cross-References:** in the next (2), as we saw (1), previous video (1)
 > **Analogies:** similar to (1), such as (1)
-> **Code Keywords:** default, (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -670,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Metadata]] (2), [[Search]] (1), next (1)
 > **CLI Commands:** docker (9), python (2), ls (2)
-> **Code Keywords:** this, (1)
 > **Tools:** command line (1)
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
@@ -730,8 +731,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **CLI Commands:** docker (10)
-> **Code Keywords:** private (7), public (1)
 > **Tools:** vs code (3)
 > **Prerequisites:** configure (1), set up (1), setup (1)
 > **Definitions:** is a  (2)
@@ -792,10 +793,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), [[Troubleshooting]] (1), [[CLI]] (1), next (1)
 > **CLI Commands:** docker (7), ls (1), make (1)
 > **Env Vars:** json (2), cli (1), utc (1)
 > **UI Navigation:** right-click (1), scroll down (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
@@ -854,8 +855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** docker (7), ls (1)
-> **Code Keywords:** delete (3), pass (2)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **Cross-References:** in the next (1)
 > **Tools:** vs code (1)
@@ -864,7 +865,7 @@ created: 2026-04-29
 
 ### 4. Running Docker Containers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running a container
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980)
@@ -947,13 +948,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Debugging]] (1), prompt (1), application (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** docker (11), make (2), python (1)
 > **Env Vars:** arg (1), tty (1), pwd (1)
 > **Ports:** port 5 (2)
 > **Cross-References:** in the last (1), later in (1)
 > **Tools:** command prompt (1), vs code (1)
 > **UI Navigation:** navigate to (2)
-> **Code Keywords:** pass (1)
 > **Definitions:** means that (1)
 
 #### Listing containers
@@ -997,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), [[JSON]] (1)
 > **CLI Commands:** docker (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** json (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -1072,8 +1073,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Troubleshooting]] (2), [[JSON]] (1)
 > **CLI Commands:** docker (8), find (1)
-> **Code Keywords:** for . (2), default, (1), finally, (1)
 > **Env Vars:** cpu (1), json (1)
 > **Cross-References:** later in (2)
 > **Tools:** vs code (1)
@@ -1116,8 +1117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), application (2)
 > **CLI Commands:** docker (5)
-> **Code Keywords:** continue (1), static (1), pass (1), finally, (1)
 > **Env Vars:** stdout (1), stderr (1), utc (1)
 > **Tools:** vs code (1), docker desktop (1)
 > **Definitions:** means that (1)
@@ -1189,6 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (1), next (1)
 > **CLI Commands:** docker (13), ls (1)
 > **Definitions:** means that (2), is a  (1)
 > **File Paths:** test.txt (2)
@@ -1238,8 +1240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), next (2)
 > **CLI Commands:** docker (4), make (1), rm (1)
-> **Code Keywords:** this, (1), continue (1), finally, (1), default, (1)
 > **Analogies:** similar to (2), such as (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** make sure to (1)
@@ -1248,7 +1250,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980)
@@ -1277,6 +1279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), next (1)
 > **CLI Commands:** docker (5)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** yaml (1)

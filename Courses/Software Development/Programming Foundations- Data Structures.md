@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Data%20Structures.md)
@@ -44,72 +44,72 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Why to use data structures
-  - What you need to know
-  - How to use CoderPad
-  - How to Use GitHub Codespaces
+  - [Why to use data structures](#why-to-use-data-structures)
+  - [What you need to know](#what-you-need-to-know)
+  - [How to use CoderPad](#how-to-use-coderpad)
+  - [How to Use GitHub Codespaces](#how-to-use-github-codespaces)
 - [**1. Data Fundamentals**](#1-data-fundamentals) (5 videos)
-  - What is data?
-  - Introduction to data structures
-  - Built-in data structures in Python
-  - Common operations on data structures
-  - Big-O notation
+  - [What is data?](#what-is-data)
+  - [Introduction to data structures](#introduction-to-data-structures)
+  - [Built-in data structures in Python](#built-in-data-structures-in-python)
+  - [Common operations on data structures](#common-operations-on-data-structures)
+  - [Big-O notation](#big-o-notation)
 - [**2. Array-Like Structures**](#2-array-like-structures) (12 videos)
-  - What is an array?
-  - Create a list in Python
-  - Retrieve data from a list in Python
-  - Mutate a list in Python
-  - Solution: Swap items
-  - Multidimensional lists in Python
-  - Tuples in Python
-  - Solution: Square items
-  - Search array-like structures
-  - Sort array-like structures
-  - Solution: Find the second smallest item
-  - When to use array-like structures
+  - [What is an array?](#what-is-an-array)
+  - [Create a list in Python](#create-a-list-in-python)
+  - [Retrieve data from a list in Python](#retrieve-data-from-a-list-in-python)
+  - [Mutate a list in Python](#mutate-a-list-in-python)
+  - [Solution: Swap items](#solution-swap-items)
+  - [Multidimensional lists in Python](#multidimensional-lists-in-python)
+  - [Tuples in Python](#tuples-in-python)
+  - [Solution: Square items](#solution-square-items)
+  - [Search array-like structures](#search-array-like-structures)
+  - [Sort array-like structures](#sort-array-like-structures)
+  - [Solution: Find the second smallest item](#solution-find-the-second-smallest-item)
+  - [When to use array-like structures](#when-to-use-array-like-structures)
 - [**3. Dictionaries**](#3-dictionaries) (8 videos)
-  - What is a dictionary?
-  - Create a dictionary in Python
-  - Mutate a dictionary in Python
-  - Solution: Update salary
-  - Handle missing dictionary keys
-  - Retrieve keys and value collections from dictionaries
-  - Solution: Clean user preferences
-  - When to use dictionaries
+  - [What is a dictionary?](#what-is-a-dictionary)
+  - [Create a dictionary in Python](#create-a-dictionary-in-python)
+  - [Mutate a dictionary in Python](#mutate-a-dictionary-in-python)
+  - [Solution: Update salary](#solution-update-salary)
+  - [Handle missing dictionary keys](#handle-missing-dictionary-keys)
+  - [Retrieve keys and value collections from dictionaries](#retrieve-keys-and-value-collections-from-dictionaries)
+  - [Solution: Clean user preferences](#solution-clean-user-preferences)
+  - [When to use dictionaries](#when-to-use-dictionaries)
 - [**4. Sets**](#4-sets) (8 videos)
-  - What is a set?
-  - Determine set membership in Python
-  - Mutate a set in Python
-  - Solution: Unique characters
-  - Operations on sets in Python
-  - Immutable sets in Python
-  - Solution: Mutual friends
-  - When to use sets
+  - [What is a set?](#what-is-a-set)
+  - [Determine set membership in Python](#determine-set-membership-in-python)
+  - [Mutate a set in Python](#mutate-a-set-in-python)
+  - [Solution: Unique characters](#solution-unique-characters)
+  - [Operations on sets in Python](#operations-on-sets-in-python)
+  - [Immutable sets in Python](#immutable-sets-in-python)
+  - [Solution: Mutual friends](#solution-mutual-friends)
+  - [When to use sets](#when-to-use-sets)
 - [**5. Queues**](#5-queues) (4 videos)
-  - What is a queue?
-  - Use a deque as a queue in Python
-  - Solution: Generate binary numbers
-  - When to use queues
+  - [What is a queue?](#what-is-a-queue)
+  - [Use a deque as a queue in Python](#use-a-deque-as-a-queue-in-python)
+  - [Solution: Generate binary numbers](#solution-generate-binary-numbers)
+  - [When to use queues](#when-to-use-queues)
 - [**6. Stacks**](#6-stacks) (5 videos)
-  - What is a stack?
-  - Use a list as a stack in Python
-  - Use a deque as a stack in Python
-  - Solution: Matching parentheses
-  - When to use stacks
+  - [What is a stack?](#what-is-a-stack)
+  - [Use a list as a stack in Python](#use-a-list-as-a-stack-in-python)
+  - [Use a deque as a stack in Python](#use-a-deque-as-a-stack-in-python)
+  - [Solution: Matching parentheses](#solution-matching-parentheses)
+  - [When to use stacks](#when-to-use-stacks)
 - [**7. Practice Using Data Structures in Python Applications**](#7-practice-using-data-structures-in-python-applications) (6 videos)
-  - GitHub Codespace challenge: To-do list
-  - GitHub Codespace solution: To-do list
-  - GitHub Codespace challenge: Reservation waitlist
-  - GitHub Codespace solution: Reservation waitlist
-  - GitHub Codespace challenge: Inventory tracker
-  - GitHub Codespace solution: Inventory tracker
+  - [GitHub Codespace challenge: To-do list](#github-codespace-challenge-to-do-list)
+  - [GitHub Codespace solution: To-do list](#github-codespace-solution-to-do-list)
+  - [GitHub Codespace challenge: Reservation waitlist](#github-codespace-challenge-reservation-waitlist)
+  - [GitHub Codespace solution: Reservation waitlist](#github-codespace-solution-reservation-waitlist)
+  - [GitHub Codespace challenge: Inventory tracker](#github-codespace-challenge-inventory-tracker)
+  - [GitHub Codespace solution: Inventory tracker](#github-codespace-solution-inventory-tracker)
 - [**8. Glossaries**](#8-glossaries) (0 videos)
 - [**9. Conclusion**](#9-conclusion) (1 videos)
-  - How to decide which data structure to use
+  - [How to decide which data structure to use](#how-to-decide-which-data-structure-to-use)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why to use data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980)
@@ -136,7 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (7), [[Programming]] (1)
 > **Speakers:** - are (1)
 
 #### What you need to know
@@ -160,8 +160,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (2), data (2), [[Software Development]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** super (1)
 > **Versions:** python 3 (1)
 > **Speakers:** - for (1)
 
@@ -208,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -257,9 +257,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Codespaces]] (4), [[Python (Programming Language)|Python]] (4), cloud (1)
 > **Tools:** github (7), terminal (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2), this, (1)
 > **File Paths:** app.py (2)
 > **Versions:** python 3 (1), 10.12 (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -269,7 +269,7 @@ created: 2026-04-29
 
 ### 1. Data Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980)
@@ -326,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), abstract (1), function (1)
+> **Frameworks & Libraries:** data (21), [[Programming]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -387,7 +387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (2)
+> **Frameworks & Libraries:** data (18)
 > **CLI Commands:** find (1)
 > **Speakers:** - so (1)
 
@@ -456,10 +456,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (7), [[Programming]] (1)
 > **CLI Commands:** python (7)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Analogies:** similar to (2), such as (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - each (1)
 
@@ -496,8 +496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Search]] (1), [[Algorithms]] (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - data (1)
 
@@ -562,6 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Search]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
@@ -571,7 +572,7 @@ created: 2026-04-29
 
 ### 2. Array-Like Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an array?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980)
@@ -640,8 +641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Programming]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1), make (1)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - let (1)
@@ -687,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (2), function (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -769,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), raise (1), class. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2)
 > **CLI Commands:** python (3), find (1)
 > **Versions:** 0.2 (1), 4.50 (1)
 > **Code Identifiers:** student_books_list (1)
@@ -832,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), case, (1), function (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Analogies:** for example (1), similar to (1)
 > **Code Identifiers:** student_books_list (1)
 > **Speakers:** - [instructor] (1)
@@ -892,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), require (1)
+> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Analogies:** for instance (1)
@@ -983,7 +984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), class. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
@@ -1049,7 +1050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
 > **Analogies:** similar to (1), such as (1), for example (1), just like (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** rgb (1)
@@ -1097,7 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1182,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (2), for, (1), match, (1), function (1)
+> **Frameworks & Libraries:** [[Search]] (16), data (4), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (3), python (3), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
@@ -1272,7 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), lambda (3), pass (1), default. (1)
+> **Frameworks & Libraries:** data (4), [[Search]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for instance (1), for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1324,7 +1325,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Non-Speech:** (clicking keyboard) (6)
-> **Code Keywords:** let (2), pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### When to use array-like structures
@@ -1362,6 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), application (1)
 > **CLI Commands:** python (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1369,7 +1370,7 @@ created: 2026-04-29
 
 ### 3. Dictionaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a dictionary?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980)
@@ -1406,7 +1407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), let (1), else. (1)
+> **Frameworks & Libraries:** data (6), next (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -1455,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), abstract (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1534,7 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (3), function (2), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** highlightcolor (2), volumelevel (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -1563,7 +1564,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (2)
 > **Speakers:** - [instructor] (1)
 
 #### Handle missing dictionary keys
@@ -1607,7 +1607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), raise (2), function (1), case, (1)
+> **Frameworks & Libraries:** data (1)
 > **API Endpoints:** get  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1650,8 +1650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), data (1)
 > **CLI Commands:** python (3), make (1)
-> **Code Keywords:** case, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Clean user preferences
@@ -1687,7 +1687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1724,14 +1724,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2)
+> **Frameworks & Libraries:** data (5), [[Search]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Sets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a set?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980)
@@ -1776,7 +1776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
@@ -1811,7 +1811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Non-Speech:** (keyboard clicking) (3)
 > **CLI Commands:** python (1), find (1)
 > **Code Identifiers:** primary_colors (1)
@@ -1865,8 +1865,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2), this, (1), raise (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Unique characters
@@ -1902,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), pass (1)
+> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 
 #### Operations on sets in Python
@@ -1964,7 +1964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2005,7 +2005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), function (1)
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2044,7 +2044,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2076,13 +2075,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1)
+> **Frameworks & Libraries:** data (3), strengths (1), [[Data Manipulation]] (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Queues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980)
@@ -2115,9 +2114,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1), data (1)
 > **Definitions:** known as (1), refers to (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** fifo (1)
 > **Analogies:** just like (1)
 > **Speakers:** - like (1)
@@ -2161,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), module (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** fifo (2)
 > **Definitions:** is a  (1)
@@ -2230,7 +2229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2)
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2248,14 +2247,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Stacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a stack?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980)
@@ -2296,7 +2295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** data (1), feature (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** lifo (1)
 > **Analogies:** just like (1)
@@ -2369,7 +2368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), case, (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), data (1)
 > **CLI Commands:** python (2), find (1)
 > **Env Vars:** lifo (1)
 > **Definitions:** is a  (1)
@@ -2418,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (3), [[LinkedIn]] (2), [[Google]] (1)
 > **CLI Commands:** python (3)
 > **URLs:** [overflow.com](https://overflow.com) (1), [linkedin.com](https://linkedin.com) (1)
 > **Documentation:** stack overflow (2)
@@ -2472,7 +2471,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), match. (2), case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2497,13 +2495,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Practice Using Data Structures in Python Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub Codespace challenge: To-do list
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980)
@@ -2546,9 +2545,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), application (4), [[GitHub]] (1), [[Codespaces]] (1), [[HTML]] (1)
 > **File Paths:** app.py (2)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** html (1), css (1)
 > **Tools:** github (1), terminal (1)
 > **Cross-References:** in the next (1)
@@ -2634,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (4), this, (1), for. (1), function (1)
+> **Frameworks & Libraries:** application (5), data (3), [[Python (Programming Language)|Python]] (2), hit (1), next (1)
 > **CLI Commands:** find (4), python (2), make (1)
 > **UI Navigation:** toggle (2)
 > **Definitions:** is a  (2)
@@ -2675,6 +2674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2), application (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **File Paths:** app.py (2)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** html (1), css (1)
@@ -2682,7 +2682,6 @@ created: 2026-04-29
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
-> **Speakers:** - [instructor] (1)
 
 #### GitHub Codespace solution: Reservation waitlist
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980)
@@ -2741,7 +2740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** data (5), [[Swift (Programming Language)|Swift]] (2), [[Python (Programming Language)|Python]] (1), application (1), [[JSON]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [instructor] (1)
@@ -2780,6 +2779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), application (2), [[Real-Time]] (1), management (1), [[GitHub]] (1)
 > **File Paths:** app.py (2)
 > **CLI Commands:** make (1), python (1)
 > **Tools:** github (1), terminal (1)
@@ -2847,7 +2847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2), function (1), pass (1)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), application (1)
 > **Code Identifiers:** item_name (5), update_quantity (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** setup (1)
@@ -2857,12 +2857,12 @@ created: 2026-04-29
 
 ### 8. Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 9. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to decide which data structure to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980)
@@ -2883,6 +2883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

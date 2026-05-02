@@ -22,7 +22,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Practical%20Accessibility%20For%20Designers.md)
@@ -41,46 +41,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Gain a new perspective on accessibility in your designs
-  - What you should know
+  - [Gain a new perspective on accessibility in your designs](#gain-a-new-perspective-on-accessibility-in-your-designs)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Accessibility**](#1-introduction-to-accessibility) (6 videos)
-  - Why should you prioritize accessibility?
-  - Defining accessibility
-  - Accessibility standards
-  - Testing web accessibility: Understanding the process
-  - Testing web accessibility: Using tools
-  - Testing web accessibility: Human testers
+  - [Why should you prioritize accessibility?](#why-should-you-prioritize-accessibility)
+  - [Defining accessibility](#defining-accessibility)
+  - [Accessibility standards](#accessibility-standards)
+  - [Testing web accessibility: Understanding the process](#testing-web-accessibility-understanding-the-process)
+  - [Testing web accessibility: Using tools](#testing-web-accessibility-using-tools)
+  - [Testing web accessibility: Human testers](#testing-web-accessibility-human-testers)
 - [**2. Making Websites Work for People with Vision Impairments**](#2-making-websites-work-for-people-with-vision-impairments) (8 videos)
-  - How vision impairments affect access
-  - Creating accessible navigation
-  - Text and typography for a range of vision needs
-  - How contrast affects accessibility
-  - Designing accessible forms
-  - Making images accessible for blind people
-  - How to treat colours for accessibility
-  - Making UX copy accessible for blind people
+  - [How vision impairments affect access](#how-vision-impairments-affect-access)
+  - [Creating accessible navigation](#creating-accessible-navigation)
+  - [Text and typography for a range of vision needs](#text-and-typography-for-a-range-of-vision-needs)
+  - [How contrast affects accessibility](#how-contrast-affects-accessibility)
+  - [Designing accessible forms](#designing-accessible-forms)
+  - [Making images accessible for blind people](#making-images-accessible-for-blind-people)
+  - [How to treat colours for accessibility](#how-to-treat-colours-for-accessibility)
+  - [Making UX copy accessible for blind people](#making-ux-copy-accessible-for-blind-people)
 - [**3. Making Websites Work for D/deaf People**](#3-making-websites-work-for-ddeaf-people) (3 videos)
-  - What is D/deafness?
-  - Subtitles, captions, and transcripts
-  - Live content
+  - [What is D/deafness?](#what-is-ddeafness)
+  - [Subtitles, captions, and transcripts](#subtitles-captions-and-transcripts)
+  - [Live content](#live-content)
 - [**4. Making Websites Work for Neurodiverse People**](#4-making-websites-work-for-neurodiverse-people) (5 videos)
-  - Making websites understandable
-  - Making text readable
-  - Making text legible
-  - Making websites consistent and predictable
-  - Helping users avoid and correct mistakes
+  - [Making websites understandable](#making-websites-understandable)
+  - [Making text readable](#making-text-readable)
+  - [Making text legible](#making-text-legible)
+  - [Making websites consistent and predictable](#making-websites-consistent-and-predictable)
+  - [Helping users avoid and correct mistakes](#helping-users-avoid-and-correct-mistakes)
 - [**5. Ensuring People Can Use Your Website Regardless of Mobility Status**](#5-ensuring-people-can-use-your-website-regardless-of-mobility-status) (5 videos)
-  - Making websites operable
-  - Navigating without a mouse
-  - User control of content
-  - Tap or touch area
-  - Adapting design to different devices
+  - [Making websites operable](#making-websites-operable)
+  - [Navigating without a mouse](#navigating-without-a-mouse)
+  - [User control of content](#user-control-of-content)
+  - [Tap or touch area](#tap-or-touch-area)
+  - [Adapting design to different devices](#adapting-design-to-different-devices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary of course and exercises
+  - [Summary of course and exercises](#summary-of-course-and-exercises)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain a new perspective on accessibility in your designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/gain-a-new-perspective-on-accessibility-in-your-designs?u=76281980)
@@ -101,8 +101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [chimmy (1)
 
 #### What you should know
@@ -130,6 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), ux (1), [[LinkedIn]] (1)
 > **Tools:** figma (3)
 > **Analogies:** for example (1)
 > **Warnings:** heads up (1)
@@ -138,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why should you prioritize accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/why-should-you-prioritize-accessibility?u=76281980)
@@ -191,7 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (1), mobile application (1), next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ada (1)
 > **Definitions:** is an  (1)
@@ -235,7 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** product (2), next (1), web (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -312,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), for. (2)
+> **Frameworks & Libraries:** product (3), web (2), hit (1), next (1), functional (1)
 > **Env Vars:** wcag (6)
 > **Analogies:** for example (2), just like (1)
 > **Versions:** version 2 (1)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (2), this, (1)
+> **Frameworks & Libraries:** [[Engineering]] (1)
 > **Env Vars:** wcag (4), aaa (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **CLI Commands:** make (1)
@@ -497,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1), pass (1)
+> **Frameworks & Libraries:** web (3), [[Google]] (2), [[Stark (Accessibility Software)|Stark]] (2), [[User Experience (UX)|User experience]] (1), next (1)
 > **Env Vars:** aim (3), aaa (2), url (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), navigate to (1)
@@ -555,15 +556,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** wcag (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Making Websites Work for People with Vision Impairments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How vision impairments affect access
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980)
@@ -610,9 +611,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Web Accessibility]] (1), [[Typography]] (1), [[Forms]] (1), ux (1), web (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** wcag (1)
 > **Versions:** 2.2 (1)
 > **Speakers:** - [host] (1)
@@ -724,8 +725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), hit (2), [[Microsoft Products|Products]] (2), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** function (1), let (1), finally, (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (1), means that (1)
 > **Code Identifiers:** ecommerce (1)
@@ -900,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (2), let (2), case. (2), continue (1)
+> **Frameworks & Libraries:** [[Typography]] (2), next (2), ux (2), [[Microsoft Word|Word]] (1), product (1)
 > **Definitions:** refers to (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.25 (1), 1.5 (1)
@@ -996,11 +997,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **Env Vars:** cvd (3), wcag (3), aaa (2)
 > **CLI Commands:** make (3)
 > **Versions:** 4.5 (2), 18.5 (1)
 > **Definitions:** means that (2), is a  (1)
-> **Code Keywords:** let (1), interface (1)
 > **Tools:** figma (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
@@ -1120,7 +1121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this. (1)
+> **Frameworks & Libraries:** [[Forms]] (5), next (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** ios (1)
 > **Cross-References:** earlier in (1)
@@ -1254,8 +1255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[Windows]] (1), [[Linux]] (1), [[Figma (Software)|Figma]] (1), [[Jira]] (1)
 > **Analogies:** picture (6)
-> **Code Keywords:** let (4), function (1)
 > **Env Vars:** bbc (2), jaws (1), jira (1), mira (1)
 > **CLI Commands:** make (4)
 > **Tools:** figma (1), jira (1), confluence (1)
@@ -1338,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1)
+> **Frameworks & Libraries:** ux (1), management (1), [[Trello]] (1), traffic (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1407,15 +1408,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), ux (2), [[Google]] (1)
 > **Env Vars:** nhs (5), tmi (2), rsi (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (2), let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Making Websites Work for D/deaf People
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is D/deafness?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980)
@@ -1472,6 +1473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -1585,10 +1587,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (2), product (1), business (1), web (1), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** vlc (2), ceo (1), html5 (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** function (1)
 > **Cross-References:** next video (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1658,8 +1660,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (1), [[Automation]] (1), [[Real-Time]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
@@ -1667,7 +1669,7 @@ created: 2026-04-29
 
 ### 4. Making Websites Work for Neurodiverse People
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making websites understandable
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980)
@@ -1734,8 +1736,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), web (1), [[User Experience Design (UED)|User experience design]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** this, (1), let (1), function (1)
 > **Env Vars:** wcag (2), adhd (1)
 > **Definitions:** known as (2), is called (1)
 > **Analogies:** for example (1)
@@ -1888,8 +1890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Microsoft Word|Word]] (2), next (2), business (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (3), break. (1), finally, (1), for. (1)
 > **Env Vars:** uri (1), adhd (1)
 > **Versions:** 59.24 (1), 6.08 (1)
 > **Analogies:** just like (1), such as (1)
@@ -1979,8 +1981,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for example (2)
 > **Env Vars:** wcag (1)
@@ -2069,7 +2071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** hit (3), web (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** adhd (1)
 > **UI Navigation:** click on (1)
@@ -2171,8 +2173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (5), finally, (1)
 > **Tools:** figma (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -2182,7 +2184,7 @@ created: 2026-04-29
 
 ### 5. Ensuring People Can Use Your Website Regardless of Mobility Status
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making websites operable
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-operable?u=76281980)
@@ -2221,8 +2223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** function (2), interface (1)
 > **Env Vars:** wcag (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2346,7 +2348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else, (1), finally, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), web (1), next (1)
 > **UI Navigation:** click on (4), in the tab (1)
 > **CLI Commands:** make (3)
 > **Tools:** figma (3)
@@ -2452,7 +2454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), function (1), require (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), game (1), hit (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
 > **Env Vars:** wcag (1)
@@ -2543,7 +2545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), finally, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** wcag (1)
 > **Tools:** figma (1)
@@ -2652,8 +2654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** let (1), interface (1), function (1), continue (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
@@ -2662,7 +2664,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary of course and exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/summary-of-course-and-exercises?u=76281980)
@@ -2685,9 +2687,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), power (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** w3c (1), wcag (1)
-> **Code Keywords:** let (1)
 > **Documentation:** w3c (1)
 > **Speakers:** - [announcer] (1)
 

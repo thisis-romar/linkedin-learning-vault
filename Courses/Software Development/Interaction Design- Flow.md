@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Flow.md)
@@ -40,27 +40,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of flow in interaction design
+  - [The power of flow in interaction design](#the-power-of-flow-in-interaction-design)
 - [**1. Flow in Interaction Design**](#1-flow-in-interaction-design) (3 videos)
-  - Defining a user's flow
-  - Defining interaction models
-  - The role of conditional logic
+  - [Defining a user's flow](#defining-a-users-flow)
+  - [Defining interaction models](#defining-interaction-models)
+  - [The role of conditional logic](#the-role-of-conditional-logic)
 - [**2. Diagrams As Design Tools**](#2-diagrams-as-design-tools) (4 videos)
-  - Why use diagrams?
-  - Diagrams in the design process
-  - Flow and process diagrams
-  - Components of a flow diagram
+  - [Why use diagrams?](#why-use-diagrams)
+  - [Diagrams in the design process](#diagrams-in-the-design-process)
+  - [Flow and process diagrams](#flow-and-process-diagrams)
+  - [Components of a flow diagram](#components-of-a-flow-diagram)
 - [**3. Constructing a Flow**](#3-constructing-a-flow) (4 videos)
-  - Creating a flow map
-  - Identifying key tasks and activities
-  - Constructing the flow
-  - Designing the screens
+  - [Creating a flow map](#creating-a-flow-map)
+  - [Identifying key tasks and activities](#identifying-key-tasks-and-activities)
+  - [Constructing the flow](#constructing-the-flow)
+  - [Designing the screens](#designing-the-screens)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Mastering flow in UX
+  - [Mastering flow in UX](#mastering-flow-in-ux)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of flow in interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980)
@@ -87,8 +87,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), ux (2), [[Design Systems]] (1), [[Diagramming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Analogies:** picture (1)
 > **Speakers:** - user (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 ### 1. Flow in Interaction Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a user's flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980)
@@ -169,7 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), for. (1), this. (1)
+> **Frameworks & Libraries:** ux (5), product (2), next (1), [[Microsoft Products|Products]] (1), business (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), case, (1), interface (1), this, (1)
+> **Frameworks & Libraries:** business (9), product (4), data (2), [[Engineering]] (1), database (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
@@ -293,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), require (1)
+> **Frameworks & Libraries:** next (3), [[User Experience (UX)|User experience]] (2), ux (2)
 > **Definitions:** refers to (1), defined as (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -304,7 +304,7 @@ created: 2026-04-29
 
 ### 2. Diagrams As Design Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use diagrams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980)
@@ -373,6 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (5), ux (2), next (2), product (1), [[Diagramming]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - we (1)
 
@@ -425,7 +426,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), case, (1), new, (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - in (1)
 
@@ -488,8 +488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Analogies:** picture (1)
 > **Speakers:** - ux (1)
 
@@ -558,8 +558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Diagramming]] (1), [[Prototyping]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** new, (1), require (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - diagrams (1)
@@ -567,7 +567,7 @@ created: 2026-04-29
 
 ### 3. Constructing a Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a flow map
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/creating-a-flow-map?u=76281980)
@@ -610,8 +610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), next (1)
 > **Analogies:** picture (2), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Identifying key tasks and activities
@@ -663,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** application (5), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - after (1)
 
@@ -702,7 +702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), for, (1)
+> **Frameworks & Libraries:** next (4), application (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - a (1)
@@ -746,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1), case, (1)
+> **Frameworks & Libraries:** application (2), next (1), [[Prototyping]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - once (1)
@@ -754,7 +754,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering flow in UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980)
@@ -779,6 +779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), ux (2), [[LinkedIn]] (2), [[Prototyping]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - thanks (1)
 

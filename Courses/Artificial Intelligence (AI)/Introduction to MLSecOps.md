@@ -39,7 +39,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20MLSecOps.md)
@@ -58,36 +58,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of MLSecOps
+  - [The power of MLSecOps](#the-power-of-mlsecops)
 - [**1. Introduction to MLSecOps**](#1-introduction-to-mlsecops) (4 videos)
-  - What is MLSecOps?
-  - The benefits of AI risk awareness in organizations
-  - Key MLSecOps categories of assurance explained
-  - Understanding the MLSecOps framework
+  - [What is MLSecOps?](#what-is-mlsecops)
+  - [The benefits of AI risk awareness in organizations](#the-benefits-of-ai-risk-awareness-in-organizations)
+  - [Key MLSecOps categories of assurance explained](#key-mlsecops-categories-of-assurance-explained)
+  - [Understanding the MLSecOps framework](#understanding-the-mlsecops-framework)
 - [**2. Applying MLSecOps to Secure the AI Lifecycle**](#2-applying-mlsecops-to-secure-the-ai-lifecycle) (7 videos)
-  - Map, measure, manage, and govern
-  - AI attack vectors and vulnerabilities
-  - Introduction to threat modeling for AI systems
-  - Customized threat models
-  - Strategic threat analysis
-  - Ensuring adversarial robustness
-  - Secure model deployment and monitoring
+  - [Map, measure, manage, and govern](#map-measure-manage-and-govern)
+  - [AI attack vectors and vulnerabilities](#ai-attack-vectors-and-vulnerabilities)
+  - [Introduction to threat modeling for AI systems](#introduction-to-threat-modeling-for-ai-systems)
+  - [Customized threat models](#customized-threat-models)
+  - [Strategic threat analysis](#strategic-threat-analysis)
+  - [Ensuring adversarial robustness](#ensuring-adversarial-robustness)
+  - [Secure model deployment and monitoring](#secure-model-deployment-and-monitoring)
 - [**3. The MLSecOps Dream Team**](#3-the-mlsecops-dream-team) (4 videos)
-  - Building the team: Ownership and roles
-  - Introduction to the Violet teaming integrative framework
-  - Facilitating cross-collaboration for MLSecOps implementation
-  - Empowering MLSecOps stakeholders with team training
+  - [Building the team: Ownership and roles](#building-the-team-ownership-and-roles)
+  - [Introduction to the Violet teaming integrative framework](#introduction-to-the-violet-teaming-integrative-framework)
+  - [Facilitating cross-collaboration for MLSecOps implementation](#facilitating-cross-collaboration-for-mlsecops-implementation)
+  - [Empowering MLSecOps stakeholders with team training](#empowering-mlsecops-stakeholders-with-team-training)
 - [**4. MLSecOps Implementation and Strategy: Risk Assessment and Incident Response**](#4-mlsecops-implementation-and-strategy-risk-assessment-and-incident-response) (4 videos)
-  - Step-by-step: Infusing MLSecOps into existing processes
-  - Foundations for AI/ML risk assessments and assurance
-  - AI incident response plans
-  - Audit, inventory, and supply chain
+  - [Step-by-step: Infusing MLSecOps into existing processes](#step-by-step-infusing-mlsecops-into-existing-processes)
+  - [Foundations for AI/ML risk assessments and assurance](#foundations-for-aiml-risk-assessments-and-assurance)
+  - [AI incident response plans](#ai-incident-response-plans)
+  - [Audit, inventory, and supply chain](#audit-inventory-and-supply-chain)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Mastering MLSecOps: Safeguarding AI in the modern era
+  - [Mastering MLSecOps: Safeguarding AI in the modern era](#mastering-mlsecops-safeguarding-ai-in-the-modern-era)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of MLSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Security]] (2), [[NIST]] (1), rmf (1)
 > **Env Vars:** nist (1), rmf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - is (1)
@@ -117,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Introduction to MLSecOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is MLSecOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980)
@@ -194,7 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), extends (2), let (1)
+> **Frameworks & Libraries:** ai (14), [[Security]] (7), [[MLOps]] (6), [[DevOps]] (6), data (4)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** aka (1)
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), raise (1), this, (1)
+> **Frameworks & Libraries:** ai (17), [[Security]] (2), chatbot (1), [[Hugging Face]] (1), prompt (1)
 > **Analogies:** imagine (2), such as (1), for instance (1)
 > **Speakers:** - [narrator] (1)
 
@@ -330,9 +331,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Security]] (3), data (3), [[Algorithms]] (2), [[Hugging Face]] (1)
 > **Env Vars:** grc (3), bom (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -398,15 +399,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Security]] (9), [[Software Development]] (5), data (5), [[DevSecOps]] (4)
 > **Analogies:** picture (1), such as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** grc (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Applying MLSecOps to Secure the AI Lifecycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Map, measure, manage, and govern
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980)
@@ -461,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[NIST]] (6), rmf (6), management (1), [[Accountability]] (1)
 > **Env Vars:** nist (6), rmf (6), ml2 (1)
-> **Code Keywords:** function (5)
 > **Definitions:** is a  (1), refers to (1)
 > **Speakers:** - [tutor] (1)
 
@@ -533,10 +534,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), prompt (10), [[Security]] (3), [[NIST]] (3), data (2)
 > **Env Vars:** nist (3), llm (1)
 > **Analogies:** for example (3), picture (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -597,7 +598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), include: (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (10), ai (7), data (3), hit (2), [[Security]] (2)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [narrator] (1)
@@ -655,9 +656,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (8), [[Threat Modeling]] (5), [[DevSecOps]] (2), [[SaaS]] (1)
 > **Analogies:** just like (1), for example (1), such as (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** include, (1)
 > **Env Vars:** owasp (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -707,6 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), business (7), [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (1), cti (1), [[Security]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Analogies:** picture (1), for example (1)
@@ -765,8 +767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (2), [[Threat Modeling]] (1), [[DevSecOps]] (1), [[Microservices]] (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
-> **Code Keywords:** yield (1), self (1)
 > **Env Vars:** mls (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -819,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), protected (1), catch, (1)
+> **Frameworks & Libraries:** [[Security]] (5), next (3), teams (1)
 > **Analogies:** for example (2), such as (2)
 > **Env Vars:** opa (1)
 > **Speakers:** - [instructor] (1)
@@ -827,7 +829,7 @@ created: 2026-04-29
 
 ### 3. The MLSecOps Dream Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the team: Ownership and roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980)
@@ -898,7 +900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (10), ai (9), data (3), [[DevSecOps]] (2), teams (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Best Practices:** don't forget (1)
@@ -949,8 +951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Security]] (3), [[Privacy]] (3), [[Cybersecurity]] (2), [[Ethics]] (2)
 > **Analogies:** imagine (2)
-> **Code Keywords:** extends (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1027,7 +1029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (18), ai (9), teams (6), data (4), [[Privacy]] (3)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1063,6 +1065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Security]] (4), teams (3), [[Algorithms]] (2), [[Incident Response]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1070,7 +1073,7 @@ created: 2026-04-29
 
 ### 4. MLSecOps Implementation and Strategy: Risk Assessment and Incident Response
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Step-by-step: Infusing MLSecOps into existing processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980)
@@ -1109,8 +1112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), data (6), [[Threat Modeling]] (4), [[Engineering]] (2), ai (2)
 > **Env Vars:** sca (2), dast (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1165,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (1), static (1)
+> **Frameworks & Libraries:** ai (10), [[Security]] (3), [[NIST]] (3), [[Risk Management Framework (RMF)|Risk management framework]] (2), rmf (2)
 > **Env Vars:** nist (3), rmf (2), sast (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -1212,7 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), extends (1), public (1)
+> **Frameworks & Libraries:** ai (14), [[Incident Response]] (9), [[Security]] (2), data (2), [[NIST]] (1)
 > **Env Vars:** nist (1), rmf (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1262,16 +1265,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (2), [[Accountability]] (2), management (2), next (1)
 > **Env Vars:** bom (1), iso (1), iec (1), owasp (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering MLSecOps: Safeguarding AI in the modern era
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980)
@@ -1298,6 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

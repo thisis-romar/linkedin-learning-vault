@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20Ai%20And%20Llmops%20Building%20Blocks%20And%20Applications.md)
@@ -51,42 +51,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - LLMs for industry
-  - Industry-specific LLMs
+  - [LLMs for industry](#llms-for-industry)
+  - [Industry-specific LLMs](#industry-specific-llms)
 - [**1. Introduction to LLMs and Their Applications**](#1-introduction-to-llms-and-their-applications) (2 videos)
-  - Understanding LLMs and their evolution
-  - Real-world applications of LLMs
+  - [Understanding LLMs and their evolution](#understanding-llms-and-their-evolution)
+  - [Real-world applications of LLMs](#real-world-applications-of-llms)
 - [**2. Diving Into LLM Architectures**](#2-diving-into-llm-architectures) (6 videos)
-  - Overview of LLM architectures
-  - How LLMs process and generate text
-  - The building blocks of LLMs
-  - Using a simple LLM
-  - Challenge: LLM for sentiment analysis
-  - Solution: LLM for sentiment analysis
+  - [Overview of LLM architectures](#overview-of-llm-architectures)
+  - [How LLMs process and generate text](#how-llms-process-and-generate-text)
+  - [The building blocks of LLMs](#the-building-blocks-of-llms)
+  - [Using a simple LLM](#using-a-simple-llm)
+  - [Challenge: LLM for sentiment analysis](#challenge-llm-for-sentiment-analysis)
+  - [Solution: LLM for sentiment analysis](#solution-llm-for-sentiment-analysis)
 - [**3. Fine-Tuning Strategies for Custom Tasks**](#3-fine-tuning-strategies-for-custom-tasks) (5 videos)
-  - Introduction to fine-tuning for LLMs
-  - Step-by-step guide to fine-tuning LLMs
-  - Best practices for fine-tuning LLMs
-  - Challenge: Fine-tune a pre-trained LLM
-  - Solution: Fine-tune a pre-trained LLM
+  - [Introduction to fine-tuning for LLMs](#introduction-to-fine-tuning-for-llms)
+  - [Step-by-step guide to fine-tuning LLMs](#step-by-step-guide-to-fine-tuning-llms)
+  - [Best practices for fine-tuning LLMs](#best-practices-for-fine-tuning-llms)
+  - [Challenge: Fine-tune a pre-trained LLM](#challenge-fine-tune-a-pre-trained-llm)
+  - [Solution: Fine-tune a pre-trained LLM](#solution-fine-tune-a-pre-trained-llm)
 - [**4. Compression Techniques for LLMs**](#4-compression-techniques-for-llms) (5 videos)
-  - Why compress LLMs?
-  - Introduction to quantization and pruning
-  - Hands-on: Implementing compression in LLMs
-  - Challenge: Quantize a LLM
-  - Solution: Quantize a LLM
+  - [Why compress LLMs?](#why-compress-llms)
+  - [Introduction to quantization and pruning](#introduction-to-quantization-and-pruning)
+  - [Hands-on: Implementing compression in LLMs](#hands-on-implementing-compression-in-llms)
+  - [Challenge: Quantize a LLM](#challenge-quantize-a-llm)
+  - [Solution: Quantize a LLM](#solution-quantize-a-llm)
 - [**5. Prompt Engineering for Effective LLM Communication**](#5-prompt-engineering-for-effective-llm-communication) (5 videos)
-  - What is prompt engineering?
-  - Best practices for effective prompt engineering
-  - Types of prompt engineering
-  - Challenge: Prompting LLMs to generate text
-  - Solution: Prompting LLMs to generate text
+  - [What is prompt engineering?](#what-is-prompt-engineering)
+  - [Best practices for effective prompt engineering](#best-practices-for-effective-prompt-engineering)
+  - [Types of prompt engineering](#types-of-prompt-engineering)
+  - [Challenge: Prompting LLMs to generate text](#challenge-prompting-llms-to-generate-text)
+  - [Solution: Prompting LLMs to generate text](#solution-prompting-llms-to-generate-text)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs for industry
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980)
@@ -107,6 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), [[Prompt Engineering]] (1), application (1)
 > **Env Vars:** llm (4)
 > **Speakers:** - [instructor] (1)
 
@@ -169,8 +170,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), llm (4), [[Large Language Models (LLM)|Large language models]] (1), data (1), [[Financial Data]] (1)
 > **Env Vars:** llm (4)
-> **Code Keywords:** case, (1), raise (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -179,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Introduction to LLMs and Their Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding LLMs and their evolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980)
@@ -252,8 +253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), parallel (3), [[Large Language Models (LLM)|Large language models]] (2), [[Neural Networks]] (2), [[Tokens]] (2)
 > **Env Vars:** gpt (7), api (1), nlp (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -316,15 +317,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), business (1), product (1), data (1), prompt (1)
 > **Analogies:** it's like (3), imagine (1)
-> **Code Keywords:** super (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Diving Into LLM Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of LLM architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980)
@@ -387,11 +388,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (11), data (2), [[Large Language Models (LLM)|Large language models]] (1), [[Software Development]] (1), [[GitHub Copilot]] (1)
 > **Env Vars:** llm (11)
 > **CLI Commands:** make (3)
 > **Analogies:** it's like (1), imagine (1), such as (1)
 > **Tools:** github (1), notion (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** setup (1)
@@ -461,9 +462,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Tokens]] (4), next (3), llm (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (2), gpt (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -522,9 +523,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), [[Databases]] (3), next (1), prompt (1), api (1)
 > **Env Vars:** llm (5), lms (1), api (1)
 > **Analogies:** think of it as (1), such as (1), imagine (1), similar to (1), for example (1)
-> **Code Keywords:** function (1), let (1), static (1), continue (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -594,8 +595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (7), next (6), llm (5), data (1), [[Fetch]] (1)
 > **Env Vars:** llm (5), gpt2 (3), gpu (2), pip (1), cpu (1)
-> **Code Keywords:** let (3), pass (1)
 > **CLI Commands:** make (2), pip (1)
 > **Prerequisites:** install (2)
 > **Exercise Files:** download the (1)
@@ -637,8 +638,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), next (3), api (2), nlp (1), application (1)
 > **Env Vars:** llm (6), api (2), nlp (1)
-> **Code Keywords:** case, (1), new. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -679,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** llm (2), [[Hugging Face]] (1), data (1), next (1)
 > **Prerequisites:** install (2), required to (1)
 > **Env Vars:** llm (2)
 > **Definitions:** is a  (2)
@@ -691,7 +692,7 @@ created: 2026-04-29
 
 ### 3. Fine-Tuning Strategies for Custom Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to fine-tuning for LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980)
@@ -766,9 +767,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fine Tuning]] (7), llm (2), data (2), generic (2), game (1)
 > **Env Vars:** llm (2), lms (2), gpt (1)
 > **Analogies:** it's like (3), imagine (1)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -840,9 +841,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), [[Fine Tuning]] (4), data (4), feature (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** llm (7)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (2)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -894,9 +895,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), next (1), feature (1), application (1)
 > **Env Vars:** llm (3)
 > **Analogies:** imagine (1), think of it as (1), such as (1)
-> **Code Keywords:** let (1), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Fine-tune a pre-trained LLM
@@ -936,8 +937,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), generic (3), application (3), data (3), api (1)
 > **Env Vars:** llm (9), api (1), gpt (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -997,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (3), next (3), llm (3), [[Hugging Face]] (2), [[Hardware]] (1)
 > **Env Vars:** gpt (4), llm (3), sst (1)
-> **Code Keywords:** pass (3), let (1), function (1)
 > **Code Identifiers:** warmup_steps (1), weight_decay (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1009,7 +1010,7 @@ created: 2026-04-29
 
 ### 4. Compression Techniques for LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why compress LLMs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980)
@@ -1076,7 +1077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2)
+> **Frameworks & Libraries:** llm (4), power (3), [[Large Language Models (LLM)|Large language models]] (2), [[Real-Time]] (2), application (2)
 > **Env Vars:** llm (4), gpu (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -1225,7 +1226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1), case, (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), application (1), [[Algorithms]] (1), llm (1), [[Hardware]] (1)
 > **Analogies:** imagine (2), just like (1), it's like (1), for instance (1), picture (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** llm (1)
@@ -1285,8 +1286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), [[Containerization]] (1), next (1), data (1)
 > **Env Vars:** llm (4)
-> **Code Keywords:** let (1), module (1), finally, (1)
 > **Prerequisites:** install (2), before we start (1)
 > **Code Identifiers:** group_size (2)
 > **CLI Commands:** pip (1)
@@ -1326,6 +1327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (2), [[Hardware]] (2), application (1), [[Fetch]] (1), [[Hugging Face]] (1)
 > **Env Vars:** llm (2), llms (1), opt (1), gptq (1), ggml (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -1374,7 +1376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (1), prompt (1)
 > **Env Vars:** opt (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
@@ -1384,7 +1386,7 @@ created: 2026-04-29
 
 ### 5. Prompt Engineering for Effective LLM Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is prompt engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980)
@@ -1463,8 +1465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), [[Prompt Engineering]] (5), prompt (3), [[Fetch]] (1), next (1)
 > **Env Vars:** llm (6), llms (1), lms (1)
-> **Code Keywords:** let (2), this. (1), require (1)
 > **Analogies:** imagine (1), it's like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1625,8 +1627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), [[Prompt Engineering]] (5), product (3), [[E-Commerce]] (2), power (2)
 > **Env Vars:** llm (9), seo (1)
-> **Code Keywords:** let (3), yield (2), finally, (1), this, (1)
 > **CLI Commands:** find (1), make (1), apt (1)
 > **Analogies:** imagine (2), for instance (1)
 > **Definitions:** is an  (1)
@@ -1758,8 +1760,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (10), [[Prompt Engineering]] (3), prompt (3), [[Large Language Models (LLM)|Large language models]] (1), next (1)
 > **Env Vars:** llm (10), cot (1)
-> **Code Keywords:** let (3), yield (1), self (1)
 > **Analogies:** imagine (3), think of it as (1), it's like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** apt (1)
@@ -1794,9 +1796,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), llm (2), product (1), next (1)
 > **Env Vars:** llm (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft music) (1)
 
@@ -1881,8 +1883,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (8), api (3), llm (3), [[Prompt Engineering]] (2), application (1)
 > **Env Vars:** api (3), gpt (3), llm (3)
-> **Code Keywords:** case, (2), finally, (1), let (1), require (1)
 > **Versions:** 3.5 (2)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -1893,7 +1895,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980)
@@ -1912,6 +1914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), llm (1), [[Prompt Engineering]] (1), prompt (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [narrator] (1)
 

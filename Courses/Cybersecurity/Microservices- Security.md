@@ -31,7 +31,7 @@ tags:
   - skill/microservices
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Microservices-%20Security.md)
@@ -50,48 +50,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securing microservices
-  - Microservices learning curve
+  - [Securing microservices](#securing-microservices)
+  - [Microservices learning curve](#microservices-learning-curve)
 - [**1. Microservice Security Foundations**](#1-microservice-security-foundations) (3 videos)
-  - Microservice concepts
-  - Security fundamentals
-  - Microservice security challenges
+  - [Microservice concepts](#microservice-concepts)
+  - [Security fundamentals](#security-fundamentals)
+  - [Microservice security challenges](#microservice-security-challenges)
 - [**2. Identity Management and Access Control**](#2-identity-management-and-access-control) (5 videos)
-  - Distributed access management patterns
-  - Identity and Access Management platforms
-  - API gateways
-  - Access scenarios
-  - Work with IAM platforms
+  - [Distributed access management patterns](#distributed-access-management-patterns)
+  - [Identity and Access Management platforms](#identity-and-access-management-platforms)
+  - [API gateways](#api-gateways)
+  - [Access scenarios](#access-scenarios)
+  - [Work with IAM platforms](#work-with-iam-platforms)
 - [**3. Token-Based Security and Standards**](#3-token-based-security-and-standards) (9 videos)
-  - Tokens
-  - OAuth 2 primer
-  - OAuth in Microsoft Entra
-  - Register client applications
-  - Issuing tokens
-  - Work with OAuth 2.0 endpoints
-  - Issuing identity tokens with OIDC
-  - Token validation
-  - Token maintenance and protection
+  - [Tokens](#tokens)
+  - [OAuth 2 primer](#oauth-2-primer)
+  - [OAuth in Microsoft Entra](#oauth-in-microsoft-entra)
+  - [Register client applications](#register-client-applications)
+  - [Issuing tokens](#issuing-tokens)
+  - [Work with OAuth 2.0 endpoints](#work-with-oauth-20-endpoints)
+  - [Issuing identity tokens with OIDC](#issuing-identity-tokens-with-oidc)
+  - [Token validation](#token-validation)
+  - [Token maintenance and protection](#token-maintenance-and-protection)
 - [**4. Security between Microservices**](#4-security-between-microservices) (4 videos)
-  - MTLS
-  - Securing east to west traffic
-  - Monitoring and logging
-  - Service mesh
+  - [MTLS](#mtls)
+  - [Securing east to west traffic](#securing-east-to-west-traffic)
+  - [Monitoring and logging](#monitoring-and-logging)
+  - [Service mesh](#service-mesh)
 - [**5. Application and Container Security**](#5-application-and-container-security) (8 videos)
-  - Throttling and rate limiting
-  - Container runtime security
-  - Image security
-  - Audit container security
-  - Secrets management
-  - Secure pipelines
-  - Prevent leaked credentials
-  - Keep secrets with Key Vault
+  - [Throttling and rate limiting](#throttling-and-rate-limiting)
+  - [Container runtime security](#container-runtime-security)
+  - [Image security](#image-security)
+  - [Audit container security](#audit-container-security)
+  - [Secrets management](#secrets-management)
+  - [Secure pipelines](#secure-pipelines)
+  - [Prevent leaked credentials](#prevent-leaked-credentials)
+  - [Keep secrets with Key Vault](#keep-secrets-with-key-vault)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Securing microservices
+  - [Securing microservices](#securing-microservices)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Microservices]] (4), teams (1), api (1), [[LinkedIn]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [kevin] (1)
 
@@ -160,13 +161,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Microservices]] (4), [[DevOps]] (1), application (1), [[Scrum]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Microservice Security Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microservice concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980)
@@ -217,7 +218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Microservices]] (7), business (4), data (2), database (1), [[E-Commerce]] (1)
 > **Env Vars:** http (1), api (1), cpu (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -285,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), data (4), [[System Architecture]] (1), next (1), [[Multi-factor Authentication]] (1)
 > **Analogies:** such as (6)
-> **Code Keywords:** let (1), private (1), pass (1), interface (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
 > **Env Vars:** api (1)
@@ -351,7 +352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), pass (1)
+> **Frameworks & Libraries:** [[Security]] (9), traffic (5), data (2), application (1), hit (1)
 > **Definitions:** known as (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -359,7 +360,7 @@ created: 2026-04-29
 
 ### 2. Identity Management and Access Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Distributed access management patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980)
@@ -430,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), abstract (1)
+> **Frameworks & Libraries:** [[Microservices]] (10), [[Tokens]] (5), traffic (5), [[Security]] (4), management (2)
 > **Env Vars:** uuid (1), api (1)
 > **Analogies:** such as (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -507,6 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), [[Security]] (5), [[Microservices]] (4), [[Tokens]] (3), open-source (1)
 > **Env Vars:** iam (8), json (1)
 > **CLI Commands:** find (6), make (1)
 > **Analogies:** such as (2)
@@ -575,9 +577,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), [[Microservices]] (10), traffic (9), [[Security]] (5), management (2)
 > **Env Vars:** api (11), iam (3)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** pass (2), interface (1)
 > **Documentation:** stack overflow (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -659,7 +661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), require (1), case, (1), else, (1)
+> **Frameworks & Libraries:** [[Security]] (10), application (4), [[Microservices]] (3), api (2), web application (1)
 > **Analogies:** for example (1), such as (1), picture (1), think of it like (1), similar to (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2), iam (1)
@@ -755,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), this, (1)
+> **Frameworks & Libraries:** [[Microservices]] (6), [[Microsoft Entra ID|Entra]] (6), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (4), management (2)
 > **UI Navigation:** click on (3), dropdown (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** azure portal (2)
@@ -767,7 +769,7 @@ created: 2026-04-29
 
 ### 3. Token-Based Security and Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980)
@@ -842,10 +844,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (18), [[Microservices]] (4), [[Metadata]] (4), [[JSON]] (3), web (2)
 > **Env Vars:** json (3), iam (2), jwt (2), jose (1)
 > **Definitions:** known as (2), is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** pass (1), protected (1)
 > **Speakers:** - [instructor] (1)
 
 #### OAuth 2 primer
@@ -927,7 +929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), let (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Security]] (2), api (2), [[Tokens]] (2), next (1)
 > **Env Vars:** api (2), https (1), jwt (1), jws (1)
 > **Definitions:** is an  (2), is a  (2), known as (1)
 > **Documentation:** specification (3)
@@ -1041,7 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), this. (1), protected (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (10), application (6), [[Microsoft]] (4), next (3), [[Tokens]] (2)
 > **UI Navigation:** click on (4), navigate to (2), go to (1)
 > **Env Vars:** api (2), uri (2)
 > **Analogies:** for example (1), think of it like (1)
@@ -1123,8 +1125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft]] (3), api (3), [[Microservices]] (2)
 > **Env Vars:** uri (4), api (3)
-> **Code Keywords:** let (3), protected (1), type, (1), case, (1)
 > **UI Navigation:** click on (4), select the (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -1218,8 +1220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (3), application (3), [[Microservices]] (2), api (1), management (1)
 > **Env Vars:** uri (4), https (2), iam (2), csrf (1), http (1)
-> **Code Keywords:** protected (2), let (2), type. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1333,9 +1335,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Microsoft Entra ID|Entra]] (5), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (3), api (2)
 > **Env Vars:** net (3), api (2), rest (2), url (2), uri (2)
 > **Tools:** insomnia (5), azure portal (2)
-> **Code Keywords:** let (4), require (1), continue (1)
 > **Prerequisites:** set up (2), configure (1), you'll need (1)
 > **CLI Commands:** find (3)
 > **File Paths:** settings.json (1)
@@ -1461,8 +1463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), application (1), [[LinkedIn]] (1), [[Tokens]] (1), api (1)
 > **Env Vars:** oidc (3), api (1), eyj (1), hs256 (1)
-> **Code Keywords:** pass (1), return, (1), this, (1), finally, (1), let (1)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1609,8 +1611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (14), web (11), [[Algorithms]] (3), [[Tokens]] (2), api (2)
 > **Env Vars:** jwt (17), json (14), jose (5), url (3), api (2)
-> **Code Keywords:** let (7), public (2), default. (1), private (1)
 > **Definitions:** is a  (6), is an  (1), known as (1)
 > **Documentation:** specification (2)
 > **UI Navigation:** dropdown (1), select the (1)
@@ -1685,7 +1687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), finally, (2), continue (1), require (1), extends (1)
+> **Frameworks & Libraries:** [[Tokens]] (12), management (2), [[Microservices]] (1)
 > **Documentation:** specification (2)
 > **Env Vars:** tls (1)
 > **Cross-References:** we talked about (1)
@@ -1696,7 +1698,7 @@ created: 2026-04-29
 
 ### 4. Security between Microservices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MTLS
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980)
@@ -1779,8 +1781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (8), [[Security]] (4), [[Banking]] (1), web (1), api (1)
 > **Env Vars:** tls (11), pki (1), url (1), api (1)
-> **Code Keywords:** public (2), default. (1), assert (1), private (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1853,9 +1855,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (8), traffic (2), [[Security]] (2), [[E-Commerce]] (2), api (2)
 > **Env Vars:** jwt (3), api (2), oidc (1), iam (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1920,6 +1922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (7), [[Security]] (6), teams (4), open-source (2), traffic (2)
 > **Env Vars:** http (1), tls (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -1999,17 +2002,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (13), [[Microservices]] (9), [[Security]] (5), [[Kubernetes]] (2), traffic (2)
 > **CLI Commands:** find (2), docker (1), make (1)
 > **Env Vars:** tls (4)
 > **Definitions:** known as (3)
 > **Analogies:** such as (3)
-> **Code Keywords:** new, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Application and Container Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Throttling and rate limiting
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980)
@@ -2086,6 +2089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), [[Microservices]] (7), traffic (3), concurrent (2), [[Security]] (1)
 > **Env Vars:** api (11), cpu (1)
 > **Analogies:** such as (2), for instance (1)
 > **Definitions:** is a  (1)
@@ -2162,8 +2166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Microservices]] (4), [[Kubernetes]] (1), [[Automation]] (1)
 > **CLI Commands:** docker (6)
-> **Code Keywords:** default, (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** it's best to (1), best practice (1)
 > **Warnings:** be aware (1)
@@ -2249,7 +2253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), finally, (1), let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Microservices]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft]] (1), [[Linux]] (1)
 > **CLI Commands:** python (1), make (1), rails (1)
 > **Definitions:** known as (2), is an  (1)
 > **Env Vars:** cicd (1), cve (1)
@@ -2323,8 +2327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Windows]] (1), [[Linux]] (1), [[Microservices]] (1)
 > **CLI Commands:** docker (17)
-> **Code Keywords:** let (6)
 > **Versions:** 5.13 (1), 5.26 (1)
 > **Definitions:** is a  (2)
 > **Warnings:** warning (2)
@@ -2403,9 +2407,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (6), management (4), api (4), [[Kubernetes]] (3), database (2)
 > **Env Vars:** api (4), ssl (1), http (1)
 > **CLI Commands:** find (1), docker (1)
-> **Code Keywords:** let (1), protected (1)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2486,7 +2490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), function (1), pass (1)
+> **Frameworks & Libraries:** [[Security]] (13), ci (3), teams (2), [[Microservices]] (2), cd (2)
 > **CLI Commands:** cd (2)
 > **Exercise Files:** source code (1)
 > **Best Practices:** it's best to (1)
@@ -2533,7 +2537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft Azure|Azure]] (3), [[DevOps]] (3), [[Microservices]] (2), [[Git]] (2)
 > **CLI Commands:** git (2), cd (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -2657,7 +2661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), pass (2), import. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), database (3), hit (1), [[Security]] (1), [[Fetch]] (1)
 > **UI Navigation:** click on (7), go to (1)
 > **Env Vars:** sdk (2), rbac (1), sql (1)
 > **Tools:** insomnia (2), azure portal (1), visual studio (1)
@@ -2669,7 +2673,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980)
@@ -2714,6 +2718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), [[Microservices]] (3), [[Security]] (2), [[Git]] (2), teams (2)
 > **CLI Commands:** git (2), make (1)
 > **Env Vars:** jwt (1), jvm (1)
 > **Versions:** java 8 (1)
@@ -2721,7 +2726,6 @@ created: 2026-04-29
 > **Documentation:** specification (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
-> **Speakers:** - [kevin] (1)
 
 
 ## Instructor

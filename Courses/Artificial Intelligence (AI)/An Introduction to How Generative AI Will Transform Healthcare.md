@@ -28,7 +28,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/An%20Introduction%20to%20How%20Generative%20AI%20Will%20Transform%20Healthcare.md)
@@ -47,31 +47,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to generative AI in healthcare
+  - [Introduction to generative AI in healthcare](#introduction-to-generative-ai-in-healthcare)
 - [**1. The Foundations of Generative AI in Healthcare**](#1-the-foundations-of-generative-ai-in-healthcare) (2 videos)
-  - GPT passes medical exams: Breakthrough or hype?
-  - Hello world: Generative AI’s role in clinical documentation
+  - [GPT passes medical exams: Breakthrough or hype?](#gpt-passes-medical-exams-breakthrough-or-hype)
+  - [Hello world: Generative AI’s role in clinical documentation](#hello-world-generative-ais-role-in-clinical-documentation)
 - [**2. Planning for the Generative AI Revolution in Healthcare**](#2-planning-for-the-generative-ai-revolution-in-healthcare) (2 videos)
-  - Implementing generative AI: Bottom-up or top-down?
-  - AI workforce: Redefining roles in healthcare
+  - [Implementing generative AI: Bottom-up or top-down?](#implementing-generative-ai-bottom-up-or-top-down)
+  - [AI workforce: Redefining roles in healthcare](#ai-workforce-redefining-roles-in-healthcare)
 - [**3. Special Topics in Generative AI and Healthcare**](#3-special-topics-in-generative-ai-and-healthcare) (3 videos)
-  - Generative AI: The key to unlocking medical knowledge
-  - Precision health with generative AI
-  - How generative AI enhances drug development
+  - [Generative AI: The key to unlocking medical knowledge](#generative-ai-the-key-to-unlocking-medical-knowledge)
+  - [Precision health with generative AI](#precision-health-with-generative-ai)
+  - [How generative AI enhances drug development](#how-generative-ai-enhances-drug-development)
 - [**4. Ethical, Social, and Professional Considerations**](#4-ethical-social-and-professional-considerations) (3 videos)
-  - Bias in generative AI for healthcare
-  - Balancing technology and human judgment
-  - Top two considerations for using generative AI in healthcare
+  - [Bias in generative AI for healthcare](#bias-in-generative-ai-for-healthcare)
+  - [Balancing technology and human judgment](#balancing-technology-and-human-judgment)
+  - [Top two considerations for using generative AI in healthcare](#top-two-considerations-for-using-generative-ai-in-healthcare)
 - [**5. The Future of Healthcare with Generative AI**](#5-the-future-of-healthcare-with-generative-ai) (3 videos)
-  - The next wave: Multimodal AI in patient care
-  - The rise of general medical AI
-  - Everyone is a specialist: Health AI on the edge
+  - [The next wave: Multimodal AI in patient care](#the-next-wave-multimodal-ai-in-patient-care)
+  - [The rise of general medical AI](#the-rise-of-general-medical-ai)
+  - [Everyone is a specialist: Health AI on the edge](#everyone-is-a-specialist-health-ai-on-the-edge)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing the AI healthcare journey
+  - [Continuing the AI healthcare journey](#continuing-the-ai-healthcare-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to generative AI in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980)
@@ -100,7 +100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), teams (1), [[ChatGPT]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 > **Non-Speech:** (gentle bright music) (1)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 ### 1. The Foundations of Generative AI in Healthcare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPT passes medical exams: Breakthrough or hype?
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980)
@@ -183,8 +183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4]] (9), ai (3), [[Generative AI]] (2), [[ChatGPT]] (2), next (1)
 > **Env Vars:** gpt (11)
-> **Code Keywords:** let (2), pass (1), catch. (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - recently (1)
@@ -254,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[GPT-4]] (2), [[Traditional AI]] (1), next (1), [[Generative AI]] (1)
 > **Env Vars:** gpt (2), dax (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -263,7 +264,7 @@ created: 2026-04-29
 
 ### 2. Planning for the Generative AI Revolution in Healthcare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing generative AI: Bottom-up or top-down?
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980)
@@ -334,10 +335,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Word|Word]] (1), [[ChatGPT]] (1), [[Generative AI Tools]] (1), [[GPT-4]] (1)
 > **Env Vars:** nyu (1), hipaa (1), gpt (1), ehr (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** kind of like (1), for example (1)
-> **Code Keywords:** case, (1)
 > **Versions:** 5.6 (1)
 > **Speakers:** - highly (1)
 
@@ -400,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), ai (6), data (2), [[ChatGPT]] (2), [[Microsoft Word]] (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **URLs:** [deeplearning.ai](https://deeplearning.ai) (1)
@@ -411,7 +412,7 @@ created: 2026-04-29
 
 ### 3. Special Topics in Generative AI and Healthcare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI: The key to unlocking medical knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980)
@@ -500,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), catch. (1), require (1)
+> **Frameworks & Libraries:** data (17), [[Generative AI]] (3), [[GPT-4]] (3), ai (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** gpt (3)
 > **Definitions:** known as (1), is called (1)
 > **Analogies:** for example (1), kind of like (1)
@@ -570,9 +571,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[GPT-4]] (5), [[Generative AI]] (3), ai (1), [[Microsoft]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** gpt (5)
-> **Code Keywords:** this, (1), continue (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - did (1)
@@ -684,10 +685,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), ai (6), application (2), feature (1), [[GPT-4]] (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Analogies:** such as (1), similar to (1), just like (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** gpt (1), ocd (1)
 > **Cross-References:** previous video (1)
 > **Warnings:** note that (1)
@@ -696,7 +697,7 @@ created: 2026-04-29
 
 ### 4. Ethical, Social, and Professional Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias in generative AI for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980)
@@ -761,9 +762,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Generative AI]] (7), data (6), [[Responsible AI]] (3), [[GPT-4]] (1)
 > **Analogies:** such as (2), just like (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1), let (1)
 > **Env Vars:** gpt (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - so (1)
@@ -821,7 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (11), [[Generative AI]] (5), [[Automation]] (2), [[Decision-Making]] (1), data (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** double-click (1)
 > **Definitions:** is called (1)
@@ -910,7 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), this, (1), require (1), continue (1)
+> **Frameworks & Libraries:** data (17), ai (10), [[Security]] (5), [[Privacy]] (4), [[Generative AI]] (3)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -919,7 +920,7 @@ created: 2026-04-29
 
 ### 5. The Future of Healthcare with Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The next wave: Multimodal AI in patient care
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980)
@@ -1000,9 +1001,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Generative AI]] (4), ai (4), next (3), [[GPT-4]] (2)
 > **Env Vars:** gpt (5), ekg (1)
 > **Definitions:** in other words (2), is a  (2), refers to (1), known as (1)
-> **Code Keywords:** this, (1), case, (1), from. (1)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - did (1)
@@ -1078,11 +1079,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), ai (7), [[Generative AI]] (2), management (1), [[Neural Networks]] (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Versions:** 2.0 (2)
 > **Definitions:** is a  (1), refers to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - ah (1)
 
 #### Everyone is a specialist: Health AI on the edge
@@ -1166,17 +1167,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (4), data (4), [[Forms]] (1)
 > **Definitions:** in other words (2), is a  (2)
 > **Analogies:** imagine (2), for example (1)
 > **Env Vars:** gpt (1), agi (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - did (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing the AI healthcare journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980)
@@ -1217,8 +1218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[React.js|React]] (1), ai (1), [[Generative AI]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)
 

@@ -31,7 +31,7 @@ tags:
   - skill/devsecops
   - skill/security-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/DevSecOps-%20Automated%20Security%20Testing.md)
@@ -50,37 +50,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - What you should know
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
 - [**1. Security Testing Basics**](#1-security-testing-basics) (4 videos)
-  - Security and DevOps history in short
-  - Security and DevOps for the first time
-  - Automated security testing basics
-  - Tips for security automation for DevOps
+  - [Security and DevOps history in short](#security-and-devops-history-in-short)
+  - [Security and DevOps for the first time](#security-and-devops-for-the-first-time)
+  - [Automated security testing basics](#automated-security-testing-basics)
+  - [Tips for security automation for DevOps](#tips-for-security-automation-for-devops)
 - [**2. Security Automation: Getting Started**](#2-security-automation-getting-started) (5 videos)
-  - Setting up the demo environment
-  - Web application security quick tour
-  - Application security attack tools
-  - Security test automation with Gauntlt
-  - Running your first automated attack
+  - [Setting up the demo environment](#setting-up-the-demo-environment)
+  - [Web application security quick tour](#web-application-security-quick-tour)
+  - [Application security attack tools](#application-security-attack-tools)
+  - [Security test automation with Gauntlt](#security-test-automation-with-gauntlt)
+  - [Running your first automated attack](#running-your-first-automated-attack)
 - [**3. Application Security Automation**](#3-application-security-automation) (7 videos)
-  - Application security vector: XSS
-  - XSS attack automation
-  - XSS attack automation refactoring
-  - SQLi attack automation
-  - Automating a fuzzer
-  - Network testing on the fly
-  - "Be mean to your code" in practice
+  - [Application security vector: XSS](#application-security-vector-xss)
+  - [XSS attack automation](#xss-attack-automation)
+  - [XSS attack automation refactoring](#xss-attack-automation-refactoring)
+  - [SQLi attack automation](#sqli-attack-automation)
+  - [Automating a fuzzer](#automating-a-fuzzer)
+  - [Network testing on the fly](#network-testing-on-the-fly)
+  - ["Be mean to your code" in practice](#be-mean-to-your-code-in-practice)
 - [**4. Security Testing in Software Delivery Pipelines**](#4-security-testing-in-software-delivery-pipelines) (2 videos)
-  - Shift left and the DevOps way
-  - Security testing in CI/CD
+  - [Shift left and the DevOps way](#shift-left-and-the-devops-way)
+  - [Security testing in CI/CD](#security-testing-in-cicd)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Start automating security testing
-  - Next steps
+  - [Start automating security testing](#start-automating-security-testing)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[DevOps]] (3), cloud (1), teams (1), web (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [james] (1)
 
@@ -133,15 +134,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (2), web (2), [[Security]] (2), [[Git]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** docker (1), git (1), find (1)
-> **Code Keywords:** this, (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Security Testing Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security and DevOps history in short
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980)
@@ -242,7 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), this, (1), this: (1)
+> **Frameworks & Libraries:** [[Security]] (32), management (4), [[DevOps]] (3), [[Software Development]] (2), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **Env Vars:** pci (1), hipaa (1)
@@ -371,10 +372,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), [[DevOps]] (5), next (5), ci (3), [[DevSecOps]] (2)
 > **Env Vars:** cicd (2), sas (1), cicid (1), rasp (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (1), make (1), cd (1)
-> **Code Keywords:** assert (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
@@ -474,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6), let (2), class, (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[DevOps]] (4), application (4), ci (2), parallel (1)
 > **CLI Commands:** find (4), grep (1)
 > **Env Vars:** sast (1), dast (1), iast (1), zap (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -572,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), for, (1), for. (1)
+> **Frameworks & Libraries:** [[Security]] (14), next (3), [[DevOps]] (1), [[Agile Development|Agile]] (1), parallel (1)
 > **CLI Commands:** find (2), ruby (1)
 > **Prerequisites:** before we start (1), setup (1)
 > **Env Vars:** irc (1)
@@ -584,7 +585,7 @@ created: 2026-04-29
 
 ### 2. Security Automation: Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the demo environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980)
@@ -725,8 +726,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), application (5), [[Git]] (5), [[Google]] (3), [[GitHub]] (3)
 > **CLI Commands:** docker (17), make (8), git (5), python (1), find (1)
-> **Code Keywords:** let (10), continue (3), class. (3), public (1), for. (1)
 > **Tools:** github (3), terminal (2), bash (2), command line (1)
 > **Prerequisites:** install (3), set up (2), setup (2), you'll need (1)
 > **URLs:** [appspot.com](https://appspot.com) (3), [github.com](https://github.com) (2), [docker.com](https://docker.com) (1), [localhost:8008](https://localhost:8008) (1)
@@ -855,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Scripting]] (8), [[HTML]] (7), [[JavaScript]] (4), data (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (7)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [localhost:8008](https://localhost:8008) (1), [appspot.com](https://appspot.com) (1)
@@ -995,8 +996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (3), [[GitHub]] (3), web application (2), [[Windows]] (2), application (2)
 > **CLI Commands:** docker (15), make (6), find (1), ruby (1), git (1)
-> **Code Keywords:** let (11), for. (3), try. (1)
 > **Tools:** command line (4), github (3)
 > **URLs:** [github.com](https://github.com) (3), [arachni-scanner.com](https://arachni-scanner.com) (1), [http://docker.for.mac.localhost:8008](http://docker.for.mac.localhost:8008) (1)
 > **Definitions:** is an  (1), is a  (1), refers to (1)
@@ -1133,7 +1134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), function (1), match. (1), case, (1)
+> **Frameworks & Libraries:** feature (6), next (5), [[Security]] (3), open-source (1), teams (1)
 > **CLI Commands:** ruby (3), make (1), find (1)
 > **Env Vars:** mit (1), xxs (1), url (1)
 > **Definitions:** is a  (2), we call this (1)
@@ -1282,8 +1283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), generic (3), feature (2), [[Representational State Transfer (REST)|Rest]] (1), cd (1)
 > **CLI Commands:** docker (14), make (2), ruby (2), cat (2), cd (1)
-> **Code Keywords:** let (12), pass (4), class. (1)
 > **Tools:** vim (2), command line (2)
 > **Code Identifiers:** hello_world (1)
 > **Exercise Files:** exercise files (1)
@@ -1293,7 +1294,7 @@ created: 2026-04-29
 
 ### 3. Application Security Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application security vector: XSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980)
@@ -1370,9 +1371,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (12), [[JavaScript]] (6), web (3), application (3), [[Security]] (2)
 > **Env Vars:** xss (2), owasp (2), dom (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Speakers:** - cross (1)
 
@@ -1539,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (3), this, (2), for. (2), class. (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Scripting]] (3), [[Automation]] (2), feature (1), next (1)
 > **CLI Commands:** docker (7), make (5), mkdir (1), find (1)
 > **Ports:** port 8008 (2), :8008 (1)
 > **Definitions:** is a  (2)
@@ -1701,7 +1702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (3)
+> **Frameworks & Libraries:** [[Scripting]] (11), [[Security]] (3), web (2), application (1), [[JavaScript]] (1)
 > **Env Vars:** xss (7), url (3)
 > **CLI Commands:** make (3), docker (3), find (1)
 > **Definitions:** is a  (2)
@@ -1847,8 +1848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (15), database (6), [[Forms]] (4), next (3), [[OWASP]] (2)
 > **Env Vars:** sql (15), owasp (2), url (2), arachne (1)
-> **Code Keywords:** let (4), this, (2), default, (1), while, (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** python (2), make (1), docker (1)
 > **Code Identifiers:** sqlmap_path (1)
@@ -2010,9 +2011,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), application (3), cd (3), web (2), next (2)
 > **Env Vars:** dirb (19), http (1), url (1), iis (1)
 > **CLI Commands:** make (5), docker (3), cd (3), find (3), ls (2)
-> **Code Keywords:** let (13), this, (2), this. (1), continue (1)
 > **File Paths:** common.txt (4), test.txt (2), vulns/test.txt (1), vuln/text.txt (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (1), for example (1)
@@ -2156,7 +2157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), match: (2), case, (1), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), [[MySQL]] (1), database (1), [[WordPress]] (1)
 > **CLI Commands:** make (5), docker (2), cat (2), mysql (1), cd (1)
 > **Env Vars:** xml (3), nse (2)
 > **Ports:** port 443 (2), port 8008 (1), port 80 (1)
@@ -2318,7 +2319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), new, (1)
+> **Frameworks & Libraries:** [[Security]] (5), application (4), [[HTML]] (4), web (2), next (2)
 > **CLI Commands:** find (3), docker (3), curl (1), python (1)
 > **Env Vars:** html (2), sql (1)
 > **Tools:** command line (2), github (1)
@@ -2330,7 +2331,7 @@ created: 2026-04-29
 
 ### 4. Security Testing in Software Delivery Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shift left and the DevOps way
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980)
@@ -2401,8 +2402,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[DevOps]] (2), web (2), business (1)
 > **File Paths:** cucumber.yml (4)
-> **Code Keywords:** for. (1), this. (1), this, (1), let (1)
 > **Env Vars:** cicd (2), sas (1), target_host (1)
 > **CLI Commands:** docker (3)
 > **Analogies:** just like (1), similar to (1)
@@ -2525,7 +2526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class. (1), this. (1), pass (1)
+> **Frameworks & Libraries:** ci (13), [[Security]] (5), [[GitHub]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[SaaS|Software as a service]] (2)
 > **CLI Commands:** docker (7), make (1)
 > **File Paths:** travis.yml (2), scripts/travis-config.sh (1), travis-config.sh (1), config/cucumber.yml (1)
 > **Tools:** github (3), command line (1)
@@ -2537,7 +2538,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start automating security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980)
@@ -2638,10 +2639,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (21), [[Automation]] (4), teams (4), application (4), [[Software Development]] (1)
 > **CLI Commands:** find (8), make (2)
 > **Env Vars:** ssl (1), pdf (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** for, (1)
 > **Cross-References:** earlier in (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - now (1)
@@ -2691,6 +2692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[DevOps]] (6), next (1), ci (1), cd (1)
 > **CLI Commands:** find (1), cd (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)

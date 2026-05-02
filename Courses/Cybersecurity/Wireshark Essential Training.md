@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/wireshark
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Wireshark%20Essential%20Training.md)
@@ -44,54 +44,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Appreciating traffic analysis
-  - What you need to know
-  - Challenges
-  - Disclaimer
+  - [Appreciating traffic analysis](#appreciating-traffic-analysis)
+  - [What you need to know](#what-you-need-to-know)
+  - [Challenges](#challenges)
+  - [Disclaimer](#disclaimer)
 - [**1. Traffic Capture Overview**](#1-traffic-capture-overview) (5 videos)
-  - Benefits of traffic analysis
-  - Installing Wireshark
-  - Explore the Wireshark interface
-  - Getting help
-  - Tap into the data stream
+  - [Benefits of traffic analysis](#benefits-of-traffic-analysis)
+  - [Installing Wireshark](#installing-wireshark)
+  - [Explore the Wireshark interface](#explore-the-wireshark-interface)
+  - [Getting help](#getting-help)
+  - [Tap into the data stream](#tap-into-the-data-stream)
 - [**2. Getting Started with Wireshark**](#2-getting-started-with-wireshark) (6 videos)
-  - Using display and capture filters
-  - Discovering shortcuts
-  - Grasping the OSI model
-  - Generating a frame
-  - Challenge: Recognize the Wireshark interface
-  - Solution: Recognize the Wireshark interface
+  - [Using display and capture filters](#using-display-and-capture-filters)
+  - [Discovering shortcuts](#discovering-shortcuts)
+  - [Grasping the OSI model](#grasping-the-osi-model)
+  - [Generating a frame](#generating-a-frame)
+  - [Challenge: Recognize the Wireshark interface](#challenge-recognize-the-wireshark-interface)
+  - [Solution: Recognize the Wireshark interface](#solution-recognize-the-wireshark-interface)
 - [**3. Examining the Internet Suite**](#3-examining-the-internet-suite) (11 videos)
-  - Understanding the TCP-IP suite
-  - Explaining Transmission Control Protocol
-  - Recognizing the TCP connection process
-  - Viewing the TCP handshake and teardown
-  - Breaking down User Datagram Protocol
-  - Outlining IPv4
-  - Dissecting IPv6
-  - Comprehending ICMP
-  - Discovering ICMPv6
-  - Challenge: Evaluating a pcap
-  - Solution: Evaluating a pcap
+  - [Understanding the TCP-IP suite](#understanding-the-tcp-ip-suite)
+  - [Explaining Transmission Control Protocol](#explaining-transmission-control-protocol)
+  - [Recognizing the TCP connection process](#recognizing-the-tcp-connection-process)
+  - [Viewing the TCP handshake and teardown](#viewing-the-tcp-handshake-and-teardown)
+  - [Breaking down User Datagram Protocol](#breaking-down-user-datagram-protocol)
+  - [Outlining IPv4](#outlining-ipv4)
+  - [Dissecting IPv6](#dissecting-ipv6)
+  - [Comprehending ICMP](#comprehending-icmp)
+  - [Discovering ICMPv6](#discovering-icmpv6)
+  - [Challenge: Evaluating a pcap](#challenge-evaluating-a-pcap)
+  - [Solution: Evaluating a pcap](#solution-evaluating-a-pcap)
 - [**4. Deep Packet Analysis of Common Protocols**](#4-deep-packet-analysis-of-common-protocols) (7 videos)
-  - Dissecting DNS
-  - Exploring DHCP
-  - Following an FTP transaction
-  - Using HTTP
-  - Understand ARP
-  - Challenge: Examining a packet capture
-  - Solution: Examining a packet capture
+  - [Dissecting DNS](#dissecting-dns)
+  - [Exploring DHCP](#exploring-dhcp)
+  - [Following an FTP transaction](#following-an-ftp-transaction)
+  - [Using HTTP](#using-http)
+  - [Understand ARP](#understand-arp)
+  - [Challenge: Examining a packet capture](#challenge-examining-a-packet-capture)
+  - [Solution: Examining a packet capture](#solution-examining-a-packet-capture)
 - [**5. Working with Packet Captures**](#5-working-with-packet-captures) (4 videos)
-  - The Wireshark expert system
-  - Network latency issues
-  - Subset, save, and export
-  - Using Cloudshark
+  - [The Wireshark expert system](#the-wireshark-expert-system)
+  - [Network latency issues](#network-latency-issues)
+  - [Subset, save, and export](#subset-save-and-export)
+  - [Using Cloudshark](#using-cloudshark)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Appreciating traffic analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980)
@@ -128,7 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), super (1), let (1)
+> **Frameworks & Libraries:** traffic (2), [[Wireshark]] (2), data (1), dns (1), [[Security]] (1)
 > **Env Vars:** osi (1), tcp (1), dns (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
@@ -154,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (3), traffic (1)
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -202,13 +203,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (1), traffic (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Traffic Capture Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of traffic analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980)
@@ -275,9 +277,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (10), traffic (8), application (4), [[Security]] (2), [[Automation]] (2)
 > **Env Vars:** dhcp (1), udp (1), tcp (1), ssdp (1), dns (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** interface (2), let (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [lecturer] (1)
@@ -377,10 +379,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (11), next (7), traffic (2), cloud (2), [[Windows]] (1)
 > **Prerequisites:** install (5)
 > **UI Navigation:** scroll down (2), go to (2)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), interface (1)
 > **Env Vars:** usb (2)
 > **CLI Commands:** make (1)
 > **URLs:** [wireshark.org](https://wireshark.org) (1)
@@ -483,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), else, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), next (2), traffic (2), data (1), [[Troubleshooting]] (1)
 > **Env Vars:** usb (1), pcap (1), mac (1), dns (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (2)
@@ -556,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1)
+> **Frameworks & Libraries:** [[Wireshark]] (14), next (1)
 > **UI Navigation:** go to (3), select the (2)
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** make sure you have (1), you'll need (1)
@@ -704,7 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), switch (2), this, (2), this. (2)
+> **Frameworks & Libraries:** traffic (13), [[Wireshark]] (8), data (2), [[Windows]] (1), [[Linux]] (1)
 > **Analogies:** for example (6)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (3)
@@ -716,7 +718,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Wireshark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using display and capture filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980)
@@ -807,7 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else. (4), interface (2), this, (1), continue (1)
+> **Frameworks & Libraries:** traffic (7), [[Wireshark]] (3), data (1), [[Troubleshooting]] (1), [[Statistics]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Ports:** port 21 (2)
 > **Env Vars:** ftp (1), tcp (1)
@@ -888,10 +890,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Wireshark]] (2)
 > **Env Vars:** icmp (3), tcp (2)
 > **Versions:** version 4 (3)
 > **UI Navigation:** go to (1), scroll up (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -994,9 +996,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), application (3), [[Routing]] (2), [[Data Transformation]] (1), next (1)
 > **Env Vars:** osi (5), mac (3), http (1), ftp (1), smtp (1)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** let (2), interface (1), function (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1056,8 +1058,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (3), [[Wireshark]] (3), web (2), traffic (1)
 > **Env Vars:** mac (2), osi (2), tcp (1), udp (1), http (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1095,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -1133,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Metadata]] (1)
 > **Env Vars:** tcp (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bouncy music) (1)
@@ -1141,7 +1143,7 @@ created: 2026-04-29
 
 ### 3. Examining the Internet Suite
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the TCP-IP suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980)
@@ -1176,6 +1178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Routing]] (2), application (1)
 > **Env Vars:** tcp (7), icmp (3), udp (2), http (1), ftp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
@@ -1352,9 +1355,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Wireshark]] (7), next (2), [[Metadata]] (1)
 > **Env Vars:** tcp (16), http (5), osi (1), nic (1)
 > **UI Navigation:** go to (8), scroll down (1), scroll up (1)
-> **Code Keywords:** let (5), case, (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -1396,6 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** syn (3), fin (3), icmp (1), ack (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1531,8 +1535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Wireshark]] (2), [[Statistics]] (1), [[Windows]] (1)
 > **Env Vars:** tcp (9), syn (4), ack (3), sack (2), fin (2)
-> **Code Keywords:** let (8), this. (1)
 > **UI Navigation:** go to (5), scroll up (2), scroll down (1)
 > **Warnings:** keep in mind (2)
 > **Exercise Files:** download the (1)
@@ -1649,9 +1653,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Wireshark]] (4), data (2), dns (2), [[Routing]] (1)
 > **Env Vars:** udp (10), dns (2), osi (1)
 > **Definitions:** is a  (6), is an  (1)
-> **Code Keywords:** let (4), this, (1)
 > **UI Navigation:** go to (3), double-click (1), right-click (1)
 > **Cross-References:** in the next (1), we talked about (1)
 > **Analogies:** such as (1), for example (1)
@@ -1776,7 +1780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Routing]] (2), next (2), [[Wireshark]] (1)
 > **Env Vars:** tcp (2), osi (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1868,7 +1872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (1), case, (1)
+> **Frameworks & Libraries:** next (4), data (2), [[Wireshark]] (1), [[Security]] (1), traffic (1)
 > **Env Vars:** igmp (2), arp (2), osi (1)
 > **Versions:** version 6 (2)
 > **UI Navigation:** go to (1)
@@ -1982,8 +1986,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), [[Kali Linux]] (1), traffic (1)
 > **Env Vars:** icmp (20), osi (1), rfc (1), iana (1)
-> **Code Keywords:** type, (4), let (2), case, (2), module (1)
 > **Definitions:** is an  (3), is a  (2)
 > **Analogies:** such as (3), for example (1)
 > **Cross-References:** coming up (1)
@@ -2076,8 +2080,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[Statistics]] (2), data (1), traffic (1)
 > **Env Vars:** icmp (16), aarp (2), igmp (2), imp (1), icnp (1)
-> **Code Keywords:** let (2), this. (2), module (1), type, (1), include, (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** node (2)
@@ -2108,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -2266,8 +2270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), next (3), application (2), data (2), feature (1)
 > **Env Vars:** tcp (7), udp (1), smtp (1)
-> **Code Keywords:** let (3), this. (2), from, (1), throw (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1), means that (1)
@@ -2278,7 +2282,7 @@ created: 2026-04-29
 
 ### 4. Deep Packet Analysis of Common Protocols
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dissecting DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-dns?u=76281980)
@@ -2409,9 +2413,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (18), [[Domain Name System (DNS)|Domain name system]] (1), application (1), [[Security]] (1), data (1)
 > **Env Vars:** dns (18), udp (3), osi (1), tcp (1)
 > **Definitions:** is a  (6), is an  (1), means that (1)
-> **Code Keywords:** let (6), this, (1)
 > **Versions:** version 4 (3), version 6 (2)
 > **Ports:** port 53 (4)
 > **CLI Commands:** find (2)
@@ -2531,8 +2535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), next (2), application (1), [[Wireshark]] (1), traffic (1)
 > **Env Vars:** dhcp (8), dora (6), mac (2), osi (1), udp (1)
-> **Code Keywords:** let (3), static (1), case, (1)
 > **Ports:** port 68 (1), port 67 (1)
 > **Versions:** 0.0.0 (1), 87.5 (1)
 > **CLI Commands:** make (1)
@@ -2639,9 +2643,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), application (1), next (1)
 > **Env Vars:** ftp (11), tcp (3), osi (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (2)
 > **Ports:** port 21 (1), port 20 (1)
 > **CLI Commands:** make (1)
 > **Versions:** 170.225.15 (1)
@@ -2757,8 +2761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), web (7), application (4), [[Statistics]] (2), [[HTML]] (1)
 > **Env Vars:** http (12), tcp (4), html (1), ngn (1), jpeg (1)
-> **Code Keywords:** this, (3), case, (3), default, (1), switch (1)
 > **UI Navigation:** select the (1), scroll down (1), go to (1)
 > **Analogies:** for example (2), picture (1)
 > **Ports:** port 80 (2)
@@ -2821,9 +2825,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (5), data (3), [[Hardware]] (3), [[Wireshark]] (1)
 > **Env Vars:** arp (10), mac (7), osi (1), icmp (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (2), from, (1)
 > **Code Identifiers:** dot1q (1)
 > **URLs:** [packetlife.net](https://packetlife.net) (1)
 > **Cross-References:** we talked about (1)
@@ -2851,7 +2855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Prerequisites:** you'll need (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [presenter] (1)
@@ -2994,9 +2998,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), dns (5), [[Wireshark]] (3), cloud (2), feature (1)
 > **Env Vars:** dns (5), dhcp (5), udp (2), http (1), dora (1)
 > **UI Navigation:** go to (9), scroll down (2), open the (1), scroll up (1)
-> **Code Keywords:** let (4), export, (1), require (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
 > **URLs:** [cloudshark.org](https://cloudshark.org) (1), [verisign.net](https://verisign.net) (1)
@@ -3006,7 +3010,7 @@ created: 2026-04-29
 
 ### 5. Working with Packet Captures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Wireshark expert system
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/the-wireshark-expert-system?u=76281980)
@@ -3113,8 +3117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (3), data (2), next (1), dns (1)
 > **Env Vars:** ack (2), dns (1), fin (1), syn (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
 > **Warnings:** keep in mind (1), warning (1)
@@ -3216,8 +3220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Wireshark]] (3), [[Statistics]] (1), next (1)
 > **UI Navigation:** go to (6)
-> **Code Keywords:** let (2), switch (2), case, (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -3350,9 +3354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (5), next (3), traffic (3), [[Intrusion Detection]] (1), [[Statistics]] (1)
 > **UI Navigation:** go to (7)
 > **Env Vars:** http (5), ids (1)
-> **Code Keywords:** this, (2), let (1), this. (1), type. (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
@@ -3429,7 +3433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), public (1), case, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), [[SaaS|Software as a service]] (1), feature (1), [[Microsoft Office|Office]] (1), traffic (1)
 > **UI Navigation:** scroll down (2), go to (2), open the (1)
 > **Analogies:** similar to (2), for example (2)
 > **CLI Commands:** make (1)
@@ -3441,7 +3445,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980)
@@ -3468,8 +3472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (4), traffic (3), [[Security]] (2), next (1), [[Ethical Hacking]] (1)
 > **Env Vars:** tcp (1), udp (1), ftp (1), ccna (1)
-> **Code Keywords:** export, (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [lisa] (1)

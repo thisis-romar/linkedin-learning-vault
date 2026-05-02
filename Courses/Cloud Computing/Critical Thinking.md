@@ -31,7 +31,7 @@ tags:
   - skill/decision-making
   - skill/critical-thinking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Critical%20Thinking.md)
@@ -50,34 +50,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to critical thinking
+  - [Welcome to critical thinking](#welcome-to-critical-thinking)
 - [**1. What Is Critical Thinking?**](#1-what-is-critical-thinking) (3 videos)
-  - The importance of critical thinking
-  - Distinguish between causes vs. consequences
-  - Break big problems into small ones
+  - [The importance of critical thinking](#the-importance-of-critical-thinking)
+  - [Distinguish between causes vs. consequences](#distinguish-between-causes-vs-consequences)
+  - [Break big problems into small ones](#break-big-problems-into-small-ones)
 - [**2. Thinking the Problem Through**](#2-thinking-the-problem-through) (6 videos)
-  - Define the problem statement
-  - Understand the real question
-  - Ask focusing questions
-  - Examine past efforts
-  - Use new lenses to think critically
-  - How to find root causes
+  - [Define the problem statement](#define-the-problem-statement)
+  - [Understand the real question](#understand-the-real-question)
+  - [Ask focusing questions](#ask-focusing-questions)
+  - [Examine past efforts](#examine-past-efforts)
+  - [Use new lenses to think critically](#use-new-lenses-to-think-critically)
+  - [How to find root causes](#how-to-find-root-causes)
 - [**3. Using Critical Thinking Tools**](#3-using-critical-thinking-tools) (6 videos)
-  - Challenge how the business operates
-  - Use the five whys of critical thinking
-  - Answer the seven so-whats?
-  - Use the 80/20 rule to think critically
-  - How to successfully conduct analysis
-  - Consider the implications of answers
+  - [Challenge how the business operates](#challenge-how-the-business-operates)
+  - [Use the five whys of critical thinking](#use-the-five-whys-of-critical-thinking)
+  - [Answer the seven so-whats?](#answer-the-seven-so-whats)
+  - [Use the 80/20 rule to think critically](#use-the-8020-rule-to-think-critically)
+  - [How to successfully conduct analysis](#how-to-successfully-conduct-analysis)
+  - [Consider the implications of answers](#consider-the-implications-of-answers)
 - [**4. Practice Critical Thinking**](#4-practice-critical-thinking) (2 videos)
-  - Teach others how to think critically
-  - Common pitfalls when solving problems
+  - [Teach others how to think critically](#teach-others-how-to-think-critically)
+  - [Common pitfalls when solving problems](#common-pitfalls-when-solving-problems)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply critical thinking every day
+  - [Apply critical thinking every day](#apply-critical-thinking-every-day)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to critical thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/welcome-critical-thinking?u=76281980)
@@ -100,13 +100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - have (1)
 
 
 ### 1. What Is Critical Thinking?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of critical thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/the-importance-of-critical-thinking-2?u=76281980)
@@ -137,8 +138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), require (1)
 > **Speakers:** - let (1)
 
 #### Distinguish between causes vs. consequences
@@ -234,7 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (2)
+> **Frameworks & Libraries:** leadership (2)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - as (1)
 
@@ -291,7 +292,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), continue (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - one (1)
@@ -299,7 +299,7 @@ created: 2026-04-29
 
 ### 2. Thinking the Problem Through
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define the problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/define-the-problem-statement-2?u=76281980)
@@ -359,7 +359,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - one (1)
@@ -417,7 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (4), leadership (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - so (1)
@@ -495,7 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
@@ -542,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - another (1)
 
 #### Use new lenses to think critically
@@ -626,7 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** functional (2), management (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** ceo (1)
 > **Speakers:** - another (1)
@@ -710,15 +709,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), management (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** raise (4), this, (1), let (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - the (1)
 
 
 ### 3. Using Critical Thinking Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge how the business operates
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980)
@@ -853,9 +852,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (20), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Use the five whys of critical thinking
@@ -959,7 +958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2)
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - one (1)
 
 #### Answer the seven so-whats?
@@ -1055,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Search]] (3), business (2), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - good (1)
 
@@ -1138,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** known as (1)
 > **Speakers:** - critical (1)
@@ -1216,8 +1215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - critical (1)
 
 #### Consider the implications of answers
@@ -1283,8 +1282,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - when (1)
@@ -1292,7 +1291,7 @@ created: 2026-04-29
 
 ### 4. Practice Critical Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Teach others how to think critically
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980)
@@ -1371,8 +1370,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Thinking Skills]] (4), teams (2), business (1), application (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), this, (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
 
@@ -1451,15 +1450,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Warnings:** pitfall (5)
-> **Code Keywords:** this, (2), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - during (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply critical thinking every day
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980)
@@ -1506,8 +1505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Thinking Skills]] (3), business (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - as (1)
 

@@ -60,7 +60,7 @@ tags:
   - topic/network-and-system-administration
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript%20Essential%20Training.md)
@@ -79,108 +79,108 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - JavaScript: The soil from which the modern web grows
-  - How to use the exercise files
-  - Exploring the lab environment
+  - [JavaScript: The soil from which the modern web grows](#javascript-the-soil-from-which-the-modern-web-grows)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
+  - [Exploring the lab environment](#exploring-the-lab-environment)
 - [**1. JavaScript: A Brief Introduction**](#1-javascript-a-brief-introduction) (7 videos)
-  - JavaScript: First contact
-  - Navigating the JS landscape
-  - Tools for working with JavaScript
-  - Linting and formatting
-  - Get to know the browser console
-  - JavaScript language basics
-  - Learning JavaScript backward
+  - [JavaScript: First contact](#javascript-first-contact)
+  - [Navigating the JS landscape](#navigating-the-js-landscape)
+  - [Tools for working with JavaScript](#tools-for-working-with-javascript)
+  - [Linting and formatting](#linting-and-formatting)
+  - [Get to know the browser console](#get-to-know-the-browser-console)
+  - [JavaScript language basics](#javascript-language-basics)
+  - [Learning JavaScript backward](#learning-javascript-backward)
 - [**2. Get Up and Running with JS**](#2-get-up-and-running-with-js) (4 videos)
-  - JavaScript in an HTML document
-  - JavaScript as an external file
-  - Modern JavaScript loading
-  - JavaScript modules
+  - [JavaScript in an HTML document](#javascript-in-an-html-document)
+  - [JavaScript as an external file](#javascript-as-an-external-file)
+  - [Modern JavaScript loading](#modern-javascript-loading)
+  - [JavaScript modules](#javascript-modules)
 - [**3. Objects**](#3-objects) (15 videos)
-  - Objects: A practical introduction
-  - JavaScript objects: The code version
-  - Object containers
-  - Object properties
-  - Accessing objects
-  - Accessing object properties
-  - Practice: Build a new object
-  - Object methods
-  - Practice: Build a new method
-  - Classes: Object blueprints
-  - Object constructors
-  - Practice: Build a new object with a constructor
-  - Global objects
-  - Challenge intro: Create a new object type
-  - Solution: Create a new object type
+  - [Objects: A practical introduction](#objects-a-practical-introduction)
+  - [JavaScript objects: The code version](#javascript-objects-the-code-version)
+  - [Object containers](#object-containers)
+  - [Object properties](#object-properties)
+  - [Accessing objects](#accessing-objects)
+  - [Accessing object properties](#accessing-object-properties)
+  - [Practice: Build a new object](#practice-build-a-new-object)
+  - [Object methods](#object-methods)
+  - [Practice: Build a new method](#practice-build-a-new-method)
+  - [Classes: Object blueprints](#classes-object-blueprints)
+  - [Object constructors](#object-constructors)
+  - [Practice: Build a new object with a constructor](#practice-build-a-new-object-with-a-constructor)
+  - [Global objects](#global-objects)
+  - [Challenge intro: Create a new object type](#challenge-intro-create-a-new-object-type)
+  - [Solution: Create a new object type](#solution-create-a-new-object-type)
 - [**4. Sidebar: String Output**](#4-sidebar-string-output) (4 videos)
-  - Mix text and variables with template literals
-  - Traditional string output
-  - Challenge intro: Create a template literal
-  - Solution: Create a template literal
+  - [Mix text and variables with template literals](#mix-text-and-variables-with-template-literals)
+  - [Traditional string output](#traditional-string-output)
+  - [Challenge intro: Create a template literal](#challenge-intro-create-a-template-literal)
+  - [Solution: Create a template literal](#solution-create-a-template-literal)
 - [**5. DOM**](#5-dom) (11 videos)
-  - DOM: The Document Object Model
-  - Access elements with querySelector methods
-  - Access elements using older methods
-  - Practice: Find an element
-  - Modifying element classes
-  - Attributes
-  - Inline style
-  - Practice: Modify classes and attributes, and styles
-  - Add DOM elements
-  - Challenge intro: Create elements
-  - Solution: Create elements
+  - [DOM: The Document Object Model](#dom-the-document-object-model)
+  - [Access elements with querySelector methods](#access-elements-with-queryselector-methods)
+  - [Access elements using older methods](#access-elements-using-older-methods)
+  - [Practice: Find an element](#practice-find-an-element)
+  - [Modifying element classes](#modifying-element-classes)
+  - [Attributes](#attributes)
+  - [Inline style](#inline-style)
+  - [Practice: Modify classes and attributes, and styles](#practice-modify-classes-and-attributes-and-styles)
+  - [Add DOM elements](#add-dom-elements)
+  - [Challenge intro: Create elements](#challenge-intro-create-elements)
+  - [Solution: Create elements](#solution-create-elements)
 - [**6. Sidebar: Variables and Data Types**](#6-sidebar-variables-and-data-types) (10 videos)
-  - Variables: Containers for everything
-  - Var
-  - Scope
-  - Let
-  - Const
-  - Data types
-  - Assignment vs. comparison
-  - Math operators
-  - Challenge intro: Calculate sales tax
-  - Solution: Calculate sales tax
+  - [Variables: Containers for everything](#variables-containers-for-everything)
+  - [Var](#var)
+  - [Scope](#scope)
+  - [Let](#let)
+  - [Const](#const)
+  - [Data types](#data-types)
+  - [Assignment vs. comparison](#assignment-vs-comparison)
+  - [Math operators](#math-operators)
+  - [Challenge intro: Calculate sales tax](#challenge-intro-calculate-sales-tax)
+  - [Solution: Calculate sales tax](#solution-calculate-sales-tax)
 - [**7. Arrays**](#7-arrays) (5 videos)
-  - Arrays explained
-  - Arrays in code
-  - Array methods
-  - Challenge intro: Array manipulation
-  - Solution: Array manipulation
+  - [Arrays explained](#arrays-explained)
+  - [Arrays in code](#arrays-in-code)
+  - [Array methods](#array-methods)
+  - [Challenge intro: Array manipulation](#challenge-intro-array-manipulation)
+  - [Solution: Array manipulation](#solution-array-manipulation)
 - [**8. Functions and Methods**](#8-functions-and-methods) (17 videos)
-  - The real-world function
-  - Functions and methods
-  - A standard function
-  - The arrow function
-  - Arrow functions and "this"
-  - Practice: Build a function
-  - Pass data to a function with parameters
-  - Return values from a function
-  - Practice: Pass values between functions
-  - Callbacks
-  - Conditional if...else statement
-  - Logical operators
-  - Conditional switch statement
-  - Looping through content
-  - Using the map() array method
-  - Challenge intro: Create a content factory
-  - Solution: Create a content factory
+  - [The real-world function](#the-real-world-function)
+  - [Functions and methods](#functions-and-methods)
+  - [A standard function](#a-standard-function)
+  - [The arrow function](#the-arrow-function)
+  - [Arrow functions and "this"](#arrow-functions-and-this)
+  - [Practice: Build a function](#practice-build-a-function)
+  - [Pass data to a function with parameters](#pass-data-to-a-function-with-parameters)
+  - [Return values from a function](#return-values-from-a-function)
+  - [Practice: Pass values between functions](#practice-pass-values-between-functions)
+  - [Callbacks](#callbacks)
+  - [Conditional if...else statement](#conditional-ifelse-statement)
+  - [Logical operators](#logical-operators)
+  - [Conditional switch statement](#conditional-switch-statement)
+  - [Looping through content](#looping-through-content)
+  - [Using the map() array method](#using-the-map-array-method)
+  - [Challenge intro: Create a content factory](#challenge-intro-create-a-content-factory)
+  - [Solution: Create a content factory](#solution-create-a-content-factory)
 - [**9. Events**](#9-events) (8 videos)
-  - DOM events explained
-  - Typical DOM events
-  - Event listeners
-  - Practice: Experiment with event listeners
-  - Advanced event listeners and "this"
-  - Pass arguments through event listeners
-  - Challenge intro: Create an event listener
-  - Solution: Create an event listener
+  - [DOM events explained](#dom-events-explained)
+  - [Typical DOM events](#typical-dom-events)
+  - [Event listeners](#event-listeners)
+  - [Practice: Experiment with event listeners](#practice-experiment-with-event-listeners)
+  - [Advanced event listeners and "this"](#advanced-event-listeners-and-this)
+  - [Pass arguments through event listeners](#pass-arguments-through-event-listeners)
+  - [Challenge intro: Create an event listener](#challenge-intro-create-an-event-listener)
+  - [Solution: Create an event listener](#solution-create-an-event-listener)
 - [**10. Troubleshooting and Validating JS**](#10-troubleshooting-and-validating-js) (2 videos)
-  - Troubleshooting JavaScript in the browser
-  - Making sense of a React component
+  - [Troubleshooting JavaScript in the browser](#troubleshooting-javascript-in-the-browser)
+  - [Making sense of a React component](#making-sense-of-a-react-component)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps on your learning journey
+  - [Next steps on your learning journey](#next-steps-on-your-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript: The soil from which the modern web grows
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980)
@@ -211,9 +211,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (11), web (8), [[Vanilla]] (1), [[React.js|React]] (1), node (1)
 > **CLI Commands:** make (3), node (1)
 > **Env Vars:** html (1), css (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - javascript (1)
 
 #### How to use the exercise files
@@ -259,12 +259,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[GitHub]] (2), web (1)
 > **Exercise Files:** exercise files (7), download the (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** pdf (2), mdn (1)
 > **Documentation:** the documentation (2), mdn (1)
 > **Tools:** github (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -323,9 +323,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[JavaScript]] (1), next (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** else. (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
@@ -334,7 +334,7 @@ created: 2026-04-29
 
 ### 1. JavaScript: A Brief Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript: First contact
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980)
@@ -387,8 +387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[React.js|React]] (7), [[Web Development]] (2), web (2), application (1)
 > **Env Vars:** jsx (6), html (1), css (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -477,10 +477,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (41), [[ECMAScript]] (5), [[Vanilla]] (4), web (4), [[React.js|React]] (3)
 > **Env Vars:** es6 (2), npm (2), es2015 (1), es2017 (1), es2020 (1)
 > **CLI Commands:** node (4), npm (2), make (1)
 > **File Paths:** node.js (3), react.js (1), vue.js (1)
-> **Code Keywords:** this, (2), finally, (1)
 > **Documentation:** specification (2)
 > **Definitions:** is called (1), is an  (1)
 > **Cross-References:** in the last (1)
@@ -573,12 +573,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[JavaScript]] (4), application (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** visual studio (4), firefox (2), vs code (1)
 > **UI Navigation:** open the (3), go to (1), click on (1)
 > **Prerequisites:** install (3), make sure you have (2)
 > **CLI Commands:** find (2), make (2)
 > **Exercise Files:** exercise files (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** essentially is (1)
 > **Analogies:** for instance (1)
 
@@ -755,9 +755,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (8), node (7), [[JavaScript]] (5), [[Node.js]] (2), [[npm]] (2)
 > **CLI Commands:** node (9), make (5), npm (2), find (1)
 > **Prerequisites:** install (9), required to (1), you need to have (1)
-> **Code Keywords:** this, (4), let (3), this. (1)
 > **Tools:** terminal (5), vs code (2), command line (1)
 > **UI Navigation:** go to (4)
 > **File Paths:** node.js (2), script.js (1)
@@ -937,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (4), pass (2), for. (1), else. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (12), [[HTML]] (7), hit (5), css (2), [[Automation]] (1)
 > **Code Identifiers:** lidopen (5), togglelid (5), lidstatus (3), updatebackpack (2), innerhtml (1)
 > **UI Navigation:** open the (5), go to (5), toggle (1)
 > **Env Vars:** html (7), css (2)
@@ -1067,7 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), return, (1), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), hit (4), [[ESLint]] (3), [[Debugging]] (2), css (1)
 > **Best Practices:** rule of thumb (2), best practice (1)
 > **Env Vars:** css (1), html (1)
 > **Tools:** vs code (2)
@@ -1125,17 +1125,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (6), web (2), [[React.js|React]] (1), data (1), dom (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** mdn (3), dom (1)
 > **Documentation:** mdn (3)
-> **Code Keywords:** this. (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - when (1)
 
 
 ### 2. Get Up and Running with JS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript in an HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980)
@@ -1182,9 +1182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (17), [[HTML]] (6)
 > **Env Vars:** html (6)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1), self (1), this, (1)
 > **Definitions:** is an  (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
@@ -1258,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), case, (1), else. (1), continue (1)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[HTML]] (5), css (2)
 > **File Paths:** index.html (3), script.js (2)
 > **Env Vars:** html (2), css (2)
 > **UI Navigation:** go to (4)
@@ -1344,7 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (6), continue (2), else. (1), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (21), [[HTML]] (10), [[Fetch]] (1)
 > **Env Vars:** html (10)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1448,8 +1448,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (13), [[Vanilla]] (2), [[HTML]] (1), feature (1), [[React.js|React]] (1)
 > **File Paths:** script.js (8), backpack.js (3), index.html (1)
-> **Code Keywords:** module (4), else, (1), let (1), class, (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -1460,7 +1460,7 @@ created: 2026-04-29
 
 ### 3. Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Objects: A practical introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=76281980)
@@ -1561,8 +1561,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[Programming]] (3)
 > **Definitions:** is a  (6), is an  (1)
-> **Code Keywords:** let (1), type. (1)
 > **Speakers:** - javascript (1)
 
 #### JavaScript objects: The code version
@@ -1642,8 +1642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (6), data (2)
 > **Code Identifiers:** lidstatus (4), lidopen (4), togglelid (1)
-> **Code Keywords:** function (5), this, (2), finally, (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Speakers:** - to (1)
 
@@ -1716,7 +1716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), case, (2), const (1), else, (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (5)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -1746,8 +1746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1816,7 +1816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), hit (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -1942,7 +1942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), pass (2), else. (2), break. (2)
+> **Frameworks & Libraries:** [[JavaScript]] (5), data (3)
 > **Code Identifiers:** straplength (6), pocketnum (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1984,6 +1984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - throughout (1)
@@ -2141,7 +2142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (29), pass (6), let (4), this, (2), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), data (1), hit (1)
 > **UI Navigation:** toggle (9)
 > **Definitions:** is a  (8), is called (1)
 > **File Paths:** script.js (1)
@@ -2175,7 +2176,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), function (1), this. (1)
 > **Speakers:** - before (1)
 
 #### Classes: Object blueprints
@@ -2355,7 +2355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (11), class, (3), finally, (2), case, (2), pass (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Programming]] (1), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **File Paths:** backpack.js (3), script.js (2), index.html (1)
 > **Definitions:** is a  (5), is called (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -2413,7 +2413,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), class, (1), let (1), class. (1), pass (1)
 > **Analogies:** just like (2)
 > **Prerequisites:** set up (1), required to (1)
 > **Code Identifiers:** togglelid (1)
@@ -2447,8 +2446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), feature (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** class. (1)
 > **Speakers:** - classes (1)
 
 #### Global objects
@@ -2522,7 +2521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), except, (1), this. (1), function (1)
+> **Frameworks & Libraries:** web (1), [[Search]] (1)
 > **Code Identifiers:** dateacquired (4), rightnow (3), todatestring (3), backpackage (3), everydaypackpack (1)
 > **Prerequisites:** set up (5)
 > **Env Vars:** utc (2), mdn (1), pst (1)
@@ -2588,7 +2587,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** isbn (7)
-> **Code Keywords:** finally, (2), function (1), pass (1), pub (1), let (1)
 > **Definitions:** is an  (1), refers to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2597,7 +2595,7 @@ created: 2026-04-29
 
 ### 4. Sidebar: String Output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mix text and variables with template literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980)
@@ -2758,9 +2756,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (22), [[JavaScript]] (18), [[Java]] (4), [[Document Object Model (DOM)|Document object model]] (3), css (2)
 > **Env Vars:** html (22), css (2), dot (1), php (1)
 > **Exercise Files:** template (13), exercise files (1)
-> **Code Keywords:** return. (2), else. (2), let (1), return, (1), this, (1)
 > **CLI Commands:** find (2), php (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
@@ -2838,8 +2836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3)
 > **Exercise Files:** template (9)
-> **Code Keywords:** this, (5), delete (1), else. (1)
 > **Env Vars:** html (3)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
@@ -2886,9 +2884,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), data (1)
 > **Code Identifiers:** cameraage (2), mycamera (2), camerastory (2), getcurrentyear (1)
 > **Exercise Files:** template (4)
-> **Code Keywords:** function (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -2986,7 +2984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (2), function (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (4)
 > **Code Identifiers:** mycamera (3)
 > **CLI Commands:** make (1)
@@ -2997,7 +2995,7 @@ created: 2026-04-29
 
 ### 5. DOM
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DOM: The Document Object Model
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980)
@@ -3080,8 +3078,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (2), [[Document Object Model (DOM)|Document object model]] (2), dom (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (7), make (2)
-> **Code Keywords:** let (2), for, (2)
 > **Env Vars:** html (2), dom (2)
 > **UI Navigation:** open the (2), go to (1)
 > **Analogies:** imagine (1), just like (1)
@@ -3213,8 +3211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (10), [[JavaScript]] (9), dom (5), [[HTML]] (4), node (4)
 > **Env Vars:** css (10), dom (5), html (3)
-> **Code Keywords:** let (7), return. (2), this. (2), this, (1), class. (1)
 > **CLI Commands:** node (4), find (2), make (1)
 > **Analogies:** just like (3)
 > **Exercise Files:** exercise files (1), template (1)
@@ -3259,9 +3257,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), node (1), [[HTML]] (1)
 > **Code Identifiers:** getelementsbyclassname (5), getelementbyid (1), getelementsbyid (1)
 > **CLI Commands:** find (3), node (1)
-> **Code Keywords:** pass (2), let (1), class. (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is an  (1)
@@ -3299,10 +3297,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (3), [[HTML]] (2), [[JavaScript]] (1), css (1), data (1)
 > **Env Vars:** dom (3), html (2), css (1)
 > **CLI Commands:** find (4), make (1)
 > **Code Identifiers:** queryselector (3), queryselectorall (2)
-> **Code Keywords:** else. (1), return. (1)
 > **File Paths:** script.js (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - traversing (1)
@@ -3408,7 +3406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), class. (3), return. (2), let (2), continue (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), dom (4), hit (4), css (1), [[HTML]] (1)
 > **UI Navigation:** toggle (3), go to (1)
 > **Env Vars:** css (1), html (1)
 > **Cross-References:** go back to (2)
@@ -3512,7 +3510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), return. (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (3), node (3), hit (3), [[JavaScript]] (2)
 > **Definitions:** is a  (3), is an  (3)
 > **CLI Commands:** node (3)
 > **Env Vars:** url (1)
@@ -3594,8 +3592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (14), hit (1)
 > **Env Vars:** css (14)
-> **Code Keywords:** let (3), for. (1), else. (1), this, (1), return. (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
@@ -3646,8 +3644,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), dom (2), css (1)
 > **Env Vars:** dom (2), css (1)
-> **Code Keywords:** class. (1), pass (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - being (1)
@@ -3769,10 +3767,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), dom (4), node (4), [[JavaScript]] (2), next (1)
 > **Env Vars:** html (7), dom (4)
 > **CLI Commands:** node (4), make (1)
 > **Exercise Files:** template (4), exercise files (1)
-> **Code Keywords:** let (1), this, (1), case, (1)
 > **Definitions:** is an  (3)
 > **Cross-References:** we covered (1)
 > **UI Navigation:** go to (1)
@@ -3813,8 +3811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (7), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** dom (7), html (1)
-> **Code Keywords:** class . (2), function (2), this. (1)
 > **Exercise Files:** template (2)
 > **Code Identifiers:** createnavmenu (1)
 > **Prerequisites:** set up (1)
@@ -3927,8 +3925,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (2), next (2), [[HTML]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** mainnav (4), navlist (3), createelement (1), innerhtml (1), navcontent (1)
-> **Code Keywords:** let (4), const (2), class. (1), this. (1), continue (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** html (2)
 > **Exercise Files:** template (1)
@@ -3939,7 +3937,7 @@ created: 2026-04-29
 
 ### 6. Sidebar: Variables and Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Variables: Containers for everything
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980)
@@ -3994,6 +3992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), data (1)
 > **Speakers:** - being (1)
 
 #### Var
@@ -4085,7 +4084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (14), return. (4), this, (1), this. (1), return, (1)
+> **Frameworks & Libraries:** hit (5), [[JavaScript]] (3), data (1), [[HTML]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -4191,7 +4190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), var (6), this, (4), let (2), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), web (1), css (1), [[HTML]] (1)
 > **Env Vars:** var (6), mdn (1), css (1), html (1)
 > **Definitions:** defined as (1), known as (1), is a  (1)
 > **Prerequisites:** set up (3)
@@ -4305,7 +4304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (7), var (3), this, (2), else, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Code Identifiers:** titlecolor (4)
 > **File Paths:** script.js (2)
 > **CLI Commands:** make (1)
@@ -4385,7 +4384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (10), let (4), function (2), protected (1)
+> **Frameworks & Libraries:** [[Programming]] (1), data (1)
 > **File Paths:** script.js (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
@@ -4442,7 +4441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case, (1), let (1)
+> **Frameworks & Libraries:** data (9), [[JavaScript]] (5), next (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
@@ -4573,7 +4572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (6), pass (1), match, (1), this, (1), else. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), next (1), data (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -4727,7 +4726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), pass (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), next (3), power (2)
 > **Versions:** 1.25 (1), 3.2 (1), 6.25 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (2)
@@ -4766,10 +4765,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** gst (2), pst (2)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Code Identifiers:** calculatetotal (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -4838,9 +4837,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), application (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gst (10), pst (8)
 > **Code Identifiers:** showtotals (4), beforetax (4), calculatetotal (3), taxgst (2), randomprices (1)
-> **Code Keywords:** function (3), return, (2), this, (1), let (1), finally, (1)
 > **Versions:** 3.99 (1), 4.51 (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -4850,7 +4849,7 @@ created: 2026-04-29
 
 ### 7. Arrays
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980)
@@ -4903,7 +4902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Programming]] (3), data (1), [[JavaScript]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** picture (1)
@@ -5000,7 +4999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1)
+> **Frameworks & Libraries:** data (6), [[Java]] (2), next (2)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -5171,7 +5170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), function (3), static (1), new. (1)
+> **Frameworks & Libraries:** web (2), [[JavaScript]] (1)
 > **Code Identifiers:** backpackcontents (5)
 > **CLI Commands:** find (2)
 > **Env Vars:** mdn (2)
@@ -5221,8 +5220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), next (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** finally, (1), function (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Env Vars:** usb (1)
 > **Definitions:** is an  (1)
@@ -5308,8 +5307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** newdeskarr (9), usbindex (3), indexof (2), laptopindex (2), processarray (1)
-> **Code Keywords:** case, (3), let (2), this, (1), else. (1), for, (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** usb (3)
 > **UI Navigation:** scroll down (1)
@@ -5320,7 +5319,7 @@ created: 2026-04-29
 
 ### 8. Functions and Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The real-world function
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/the-real-world-function?u=76281980)
@@ -5373,8 +5372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Programming]] (2), business (1), [[JavaScript]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** function (2), this. (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - sorting (1)
@@ -5532,7 +5531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (69), pass (7), const (4), finally, (2), for. (1)
+> **Frameworks & Libraries:** data (5), [[JavaScript]] (3), [[Scripting]] (1), [[Microsoft Word|Word]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** var (1), nan (1), iife (1)
 > **CLI Commands:** make (1)
@@ -5630,7 +5629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), pass (2), this, (1), finally, (1), return. (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), generic (1), data (1)
 > **Code Identifiers:** greenpack (3), addpack (2), currentpack (2), thearticle (2), createelement (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (3)
@@ -5747,7 +5746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), let (1), const (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), web (2)
 > **Code Identifiers:** currentpack (2), addpack (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mdn (2)
@@ -5856,7 +5855,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), this, (3), this. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** mdn (1)
 > **Documentation:** mdn (1)
@@ -5902,7 +5900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), this, (1), class, (1), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), dom (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** dom (1)
 > **Speakers:** - functions (1)
@@ -6052,7 +6050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), pass (12), let (7), else. (2), this. (2)
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (3)
 > **Versions:** 29.95 (2)
 > **Exercise Files:** template (1)
@@ -6211,7 +6209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), pass (16), let (3), const (1), else, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Env Vars:** cad (1), eur (1), nok (1), usd (1)
 > **Prerequisites:** set up (2)
 > **Exercise Files:** exercise files (1)
@@ -6265,7 +6263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), pass (2), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (4), [[JavaScript]] (2), [[Data Manipulation]] (1), [[HTML]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** uri (2)
 > **Definitions:** is a  (1), is called (1)
@@ -6355,7 +6353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (42), pass (8), this, (2), try. (1)
+> **Frameworks & Libraries:** [[HTML]] (14), data (2), [[JavaScript]] (2)
 > **Env Vars:** html (14), nok (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -6509,7 +6507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (4), pass (3), this. (2), this, (2)
+> **Frameworks & Libraries:** [[Programming]] (2), [[JavaScript]] (1), express (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
@@ -6585,7 +6583,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), if, (1), case, (1), this. (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -6729,7 +6726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (10), case, (7), let (5), case. (3), new, (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), hit (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** mdn (1)
 > **Documentation:** mdn (1)
@@ -6859,7 +6856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), pass (2), else. (1), for, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), hit (2), [[Functional Programming]] (1), next (1)
 > **Env Vars:** url (3)
 > **Prerequisites:** set up (2)
 > **Exercise Files:** exercise files (1)
@@ -6973,7 +6970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), for. (2), else. (1), let (1), const (1)
+> **Frameworks & Libraries:** data (2), [[JavaScript]] (2), [[React.js|React]] (1), dom (1)
 > **Code Identifiers:** stuffitems (5), listitem (1), indexhtml (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** dom (1)
@@ -7027,7 +7024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[HTML]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** everydaypack (3), frogpack (2), backpackobjectarray (1), backpackage (1), createbackupmarkup (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** html (2)
@@ -7157,7 +7154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), const (1), case. (1), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (8), data (1)
 > **Env Vars:** html (8)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (1), find (1)
@@ -7168,7 +7165,7 @@ created: 2026-04-29
 
 ### 9. Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DOM events explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980)
@@ -7213,6 +7210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), dom (1)
 > **Env Vars:** dom (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is called (1)
@@ -7307,7 +7305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), for, (2)
+> **Frameworks & Libraries:** [[JavaScript]] (1), web (1), functional (1), [[Document Object Model (DOM)|Document object model]] (1), dom (1)
 > **Code Identifiers:** pagex (2), pagey (2), classlist (1), posx (1), posy (1)
 > **Definitions:** is an  (7), is a  (3)
 > **Env Vars:** url (1), mdn (1), cla (1), dom (1)
@@ -7481,7 +7479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), const (2), let (1), for. (1), case, (1)
+> **Frameworks & Libraries:** dom (4), next (1), feature (1), [[HTML]] (1)
 > **UI Navigation:** click on (4), toggle (2), open the (2), scroll down (2), go to (1)
 > **Code Identifiers:** innertext (3), backpackarticle (2), queryselector (2), backpack_lid (2), addeventlistener (1)
 > **Prerequisites:** set up (5)
@@ -7521,8 +7519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (1), css (1)
 > **Env Vars:** css (1), mdn (1)
-> **Code Keywords:** else. (1)
 > **Documentation:** mdn (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** set up (1)
@@ -7697,7 +7695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (22), this. (7), let (3), pass (1), else. (1)
+> **Frameworks & Libraries:** database (2)
 > **Code Identifiers:** innertext (7)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** toggle (3), click on (1), open the (1), scroll up (1)
@@ -7796,7 +7794,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (26), pass (11), let (2), case, (1)
 > **Code Identifiers:** newarg (6)
 > **UI Navigation:** toggle (6)
 > **Prerequisites:** set up (4)
@@ -7851,6 +7848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (4), [[JavaScript]] (1), application (1), [[HTML]] (1), [[Forms]] (1)
 > **Env Vars:** dom (3), html (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
@@ -7966,8 +7964,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Forms]] (4), dom (2), web (1), [[JavaScript]] (1)
 > **Code Identifiers:** foreach (3), updateform (2), inputelement (2), getelementbyid (2), targetelement (2)
-> **Code Keywords:** function (3), const (2), let (1), from, (1), class, (1)
 > **Env Vars:** dom (2), html (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1), find (1)
@@ -7978,7 +7976,7 @@ created: 2026-04-29
 
 ### 10. Troubleshooting and Validating JS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshooting JavaScript in the browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/troubleshooting-javascript-in-the-browser?u=76281980)
@@ -8107,7 +8105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), this, (2), for. (1), const (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Troubleshooting]] (3), next (2)
 > **Code Identifiers:** listelement (3), straparray (2), newstraplength (1), foreach (1)
 > **UI Navigation:** click on (3), open the (2), go to (1)
 > **File Paths:** script.js (3)
@@ -8211,7 +8209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), class. (2), const (1), case, (1), pass (1)
+> **Frameworks & Libraries:** [[React.js|React]] (17), [[JavaScript]] (14), data (2), [[Vue.js|Vue]] (1), css (1)
 > **Definitions:** is an  (2), we call this (1), known as (1), is a  (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** imgwithclick (1), imgstyle (1), photoproptype (1), proptypes (1)
@@ -8223,7 +8221,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980)
@@ -8298,6 +8296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (19), web (4), [[HTML]] (3), css (2), data (2)
 > **Env Vars:** html (3), css (2), php (1), rest (1), mdn (1)
 > **CLI Commands:** php (1), make (1), go build (1)
 > **Code Identifiers:** jquery (1)
@@ -8305,7 +8304,6 @@ created: 2026-04-29
 > **Documentation:** mdn (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** the key is (1)
-> **Speakers:** - oh (1)
 
 
 ## Instructor

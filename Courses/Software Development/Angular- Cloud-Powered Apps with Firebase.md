@@ -31,7 +31,7 @@ tags:
   - skill/angular
   - skill/firebase
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular-%20Cloud-Powered%20Apps%20with%20Firebase.md)
@@ -50,53 +50,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Structuring your apps for the cloud
-  - What you should know
-  - Using the exercise files
+  - [Structuring your apps for the cloud](#structuring-your-apps-for-the-cloud)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Setting Up Your Development Environment**](#1-setting-up-your-development-environment) (4 videos)
-  - Installing tools and CLIs
-  - Generating an Angular application
-  - Overview of the Firebase console
-  - Configuring your web application
+  - [Installing tools and CLIs](#installing-tools-and-clis)
+  - [Generating an Angular application](#generating-an-angular-application)
+  - [Overview of the Firebase console](#overview-of-the-firebase-console)
+  - [Configuring your web application](#configuring-your-web-application)
 - [**2. Firebase Authentication**](#2-firebase-authentication) (6 videos)
-  - Firebase Authentication setup
-  - Creating users
-  - Displaying current user
-  - User logout
-  - User login
-  - Using Angular route guards
+  - [Firebase Authentication setup](#firebase-authentication-setup)
+  - [Creating users](#creating-users)
+  - [Displaying current user](#displaying-current-user)
+  - [User logout](#user-logout)
+  - [User login](#user-login)
+  - [Using Angular route guards](#using-angular-route-guards)
 - [**3. Storing and Syncing Data with Firebase Cloud Firestore**](#3-storing-and-syncing-data-with-firebase-cloud-firestore) (6 videos)
-  - Cloud Firestore intro
-  - Cloud Firestore setup
-  - Deploying security rules
-  - Creating documents
-  - Displaying user data
-  - Updating user documents
+  - [Cloud Firestore intro](#cloud-firestore-intro)
+  - [Cloud Firestore setup](#cloud-firestore-setup)
+  - [Deploying security rules](#deploying-security-rules)
+  - [Creating documents](#creating-documents)
+  - [Displaying user data](#displaying-user-data)
+  - [Updating user documents](#updating-user-documents)
 - [**4. Storing Files with Firebase Cloud Storage**](#4-storing-files-with-firebase-cloud-storage) (4 videos)
-  - Cloud Storage setup
-  - Cloud Storage security rules
-  - Profile image upload form
-  - Image uploads
+  - [Cloud Storage setup](#cloud-storage-setup)
+  - [Cloud Storage security rules](#cloud-storage-security-rules)
+  - [Profile image upload form](#profile-image-upload-form)
+  - [Image uploads](#image-uploads)
 - [**5. Control Access with Custom Claims and Security Rules**](#5-control-access-with-custom-claims-and-security-rules) (6 videos)
-  - Firebase ID tokens
-  - Setting Firebase custom claims
-  - Admin interface: Route guards, part 1
-  - Admin interface: Route guards, part 2
-  - Admin interface: View user collection
-  - Admin interface: View user profile
+  - [Firebase ID tokens](#firebase-id-tokens)
+  - [Setting Firebase custom claims](#setting-firebase-custom-claims)
+  - [Admin interface: Route guards, part 1](#admin-interface-route-guards-part-1)
+  - [Admin interface: Route guards, part 2](#admin-interface-route-guards-part-2)
+  - [Admin interface: View user collection](#admin-interface-view-user-collection)
+  - [Admin interface: View user profile](#admin-interface-view-user-profile)
 - [**6. Going Serverless with Firebase Cloud Functions**](#6-going-serverless-with-firebase-cloud-functions) (3 videos)
-  - Cloud Functions setup
-  - Cloud Functions: Email setup
-  - Cloud Functions: Authentication trigger
+  - [Cloud Functions setup](#cloud-functions-setup)
+  - [Cloud Functions: Email setup](#cloud-functions-email-setup)
+  - [Cloud Functions: Authentication trigger](#cloud-functions-authentication-trigger)
 - [**7. Control Access with Custom Claims and Security Rules**](#7-control-access-with-custom-claims-and-security-rules) (2 videos)
-  - Firebase Hosting setup
-  - Deploying your app
+  - [Firebase Hosting setup](#firebase-hosting-setup)
+  - [Deploying your app](#deploying-your-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring your apps for the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Firebase]] (12), [[Angular]] (4), cloud (4), [[Google]] (3), web (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -184,6 +184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (4), node (3), [[npm]] (3), [[Git]] (3), [[Angular CLI]] (2)
 > **CLI Commands:** node (3), npm (3), git (3), make (1)
 > **Tools:** terminal (2), zsh (2), visual studio (1), command prompt (1)
 > **Env Vars:** cli (2), zsh (1)
@@ -225,10 +226,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[npm]] (2), [[Git]] (1), data (1)
 > **CLI Commands:** npm (2), git (1)
 > **Exercise Files:** exercise file (1), download the (1), exercise files (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -236,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Development Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing tools and CLIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980)
@@ -297,11 +298,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (6), node (4), [[Angular CLI]] (4), [[Node.js]] (2), application (2)
 > **CLI Commands:** node (6), npm (6), sudo (1)
 > **Env Vars:** npm (5), cli (4), lts (1), nvm (1)
 > **Versions:** version 8 (2), 3.2 (2), 10.16.3 (1), version 6 (1), 9.0 (1)
 > **Prerequisites:** install (5)
-> **Code Keywords:** let (3)
 > **Tools:** command line (1), command prompt (1), terminal (1)
 > **File Paths:** node.js (2)
 > **Code Identifiers:** iterm2 (1)
@@ -355,7 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (3), new, (1)
+> **Frameworks & Libraries:** application (20), [[Angular]] (3), [[Routing]] (3), [[Angular CLI]] (2), [[CLI]] (1)
 > **Env Vars:** cli (3), sass (2)
 > **Tools:** command line (1), terminal (1), visual studio (1)
 > **File Paths:** package.json (1), main.ts (1)
@@ -425,8 +426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (24), [[Google]] (6), cloud (2), [[CLI]] (2), [[npm]] (2)
 > **Prerequisites:** install (3), configure (1)
-> **Code Keywords:** continue (2), finally, (1)
 > **CLI Commands:** npm (2)
 > **Env Vars:** cli (2)
 > **Tools:** terminal (1), command prompt (1)
@@ -516,7 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), module (2), import { (1), case, (1)
+> **Frameworks & Libraries:** [[Firebase]] (12), [[Angular]] (6), application (5), [[CLI]] (1), web application (1)
 > **Prerequisites:** install (6), setup (3), configure (1)
 > **Code Identifiers:** apikey (1), authdomain (1), databaseurl (1), projectid (1), messagingsenderid (1)
 > **CLI Commands:** make (2), git (1), find (1)
@@ -528,7 +529,7 @@ created: 2026-04-29
 
 ### 2. Firebase Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase Authentication setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980)
@@ -579,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (7), let (3)
+> **Frameworks & Libraries:** application (6), [[Angular]] (5), [[Forms]] (5), [[Firebase]] (2), css (2)
 > **Env Vars:** css (2), html (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Prerequisites:** set up (2)
@@ -703,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), module (2), pass (1), this, (1), private (1)
+> **Frameworks & Libraries:** [[Firebase]] (7), application (5), [[Forms]] (2), [[Angular]] (2), next (2)
 > **Code Identifiers:** ngform (4), onsubmit (2), ngmodel (2), firstname (2), lastname (2)
 > **Exercise Files:** template (3)
 > **CLI Commands:** npm (1), make (1)
@@ -782,7 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (2), module (1), async (1)
+> **Frameworks & Libraries:** application (4), [[Firebase]] (2), [[User Experience (UX)|User experience]] (1), [[CLI]] (1), [[Routing]] (1)
 > **Code Identifiers:** afauth (1), displayname (1)
 > **Env Vars:** cli (1), url (1)
 > **UI Navigation:** click on (1)
@@ -865,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), class= (1), private (1)
+> **Frameworks & Libraries:** application (4), [[Firebase]] (2), css (1), [[CLI]] (1)
 > **Code Identifiers:** isloggedin (2), afauth (1), currentuser (1), ngif (1)
 > **Definitions:** short for (2), is a  (1)
 > **Env Vars:** cli (1)
@@ -1010,7 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), delete (2), switch (1), const (1), module (1)
+> **Frameworks & Libraries:** application (6), css (1), [[Firebase]] (1), [[Angular]] (1), [[JSON]] (1)
 > **Env Vars:** ngf (2), css (1)
 > **Exercise Files:** template (3)
 > **File Paths:** angular.json (1)
@@ -1146,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), module (4), default, (1), protected (1), finally, (1)
+> **Frameworks & Libraries:** application (5), data (3), [[Angular]] (2), [[Routing]] (2), next (2)
 > **UI Navigation:** go to (8), navigate to (2)
 > **Code Identifiers:** canactivate (3), authguardpipe (2), onlyallowself (2), redirectunauthorizedtologin (1), redirectloggedintoprofile (1)
 > **Env Vars:** url (7), rxjs (1)
@@ -1156,7 +1157,7 @@ created: 2026-04-29
 
 ### 3. Storing and Syncing Data with Firebase Cloud Firestore
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Firestore intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980)
@@ -1209,7 +1210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** data (9), cloud (5), database (3), [[Firebase]] (1), [[NoSQL]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1255,7 +1256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), default, (1)
+> **Frameworks & Libraries:** data (5), [[Firebase]] (3), cloud (2), database (2), next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1362,7 +1363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), this. (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** [[Firebase]] (20), [[Security]] (10), cloud (4), database (3), [[CLI]] (3)
 > **Prerequisites:** install (4)
 > **Env Vars:** cli (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1486,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (3), interface (2), private (1), finally, (1)
+> **Frameworks & Libraries:** data (9), [[Angular]] (7), cloud (4), database (2), application (2)
 > **Code Identifiers:** createuserdocument (1), afauth (1)
 > **File Paths:** user-profile.model.ts (1)
 > **Definitions:** means that (1)
@@ -1561,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1), public (1), async (1)
+> **Frameworks & Libraries:** data (3), next (2), [[JSON]] (2), [[Angular]] (1), feature (1)
 > **Env Vars:** json (2), rxjs (1)
 > **Code Identifiers:** itemdoc (1), userprofile (1)
 > **Tools:** visual studio (1)
@@ -1736,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), async (2), this. (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** data (9), application (6), [[Firebase]] (4), next (2), css (1)
 > **Code Identifiers:** userprofile (5), ngmodel (3), updateuserdocument (3), ngform (2), parammap (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **UI Navigation:** open the (2)
@@ -1748,7 +1749,7 @@ created: 2026-04-29
 
 ### 4. Storing Files with Firebase Cloud Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Storage setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980)
@@ -1799,9 +1800,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (6), cloud (5), [[Security]] (3), [[CLI]] (2), next (2)
 > **UI Navigation:** click on (5)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** let (1), default, (1)
 > **Env Vars:** cli (2)
 > **File Paths:** firebase.json (1)
 > **Tools:** terminal (1)
@@ -1855,7 +1856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (2), let (2), interface (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), application (1), [[CLI]] (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** cli (1)
 > **Tools:** atom (1)
@@ -1954,7 +1955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12)
+> **Frameworks & Libraries:** [[Security]] (1), [[npm]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2), find (1), npm (1)
 > **Env Vars:** url (1), html (1)
 > **File Paths:** profile.component.scss (1)
@@ -2089,7 +2090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (2), async (2), class, (1), this. (1)
+> **Frameworks & Libraries:** application (3), [[Angular]] (3), next (3), [[Firebase]] (1)
 > **Code Identifiers:** uploadprogress (2), getdownloadurl (2), downloadurl (2), afstorage (1), filechange (1)
 > **Env Vars:** url (6), ngf (2)
 > **CLI Commands:** make (3)
@@ -2101,7 +2102,7 @@ created: 2026-04-29
 
 ### 5. Control Access with Custom Claims and Security Rules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase ID tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
@@ -2186,7 +2187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), module (1)
+> **Frameworks & Libraries:** data (2), [[Firebase]] (1), [[Angular CLI]] (1), [[Routing]] (1), [[Angular]] (1)
 > **Definitions:** short for (2)
 > **Env Vars:** cli (1)
 > **Speakers:** - now (1)
@@ -2292,7 +2293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), module (1), finally, (1), case, (1), async (1)
+> **Frameworks & Libraries:** application (3), [[User Experience (UX)|User experience]] (1), [[Routing]] (1)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** getidtokenresult (1)
 > **Speakers:** - [instructor] (1)
@@ -2424,7 +2425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), interface (1), type, (1), async (1), this. (1)
+> **Frameworks & Libraries:** data (7), cloud (4), next (3), application (3), [[Firebase]] (3)
 > **Env Vars:** mpm (7), afs (1)
 > **Code Identifiers:** userscollection (3), valuechanges (1), ngfor (1)
 > **File Paths:** package.json (1)
@@ -2486,7 +2487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1), self (1), case, (1)
+> **Frameworks & Libraries:** data (4), application (3), next (2), [[Routing]] (1), [[Firebase]] (1)
 > **URLs:** [tempmail.org](https://tempmail.org) (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -2494,7 +2495,7 @@ created: 2026-04-29
 
 ### 6. Going Serverless with Firebase Cloud Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Functions setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980)
@@ -2549,8 +2550,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Firebase]] (8), [[JavaScript]] (3), [[CLI]] (3), data (1)
 > **Env Vars:** cli (3), mpm (2), https (1), api (1), suk (1)
-> **Code Keywords:** let (2), default, (1), function (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2), set up (1)
 > **File Paths:** package.json (1), index.js (1)
@@ -2613,7 +2614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), case, (1)
+> **Frameworks & Libraries:** [[Firebase]] (5), cloud (4), [[Google]] (2), node (1), [[npm]] (1)
 > **CLI Commands:** node (1), npm (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (2)
@@ -2751,7 +2752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (11), require (2), pass (2), const (1)
+> **Frameworks & Libraries:** [[Firebase]] (5), next (5), cloud (5), node (3)
 > **CLI Commands:** node (3)
 > **URLs:** [gmail.com](https://gmail.com) (1)
 > **UI Navigation:** go to (1)
@@ -2760,7 +2761,7 @@ created: 2026-04-29
 
 ### 7. Control Access with Custom Claims and Security Rules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase Hosting setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980)
@@ -2811,7 +2812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (2), override (1)
+> **Frameworks & Libraries:** [[Firebase]] (4), cloud (3), application (3), [[npm]] (3), [[JSON]] (2)
 > **CLI Commands:** npm (3), make (1)
 > **File Paths:** package.json (1), index.html (1), firebase.json (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -2870,7 +2871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** [[Firebase]] (7), application (6), data (3), cloud (2), [[Security]] (1)
 > **Env Vars:** url (2)
 > **URLs:** [web.app](https://web.app) (1)
 > **Tools:** terminal (1)
@@ -2882,7 +2883,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980)
@@ -2907,10 +2908,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (3), [[Angular]] (2), [[GitHub]] (2), [[Google]] (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [github.com](https://github.com) (1), [twitter.com](https://twitter.com) (1)
 > **Tools:** github (2)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

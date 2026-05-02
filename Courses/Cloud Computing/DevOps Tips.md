@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/devops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/DevOps%20Tips.md)
@@ -51,33 +51,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - An introduction to DevOps Tips
+  - [An introduction to DevOps Tips](#an-introduction-to-devops-tips)
 - [**1. Soft Skills**](#1-soft-skills) (7 videos)
-  - Hiring for DevOps
-  - Upskilling your team
-  - Tips for working remotely
-  - Avoiding burnout
-  - Collaborating across teams
-  - Using ChatOps for automation
-  - Applying DevOps to boring technology
+  - [Hiring for DevOps](#hiring-for-devops)
+  - [Upskilling your team](#upskilling-your-team)
+  - [Tips for working remotely](#tips-for-working-remotely)
+  - [Avoiding burnout](#avoiding-burnout)
+  - [Collaborating across teams](#collaborating-across-teams)
+  - [Using ChatOps for automation](#using-chatops-for-automation)
+  - [Applying DevOps to boring technology](#applying-devops-to-boring-technology)
 - [**2. Technology**](#2-technology) (5 videos)
-  - Testing with infrastructure as code (IaC)
-  - An overview of microservices
-  - Prepping for on-call shifts
-  - Transitioning to serverless
-  - Practicing DevOps on databases
+  - [Testing with infrastructure as code (IaC)](#testing-with-infrastructure-as-code-iac)
+  - [An overview of microservices](#an-overview-of-microservices)
+  - [Prepping for on-call shifts](#prepping-for-on-call-shifts)
+  - [Transitioning to serverless](#transitioning-to-serverless)
+  - [Practicing DevOps on databases](#practicing-devops-on-databases)
 - [**3. Career Building**](#3-career-building) (5 videos)
-  - Starting a DevOps career from scratch
-  - Exploring developer roadmaps
-  - A deep dive into the DevOps roadmap
-  - To certify or not to certify
-  - Keeping up with the DevOps industry
+  - [Starting a DevOps career from scratch](#starting-a-devops-career-from-scratch)
+  - [Exploring developer roadmaps](#exploring-developer-roadmaps)
+  - [A deep dive into the DevOps roadmap](#a-deep-dive-into-the-devops-roadmap)
+  - [To certify or not to certify](#to-certify-or-not-to-certify)
+  - [Keeping up with the DevOps industry](#keeping-up-with-the-devops-industry)
 - [**Conclusion**](#conclusion) (1 videos)
-  - One last tip
+  - [One last tip](#one-last-tip)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to DevOps Tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980)
@@ -106,14 +106,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Soft Skills]] (2), [[LinkedIn]] (1), [[Jenkins]] (1), [[Software Development]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [michael] (1)
 
 
 ### 1. Soft Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hiring for DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980)
@@ -176,10 +176,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[DevOps]] (3), [[Orchestration]] (3), [[Virtualization]] (2), aws (2)
 > **CLI Commands:** aws (2), cd (1), terraform (1), ansible (1)
 > **Env Vars:** aws (2)
 > **Tools:** gitlab (1), github (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Upskilling your team
@@ -229,7 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), break. (1), let (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), teams (2), [[Microsoft Products|Products]] (2), [[DevOps]] (1), game (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -305,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Real-Time]] (2), [[DevOps]] (1), next (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** let (2)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Prerequisites:** you'll need (1), getting started (1)
 > **Speakers:** - [instructor] (1)
@@ -362,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), break, (1)
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -428,9 +428,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (10), product (4), application (3), [[Dashboards]] (2), [[DevOps]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** jira (1), slack (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -501,8 +501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), teams (3), [[DevOps]] (2), ci (2), [[Slack]] (1)
 > **Tools:** github (4), slack (1), gitlab (1)
-> **Code Keywords:** let (1), require (1), delete (1)
 > **Env Vars:** irc (1), rss (1), api (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** getting started (1), configure (1)
@@ -583,7 +583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), break. (1), else, (1)
+> **Frameworks & Libraries:** [[Automation]] (3), [[Security]] (2), [[DevOps]] (1), data (1), api (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1)
 > **Tools:** command line (1)
@@ -594,7 +594,7 @@ created: 2026-04-29
 
 ### 2. Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing with infrastructure as code (IaC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980)
@@ -661,8 +661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Terraform]] (3), web (2), [[Automation]] (2), [[Databases]] (1)
 > **CLI Commands:** terraform (3), make (1), curl (1), find (1)
-> **Code Keywords:** case, (2), let (1), pass (1)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** cicd (1)
 > **Definitions:** is a  (1)
@@ -743,7 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), require (1), self (1), interface (1)
+> **Frameworks & Libraries:** [[Microservices]] (10), application (9), data (5), web application (3), business (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** http (1)
 > **Cross-References:** we discussed (1)
@@ -824,8 +824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (2), teams (1), business (1), next (1)
 > **CLI Commands:** make (2), ssh (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** you'll need (2), make sure you have (1)
 > **Ports:** :00 (2)
 > **Env Vars:** ssh (1)
@@ -883,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (4), [[Serverless Computing]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), feature (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -937,9 +937,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[DevOps]] (5), [[Databases]] (5), application (4), data (3)
 > **CLI Commands:** make (2), terraform (1)
 > **Cross-References:** in the next (1), in the last (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** apm (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 ### 3. Career Building
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting a DevOps career from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980)
@@ -1001,8 +1001,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (9), career (2), next (2), [[Software Development]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** getting started (1)
@@ -1045,9 +1045,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (2), front-end (1)
 > **File Paths:** roadmap.sh (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### A deep dive into the DevOps roadmap
@@ -1117,12 +1117,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (9), cloud (4), ci (3), [[Programming]] (2), management (2)
 > **CLI Commands:** find (2), cd (2), python (1), ruby (1), node (1)
 > **Env Vars:** http (1), ssl (1), nginx (1), aws (1)
 > **Tools:** bash (1), github (1), gitlab (1)
 > **File Paths:** roadmap.sh (1), node.js (1)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -1173,8 +1173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), [[DevOps Tools]] (1), cloud (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -1228,15 +1228,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), cloud (3), product (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **CLI Commands:** find (2), aws (1)
 > **Env Vars:** rss (2), aws (1)
-> **Code Keywords:** interface (1), continue (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### One last tip
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980)
@@ -1261,6 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

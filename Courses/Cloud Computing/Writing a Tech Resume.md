@@ -41,7 +41,7 @@ tags:
   - skill/tech-career-skills
   - skill/resume-writing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Writing%20a%20Tech%20Resume.md)
@@ -60,45 +60,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why do you need a resume?
+  - [Why do you need a resume?](#why-do-you-need-a-resume)
 - [**1. Logistics of a Technical Resume**](#1-logistics-of-a-technical-resume) (3 videos)
-  - How hiring managers read your resume
-  - Resume length
-  - The difference between a resume and a CV
+  - [How hiring managers read your resume](#how-hiring-managers-read-your-resume)
+  - [Resume length](#resume-length)
+  - [The difference between a resume and a CV](#the-difference-between-a-resume-and-a-cv)
 - [**2. Resume Content**](#2-resume-content) (5 videos)
-  - Contact information
-  - Education
-  - Work experience
-  - Relevant skills
-  - Awards and certifications
+  - [Contact information](#contact-information)
+  - [Education](#education)
+  - [Work experience](#work-experience)
+  - [Relevant skills](#relevant-skills)
+  - [Awards and certifications](#awards-and-certifications)
 - [**3. Content Tips and Tricks**](#3-content-tips-and-tricks) (2 videos)
-  - The importance of word choice
-  - State your impact
+  - [The importance of word choice](#the-importance-of-word-choice)
+  - [State your impact](#state-your-impact)
 - [**4. Tools for Creating a Resume**](#4-tools-for-creating-a-resume) (3 videos)
-  - Word processors
-  - Resume builders
-  - Visual design tools
+  - [Word processors](#word-processors)
+  - [Resume builders](#resume-builders)
+  - [Visual design tools](#visual-design-tools)
 - [**5. Design Dos and Don'ts**](#5-design-dos-and-donts) (4 videos)
-  - Typography
-  - Color
-  - Layout
-  - File format
+  - [Typography](#typography)
+  - [Color](#color)
+  - [Layout](#layout)
+  - [File format](#file-format)
 - [**6. Should You Include...**](#6-should-you-include) (5 videos)
-  - Summary or objective
-  - Extracurricular activities or hobbies
-  - References
-  - Photo
-  - Graduation year
+  - [Summary or objective](#summary-or-objective)
+  - [Extracurricular activities or hobbies](#extracurricular-activities-or-hobbies)
+  - [References](#references)
+  - [Photo](#photo)
+  - [Graduation year](#graduation-year)
 - [**7. Having a Professional Online Presence**](#7-having-a-professional-online-presence) (3 videos)
-  - LinkedIn
-  - GitHub
-  - Personal portfolio or website
+  - [LinkedIn](#linkedin)
+  - [GitHub](#github)
+  - [Personal portfolio or website](#personal-portfolio-or-website)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with your resume
+  - [Next steps with your resume](#next-steps-with-your-resume)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do you need a resume?
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/why-do-you-need-a-resume?u=76281980)
@@ -143,15 +143,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Search]] (1)
 > **Non-Speech:** (gentle music) (3), (upbeat music) (3)
 > **Speakers:** - a (1), - hi (1), - so (1), - well (1)
-> **Code Keywords:** throw (1), let (1)
 > **Definitions:** is an  (1)
 
 
 ### 1. Logistics of a Technical Resume
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How hiring managers read your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980)
@@ -230,6 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (4), [[Representational State Transfer (REST)|Rest]] (1), career (1), feature (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -313,13 +314,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - when (1)
 
 
 ### 2. Resume Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Contact information
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980)
@@ -378,6 +380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [email.com](https://email.com) (1)
 > **Analogies:** for example (1)
@@ -454,7 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), for. (1), from, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Programming]] (1), [[Java]] (1)
 > **Env Vars:** gpa (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -517,9 +520,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[React.js|React]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - understanding (1)
 
 #### Relevant skills
@@ -581,6 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[Soft Skills]] (2), [[Programming]] (2), [[JavaScript]] (2), leadership (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** find (1), ruby (1)
 > **Best Practices:** rule of thumb (1), you should never (1)
@@ -621,7 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** ibm (1)
 > **Analogies:** such as (1)
 > **Speakers:** - awards (1)
@@ -629,7 +633,7 @@ created: 2026-04-29
 
 ### 3. Content Tips and Tricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of word choice
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980)
@@ -706,9 +710,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), leadership (1), data (1), [[Statistics]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** for. (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - when (1)
 
@@ -749,9 +753,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), product (1), seo (1), [[Search]] (1)
 > **Env Vars:** w3c (1), seo (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Documentation:** w3c (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - one (1)
@@ -759,7 +763,7 @@ created: 2026-04-29
 
 ### 4. Tools for Creating a Resume
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Word processors
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980)
@@ -818,12 +822,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[Google]] (5), application (3), [[Microsoft Word]] (3), [[Search]] (2)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** template (2)
 > **Prerequisites:** you'll need (1), getting started (1)
-> **Code Keywords:** while. (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Analogies:** for example (1)
 
@@ -878,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (1), [[LinkedIn]] (1), data (1)
 > **URLs:** [resume.io](https://resume.io) (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - resume (1)
@@ -918,15 +922,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Typography]] (1), [[Microsoft Word|Word]] (1), application (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from, (1)
 > **Tools:** figma (1)
 > **Speakers:** - visual (1)
 
 
 ### 5. Design Dos and Don'ts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Typography
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980)
@@ -1001,7 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), from. (1)
+> **Frameworks & Libraries:** [[Typography]] (5), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - typography (1)
 
@@ -1060,8 +1064,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** interface (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - a (1)
 
@@ -1141,6 +1145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pdf (4), doc (4), docx (4)
 > **Best Practices:** recommended (1)
 > **Speakers:** - once (1)
@@ -1148,7 +1153,7 @@ created: 2026-04-29
 
 ### 6. Should You Include...
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary or objective
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980)
@@ -1183,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include. (1)
+> **Frameworks & Libraries:** [[Java]] (3), career (1), application (1), [[Programming]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - several (1)
 
@@ -1212,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), leadership (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - your (1)
@@ -1252,6 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - it (1)
 
@@ -1278,7 +1284,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1)
 > **Best Practices:** bad practice (1)
 > **Speakers:** - many (1)
 
@@ -1304,7 +1309,7 @@ created: 2026-04-29
 
 ### 7. Having a Professional Online Presence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/linkedin?u=76281980)
@@ -1355,6 +1360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (12), [[Professional Networking]] (2), [[Search]] (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** you should always (1)
 > **Speakers:** - linkedin (1)
@@ -1382,6 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[React.js|React]] (1)
 > **Tools:** github (5)
 > **Analogies:** for example (1)
 > **Speakers:** - github (1)
@@ -1411,7 +1418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Front-End Development]] (1), web (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - creating (1)
@@ -1419,7 +1426,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980)
@@ -1440,6 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - you (1)
 
 

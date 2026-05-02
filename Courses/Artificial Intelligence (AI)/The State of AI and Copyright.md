@@ -31,7 +31,7 @@ tags:
   - skill/copyright-law
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20State%20of%20AI%20and%20Copyright.md)
@@ -50,22 +50,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Understanding the state of AI and copyright
+  - [Understanding the state of AI and copyright](#understanding-the-state-of-ai-and-copyright)
 - [**1. Excerpts from the Conversation**](#1-excerpts-from-the-conversation) (10 videos)
-  - Introductions
-  - Does the doctrine of fair use apply when training AI models?
-  - Are there any international bodies governing the use of AI?
-  - What can creators do to protect their work from being used for AI training?
-  - Can we detect when AI has been used?
-  - What are some of the jurisdictional differences in ownership rights?
-  - Is there copyright protection for purely AI-generated content?
-  - In what ways can regulations shape the future of GenAI?
-  - What's the legal difference between a human creating derivative work and an AI creating derivative work?
-  - What are some resources for learning more about AI and copyright issues?
+  - [Introductions](#introductions)
+  - [Does the doctrine of fair use apply when training AI models?](#does-the-doctrine-of-fair-use-apply-when-training-ai-models)
+  - [Are there any international bodies governing the use of AI?](#are-there-any-international-bodies-governing-the-use-of-ai)
+  - [What can creators do to protect their work from being used for AI training?](#what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training)
+  - [Can we detect when AI has been used?](#can-we-detect-when-ai-has-been-used)
+  - [What are some of the jurisdictional differences in ownership rights?](#what-are-some-of-the-jurisdictional-differences-in-ownership-rights)
+  - [Is there copyright protection for purely AI-generated content?](#is-there-copyright-protection-for-purely-ai-generated-content)
+  - [In what ways can regulations shape the future of GenAI?](#in-what-ways-can-regulations-shape-the-future-of-genai)
+  - [What's the legal difference between a human creating derivative work and an AI creating derivative work?](#whats-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work)
+  - [What are some resources for learning more about AI and copyright issues?](#what-are-some-resources-for-learning-more-about-ai-and-copyright-issues)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the state of AI and copyright
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980)
@@ -90,6 +90,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), prompt (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** wlg (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - as (1)
@@ -97,7 +98,7 @@ created: 2026-04-29
 
 ### 1. Excerpts from the Conversation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introductions
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980)
@@ -162,9 +163,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Speech Recognition]] (1), [[Copyright Law]] (1), open-source (1)
 > **Speakers:** - sure (2), - all (1), - there (1)
 > **Analogies:** for example (1), similar to (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** wlg (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is called (1)
@@ -232,9 +233,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), data (2), web (1)
 > **Speakers:** - we (1), - it (1), - yeah (1), - no (1), - matt (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** super (1)
 
 #### Are there any international bodies governing the use of AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980)
@@ -331,8 +332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (2), [[Microsoft Office|Office]] (2), [[Generative AI]] (1), [[Copyright Law]] (1)
 > **Speakers:** - and (3), - so (3), - yeah (2), - the (1), - it (1)
-> **Code Keywords:** case. (1), this. (1), public (1), if, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), such as (1)
@@ -427,12 +428,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (2), [[Copyright Law]] (1), [[Blockchain]] (1), web (1)
 > **Speakers:** - [jen] (2), - it (1), - okay (1), - provenance (1), - that (1)
 > **Env Vars:** cbot (1), laion (1)
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** robots.txt (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 
 #### Can we detect when AI has been used?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980)
@@ -519,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (5), [[Generative AI]] (2), [[Databases]] (2), [[ChatGPT]] (1)
 > **Speakers:** - yeah (4), - but (1), - yes (1), - oh (1), - i (1)
-> **Code Keywords:** case, (1), public (1)
 > **CLI Commands:** find (1)
 > **Analogies:** it's like (1)
 
@@ -591,8 +592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Midjourney]] (3), [[Microsoft Office|Office]] (3), ai (2), [[Generative AI]] (2)
 > **Speakers:** - yeah (3), - would (1), - ownership (1), - so (1), - as (1)
-> **Code Keywords:** let (2), protected (1), public (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (2)
 
@@ -743,9 +744,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (1), [[DALL-E]] (1), prompt (1), cd (1)
 > **Speakers:** - yeah (7), - so (3), - okay (2), - i (1), - thinking (1)
 > **CLI Commands:** make (4), cd (1)
-> **Code Keywords:** self (1), protected (1), let (1), pass (1)
 > **Env Vars:** dall (1), vhs (1), mp3 (1)
 > **Analogies:** just like (1), such as (1), for example (1)
 > **UI Navigation:** go to (1)
@@ -897,8 +898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Generative AI]] (3), product (1)
 > **Speakers:** - i (4), - mm (2), - yeah (2), - and (1), - absolutely (1)
-> **Code Keywords:** self (2), public (1), let (1), case. (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** cgi (1)
@@ -983,8 +984,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), ai (3), [[Copyright Law]] (3), data (3), [[Hardware]] (1)
 > **Speakers:** - you (2), - i (2), - yeah (1), - [jenny (1), - that (1)
-> **Code Keywords:** else, (1), let (1), for. (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 
@@ -1033,6 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Microsoft Office|Office]] (4), [[Generative AI]] (2), business (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Speakers:** - yeah (2), - in (1), - i (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gbt (1)

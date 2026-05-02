@@ -34,7 +34,7 @@ tags:
   - skill/data-preparation
   - skill/data-storage
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Data%20Planning%20Strategy%20And%20Compliance%20For%20Ai%20Initiatives.md)
@@ -53,71 +53,71 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to this course
-  - Things you should know
+  - [Welcome to this course](#welcome-to-this-course)
+  - [Things you should know](#things-you-should-know)
 - [**1. Data Collection Fundamentals**](#1-data-collection-fundamentals) (6 videos)
-  - Identifying data sources
-  - Structured, semi-structured, and unstructured data collection
-  - Data sampling techniques and statistical considerations
-  - Workflows for automated data collection
-  - Challenge: Identify relevant data collection metrics
-  - Solution: Identify relevant data collection metrics
+  - [Identifying data sources](#identifying-data-sources)
+  - [Structured, semi-structured, and unstructured data collection](#structured-semi-structured-and-unstructured-data-collection)
+  - [Data sampling techniques and statistical considerations](#data-sampling-techniques-and-statistical-considerations)
+  - [Workflows for automated data collection](#workflows-for-automated-data-collection)
+  - [Challenge: Identify relevant data collection metrics](#challenge-identify-relevant-data-collection-metrics)
+  - [Solution: Identify relevant data collection metrics](#solution-identify-relevant-data-collection-metrics)
 - [**2. Data Quality Frameworks**](#2-data-quality-frameworks) (5 videos)
-  - Data quality metrics
-  - Data validation and verification procedures
-  - Error detection and correction methodologies
-  - Challenge: Data quality assessment
-  - Solution: Data quality assessment
+  - [Data quality metrics](#data-quality-metrics)
+  - [Data validation and verification procedures](#data-validation-and-verification-procedures)
+  - [Error detection and correction methodologies](#error-detection-and-correction-methodologies)
+  - [Challenge: Data quality assessment](#challenge-data-quality-assessment)
+  - [Solution: Data quality assessment](#solution-data-quality-assessment)
 - [**3. Data Preparation**](#3-data-preparation) (6 videos)
-  - Data normalization and standardization
-  - Handling missing data and outliers
-  - Data augmentation techniques
-  - Feature engineering and selection
-  - Challenge: Engineer features
-  - Solution: Engineer features
+  - [Data normalization and standardization](#data-normalization-and-standardization)
+  - [Handling missing data and outliers](#handling-missing-data-and-outliers)
+  - [Data augmentation techniques](#data-augmentation-techniques)
+  - [Feature engineering and selection](#feature-engineering-and-selection)
+  - [Challenge: Engineer features](#challenge-engineer-features)
+  - [Solution: Engineer features](#solution-engineer-features)
 - [**4. AI Storage Systems**](#4-ai-storage-systems) (5 videos)
-  - Types of storage systems: Object storage
-  - Types of storage systems: Block and file storage
-  - Types of storage systems: Databases
-  - Challenge: Storage system selection
-  - Solution: Storage system selection
+  - [Types of storage systems: Object storage](#types-of-storage-systems-object-storage)
+  - [Types of storage systems: Block and file storage](#types-of-storage-systems-block-and-file-storage)
+  - [Types of storage systems: Databases](#types-of-storage-systems-databases)
+  - [Challenge: Storage system selection](#challenge-storage-system-selection)
+  - [Solution: Storage system selection](#solution-storage-system-selection)
 - [**5. AI Processing Infrastructure**](#5-ai-processing-infrastructure) (5 videos)
-  - Batch processing systems
-  - Stream processing systems
-  - Scaling AI processing
-  - Challenge: Choosing a framework
-  - Solution: Choosing a framework
+  - [Batch processing systems](#batch-processing-systems)
+  - [Stream processing systems](#stream-processing-systems)
+  - [Scaling AI processing](#scaling-ai-processing)
+  - [Challenge: Choosing a framework](#challenge-choosing-a-framework)
+  - [Solution: Choosing a framework](#solution-choosing-a-framework)
 - [**6. Optimizing AI Process Workflows**](#6-optimizing-ai-process-workflows) (5 videos)
-  - Metadata management
-  - Feature stores
-  - Caching
-  - Challenge: Feature store capabilities
-  - Solution: Feature store capabilities
+  - [Metadata management](#metadata-management)
+  - [Feature stores](#feature-stores)
+  - [Caching](#caching)
+  - [Challenge: Feature store capabilities](#challenge-feature-store-capabilities)
+  - [Solution: Feature store capabilities](#solution-feature-store-capabilities)
 - [**7. Real-Time Data Processing for AI Applications**](#7-real-time-data-processing-for-ai-applications) (5 videos)
-  - Event-driven architectures
-  - Real-time data integration patterns
-  - Monitoring and alerting systems
-  - Challenge: Architecture patterns
-  - Solution: Architecture patterns
+  - [Event-driven architectures](#event-driven-architectures)
+  - [Real-time data integration patterns](#real-time-data-integration-patterns)
+  - [Monitoring and alerting systems](#monitoring-and-alerting-systems)
+  - [Challenge: Architecture patterns](#challenge-architecture-patterns)
+  - [Solution: Architecture patterns](#solution-architecture-patterns)
 - [**8. Secure Data Management for AI Implementation**](#8-secure-data-management-for-ai-implementation) (6 videos)
-  - Security compliance and regulation
-  - Privacy-preserving AI methods
-  - Data governance frameworks
-  - Audit trails and logging
-  - Challenge: Privacy-preserving methods
-  - Solution: Privacy-preserving methods
+  - [Security compliance and regulation](#security-compliance-and-regulation)
+  - [Privacy-preserving AI methods](#privacy-preserving-ai-methods)
+  - [Data governance frameworks](#data-governance-frameworks)
+  - [Audit trails and logging](#audit-trails-and-logging)
+  - [Challenge: Privacy-preserving methods](#challenge-privacy-preserving-methods)
+  - [Solution: Privacy-preserving methods](#solution-privacy-preserving-methods)
 - [**9. Ethical Considerations**](#9-ethical-considerations) (5 videos)
-  - AI ethics and responsible data use
-  - Transparency and explainability
-  - Ethical guidelines and standards
-  - Challenge: Ethical principles
-  - Solution: Ethical principles
+  - [AI ethics and responsible data use](#ai-ethics-and-responsible-data-use)
+  - [Transparency and explainability](#transparency-and-explainability)
+  - [Ethical guidelines and standards](#ethical-guidelines-and-standards)
+  - [Challenge: Ethical principles](#challenge-ethical-principles)
+  - [Solution: Ethical principles](#solution-ethical-principles)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/welcome-to-this-course?u=76281980)
@@ -136,7 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), data (3), application (1)
 > **Speakers:** - [dan] (1)
 
 #### Things you should know
@@ -160,12 +160,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Application Development]] (2), ai (1), business (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Data Collection Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980)
@@ -270,8 +271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (34), ai (8), [[Privacy]] (4), business (2), application (2)
 > **Warnings:** be careful (3), keep in mind (2), watch out (2), be aware (1)
-> **Code Keywords:** public (2), let (1), for, (1), finally, (1)
 > **Analogies:** for example (2), such as (2)
 > **Env Vars:** gdpr (1), hipaa (1), fcra (1)
 > **CLI Commands:** make (2)
@@ -376,10 +377,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Unstructured Data]] (9), product (4), business (4), database (3)
 > **Env Vars:** csv (1), json (1), xml (1), crm (1), erp (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -478,9 +479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), business (4), ai (3), [[Probability]] (1), power (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** require (3)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (1), be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -570,7 +571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), override (1)
+> **Frameworks & Libraries:** data (32), ai (3), business (3), [[Metadata]] (2), [[Troubleshooting]] (2)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1)
@@ -587,6 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -605,6 +607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (1), ai (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
@@ -612,7 +615,7 @@ created: 2026-04-29
 
 ### 2. Data Quality Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data quality metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980)
@@ -683,9 +686,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (5), [[Microsoft Products|Products]] (5), ai (1), product (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (1), pass (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -743,6 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), business (4), product (4), [[Automation]] (1), teams (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -816,9 +820,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (4), [[Analytics]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** iqr (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
@@ -832,6 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -844,13 +849,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. Data Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data normalization and standardization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980)
@@ -955,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), case, (1), require (1)
+> **Frameworks & Libraries:** data (19), product (3), [[Microsoft Products|Products]] (2), application (2), business (2)
 > **Analogies:** for example (4), imagine (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1073,8 +1079,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), business (4), ai (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), this. (1), break. (1), delete (1), finally, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (3)
 > **Warnings:** be careful (2)
@@ -1173,8 +1179,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Generative AI]] (2), ai (2), business (1), [[Forms]] (1)
 > **Analogies:** for example (5), such as (1)
-> **Code Keywords:** this. (1), let (1), delete (1), case, (1), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** smote (2)
 > **Definitions:** is a  (2)
@@ -1280,7 +1286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), function (1), type, (1), case, (1)
+> **Frameworks & Libraries:** feature (9), data (9), [[Feature Engineering]] (6), [[Microsoft Products|Products]] (3), business (3)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (1), is called (1), known as (1)
 > **Analogies:** for example (1), such as (1)
@@ -1296,6 +1302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [narrator] (1)
 
 #### Solution: Engineer features
@@ -1323,6 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (uplifting music) (1)
@@ -1330,7 +1338,7 @@ created: 2026-04-29
 
 ### 4. AI Storage Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of storage systems: Object storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980)
@@ -1415,8 +1423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), ai (4), [[Metadata]] (4), cloud (3), management (3)
 > **Env Vars:** http (2)
-> **Code Keywords:** self (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1497,8 +1505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (8), [[Google]] (2), aws (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** nfs (1), smb (1), san (1), aws (1), ebs (1)
-> **Code Keywords:** let (1), require (1)
 > **CLI Commands:** aws (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -1647,8 +1655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Databases]] (21), database (15), ai (7), [[Relational Databases]] (6)
 > **Definitions:** is a  (5), stands for (1), is an  (1), known as (1)
-> **Code Keywords:** let (1), require (1), case. (1), self (1), finally, (1)
 > **CLI Commands:** make (3), mysql (1)
 > **Env Vars:** sql (2), acid (1)
 > **Analogies:** for example (2)
@@ -1666,6 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (intriguing music) (1)
 
@@ -1682,13 +1691,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (2), data (1), feature (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 5. AI Processing Infrastructure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch processing systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980)
@@ -1759,9 +1769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Batch Processing]] (21), data (9), ai (4), etl (1), [[Feature Engineering]] (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** etl (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1878,8 +1888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), ai (3), business (3), [[Batch Processing]] (2), [[Real-Time]] (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** finally, (2), for, (1), self (1), case, (1)
 > **Definitions:** known as (2), is an  (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2015,9 +2025,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (6), cloud (4), application (3), [[Hardware]] (3)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (4)
-> **Code Keywords:** require (1), finally, (1)
 > **Env Vars:** cpu (1), iops (1)
 > **Definitions:** is called (1), known as (1)
 > **Cross-References:** we mentioned (1)
@@ -2032,6 +2042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), data (1)
 > **Speakers:** - [narrator] (1)
 
 #### Solution: Choosing a framework
@@ -2045,13 +2056,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Batch Processing]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
 
 
 ### 6. Optimizing AI Process Workflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Metadata management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980)
@@ -2142,6 +2154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (30), data (14), ai (9), management (5), business (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
@@ -2234,7 +2247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** feature (27), data (6), teams (3), [[Microsoft Products|Products]] (3), ai (2)
 > **Env Vars:** api (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -2304,8 +2317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (3), feature (2), application (2), node (1)
 > **CLI Commands:** find (1), node (1)
-> **Code Keywords:** for, (1), if, (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2320,6 +2333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), feature (1)
 > **Speakers:** - [narrator] (1)
 
 #### Solution: Feature store capabilities
@@ -2335,6 +2349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Resiliency]] (1), ai (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2342,7 +2357,7 @@ created: 2026-04-29
 
 ### 7. Real-Time Data Processing for AI Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Event-driven architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980)
@@ -2451,8 +2466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), ai (3), [[Real-Time]] (3), [[Design Patterns]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), continue (1), type. (1)
 > **Definitions:** is a  (2), basically means (1)
 > **Analogies:** for example (3)
 > **Warnings:** troubleshoot (1)
@@ -2547,9 +2562,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (40), [[Real-Time]] (14), database (7), api (4), ai (3)
 > **Env Vars:** cdc (5), api (4), etl (2)
 > **CLI Commands:** make (8), apache (1), find (1)
-> **Code Keywords:** let (3), interface (1), finally, (1)
 > **Definitions:** is a  (1), is called (1), known as (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -2663,7 +2678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), self (1), continue (1)
+> **Frameworks & Libraries:** ai (6), business (6), data (5), [[Dashboards]] (3), [[Security]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1), kpi (1)
@@ -2679,6 +2694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), [[Real-Time]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2693,6 +2709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Databases]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Non-Speech:** (low rhythmic music) (1), (low rhythmic music ending) (1)
 > **Env Vars:** cdc (1)
 > **Speakers:** - [instructor] (1)
@@ -2700,7 +2717,7 @@ created: 2026-04-29
 
 ### 8. Secure Data Management for AI Implementation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security compliance and regulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980)
@@ -2805,10 +2822,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (11), [[Security]] (8), [[Privacy]] (3), management (3)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gdpr (1), hipaa (1), fcra (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** protected (1), require (1)
 > **Speakers:** - [narrator] (1)
 
 #### Privacy-preserving AI methods
@@ -2888,9 +2905,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (20), data (14), ai (4), [[Traditional AI]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (3), known as (2), is called (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** require (1), protected (1), private (1)
 > **Analogies:** for example (2), kind of like (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Best Practices:** good practice (1)
@@ -2981,7 +2998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), implements (1), let (1)
+> **Frameworks & Libraries:** data (24), business (10), [[Security]] (3), management (3), [[Metadata]] (2)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -3056,6 +3073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (4), ai (2), [[Regulatory Compliance]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (1)
@@ -3074,6 +3092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (2), data (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
@@ -3092,6 +3111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -3099,7 +3119,7 @@ created: 2026-04-29
 
 ### 9. Ethical Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI ethics and responsible data use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980)
@@ -3160,8 +3180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (5), [[Accountability]] (2), [[Responsible AI]] (1), [[Building Trust]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), finally, (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -3273,7 +3293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), function (1), case. (1), require (1), case, (1)
+> **Frameworks & Libraries:** ai (7), business (2), [[Neural Networks]] (1), [[Accountability]] (1), data (1)
 > **Analogies:** for example (4), such as (1), imagine (1)
 > **Env Vars:** gdpr (1), lime (1), shap (1)
 > **Definitions:** is a  (1)
@@ -3370,9 +3390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Ethics]] (7), teams (3), [[Microsoft]] (1), [[Responsible AI]] (1)
 > **Env Vars:** ieee (1), oecd (1), unesco (1), ibm (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), finally, (1), abstract (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (1)
@@ -3404,15 +3424,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Decision-Making]] (1), ai (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/next-steps?u=76281980)
@@ -3427,7 +3447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), function (1), finally, (1)
+> **Frameworks & Libraries:** ai (3), data (2), [[Feature Engineering]] (1), business (1)
 > **Speakers:** - [instructor] (1)
 
 

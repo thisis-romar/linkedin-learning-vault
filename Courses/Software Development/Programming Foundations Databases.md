@@ -38,7 +38,7 @@ tags:
   - skill/database-development
   - skill/programming-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations%20Databases.md)
@@ -57,54 +57,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Why use a database?
-  - What you should know
-  - Understanding databases: Benefits of spreadsheets
-  - Understanding databases: Benefits of structured data
+  - [Why use a database?](#why-use-a-database)
+  - [What you should know](#what-you-should-know)
+  - [Understanding databases: Benefits of spreadsheets](#understanding-databases-benefits-of-spreadsheets)
+  - [Understanding databases: Benefits of structured data](#understanding-databases-benefits-of-structured-data)
 - [**1. Database Foundations**](#1-database-foundations) (5 videos)
-  - Relational databases
-  - Keys and unique values
-  - Relationships
-  - ACID and transactions
-  - Basic SQL
+  - [Relational databases](#relational-databases)
+  - [Keys and unique values](#keys-and-unique-values)
+  - [Relationships](#relationships)
+  - [ACID and transactions](#acid-and-transactions)
+  - [Basic SQL](#basic-sql)
 - [**2. Tables**](#2-tables) (5 videos)
-  - Modeling and planning a database
-  - Naming tables
-  - Columns and data types
-  - Numbers and other types
-  - Primary and foreign keys
+  - [Modeling and planning a database](#modeling-and-planning-a-database)
+  - [Naming tables](#naming-tables)
+  - [Columns and data types](#columns-and-data-types)
+  - [Numbers and other types](#numbers-and-other-types)
+  - [Primary and foreign keys](#primary-and-foreign-keys)
 - [**3. Relationships**](#3-relationships) (5 videos)
-  - Creating relationships
-  - One-to-many relationships
-  - Many-to-many relationships
-  - One-to-one relationships
-  - Relationship rules and referential integrity
+  - [Creating relationships](#creating-relationships)
+  - [One-to-many relationships](#one-to-many-relationships)
+  - [Many-to-many relationships](#many-to-many-relationships)
+  - [One-to-one relationships](#one-to-one-relationships)
+  - [Relationship rules and referential integrity](#relationship-rules-and-referential-integrity)
 - [**4. Database Optimization**](#4-database-optimization) (5 videos)
-  - Normalization
-  - First normal form
-  - Second normal form
-  - Third normal form
-  - Denormalization
+  - [Normalization](#normalization)
+  - [First normal form](#first-normal-form)
+  - [Second normal form](#second-normal-form)
+  - [Third normal form](#third-normal-form)
+  - [Denormalization](#denormalization)
 - [**5. Querying a Database**](#5-querying-a-database) (8 videos)
-  - Creating a database
-  - Creating tables
-  - Writing SQL queries
-  - Narrowing query results
-  - Sorting results
-  - Aggregate functions
-  - Joining tables
-  - Modifying data
+  - [Creating a database](#creating-a-database)
+  - [Creating tables](#creating-tables)
+  - [Writing SQL queries](#writing-sql-queries)
+  - [Narrowing query results](#narrowing-query-results)
+  - [Sorting results](#sorting-results)
+  - [Aggregate functions](#aggregate-functions)
+  - [Joining tables](#joining-tables)
+  - [Modifying data](#modifying-data)
 - [**6. Further Database Topics**](#6-further-database-topics) (3 videos)
-  - Indexes, transactions, and stored procedures
-  - Access control, compliance, and injection
-  - Software options
+  - [Indexes, transactions, and stored procedures](#indexes-transactions-and-stored-procedures)
+  - [Access control, compliance, and injection](#access-control-compliance-and-injection)
+  - [Software options](#software-options)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980)
@@ -137,8 +137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (3), data (2), database (2), [[Relational Databases]] (2), [[Security]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - databases (1)
 
@@ -161,6 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Databases]] (2), management (1), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Env Vars:** dbms (2), sql (1)
 > **Prerequisites:** before we start (1)
@@ -209,7 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), throw (1)
+> **Frameworks & Libraries:** data (10), database (2), business (1), [[Databases]] (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - a (1)
@@ -255,6 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (5), [[Databases]] (3)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1)
@@ -264,7 +266,7 @@ created: 2026-04-29
 
 ### 1. Database Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980)
@@ -317,8 +319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[Databases]] (3), data (3), [[Neo4j]] (1), [[MongoDB]] (1)
 > **Definitions:** is an  (2), is called (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
@@ -383,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), match. (1), this, (1)
+> **Frameworks & Libraries:** database (7), data (2), [[Jenkins]] (1), power (1), [[Databases]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Env Vars:** dbms (2)
 > **Prerequisites:** you'll need (1)
@@ -440,7 +442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1)
+> **Frameworks & Libraries:** data (6), database (5), [[Databases]] (1)
 > **Env Vars:** dbms (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -505,11 +507,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (4), power (1), [[Microsoft Word|Word]] (1), management (1)
 > **Definitions:** means that (4), is a  (1)
 > **Env Vars:** acid (3), dbms (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - the (1)
 
@@ -590,8 +592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (19), database (14), data (10), management (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (22), dbms (5), ansi (2), dml (2), ddl (2)
-> **Code Keywords:** extends (1), let (1), return, (1), from. (1), delete (1)
 > **Definitions:** is called (2), stands for (1)
 > **Cross-References:** later in (2)
 > **CLI Commands:** mysql (1)
@@ -602,7 +604,7 @@ created: 2026-04-29
 
 ### 2. Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling and planning a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/modeling-and-planning-a-database?u=76281980)
@@ -665,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** database (8)
 > **Env Vars:** dbms (1)
 > **Best Practices:** good practice (1)
 > **Prerequisites:** you'll need (1)
@@ -718,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (2), database (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dbms (1)
 > **Definitions:** is called (1)
@@ -791,10 +793,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (3), [[Databases]] (1)
 > **Env Vars:** char (4), varchar (3), date (2), datetime (2), timestamp (2)
 > **SQL:** varchar (3), timestamp (2)
 > **Definitions:** is a  (2), is called (1), means that (1)
-> **Code Keywords:** type. (2), type, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - we (1)
 
@@ -877,7 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1), else. (1)
+> **Frameworks & Libraries:** data (10), [[Databases]] (3), database (3), [[Representational State Transfer (REST)|Rest]] (1), [[MySQL]] (1)
 > **CLI Commands:** find (1), mysql (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
@@ -952,7 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1), this, (1)
+> **Frameworks & Libraries:** database (4), next (1), data (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** uuid (1), dbms (1)
 > **Analogies:** just like (1)
@@ -961,7 +963,7 @@ created: 2026-04-29
 
 ### 3. Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980)
@@ -996,6 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (4), [[Databases]] (1)
 > **Env Vars:** dbms (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - once (1)
@@ -1065,7 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), require (1)
+> **Frameworks & Libraries:** data (5), database (3), [[Databases]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - let (1)
 
@@ -1136,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), try. (1)
+> **Frameworks & Libraries:** database (3), [[Databases]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), is an  (1)
 > **Env Vars:** dbms (1)
@@ -1182,7 +1185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), require (1)
+> **Frameworks & Libraries:** database (1), [[Security]] (1), data (1)
 > **Code Identifiers:** ipads (1)
 > **Env Vars:** dbms (1)
 > **Definitions:** is an  (1)
@@ -1239,7 +1242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (2)
+> **Frameworks & Libraries:** database (10), data (4), [[Databases]] (1), [[Privacy]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
@@ -1249,7 +1252,7 @@ created: 2026-04-29
 
 ### 4. Database Optimization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980)
@@ -1278,6 +1281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (3), [[Forms]] (3), business (1), [[Databases]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
@@ -1350,8 +1354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - first (1)
@@ -1408,7 +1412,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1460,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1)
+> **Frameworks & Libraries:** database (3), next (1), business (1), data (1)
 > **Definitions:** means that (2)
 > **Speakers:** - while (1)
 
@@ -1499,8 +1502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), business (2), [[Databases]] (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), for. (1)
 > **Versions:** 26.98 (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -1511,7 +1514,7 @@ created: 2026-04-29
 
 ### 5. Querying a Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980)
@@ -1550,8 +1553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[SQL]] (10), data (2), next (1), management (1)
 > **Env Vars:** sql (10), dbms (3), ddl (2), dml (2)
-> **Code Keywords:** this. (2), switch (1), let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - after (1)
 
@@ -1622,9 +1625,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[SQL]] (4), data (3), business (2), next (1)
 > **Env Vars:** sql (4), create (1), null (1), dbms (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this. (1), continue (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1676,8 +1679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[SQL]] (7), data (3), next (1), [[Programming]] (1)
 > **Env Vars:** sql (7)
-> **Code Keywords:** let (2), for. (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you'll need (1)
@@ -1774,9 +1777,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (3), [[Search]] (1)
 > **SQL:** where (5), select (3)
 > **Env Vars:** where (5), select (3)
-> **Code Keywords:** let (3), for. (3), type. (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1825,7 +1828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default. (1)
+> **Frameworks & Libraries:** database (2), data (2), [[Search]] (1), power (1)
 > **Env Vars:** asc (1), desc (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1893,7 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), function (1), match. (1)
+> **Frameworks & Libraries:** data (2), [[SQL]] (1), database (1), [[Search]] (1)
 > **Env Vars:** avg (2), sql (1)
 > **Versions:** 176.93 (1), 9.99 (1)
 > **Speakers:** - [instructor] (1)
@@ -1979,10 +1982,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), data (4), [[Relational Databases]] (1)
 > **CLI Commands:** make (3)
 > **SQL:** join (2), select (1)
 > **Env Vars:** join (2), select (1)
-> **Code Keywords:** this, (1), match. (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -2048,7 +2051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (4)
+> **Frameworks & Libraries:** database (8), data (8), [[SQL]] (3), [[Jenkins]] (3), [[Databases]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** sql (3), crud (1)
 > **File Paths:** d.c (2)
@@ -2060,7 +2063,7 @@ created: 2026-04-29
 
 ### 6. Further Database Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Indexes, transactions, and stored procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980)
@@ -2121,9 +2124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), data (6), [[Search]] (3), [[SQL]] (2), prompt (1)
 > **Env Vars:** dbms (3), sql (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** while, (1), case, (1)
 > **Analogies:** just like (1), for example (1)
 > **Tools:** command prompt (1)
 > **Definitions:** is a  (1)
@@ -2193,8 +2196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (14), data (7), [[SQL]] (7), [[Security]] (5), [[Databases]] (2)
 > **Env Vars:** sql (7), pii (1), hipaa (1), gdpr (1)
-> **Code Keywords:** delete (1), this. (1)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
@@ -2250,10 +2253,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), management (4), [[Databases]] (4), [[MySQL]] (2), [[SQL]] (2)
 > **Env Vars:** sql (4), sap (2), hana (2), rdbms (2), dbms (1)
 > **Definitions:** is an  (1), is a  (1), stands for (1)
 > **CLI Commands:** mysql (2)
-> **Code Keywords:** from. (1), this, (1)
 > **Code Identifiers:** dbase (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
@@ -2261,12 +2264,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980)
@@ -2299,6 +2302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Relational Databases]] (3), database (2), [[SQL]] (2), [[Programming]] (2), management (1)
 > **Env Vars:** sql (3), rdbms (1)
 > **CLI Commands:** mysql (1), find (1)
 > **Prerequisites:** getting started (1)

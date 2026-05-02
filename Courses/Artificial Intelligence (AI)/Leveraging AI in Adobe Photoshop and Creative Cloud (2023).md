@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/adobe-photoshop
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Adobe%20Photoshop%20and%20Creative%20Cloud%20(2023).md)
@@ -51,66 +51,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Artificial intelligence for all
+  - [Artificial intelligence for all](#artificial-intelligence-for-all)
 - [**1. The Role of Artificial Intelligence in Your Workflows**](#1-the-role-of-artificial-intelligence-in-your-workflows) (4 videos)
-  - Welcome to the age of artificial intelligence
-  - Introducing Adobe Sensei
-  - The role of Adobe Sensei in Creative Cloud
-  - Adobe Sensei and you
+  - [Welcome to the age of artificial intelligence](#welcome-to-the-age-of-artificial-intelligence)
+  - [Introducing Adobe Sensei](#introducing-adobe-sensei)
+  - [The role of Adobe Sensei in Creative Cloud](#the-role-of-adobe-sensei-in-creative-cloud)
+  - [Adobe Sensei and you](#adobe-sensei-and-you)
 - [**2. Using AI in Photoshop**](#2-using-ai-in-photoshop) (13 videos)
-  - Removing basic subjects from an image
-  - Removing complex subjects from an image
-  - Selecting objects
-  - Selecting people
-  - Replacing skies in landscape images
-  - Harmonizing colors in compositions
-  - Restoring an old image
-  - Enlarging images
-  - Challenge: Building an image composition
-  - Solution: Building an image composition
-  - Removing anything from an image
-  - Creating magic with Generative Fill
-  - Outpainting images with Generative Fill
+  - [Removing basic subjects from an image](#removing-basic-subjects-from-an-image)
+  - [Removing complex subjects from an image](#removing-complex-subjects-from-an-image)
+  - [Selecting objects](#selecting-objects)
+  - [Selecting people](#selecting-people)
+  - [Replacing skies in landscape images](#replacing-skies-in-landscape-images)
+  - [Harmonizing colors in compositions](#harmonizing-colors-in-compositions)
+  - [Restoring an old image](#restoring-an-old-image)
+  - [Enlarging images](#enlarging-images)
+  - [Challenge: Building an image composition](#challenge-building-an-image-composition)
+  - [Solution: Building an image composition](#solution-building-an-image-composition)
+  - [Removing anything from an image](#removing-anything-from-an-image)
+  - [Creating magic with Generative Fill](#creating-magic-with-generative-fill)
+  - [Outpainting images with Generative Fill](#outpainting-images-with-generative-fill)
 - [**3. Using AI in Lightroom**](#3-using-ai-in-lightroom) (9 videos)
-  - Optimizing images automatically
-  - Searching photos intelligently
-  - Advanced masking with a single click
-  - Masking facial features
-  - Masking colors and skies
-  - Advanced masking
-  - Challenge: Retouching campaign images
-  - Solution: Retouching campaign images
-  - Add Blur and Bokeh effects using Lens Blur
+  - [Optimizing images automatically](#optimizing-images-automatically)
+  - [Searching photos intelligently](#searching-photos-intelligently)
+  - [Advanced masking with a single click](#advanced-masking-with-a-single-click)
+  - [Masking facial features](#masking-facial-features)
+  - [Masking colors and skies](#masking-colors-and-skies)
+  - [Advanced masking](#advanced-masking)
+  - [Challenge: Retouching campaign images](#challenge-retouching-campaign-images)
+  - [Solution: Retouching campaign images](#solution-retouching-campaign-images)
+  - [Add Blur and Bokeh effects using Lens Blur](#add-blur-and-bokeh-effects-using-lens-blur)
 - [**4. Using AI in Illustrator**](#4-using-ai-in-illustrator) (8 videos)
-  - Selecting and editing visually similar objects
-  - Creating smarter color blends with freeform gradients
-  - Changing artwork shape and position with Puppet Warp
-  - Challenge: Optimizing an illustration
-  - Solution: Optimizing an illustration
-  - Generating anything with Text to Vector Graphic
-  - Identifying and converting fonts using Retype
-  - Creating easy mockups with Mockup
+  - [Selecting and editing visually similar objects](#selecting-and-editing-visually-similar-objects)
+  - [Creating smarter color blends with freeform gradients](#creating-smarter-color-blends-with-freeform-gradients)
+  - [Changing artwork shape and position with Puppet Warp](#changing-artwork-shape-and-position-with-puppet-warp)
+  - [Challenge: Optimizing an illustration](#challenge-optimizing-an-illustration)
+  - [Solution: Optimizing an illustration](#solution-optimizing-an-illustration)
+  - [Generating anything with Text to Vector Graphic](#generating-anything-with-text-to-vector-graphic)
+  - [Identifying and converting fonts using Retype](#identifying-and-converting-fonts-using-retype)
+  - [Creating easy mockups with Mockup](#creating-easy-mockups-with-mockup)
 - [**5. Using AI in InDesign**](#5-using-ai-in-indesign) (6 videos)
-  - Optimize image cropping
-  - Wrapping text around image subjects
-  - Creating and applying Style Packs
-  - Finding similar fonts and images
-  - Challenge: Creating an ad
-  - Solution: Creating an ad
+  - [Optimize image cropping](#optimize-image-cropping)
+  - [Wrapping text around image subjects](#wrapping-text-around-image-subjects)
+  - [Creating and applying Style Packs](#creating-and-applying-style-packs)
+  - [Finding similar fonts and images](#finding-similar-fonts-and-images)
+  - [Challenge: Creating an ad](#challenge-creating-an-ad)
+  - [Solution: Creating an ad](#solution-creating-an-ad)
 - [**6. Using AI in Adobe Stock**](#6-using-ai-in-adobe-stock) (7 videos)
-  - Introducing Adobe Stock
-  - Using intelligent filters
-  - Combining keywords with visual search
-  - Subject-based searching
-  - Challenge: Finding a campaign image
-  - Solution: Finding a campaign image
-  - Using generative AI to create images
+  - [Introducing Adobe Stock](#introducing-adobe-stock)
+  - [Using intelligent filters](#using-intelligent-filters)
+  - [Combining keywords with visual search](#combining-keywords-with-visual-search)
+  - [Subject-based searching](#subject-based-searching)
+  - [Challenge: Finding a campaign image](#challenge-finding-a-campaign-image)
+  - [Solution: Finding a campaign image](#solution-finding-a-campaign-image)
+  - [Using generative AI to create images](#using-generative-ai-to-create-images)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Goodbye
+  - [Goodbye](#goodbye)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence for all
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980)
@@ -131,12 +131,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Adobe Creative Cloud]] (2), [[Content Creation]] (1), cloud (1), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - we (1)
 
 
 ### 1. The Role of Artificial Intelligence in Your Workflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the age of artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980)
@@ -185,7 +186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), public (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), ai (4), cloud (3), feature (3), express (3)
 > **Analogies:** for example (2), picture (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
@@ -236,8 +237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[Adobe Creative Cloud]] (2), power (1), ai (1), product (1)
 > **Analogies:** picture (3), for example (1)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** install (1)
@@ -308,7 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), self (1)
+> **Frameworks & Libraries:** ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Adobe Creative Cloud]] (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -366,15 +367,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), business (3), [[Graphic Design]] (2), [[Adobe Creative Cloud]] (1), next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - i (1)
 
 
 ### 2. Using AI in Photoshop
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Removing basic subjects from an image
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980)
@@ -479,9 +480,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), [[Zoom]] (1)
 > **Env Vars:** cmd (4), ctrl (3)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (4), for. (1), from, (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** in the menu (1), double-click (1)
@@ -637,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), this, (1)
+> **Frameworks & Libraries:** ai (2), [[Windows]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), imagine (1), for example (1)
 > **Definitions:** is a  (2)
@@ -757,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1), switch (1), this, (1), this. (1)
+> **Frameworks & Libraries:** cloud (4), ai (3), [[Fine Tuning]] (2), [[Windows]] (1), [[Image Processing]] (1)
 > **Definitions:** is a  (4), means that (4), is an  (3)
 > **Analogies:** for example (4), imagine (1), picture (1)
 > **CLI Commands:** make (3), find (1)
@@ -915,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), continue (3), switch (3), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (3), next (1), ai (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (3), picture (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1032,7 +1033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), case, (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), database (1), [[Zoom]] (1), feature (1), web (1)
 > **Definitions:** is a  (1), means that (1), in other words (1)
 > **Analogies:** for example (2), kind of like (1)
 > **Cross-References:** go back to (2)
@@ -1153,7 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match. (2), super (1), switch (1), this. (1)
+> **Frameworks & Libraries:** ai (4), cloud (3), feature (1), application (1), [[Windows]] (1)
 > **Definitions:** is a  (4), is an  (2), means that (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2)
@@ -1299,7 +1300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (2), this. (1), switch (1), case. (1)
+> **Frameworks & Libraries:** ai (1), feature (1)
 > **Analogies:** for example (5), picture (3)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (3), means that (1)
@@ -1425,7 +1426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (3), super (2), for. (1), this. (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Windows]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), next (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** jpeg (2)
 > **UI Navigation:** select the (1), switch to (1)
@@ -1459,7 +1460,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (lively music) (1)
 
@@ -1596,7 +1596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (4), continue (4), switch (2), require (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Zoom]] (1)
 > **CLI Commands:** make (6), find (4)
 > **UI Navigation:** select the (2), switch to (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1748,7 +1748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), super (3), this, (1), this. (1), return, (1)
+> **Frameworks & Libraries:** feature (2), [[Adobe Photoshop]] (1), ai (1), hit (1)
 > **Definitions:** is a  (4), means that (2), is called (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (1), picture (1)
@@ -1888,7 +1888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type, (2), new, (1), for, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Adobe Firefly]] (6), feature (4), prompt (3), database (2)
 > **Definitions:** is a  (8), basically means (1), means that (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** for example (4), picture (2), kind of like (1)
@@ -2070,7 +2070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), continue (3), delete (2), this. (2), super (2)
+> **Frameworks & Libraries:** ai (2), [[Generative AI]] (1), prompt (1), [[Windows]] (1), hit (1)
 > **Definitions:** is a  (5), basically means (2), is called (1)
 > **Analogies:** picture (6), for example (1)
 > **CLI Commands:** make (5)
@@ -2080,7 +2080,7 @@ created: 2026-04-29
 
 ### 3. Using AI in Lightroom
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing images automatically
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980)
@@ -2179,7 +2179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), import. (1), continue (1), case, (1)
+> **Frameworks & Libraries:** ai (2), feature (1), hit (1), [[Windows]] (1)
 > **UI Navigation:** select the (3), navigate to (1), scroll down (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** make (2)
@@ -2282,7 +2282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (2), case, (2), return. (2), for, (1)
+> **Frameworks & Libraries:** [[Search]] (8), cloud (7), [[Metadata]] (4), next (2), feature (1)
 > **CLI Commands:** find (5), make (3), cat (1)
 > **Analogies:** for example (7)
 > **Definitions:** means that (2), is a  (1), is called (1)
@@ -2417,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (2), switch (1)
+> **Frameworks & Libraries:** feature (2), ai (1)
 > **CLI Commands:** make (5), find (3)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (2)
@@ -2537,7 +2537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (2), continue (1), default, (1), for, (1)
+> **Frameworks & Libraries:** generic (1), ai (1)
 > **Definitions:** means that (4), is a  (3), is an  (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** picture (2), for example (2)
@@ -2686,8 +2686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), feature (1), [[Zoom]] (1)
 > **CLI Commands:** find (4), make (4)
-> **Code Keywords:** let (5), else, (1), case, (1), this. (1)
 > **Definitions:** is a  (6), is an  (1)
 > **UI Navigation:** select the (2), click on (1)
 > **Analogies:** picture (1), imagine (1)
@@ -2813,7 +2813,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), for. (1), this, (1), this. (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (3)
 > **UI Navigation:** select the (1), scroll down (1)
@@ -2859,8 +2858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), application (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -2970,7 +2969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), default, (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Definitions:** means that (2)
@@ -3078,7 +3077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (2), default, (1), this. (1), for. (1)
+> **Frameworks & Libraries:** feature (4), [[Adobe Photoshop]] (3), ai (2)
 > **Definitions:** is a  (3), means that (2)
 > **Versions:** version 2024 (1), version 16 (1)
 > **Analogies:** just like (1), for example (1)
@@ -3090,7 +3089,7 @@ created: 2026-04-29
 
 ### 4. Using AI in Illustrator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting and editing visually similar objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980)
@@ -3257,7 +3256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), super (1), this. (1), delete (1)
+> **Frameworks & Libraries:** feature (3), [[Zoom]] (3), ai (1), next (1)
 > **CLI Commands:** make (9), find (2)
 > **Definitions:** is a  (5), basically means (1)
 > **Analogies:** for example (3)
@@ -3394,7 +3393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), default, (1), switch (1), this, (1), continue (1)
+> **Frameworks & Libraries:** next (1), feature (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[LinkedIn]] (1)
 > **UI Navigation:** double-click (3), select the (2), click on (1), switch to (1)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2)
@@ -3506,8 +3505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (5), ai (2), next (1), feature (1), hit (1)
 > **CLI Commands:** cat (8), make (5), find (4)
-> **Code Keywords:** let (4), delete (4), switch (1)
 > **Definitions:** means that (2), is a  (1)
 > **URLs:** [cats-start.ai](https://cats-start.ai) (1)
 > **UI Navigation:** select the (1)
@@ -3550,8 +3549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), require (1)
 > **URLs:** [unicorn-start.ai](https://unicorn-start.ai) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
@@ -3636,8 +3635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), ai (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (3), this, (1), for. (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3766,7 +3765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), switch (1), delete (1), default. (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3), hit (3), feature (2), [[Generative AI]] (2), prompt (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), similar to (1)
@@ -3867,7 +3866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), else, (1), match, (1), new. (1), this, (1)
+> **Frameworks & Libraries:** feature (3), ai (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** go to (1)
@@ -3957,7 +3956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2), delete (2), else. (1), this. (1)
+> **Frameworks & Libraries:** ai (3), [[Mesh]] (3), feature (2), [[Adobe Photoshop]] (2), business (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (2), is called (1)
 > **URLs:** [mockup-start.ai](https://mockup-start.ai) (1)
@@ -3968,7 +3967,7 @@ created: 2026-04-29
 
 ### 5. Using AI in InDesign
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize image cropping
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980)
@@ -4085,7 +4084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), this. (1)
+> **Frameworks & Libraries:** feature (3), ai (1), [[Zoom]] (1), [[Windows]] (1)
 > **Definitions:** is a  (4), is called (1), is an  (1), means that (1)
 > **Analogies:** picture (4), for example (3)
 > **CLI Commands:** find (3), make (2)
@@ -4189,7 +4188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), case, (1), for. (1), default, (1)
+> **Frameworks & Libraries:** feature (3), next (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (2), is an  (1), in other words (1)
 > **Analogies:** similar to (1), picture (1), for example (1)
@@ -4345,7 +4344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), this, (1)
+> **Frameworks & Libraries:** feature (2), next (2), [[Windows]] (1), ai (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), imagine (1)
@@ -4511,7 +4510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (3), for. (2), continue (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Windows]] (2), hit (1), [[Graphic Design]] (1)
 > **CLI Commands:** make (7), find (6)
 > **Analogies:** similar to (3), for example (3)
 > **UI Navigation:** right-click (4)
@@ -4552,8 +4551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), database (1)
 > **Analogies:** picture (2), similar to (1)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 
 #### Solution: Creating an ad
@@ -4629,7 +4628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), for. (1)
+> **Frameworks & Libraries:** ai (1), [[Windows]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** right-click (2), double-click (1), select the (1)
 > **Definitions:** is a  (2)
@@ -4639,7 +4638,7 @@ created: 2026-04-29
 
 ### 6. Using AI in Adobe Stock
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Adobe Stock
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980)
@@ -4714,9 +4713,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[Search]] (4), cloud (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** means that (4), is a  (3)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), for. (1)
 > **URLs:** [cmo.com](https://cmo.com) (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -4846,7 +4845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for. (5), require (1), this, (1), for, (1)
+> **Frameworks & Libraries:** ai (4), cloud (3), [[Search]] (3), [[Microsoft Word|Word]] (2), hit (2)
 > **CLI Commands:** find (7), make (2)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for example (2), picture (1)
@@ -4952,9 +4951,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), ai (2), next (1), feature (1), database (1)
 > **CLI Commands:** find (8)
 > **Analogies:** for example (4), picture (3), similar to (1)
-> **Code Keywords:** let (6), while, (1)
 > **Definitions:** is a  (5), is called (1), means that (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** drag and drop (1)
@@ -5055,8 +5054,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), cloud (4), feature (2), application (1)
 > **CLI Commands:** find (12), make (2)
-> **Code Keywords:** let (8), for, (1), else. (1), this. (1), for. (1)
 > **Analogies:** picture (2), for example (2), similar to (1), just like (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
@@ -5108,10 +5107,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** find (5)
 > **Analogies:** picture (3)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5195,7 +5194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), return, (1), for. (1), switch (1)
+> **Frameworks & Libraries:** [[Search]] (3), hit (1), cloud (1), next (1)
 > **CLI Commands:** find (5)
 > **UI Navigation:** navigate to (1), go to (1), switch to (1), drag and drop (1)
 > **Analogies:** picture (2), kind of like (2)
@@ -5284,7 +5283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for. (1), continue (1)
+> **Frameworks & Libraries:** prompt (9), [[Adobe Firefly]] (6), [[Generative AI]] (2), hit (2), [[Windows]] (1)
 > **Analogies:** kind of like (2), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -5294,7 +5293,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/goodbye?u=76281980)
@@ -5313,6 +5312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - if (1)
 
 

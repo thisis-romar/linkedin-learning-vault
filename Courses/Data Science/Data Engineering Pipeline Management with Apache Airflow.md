@@ -31,7 +31,7 @@ tags:
   - skill/apache-airflow
   - skill/workflow-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20Pipeline%20Management%20with%20Apache%20Airflow.md)
@@ -50,53 +50,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Features for data engineering pipeline management
+  - [Features for data engineering pipeline management](#features-for-data-engineering-pipeline-management)
 - [**1. Working with Role-Based Access Control**](#1-working-with-role-based-access-control) (12 videos)
-  - Prerequisites
-  - Quick install overview
-  - Creating an admin user and exploring roles
-  - Creating users with different roles
-  - Executing a simple branching DAG
-  - Executing a simple SQL DAG
-  - The public and viewer roles
-  - The user role
-  - The op role
-  - Actions, resources, and permissions
-  - Adding permissions to the public role
-  - Creating and configuring a custom role
+  - [Prerequisites](#prerequisites)
+  - [Quick install overview](#quick-install-overview)
+  - [Creating an admin user and exploring roles](#creating-an-admin-user-and-exploring-roles)
+  - [Creating users with different roles](#creating-users-with-different-roles)
+  - [Executing a simple branching DAG](#executing-a-simple-branching-dag)
+  - [Executing a simple SQL DAG](#executing-a-simple-sql-dag)
+  - [The public and viewer roles](#the-public-and-viewer-roles)
+  - [The user role](#the-user-role)
+  - [The op role](#the-op-role)
+  - [Actions, resources, and permissions](#actions-resources-and-permissions)
+  - [Adding permissions to the public role](#adding-permissions-to-the-public-role)
+  - [Creating and configuring a custom role](#creating-and-configuring-a-custom-role)
 - [**2. Managing SLAs**](#2-managing-slas) (5 videos)
-  - Configuring emails for SLA management
-  - Configuring task-level SLAs
-  - Triggering and viewing SLA misses
-  - Configuring DAG-level SLAs
-  - Configuring DAG failed action
+  - [Configuring emails for SLA management](#configuring-emails-for-sla-management)
+  - [Configuring task-level SLAs](#configuring-task-level-slas)
+  - [Triggering and viewing SLA misses](#triggering-and-viewing-sla-misses)
+  - [Configuring DAG-level SLAs](#configuring-dag-level-slas)
+  - [Configuring DAG failed action](#configuring-dag-failed-action)
 - [**3. Scheduling DAGs with Datasets**](#3-scheduling-dags-with-datasets) (5 videos)
-  - Dataset producer pipeline
-  - Dataset consumer pipeline
-  - Data-aware scheduling
-  - Purchases producer pipeline and join pipeline
-  - Data-aware scheduling with multiple datasets
+  - [Dataset producer pipeline](#dataset-producer-pipeline)
+  - [Dataset consumer pipeline](#dataset-consumer-pipeline)
+  - [Data-aware scheduling](#data-aware-scheduling)
+  - [Purchases producer pipeline and join pipeline](#purchases-producer-pipeline-and-join-pipeline)
+  - [Data-aware scheduling with multiple datasets](#data-aware-scheduling-with-multiple-datasets)
 - [**4. Working with Airflow Plugins**](#4-working-with-airflow-plugins) (4 videos)
-  - Introducing plugins
-  - Adding menu items using plugins
-  - Exploring the CSV reader plugin
-  - Implementing the CSV reader plugin
+  - [Introducing plugins](#introducing-plugins)
+  - [Adding menu items using plugins](#adding-menu-items-using-plugins)
+  - [Exploring the CSV reader plugin](#exploring-the-csv-reader-plugin)
+  - [Implementing the CSV reader plugin](#implementing-the-csv-reader-plugin)
 - [**5. Scaling Airflow**](#5-scaling-airflow) (9 videos)
-  - Scaling Apache Airflow
-  - Basic setup for the transformation pipeline
-  - DAG for the transformation pipeline
-  - Install RabbitMQ on macOS and Linux
-  - Set up an admin user for RabbitMQ
-  - Configuring the CeleryExecutor for Airflow
-  - Executing tasks on a single Celery worker
-  - Executing tasks on multiple Celery workers
-  - Assigning tasks to queues
+  - [Scaling Apache Airflow](#scaling-apache-airflow)
+  - [Basic setup for the transformation pipeline](#basic-setup-for-the-transformation-pipeline)
+  - [DAG for the transformation pipeline](#dag-for-the-transformation-pipeline)
+  - [Install RabbitMQ on macOS and Linux](#install-rabbitmq-on-macos-and-linux)
+  - [Set up an admin user for RabbitMQ](#set-up-an-admin-user-for-rabbitmq)
+  - [Configuring the CeleryExecutor for Airflow](#configuring-the-celeryexecutor-for-airflow)
+  - [Executing tasks on a single Celery worker](#executing-tasks-on-a-single-celery-worker)
+  - [Executing tasks on multiple Celery workers](#executing-tasks-on-multiple-celery-workers)
+  - [Assigning tasks to queues](#assigning-tasks-to-queues)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Features for data engineering pipeline management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980)
@@ -219,8 +219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), next (6), [[Apache Airflow]] (5), data (5), parallel (2)
 > **Env Vars:** dag (7), sla (4)
-> **Code Keywords:** finally, (3), default, (2), public (2), interface (1), delete (1)
 > **CLI Commands:** apache (5)
 > **Definitions:** is a  (4)
 > **Prerequisites:** configure (3), set up (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Working with Role-Based Access Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980)
@@ -250,8 +250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Airflow]] (6), [[LinkedIn]] (1)
 > **CLI Commands:** apache (6), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -343,10 +343,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (7), database (6), [[PostgreSQL]] (5), [[Python (Programming Language)|Python]] (4), [[PostgreSQL|Postgres]] (2)
 > **Prerequisites:** set up (2), setup (1), install (1), initialization (1), configure (1)
 > **CLI Commands:** python (4), make (1)
 > **Versions:** python 3 (2), 7.16 (1), version 2 (1), 5.3 (1)
-> **Code Keywords:** let (3), default. (1)
 > **Code Identifiers:** dags_folder (1)
 > **Ports:** port 5432 (1)
 > **Env Vars:** sql (1)
@@ -465,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), let (4), default. (2), pass (1)
+> **Frameworks & Libraries:** cloud (4), [[Security]] (3), [[Statistics]] (3), [[Search]] (2), web (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Definitions:** known as (1), is a  (1)
 > **Prerequisites:** set up (2)
@@ -577,7 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), let (2), default, (1)
+> **Frameworks & Libraries:** cloud (1), [[Security]] (1), hit (1), [[Search]] (1)
 > **UI Navigation:** click on (3), checkbox (1), dropdown (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** users_create (1)
@@ -666,10 +666,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** simple_branching_with_variable (4), taskc (3), taskchoose (2), taske (2), choose_branch (1)
 > **Env Vars:** dag (11)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** function (2), let (1), default, (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** go to (1), click on (1)
 > **File Paths:** simple_branching_with_variable.py (1)
@@ -776,10 +776,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), data (4), hit (2), [[SQL]] (1), next (1)
 > **Env Vars:** dag (10), select (2), sql (1), drop (1), table (1)
 > **Code Identifiers:** simple_sql_pipeline (2), my_sqlite_conn (2), display_result (2), create_table (1), sqlite_conn_id (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1), dropdown (1), go to (1)
-> **Code Keywords:** let (4), finally, (1)
 > **Prerequisites:** install (2), set up (1), configure (1), you'll need (1)
 > **CLI Commands:** make (2), find (1)
 > **SQL:** select (2), drop table (1)
@@ -876,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (4), default, (1), this, (1)
+> **Frameworks & Libraries:** web (1), [[Security]] (1)
 > **Env Vars:** dag (7)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -950,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **Env Vars:** dag (9)
-> **Code Keywords:** let (5), super (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Analogies:** for example (2)
@@ -1003,7 +1003,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
 > **Code Identifiers:** taske (4), taskc (3)
 > **Env Vars:** dag (4)
 > **Cross-References:** go back to (1)
@@ -1063,8 +1062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), cloud (1), [[SQL]] (1)
 > **Code Identifiers:** can_read (2), can_delete (2), can_clear (1), can_create (1), menu_access (1)
-> **Code Keywords:** let (5), default, (1)
 > **Env Vars:** dag (5), sql (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Analogies:** such as (2), for example (1)
@@ -1141,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (21), let (4), default; (1)
+> **Frameworks & Libraries:** [[Security]] (1)
 > **UI Navigation:** click on (3), dropdown (1), scroll down (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dag (2)
@@ -1235,8 +1234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), cloud (1), [[Security]] (1), next (1)
 > **Env Vars:** sql (7), dag (1)
-> **Code Keywords:** delete (2), default. (1), let (1)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -1245,7 +1244,7 @@ created: 2026-04-29
 
 ### 2. Managing SLAs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring emails for SLA management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980)
@@ -1338,10 +1337,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[Search]] (2), next (1), web (1)
 > **Env Vars:** sla (5), smtp (4), dag (3)
 > **Prerequisites:** configure (4), set up (2), you'll need (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), from, (1), switch (1)
 > **URLs:** [google.com](https://google.com) (2), [gmail.com](https://gmail.com) (2)
 > **UI Navigation:** go to (1), select the (1), click on (1)
 > **Code Identifiers:** airflow_scheduler (1), airflow_webserver (1)
@@ -1426,8 +1425,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sla (15), dag (10)
-> **Code Keywords:** let (1), this, (1), function (1)
 > **Prerequisites:** configure (2), setup (1)
 > **Code Identifiers:** loony_test (1), sla_missed_action (1)
 > **URLs:** [loonycorn.com](https://loonycorn.com) (2)
@@ -1514,8 +1513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (12), sla (12)
-> **Code Keywords:** let (5)
 > **CLI Commands:** find (2), make (1), python (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Code Identifiers:** looney_test (1), simple_branching_with_sla (1)
@@ -1602,9 +1601,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), cloud (1), next (1)
 > **Env Vars:** dag (18), sla (15)
 > **Code Identifiers:** simple_branching_with_dag_sla (3), default_args (2), sla_missed_action (2), taskd (2), sla_miss_callback (1)
-> **Code Keywords:** let (3), function (1), switch (1)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** means that (1), defined as (1), is a  (1)
 > **URLs:** [loonycorn.com](https://loonycorn.com) (1)
@@ -1752,8 +1751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), cloud (3), [[Python (Programming Language)|Python]] (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dag (20), sla (14), html (2)
-> **Code Keywords:** function (6), let (4), throw (2), pass (1), switch (1)
 > **Code Identifiers:** sla_missed_action (2), taskd (2), email_on_failure (1), email_operator (1), sla_miss_callback (1)
 > **Prerequisites:** set up (4), configure (2)
 > **CLI Commands:** python (2)
@@ -1764,7 +1763,7 @@ created: 2026-04-29
 
 ### 3. Scheduling DAGs with Datasets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dataset producer pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980)
@@ -1851,8 +1850,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (41), [[JSON]] (3), [[Pandas (Software)|Pandas]] (2), next (2)
 > **Env Vars:** dag (8), json (3)
-> **Code Keywords:** let (5), function (3), finally, (1), delete (1)
 > **File Paths:** customers.csv (5), customers.py (1), clean_customers.csv (1)
 > **Code Identifiers:** clean_customers (1), to_csv (1)
 > **Prerequisites:** set up (1), make sure you have (1)
@@ -1906,8 +1905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (1)
 > **Code Identifiers:** groupby_country (3), clean_customers (2), consumer_pipeline_customers (1), reading_clean_data (1)
-> **Code Keywords:** let (4), function (1)
 > **Env Vars:** dag (5)
 > **File Paths:** clean_customers.csv (2), consumer_pipeline_customers.py (1), groupby_country.csv (1)
 > **CLI Commands:** make (1)
@@ -1986,8 +1985,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12)
 > **Code Identifiers:** consumer_pipeline (7), producer_pipeline (6), clean_customers (6), groupby_country (2), pipeline_customers (1)
-> **Code Keywords:** let (7), switch (2)
 > **File Paths:** clean_customers.csv (5), groupby_country.csv (2), customers.csv (1)
 > **Env Vars:** dag (7)
 > **UI Navigation:** go to (2)
@@ -2120,8 +2119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (42), [[Python (Programming Language)|Python]] (4), [[Microsoft Products|Products]] (2), next (1)
 > **Env Vars:** dag (11), csv (5), dags (2)
-> **Code Keywords:** let (5), function (5), from, (1), finally, (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** picture (1)
@@ -2258,7 +2257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (1)
+> **Frameworks & Libraries:** data (9)
 > **Env Vars:** csv (7)
 > **UI Navigation:** click on (3), go to (3)
 > **CLI Commands:** find (3)
@@ -2269,7 +2268,7 @@ created: 2026-04-29
 
 ### 4. Working with Airflow Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980)
@@ -2352,8 +2351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), web (3), [[Apache Airflow]] (1), generic (1), data (1)
 > **Code Identifiers:** plugins_folder (2), empty_plugin (1), on_load (1), appbuilder_menu_items (1), flask_blueprints (1)
-> **Code Keywords:** let (2), class. (1), function (1), pass (1), default. (1)
 > **CLI Commands:** python (3), apache (1)
 > **Prerequisites:** install (1), you'll need (1), configure (1), set up (1)
 > **File Paths:** airflow.cfg (1), empty_plugin.py (1)
@@ -2424,8 +2423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1), hit (1)
 > **Code Identifiers:** company_info_plugin (1), subitema (1), subitemb (1), app_builder_menu_items (1), on_load (1)
-> **Code Keywords:** let (3), pass (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** url (2)
 > **File Paths:** company_info_plugin.py (1)
@@ -2488,9 +2487,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[HTML]] (3), web (1), hit (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (15), html (2)
 > **File Paths:** purchases.csv (2), datasets/purchases.csv (1), csv_reader_plugin.py (1), getcsvpathurl.html (1), csvdisplay.html (1)
-> **Code Keywords:** let (3), this, (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Code Identifiers:** csv_reader_plugin (1), getcsvpathurl (1)
 > **Cross-References:** go back to (2)
@@ -2624,8 +2623,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[HTML]] (9), web (2), application (1), css (1)
 > **Env Vars:** csv (38), html (8), url (5), css (1)
-> **Code Keywords:** function (7), pass (4), for. (2), self (2), let (2)
 > **Exercise Files:** template (12)
 > **Definitions:** is a  (9)
 > **UI Navigation:** click on (3), scroll down (1)
@@ -2635,7 +2634,7 @@ created: 2026-04-29
 
 ### 5. Scaling Airflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling Apache Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980)
@@ -2714,7 +2713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), parallel (3), database (2), [[Metadata]] (2), api (2)
 > **Env Vars:** api (2), dag (1)
 > **Prerequisites:** install (1), you'll need (1), configure (1)
 > **CLI Commands:** apache (1), mysql (1)
@@ -2807,9 +2806,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (8), database (7), [[PostgreSQL]] (3), [[Apache Airflow]] (2), data (2)
 > **CLI Commands:** apache (2), find (2), grep (1), pip (1), psql (1)
 > **Env Vars:** dag (4), csv (2)
-> **Code Keywords:** let (2), this, (1), type. (1)
 > **Code Identifiers:** cars_db (3), cars_postgres_connection (1)
 > **Versions:** version 3 (1), 1.0 (1), version 2 (1), 5.3 (1)
 > **Ports:** port 5432 (1)
@@ -2937,8 +2936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[SQL]] (9), [[Python (Programming Language)|Python]] (4), next (3), [[PostgreSQL|Postgres]] (3)
 > **Env Vars:** sql (9), dag (5)
-> **Code Keywords:** let (7), function (2), new, (1), pass (1), finally, (1)
 > **Prerequisites:** set up (4), setup (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (2)
@@ -3027,9 +3026,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), management (4), [[Windows]] (3), [[Ubuntu]] (2), next (2)
 > **CLI Commands:** brew (6), sudo (6), apt (3), grep (1), apache (1)
 > **Prerequisites:** install (11), set up (2), you'll need (2)
-> **Code Keywords:** let (4), interface (1), default. (1)
 > **Env Vars:** wsl (4), http (1), git (1)
 > **Tools:** terminal (4)
 > **Definitions:** is an  (2), is a  (1)
@@ -3091,9 +3090,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (7), scroll down (1)
 > **Prerequisites:** set up (3), configure (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -3147,11 +3146,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL]] (2), next (1), [[Metadata]] (1), database (1), web (1)
 > **Env Vars:** url (4), cfg (1)
 > **Prerequisites:** configure (1), you'll need (1), set up (1), setup (1)
 > **CLI Commands:** make (3)
 > **File Paths:** airflow.cfg (1)
-> **Code Keywords:** super (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3232,7 +3231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (3), interface (2)
+> **Frameworks & Libraries:** next (1), web (1), [[Statistics]] (1), data (1), hit (1)
 > **Env Vars:** dag (8), url (2)
 > **Prerequisites:** set up (4)
 > **UI Navigation:** click on (2), go to (1)
@@ -3274,7 +3273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
+> **Frameworks & Libraries:** parallel (2), data (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3353,7 +3352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** parallel (2)
 > **Env Vars:** dag (3)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** configure (2)
@@ -3364,7 +3363,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980)
@@ -3407,10 +3406,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Airflow]] (3), management (2), [[Apache Kafka]] (2), [[Data Engineering]] (1), data (1)
 > **CLI Commands:** apache (5)
 > **Env Vars:** sla (3), csv (1)
 > **Prerequisites:** configure (2), getting started (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

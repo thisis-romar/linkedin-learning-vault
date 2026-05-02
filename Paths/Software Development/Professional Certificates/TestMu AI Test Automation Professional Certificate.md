@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/testmu-ai-test-automation-professio
 course_count: 2
 linkedin_topics:
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 14
 tags:
   - professional-certificate
   - topic/software-development
@@ -25,7 +25,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Professional%20Certificates/TestMu%20AI%20Test%20Automation%20Professional%20Certificate.md)

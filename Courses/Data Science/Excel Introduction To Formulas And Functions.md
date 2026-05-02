@@ -31,7 +31,7 @@ tags:
   - skill/excel-formulas
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Introduction%20To%20Formulas%20And%20Functions.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Create powerful Excel formulas
-  - What you should know before starting
+  - [Create powerful Excel formulas](#create-powerful-excel-formulas)
+  - [What you should know before starting](#what-you-should-know-before-starting)
 - [**1. Introducing Excel Formulas and Functions**](#1-introducing-excel-formulas-and-functions) (7 videos)
-  - Familiarize yourself with functions and formulas
-  - Create a formula
-  - Introduce arithmetic operators
-  - Use cell references in formulas
-  - Use absolute and relative references in formulas
-  - Copy and paste formulas and values
-  - Edit a formula
+  - [Familiarize yourself with functions and formulas](#familiarize-yourself-with-functions-and-formulas)
+  - [Create a formula](#create-a-formula)
+  - [Introduce arithmetic operators](#introduce-arithmetic-operators)
+  - [Use cell references in formulas](#use-cell-references-in-formulas)
+  - [Use absolute and relative references in formulas](#use-absolute-and-relative-references-in-formulas)
+  - [Copy and paste formulas and values](#copy-and-paste-formulas-and-values)
+  - [Edit a formula](#edit-a-formula)
 - [**2. Creating Basic Summary Functions**](#2-creating-basic-summary-functions) (5 videos)
-  - Create a SUM or AVERAGE formula
-  - Create an AutoSum formula
-  - Create formulas to count cells
-  - Create formulas to summarize cells conditionally
-  - Summarize data on the status bar
+  - [Create a SUM or AVERAGE formula](#create-a-sum-or-average-formula)
+  - [Create an AutoSum formula](#create-an-autosum-formula)
+  - [Create formulas to count cells](#create-formulas-to-count-cells)
+  - [Create formulas to summarize cells conditionally](#create-formulas-to-summarize-cells-conditionally)
+  - [Summarize data on the status bar](#summarize-data-on-the-status-bar)
 - [**3. Managing Named Ranges and Excel Tables**](#3-managing-named-ranges-and-excel-tables) (4 videos)
-  - Summarize data using named ranges
-  - Edit and delete named ranges
-  - Summarize data using an Excel table
-  - Refer to Excel table cells in formulas
+  - [Summarize data using named ranges](#summarize-data-using-named-ranges)
+  - [Edit and delete named ranges](#edit-and-delete-named-ranges)
+  - [Summarize data using an Excel table](#summarize-data-using-an-excel-table)
+  - [Refer to Excel table cells in formulas](#refer-to-excel-table-cells-in-formulas)
 - [**4. Managing Data in Excel**](#4-managing-data-in-excel) (4 videos)
-  - Manage data using text functions
-  - Separate data using Flash Fill
-  - Create data validation rules
-  - Restrict data entry using lists
+  - [Manage data using text functions](#manage-data-using-text-functions)
+  - [Separate data using Flash Fill](#separate-data-using-flash-fill)
+  - [Create data validation rules](#create-data-validation-rules)
+  - [Restrict data entry using lists](#restrict-data-entry-using-lists)
 - [**5. Auditing Worksheet Formulas**](#5-auditing-worksheet-formulas) (4 videos)
-  - Trace formula precedents and dependents
-  - Evaluate Excel formulas step by step
-  - Identify and trace errors
-  - Manage Excel formula error indicators
+  - [Trace formula precedents and dependents](#trace-formula-precedents-and-dependents)
+  - [Evaluate Excel formulas step by step](#evaluate-excel-formulas-step-by-step)
+  - [Identify and trace errors](#identify-and-trace-errors)
+  - [Manage Excel formula error indicators](#manage-excel-formula-error-indicators)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further resources
+  - [Further resources](#further-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create powerful Excel formulas
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), power (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -130,14 +131,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introducing Excel Formulas and Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Familiarize yourself with functions and formulas
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980)
@@ -222,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (1), finally, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (4)
 > **Env Vars:** sum (3)
@@ -388,7 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), delete (2), let (1), for. (1), if, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), business (1), [[Search]] (1), [[Windows]] (1)
 > **Env Vars:** sum (8), b15 (3), average (1), hyperlink (1), b14 (1)
 > **CLI Commands:** find (6), make (1)
 > **UI Navigation:** go to (2), scroll down (2), open the (1), select the (1)
@@ -524,7 +525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), case, (2), if, (2), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), next (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Programming]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -633,8 +634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
 > **Env Vars:** c11 (3), sum (2), c10 (1)
-> **Code Keywords:** let (2), case, (1), function (1)
 > **CLI Commands:** find (2)
 > **Ports:** :13 (1)
 > **UI Navigation:** select the (1)
@@ -763,8 +764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** b10 (2), b11 (1)
-> **Code Keywords:** default, (1), continue (1)
 > **Versions:** 4.75 (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -858,7 +859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), let (1), delete (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Versions:** 4.75 (2), 1.0475 (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** b11 (1)
@@ -926,9 +927,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), hit (2), business (1), data (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** double-click (2), click on (1), go to (1)
-> **Code Keywords:** case, (1), delete (1), for. (1)
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** common mistake (1)
@@ -937,7 +938,7 @@ created: 2026-04-29
 
 ### 2. Creating Basic Summary Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a SUM or AVERAGE formula
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-sum-or-average-formula?u=76281980)
@@ -1050,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (1)
 > **CLI Commands:** find (3)
 > **Definitions:** refers to (1), is a  (1)
 > **UI Navigation:** select the (1)
@@ -1123,8 +1124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** delete (2), function (1)
 > **Definitions:** means that (2)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -1198,7 +1199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** b11 (3), count (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
@@ -1330,7 +1331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), if, (2), finally, (1), case. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), business (1), data (1)
 > **Env Vars:** ifs (4), sum (2), count (1), c10 (1)
 > **Versions:** 0.05 (2), 1.1 (1), 0.08 (1)
 > **CLI Commands:** find (3)
@@ -1390,9 +1391,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), next (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case, (1), else, (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
@@ -1401,7 +1402,7 @@ created: 2026-04-29
 
 ### 3. Managing Named Ranges and Excel Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize data using named ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980)
@@ -1544,7 +1545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), function (1), new, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** c13 (2), c10 (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -1614,7 +1615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), case, (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** refers to (2), is a  (1), means that (1)
 > **UI Navigation:** click on (1), double-click (1), go to (1)
 > **CLI Commands:** find (1)
@@ -1736,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), from, (1), type, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (6)
 > **CLI Commands:** find (2)
 > **Env Vars:** c10 (1), b10 (1)
 > **Definitions:** refers to (1), is a  (1)
@@ -1824,8 +1825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (6)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** case, (2), function (1)
 > **Env Vars:** sum (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -1834,7 +1835,7 @@ created: 2026-04-29
 
 ### 4. Managing Data in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage data using text functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980)
@@ -1933,8 +1934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** textbefore (7), textafter (3), c35 (2)
-> **Code Keywords:** function (2), case, (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1995,8 +1996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** case, (2), let (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -2087,7 +2088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), from, (1), case. (1), continue (1)
+> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (2), next (1)
 > **UI Navigation:** select the (2), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** warning (2)
@@ -2207,7 +2208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), case, (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (2), next (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** checkbox (2), go to (1), dropdown (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** p002 (1), p003 (1)
@@ -2218,7 +2219,7 @@ created: 2026-04-29
 
 ### 5. Auditing Worksheet Formulas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trace formula precedents and dependents
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980)
@@ -2279,8 +2280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), double-click (1)
-> **Code Keywords:** case, (2), else. (1)
 > **Env Vars:** b15 (2), b14 (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -2344,8 +2345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Windows]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), case, (1), function (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -2426,7 +2427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), function (1), interface (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1), data (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
@@ -2462,7 +2463,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
@@ -2471,7 +2471,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980)
@@ -2502,6 +2502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2), [[Microsoft 365]] (2), data (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **URLs:** [office.com](https://office.com) (1)

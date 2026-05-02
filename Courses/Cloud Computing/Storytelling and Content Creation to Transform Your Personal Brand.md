@@ -35,7 +35,7 @@ tags:
   - skill/personal-branding
   - skill/content-creation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Storytelling%20and%20Content%20Creation%20to%20Transform%20Your%20Personal%20Brand.md)
@@ -54,29 +54,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Master the art of storytelling
+  - [Master the art of storytelling](#master-the-art-of-storytelling)
 - [**1. The Story We Tell Ourselves**](#1-the-story-we-tell-ourselves) (3 videos)
-  - The power of mindset
-  - The art of resilience
-  - Building a growth mindset
+  - [The power of mindset](#the-power-of-mindset)
+  - [The art of resilience](#the-art-of-resilience)
+  - [Building a growth mindset](#building-a-growth-mindset)
 - [**2. Unlock the Secrets of Storytelling for Creators**](#2-unlock-the-secrets-of-storytelling-for-creators) (3 videos)
-  - 6P framework for creating compelling stories
-  - Crafting a story that engages your audience
-  - Harnessing the power of emotion to drive engagement
+  - [6P framework for creating compelling stories](#6p-framework-for-creating-compelling-stories)
+  - [Crafting a story that engages your audience](#crafting-a-story-that-engages-your-audience)
+  - [Harnessing the power of emotion to drive engagement](#harnessing-the-power-of-emotion-to-drive-engagement)
 - [**3. Research for Building a Winning Strategy**](#3-research-for-building-a-winning-strategy) (3 videos)
-  - Understanding your audience
-  - Finding inspiration for content
-  - Creating a plan for consistent, engaging content
+  - [Understanding your audience](#understanding-your-audience)
+  - [Finding inspiration for content](#finding-inspiration-for-content)
+  - [Creating a plan for consistent, engaging content](#creating-a-plan-for-consistent-engaging-content)
 - [**4. Execution for Effective Writing and Building Visibility**](#4-execution-for-effective-writing-and-building-visibility) (3 videos)
-  - Tips and tricks for compelling storytelling
-  - Crafting an engagement strategy
-  - Optimize your content distribution strategy
+  - [Tips and tricks for compelling storytelling](#tips-and-tricks-for-compelling-storytelling)
+  - [Crafting an engagement strategy](#crafting-an-engagement-strategy)
+  - [Optimize your content distribution strategy](#optimize-your-content-distribution-strategy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Mastering brand storytelling
+  - [Mastering brand storytelling](#mastering-brand-storytelling)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Master the art of storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980)
@@ -101,14 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (1), business (1), [[Storytelling]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
 
 ### 1. The Story We Tell Ourselves
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-power-of-mindset?u=76281980)
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1), try. (1), this. (1)
+> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** fopo (2)
 > **Speakers:** - have (1)
@@ -273,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1), this, (1), if, (1)
+> **Frameworks & Libraries:** next (3), power (2), hit (1), [[Microsoft Outlook|Outlook]] (1), [[Content Creation]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -348,7 +348,7 @@ created: 2026-04-29
 
 ### 2. Unlock the Secrets of Storytelling for Creators
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 6P framework for creating compelling stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980)
@@ -431,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), for. (1), self (1), finally, (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[LinkedIn]] (1), [[Forms]] (1), next (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -501,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** business (2), [[LinkedIn]] (2), power (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
@@ -573,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[Content Creation]] (1), power (1), [[LinkedIn]] (1)
 > **Analogies:** imagine (2), for instance (1), such as (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** cta (1), ctt (1), ctf (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -583,7 +583,7 @@ created: 2026-04-29
 
 ### 3. Research for Building a Winning Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980)
@@ -650,7 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), this. (1)
+> **Frameworks & Libraries:** functional (3), hit (2), [[Storytelling]] (2), power (2), next (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
 
@@ -731,9 +731,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Newsletters]] (1), power (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for instance (2), imagine (1), for example (1)
-> **Code Keywords:** let (2), this, (1)
 > **Env Vars:** diy (1)
 > **Speakers:** - imagine (1)
 
@@ -796,15 +796,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Content Creation]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
 
 
 ### 4. Execution for Effective Writing and Building Visibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tips and tricks for compelling storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980)
@@ -895,7 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), raise (1), finally, (1)
+> **Frameworks & Libraries:** [[Storytelling]] (5), [[Microsoft Word|Word]] (1), express (1)
 > **Analogies:** for example (2), for instance (1), it's like (1), picture (1), just like (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -972,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), extends (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4)
 > **Analogies:** picture (2), imagine (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - build (1)
@@ -1042,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (12), [[Analytics]] (2), web (1), next (1), [[Email Marketing]] (1)
 > **Analogies:** imagine (3), for instance (1)
 > **Definitions:** known as (1)
 > **Best Practices:** don't forget (1)
@@ -1051,7 +1051,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering brand storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980)
@@ -1128,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2), self (1), finally, (1)
+> **Frameworks & Libraries:** [[Storytelling]] (2), next (1), career (1), [[LinkedIn]] (1)
 > **Exercise Files:** download the (2), exercise files (1), exercise file (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - as (1)

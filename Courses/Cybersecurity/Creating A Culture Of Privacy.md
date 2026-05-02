@@ -28,7 +28,7 @@ tags:
   - skill/privacy
   - skill/privacy-issues
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Creating%20A%20Culture%20Of%20Privacy.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - Introduction to building a culture of privacy
+  - [Welcome](#welcome)
+  - [Introduction to building a culture of privacy](#introduction-to-building-a-culture-of-privacy)
 - [**1. The Urgency of Getting Data Privacy Right**](#1-the-urgency-of-getting-data-privacy-right) (3 videos)
-  - Why organizations need to think about building a culture of privacy
-  - New privacy regulations on the horizon
-  - Consumers are taking notice of privacy
+  - [Why organizations need to think about building a culture of privacy](#why-organizations-need-to-think-about-building-a-culture-of-privacy)
+  - [New privacy regulations on the horizon](#new-privacy-regulations-on-the-horizon)
+  - [Consumers are taking notice of privacy](#consumers-are-taking-notice-of-privacy)
 - [**2. Privacy: From a Compliance Chore to a Strategic Advantage**](#2-privacy-from-a-compliance-chore-to-a-strategic-advantage) (3 videos)
-  - Assessing your current privacy program
-  - Why a privacy policy is not enough
-  - Making privacy a brand differentiator
+  - [Assessing your current privacy program](#assessing-your-current-privacy-program)
+  - [Why a privacy policy is not enough](#why-a-privacy-policy-is-not-enough)
+  - [Making privacy a brand differentiator](#making-privacy-a-brand-differentiator)
 - [**3. Tie Privacy to Your Corporate Values**](#3-tie-privacy-to-your-corporate-values) (2 videos)
-  - Tying privacy to your corporate mission
-  - Selling privacy to the executive team
+  - [Tying privacy to your corporate mission](#tying-privacy-to-your-corporate-mission)
+  - [Selling privacy to the executive team](#selling-privacy-to-the-executive-team)
 - [**4. Create Advocates throughout the Organization**](#4-create-advocates-throughout-the-organization) (3 videos)
-  - Making privacy relevant to every employee
-  - Building a team of privacy champions
-  - Making privacy everyone's job
+  - [Making privacy relevant to every employee](#making-privacy-relevant-to-every-employee)
+  - [Building a team of privacy champions](#building-a-team-of-privacy-champions)
+  - [Making privacy everyone's job](#making-privacy-everyones-job)
 - [**5. Build Privacy into Products**](#5-build-privacy-into-products) (2 videos)
-  - Creating a set of privacy guidelines for the business
-  - Building privacy into your products
+  - [Creating a set of privacy guidelines for the business](#creating-a-set-of-privacy-guidelines-for-the-business)
+  - [Building privacy into your products](#building-privacy-into-your-products)
 - [**6. Integrate the Privacy Program into the Existing Business**](#6-integrate-the-privacy-program-into-the-existing-business) (1 videos)
-  - Sustaining a culture of privacy
+  - [Sustaining a culture of privacy](#sustaining-a-culture-of-privacy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), data (2), career (2), [[Microsoft Word|Word]] (1), product (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - does (1)
 
@@ -176,7 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1), private (1)
+> **Frameworks & Libraries:** [[Privacy]] (21), data (7), [[Microsoft Word|Word]] (1), [[Google]] (1), management (1)
 > **Definitions:** is a  (1), means that (1), in other words (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -186,7 +186,7 @@ created: 2026-04-29
 
 ### 1. The Urgency of Getting Data Privacy Right
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why organizations need to think about building a culture of privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980)
@@ -265,6 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Privacy]] (16), [[Microsoft Products|Products]] (2), product (2), [[Security]] (1)
 > **Definitions:** is an  (2), is a  (1), means that (1)
 > **Env Vars:** gps (1)
 > **Analogies:** picture (1)
@@ -344,8 +345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Privacy]] (19), [[Financial Data]] (1), [[Security]] (1)
 > **Env Vars:** gdpr (6)
-> **Code Keywords:** protected (1), let (1), extends (1), pass (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2), known as (1)
 > **Prerequisites:** you'll need (2)
@@ -424,7 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), private (1)
+> **Frameworks & Libraries:** data (12), [[Privacy]] (10), [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1)
 > **Env Vars:** ceo (1), cia (1)
 > **Definitions:** means that (1), is a  (1)
 > **Code Identifiers:** iphone (1)
@@ -433,7 +434,7 @@ created: 2026-04-29
 
 ### 2. Privacy: From a Compliance Chore to a Strategic Advantage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing your current privacy program
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980)
@@ -506,8 +507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (18), data (7), [[Microsoft Products|Products]] (3), [[Security]] (1), business (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (2), finally, (1), require (1)
 > **Prerequisites:** make sure you have (1), you need to have (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -579,6 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Privacy]] (15), business (2), [[Security]] (2), [[Search]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -657,8 +659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (13), data (6), business (4), [[Search]] (2), cloud (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
-> **Code Keywords:** continue (2), require (1), finally, (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - we (1)
@@ -666,7 +668,7 @@ created: 2026-04-29
 
 ### 3. Tie Privacy to Your Corporate Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tying privacy to your corporate mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980)
@@ -723,7 +725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), this. (1)
+> **Frameworks & Libraries:** [[Privacy]] (13), data (5), product (2), business (1)
 > **Prerequisites:** set up (1), required to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - beyond (1)
@@ -795,6 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (15), data (6), business (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** ebay (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -806,7 +809,7 @@ created: 2026-04-29
 
 ### 4. Create Advocates throughout the Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making privacy relevant to every employee
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980)
@@ -883,8 +886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (17), data (7), business (1), [[Security]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** this, (1), for. (1), let (1)
 > **Env Vars:** ceo (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -975,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), raise (1), this. (1)
+> **Frameworks & Libraries:** [[Privacy]] (18), teams (4), [[Privacy Issues]] (3), next (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -1036,16 +1039,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (16), data (14), teams (2), next (1), [[Security]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - privacy (1)
 
 
 ### 5. Build Privacy into Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a set of privacy guidelines for the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980)
@@ -1124,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), raise (1), require (1)
+> **Frameworks & Libraries:** [[Privacy]] (22), data (4), leadership (3), teams (3), [[Privacy Issues]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ceo (1)
 > **Documentation:** the documentation (1)
@@ -1205,15 +1208,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (33), product (17), data (4), teams (4), [[Security]] (3)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
 
 ### 6. Integrate the Privacy Program into the Existing Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustaining a culture of privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980)
@@ -1266,15 +1269,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (14), data (2), hr (2), [[Privacy Issues]] (2)
 > **CLI Commands:** find (3)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980)
@@ -1297,8 +1300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (7), data (3), product (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** protected (1)
 > **Env Vars:** iapp (1)
 > **Speakers:** - thank (1)
 

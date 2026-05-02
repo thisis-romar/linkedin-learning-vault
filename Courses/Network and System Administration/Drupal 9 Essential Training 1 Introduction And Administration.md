@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training%201%20Introduction%20And%20Administration.md)
@@ -44,30 +44,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to the course
+  - [Introduction to the course](#introduction-to-the-course)
 - [**1. Content Explained**](#1-content-explained) (8 videos)
-  - What is Drupal?
-  - Why choose Drupal?
-  - What you need for this course
-  - Terminology explained
-  - Installations explained: Acquia Dev Desktop
-  - Installations explained: Setting up your environment
-  - Installations explained: Manual installation on a web host
-  - Planning explained
+  - [What is Drupal?](#what-is-drupal)
+  - [Why choose Drupal?](#why-choose-drupal)
+  - [What you need for this course](#what-you-need-for-this-course)
+  - [Terminology explained](#terminology-explained)
+  - [Installations explained: Acquia Dev Desktop](#installations-explained-acquia-dev-desktop)
+  - [Installations explained: Setting up your environment](#installations-explained-setting-up-your-environment)
+  - [Installations explained: Manual installation on a web host](#installations-explained-manual-installation-on-a-web-host)
+  - [Planning explained](#planning-explained)
 - [**2. Administration Explained**](#2-administration-explained) (9 videos)
-  - Introduction and toolbar tour
-  - Content menu
-  - Structure menu
-  - Appearance menu
-  - Extend menu
-  - Configuration menu
-  - People menu
-  - Reports menu
-  - Help menu
+  - [Introduction and toolbar tour](#introduction-and-toolbar-tour)
+  - [Content menu](#content-menu)
+  - [Structure menu](#structure-menu)
+  - [Appearance menu](#appearance-menu)
+  - [Extend menu](#extend-menu)
+  - [Configuration menu](#configuration-menu)
+  - [People menu](#people-menu)
+  - [Reports menu](#reports-menu)
+  - [Help menu](#help-menu)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-to-the-course?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Drupal]] (8), next (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Content Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Drupal?
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980)
@@ -257,8 +257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (41), database (5), [[Content Management]] (3), [[PHP]] (2), [[HTML]] (2)
 > **Env Vars:** php (2), html (2), css (1), url (1), nba (1)
-> **Code Keywords:** let (4), finally, (1), throw (1)
 > **CLI Commands:** php (2), make (2)
 > **Definitions:** is a  (4)
 > **Prerequisites:** install (1), set up (1), configure (1)
@@ -353,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Drupal]] (29), [[Content Management Systems (CMS)|Content management systems]] (2), application (1), business (1)
 > **CLI Commands:** find (1)
 > **URLs:** [drupal.org](https://drupal.org) (1)
 > **Definitions:** is a  (1)
@@ -424,11 +424,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (4), web (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** cpanel (2)
 > **Tools:** firefox (1), safari (1)
-> **Code Keywords:** public (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -504,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (5), let (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** [[Drupal]] (12), data (5), node (4), [[Forms]] (2), [[Metadata]] (1)
 > **CLI Commands:** node (4), find (1), make (1)
 > **UI Navigation:** click on (3), go to (2)
 > **URLs:** [mysite.com](https://mysite.com) (1)
@@ -638,10 +638,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (12), next (9), [[PHP]] (3), database (2), [[Windows]] (1)
 > **Env Vars:** mac (3), php (3), win (1), url (1), sql (1)
 > **Prerequisites:** install (4), set up (2), you'll need (1)
 > **CLI Commands:** php (3), apache (1)
-> **Code Keywords:** continue (3), private (1)
 > **Versions:** 9.0.3 (2), php 7 (2)
 > **URLs:** [acquia.com](https://acquia.com) (2), [email.com](https://email.com) (1)
 > **UI Navigation:** click on (2)
@@ -758,11 +758,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Drupal]] (4), prompt (3), web (2), cloud (2)
 > **Tools:** github (5), gitlab (2), command prompt (2), bitbucket (1), terminal (1)
 > **Prerequisites:** you'll need (4), set up (2), install (2)
 > **URLs:** [gitpod.io](https://gitpod.io) (3), [github.com](https://github.com) (1)
 > **CLI Commands:** composer (2)
-> **Code Keywords:** continue (1), let (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
@@ -860,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), public (2), let (1)
+> **Frameworks & Libraries:** [[Drupal]] (7), database (4), [[HTML]] (3), web (2), next (2)
 > **CLI Commands:** composer (1), apache (1), mysql (1), make (1)
 > **Code Identifiers:** cpanel (2), cpanels (1)
 > **Env Vars:** html (3)
@@ -1036,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (2), finally, (1)
+> **Frameworks & Libraries:** [[Drupal]] (13), [[Content Management]] (2), management (2), next (2), functional (1)
 > **Prerequisites:** install (2), make sure you have (1), set up (1), before we start (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** later in (2)
@@ -1048,7 +1048,7 @@ created: 2026-04-29
 
 ### 2. Administration Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and toolbar tour
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980)
@@ -1109,9 +1109,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (7), next (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (5), dropdown (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), type, (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** url (1)
 > **Prerequisites:** set up (1)
@@ -1188,8 +1188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), [[Drupal]] (6), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (8), make (2), find (1)
-> **Code Keywords:** let (2), delete (2), super (1), type, (1)
 > **UI Navigation:** click on (5)
 > **URLs:** [lipsum.com](https://lipsum.com) (1)
 > **Warnings:** note that (1)
@@ -1311,7 +1311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), this, (1), for. (1), case, (1)
+> **Frameworks & Libraries:** [[Drupal]] (10), [[Forms]] (1), feature (1), web (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** find (1)
@@ -1366,7 +1366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), interface (1), default, (1), module (1)
+> **Frameworks & Libraries:** [[Drupal]] (4), [[Stark (Accessibility Software)|Stark]] (2), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** install (2), configure (1)
 > **UI Navigation:** click on (2)
 > **Warnings:** note that (1)
@@ -1537,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (14), let (3), this, (2), continue (1), for, (1)
+> **Frameworks & Libraries:** [[Drupal]] (19), [[Search]] (3), feature (2), web (1), management (1)
 > **Prerequisites:** install (16)
 > **CLI Commands:** composer (6), find (3), make (2), tar (2)
 > **UI Navigation:** scroll down (6), click on (4), select the (1), dropdown (1)
@@ -1593,9 +1593,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (4), [[PHP]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** php (1), find (1)
-> **Code Keywords:** let (2)
 > **File Paths:** settings.php (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1632,7 +1632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), public (1)
+> **Frameworks & Libraries:** [[Drupal]] (2)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** install (1), set up (1)
 > **Best Practices:** best practice (1)
@@ -1677,7 +1677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), delete (1)
+> **Frameworks & Libraries:** [[Drupal]] (6), [[Search]] (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **URLs:** [drupal.org](https://drupal.org) (1)
@@ -1705,8 +1705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (4), [[Search]] (1)
 > **URLs:** [drupal.org](https://drupal.org) (3)
-> **Code Keywords:** module (1), let (1)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

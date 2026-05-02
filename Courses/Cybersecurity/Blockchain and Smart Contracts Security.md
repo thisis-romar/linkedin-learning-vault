@@ -29,7 +29,7 @@ tags:
   - skill/smart-contracts
   - skill/cryptography
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain%20and%20Smart%20Contracts%20Security.md)
@@ -48,44 +48,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Security concerns with blockchain
-  - What you should know
+  - [Security concerns with blockchain](#security-concerns-with-blockchain)
+  - [What you should know](#what-you-should-know)
 - [**1. Demystifying Blockchain**](#1-demystifying-blockchain) (3 videos)
-  - What is blockchain?
-  - Smart contracts and dApps
-  - How blockchain works
+  - [What is blockchain?](#what-is-blockchain)
+  - [Smart contracts and dApps](#smart-contracts-and-dapps)
+  - [How blockchain works](#how-blockchain-works)
 - [**2. Security Properties of Blockchain**](#2-security-properties-of-blockchain) (4 videos)
-  - Consensus
-  - Immutability
-  - Cryptography: Keys and addresses
-  - Cryptography: Validation
+  - [Consensus](#consensus)
+  - [Immutability](#immutability)
+  - [Cryptography: Keys and addresses](#cryptography-keys-and-addresses)
+  - [Cryptography: Validation](#cryptography-validation)
 - [**3. Security Model for the Blockchain Ecosystem**](#3-security-model-for-the-blockchain-ecosystem) (3 videos)
-  - Overall technology architecture
-  - Attack surface and vectors
-  - Security model
+  - [Overall technology architecture](#overall-technology-architecture)
+  - [Attack surface and vectors](#attack-surface-and-vectors)
+  - [Security model](#security-model)
 - [**4. Blockchain Platform Security**](#4-blockchain-platform-security) (2 videos)
-  - Proof-of-work protocol attacks
-  - Proof-of-stake protocol attacks
+  - [Proof-of-work protocol attacks](#proof-of-work-protocol-attacks)
+  - [Proof-of-stake protocol attacks](#proof-of-stake-protocol-attacks)
 - [**5. Distributed Apps and Smart Contracts Security**](#5-distributed-apps-and-smart-contracts-security) (6 videos)
-  - Smart contracts and EVM
-  - Anatomy of a smart contract
-  - Deploying a smart contract
-  - Smart contracts threats: Part one
-  - Smart contracts threats: Part two
-  - Secure design
+  - [Smart contracts and EVM](#smart-contracts-and-evm)
+  - [Anatomy of a smart contract](#anatomy-of-a-smart-contract)
+  - [Deploying a smart contract](#deploying-a-smart-contract)
+  - [Smart contracts threats: Part one](#smart-contracts-threats-part-one)
+  - [Smart contracts threats: Part two](#smart-contracts-threats-part-two)
+  - [Secure design](#secure-design)
 - [**6. Non-distributed Apps and Enabler Services**](#6-non-distributed-apps-and-enabler-services) (3 videos)
-  - Blockchain ecosystem threats: Part one
-  - Blockchain ecosystem threats: Part two
-  - Blockchain ecosystem threats: Part three
+  - [Blockchain ecosystem threats: Part one](#blockchain-ecosystem-threats-part-one)
+  - [Blockchain ecosystem threats: Part two](#blockchain-ecosystem-threats-part-two)
+  - [Blockchain ecosystem threats: Part three](#blockchain-ecosystem-threats-part-three)
 - [**7. End User Security**](#7-end-user-security) (2 videos)
-  - Wallet and keys security
-  - Web session security
+  - [Wallet and keys security](#wallet-and-keys-security)
+  - [Web session security](#web-session-security)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security concerns with blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980)
@@ -120,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[Blockchain]] (9), [[Smart Contracts]] (4), web (1), [[Decentralized Applications (DApps)|Decentralized applications]] (1)
 > **Versions:** 3.0 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - do (1)
@@ -141,14 +142,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Smart Contracts]] (3), [[Security]] (2), [[Programming]] (1), [[Secure Coding]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Demystifying Blockchain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is blockchain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980)
@@ -229,8 +230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (27), data (10), database (4), [[Security]] (4), node (2)
 > **Definitions:** is a  (4), known as (3), is called (1), in other words (1), is an  (1)
-> **Code Keywords:** let (3), public (3), case, (1), private (1)
 > **CLI Commands:** node (2)
 > **Analogies:** think of it as (1), such as (1)
 > **Warnings:** keep in mind (1)
@@ -284,8 +285,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (8), [[Smart Contracts]] (7), data (1), cloud (1), feature (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** function (1)
 > **Versions:** 3.0 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -425,9 +426,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (23), node (9), [[Security]] (2), data (2), [[Cryptocurrency]] (2)
 > **CLI Commands:** node (9)
 > **Definitions:** is a  (7), known as (2)
-> **Code Keywords:** let (2), private (1), continue (1), case, (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** p2p (1)
 > **Speakers:** - [instructor] (1)
@@ -435,7 +436,7 @@ created: 2026-04-29
 
 ### 2. Security Properties of Blockchain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consensus
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980)
@@ -534,10 +535,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Security]] (3), [[Ethereum]] (2), [[Algorithms]] (2), [[Cryptography]] (1)
 > **Env Vars:** bft (4), cpu (1), ibft (1)
 > **Definitions:** known as (4), is a  (1), refers to (1)
 > **Analogies:** such as (2), for example (1), similar to (1)
-> **Code Keywords:** require (3)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** keep in mind (1)
@@ -586,8 +587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Blockchain]] (7), [[Security]] (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), stands for (1), in other words (1)
-> **Code Keywords:** continue (1), function (1), let (1)
 > **Env Vars:** cia (2), sha (1)
 > **Speakers:** - [instructor] (1)
 
@@ -648,7 +649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (11), private (6), let (2), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Blockchain]] (7), [[Cryptography]] (3), [[Ethereum]] (2), [[Security]] (1), [[Smart Contracts]] (1)
 > **Env Vars:** sha (2), ecc (1), nft (1), nist (1), url (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
@@ -723,7 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), let (4), public (3), this. (1), switch (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), data (5), node (3)
 > **Definitions:** is a  (2), known as (2)
 > **CLI Commands:** node (3)
 > **Cross-References:** previous video (1), as you saw (1)
@@ -734,7 +735,7 @@ created: 2026-04-29
 
 ### 3. Security Model for the Blockchain Ecosystem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overall technology architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980)
@@ -799,7 +800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), private (1)
+> **Frameworks & Libraries:** [[Blockchain]] (12), data (5), business (3), [[Tokens]] (3), [[Smart Contracts]] (2)
 > **Analogies:** for example (2)
 > **Env Vars:** bft (1)
 > **Cross-References:** in the last (1)
@@ -833,8 +834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (5), power (1), [[Privacy]] (1), [[Smart Contracts]] (1), [[Phishing]] (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** private (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -875,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Blockchain]] (4), next (2), [[Smart Contracts]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
@@ -883,7 +884,7 @@ created: 2026-04-29
 
 ### 4. Blockchain Platform Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Proof-of-work protocol attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980)
@@ -1006,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2), override (1), require (1), else, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (26), power (4), [[Security]] (3), application (2), [[Probability]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Definitions:** refers to (2), known as (2), is a  (1)
 > **CLI Commands:** make (3)
@@ -1079,14 +1080,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), public (1)
+> **Frameworks & Libraries:** power (2), [[Tokens]] (2), [[Blockchain]] (1), [[Security]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Distributed Apps and Smart Contracts Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Smart contracts and EVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980)
@@ -1157,9 +1158,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (10), [[Smart Contracts]] (7), application (7), [[Blockchain]] (5), web (5)
 > **Env Vars:** evm (8), html (1), css (1)
 > **CLI Commands:** node (4), python (1)
-> **Code Keywords:** let (1), this. (1), module (1), interface (1)
 > **Versions:** 3.0 (2), 2.0 (2)
 > **Definitions:** is a  (3)
 > **File Paths:** node.js (1)
@@ -1223,8 +1224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (3), [[Blockchain]] (3), [[Solidity]] (2), [[Programming]] (2), [[Security]] (1)
 > **Definitions:** known as (2), is a  (2), is called (1)
-> **Code Keywords:** let (2), function (2)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** handlelifeevent (1)
@@ -1281,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Remix]] (2), [[Blockchain]] (1)
 > **Env Vars:** ide (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1370,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (3), protected (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Ethereum]] (3), [[Security]] (2), [[Smart Contracts]] (2), [[Forms]] (1)
 > **Env Vars:** mitre (3), dao (2), cwe (2)
 > **Definitions:** known as (2), is a  (1), is called (1)
 > **Versions:** 3.6 (1), version 8 (1)
@@ -1452,7 +1453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), self (6), let (2), switch (1), this. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (2), [[Solidity]] (2), [[Ethereum]] (2), data (1)
 > **Definitions:** short for (1), means that (1), is a  (1)
 > **Env Vars:** cwe (1)
 > **UI Navigation:** switch to (1)
@@ -1546,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), finally, (2), let (2), require (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Smart Contracts]] (4), [[Software Development]] (3), [[Blockchain]] (3), [[Git]] (2)
 > **CLI Commands:** git (2), make (1), find (1)
 > **Analogies:** for example (1), such as (1)
 > **Code Identifiers:** sfuzz (1)
@@ -1557,7 +1558,7 @@ created: 2026-04-29
 
 ### 6. Non-distributed Apps and Enabler Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain ecosystem threats: Part one
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980)
@@ -1632,7 +1633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), interface (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (9), [[Blockchain]] (5), [[Tokens]] (5), management (3), [[Smart Contracts]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1703,9 +1704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (3), [[Security]] (2), [[Cryptocurrency]] (1), [[Tokens]] (1)
 > **Env Vars:** kyc (2), owasp (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1750,8 +1751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (6), data (4), [[Representational State Transfer (REST)|Rest]] (2), [[Smart Contracts]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** just like (1), such as (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** iot (1)
 > **Versions:** 2.0 (1)
 > **Definitions:** known as (1)
@@ -1761,7 +1762,7 @@ created: 2026-04-29
 
 ### 7. End User Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wallet and keys security
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980)
@@ -1798,7 +1799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), let (1), type, (1), private (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Blockchain]] (1), [[Smart Contracts]] (1), application (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
 > **Analogies:** such as (1)
@@ -1839,6 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Scripting]] (1), [[Phishing]] (1), [[Engineering]] (1), [[Tokens]] (1)
 > **Env Vars:** tls (1), url (1), dao (1), unicef (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1847,7 +1849,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980)
@@ -1874,6 +1876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Security]] (3), [[Decentralized Applications (DApps)|Decentralized applications]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Writing%20Great%20Content%20with%20Gen%20AI%20That%20Doesn't%20Sound%20Fake.md)
@@ -49,22 +49,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Creating marketing content with AI
+  - [Creating marketing content with AI](#creating-marketing-content-with-ai)
 - [**1. Crafting Authentic Marketing Content with AI**](#1-crafting-authentic-marketing-content-with-ai) (4 videos)
-  - Anatomy of a marketing prompt
-  - Provide clear prompt direction
-  - Translate brand identity into tone guidelines
-  - Integrate context for enhanced SEO
+  - [Anatomy of a marketing prompt](#anatomy-of-a-marketing-prompt)
+  - [Provide clear prompt direction](#provide-clear-prompt-direction)
+  - [Translate brand identity into tone guidelines](#translate-brand-identity-into-tone-guidelines)
+  - [Integrate context for enhanced SEO](#integrate-context-for-enhanced-seo)
 - [**2. Personalizing Content for Impact**](#2-personalizing-content-for-impact) (3 videos)
-  - Meet audience expectations
-  - Tell a story
-  - Add a human touch
+  - [Meet audience expectations](#meet-audience-expectations)
+  - [Tell a story](#tell-a-story)
+  - [Add a human touch](#add-a-human-touch)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue generating authenticity with AI
+  - [Continue generating authenticity with AI](#continue-generating-authenticity-with-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating marketing content with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980)
@@ -91,15 +91,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), product (1), business (1), seo (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** seo (1)
 > **Speakers:** - the (1)
 
 
 ### 1. Crafting Authentic Marketing Content with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anatomy of a marketing prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980)
@@ -138,8 +138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** case, (1), finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), from. (1), for, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), prompt (3), [[Email Marketing]] (1), next (1), [[E-Commerce]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - when (1)
 
@@ -219,8 +219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), product (1), business (1), prompt (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - brand (1)
@@ -260,15 +260,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), prompt (2), [[Search]] (2), next (1)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** for instance (2), picture (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - it (1)
 
 
 ### 2. Personalizing Content for Impact
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet audience expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/meet-audience-expectations?u=76281980)
@@ -303,6 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), ai (3), product (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
@@ -349,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), product (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
@@ -381,6 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), prompt (2), chatbot (1), product (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - potential (1)
@@ -388,7 +390,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue generating authenticity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980)
@@ -419,8 +421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[LinkedIn]] (2), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1)
 > **URLs:** [nelshenderson.com](https://nelshenderson.com) (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - congratulations (1)

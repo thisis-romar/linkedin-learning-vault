@@ -30,7 +30,7 @@ tags:
   - skill/figma-software
   - skill/computer-accessibility
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Designing%20Accessible%20Components%20In%20Figma.md)
@@ -49,30 +49,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why does accessibility matter in Figma?
-  - What are accessible components?
+  - [Why does accessibility matter in Figma?](#why-does-accessibility-matter-in-figma)
+  - [What are accessible components?](#what-are-accessible-components)
 - [**1. Accessible Components**](#1-accessible-components) (8 videos)
-  - Style your components
-  - Create your first component in Figma
-  - Create accessible buttons
-  - Create accessible icons
-  - Accessible radio buttons and checkboxes
-  - Creating an accessible image card
-  - Challenge: Create accessible input fields
-  - Solution: Create accessible input fields
+  - [Style your components](#style-your-components)
+  - [Create your first component in Figma](#create-your-first-component-in-figma)
+  - [Create accessible buttons](#create-accessible-buttons)
+  - [Create accessible icons](#create-accessible-icons)
+  - [Accessible radio buttons and checkboxes](#accessible-radio-buttons-and-checkboxes)
+  - [Creating an accessible image card](#creating-an-accessible-image-card)
+  - [Challenge: Create accessible input fields](#challenge-create-accessible-input-fields)
+  - [Solution: Create accessible input fields](#solution-create-accessible-input-fields)
 - [**2. Advanced Components**](#2-advanced-components) (6 videos)
-  - Accessible header menus
-  - Accessible footers
-  - Figma plugins for accessibility
-  - Create a simple web page with Figma components
-  - Challenge: Design a contact page
-  - Solution: Design a contact page
+  - [Accessible header menus](#accessible-header-menus)
+  - [Accessible footers](#accessible-footers)
+  - [Figma plugins for accessibility](#figma-plugins-for-accessibility)
+  - [Create a simple web page with Figma components](#create-a-simple-web-page-with-figma-components)
+  - [Challenge: Design a contact page](#challenge-design-a-contact-page)
+  - [Solution: Design a contact page](#solution-design-a-contact-page)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue designing accessible components
+  - [Continue designing accessible components](#continue-designing-accessible-components)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why does accessibility matter in Figma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980)
@@ -95,8 +95,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), ux (1), [[Software Development]] (1), [[LinkedIn]] (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** figma (1)
 > **Speakers:** - [tetiana] (1)
 
@@ -155,8 +155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Web Accessibility]] (3), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (1), finally, (1), function (1), switch (1), interface (1)
 > **Analogies:** such as (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** wcag (1)
@@ -166,7 +166,7 @@ created: 2026-04-29
 
 ### 1. Accessible Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Style your components
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980)
@@ -211,9 +211,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), [[LinkedIn]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (4), open the (2), select the (2), dropdown (1)
 > **Tools:** figma (5)
-> **Code Keywords:** let (2), finally, (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
@@ -316,7 +316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), override (3), finally, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), next (1), hit (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1), right-click (1), navigate to (1)
 > **Definitions:** is a  (2), known as (1), means that (1), is called (1)
 > **Tools:** figma (4)
@@ -500,7 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), case, (3), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), hit (4), feature (1)
 > **UI Navigation:** select the (3), go to (2), dropdown (2), click on (2), open the (1)
 > **CLI Commands:** make (3), find (2)
 > **Tools:** figma (4)
@@ -616,8 +616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[LinkedIn]] (2), [[User Interface Design]] (1)
 > **UI Navigation:** click on (6), go to (4), navigate to (2), select the (1), dropdown (1)
-> **Code Keywords:** let (9), interface (1), self (1)
 > **CLI Commands:** make (4), find (2)
 > **Tools:** figma (2)
 > **Best Practices:** good practice (1), don't forget (1)
@@ -821,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), finally, (5)
+> **Frameworks & Libraries:** next (2), [[Zoom]] (2), [[Figma (Software)|Figma]] (1), [[Search]] (1)
 > **UI Navigation:** checkbox (7), select the (2), click on (2), navigate to (1), go to (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** earlier in (1)
@@ -933,7 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), finally, (3), throw (1), pass (1)
+> **Frameworks & Libraries:** hit (4), [[Figma (Software)|Figma]] (2), feature (1)
 > **UI Navigation:** go to (2), click on (2), select the (2)
 > **CLI Commands:** make (4)
 > **Tools:** figma (2)
@@ -968,8 +968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Forms]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat synth music) (1)
@@ -1091,7 +1091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), finally, (1), case, (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **UI Navigation:** select the (2), dropdown (2), click on (2), navigate to (2), go to (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
@@ -1101,7 +1101,7 @@ created: 2026-04-29
 
 ### 2. Advanced Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible header menus
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980)
@@ -1186,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), finally, (2)
+> **Frameworks & Libraries:** hit (3), web (2), next (2), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -1309,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), finally, (1)
+> **Frameworks & Libraries:** data (3), hit (3), next (2), [[LinkedIn]] (2), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (12), find (1)
 > **UI Navigation:** go to (2), select the (1), navigate to (1)
 > **Cross-References:** go back to (2), in the last (1)
@@ -1379,9 +1379,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[Figma (Software)|Figma]] (4), next (1), [[Zoom]] (1)
 > **UI Navigation:** click on (5), go to (2), select the (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (5)
 > **Tools:** figma (4)
 > **Versions:** 18.41 (1)
 > **Definitions:** is called (1)
@@ -1517,8 +1517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Figma (Software)|Figma]] (1), feature (1)
 > **CLI Commands:** make (21), find (1)
-> **Code Keywords:** let (9)
 > **UI Navigation:** go to (1), select the (1)
 > **Tools:** figma (1)
 > **Analogies:** such as (1)
@@ -1632,7 +1632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), finally, (1)
+> **Frameworks & Libraries:** next (1), data (1), [[Newsletters]] (1)
 > **CLI Commands:** make (8), find (2)
 > **UI Navigation:** select the (3), go to (2), click on (1), checkbox (1)
 > **Definitions:** is a  (1)
@@ -1642,7 +1642,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue designing accessible components
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980)
@@ -1667,6 +1667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Web Accessibility]] (1), next (1)
 > **Tools:** figma (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)

@@ -31,7 +31,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AI%20Accountability-%20Build%20Responsible%20and%20Transparent%20Systems.md)
@@ -50,52 +50,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. The Context for AI**](#1-the-context-for-ai) (4 videos)
-  - The promise of AI
-  - Generative and analytical AI
-  - General and narrow AI
-  - Artificial general intelligence (AGI)
+  - [The promise of AI](#the-promise-of-ai)
+  - [Generative and analytical AI](#generative-and-analytical-ai)
+  - [General and narrow AI](#general-and-narrow-ai)
+  - [Artificial general intelligence (AGI)](#artificial-general-intelligence-agi)
 - [**2. Technical Challenges of AI**](#2-technical-challenges-of-ai) (10 videos)
-  - Technical challenges for generative AI
-  - The challenge of classification errors
-  - The causes of classification errors
-  - Bias in AI
-  - Genres of learning
-  - Biased training data
-  - Construct validity
-  - The absence of meaning
-  - Vulnerability to attacks
-  - Attacking AI
+  - [Technical challenges for generative AI](#technical-challenges-for-generative-ai)
+  - [The challenge of classification errors](#the-challenge-of-classification-errors)
+  - [The causes of classification errors](#the-causes-of-classification-errors)
+  - [Bias in AI](#bias-in-ai)
+  - [Genres of learning](#genres-of-learning)
+  - [Biased training data](#biased-training-data)
+  - [Construct validity](#construct-validity)
+  - [The absence of meaning](#the-absence-of-meaning)
+  - [Vulnerability to attacks](#vulnerability-to-attacks)
+  - [Attacking AI](#attacking-ai)
 - [**3. Social Challenges of AI**](#3-social-challenges-of-ai) (3 videos)
-  - Dimensions of justice
-  - Moral reasoning
-  - Issues of authenticity
+  - [Dimensions of justice](#dimensions-of-justice)
+  - [Moral reasoning](#moral-reasoning)
+  - [Issues of authenticity](#issues-of-authenticity)
 - [**4. Legal Challenges of AI**](#4-legal-challenges-of-ai) (7 videos)
-  - GenAI laws
-  - Privacy laws
-  - Spurious discrimination
-  - The right to explanation
-  - Discrimination in data
-  - Discrimination in implementation
-  - Discrimination and misinformation in generative AI
+  - [GenAI laws](#genai-laws)
+  - [Privacy laws](#privacy-laws)
+  - [Spurious discrimination](#spurious-discrimination)
+  - [The right to explanation](#the-right-to-explanation)
+  - [Discrimination in data](#discrimination-in-data)
+  - [Discrimination in implementation](#discrimination-in-implementation)
+  - [Discrimination and misinformation in generative AI](#discrimination-and-misinformation-in-generative-ai)
 - [**5. Safety Challenges of AI**](#5-safety-challenges-of-ai) (4 videos)
-  - AI in life and death situations
-  - AI in the military
-  - The challenges of military AI
-  - Physical safety and generative AI
+  - [AI in life and death situations](#ai-in-life-and-death-situations)
+  - [AI in the military](#ai-in-the-military)
+  - [The challenges of military AI](#the-challenges-of-military-ai)
+  - [Physical safety and generative AI](#physical-safety-and-generative-ai)
 - [**6. Confronting the Challenges of AI**](#6-confronting-the-challenges-of-ai) (5 videos)
-  - Strategies for developers
-  - Strategies for executives
-  - Strategies for public relations
-  - Strategies for regulators
-  - Strategies for consumers
+  - [Strategies for developers](#strategies-for-developers)
+  - [Strategies for executives](#strategies-for-executives)
+  - [Strategies for public relations](#strategies-for-public-relations)
+  - [Strategies for regulators](#strategies-for-regulators)
+  - [Strategies for consumers](#strategies-for-consumers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980)
@@ -116,14 +116,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (1), [[Accountability]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. The Context for AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The promise of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980)
@@ -244,10 +244,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (9), [[Neural Networks]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Algorithms]] (5)
 > **Definitions:** is a  (3), refers to (3), is an  (2)
 > **Analogies:** for example (1), analogous to (1), for instance (1), just like (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), function (1)
 > **Env Vars:** ann (1), ibm (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
@@ -317,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1), public (1)
+> **Frameworks & Libraries:** ai (10), [[Neural Networks]] (3), [[Generative AI]] (2), [[Predictive AI]] (2), [[Algorithms]] (2)
 > **Definitions:** refers to (1), stands for (1)
 > **Env Vars:** gpt (1)
 > **Warnings:** keep in mind (1)
@@ -412,7 +412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1)
+> **Frameworks & Libraries:** ai (15), game (2), power (2), [[Generative AI]] (2), [[Forms]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** idc (1)
@@ -520,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (6), next (4), [[Generative AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** pass (1), class, (1), match, (1)
 > **Env Vars:** agi (3)
 > **Definitions:** is a  (2), refers to (1)
 > **Cross-References:** in the next (2)
@@ -531,7 +531,7 @@ created: 2026-04-29
 
 ### 2. Technical Challenges of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical challenges for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980)
@@ -634,10 +634,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), [[Generative AI]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (2), next (2)
 > **Definitions:** is an  (1), is called (1), is a  (1), known as (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1), similar to (1)
-> **Code Keywords:** for, (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -716,10 +716,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Algorithms]] (2), [[Security]] (2), [[Supervised Learning]] (1), data (1)
 > **Analogies:** for example (2), for instance (2), it's like (1)
 > **Definitions:** is called (2), is a  (1), known as (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -838,9 +838,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Probability]] (3), [[Statistics]] (1), hit (1), [[Accountability]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), require (1)
 > **Env Vars:** mri (1), ekg (1)
 > **Analogies:** for instance (2)
 > **Versions:** 0.0001 (1)
@@ -901,6 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Search]] (2), [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
 > **Analogies:** for instance (3)
 > **Cross-References:** later in (2)
 > **UI Navigation:** go to (1)
@@ -1073,7 +1074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), case, (3), self (2), let (2), function (1)
+> **Frameworks & Libraries:** data (8), ai (5), game (4), [[Supervised Learning]] (3), [[Reinforcement Learning]] (3)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (3), for instance (2), just like (1)
 > **Definitions:** essentially is (1), refers to (1), is an  (1)
@@ -1227,8 +1228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (3), product (1), [[Algorithms]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (1), this, (1), self (1), public (1), finally, (1)
 > **Analogies:** for instance (3), similar to (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -1351,7 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), abstract (1), function (1), from, (1)
+> **Frameworks & Libraries:** data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (2), [[Neural Networks]] (2), ai (2)
 > **Definitions:** is an  (3), refers to (1), is a  (1)
 > **Analogies:** for instance (2), picture (1), such as (1)
 > **Env Vars:** covid (1), xai (1)
@@ -1469,9 +1470,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (3), [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Artificial Neural Networks]] (1)
 > **CLI Commands:** cat (3), make (3)
 > **Analogies:** for instance (2), for example (1), it's like (1), picture (1), such as (1)
-> **Code Keywords:** this. (3), let (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1557,7 +1558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), throw (1), else, (1), else. (1), new. (1)
+> **Frameworks & Libraries:** ai (9), data (4), [[Privacy]] (2), business (2), [[Search]] (1)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -1722,9 +1723,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Zoom]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), business (1)
 > **Speakers:** - [instructor] (3), - [narrator] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** throw (1), this. (1), let (1), self (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** for instance (2), picture (1)
 > **Versions:** 57.7 (1), 99.3 (1)
@@ -1733,7 +1734,7 @@ created: 2026-04-29
 
 ### 3. Social Challenges of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensions of justice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980)
@@ -1824,9 +1825,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (2), [[Forms]] (1)
 > **Definitions:** refers to (2), is called (1), means that (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1929,8 +1930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Search]] (1), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2002,8 +2003,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** pass (1), let (1)
 > **Env Vars:** gdpr (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -2011,7 +2012,7 @@ created: 2026-04-29
 
 ### 4. Legal Challenges of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI laws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980)
@@ -2086,8 +2087,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Generative AI]] (9), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** let (1), protected (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** it's like (1)
@@ -2198,8 +2199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Privacy]] (8), [[Google]] (3), web (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gdpr (10), ccpa (1)
-> **Code Keywords:** let (2), match. (1), pass (1), default, (1), delete (1)
 > **Definitions:** basically means (1), known as (1), is a  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for instance (2)
@@ -2304,7 +2305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), this, (1), self (1), continue (1)
+> **Frameworks & Libraries:** [[Probability]] (5), game (3), data (2), [[Algorithms]] (1)
 > **Definitions:** is a  (3), refers to (1), is an  (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Prerequisites:** set up (2)
@@ -2362,8 +2363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (3), [[Neural Networks]] (2), business (1), express (1)
 > **Env Vars:** gdpr (4), xai (1)
-> **Code Keywords:** require (1), let (1), this, (1), for. (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -2437,7 +2438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), let (1), this. (1)
+> **Frameworks & Libraries:** data (15), [[Algorithms]] (7), ai (3), [[Metadata]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Analogies:** for instance (1)
@@ -2486,8 +2487,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Forms]] (1), [[Algorithms]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for instance (2), for example (1)
-> **Code Keywords:** case. (1), raise (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** adm (1)
 > **Speakers:** - [presenter] (1)
@@ -2585,15 +2586,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), data (6), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Safety Challenges of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI in life and death situations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980)
@@ -2682,7 +2683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), function (1), else. (1), let (1)
+> **Frameworks & Libraries:** ai (12), data (6), application (1), [[Algorithms]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (2), is an  (1), is called (1), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
@@ -2771,7 +2772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), else. (1)
+> **Frameworks & Libraries:** ai (9), data (5), next (2), traffic (1), game (1)
 > **Env Vars:** suv (1), gps (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for instance (1)
@@ -2846,7 +2847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), self (1)
+> **Frameworks & Libraries:** ai (11), data (3), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **Env Vars:** laws (1)
 > **Cross-References:** previous video (1)
@@ -2941,7 +2942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1), self (1), function (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), ai (5), data (5), [[Arduino]] (1), [[Programming]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** gps (1)
@@ -2952,7 +2953,7 @@ created: 2026-04-29
 
 ### 6. Confronting the Challenges of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategies for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980)
@@ -3065,9 +3066,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (5), [[Linear Regression]] (3), [[Privacy]] (1), [[Decision Trees]] (1)
 > **Env Vars:** roc (2), gdpr (1), auc (1), toc (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (2), throw (1)
 > **Analogies:** for instance (2)
 > **Warnings:** troubleshoot (1), keep in mind (1)
 > **Best Practices:** don't forget (1)
@@ -3148,8 +3149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (7), business (2), next (2), [[Generative AI]] (2)
 > **CLI Commands:** make (8)
-> **Code Keywords:** public (2), this, (1), throw (1), require (1), finally, (1)
 > **Env Vars:** roi (3), ceo (1), gdpr (1), cio (1)
 > **Warnings:** be aware (2), keep in mind (1), be careful (1), watch out (1)
 > **Cross-References:** in the last (1)
@@ -3237,7 +3238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), finally, (2), else. (1)
+> **Frameworks & Libraries:** ai (17), data (2), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for instance (5)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
@@ -3300,8 +3301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ai (2), [[Algorithms]] (1), [[Privacy]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for instance (2), for example (1), it's like (1)
-> **Code Keywords:** let (1), require (1), new. (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
@@ -3387,7 +3388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), protected (1)
+> **Frameworks & Libraries:** ai (14), data (12), [[Algorithms]] (1), [[Programming]] (1), product (1)
 > **Env Vars:** gdpr (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -3397,7 +3398,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980)
@@ -3466,6 +3467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), data (9), [[Programming]] (4), business (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (6), python (2), find (2)
 > **Env Vars:** hbr (1), mit (1)
 > **Analogies:** for example (1), for instance (1)

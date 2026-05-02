@@ -21,7 +21,7 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Lean%20Six%20Sigma%20Foundations.md)
@@ -40,36 +40,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The continuous improvement culture
+  - [The continuous improvement culture](#the-continuous-improvement-culture)
 - [**1. Introducing Lean Six Sigma**](#1-introducing-lean-six-sigma) (3 videos)
-  - Why Six Sigma?
-  - Why Lean?
-  - Why Lean Six Sigma?
+  - [Why Six Sigma?](#why-six-sigma)
+  - [Why Lean?](#why-lean)
+  - [Why Lean Six Sigma?](#why-lean-six-sigma)
 - [**2. Understanding Six Sigma**](#2-understanding-six-sigma) (6 videos)
-  - Six Sigma: Define
-  - Six Sigma: Measure
-  - Six Sigma: Analyze
-  - Six Sigma: Improve
-  - Six Sigma: Control
-  - Design for Six Sigma
+  - [Six Sigma: Define](#six-sigma-define)
+  - [Six Sigma: Measure](#six-sigma-measure)
+  - [Six Sigma: Analyze](#six-sigma-analyze)
+  - [Six Sigma: Improve](#six-sigma-improve)
+  - [Six Sigma: Control](#six-sigma-control)
+  - [Design for Six Sigma](#design-for-six-sigma)
 - [**3. Understanding Lean**](#3-understanding-lean) (6 videos)
-  - Lean metrics
-  - Five S's
-  - Just-in-time
-  - Total productive maintenance
-  - Quality at the source
-  - Continuous improvement
+  - [Lean metrics](#lean-metrics)
+  - [Five S's](#five-ss)
+  - [Just-in-time](#just-in-time)
+  - [Total productive maintenance](#total-productive-maintenance)
+  - [Quality at the source](#quality-at-the-source)
+  - [Continuous improvement](#continuous-improvement)
 - [**4. Implementing Lean Six Sigma**](#4-implementing-lean-six-sigma) (4 videos)
-  - Lead the project
-  - Control the project
-  - Apply Lean Six Sigma to services
-  - Lean Six Sigma for supply chain
+  - [Lead the project](#lead-the-project)
+  - [Control the project](#control-the-project)
+  - [Apply Lean Six Sigma to services](#apply-lean-six-sigma-to-services)
+  - [Lean Six Sigma for supply chain](#lean-six-sigma-for-supply-chain)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The continuous improvement culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980)
@@ -92,14 +92,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Six Sigma]] (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - every (1)
 
 
 ### 1. Introducing Lean Six Sigma
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Six Sigma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980)
@@ -170,6 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (12), business (3), management (2), [[Microsoft Products|Products]] (1), product (1)
 > **Versions:** 3.4 (3), 1.5 (1)
 > **Documentation:** specification (2)
 > **CLI Commands:** make (1)
@@ -238,9 +239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1), product (1), [[Six Sigma]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** defined as (1), is a  (1)
-> **Code Keywords:** else, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - we (1)
@@ -320,14 +321,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), require (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (16), [[Engineering]] (1), application (1), [[Statistical Analysis]] (1), business (1)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
 
 
 ### 2. Understanding Six Sigma
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Six Sigma: Define
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980)
@@ -402,9 +403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (10), product (1)
 > **Env Vars:** ctq (1), dmaic (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** this, (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - when (1)
 
@@ -477,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (3), this, (2), function (1), for, (1), finally, (1)
+> **Frameworks & Libraries:** data (12), [[Six Sigma]] (3), functional (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** dmaic (1)
 > **Documentation:** specification (1)
@@ -553,8 +554,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistical Analysis]] (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** yield (1), continue (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - you (1)
@@ -622,6 +623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (6), management (2), product (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** setup (1), make sure you have (1)
 > **Env Vars:** dmaic (1)
@@ -689,9 +691,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (3), [[Forms]] (3), data (3), management (1), [[Engineering]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dmaic (1)
 > **Analogies:** for example (1)
 > **Speakers:** - control (1)
@@ -757,9 +759,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (7), product (3), [[Microsoft Products|Products]] (3), business (2)
 > **Env Vars:** dmadv (2), dmaic (1), dmedi (1)
 > **Definitions:** is a  (3), stands for (1)
-> **Code Keywords:** throw (1), function (1), require (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - sometimes (1)
@@ -767,7 +769,7 @@ created: 2026-04-29
 
 ### 3. Understanding Lean
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lean metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980)
@@ -838,8 +840,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Six Sigma]] (3), business (2), [[Performance Metrics]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** note that (1)
@@ -916,8 +918,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), feature (1), application (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** continue (1), let (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - the (1)
@@ -989,10 +991,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), next (2), business (1), [[Microsoft Products|Products]] (1), [[Six Sigma]] (1)
 > **Env Vars:** jit (6)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** private (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - henry (1)
@@ -1052,12 +1054,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Env Vars:** tpm (4), smed (2)
 > **Prerequisites:** setup (4), set up (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** function (1)
 > **Speakers:** - a (1)
 
 #### Quality at the source
@@ -1119,9 +1121,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), product (2), [[Six Sigma]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** pass (1), require (1)
 > **Documentation:** specification (2)
 > **Speakers:** - henry (1)
 
@@ -1216,9 +1218,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Six Sigma]] (4), teams (2), [[Microsoft Word|Word]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** dmaic (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
@@ -1226,7 +1228,7 @@ created: 2026-04-29
 
 ### 4. Implementing Lean Six Sigma
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lead the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980)
@@ -1291,6 +1293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (11), leadership (5), management (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1351,8 +1354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1), management (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - mario (1)
@@ -1432,8 +1435,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (7), business (2), [[Engineering]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for, (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
@@ -1504,9 +1507,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (7), product (3), functional (2), management (2), [[Supply Chain Management]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - there (1)
@@ -1514,7 +1517,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980)
@@ -1549,7 +1552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (6), management (2), business (1)
 > **URLs:** [lean.org](https://lean.org) (1), [asq.org](https://asq.org) (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - lean (1)

@@ -27,7 +27,7 @@ tags:
   - skill/python-programming-language
   - skill/django
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Django%20Essential%20Training.md)
@@ -46,68 +46,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - What is Django?
-  - What you need to start a Django project
-  - Utilizing the Django documentation
-  - Using Codespaces in this course
+  - [What is Django?](#what-is-django)
+  - [What you need to start a Django project](#what-you-need-to-start-a-django-project)
+  - [Utilizing the Django documentation](#utilizing-the-django-documentation)
+  - [Using Codespaces in this course](#using-codespaces-in-this-course)
 - [**1. Starting Your Django Project**](#1-starting-your-django-project) (4 videos)
-  - Creating a new Django project
-  - The model view template
-  - Minimum working page
-  - Creating your first Django template
+  - [Creating a new Django project](#creating-a-new-django-project)
+  - [The model view template](#the-model-view-template)
+  - [Minimum working page](#minimum-working-page)
+  - [Creating your first Django template](#creating-your-first-django-template)
 - [**2. Django Built-In User Management**](#2-django-built-in-user-management) (3 videos)
-  - Django admin: Easily visualizing and creating data
-  - Migrations: Making database changes easy
-  - User authentication in two simple steps
+  - [Django admin: Easily visualizing and creating data](#django-admin-easily-visualizing-and-creating-data)
+  - [Migrations: Making database changes easy](#migrations-making-database-changes-easy)
+  - [User authentication in two simple steps](#user-authentication-in-two-simple-steps)
 - [**3. How Django Interacts with Databases**](#3-how-django-interacts-with-databases) (6 videos)
-  - Introduction to ORMs
-  - Creating your first model
-  - Using admin for data creation and manipulation
-  - Using Django shell for creating and querying data
-  - </> Code challenge: Adding likes to notes
-  - Solution: Adding likes to notes
+  - [Introduction to ORMs](#introduction-to-orms)
+  - [Creating your first model](#creating-your-first-model)
+  - [Using admin for data creation and manipulation](#using-admin-for-data-creation-and-manipulation)
+  - [Using Django shell for creating and querying data](#using-django-shell-for-creating-and-querying-data)
+  - [</> Code challenge: Adding likes to notes](#code-challenge-adding-likes-to-notes)
+  - [Solution: Adding likes to notes](#solution-adding-likes-to-notes)
 - [**4. Building Dynamic Webpages**](#4-building-dynamic-webpages) (6 videos)
-  - Creating a dynamic template
-  - Creating your first Django dynamic webpage
-  - How can Django can list data with just some small changes
-  - Introduction to Django class-based views: A few classes have the power to change the world
-  - </> Code challenge: Showing just popular notes
-  - Solution: Showing just popular notes
+  - [Creating a dynamic template](#creating-a-dynamic-template)
+  - [Creating your first Django dynamic webpage](#creating-your-first-django-dynamic-webpage)
+  - [How can Django can list data with just some small changes](#how-can-django-can-list-data-with-just-some-small-changes)
+  - [Introduction to Django class-based views: A few classes have the power to change the world](#introduction-to-django-class-based-views-a-few-classes-have-the-power-to-change-the-world)
+  - [</> Code challenge: Showing just popular notes](#code-challenge-showing-just-popular-notes)
+  - [Solution: Showing just popular notes](#solution-showing-just-popular-notes)
 - [**5. Building Robust Front-Ends in Django**](#5-building-robust-front-ends-in-django) (5 videos)
-  - Static files in Django
-  - An HTML skeleton: How to set up a base structure to every Django template
-  - It's time to add some style
-  - </> Code challenge: Dividing a template into smaller parts
-  - Solution: Dividing a template into smaller parts
+  - [Static files in Django](#static-files-in-django)
+  - [An HTML skeleton: How to set up a base structure to every Django template](#an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template)
+  - [It's time to add some style](#its-time-to-add-some-style)
+  - [</> Code challenge: Dividing a template into smaller parts](#code-challenge-dividing-a-template-into-smaller-parts)
+  - [Solution: Dividing a template into smaller parts](#solution-dividing-a-template-into-smaller-parts)
 - [**6. Django Forms: Validation Shouldn’t Be Hard**](#6-django-forms-validation-shouldnt-be-hard) (5 videos)
-  - Create a webpage
-  - Understanding how Django handles security in POSTs
-  - Django forms: Powerful validation with minimal work
-  - Django forms are useful for layout as well
-  - Codespaces error and the solution
+  - [Create a webpage](#create-a-webpage)
+  - [Understanding how Django handles security in POSTs](#understanding-how-django-handles-security-in-posts)
+  - [Django forms: Powerful validation with minimal work](#django-forms-powerful-validation-with-minimal-work)
+  - [Django forms are useful for layout as well](#django-forms-are-useful-for-layout-as-well)
+  - [Codespaces error and the solution](#codespaces-error-and-the-solution)
 - [**7. Working with Existing Data**](#7-working-with-existing-data) (4 videos)
-  - The U in the CRUD: Updating data
-  - The D in the CRUD: Deleting data
-  - </> Code challenge: A button to add a like to a note
-  - Solution: A button to add a like to a note
+  - [The U in the CRUD: Updating data](#the-u-in-the-crud-updating-data)
+  - [The D in the CRUD: Deleting data](#the-d-in-the-crud-deleting-data)
+  - [</> Code challenge: A button to add a like to a note](#code-challenge-a-button-to-add-a-like-to-a-note)
+  - [Solution: A button to add a like to a note](#solution-a-button-to-add-a-like-to-a-note)
 - [**8. Using Django to Store and Display User-Specific Data**](#8-using-django-to-store-and-display-user-specific-data) (5 videos)
-  - How to update data stored in your database
-  - Template for update
-  - Endpoint and template for deleting
-  - </> Code challenge: Mark a note as public or private
-  - Solution: Mark a note as public or private
+  - [How to update data stored in your database](#how-to-update-data-stored-in-your-database)
+  - [Template for update](#template-for-update)
+  - [Endpoint and template for deleting](#endpoint-and-template-for-deleting)
+  - [</> Code challenge: Mark a note as public or private](#code-challenge-mark-a-note-as-public-or-private)
+  - [Solution: Mark a note as public or private](#solution-mark-a-note-as-public-or-private)
 - [**9. Login, Logout, and Signup Are Simple**](#9-login-logout-and-signup-are-simple) (5 videos)
-  - Adding login and logout pages
-  - Adding a signup page
-  - Finishing touches
-  - </> Code challenge: Create a share link for a public note
-  - Solution: Create a share link for a public note
+  - [Adding login and logout pages](#adding-login-and-logout-pages)
+  - [Adding a signup page](#adding-a-signup-page)
+  - [Finishing touches](#finishing-touches)
+  - [</> Code challenge: Create a share link for a public note](#code-challenge-create-a-share-link-for-a-public-note)
+  - [Solution: Create a share link for a public note](#solution-create-a-share-link-for-a-public-note)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Django?
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980)
@@ -134,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (3), application (2), [[Security]] (1), web (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** super (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (3), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** finally, (1), this, (1)
 > **Versions:** python 3 (1), 3.2 (1)
 > **Tools:** vs code (1), github (1)
 > **CLI Commands:** python (1)
@@ -202,6 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (4), [[Programming]] (1), career (1)
 > **CLI Commands:** find (1)
 > **Documentation:** the docs (1)
 > **Speakers:** - [instructor] (1)
@@ -241,10 +242,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Django]] (3), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2), feature (1)
 > **CLI Commands:** pip (3), python (2), make (1)
 > **Tools:** github (3), vs code (1), terminal (1)
 > **Prerequisites:** install (4)
-> **Code Keywords:** while, (1), let (1)
 > **Versions:** version 3 (1), 5.1 (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -252,7 +253,7 @@ created: 2026-04-29
 
 ### 1. Starting Your Django Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a new Django project
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980)
@@ -311,9 +312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (6), database (1), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** manage.py (3), settings.py (3), urls.py (1)
 > **Definitions:** means that (3), is a  (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** python (1)
 > **Ports:** port 8000 (1)
 > **Env Vars:** debug (1)
@@ -407,7 +408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), default. (1), delete (1), this, (1)
+> **Frameworks & Libraries:** [[Django]] (7), [[Software Projects]] (1), data (1), database (1), [[HTML]] (1)
 > **UI Navigation:** go to (5), open the (1)
 > **File Paths:** urls.py (3), settings.py (1)
 > **Env Vars:** http (1), mvt (1), html (1)
@@ -479,7 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), pass (3), module (1)
+> **Frameworks & Libraries:** [[HTML]] (10), [[Django]] (5), [[Programming]] (1)
 > **Env Vars:** html (8), dtl (3)
 > **Exercise Files:** template (8)
 > **Definitions:** is a  (2)
@@ -549,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (4), function (4), self (1), else, (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[Software Projects]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** go back to (1)
@@ -559,7 +560,7 @@ created: 2026-04-29
 
 ### 2. Django Built-In User Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Django admin: Easily visualizing and creating data
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/django-admin-easily-visualizing-and-creating-data?u=76281980)
@@ -648,7 +649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (5), default. (1), default, (1)
+> **Frameworks & Libraries:** [[Django]] (11), database (8), data (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** open the (1)
@@ -715,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (4), default, (1), delete (1), require (1)
+> **Frameworks & Libraries:** data (6), [[Django]] (4), database (3), [[Search]] (3)
 > **Analogies:** such as (2), for instance (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), is a  (1)
@@ -797,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), interface (1), this, (1), pass (1)
+> **Frameworks & Libraries:** [[Django]] (5), [[HTML]] (2)
 > **Cross-References:** go back to (4)
 > **Exercise Files:** template (3)
 > **File Paths:** home/authorized.html (1), urls.py (1)
@@ -809,7 +810,7 @@ created: 2026-04-29
 
 ### 3. How Django Interacts with Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ORMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980)
@@ -838,9 +839,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[Django]] (3), [[Python (Programming Language)|Python]] (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** orm (3), sql (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** class, (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -929,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), super (1), this. (1), this, (1)
+> **Frameworks & Libraries:** database (4), [[Django]] (3), [[Python (Programming Language)|Python]] (2)
 > **Definitions:** is a  (4), means that (2)
 > **File Paths:** manage.py (2), models.py (1)
 > **CLI Commands:** python (2), make (1)
@@ -1013,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), interface (4), pass (4), this. (2), class. (1)
+> **Frameworks & Libraries:** [[Django]] (5)
 > **Cross-References:** go back to (3)
 > **File Paths:** admin.py (1)
 > **Prerequisites:** configure (1)
@@ -1108,7 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), this, (1), private (1), function (1)
+> **Frameworks & Libraries:** [[Django]] (12), [[Microsoft Word|Word]] (9), database (5), [[Python (Programming Language)|Python]] (2), data (2)
 > **Analogies:** for instance (4), think of it as (1), imagine (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Code Identifiers:** new_note (1), title__startswith (1), text__icontains (1), text__contains (1)
@@ -1150,8 +1151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), feature (1), next (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1234,9 +1235,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[Python (Programming Language)|Python]] (2), [[Django]] (2)
 > **Definitions:** means that (2), is a  (2)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** let (2), class, (1)
 > **File Paths:** manage.py (2)
 > **Documentation:** the documentation (1), the docs (1)
 > **Cross-References:** go back to (1)
@@ -1246,7 +1247,7 @@ created: 2026-04-29
 
 ### 4. Building Dynamic Webpages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a dynamic template
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980)
@@ -1347,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (3), this, (3)
+> **Frameworks & Libraries:** database (4), [[HTML]] (4), [[Django]] (2), data (1)
 > **Exercise Files:** template (10)
 > **File Paths:** views.py (1), notes/notes_list.html (1), urls.py (1), notes_list.html (1)
 > **Code Identifiers:** all_notes (2), notes_list (1)
@@ -1441,7 +1442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (4), function (3), private (2), raise (2)
+> **Frameworks & Libraries:** [[HTML]] (3), database (2), [[Django]] (2)
 > **File Paths:** views.py (2), notes/notes_detail.html (1), notes_detail.html (1)
 > **Env Vars:** url (4)
 > **Exercise Files:** template (3)
@@ -1549,7 +1550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), pass (5), class. (3), delete (2)
+> **Frameworks & Libraries:** [[Django]] (3), generic (1)
 > **Code Identifiers:** as_view (2), extra_context (1), template_name (1), login_url (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** make (2)
@@ -1657,7 +1658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), class. (2), from. (1), default. (1), delete (1)
+> **Frameworks & Libraries:** [[Django]] (2), generic (1), [[HTML]] (1), feature (1)
 > **UI Navigation:** go to (5)
 > **Exercise Files:** template (4)
 > **Code Identifiers:** notes_list (1), context_object_name (1), as_view (1)
@@ -1698,7 +1699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (1), [[Django]] (1)
 > **URLs:** [ccbv.co](https://ccbv.co) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1765,7 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), class, (1), else. (1)
+> **Frameworks & Libraries:** [[Django]] (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** go back to (2)
 > **Documentation:** the documentation (1), the docs (1)
@@ -1777,7 +1778,7 @@ created: 2026-04-29
 
 ### 5. Building Robust Front-Ends in Django
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Static files in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980)
@@ -1870,7 +1871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), static (10), class, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** css (12), [[Django]] (6), [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (12), url (2), html (2), atml (1)
 > **UI Navigation:** go to (2), scroll down (1), open the (1)
 > **Exercise Files:** template (2)
@@ -1954,7 +1955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (7), extends (2), for. (2), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (8), css (6), [[Django]] (4), [[Search]] (1), power (1)
 > **Exercise Files:** template (15)
 > **Env Vars:** html (4), css (3), base_dir (1)
 > **File Paths:** base.html (3), css/style.css (1)
@@ -2138,7 +2139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (34), pass (3), function (2), this. (2), static (1)
+> **Frameworks & Libraries:** [[Django]] (4), css (3), node (1)
 > **Env Vars:** css (3), btn (2), url (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **UI Navigation:** go to (3)
@@ -2168,10 +2169,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **Exercise Files:** template (5)
 > **File Paths:** welcome.html (2), advantages.html (1)
 > **Env Vars:** html (3)
-> **Code Keywords:** this, (1), function (1)
 > **CLI Commands:** find (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
@@ -2212,7 +2213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), include. (1), super (1)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **File Paths:** advatnages.html (1), welcome.html (1), advantages.html (1)
 > **Env Vars:** html (3)
 > **Exercise Files:** template (3)
@@ -2224,7 +2225,7 @@ created: 2026-04-29
 
 ### 6. Django Forms: Validation Shouldn’t Be Hard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a webpage
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980)
@@ -2333,7 +2334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), finally, (3), pass (3), class. (2), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Django]] (1), data (1)
 > **Env Vars:** html (3), crud (1), post (1)
 > **File Paths:** views.py (1), urls.py (1), notes_form.html (1), base.html (1)
 > **Code Identifiers:** success_url (2), as_view (1), notes_form (1)
@@ -2396,8 +2397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (6), [[Security]] (2)
 > **Definitions:** is a  (2), stands for (1), is an  (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** csrf_token (1)
 > **Env Vars:** csrf (1)
@@ -2504,7 +2505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (4), this. (3), from . (2), class, (2)
+> **Frameworks & Libraries:** [[Django]] (7), [[Forms]] (6), power (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Code Identifiers:** cleaned_data (2), form_class (1), errorlist (1), as_text (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (2), just like (1)
@@ -2574,7 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), this, (1), pass (1)
+> **Frameworks & Libraries:** [[Forms]] (3), ux (1), css (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -2632,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), override (2), pass (2)
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (2)
 > **Env Vars:** codespaces (2), csfr (1), csrf (1), csrf_trusted_origins (1)
 > **Definitions:** is a  (4), stands for (1)
 > **Tools:** github (2)
@@ -2644,7 +2645,7 @@ created: 2026-04-29
 
 ### 7. Working with Existing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The U in the CRUD: Updating data
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/the-u-in-the-crud-updating-data?u=76281980)
@@ -2729,7 +2730,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), class, (2), this. (2), function (1)
+> **Frameworks & Libraries:** data (1)
 > **Cross-References:** go back to (4)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (3)
@@ -2829,7 +2830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), delete (7), this. (2), class, (1), finally, (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[HTML]] (2), data (1), generic (1)
 > **Exercise Files:** template (8)
 > **Code Identifiers:** template_name (2), success_url (1), notes_delete (1), csrf_token (1), notes_confirm_delete (1)
 > **Cross-References:** go back to (3)
@@ -2857,7 +2858,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **API Endpoints:** post  (1)
@@ -3020,7 +3020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (7), pass (5), case, (1), case. (1)
+> **Frameworks & Libraries:** [[Django]] (2), data (1), node (1), database (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** url (8), hcp (1), csrf (1)
 > **CLI Commands:** make (7), node (1)
 > **Definitions:** is a  (5), is an  (1), means that (1)
@@ -3032,7 +3032,7 @@ created: 2026-04-29
 
 ### 8. Using Django to Store and Display User-Specific Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to update data stored in your database
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980)
@@ -3127,7 +3127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), case, (2), default. (1), delete (1)
+> **Frameworks & Libraries:** database (4), [[Django]] (3), [[Python (Programming Language)|Python]] (3), node (2)
 > **CLI Commands:** python (3), node (2), make (2)
 > **File Paths:** manage.py (3)
 > **Code Identifiers:** foreignkey (1), on_delete (1)
@@ -3205,7 +3205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), import, (1), require (1), override (1), default, (1)
+> **Frameworks & Libraries:** [[Django]] (2), node (1), [[Privacy]] (1), generic (1), database (1)
 > **Env Vars:** url (2), ccbv (1), attp (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2), means that (1)
@@ -3297,7 +3297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (4), this, (1), override (1), finally, (1)
+> **Frameworks & Libraries:** database (5), data (4), [[Django]] (1), node (1)
 > **Code Identifiers:** isvalid (3), form_valid (1), get_success_url (1), cleaned_data (1), formvalid (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** node (1)
@@ -3320,7 +3320,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (2), this, (1), finally, (1), let (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -3425,7 +3424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (22), let (12), private (7), switch (3), default. (1)
+> **Frameworks & Libraries:** hit (2), [[Python (Programming Language)|Python]] (1), database (1)
 > **CLI Commands:** make (13), python (1)
 > **Code Identifiers:** change_visibility (2), change_visibility_view (1)
 > **Warnings:** warning (2), keep in mind (1)
@@ -3437,7 +3436,7 @@ created: 2026-04-29
 
 ### 9. Login, Logout, and Signup Are Simple
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding login and logout pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980)
@@ -3566,7 +3565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this. (6), interface (3), finally, (2), extends (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Django]] (3)
 > **File Paths:** home/login.html (1), login.html (1), base.html (1), home/logout.html (1), logout.html (1)
 > **UI Navigation:** go to (5)
 > **Exercise Files:** template (4)
@@ -3702,7 +3701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), pass (5), this, (3), else, (1), finally, (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[HTML]] (1), [[Security]] (1)
 > **Env Vars:** url (7), post (5)
 > **API Endpoints:** post  (5)
 > **CLI Commands:** make (3)
@@ -3820,7 +3819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), static (1), class, (1), this. (1), else, (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Django]] (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (2)
@@ -3850,7 +3849,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2), require (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Best Practices:** make sure to (1)
@@ -3919,7 +3917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (4), private (4)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
@@ -3931,7 +3929,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980)
@@ -3962,7 +3960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[LinkedIn]] (2), [[Unit Testing]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** rest (1)

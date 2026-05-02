@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/snowflake
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Gen%20AI%20with%20Snowflake.md)
@@ -55,34 +55,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Navigating the generative AI revolution with Snowflake
-  - What we’ll cover in this course
+  - [Navigating the generative AI revolution with Snowflake](#navigating-the-generative-ai-revolution-with-snowflake)
+  - [What we’ll cover in this course](#what-well-cover-in-this-course)
 - [**1. Introduction to GenAI on Snowflake**](#1-introduction-to-genai-on-snowflake) (2 videos)
-  - Preparing your development environment
-  - Build a simple AI app in Snowflake
+  - [Preparing your development environment](#preparing-your-development-environment)
+  - [Build a simple AI app in Snowflake](#build-a-simple-ai-app-in-snowflake)
 - [**2. Snowflake Cortex’s LLM-Based Functions**](#2-snowflake-cortexs-llm-based-functions) (8 videos)
-  - Introduction
-  - Introduction to LLM functions and Cortex COMPLETE
-  - Task-specific LLM functions and helper functions
-  - Using the Cortex COMPLETE function
-  - Using task-specific Cortex LLM functions
-  - Using helper functions
-  - Getting ready to put it all together: Build a Streamlit app
-  - Module recap
+  - [Introduction](#introduction)
+  - [Introduction to LLM functions and Cortex COMPLETE](#introduction-to-llm-functions-and-cortex-complete)
+  - [Task-specific LLM functions and helper functions](#task-specific-llm-functions-and-helper-functions)
+  - [Using the Cortex COMPLETE function](#using-the-cortex-complete-function)
+  - [Using task-specific Cortex LLM functions](#using-task-specific-cortex-llm-functions)
+  - [Using helper functions](#using-helper-functions)
+  - [Getting ready to put it all together: Build a Streamlit app](#getting-ready-to-put-it-all-together-build-a-streamlit-app)
+  - [Module recap](#module-recap)
 - [**3. Customize LLM Responses with Cortex Fine-Tuning**](#3-customize-llm-responses-with-cortex-fine-tuning) (9 videos)
-  - What is Cortex fine-tuning?
-  - Setting up your environment
-  - Analyzing customer support tickets
-  - Preparing your training data
-  - Starting the fine-tuning job
-  - Inference using fine-tuned model
-  - Streamlit app to autogenerate custom emails and text messages
-  - Module recap
-  - Continue your generative AI education
+  - [What is Cortex fine-tuning?](#what-is-cortex-fine-tuning)
+  - [Setting up your environment](#setting-up-your-environment)
+  - [Analyzing customer support tickets](#analyzing-customer-support-tickets)
+  - [Preparing your training data](#preparing-your-training-data)
+  - [Starting the fine-tuning job](#starting-the-fine-tuning-job)
+  - [Inference using fine-tuned model](#inference-using-fine-tuned-model)
+  - [Streamlit app to autogenerate custom emails and text messages](#streamlit-app-to-autogenerate-custom-emails-and-text-messages)
+  - [Module recap](#module-recap)
+  - [Continue your generative AI education](#continue-your-generative-ai-education)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating the generative AI revolution with Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980)
@@ -161,7 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), for. (1), throw (1)
+> **Frameworks & Libraries:** ai (19), data (12), [[Snowflake]] (8), [[Generative AI]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Env Vars:** sql (1), llm (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** python (1)
@@ -201,7 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), ai (4), application (2), [[Generative AI]] (2), [[Customer Support]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -209,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Introduction to GenAI on Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980)
@@ -352,8 +352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (28), database (10), next (4), [[Databases]] (2), [[SQL]] (2)
 > **UI Navigation:** click on (10), navigate to (5), select the (1)
-> **Code Keywords:** let (5), this, (2), continue (1), public (1)
 > **Prerequisites:** you'll need (2), install (1), set up (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** sql (2)
@@ -560,8 +560,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (30), data (17), ai (8), [[Python (Programming Language)|Python]] (8), [[JSON]] (8)
 > **Env Vars:** json (8), llm (7), sql (6), aws (3), csv (3)
-> **Code Keywords:** function (9), let (8), this, (2), module (2), continue (1)
 > **UI Navigation:** click on (9), navigate to (2), dropdown (2), select the (1), go to (1)
 > **CLI Commands:** python (8), aws (3), find (1), make (1)
 > **Definitions:** is a  (4), means that (1), is an  (1)
@@ -572,7 +572,7 @@ created: 2026-04-29
 
 ### 2. Snowflake Cortex’s LLM-Based Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980)
@@ -605,8 +605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (3), llm (3), [[Generative AI]] (1), prompt (1), [[JSON]] (1)
 > **Env Vars:** llm (3), complete (1), json (1), count_tokens (1), try_complete (1)
-> **Code Keywords:** let (2), function (1), module (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Speakers:** - welcome (1)
 
@@ -747,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (14), llm (12), next (5), [[LLaMA]] (3), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** llm (12), ski (6), gear (6), support (6), schema (3)
-> **Code Keywords:** let (7), module (3), function (3), from. (1), require (1)
 > **UI Navigation:** click on (3), select the (3), navigate to (2), switch to (1)
 > **CLI Commands:** python (3), git (3), find (2)
 > **Analogies:** such as (3), imagine (1)
@@ -911,7 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (5), pass (4), public (2), default, (1)
+> **Frameworks & Libraries:** llm (15), [[Snowflake]] (7), [[Tokens]] (6), next (5), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** llm (15), sql (2), nlp (1)
 > **Cross-References:** in the next (2), in the last (1), we discussed (1), as we saw (1)
 > **CLI Commands:** python (4)
@@ -1145,7 +1145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), pass (4), case, (2), self (1)
+> **Frameworks & Libraries:** prompt (12), [[Tokens]] (10), llm (7), [[LLaMA]] (6), application (4)
 > **Env Vars:** llm (7), sql (3), json (2), using_llm_functions (1), ski_gear_support_db (1)
 > **Analogies:** such as (5), for example (3)
 > **CLI Commands:** python (3), aws (1), make (1), find (1)
@@ -1319,7 +1319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (14), pass (4), continue (2), module (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), next (4), llm (2), data (2)
 > **Env Vars:** sql (5), llm (2)
 > **CLI Commands:** python (4), make (1), find (1)
 > **Cross-References:** in the next (2), previous video (1), as we saw (1)
@@ -1433,8 +1433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (5), llm (4), application (3), [[Snowflake]] (2), prompt (2)
 > **Env Vars:** try_complete (7), count_tokens (5), complete (5), llm (4), using_llm_functions (1)
-> **Code Keywords:** function (11), pass (3), let (2), this, (1), switch (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
@@ -1573,7 +1573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), module (3), let (2), switch (2), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), next (6), llm (5), [[Snowflake]] (4), [[JSON]] (4)
 > **Env Vars:** llm (5), json (4), llms (2), url (1), aws (1)
 > **CLI Commands:** python (8), make (1), git (1), aws (1)
 > **UI Navigation:** click on (3), select the (3), navigate to (2), dropdown (2), go to (1)
@@ -1611,7 +1611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (2), function (1)
+> **Frameworks & Libraries:** llm (2), [[Fine Tuning]] (2), next (1), data (1)
 > **Env Vars:** llm (2), complete (1), count_tokens (1), try_complete (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -1622,7 +1622,7 @@ created: 2026-04-29
 
 ### 3. Customize LLM Responses with Cortex Fine-Tuning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Cortex fine-tuning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980)
@@ -1793,9 +1793,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (8), [[Snowflake]] (6), [[LLaMA]] (5), data (3), [[JSON]] (3)
 > **Env Vars:** llm (8), finetune (6), json (3), peft (1)
 > **Analogies:** such as (7), imagine (2), just like (2), picture (1), for example (1)
-> **Code Keywords:** let (5), function (4), case. (1)
 > **Definitions:** is a  (5)
 > **Versions:** 3.1 (2), 3.2 (2)
 > **Cross-References:** in the next (2), we covered (1), we talked about (1)
@@ -1923,10 +1923,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (19), data (7), next (4), [[Git]] (3), database (3)
 > **Env Vars:** telco_support_db (5), support_data (4), aws (2), schema (2), csv (2)
 > **UI Navigation:** click on (7), select the (4), navigate to (3), switch to (1)
 > **CLI Commands:** git (3), find (2), aws (2), make (1)
-> **Code Keywords:** let (3), this. (1), module (1), switch (1), public (1)
 > **Code Identifiers:** telco_support_db (1), support_data (1), load_support_tickets (1)
 > **Analogies:** imagine (1), just like (1)
 > **Prerequisites:** set up (1), install (1)
@@ -2037,7 +2037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), for. (1), except, (1), switch (1)
+> **Frameworks & Libraries:** prompt (9), llm (7), next (6), [[Snowflake]] (4), data (4)
 > **Env Vars:** llm (7)
 > **Cross-References:** in the next (4), coming up (1)
 > **UI Navigation:** click on (2), select the (2), navigate to (1)
@@ -2157,7 +2157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4)
+> **Frameworks & Libraries:** data (18), [[Fine Tuning]] (11), next (5), [[Snowflake]] (5), prompt (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2), we covered (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1)
@@ -2429,8 +2429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Snowflake]] (16), next (11), llm (6), [[Tokens]] (6)
 > **Env Vars:** finetune (8), llm (6), describe (5), create (4), show (4)
-> **Code Keywords:** let (7), function (7), pass (6), this, (3), interface (3)
 > **UI Navigation:** select the (5), click on (2), navigate to (1), go to (1)
 > **Cross-References:** in the next (2), in the last (1), we mentioned (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2483,8 +2483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), next (2), llm (1), [[Snowflake]] (1), database (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1)
-> **Code Keywords:** function (1), interface (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - in (1)
@@ -2695,8 +2695,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[Python (Programming Language)|Python]] (8), application (7), llm (7), ai (6)
 > **UI Navigation:** select the (5), navigate to (4), click on (4), dropdown (4)
-> **Code Keywords:** let (5), function (5), this, (3), module (2), interface (1)
 > **Env Vars:** llm (7), url (3), ast (1)
 > **CLI Commands:** python (8), git (1)
 > **Exercise Files:** source code (5), download the (1), sample code (1)
@@ -2747,7 +2747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), module (1), interface (1)
+> **Frameworks & Libraries:** llm (3), ai (3), data (2), application (1), business (1)
 > **Env Vars:** llm (3)
 > **Cross-References:** coming up (1)
 > **Speakers:** - congratulations (1)
@@ -2814,7 +2814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), finally, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), llm (3), next (1), career (1), [[Tokens]] (1)
 > **Env Vars:** llm (3), llms (1), lms (1)
 > **Cross-References:** we covered (2)
 > **Definitions:** is a  (1)

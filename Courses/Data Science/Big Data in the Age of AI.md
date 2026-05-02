@@ -34,7 +34,7 @@ tags:
   - skill/data-literacy
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Big%20Data%20in%20the%20Age%20of%20AI.md)
@@ -53,47 +53,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Big data in the age of AI
+  - [Big data in the age of AI](#big-data-in-the-age-of-ai)
 - [**1. Defining Big Data**](#1-defining-big-data) (7 videos)
-  - The volume, velocity, and variety of big data
-  - Machine learning and predictive AI
-  - Generative AI
-  - Agentic AI
-  - Social media and the Internet of Things
-  - Data warehouses, data lakes, and the cloud
-  - Edge computing, fog computing, and local computing
+  - [The volume, velocity, and variety of big data](#the-volume-velocity-and-variety-of-big-data)
+  - [Machine learning and predictive AI](#machine-learning-and-predictive-ai)
+  - [Generative AI](#generative-ai)
+  - [Agentic AI](#agentic-ai)
+  - [Social media and the Internet of Things](#social-media-and-the-internet-of-things)
+  - [Data warehouses, data lakes, and the cloud](#data-warehouses-data-lakes-and-the-cloud)
+  - [Edge computing, fog computing, and local computing](#edge-computing-fog-computing-and-local-computing)
 - [**2. How Is Big Data Used?**](#2-how-is-big-data-used) (3 videos)
-  - Big data for competitive advantage
-  - Big data for change detection
-  - Big data as proxy data
+  - [Big data for competitive advantage](#big-data-for-competitive-advantage)
+  - [Big data for change detection](#big-data-for-change-detection)
+  - [Big data as proxy data](#big-data-as-proxy-data)
 - [**3. Ethics in Big Data**](#3-ethics-in-big-data) (6 videos)
-  - Big data and privacy
-  - Intellectual property, corporate data, and generative AI
-  - Environmental impact of big data and AI
-  - Social impact of big data and AI
-  - Laws affecting big data and AI
-  - Data governance
+  - [Big data and privacy](#big-data-and-privacy)
+  - [Intellectual property, corporate data, and generative AI](#intellectual-property-corporate-data-and-generative-ai)
+  - [Environmental impact of big data and AI](#environmental-impact-of-big-data-and-ai)
+  - [Social impact of big data and AI](#social-impact-of-big-data-and-ai)
+  - [Laws affecting big data and AI](#laws-affecting-big-data-and-ai)
+  - [Data governance](#data-governance)
 - [**4. Data Logistics**](#4-data-logistics) (4 videos)
-  - Structured, semi-structured, and unstructured data
-  - Batch processing vs. stream processing
-  - Distributed storage and processing
-  - An evolving data landscape
+  - [Structured, semi-structured, and unstructured data](#structured-semi-structured-and-unstructured-data)
+  - [Batch processing vs. stream processing](#batch-processing-vs-stream-processing)
+  - [Distributed storage and processing](#distributed-storage-and-processing)
+  - [An evolving data landscape](#an-evolving-data-landscape)
 - [**5. Analyzing Big Data**](#5-analyzing-big-data) (9 videos)
-  - Challenges with data preparation
-  - Visualizing big data
-  - Data mining
-  - Text analytics
-  - Sentiment analysis
-  - Predictive analytics
-  - Anomaly detection
-  - Retrieval-augmented generation (RAG)
-  - Using big data to make small data
+  - [Challenges with data preparation](#challenges-with-data-preparation)
+  - [Visualizing big data](#visualizing-big-data)
+  - [Data mining](#data-mining)
+  - [Text analytics](#text-analytics)
+  - [Sentiment analysis](#sentiment-analysis)
+  - [Predictive analytics](#predictive-analytics)
+  - [Anomaly detection](#anomaly-detection)
+  - [Retrieval-augmented generation (RAG)](#retrieval-augmented-generation-rag)
+  - [Using big data to make small data](#using-big-data-to-make-small-data)
 - [**Continuing Your Big Data in AI Learning Journey**](#continuing-your-big-data-in-ai-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Big data in the age of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980)
@@ -120,14 +120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Big Data]] (4), data (4), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 
 ### 1. Defining Big Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The volume, velocity, and variety of big data
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980)
@@ -260,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[Big Data]] (15), data (15), [[Databases]] (1), [[Search]] (1), [[Google]] (1)
 > **Env Vars:** ram (1), gps (1)
 > **Analogies:** for example (1), for instance (1)
 > **Definitions:** is a  (1)
@@ -367,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), throw (2), while. (1), public (1), this. (1)
+> **Frameworks & Libraries:** ai (13), [[Big Data]] (9), data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Algorithms]] (3)
 > **CLI Commands:** find (2)
 > **Analogies:** for instance (2)
 > **Definitions:** refers to (1)
@@ -478,8 +478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Generative AI]] (4), ai (4), [[ChatGPT]] (4), [[Big Data]] (4)
 > **Env Vars:** gpt (5), nlp (1), bert (1)
-> **Code Keywords:** let (2), public (1), new, (1), case, (1), continue (1)
 > **Definitions:** is a  (3), stands for (1), means that (1)
 > **CLI Commands:** cat (1)
 > **Versions:** 1.8 (1)
@@ -565,8 +565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Generative AI]] (2), [[Predictive AI]] (1), [[Analytics]] (1), next (1)
 > **Analogies:** for instance (1), picture (1), think of it as (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** led (1)
 
@@ -691,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), raise (1), let (1), self (1)
+> **Frameworks & Libraries:** data (14), [[Big Data]] (4), [[Internet of Things (IoT)|Internet of things]] (4), power (2), traffic (2)
 > **Analogies:** for instance (2)
 > **Cross-References:** coming up (1)
 > **Definitions:** is an  (1)
@@ -860,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (3), else. (1)
+> **Frameworks & Libraries:** data (53), cloud (16), [[Big Data]] (5), [[Security]] (3), next (2)
 > **CLI Commands:** aws (2), find (1), make (1)
 > **Definitions:** is a  (2), known as (2)
 > **Env Vars:** aws (2), ibm (1)
@@ -944,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), private (1), function (1), case, (1)
+> **Frameworks & Libraries:** data (5), cloud (5), [[Big Data]] (4), [[Privacy]] (2), [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -953,7 +953,7 @@ created: 2026-04-29
 
 ### 2. How Is Big Data Used?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Big data for competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980)
@@ -1088,8 +1088,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Big Data]] (13), business (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** case, (1), case. (1), let (1)
 > **Env Vars:** crm (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1232,9 +1232,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Big Data]] (6), hit (1), [[React.js|React]] (1), bi (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for instance (2)
-> **Code Keywords:** static (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -1329,15 +1329,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), [[Generative AI]] (4), prompt (2), [[Big Data]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** require (1), this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Ethics in Big Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Big data and privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980)
@@ -1440,10 +1440,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Privacy]] (6), [[Mesh]] (1), web (1), ai (1)
 > **Env Vars:** gdpr (7)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** private (1), delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Intellectual property, corporate data, and generative AI
@@ -1501,9 +1501,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Generative AI]] (5), ai (5), [[Privacy]] (2), [[Big Data]] (1)
 > **Warnings:** be careful (2), caution (1), be aware (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** private (2), else. (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
@@ -1583,7 +1583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (1)
+> **Frameworks & Libraries:** ai (11), power (5), [[Generative AI]] (3), [[Microsoft]] (3), [[Algorithms]] (2)
 > **Definitions:** is a  (2)
 > **Warnings:** troubleshoot (1), keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -1685,8 +1685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (8), [[Big Data]] (6), [[Generative AI]] (3), power (1)
 > **Analogies:** for instance (5)
-> **Code Keywords:** let (1), for. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** watch out (1)
@@ -1845,7 +1845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), else, (1), require (1), this, (1)
+> **Frameworks & Libraries:** ai (15), data (13), [[Big Data]] (5), [[Privacy]] (3), [[Accountability]] (3)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), picture (1)
@@ -1994,8 +1994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), [[Big Data]] (4), [[Security]] (3), [[Programming]] (2), [[Metadata]] (2)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** super (1), let (1), from, (1), finally, (1)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** csv (1)
@@ -2004,7 +2004,7 @@ created: 2026-04-29
 
 ### 4. Data Logistics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structured, semi-structured, and unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980)
@@ -2103,8 +2103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Unstructured Data]] (6), [[JSON]] (2), [[Relational Databases]] (1), [[HTML]] (1)
 > **Env Vars:** json (2), zip (1), html (1), xml (1), csv (1)
-> **Code Keywords:** case, (2), for. (1), finally, (1), else, (1)
 > **Definitions:** is a  (2), means that (2), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (2)
@@ -2194,8 +2194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Batch Processing]] (5), [[Agile Development|Agile]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this, (1), let (1), this. (1), static (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
@@ -2260,8 +2260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Big Data]] (9), data (5), [[Hadoop]] (5), cloud (3), next (2)
 > **CLI Commands:** apache (1), aws (1), docker (1)
-> **Code Keywords:** this. (1), super (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** aws (1)
 > **Cross-References:** next video (1)
@@ -2345,7 +2345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), this, (1), throw (1), let (1)
+> **Frameworks & Libraries:** data (11), [[Big Data]] (7), [[Hardware]] (2), [[Deep Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Tools:** bash (1), terminal (1)
 > **Analogies:** for instance (2)
@@ -2356,7 +2356,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Big Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges with data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980)
@@ -2453,7 +2453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), case. (1), default, (1)
+> **Frameworks & Libraries:** data (17), [[Big Data]] (4), [[Unstructured Data]] (1), [[Algorithms]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 10.7 (2), 2.7 (1)
@@ -2559,7 +2559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), abstract (1), case, (1), this, (1), interface (1)
+> **Frameworks & Libraries:** data (13), [[Big Data]] (5), product (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), picture (1)
@@ -2658,7 +2658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), this. (2), break. (1), case, (1), match, (1)
+> **Frameworks & Libraries:** data (14), [[Probability]] (2), product (2), [[Algorithms]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** find (5)
 > **Analogies:** for instance (1)
 > **Warnings:** be careful (1)
@@ -2749,7 +2749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3)
+> **Frameworks & Libraries:** data (5), [[Analytics]] (3), [[Big Data]] (2), prompt (1), [[Unstructured Data]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (1), for instance (1)
 > **Speakers:** - [lecturer] (1)
@@ -2837,8 +2837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), data (4), product (4), business (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2929,6 +2929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (4), data (2), [[Neural Networks]] (2), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
 > **Analogies:** picture (2), for instance (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -3015,8 +3016,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Big Data]] (5), data (4), product (1), [[Algorithms]] (1), [[Decision Trees]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else. (1)
 > **Env Vars:** gps (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -3100,8 +3101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), data (5), ai (2), [[Search]] (2), rag (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** this, (2)
 > **Versions:** 99.9 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -3182,16 +3183,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Big Data]] (12), data (9), [[Search]] (2), traffic (1), [[Real-Time]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - [host] (1)
 
 
 ### Continuing Your Big Data in AI Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980)
@@ -3230,6 +3231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Big Data]] (4), ai (4), [[LinkedIn]] (1), [[Statistical Analysis]] (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [barton] (1)

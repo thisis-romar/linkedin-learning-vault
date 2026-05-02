@@ -33,7 +33,7 @@ tags:
   - skill/react-js
   - skill/accessible-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React-%20Accessibility.md)
@@ -52,30 +52,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Accessibility in React
+  - [Accessibility in React](#accessibility-in-react)
 - [**1. Accessibility on the Web**](#1-accessibility-on-the-web) (3 videos)
-  - The need for accessibility
-  - Semantic HTML: The foundation of web accessibility
-  - Semantic React tags
+  - [The need for accessibility](#the-need-for-accessibility)
+  - [Semantic HTML: The foundation of web accessibility](#semantic-html-the-foundation-of-web-accessibility)
+  - [Semantic React tags](#semantic-react-tags)
 - [**2. Keyboard Focus**](#2-keyboard-focus) (4 videos)
-  - Managing keyboard focus in React components
-  - Skipping page content
-  - Challenge: Implementing focus and skipping content
-  - Solution: Implementing focus and skipping content
+  - [Managing keyboard focus in React components](#managing-keyboard-focus-in-react-components)
+  - [Skipping page content](#skipping-page-content)
+  - [Challenge: Implementing focus and skipping content](#challenge-implementing-focus-and-skipping-content)
+  - [Solution: Implementing focus and skipping content](#solution-implementing-focus-and-skipping-content)
 - [**3. Mouse and Pointer Events**](#3-mouse-and-pointer-events) (2 videos)
-  - Accessibility issues with mouse and pointer events
-  - How to ensure events are accessible by keyboard
+  - [Accessibility issues with mouse and pointer events](#accessibility-issues-with-mouse-and-pointer-events)
+  - [How to ensure events are accessible by keyboard](#how-to-ensure-events-are-accessible-by-keyboard)
 - [**4. Testing Your Application**](#4-testing-your-application) (4 videos)
-  - Why test your work
-  - Testing accessibility with your keyboard
-  - Using browser features for testing
-  - Testing with a screen reader
+  - [Why test your work](#why-test-your-work)
+  - [Testing accessibility with your keyboard](#testing-accessibility-with-your-keyboard)
+  - [Using browser features for testing](#using-browser-features-for-testing)
+  - [Testing with a screen reader](#testing-with-a-screen-reader)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Resources for web accessibility guidelines
+  - [Resources for web accessibility guidelines](#resources-for-web-accessibility-guidelines)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility in React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980)
@@ -104,6 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), front-end (2), [[JavaScript]] (1), web (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - [instructor] (2), - [announcer] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -111,7 +112,7 @@ created: 2026-04-29
 
 ### 1. Accessibility on the Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980)
@@ -138,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), business (1), [[User Experience (UX)|User experience]] (1), [[React.js|React]] (1), application (1)
 > **Definitions:** is a  (2)
 > **Versions:** 56.7 (1)
 > **Analogies:** just like (1)
@@ -180,9 +182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), web (2), dom (1), [[JavaScript]] (1)
 > **Env Vars:** html (4), dom (1), html5 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -260,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[HTML]] (4), dom (4), [[Microsoft Word|Word]] (2)
 > **Env Vars:** html (4), jsx (1)
 > **File Paths:** index.js (1)
 > **CLI Commands:** find (1)
@@ -271,7 +273,7 @@ created: 2026-04-29
 
 ### 2. Keyboard Focus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing keyboard focus in React components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980)
@@ -390,7 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), hit (3), web (2), application (2), [[Google]] (1)
 > **Speakers:** - [instructor] (4), - [text (3)
 > **Code Identifiers:** successmessage (1), createref (1), componentdidupdate (1)
 > **CLI Commands:** make (2)
@@ -457,7 +459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), hit (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -482,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -514,7 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** css (1), hit (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -522,7 +524,7 @@ created: 2026-04-29
 
 ### 3. Mouse and Pointer Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility issues with mouse and pointer events
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980)
@@ -557,9 +559,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[User Experience (UX)|User experience]] (1), application (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -676,8 +678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), next (2), hit (1)
 > **UI Navigation:** dropdown (17), click on (2), open the (1), toggle (1)
-> **Code Keywords:** let (8), continue (2), this, (2), try. (1), this . (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** setstate (1)
@@ -687,7 +689,7 @@ created: 2026-04-29
 
 ### 4. Testing Your Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why test your work
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980)
@@ -726,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), raise (1)
+> **Frameworks & Libraries:** product (1)
 > **Speakers:** - [instructor] (1)
 
 #### Testing accessibility with your keyboard
@@ -772,9 +774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Forms]] (1)
 > **Cross-References:** next video (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** include, (1)
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -904,8 +906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Google]] (2), seo (2), hit (2), node (1)
 > **UI Navigation:** go to (3), click on (2), navigate to (1), dropdown (1), scroll down (1)
-> **Code Keywords:** let (6), module (1)
 > **Tools:** chrome devtools (6)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** seo (2), css (1)
@@ -970,8 +972,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Windows]] (1)
 > **Speakers:** - [instructor] (3), - [instructor (2)
-> **Code Keywords:** let (3)
 > **Env Vars:** nvda (3)
 > **URLs:** [nvaccess.org](https://nvaccess.org) (1)
 > **Prerequisites:** install (1)
@@ -979,7 +981,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources for web accessibility guidelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980)
@@ -1000,7 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Speakers:** - [kiara] (1)
 
 

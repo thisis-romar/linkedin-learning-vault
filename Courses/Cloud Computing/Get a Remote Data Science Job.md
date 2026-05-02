@@ -35,7 +35,7 @@ tags:
   - skill/career-path-planning
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Get%20a%20Remote%20Data%20Science%20Job.md)
@@ -54,33 +54,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Master the remote job search
+  - [Master the remote job search](#master-the-remote-job-search)
 - [**1. Identify Data Science Job Openings**](#1-identify-data-science-job-openings) (3 videos)
-  - Identify data science job types
-  - Find online job listings
-  - Fill your skill gaps
+  - [Identify data science job types](#identify-data-science-job-types)
+  - [Find online job listings](#find-online-job-listings)
+  - [Fill your skill gaps](#fill-your-skill-gaps)
 - [**2. Create a Data Science Portfolio**](#2-create-a-data-science-portfolio) (4 videos)
-  - Importance of a portfolio
-  - Showcase your projects
-  - Optimize your resume
-  - Write a cover letter
+  - [Importance of a portfolio](#importance-of-a-portfolio)
+  - [Showcase your projects](#showcase-your-projects)
+  - [Optimize your resume](#optimize-your-resume)
+  - [Write a cover letter](#write-a-cover-letter)
 - [**3. Build Your Online Presence**](#3-build-your-online-presence) (3 videos)
-  - Optimize your LinkedIn profile
-  - Build your GitHub portfolio
-  - Write a data science blog
+  - [Optimize your LinkedIn profile](#optimize-your-linkedin-profile)
+  - [Build your GitHub portfolio](#build-your-github-portfolio)
+  - [Write a data science blog](#write-a-data-science-blog)
 - [**4. Leverage Your Network**](#4-leverage-your-network) (2 videos)
-  - Identify valuable connections
-  - Request a referral
+  - [Identify valuable connections](#identify-valuable-connections)
+  - [Request a referral](#request-a-referral)
 - [**5. Ace Your Interviews**](#5-ace-your-interviews) (3 videos)
-  - Prepare for assessments
-  - Stand out remotely
-  - Craft your follow-up strategy
+  - [Prepare for assessments](#prepare-for-assessments)
+  - [Stand out remotely](#stand-out-remotely)
+  - [Craft your follow-up strategy](#craft-your-follow-up-strategy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your path forward
+  - [Your path forward](#your-path-forward)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Master the remote job search
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980)
@@ -113,14 +113,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), teams (1), [[Microsoft Office|Office]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - the (1)
 
 
 ### 1. Identify Data Science Job Openings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify data science job types
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980)
@@ -181,9 +181,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Search]] (2), next (2), [[Engineering]] (2), [[Statistics]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - the (1)
 
@@ -250,8 +250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Search]] (4), [[LinkedIn]] (1), [[Google]] (1), next (1)
 > **CLI Commands:** find (3), python (1)
-> **Code Keywords:** for. (1), for, (1), this. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - searching (1)
@@ -315,8 +315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (3)
-> **Code Keywords:** for. (1), let (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - how (1)
@@ -324,7 +324,7 @@ created: 2026-04-29
 
 ### 2. Create a Data Science Portfolio
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of a portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980)
@@ -385,8 +385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[GitHub]] (3), open-source (2), career (1), [[Generative AI]] (1)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** public (2), for. (1), let (1), this. (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** keep in mind (1)
@@ -441,6 +441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), api (1), [[Fetch]] (1), career (1)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** mnist (1), api (1)
 > **Analogies:** for example (1)
@@ -506,8 +507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Search]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** match. (1), for, (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - how (1)
 
@@ -556,14 +557,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), job description (1), next (1), application (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - is (1)
 
 
 ### 3. Build Your Online Presence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize your LinkedIn profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
@@ -608,8 +609,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Search]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
 > **CLI Commands:** make (3), find (2), python (1)
-> **Code Keywords:** this, (1), let (1), function (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - linkedin (1)
@@ -651,6 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), data (3), next (1), [[Coding Practices]] (1), [[Version Control]] (1)
 > **Tools:** github (7)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -716,6 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[GitHub]] (2), next (1), traffic (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
@@ -726,7 +729,7 @@ created: 2026-04-29
 
 ### 4. Leverage Your Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify valuable connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980)
@@ -789,6 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), data (2), [[Python (Programming Language)|Python]] (1), career (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Definitions:** means that (1), is a  (1)
 > **Best Practices:** the key is (1)
@@ -837,6 +841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Search]] (3), [[LinkedIn]] (3), business (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
@@ -845,7 +850,7 @@ created: 2026-04-29
 
 ### 5. Ace Your Interviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/prepare-for-assessments?u=76281980)
@@ -898,8 +903,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (3), next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** for. (1), require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - how (1)
@@ -945,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Interviewing]] (2), [[Statistics]] (1), [[Deep Learning]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** for. (1), continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
@@ -993,15 +998,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[LinkedIn]] (1), application (1), express (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - what (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your path forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980)
@@ -1036,8 +1041,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), data (2), [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (1), template (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
 

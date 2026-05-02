@@ -30,7 +30,7 @@ tags:
   - skill/debugging
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Advanced%20PHP-%20Debugging%20Techniques.md)
@@ -49,37 +49,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Debugging and PHP
-  - What you should know
+  - [Debugging and PHP](#debugging-and-php)
+  - [What you should know](#what-you-should-know)
 - [**1. Default Tools for Logging and Identifying Issues**](#1-default-tools-for-logging-and-identifying-issues) (7 videos)
-  - Exploring PHP errors
-  - Default logging in popular frameworks
-  - Configuring PHP error reporting
-  - What to log
-  - Logging errors to file
-  - Logging errors to other locations
-  - Understanding back traces
+  - [Exploring PHP errors](#exploring-php-errors)
+  - [Default logging in popular frameworks](#default-logging-in-popular-frameworks)
+  - [Configuring PHP error reporting](#configuring-php-error-reporting)
+  - [What to log](#what-to-log)
+  - [Logging errors to file](#logging-errors-to-file)
+  - [Logging errors to other locations](#logging-errors-to-other-locations)
+  - [Understanding back traces](#understanding-back-traces)
 - [**2. Local Development Tools**](#2-local-development-tools) (9 videos)
-  - var_dump() debugging: Blue-collar debugging
-  - What tools are available
-  - WordPress CLI shell
-  - Laravel artisan tinker
-  - Installing and using whoops
-  - Installing and using PHP DebugBar
-  - Query Monitor for WordPress
-  - Ray: Dump debugging
-  - Xdebug: Step debugging
+  - [var_dump() debugging: Blue-collar debugging](#var_dump-debugging-blue-collar-debugging)
+  - [What tools are available](#what-tools-are-available)
+  - [WordPress CLI shell](#wordpress-cli-shell)
+  - [Laravel artisan tinker](#laravel-artisan-tinker)
+  - [Installing and using whoops](#installing-and-using-whoops)
+  - [Installing and using PHP DebugBar](#installing-and-using-php-debugbar)
+  - [Query Monitor for WordPress](#query-monitor-for-wordpress)
+  - [Ray: Dump debugging](#ray-dump-debugging)
+  - [Xdebug: Step debugging](#xdebug-step-debugging)
 - [**3. Debugging on Non-Local Environments**](#3-debugging-on-non-local-environments) (4 videos)
-  - What tools are available
-  - Safety concerns and precautions on remote servers
-  - Using Monolog
-  - Paid products
+  - [What tools are available](#what-tools-are-available)
+  - [Safety concerns and precautions on remote servers](#safety-concerns-and-precautions-on-remote-servers)
+  - [Using Monolog](#using-monolog)
+  - [Paid products](#paid-products)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging and PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (4), [[PHP]] (3), feature (1), data (1)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Speakers:** - [gary (1)
@@ -127,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[WordPress]] (1), [[Laravel]] (1)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Speakers:** - [narrator] (1)
@@ -134,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Default Tools for Logging and Identifying Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring PHP errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980)
@@ -243,7 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), continue (2), type. (1), finally, (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Debugging]] (1), next (1), application (1), [[Laravel]] (1)
 > **CLI Commands:** php (7)
 > **Env Vars:** php (6)
 > **Definitions:** is a  (4), is an  (1)
@@ -316,7 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), default, (1), pass (1), let (1), switch (1)
+> **Frameworks & Libraries:** [[Laravel]] (8), [[WordPress]] (3), [[Debugging]] (2), application (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Documentation:** rfc (1), spec (1)
 > **Best Practices:** best practice (1), you should always (1)
@@ -408,10 +410,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (8), web (2), [[MySQL]] (1)
 > **Env Vars:** ini (8), php (4), fpm (3), e_all (1)
 > **CLI Commands:** php (8), mysql (1)
 > **File Paths:** php.ini (2), 10-mysql.ini (1), 20opcache.ini (1)
-> **Code Keywords:** let (3), override (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** note that (1), warning (1)
 > **Tools:** terminal (1)
@@ -478,10 +480,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[Debugging]] (2), feature (1)
 > **CLI Commands:** php (4), find (1)
 > **Code Identifiers:** var_dump (4)
 > **Env Vars:** php (4)
-> **Code Keywords:** let (2), type, (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -613,7 +615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (7), type. (2), class, (1), var (1)
+> **Frameworks & Libraries:** [[PHP]] (7), data (1), [[WordPress]] (1)
 > **Env Vars:** php (7), ide (1)
 > **CLI Commands:** php (7)
 > **Warnings:** warning (5), note that (2)
@@ -711,10 +713,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[PHP]] (3), [[WordPress]] (1), [[Laravel]] (1), data (1)
 > **Code Identifiers:** do_action (3), error_level (2), debug_log (1), first_letter_is (1), post_title (1)
 > **CLI Commands:** php (3), find (2)
 > **Env Vars:** php (3)
-> **Code Keywords:** case, (1), function (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -847,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (10), case, (2), continue (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (3), data (2), next (2), [[WordPress]] (1), [[Laravel]] (1)
 > **Code Identifiers:** debug_backtrace (4), debug_print_backtrace (3), foo_print_redirection (2), show_mask (1), foo_print_masked (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** php (3), debug_backtrace_ignore_args (1)
@@ -859,7 +861,7 @@ created: 2026-04-29
 
 ### 2. Local Development Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### var_dump() debugging: Blue-collar debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (19), let (3), class. (2), public (2), super (2)
+> **Frameworks & Libraries:** [[PHP]] (3), [[WordPress]] (1), [[Debugging]] (1)
 > **CLI Commands:** php (3), make (3), find (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** php (3)
@@ -1106,10 +1108,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), [[WordPress]] (5), data (4), [[Laravel]] (3), next (3)
 > **CLI Commands:** php (5), composer (3), find (1), make (1)
 > **Env Vars:** php (5), cli (2), ide (1)
 > **Definitions:** is a  (4), is called (1), known as (1)
-> **Code Keywords:** interface (1), function (1), default, (1), let (1)
 > **Non-Speech:** (keyboard clicking) (4)
 > **Versions:** version 8 (1), 0.13 (1)
 > **Tools:** command line (1)
@@ -1192,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[Debugging]] (1), [[CLI]] (1), [[WordPress]] (1), application (1)
 > **Env Vars:** wpdb (3), php (2), repl (2), cli (1), ide (1)
-> **Code Keywords:** var (1), super (1), pass (1)
 > **CLI Commands:** php (2)
 > **Tools:** bash (1)
 > **Definitions:** is an  (1)
@@ -1267,9 +1269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (3), [[Debugging]] (2), [[PHP]] (2), api (2), [[JSON]] (2)
 > **CLI Commands:** find (3), make (2), php (2)
 > **Env Vars:** php (2), api (2), repl (1)
-> **Code Keywords:** pass (2), let (1)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
@@ -1355,10 +1357,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[Search]] (1), [[Google]] (1), [[JSON]] (1)
 > **Env Vars:** psr (3), php (2), ide (2), http (1), json (1)
 > **CLI Commands:** php (2), composer (1), find (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
-> **Code Keywords:** let (2), function (1)
 > **Cross-References:** go back to (1), in the last (1)
 > **Non-Speech:** (computer mouse clicking) (2)
 > **Documentation:** stack overflow (1)
@@ -1431,7 +1433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), function (1), try. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), application (1), [[Laravel]] (1), [[Microsoft Products|Products]] (1), hit (1)
 > **CLI Commands:** php (2), composer (1)
 > **Env Vars:** php (2), html (1)
 > **Definitions:** is a  (2)
@@ -1515,8 +1517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), api (4), game (1)
 > **Env Vars:** api (4), http (2)
-> **Code Keywords:** let (3), finally, (1), super (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** install (1), you'll need (1)
 > **Versions:** 5.9 (1)
@@ -1601,7 +1603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), from. (2), super (1), from, (1)
+> **Frameworks & Libraries:** data (3), [[Laravel]] (3), [[PHP]] (2), [[Debugging]] (1)
 > **Non-Speech:** (typing) (7)
 > **CLI Commands:** make (3), php (2)
 > **Definitions:** is a  (5)
@@ -1757,7 +1759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), throw (1), continue (1), new. (1)
+> **Frameworks & Libraries:** next (4), [[PHP]] (3), feature (2), game (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (3), make (3), docker (1)
 > **Env Vars:** php (2), ide (2), pecl (1)
 > **Prerequisites:** setup (2), install (1), configure (1), you'll need (1)
@@ -1769,7 +1771,7 @@ created: 2026-04-29
 
 ### 3. Debugging on Non-Local Environments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What tools are available
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980)
@@ -1836,8 +1838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Debugging]] (1), traffic (1), [[HTML]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** self (1)
 > **Env Vars:** html (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1905,8 +1907,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Debugging]] (1), dns (1), [[PHP]] (1), [[DevOps]] (1)
 > **CLI Commands:** php (1), find (1), make (1)
-> **Code Keywords:** finally, (1), self (1)
 > **Env Vars:** dns (1), php (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1995,7 +1997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (2), abstract (2), type. (1), extends (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[PHP]] (2), [[Debugging]] (1), [[Databases]] (1)
 > **Env Vars:** psr (2), php (2), rfc (1)
 > **CLI Commands:** php (2), find (1)
 > **Documentation:** rfc (1)
@@ -2050,16 +2052,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (1), product (1), management (1), next (1)
 > **Env Vars:** apm (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980)
@@ -2086,6 +2088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (4), [[PHP]] (2)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1)

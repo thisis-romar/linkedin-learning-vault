@@ -30,7 +30,7 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20%26%20CSS-%20Creating%20Forms.md)
@@ -49,47 +49,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - Using the exercise files
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Designing a Form Experience**](#1-designing-a-form-experience) (4 videos)
-  - Ask the right questions
-  - Explain what you want
-  - Create a good flow
-  - Data privacy
+  - [Ask the right questions](#ask-the-right-questions)
+  - [Explain what you want](#explain-what-you-want)
+  - [Create a good flow](#create-a-good-flow)
+  - [Data privacy](#data-privacy)
 - [**2. Creating Forms with HTML**](#2-creating-forms-with-html) (9 videos)
-  - Basic form structure
-  - Text, email, and URL input types
-  - Number input type
-  - Date and time input types
-  - Radio buttons
-  - Select
-  - Textarea and additional input types
-  - Submit and other types of buttons
-  - Attributes used in forms
+  - [Basic form structure](#basic-form-structure)
+  - [Text, email, and URL input types](#text-email-and-url-input-types)
+  - [Number input type](#number-input-type)
+  - [Date and time input types](#date-and-time-input-types)
+  - [Radio buttons](#radio-buttons)
+  - [Select](#select)
+  - [Textarea and additional input types](#textarea-and-additional-input-types)
+  - [Submit and other types of buttons](#submit-and-other-types-of-buttons)
+  - [Attributes used in forms](#attributes-used-in-forms)
 - [**3. Making Forms Interactive**](#3-making-forms-interactive) (2 videos)
-  - Form submission and security
-  - Form validation
+  - [Form submission and security](#form-submission-and-security)
+  - [Form validation](#form-validation)
 - [**4. Styling Form Fields with CSS**](#4-styling-form-fields-with-css) (8 videos)
-  - Basic form styles: Text color and size
-  - Box sizing for forms
-  - Styling text inputs
-  - Styling radio buttons and check boxes with images
-  - Styling radio buttons and check boxes as buttons
-  - Styling select
-  - Styling buttons
-  - Styling pseudo-classes
+  - [Basic form styles: Text color and size](#basic-form-styles-text-color-and-size)
+  - [Box sizing for forms](#box-sizing-for-forms)
+  - [Styling text inputs](#styling-text-inputs)
+  - [Styling radio buttons and check boxes with images](#styling-radio-buttons-and-check-boxes-with-images)
+  - [Styling radio buttons and check boxes as buttons](#styling-radio-buttons-and-check-boxes-as-buttons)
+  - [Styling select](#styling-select)
+  - [Styling buttons](#styling-buttons)
+  - [Styling pseudo-classes](#styling-pseudo-classes)
 - [**5. Form Layout with CSS**](#5-form-layout-with-css) (4 videos)
-  - Small-screen layout for forms
-  - Wide-screen layout for forms
-  - Form labels
-  - Placeholder attribute
+  - [Small-screen layout for forms](#small-screen-layout-for-forms)
+  - [Wide-screen layout for forms](#wide-screen-layout-for-forms)
+  - [Form labels](#form-labels)
+  - [Placeholder attribute](#placeholder-attribute)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980)
@@ -112,9 +112,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (9), [[HTML]] (3), css (3), data (1)
 > **Env Vars:** html (3), css (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -152,9 +152,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (5), feature (3)
 > **Env Vars:** css (8), html (5)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Designing a Form Experience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ask the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980)
@@ -330,6 +330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (7), [[Forms]] (5), express (3), business (2), data (2)
 > **CLI Commands:** make (5), find (5)
 > **Env Vars:** cvv (4)
 > **Analogies:** for example (4)
@@ -414,7 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (1), hit (1), [[Microsoft Word|Word]] (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -532,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), type, (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[E-Commerce]] (2), [[HTML]] (1), css (1), next (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2), basically means (1)
 > **Env Vars:** html (1), css (1)
@@ -604,6 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Privacy]] (2), [[Security]] (2), [[Privacy Protection]] (1), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** be aware (2), note that (1)
 > **Analogies:** such as (1), for example (1)
@@ -613,7 +615,7 @@ created: 2026-04-29
 
 ### 2. Creating Forms with HTML
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic form structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980)
@@ -776,9 +778,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), data (6), [[HTML]] (4), [[Forms]] (4), web (2)
 > **Env Vars:** html (4), css (2), uri (1), html5 (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this, (1), for= (1), finally, (1), type= (1)
 > **Prerequisites:** required to (2), you'll need (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (2)
@@ -916,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), type = (3), for = (3), this. (1), type, (1)
+> **Frameworks & Libraries:** next (3), data (2), [[Microsoft Word|Word]] (2), css (1), [[Android]] (1)
 > **Env Vars:** url (4), css (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), similar to (1)
@@ -1036,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (2), require (1), type. (1)
+> **Frameworks & Libraries:** data (4), next (2), database (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
@@ -1175,7 +1177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type = (3), for = (2), require (1), continue (1)
+> **Frameworks & Libraries:** data (3), next (3), css (1), [[JavaScript]] (1)
 > **Cross-References:** go back to (3), previous video (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** for example (1), similar to (1)
@@ -1268,8 +1270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (1), [[Windows]] (1), database (1), next (1)
 > **UI Navigation:** dropdown (3), click on (1), go to (1)
-> **Code Keywords:** type= (1), from. (1), for= (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1384,8 +1386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (1), data (1)
 > **UI Navigation:** checkbox (2), click on (2), select the (1), go to (1)
-> **Code Keywords:** default. (1), from. (1), for, (1), let (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** refers to (1)
@@ -1513,7 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type= (6), for= (4), this. (3), this, (2), type. (1)
+> **Frameworks & Libraries:** [[Search]] (7), next (6), data (2), [[Security]] (2), hit (1)
 > **Env Vars:** css (1), jpeg (1), png (1)
 > **Tools:** firefox (1), safari (1)
 > **UI Navigation:** click on (2)
@@ -1635,9 +1637,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (2), next (2), css (2), generic (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), self (1)
 > **Env Vars:** css (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
@@ -1805,8 +1807,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (13), data (10), [[Forms]] (4), [[HTML]] (3), database (3)
 > **Analogies:** for example (7), such as (5)
-> **Code Keywords:** let (3), type, (2), for. (1), type. (1), case. (1)
 > **Env Vars:** html (3)
 > **Definitions:** means that (3)
 > **UI Navigation:** checkbox (2)
@@ -1817,7 +1819,7 @@ created: 2026-04-29
 
 ### 3. Making Forms Interactive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Form submission and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980)
@@ -1914,12 +1916,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Forms]] (2), next (2), [[Search]] (2), database (2)
 > **Env Vars:** url (10), http (7), https (5), php (1)
 > **CLI Commands:** make (5), php (1), python (1), ruby (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **Warnings:** warning (1), be aware (1)
-> **Code Keywords:** type. (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** required to (1)
 
@@ -2056,9 +2058,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[JavaScript]] (4), css (4), [[Forms]] (2), next (2)
 > **Env Vars:** css (4), html (2), html5 (1), captcha (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (2), type, (1), else. (1)
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -2068,7 +2070,7 @@ created: 2026-04-29
 
 ### 4. Styling Form Fields with CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic form styles: Text color and size
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980)
@@ -2121,9 +2123,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), css (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (3), in the next (1)
-> **Code Keywords:** this, (1), let (1), type, (1)
 > **Env Vars:** css (3)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
@@ -2175,8 +2177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), [[Search]] (1), css (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2281,8 +2283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), css (3), [[Search]] (3), web (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** type. (2), type, (1), this. (1), for. (1)
 > **Env Vars:** css (3)
 > **Cross-References:** go back to (2), in the last (1)
 > **Analogies:** for example (2), such as (1)
@@ -2377,9 +2379,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[HTML]] (2), next (2)
 > **UI Navigation:** checkbox (4), go to (2), click on (2), select the (2)
 > **Env Vars:** css (2), html (2)
-> **Code Keywords:** type= (2), this, (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2451,6 +2453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** css (2)
@@ -2582,6 +2585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), next (5), [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (5), html (1), url (1)
 > **UI Navigation:** click on (1), dropdown (1)
 > **CLI Commands:** make (1)
@@ -2771,8 +2775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Microsoft Word|Word]] (3), next (2), [[HTML]] (1), [[Search]] (1)
 > **Cross-References:** go back to (6)
-> **Code Keywords:** let (3), type= (1), else. (1)
 > **Env Vars:** css (3), html (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1)
@@ -2895,9 +2899,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[HTML]] (4), [[Forms]] (2), css (2), data (1)
 > **UI Navigation:** go to (6), checkbox (3), click on (1)
 > **Cross-References:** go back to (8)
-> **Code Keywords:** type= (2), let (2), delete (2), default. (1)
 > **Env Vars:** html (4), css (2)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** such as (1), for example (1)
@@ -2907,7 +2911,7 @@ created: 2026-04-29
 
 ### 5. Form Layout with CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Small-screen layout for forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980)
@@ -3018,9 +3022,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), next (6), [[HTML]] (2), web (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** css (6), html (2)
-> **Code Keywords:** case, (1), this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -3087,9 +3091,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** type. (1)
 > **URLs:** [mqtest.io](https://mqtest.io) (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
@@ -3187,8 +3191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** this, (3), super (1), for. (1), this. (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
@@ -3273,8 +3277,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Forms]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** default, (1), delete (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -3283,7 +3287,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980)
@@ -3296,6 +3300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2), [[HTML]] (1), css (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [clarissa] (1)

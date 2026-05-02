@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/express-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Express.md)
@@ -50,55 +50,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Tackle any project with Express
-  - What you should know
-  - Get your tools ready
-  - Understanding and running the sample project
+  - [Tackle any project with Express](#tackle-any-project-with-express)
+  - [What you should know](#what-you-should-know)
+  - [Get your tools ready](#get-your-tools-ready)
+  - [Understanding and running the sample project](#understanding-and-running-the-sample-project)
 - [**1. Know the Building Blocks and Internals of Express**](#1-know-the-building-blocks-and-internals-of-express) (3 videos)
-  - Exploring Express components and APIs
-  - Important Express middleware
-  - Creating a template engine for Express
+  - [Exploring Express components and APIs](#exploring-express-components-and-apis)
+  - [Important Express middleware](#important-express-middleware)
+  - [Creating a template engine for Express](#creating-a-template-engine-for-express)
 - [**2. Use MongoDB and Mongoose to Manage Users**](#2-use-mongodb-and-mongoose-to-manage-users) (8 videos)
-  - Setting up a hosted MongoDB server
-  - Connecting to MongoDB
-  - Adding MongoDB and Mongoose to an Express project
-  - Creating a user schema for Mongoose
-  - Using bcrypt to hash and validate passwords
-  - Adding password encryption and validation to a Mongoose model
-  - Creating a user registration route
-  - Testing the form and reviewing the data in MongoDB
+  - [Setting up a hosted MongoDB server](#setting-up-a-hosted-mongodb-server)
+  - [Connecting to MongoDB](#connecting-to-mongodb)
+  - [Adding MongoDB and Mongoose to an Express project](#adding-mongodb-and-mongoose-to-an-express-project)
+  - [Creating a user schema for Mongoose](#creating-a-user-schema-for-mongoose)
+  - [Using bcrypt to hash and validate passwords](#using-bcrypt-to-hash-and-validate-passwords)
+  - [Adding password encryption and validation to a Mongoose model](#adding-password-encryption-and-validation-to-a-mongoose-model)
+  - [Creating a user registration route](#creating-a-user-registration-route)
+  - [Testing the form and reviewing the data in MongoDB](#testing-the-form-and-reviewing-the-data-in-mongodb)
 - [**3. Authenticate and Authorize Users**](#3-authenticate-and-authorize-users) (11 videos)
-  - Understanding cookies and sessions
-  - Adding cookies and sessions to Express
-  - Inspecting the session object
-  - Introduction to Passport
-  - Adding Passport to Express
-  - Setting up an authentication strategy for Passport
-  - Serializing and deserializing users
-  - Creating a login form with Passport
-  - Providing a logout link
-  - Authentication vs. authorization
-  - Protecting routes
+  - [Understanding cookies and sessions](#understanding-cookies-and-sessions)
+  - [Adding cookies and sessions to Express](#adding-cookies-and-sessions-to-express)
+  - [Inspecting the session object](#inspecting-the-session-object)
+  - [Introduction to Passport](#introduction-to-passport)
+  - [Adding Passport to Express](#adding-passport-to-express)
+  - [Setting up an authentication strategy for Passport](#setting-up-an-authentication-strategy-for-passport)
+  - [Serializing and deserializing users](#serializing-and-deserializing-users)
+  - [Creating a login form with Passport](#creating-a-login-form-with-passport)
+  - [Providing a logout link](#providing-a-logout-link)
+  - [Authentication vs. authorization](#authentication-vs-authorization)
+  - [Protecting routes](#protecting-routes)
 - [**4. Handle File Uploads and Process Images**](#4-handle-file-uploads-and-process-images) (5 videos)
-  - File upload basics
-  - Handling multipart form data with multer
-  - Resizing and storing images with sharp
-  - Creating an image handling middleware
-  - Serving images
+  - [File upload basics](#file-upload-basics)
+  - [Handling multipart form data with multer](#handling-multipart-form-data-with-multer)
+  - [Resizing and storing images with sharp](#resizing-and-storing-images-with-sharp)
+  - [Creating an image handling middleware](#creating-an-image-handling-middleware)
+  - [Serving images](#serving-images)
 - [**5. Deployment and Running in Production**](#5-deployment-and-running-in-production) (7 videos)
-  - Tuning Express performance: NODE_ENV and compression
-  - Tuning Express performance: Further measures
-  - Add logging
-  - Using the Node.js cluster module
-  - Securing an Express application
-  - Deployment and operation with PM2
-  - Running behind a web server
+  - [Tuning Express performance: NODE_ENV and compression](#tuning-express-performance-node_env-and-compression)
+  - [Tuning Express performance: Further measures](#tuning-express-performance-further-measures)
+  - [Add logging](#add-logging)
+  - [Using the Node.js cluster module](#using-the-nodejs-cluster-module)
+  - [Securing an Express application](#securing-an-express-application)
+  - [Deployment and operation with PM2](#deployment-and-operation-with-pm2)
+  - [Running behind a web server](#running-behind-a-web-server)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tackle any project with Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980)
@@ -127,9 +127,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (4), [[Node.js]] (2), web (2), business (1), database (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** nasa (1)
 > **Speakers:** - [instructor] (1)
 
@@ -164,10 +164,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (5), [[Node.js]] (4), [[JavaScript]] (1), [[npm]] (1), application (1)
 > **CLI Commands:** node (4), npm (1)
 > **File Paths:** node.js (4)
 > **Prerequisites:** getting started (1), install (1), set up (1)
-> **Code Keywords:** async (1), await (1)
 > **Env Vars:** es6 (1), http (1)
 > **Speakers:** - [instructor] (1)
 
@@ -218,8 +218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (6), [[Node.js]] (5), [[ESLint]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** npm (6), node (5), make (2), sudo (1)
-> **Code Keywords:** let (6)
 > **File Paths:** node.js (5)
 > **Env Vars:** npm (5)
 > **Tools:** visual studio (3), terminal (2)
@@ -276,9 +276,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[npm]] (3), express (2), [[Debugging]] (1), [[Node.js]] (1)
 > **CLI Commands:** npm (3), find (2), make (1), npx (1), node (1)
 > **File Paths:** app.js (1), index.js (1), test/server/app.test.js (1), node.js (1), express.js (1)
-> **Code Keywords:** pass (2), let (2)
 > **Exercise Files:** exercise files (3)
 > **Prerequisites:** set up (1), install (1), setup (1)
 > **Tools:** visual studio (1), terminal (1)
@@ -288,7 +288,7 @@ created: 2026-04-29
 
 ### 1. Know the Building Blocks and Internals of Express
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Express components and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980)
@@ -365,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3)
+> **Frameworks & Libraries:** express (11), application (11), next (3), [[Routing]] (1), data (1)
 > **Env Vars:** http (1), fue (1), api (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -420,8 +420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (6), data (3), power (1), application (1), management (1)
 > **Cross-References:** in the last (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** http (1)
 > **Speakers:** - [instructor] (1)
 
@@ -522,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6), const (6), require (3), await (3)
+> **Frameworks & Libraries:** [[HTML]] (7), express (3), application (2), api (1), [[npm]] (1)
 > **Exercise Files:** template (10)
 > **Env Vars:** html (7), api (1)
 > **CLI Commands:** npm (1), make (1)
@@ -533,7 +533,7 @@ created: 2026-04-29
 
 ### 2. Use MongoDB and Mongoose to Manage Users
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a hosted MongoDB server
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980)
@@ -598,9 +598,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), database (5), application (3), [[Databases]] (2), [[Linux]] (1)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), while. (1)
 > **Code Identifiers:** dbuser (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -646,8 +646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Databases]] (2), [[Version Control]] (2), database (1), [[MongoDB]] (1)
 > **CLI Commands:** tar (2), find (2), npx (1), make (1)
-> **Code Keywords:** let (2), module (1), function (1)
 > **Env Vars:** development_db_dsn (1), dsn (1)
 > **Analogies:** for example (1), for instance (1)
 > **File Paths:** process.env (1)
@@ -726,7 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), const (2), require (2), function (2), type, (1)
+> **Frameworks & Libraries:** database (9), [[MongoDB]] (5), application (4), [[npm]] (2), next (2)
 > **CLI Commands:** make (2), npm (2)
 > **Prerequisites:** install (2), set up (1), setup (1)
 > **Code Identifiers:** usenewurlparser (2)
@@ -810,7 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (3), require (2), function (2), interface (1)
+> **Frameworks & Libraries:** data (6), next (2), [[Programming]] (1), [[npm]] (1), database (1)
 > **Definitions:** is called (2), is a  (1), is an  (1)
 > **File Paths:** usermodel.js (1), test/server/models/usermodel.test.js (1)
 > **CLI Commands:** npm (1), npx (1)
@@ -854,7 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** database (2), data (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Best Practices:** bad practice (1)
@@ -917,7 +917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), async (4), let (3), const (3), require (2)
+> **Frameworks & Libraries:** next (5), [[npm]] (1), application (1), database (1)
 > **Code Identifiers:** comparepassword (3), presave (1), ismodified (1)
 > **Env Vars:** npm (1), cpu (1), npx (1)
 > **CLI Commands:** npm (1), npx (1)
@@ -983,7 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), const (3), await (3), return, (2), async (1)
+> **Frameworks & Libraries:** next (6), database (3), express (2), [[HTML]] (1), prompt (1)
 > **CLI Commands:** make (1), npx (1)
 > **Env Vars:** html (1), npx (1)
 > **Tools:** visual studio (1)
@@ -1015,9 +1015,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (2), data (2), database (2), [[User Management]] (1), next (1)
 > **Code Identifiers:** createdat (1), updatedat (1)
 > **CLI Commands:** mongo (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1026,7 +1026,7 @@ created: 2026-04-29
 
 ### 3. Authenticate and Authorize Users
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cookies and sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980)
@@ -1107,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (2), default, (1)
+> **Frameworks & Libraries:** express (8), database (3), data (3), management (2), [[Fetch]] (2)
 > **CLI Commands:** mongo (3), make (2), find (1)
 > **Env Vars:** html (1), ssl (1)
 > **Definitions:** is a  (1)
@@ -1196,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (5), module (5), const (3), let (2), function (1)
+> **Frameworks & Libraries:** express (4), database (4), next (2), management (2), [[npm]] (1)
 > **Code Identifiers:** cookieparser (3), bodyparser (1), saveuninitialized (1)
 > **CLI Commands:** mongo (2), npm (1), find (1)
 > **Definitions:** is a  (2), means that (2)
@@ -1242,7 +1242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (2), application (1), database (1), [[MongoDB]] (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1281,7 +1281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), module (1)
+> **Frameworks & Libraries:** database (2), [[Node.js]] (1), express (1), application (1), data (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
@@ -1330,7 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), const (2), require (2), module (1), function (1)
+> **Frameworks & Libraries:** next (4), [[npm]] (2), [[Express.js]] (1), application (1), database (1)
 > **File Paths:** app.js (3), auth.js (2), server.js (1), express.js (1)
 > **CLI Commands:** npm (2)
 > **Prerequisites:** install (2)
@@ -1437,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), function (4), require (3), pass (2), await (2)
+> **Frameworks & Libraries:** next (4), database (3), [[MongoDB]] (1), [[npm]] (1), express (1)
 > **Definitions:** is an  (2), is a  (2)
 > **File Paths:** auth.js (2)
 > **CLI Commands:** npm (1), find (1)
@@ -1492,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), async (1), const (1), await (1)
+> **Frameworks & Libraries:** database (4), [[ESLint]] (4), next (2), data (1)
 > **Code Identifiers:** serializeuser (1), deserializeuser (1), findbyid (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
@@ -1567,7 +1567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (2), var (2), pass (2), const (1)
+> **Frameworks & Libraries:** next (2), application (2)
 > **File Paths:** index.js (2), index.login.test.js (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1613,7 +1613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **Cross-References:** in the next (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** click on (1)
@@ -1659,7 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
@@ -1724,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), return, (1), module (1), export. (1)
+> **Frameworks & Libraries:** next (7), application (2), express (1)
 > **Definitions:** is a  (3)
 > **File Paths:** index.js (1)
 > **Env Vars:** error (1)
@@ -1735,7 +1735,7 @@ created: 2026-04-29
 
 ### 4. Handle File Uploads and Process Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File upload basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/file-upload-basics?u=76281980)
@@ -1786,7 +1786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (11)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -1847,7 +1847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (3), const (2), module (1), for, (1)
+> **Frameworks & Libraries:** data (2), next (2), [[npm]] (1), hit (1), [[Metadata]] (1)
 > **Prerequisites:** install (2), set up (1), configure (1)
 > **File Paths:** middlewares.js (2), index.js (1)
 > **UI Navigation:** select the (1), click on (1), scroll down (1)
@@ -1931,7 +1931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (4), delete (4), this. (4), const (3)
+> **Frameworks & Libraries:** next (3), data (1), [[npm]] (1)
 > **Env Vars:** png (3), jpeg (1)
 > **File Paths:** avatarservice.js (1), test/server/services/avatarservice.test.js (1)
 > **CLI Commands:** npm (1), npx (1)
@@ -2015,7 +2015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), function (4), const (2), module (2), delete (2)
+> **Frameworks & Libraries:** next (9), data (3), database (2), application (1), [[Routing]] (1)
 > **File Paths:** index.js (2), app.js (1), middlewares.js (1), usermodel.js (1), users/index.fileupload.test.js (1)
 > **Code Identifiers:** handleavatar (2), storedfilename (1)
 > **CLI Commands:** make (1), npx (1)
@@ -2155,7 +2155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (5), function (5), async (2), type. (1)
+> **Frameworks & Libraries:** next (3), express (3), application (3), hit (1), data (1)
 > **Analogies:** picture (5)
 > **CLI Commands:** make (2), npm (1)
 > **File Paths:** index.js (2)
@@ -2167,7 +2167,7 @@ created: 2026-04-29
 
 ### 5. Deployment and Running in Production
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tuning Express performance: NODE_ENV and compression
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980)
@@ -2224,7 +2224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), const (1), require (1)
+> **Frameworks & Libraries:** application (5), express (2), data (2), [[npm]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2), npm (2)
 > **Env Vars:** cpu (2), node_env (1)
 > **File Paths:** express.js (1), app.js (1)
@@ -2276,7 +2276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), module (1), let (1)
+> **Frameworks & Libraries:** express (3), next (1), traffic (1), node (1), [[Search]] (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **Code Identifiers:** readfile (1), readfilesync (1)
 > **Env Vars:** cpu (2)
@@ -2356,7 +2356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (3), const (3), require (2), function (2)
+> **Frameworks & Libraries:** application (3), next (2), [[npm]] (1), [[Search]] (1)
 > **CLI Commands:** make (1), npm (1)
 > **Best Practices:** recommended (1), don't forget (1)
 > **Prerequisites:** install (2)
@@ -2437,7 +2437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (5), this, (2), this. (1), require (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), application (3), node (2), next (1)
 > **CLI Commands:** node (6)
 > **File Paths:** node.js (4)
 > **Env Vars:** cpu (2), pm2 (1)
@@ -2493,8 +2493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (4), [[npm]] (4), application (3), [[Security]] (3), [[Node.js]] (1)
 > **CLI Commands:** make (4), npm (4), nginx (1), node (1)
-> **Code Keywords:** let (3), const (1), require (1)
 > **File Paths:** app.js (1), node.js (1)
 > **Prerequisites:** install (2)
 > **Tools:** visual studio (1)
@@ -2591,10 +2591,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Node.js]] (3), [[Amazon EC2|Ec2]] (2), [[Git]] (2), [[GitHub]] (2)
 > **Env Vars:** pm2 (8), ec2 (2), ssh (2), node_env (1), url (1)
 > **CLI Commands:** node (3), ssh (2), git (2), npm (2), sudo (1)
 > **Prerequisites:** install (5), setup (4)
-> **Code Keywords:** let (4), from. (2), public (1)
 > **File Paths:** node.js (3)
 > **Ports:** port 3000 (2)
 > **Tools:** github (2)
@@ -2673,7 +2673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), default, (2), if( (1)
+> **Frameworks & Libraries:** express (4), [[Node.js]] (1), web (1), [[Amazon EC2|Ec2]] (1), next (1)
 > **CLI Commands:** nginx (4), make (3), node (1)
 > **Env Vars:** ssl (3), tls (1), ec2 (1), url (1)
 > **Prerequisites:** setup (4), install (1), configure (1)
@@ -2685,7 +2685,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980)
@@ -2716,6 +2716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (2), [[Node.js]] (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **CLI Commands:** node (2), aws (1)
 > **Env Vars:** rest (1), api (1), aws (1)
 > **File Paths:** node.js (2)

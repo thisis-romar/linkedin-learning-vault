@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/python-hands-on-practice
 course_count: 14
 linkedin_topics:
   - Software Development
-louvain_cluster: 16
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/software-development
@@ -73,7 +73,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)

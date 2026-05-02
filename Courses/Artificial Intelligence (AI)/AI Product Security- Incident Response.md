@@ -37,7 +37,7 @@ tags:
   - skill/security-incident-response
   - skill/incident-response
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Incident%20Response.md)
@@ -56,41 +56,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Managing AI incidents to minimize damage
-  - What you should know
-  - Disclaimer
+  - [Managing AI incidents to minimize damage](#managing-ai-incidents-to-minimize-damage)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Understanding AI Incidents**](#1-understanding-ai-incidents) (5 videos)
-  - Introduction to Incidents
-  - Incident reporting obligations
-  - AI incident case studies
-  - High-risk AI models
-  - Prohibited AI models
+  - [Introduction to Incidents](#introduction-to-incidents)
+  - [Incident reporting obligations](#incident-reporting-obligations)
+  - [AI incident case studies](#ai-incident-case-studies)
+  - [High-risk AI models](#high-risk-ai-models)
+  - [Prohibited AI models](#prohibited-ai-models)
 - [**2. Planning for an Incident**](#2-planning-for-an-incident) (6 videos)
-  - Preparing for an incident
-  - Assessing the threats
-  - Preparing the incident response plan
-  - Upskilling with AI drills
-  - Running an AI crisis exercise
-  - Running an AI IR maturity assessment
+  - [Preparing for an incident](#preparing-for-an-incident)
+  - [Assessing the threats](#assessing-the-threats)
+  - [Preparing the incident response plan](#preparing-the-incident-response-plan)
+  - [Upskilling with AI drills](#upskilling-with-ai-drills)
+  - [Running an AI crisis exercise](#running-an-ai-crisis-exercise)
+  - [Running an AI IR maturity assessment](#running-an-ai-ir-maturity-assessment)
 - [**3. Detect and Log AI Issues**](#3-detect-and-log-ai-issues) (4 videos)
-  - Test harness for AI logging
-  - Detecting toxicity
-  - Logging llm-guard
-  - The challenge of hallucinations
+  - [Test harness for AI logging](#test-harness-for-ai-logging)
+  - [Detecting toxicity](#detecting-toxicity)
+  - [Logging llm-guard](#logging-llm-guard)
+  - [The challenge of hallucinations](#the-challenge-of-hallucinations)
 - [**4. AI Incident Response**](#4-ai-incident-response) (2 videos)
-  - Responding to an AI incident
-  - Documenting the response
+  - [Responding to an AI incident](#responding-to-an-ai-incident)
+  - [Documenting the response](#documenting-the-response)
 - [**5. Incident Communications**](#5-incident-communications) (4 videos)
-  - Introduction to the Knight-Nurse framework
-  - When and how to communicate
-  - What to communicate
-  - Special considerations for AI models
+  - [Introduction to the Knight-Nurse framework](#introduction-to-the-knight-nurse-framework)
+  - [When and how to communicate](#when-and-how-to-communicate)
+  - [What to communicate](#what-to-communicate)
+  - [Special considerations for AI models](#special-considerations-for-ai-models)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing AI incidents to minimize damage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/managing-ai-incidents-to-minimize-damage?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** ai (5), feature (1), career (1)
 > **Speakers:** - [malcom] (1)
 
 #### What you should know
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Disclaimer
@@ -154,13 +155,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Understanding AI Incidents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Incidents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980)
@@ -195,7 +197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** ai (6), management (2), [[Security]] (1), business (1), [[Incident Response]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Incident reporting obligations
@@ -237,6 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (1), [[Cybersecurity]] (1), management (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter (1)
@@ -292,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** chatbot (6), ai (5), [[Microsoft]] (2), data (2), database (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [speaker] (1)
@@ -358,7 +361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (19), management (2), application (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -399,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** ai (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[Databases]] (1), [[Real-Time]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** cctv (1)
 > **Warnings:** important note (1)
@@ -408,7 +411,7 @@ created: 2026-04-29
 
 ### 2. Planning for an Incident
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for an incident
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980)
@@ -445,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), case, (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** ai (11), application (3), management (1), [[OWASP]] (1), llm (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** owasp (1), llm (1)
 > **Speakers:** - [instructor] (1)
@@ -573,8 +576,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), prompt (8), data (7), [[Cybersecurity]] (2), llm (2)
 > **Definitions:** is a  (5), refers to (2), known as (1), means that (1)
-> **Code Keywords:** finally, (2), let (2), interface (1), override (1)
 > **Env Vars:** llm (2), owasp (1), mitre (1), atlas (1), api (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (2), find (1)
@@ -665,7 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4), public (2), let (1)
+> **Frameworks & Libraries:** ai (12), [[Incident Response]] (8), data (3), [[Cybersecurity]] (2), management (2)
 > **Env Vars:** owasp (1), mitre (1), atlas (1)
 > **CLI Commands:** find (1)
 > **URLs:** [incidentresponse.com](https://incidentresponse.com) (1)
@@ -717,8 +720,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Simulation]] (3), [[Security]] (2), [[Forms]] (1), management (1)
 > **Env Vars:** soc (3), call (2)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -827,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (2), include: (1)
+> **Frameworks & Libraries:** ai (16), business (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), management (1), [[Ollama]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** mitre (2), att (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -925,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), function (1)
+> **Frameworks & Libraries:** ai (18), [[Incident Response]] (3), business (3), next (3), application (1)
 > **Versions:** 1.1 (2), 1.7 (1), 2.1 (1), 2.4 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -937,7 +940,7 @@ created: 2026-04-29
 
 ### 3. Detect and Log AI Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test harness for AI logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980)
@@ -990,8 +993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), api (5), application (3), [[JSON]] (2), [[Ollama]] (2)
 > **Env Vars:** api (5), json (2), llm (1)
-> **Code Keywords:** let (3), function (2)
 > **File Paths:** prompter.py (1), modeller.py (1)
 > **CLI Commands:** python (1)
 > **Ports:** port 5545 (1)
@@ -1038,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), var (1)
+> **Frameworks & Libraries:** api (2), prompt (2), application (1), ai (1)
 > **CLI Commands:** python3 (2), pip (1), sudo (1), cat (1)
 > **File Paths:** modeller_toxic.py (2), prompter.py (1), mixed.txt (1)
 > **Env Vars:** api (2), pip (1)
@@ -1104,8 +1107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), prompt (5), data (3), ai (2), api (2)
 > **Env Vars:** llm (9), api (2)
-> **Code Keywords:** let (5), function (1), var (1)
 > **CLI Commands:** python3 (2), pip (1), sudo (1), cat (1), grep (1)
 > **File Paths:** modeller_guard.py (2), prompter.py (1), mixed.txt (1)
 > **Code Identifiers:** modeller_guard (2), prompt_in (1)
@@ -1178,8 +1181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), prompt (3), [[LLaMA]] (3), [[Ollama]] (2), data (1)
 > **Versions:** 3.2 (3), 4.24 (1), 26.8 (1), 40.3 (1)
-> **Code Keywords:** let (4), finally, (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** json (1)
@@ -1189,7 +1192,7 @@ created: 2026-04-29
 
 ### 4. AI Incident Response
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responding to an AI incident
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980)
@@ -1260,7 +1263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** ai (16), [[Incident Response]] (5), business (2), [[Security]] (2), prompt (2)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [trustable.ai](https://trustable.ai) (1)
 > **Env Vars:** nist (1)
@@ -1379,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (1), pass (1), continue (1)
+> **Frameworks & Libraries:** ai (3), teams (2), business (1), application (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (2), go to (1), switch to (1), select the (1)
 > **Code Identifiers:** osticket (4)
 > **CLI Commands:** find (2)
@@ -1391,7 +1394,7 @@ created: 2026-04-29
 
 ### 5. Incident Communications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Knight-Nurse framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980)
@@ -1446,8 +1449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Incident Response]] (1), data (1), [[Cybersecurity]] (1), [[Security]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this. (1), finally, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1521,7 +1524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), finally, (1)
+> **Frameworks & Libraries:** data (2), business (2), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Definitions:** is an  (1)
@@ -1590,8 +1593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (4), next (1), business (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), else, (1)
 > **Warnings:** be careful (1), be aware (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1625,6 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (4), [[Incident Response]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1632,7 +1636,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980)
@@ -1655,6 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Cybersecurity]] (3), [[LinkedIn]] (2), [[Incident Response]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)

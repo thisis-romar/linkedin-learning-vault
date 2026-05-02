@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Amplify%20Your%20Communication%20Skills%20with%20Generative%20AI.md)
@@ -40,26 +40,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Use AI to take your communication to the next level
-  - Best practices to make AI your communication copilot
-  - How to use AI tools ethically and authentically
-  - Learn which AI tools can enhance your communication
+  - [Use AI to take your communication to the next level](#use-ai-to-take-your-communication-to-the-next-level)
+  - [Best practices to make AI your communication copilot](#best-practices-to-make-ai-your-communication-copilot)
+  - [How to use AI tools ethically and authentically](#how-to-use-ai-tools-ethically-and-authentically)
+  - [Learn which AI tools can enhance your communication](#learn-which-ai-tools-can-enhance-your-communication)
 - [**1. Writing with Style and Impact Using Generative AI**](#1-writing-with-style-and-impact-using-generative-ai) (4 videos)
-  - Write clear, persuasive, and warm emails with generative AI
-  - Learn to write compelling copy with generative AI
-  - Develop engaging presentations with generative AI
-  - Summarize, revise, and refine writing with generative AI
+  - [Write clear, persuasive, and warm emails with generative AI](#write-clear-persuasive-and-warm-emails-with-generative-ai)
+  - [Learn to write compelling copy with generative AI](#learn-to-write-compelling-copy-with-generative-ai)
+  - [Develop engaging presentations with generative AI](#develop-engaging-presentations-with-generative-ai)
+  - [Summarize, revise, and refine writing with generative AI](#summarize-revise-and-refine-writing-with-generative-ai)
 - [**2. Boost Interpersonal Communication with AI**](#2-boost-interpersonal-communication-with-ai) (4 videos)
-  - Develop your conversation skills with generative AI
-  - Be more persuasive in negotiations using generative AI
-  - Prepare for meetings effectively using generative AI
-  - Prepare for difficult conversations using generative AI
+  - [Develop your conversation skills with generative AI](#develop-your-conversation-skills-with-generative-ai)
+  - [Be more persuasive in negotiations using generative AI](#be-more-persuasive-in-negotiations-using-generative-ai)
+  - [Prepare for meetings effectively using generative AI](#prepare-for-meetings-effectively-using-generative-ai)
+  - [Prepare for difficult conversations using generative AI](#prepare-for-difficult-conversations-using-generative-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Put your generative AI communication skills into practice
+  - [Put your generative AI communication skills into practice](#put-your-generative-ai-communication-skills-into-practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use AI to take your communication to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/use-ai-to-take-your-communication-to-the-next-level?u=76281980)
@@ -80,6 +80,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), teams (1)
 > **Speakers:** - think (1)
 
 #### Best practices to make AI your communication copilot
@@ -253,9 +254,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (30), prompt (10), [[LinkedIn]] (3), [[Microsoft Word|Word]] (2), [[Prompt Engineering]] (1)
 > **Analogies:** for example (2), just like (1), imagine (1), such as (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), for. (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** ceo (1)
 > **Exercise Files:** exercise files (1)
@@ -307,6 +308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (2), [[Privacy]] (1), hr (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - before (1)
 
@@ -397,15 +399,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[ChatGPT]] (3), data (3), [[Microsoft Copilot]] (2), teams (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. Writing with Style and Impact Using Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Write clear, persuasive, and warm emails with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980)
@@ -550,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** ai (16), prompt (5), [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Analogies:** for example (2)
@@ -667,7 +669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), for, (1), this: (1), match. (1)
+> **Frameworks & Libraries:** ai (18), [[LinkedIn]] (4), prompt (3), data (3), career (2)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -747,8 +749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (3), prompt (3), [[Real-Time]] (1)
 > **Exercise Files:** template (2), exercise files (1)
-> **Code Keywords:** else, (1), public (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ted (1)
 > **Best Practices:** the key is (1)
@@ -895,16 +897,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), prompt (6), career (1), data (1)
 > **CLI Commands:** make (8), find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - writing (1)
 
 
 ### 2. Boost Interpersonal Communication with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop your conversation skills with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980)
@@ -1003,7 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), super (1)
+> **Frameworks & Libraries:** ai (19), prompt (4), next (2), hr (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** go to (1)
@@ -1111,8 +1113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), prompt (5), [[Predictive Analytics]] (1), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** this, (1), raise (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
@@ -1180,6 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[LinkedIn]] (1), data (1), [[Zoom]] (1)
 > **Env Vars:** crm (1), ted (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1283,7 +1286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (18), next (4), [[LinkedIn]] (3), prompt (1), data (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - ever (1)
@@ -1291,7 +1294,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Put your generative AI communication skills into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/put-your-generative-ai-communication-skills-into-practice?u=76281980)
@@ -1322,7 +1325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** ai (9), next (2)
 > **URLs:** [scienceofpeople.com](https://scienceofpeople.com) (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - i (1)

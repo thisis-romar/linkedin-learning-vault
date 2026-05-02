@@ -59,7 +59,7 @@ tags:
   - topic/software-development
   - skill/statistics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%201-%20The%20Basics.md)
@@ -78,28 +78,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The beginning of your statistics journey
+  - [The beginning of your statistics journey](#the-beginning-of-your-statistics-journey)
 - [**1. Data and Charts**](#1-data-and-charts) (2 videos)
-  - Introduction to data and charts
-  - Data and chart examples
+  - [Introduction to data and charts](#introduction-to-data-and-charts)
+  - [Data and chart examples](#data-and-chart-examples)
 - [**2. The Middle**](#2-the-middle) (3 videos)
-  - The middle of your data set
-  - Basic data sets
-  - Special circumstances
+  - [The middle of your data set](#the-middle-of-your-data-set)
+  - [Basic data sets](#basic-data-sets)
+  - [Special circumstances](#special-circumstances)
 - [**3. Variability**](#3-variability) (7 videos)
-  - Introduction to variability
-  - Range
-  - Standard deviation
-  - Calculating standard deviation
-  - Big and small standard deviation
-  - Empirical rule
-  - Outliers
+  - [Introduction to variability](#introduction-to-variability)
+  - [Range](#range)
+  - [Standard deviation](#standard-deviation)
+  - [Calculating standard deviation](#calculating-standard-deviation)
+  - [Big and small standard deviation](#big-and-small-standard-deviation)
+  - [Empirical rule](#empirical-rule)
+  - [Outliers](#outliers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The beginning of your statistics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980)
@@ -128,13 +128,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), [[Statistics]] (3), [[Data-driven Decision Making]] (1), [[Statistical Analysis]] (1), business (1)
 > **Speakers:** - data (1)
 
 
 ### 1. Data and Charts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data and charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980)
@@ -167,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Statistics]] (2), product (1), [[Google]] (1)
 > **Speakers:** - we (1)
 
 #### Data and chart examples
@@ -218,7 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), throw (1)
+> **Frameworks & Libraries:** data (9), [[Statistics]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 ### 2. The Middle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The middle of your data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980)
@@ -301,7 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (19), [[Statistics]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - every (1)
@@ -385,7 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (22), next (1)
 > **CLI Commands:** find (4)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -465,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (2), case, (2), finally, (1)
+> **Frameworks & Libraries:** data (15), [[Statistics]] (1), next (1), business (1)
 > **Versions:** 75.5 (6), 10.5 (2)
 > **CLI Commands:** find (7)
 > **Cross-References:** as we saw (1)
@@ -475,7 +476,7 @@ created: 2026-04-29
 
 ### 3. Variability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to variability
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-variability?u=76281980)
@@ -510,8 +511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - mean (1)
 
@@ -578,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (21), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - look (1)
@@ -652,8 +653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Big Data]] (2), next (1)
 > **Versions:** 2.24 (3), 0.66 (3)
-> **Code Keywords:** let (4)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -714,8 +715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13)
 > **Versions:** 18.7 (2), 4.32 (2)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** find (2)
 > **Definitions:** we call this (1)
 > **Analogies:** imagine (1)
@@ -758,6 +759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -826,8 +828,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28)
 > **Versions:** 99.7 (3), 0.3 (1), 0.8 (1), 0.1 (1), 3.2 (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - the (1)
 
@@ -926,15 +928,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Statistics]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - nowadays (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980)
@@ -955,7 +957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Probability]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - thank (1)
 

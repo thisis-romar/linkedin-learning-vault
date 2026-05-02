@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20C-%20Language%20Features.md)
@@ -48,34 +48,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - C# language features
-  - What you should know
-  - Setting up the environment
+  - [C# language features](#c-language-features)
+  - [What you should know](#what-you-should-know)
+  - [Setting up the environment](#setting-up-the-environment)
 - [**1. Language Constructs**](#1-language-constructs) (5 videos)
-  - Indexes and ranges
-  - Literal number improvements
-  - The null-coalescing operator
-  - Deconstruction with tuples
-  - Deconstruction with classes
+  - [Indexes and ranges](#indexes-and-ranges)
+  - [Literal number improvements](#literal-number-improvements)
+  - [The null-coalescing operator](#the-null-coalescing-operator)
+  - [Deconstruction with tuples](#deconstruction-with-tuples)
+  - [Deconstruction with classes](#deconstruction-with-classes)
 - [**2. Structural Pattern Matching**](#2-structural-pattern-matching) (7 videos)
-  - Overview of pattern matching
-  - Basic patterns
-  - Enhanced switch statements
-  - Position patterns
-  - Relational patterns
-  - Pattern challenge
-  - Pattern solution
+  - [Overview of pattern matching](#overview-of-pattern-matching)
+  - [Basic patterns](#basic-patterns)
+  - [Enhanced switch statements](#enhanced-switch-statements)
+  - [Position patterns](#position-patterns)
+  - [Relational patterns](#relational-patterns)
+  - [Pattern challenge](#pattern-challenge)
+  - [Pattern solution](#pattern-solution)
 - [**3. Object-Oriented Programming Features**](#3-object-oriented-programming-features) (4 videos)
-  - Working with indexers
-  - Overriding ToString()
-  - Equality testing
-  - Using records
+  - [Working with indexers](#working-with-indexers)
+  - [Overriding ToString()](#overriding-tostring)
+  - [Equality testing](#equality-testing)
+  - [Using records](#using-records)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### C# language features
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), switch (1), let (1)
+> **Frameworks & Libraries:** [[Programming]] (2), career (1), feature (1), [[Windows]] (1), cross-platform (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [joe] (1)
 
@@ -139,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Tools:** visual studio (4)
-> **Code Keywords:** interface (1), finally, (1)
 > **Env Vars:** net (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -205,11 +205,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Windows]] (1), [[GitHub]] (1)
 > **Env Vars:** net (11), sdk (4)
 > **Tools:** visual studio (6), terminal (2), command line (1), github (1)
 > **CLI Commands:** make (4), find (2), dotnet (1)
 > **Prerequisites:** install (5), set up (1), you'll need (1)
-> **Code Keywords:** let (3), switch (1), this, (1), this. (1)
 > **UI Navigation:** go to (2), select the (1), click on (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Cross-References:** go back to (1)
@@ -217,7 +217,7 @@ created: 2026-04-29
 
 ### 1. Language Constructs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Indexes and ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980)
@@ -400,7 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (3), type, (3), type. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), data (2), [[Programming]] (1), application (1)
 > **Tools:** terminal (5), vs code (2)
 > **CLI Commands:** make (3), dotnet (1)
 > **Definitions:** is a  (1), basically means (1)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), else, (1), this. (1)
+> **Frameworks & Libraries:** data (4), cd (1), [[Programming]] (1)
 > **CLI Commands:** make (3), dotnet (1), cd (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** open the (1), right-click (1)
@@ -621,7 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), throw (5), case, (5), this. (4), function (3)
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** make (3), dotnet (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** such as (1), imagine (1)
@@ -721,7 +721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (4), this, (2), case, (2), else, (1)
+> **Frameworks & Libraries:** feature (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** wxyz (3), abcd (2)
 > **CLI Commands:** python (1)
 > **Versions:** 7.0 (1)
@@ -835,7 +835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (5), this, (2), this. (2), class. (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Cross-References:** go back to (4), previous video (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -846,7 +846,7 @@ created: 2026-04-29
 
 ### 2. Structural Pattern Matching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of pattern matching
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/overview-of-pattern-matching?u=76281980)
@@ -875,7 +875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1)
+> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [instructor] (1)
 
 #### Basic patterns
@@ -1007,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), this. (5), function (4), this, (3), case, (2)
+> **Frameworks & Libraries:** generic (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Tools:** terminal (3)
 > **Analogies:** for example (2), imagine (1)
@@ -1229,7 +1229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), switch (17), this. (4), function (3), var (3)
+> **Frameworks & Libraries:** feature (3), [[Microsoft Word|Word]] (2), [[Programming]] (1), application (1), next (1)
 > **CLI Commands:** make (2)
 > **Tools:** terminal (2)
 > **Cross-References:** go back to (1)
@@ -1435,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), switch (8), function (2), case, (2), var (2)
+> **Frameworks & Libraries:** data (4), next (2), feature (1), [[Microsoft Word|Word]] (1)
 > **Cross-References:** earlier in (3), in the next (1)
 > **Code Identifiers:** groupsize (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1527,8 +1527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), switch (4), this. (2), this
-( (1), case, (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Non-Speech:** (computer keyboard clicking) (16), (computer mouse clicking) (4)
 > **CLI Commands:** make (2)
 > **Tools:** terminal (1)
@@ -1640,7 +1639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), throw (1), this. (1)
+> **Frameworks & Libraries:** application (3), data (2), [[Programming]] (1), next (1)
 > **Definitions:** is a  (4)
 > **Versions:** 0.1 (1), 0.05 (1)
 > **CLI Commands:** dotnet (1)
@@ -1716,7 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2), class, (1), function (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1728,7 +1727,7 @@ created: 2026-04-29
 
 ### 3. Object-Oriented Programming Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with indexers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/working-with-indexers?u=76281980)
@@ -1903,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), class. (3), public (2), this. (2), throw (2)
+> **Frameworks & Libraries:** data (6), feature (4), [[Programming]] (1), next (1)
 > **CLI Commands:** make (6), dotnet (1)
 > **Analogies:** for example (2), imagine (1), similar to (1), just like (1)
 > **Cross-References:** go back to (3)
@@ -2003,7 +2002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), class. (6), function (6), override (5), class, (2)
+> **Frameworks & Libraries:** [[Debugging]] (2), [[Troubleshooting]] (1)
 > **Env Vars:** net (4)
 > **CLI Commands:** make (2), dotnet (1)
 > **Tools:** terminal (2), vs code (1)
@@ -2189,7 +2188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), override (10), function (9), this. (3), interface (2)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** net (3)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -2414,7 +2413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), this. (7), this, (3), class, (2), public (2)
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2), feature (1)
 > **CLI Commands:** make (9)
 > **Versions:** 29.6 (1), 24.1 (1), 30.1 (1)
 > **Definitions:** in other words (2)
@@ -2426,7 +2425,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980)
@@ -2455,6 +2454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), next (1), data (1), [[Microsoft]] (1)
 > **Env Vars:** net (3)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)

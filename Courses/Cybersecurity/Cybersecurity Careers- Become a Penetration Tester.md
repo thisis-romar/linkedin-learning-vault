@@ -38,7 +38,7 @@ tags:
   - skill/tech-career-skills
   - skill/penetration-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Careers-%20Become%20a%20Penetration%20Tester.md)
@@ -57,28 +57,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How do I get into pentesting?
+  - [How do I get into pentesting?](#how-do-i-get-into-pentesting)
 - [**1. Self-Assessment**](#1-self-assessment) (3 videos)
-  - What is pentesting?
-  - Interaction skills
-  - Technical skills
+  - [What is pentesting?](#what-is-pentesting)
+  - [Interaction skills](#interaction-skills)
+  - [Technical skills](#technical-skills)
 - [**2. Fundamentals**](#2-fundamentals) (3 videos)
-  - OS fundamentals
-  - Risk fundamentals
-  - Web and network fundamentals
+  - [OS fundamentals](#os-fundamentals)
+  - [Risk fundamentals](#risk-fundamentals)
+  - [Web and network fundamentals](#web-and-network-fundamentals)
 - [**3. Ethical Hacking Techniques**](#3-ethical-hacking-techniques) (3 videos)
-  - Penetration testing stages
-  - Linux command-line fundamentals
-  - Tools of the trade required for pentesting
+  - [Penetration testing stages](#penetration-testing-stages)
+  - [Linux command-line fundamentals](#linux-command-line-fundamentals)
+  - [Tools of the trade required for pentesting](#tools-of-the-trade-required-for-pentesting)
 - [**4. Get Experience**](#4-get-experience) (2 videos)
-  - Hands-on experience
-  - Showing home lab as experience
+  - [Hands-on experience](#hands-on-experience)
+  - [Showing home lab as experience](#showing-home-lab-as-experience)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What are you waiting for?
+  - [What are you waiting for?](#what-are-you-waiting-for)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do I get into pentesting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980)
@@ -95,6 +95,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [tennisha] (1)
@@ -102,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Self-Assessment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is pentesting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980)
@@ -167,8 +168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (6), [[Penetration Testing]] (3), application (2), web (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nist (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** short for (1)
@@ -244,8 +245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Soft Skills]] (2), career (1), [[Scripting]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** public (1), let (1)
 > **Env Vars:** cve (1)
 > **Speakers:** - [instructor] (1)
 
@@ -356,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), function (1), for, (1), module (1)
+> **Frameworks & Libraries:** [[Security]] (3), business (3), next (2), web application (2), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** tcp (1), udp (1), owasp (1)
 > **Cross-References:** we mentioned (1), next video (1)
@@ -368,7 +369,7 @@ created: 2026-04-29
 
 ### 2. Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OS fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980)
@@ -437,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Windows]] (6), career (3), [[Android]] (2), web application (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** osx (1), dos (1)
 > **Prerequisites:** configure (1), you'll need (1)
@@ -539,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** business (7), data (4), [[Security]] (3), [[NIST]] (3), application (1)
 > **Env Vars:** nist (3), ciso (1)
 > **Definitions:** is a  (2), means that (1), defined as (1)
 > **CLI Commands:** make (3)
@@ -624,7 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1)
+> **Frameworks & Libraries:** web (4), [[Search]] (3), web application (2), next (2), [[Software Testing]] (1)
 > **File Paths:** robots.txt (3)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
@@ -636,7 +637,7 @@ created: 2026-04-29
 
 ### 3. Ethical Hacking Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Penetration testing stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980)
@@ -705,8 +706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Penetration Testing]] (7), [[Ethical Hacking]] (5), [[Security]] (4), next (2), business (2)
 > **Definitions:** is called (3), is a  (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -821,8 +822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (9), [[Linux]] (2), cd (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (9), make (6), sudo (4), cat (4), ls (3)
-> **Code Keywords:** interface (2), this. (2), let (2), case, (1), var (1)
 > **Tools:** command line (4), terminal (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1), short for (1)
@@ -901,9 +902,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (4), [[Penetration Testing]] (3), web application (3), [[Wireshark]] (2), web (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -911,7 +912,7 @@ created: 2026-04-29
 
 ### 4. Get Experience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980)
@@ -986,8 +987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Penetration Testing]] (6), [[Security]] (5), [[Linux]] (5), next (3), [[Digital Forensics]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
-> **Code Keywords:** let (2), this. (1), break, (1)
 > **Cross-References:** in the last (1), we talked about (1), next video (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1), find (1)
@@ -1070,8 +1071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (3), web (3), [[Penetration Testing]] (2), [[Linux]] (2), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), for. (1)
 > **Prerequisites:** install (1), set up (1)
 > **Env Vars:** star (1)
 > **Cross-References:** in the last (1)
@@ -1080,7 +1081,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are you waiting for?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-are-you-waiting-for?u=76281980)
@@ -1104,7 +1105,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Prerequisites:** getting started (2), set up (1)
-> **Code Keywords:** this, (1), this. (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [tennisha] (1)
 

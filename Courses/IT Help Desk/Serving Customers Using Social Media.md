@@ -30,7 +30,7 @@ tags:
   - skill/social-media-communications
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Serving%20Customers%20Using%20Social%20Media.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How to have a fulfilling career in social customer care
+  - [How to have a fulfilling career in social customer care](#how-to-have-a-fulfilling-career-in-social-customer-care)
 - [**1. Delivering Efficient Customer Service on Social Media**](#1-delivering-efficient-customer-service-on-social-media) (3 videos)
-  - Respond quickly to customer inquiries on social
-  - Pivot channels gracefully in social customer service
-  - Answer one customer and help many more
+  - [Respond quickly to customer inquiries on social](#respond-quickly-to-customer-inquiries-on-social)
+  - [Pivot channels gracefully in social customer service](#pivot-channels-gracefully-in-social-customer-service)
+  - [Answer one customer and help many more](#answer-one-customer-and-help-many-more)
 - [**2. Crafting Personalized, On-Brand Customer Service Responses**](#2-crafting-personalized-on-brand-customer-service-responses) (5 videos)
-  - Adopt an informal yet professional tone in your writing
-  - Include emojis and GIFs in your customer service responses
-  - Identify writing rules you can break in social media
-  - Demonstrate empathy in your responses to customers
-  - Personalize responses to customers with key details
+  - [Adopt an informal yet professional tone in your writing](#adopt-an-informal-yet-professional-tone-in-your-writing)
+  - [Include emojis and GIFs in your customer service responses](#include-emojis-and-gifs-in-your-customer-service-responses)
+  - [Identify writing rules you can break in social media](#identify-writing-rules-you-can-break-in-social-media)
+  - [Demonstrate empathy in your responses to customers](#demonstrate-empathy-in-your-responses-to-customers)
+  - [Personalize responses to customers with key details](#personalize-responses-to-customers-with-key-details)
 - [**3. Using Templates for Efficient Responses to Your Customers**](#3-using-templates-for-efficient-responses-to-your-customers) (2 videos)
-  - Determine when to use templates versus customized responses
-  - Write templates that are easy to customize
+  - [Determine when to use templates versus customized responses](#determine-when-to-use-templates-versus-customized-responses)
+  - [Write templates that are easy to customize](#write-templates-that-are-easy-to-customize)
 - [**4. Handling Angry Customers on Social Media**](#4-handling-angry-customers-on-social-media) (3 videos)
-  - Defuse angry customers skillfully
-  - Determine when not to engage with angry customers on social
-  - Apologize authentically to angry customers
+  - [Defuse angry customers skillfully](#defuse-angry-customers-skillfully)
+  - [Determine when not to engage with angry customers on social](#determine-when-not-to-engage-with-angry-customers-on-social)
+  - [Apologize authentically to angry customers](#apologize-authentically-to-angry-customers)
 - [**5. Responding to Ratings and Reviews**](#5-responding-to-ratings-and-reviews) (2 videos)
-  - Respond to low ratings and poor reviews
-  - Offer solutions, share resources, and suggest products
+  - [Respond to low ratings and poor reviews](#respond-to-low-ratings-and-poor-reviews)
+  - [Offer solutions, share resources, and suggest products](#offer-solutions-share-resources-and-suggest-products)
 - [**6. Leveraging Generative AI Tools in Responding to Customers on Social**](#6-leveraging-generative-ai-tools-in-responding-to-customers-on-social) (2 videos)
-  - Use GenAI to analyze customer posts
-  - Use GenAI to refine responses to customers before posting
+  - [Use GenAI to analyze customer posts](#use-genai-to-analyze-customer-posts)
+  - [Use GenAI to refine responses to customers before posting](#use-genai-to-refine-responses-to-customers-before-posting)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Take your social customer care skills to the next level
+  - [Take your social customer care skills to the next level](#take-your-social-customer-care-skills-to-the-next-level)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to have a fulfilling career in social customer care
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/how-to-have-a-fulfilling-career-in-social-customer-care?u=76281980)
@@ -103,14 +103,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - these (1)
 
 
 ### 1. Delivering Efficient Customer Service on Social Media
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Respond quickly to customer inquiries on social
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980)
@@ -183,9 +182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), next (1)
 > **Ports:** :28 (1), :43 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
@@ -238,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), public (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), product (1), generic (1), business (1), [[Security]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dms (1)
@@ -327,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (1)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (2), application (1)
 > **Analogies:** such as (1), picture (1), for example (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -336,7 +335,7 @@ created: 2026-04-29
 
 ### 2. Crafting Personalized, On-Brand Customer Service Responses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adopt an informal yet professional tone in your writing
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980)
@@ -419,8 +418,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** it's like (1)
 > **Warnings:** be careful (1)
@@ -507,8 +506,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Social Media Marketing]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), this. (1)
 > **Env Vars:** gif (2)
 > **Speakers:** - so (1)
 
@@ -599,8 +598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), web (2), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** break. (2), break, (1), finally, (1), public (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** is a  (1)
@@ -682,7 +681,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** try. (1), let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - writing (1)
@@ -762,15 +760,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), power (1)
 > **CLI Commands:** brew (5), make (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - has (1)
 
 
 ### 3. Using Templates for Efficient Responses to Your Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine when to use templates versus customized responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980)
@@ -853,8 +851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), power (1)
 > **Exercise Files:** template (8)
-> **Code Keywords:** public (1), let (1), require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - some (1)
 
@@ -931,15 +929,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), product (1)
 > **Exercise Files:** template (9), download the (1)
-> **Code Keywords:** try. (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
 
 ### 4. Handling Angry Customers on Social Media
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defuse angry customers skillfully
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980)
@@ -1026,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** business (1), next (1)
 > **Definitions:** is a  (2)
 > **Versions:** version 427 (1)
 > **Analogies:** imagine (1)
@@ -1113,7 +1111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
@@ -1178,14 +1176,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - what (1)
 
 
 ### 5. Responding to Ratings and Reviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Respond to low ratings and poor reviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980)
@@ -1272,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), else, (1), let (1), this. (1)
+> **Frameworks & Libraries:** product (3), business (2), [[Google]] (1), generic (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
@@ -1357,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1), self (1), let (1), finally, (1), else. (1)
+> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (3), next (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** abc (2)
 > **Analogies:** just like (1)
@@ -1366,7 +1364,7 @@ created: 2026-04-29
 
 ### 6. Leveraging Generative AI Tools in Responding to Customers on Social
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GenAI to analyze customer posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980)
@@ -1509,7 +1507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), prompt (6), ai (5), [[Generative AI]] (2), [[LinkedIn]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
@@ -1676,7 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), super (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (19), prompt (5), [[Generative AI Tools]] (1), next (1), express (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** tsa (3)
 > **CLI Commands:** find (1)
@@ -1686,7 +1684,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take your social customer care skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980)
@@ -1715,7 +1713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[ChatGPT]] (1), [[Microsoft Office|Office]] (1), career (1)
 > **Code Identifiers:** chatgpt (1), ewrite (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)

@@ -34,7 +34,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Moderation.md)
@@ -53,16 +53,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Managing potentially harmful language with AI
+  - [Managing potentially harmful language with AI](#managing-potentially-harmful-language-with-ai)
 - [**1. Moderating AI Exchanges**](#1-moderating-ai-exchanges) (2 videos)
-  - How the OpenAI API moderation feature works
-  - Using the moderation feature in the OpenAI API
+  - [How the OpenAI API moderation feature works](#how-the-openai-api-moderation-feature-works)
+  - [Using the moderation feature in the OpenAI API](#using-the-moderation-feature-in-the-openai-api)
 - [**2. Going Further**](#2-going-further) (1 videos)
-  - Further resources and documentation
+  - [Further resources and documentation](#further-resources-and-documentation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing potentially harmful language with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980)
@@ -97,7 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (5), product (1), [[Microsoft Word|Word]] (1), [[OpenAI API]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Speakers:** - let (1)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Moderating AI Exchanges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How the OpenAI API moderation feature works
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980)
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), self (1), return. (1), default. (1), pass (1)
+> **Frameworks & Libraries:** ai (3), api (2), [[Conversational AI]] (1), [[OpenAI API]] (1), data (1)
 > **Env Vars:** api (3)
 > **Versions:** 0.5 (1), 0.6 (1)
 > **Documentation:** api reference (1)
@@ -367,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), pass (1)
+> **Frameworks & Libraries:** prompt (6), [[Python (Programming Language)|Python]] (4), api (3), ai (3), [[GitHub]] (2)
 > **UI Navigation:** go to (2), click on (2), open the (2), select the (1)
 > **CLI Commands:** python (4), find (1), make (1)
 > **File Paths:** basic.py (2), conditional.py (2), mod-assistant.py (1)
@@ -379,7 +379,7 @@ created: 2026-04-29
 
 ### 2. Going Further
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980)
@@ -420,8 +420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1), api (1), [[OpenAI Products]] (1), next (1)
 > **CLI Commands:** find (1), go build (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** api reference (1)

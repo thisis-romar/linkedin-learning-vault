@@ -28,7 +28,7 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Foundations-%20Computer%20Forensics.md)
@@ -47,81 +47,81 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Computer forensics
-  - What you should know
+  - [Computer forensics](#computer-forensics)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding Computer Forensics**](#1-understanding-computer-forensics) (10 videos)
-  - Definition and goals of computer forensics
-  - History
-  - Types of investigations
-  - Tools
-  - Legal implications
-  - Current and future trends
-  - Challenges
-  - Anti-forensics techniques
-  - Compliance and forensics
-  - Cybersecurity and forensics
+  - [Definition and goals of computer forensics](#definition-and-goals-of-computer-forensics)
+  - [History](#history)
+  - [Types of investigations](#types-of-investigations)
+  - [Tools](#tools)
+  - [Legal implications](#legal-implications)
+  - [Current and future trends](#current-and-future-trends)
+  - [Challenges](#challenges)
+  - [Anti-forensics techniques](#anti-forensics-techniques)
+  - [Compliance and forensics](#compliance-and-forensics)
+  - [Cybersecurity and forensics](#cybersecurity-and-forensics)
 - [**2. Areas of Computer Forensics**](#2-areas-of-computer-forensics) (9 videos)
-  - Specializations in computer forensics
-  - Network forensics
-  - Operating system forensics
-  - Web forensics
-  - Cloud forensics
-  - Malware forensics
-  - Mobile forensics
-  - Email forensics
-  - Certifications
+  - [Specializations in computer forensics](#specializations-in-computer-forensics)
+  - [Network forensics](#network-forensics)
+  - [Operating system forensics](#operating-system-forensics)
+  - [Web forensics](#web-forensics)
+  - [Cloud forensics](#cloud-forensics)
+  - [Malware forensics](#malware-forensics)
+  - [Mobile forensics](#mobile-forensics)
+  - [Email forensics](#email-forensics)
+  - [Certifications](#certifications)
 - [**3. Preparing for an Investigation**](#3-preparing-for-an-investigation) (9 videos)
-  - Tools and knowledge requirements
-  - Hardware
-  - Software
-  - Understanding hexadecimal numbers
-  - Using a hex editor
-  - Understanding offset
-  - Forensics OS distributions
-  - Challenge: Hex editor
-  - Solution: Hex editor
+  - [Tools and knowledge requirements](#tools-and-knowledge-requirements)
+  - [Hardware](#hardware)
+  - [Software](#software)
+  - [Understanding hexadecimal numbers](#understanding-hexadecimal-numbers)
+  - [Using a hex editor](#using-a-hex-editor)
+  - [Understanding offset](#understanding-offset)
+  - [Forensics OS distributions](#forensics-os-distributions)
+  - [Challenge: Hex editor](#challenge-hex-editor)
+  - [Solution: Hex editor](#solution-hex-editor)
 - [**4. File System Fundamentals**](#4-file-system-fundamentals) (7 videos)
-  - Understanding file systems
-  - Understanding the boot sequence
-  - Understanding disk/solid-state drives
-  - Understanding the master boot records (MBR)
-  - Understanding Partitioning
-  - Challenge: Partitioning a USB drive
-  - Solution: Partitioning a USB drive
+  - [Understanding file systems](#understanding-file-systems)
+  - [Understanding the boot sequence](#understanding-the-boot-sequence)
+  - [Understanding disk/solid-state drives](#understanding-disksolid-state-drives)
+  - [Understanding the master boot records (MBR)](#understanding-the-master-boot-records-mbr)
+  - [Understanding Partitioning](#understanding-partitioning)
+  - [Challenge: Partitioning a USB drive](#challenge-partitioning-a-usb-drive)
+  - [Solution: Partitioning a USB drive](#solution-partitioning-a-usb-drive)
 - [**5. Persisting Data**](#5-persisting-data) (11 videos)
-  - Evidence preservation approaches
-  - Understanding the role of write blockers
-  - Using a software write blocker
-  - Using hardware write blockers
-  - Understanding hashing
-  - Hashing algorithms
-  - Case Study: Hashing in FTK Imager
-  - Understanding mounting
-  - Mounting manually
-  - Challenge: Hashing in Kali
-  - Solution: Hashing in Kali
+  - [Evidence preservation approaches](#evidence-preservation-approaches)
+  - [Understanding the role of write blockers](#understanding-the-role-of-write-blockers)
+  - [Using a software write blocker](#using-a-software-write-blocker)
+  - [Using hardware write blockers](#using-hardware-write-blockers)
+  - [Understanding hashing](#understanding-hashing)
+  - [Hashing algorithms](#hashing-algorithms)
+  - [Case Study: Hashing in FTK Imager](#case-study-hashing-in-ftk-imager)
+  - [Understanding mounting](#understanding-mounting)
+  - [Mounting manually](#mounting-manually)
+  - [Challenge: Hashing in Kali](#challenge-hashing-in-kali)
+  - [Solution: Hashing in Kali](#solution-hashing-in-kali)
 - [**6. Aquiring Data**](#6-aquiring-data) (7 videos)
-  - Data acquisition approaches
-  - Static acquisition with open-source tools
-  - Static acquisition case study with dd
-  - Static acquisition case study with dcfldd
-  - Live acquisition case study with a commercial tool
-  - Challenge: Live acquisition with a memory dump file
-  - Solution: Live acquisition with a memory dump file
+  - [Data acquisition approaches](#data-acquisition-approaches)
+  - [Static acquisition with open-source tools](#static-acquisition-with-open-source-tools)
+  - [Static acquisition case study with dd](#static-acquisition-case-study-with-dd)
+  - [Static acquisition case study with dcfldd](#static-acquisition-case-study-with-dcfldd)
+  - [Live acquisition case study with a commercial tool](#live-acquisition-case-study-with-a-commercial-tool)
+  - [Challenge: Live acquisition with a memory dump file](#challenge-live-acquisition-with-a-memory-dump-file)
+  - [Solution: Live acquisition with a memory dump file](#solution-live-acquisition-with-a-memory-dump-file)
 - [**7. Putting It All Together: Analyzing Data and Generating Reports**](#7-putting-it-all-together-analyzing-data-and-generating-reports) (7 videos)
-  - Forensic data analysis
-  - Indexing
-  - Searching
-  - Generating a Report
-  - Case Study: Hex editor analysis of a file with a wrong extension
-  - Hex editor analysis of a bit-shifted file
-  - Case Study: Steganography
+  - [Forensic data analysis](#forensic-data-analysis)
+  - [Indexing](#indexing)
+  - [Searching](#searching)
+  - [Generating a Report](#generating-a-report)
+  - [Case Study: Hex editor analysis of a file with a wrong extension](#case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension)
+  - [Hex editor analysis of a bit-shifted file](#hex-editor-analysis-of-a-bit-shifted-file)
+  - [Case Study: Steganography](#case-study-steganography)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (3), [[Data Acquisition]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - cyber (1)
 
@@ -173,7 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Digital Forensics]] (1), [[Windows]] (1), [[Computer Forensics]] (1)
 > **Cross-References:** later in (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Understanding Computer Forensics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition and goals of computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980)
@@ -210,8 +210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Forensics]] (3), data (3), next (1), [[Search]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -256,6 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Forensics]] (3), data (2), [[Microsoft Word|Word]] (2), [[Digital Forensics]] (2), [[IoT]] (2)
 > **Env Vars:** iso (2), cart (1), fbi (1), fletc (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** such as (1)
@@ -302,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (6), case. (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (2), business (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -355,8 +356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Forensics]] (7), [[Hardware]] (3), feature (2), data (1), power (1)
 > **Analogies:** for example (1), similar to (1), such as (1)
-> **Code Keywords:** case, (1), for. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -411,7 +412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2), throw (1), case, (1), let (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (5), data (3), [[Forms]] (2), [[Search]] (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -465,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (5), data (5), [[Hardware]] (2), cloud (2), [[Automation]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -535,7 +536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), private (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (3), [[Windows]] (2), data (2), [[Privacy]] (2), [[Hardware]] (1)
 > **Env Vars:** dos (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -603,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), override (1), throw (1), this. (1), continue (1)
+> **Frameworks & Libraries:** data (5), [[Metadata]] (5), [[Computer Forensics]] (3), [[Privacy]] (1), [[Slack]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** slack (1)
@@ -649,6 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Forensics]] (6), [[Security]] (5), [[NIST]] (3), [[Cybersecurity]] (2), [[Accountability]] (1)
 > **Env Vars:** nist (3), hipaa (2), pci (2), dss (2), pii (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Speakers:** - [narrator] (1)
@@ -684,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (7), [[Cybersecurity]] (4), [[Computer Networking]] (3), data (2), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
@@ -693,7 +695,7 @@ created: 2026-04-29
 
 ### 2. Areas of Computer Forensics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Specializations in computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980)
@@ -764,9 +766,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), cloud (5), [[Digital Forensics]] (5), [[Computer Forensics]] (3), [[Computer Networking]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Code Identifiers:** ios (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -816,7 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), require (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (7), data (4), [[Hardware]] (3), [[Computer Networking]] (2), application (2)
 > **Env Vars:** lan (1), siem (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -889,10 +891,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), data (6), [[Digital Forensics]] (3), [[Linux]] (2), cloud (2)
 > **Env Vars:** ram (5), fat (2), ntfs (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** stands for (1), is an  (1), we call this (1)
-> **Code Keywords:** this, (1)
 > **Code Identifiers:** ios (1)
 > **Versions:** 3.1 (1)
 > **Analogies:** such as (1)
@@ -963,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (20), [[Digital Forensics]] (2), [[Cybersecurity]] (2), cloud (2), data (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** sql (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1028,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** cloud (11), data (2), [[Digital Forensics]] (2), web (2), [[PaaS]] (2)
 > **Env Vars:** frcp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1099,7 +1101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), case. (1)
+> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** source code (3)
 > **CLI Commands:** find (1)
 > **Definitions:** short for (1)
@@ -1158,9 +1160,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (6), [[Digital Forensics]] (2), data (2)
 > **Env Vars:** usb (6), sim (1)
 > **Versions:** 2.0 (1), 3.0 (1), 3.1 (1), 4.0 (1)
-> **Code Keywords:** module (1), require (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1231,10 +1233,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Metadata]] (2), data (2), [[Network Forensics]] (2), business (1)
 > **Env Vars:** smtp (3), ssn (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1277,15 +1279,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Forensics]] (4), [[Digital Forensics]] (1), next (1), data (1), career (1)
 > **Env Vars:** ftk (1), ace (1), chfi (1), iacis (1), cfce (1)
-> **Code Keywords:** let (1), public (1), finally, (1), case, (1)
 > **Definitions:** is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Preparing for an Investigation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and knowledge requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980)
@@ -1326,8 +1328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Digital Forensics]] (2), application (1), product (1), career (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** require (1), while. (1)
 > **Env Vars:** tco (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
@@ -1382,8 +1384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Forensics]] (11), [[Hardware]] (10), [[Electronics]] (2), next (1), [[Forms]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** function (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1426,6 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Forensics]] (9), [[Computer Forensics]] (2), [[Microsoft Products|Products]] (1), application (1), [[Linux]] (1)
 > **Env Vars:** ftk (3), sans (1), sift (1)
 > **Analogies:** such as (3), for example (1)
 > **Code Identifiers:** encase (2)
@@ -1499,6 +1502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Digital Forensics]] (4)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1564,9 +1568,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (1), [[Digital Forensics]] (1), feature (1), [[Hardware]] (1)
 > **Definitions:** in other words (1), short for (1), is an  (1), is a  (1), is called (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** usb (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1605,7 +1609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Digital Forensics]] (1)
 > **Definitions:** is a  (1), short for (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1689,8 +1693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[Digital Forensics]] (2), web (1)
 > **Env Vars:** gui (2), sift (2), sans (1), fdisk (1), sata (1)
-> **Code Keywords:** let (5), public (1), interface (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1721,7 +1725,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try. (1), type, (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -1767,7 +1770,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** open the (2), click on (2), select the (1), go to (1)
-> **Code Keywords:** let (2)
 > **File Paths:** test.txt (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1776,7 +1778,7 @@ created: 2026-04-29
 
 ### 4. File System Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding file systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980)
@@ -1861,8 +1863,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Windows]] (6), [[Metadata]] (3), [[Computer Forensics]] (1), [[Databases]] (1)
 > **Env Vars:** ntfs (5), fat (4), mft (1)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** refers to (1), is called (1), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **Tools:** slack (1)
@@ -1915,10 +1917,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Forensics]] (4), [[Hardware]] (4), semiconductor (1), [[Linux]] (1)
 > **Env Vars:** bios (5), cmos (4), usb (2), uefi (1)
 > **Definitions:** stands for (2), is a  (1), is called (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1967,7 +1969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[Computer Forensics]] (1), database (1)
 > **Versions:** 1.6 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2002,8 +2004,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1)
 > **Env Vars:** mbr (5), bios (1), fdisk (1), grub (1)
-> **Code Keywords:** from, (1), interface (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** be aware (1)
@@ -2041,6 +2043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Windows]] (2), [[Linux]] (2), management (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), setup (1)
 > **Definitions:** is a  (1)
@@ -2072,7 +2075,6 @@ created: 2026-04-29
 >
 > **Env Vars:** usb (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -2102,7 +2104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **UI Navigation:** click on (2)
 > **Env Vars:** ext4 (1)
 > **Prerequisites:** install (1)
@@ -2112,7 +2114,7 @@ created: 2026-04-29
 
 ### 5. Persisting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evidence preservation approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980)
@@ -2155,9 +2157,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Digital Forensics]] (1), [[Linux]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** match, (1)
 > **Env Vars:** usb (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -2202,8 +2204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Computer Forensics]] (1), [[Security]] (1)
 > **Definitions:** refers to (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ftk (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -2277,7 +2279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new, (1), case, (1), protected (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Windows]] (1), data (1), feature (1), [[Hardware]] (1)
 > **UI Navigation:** right-click (3), click on (2), double-click (1), drag and drop (1)
 > **Env Vars:** usb (3), hkey_local_machine (1), system (1), dword (1)
 > **Prerequisites:** you'll need (2)
@@ -2341,7 +2343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Computer Forensics]] (2), [[Forms]] (1), product (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** usb (2), cru (1)
 > **Definitions:** is a  (2)
 > **Versions:** 3.2 (1)
@@ -2378,6 +2380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Forensics]] (4), data (3)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -2415,6 +2418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Digital Forensics]] (1)
 > **Env Vars:** md5 (3), sha (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2501,9 +2505,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Computer Forensics]] (2), data (1), [[Algorithms]] (1), [[Linux]] (1)
 > **Env Vars:** ftk (5), md5 (3), sha (2)
 > **UI Navigation:** click on (8), select the (1)
-> **Code Keywords:** let (2), type. (1), type, (1), case. (1), this. (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1)
 > **Analogies:** for example (1)
@@ -2603,8 +2607,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Forensics]] (2), next (2), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** usb (15), sdb (2), sda (1)
-> **Code Keywords:** case, (3), this. (2), let (1)
 > **CLI Commands:** sudo (3)
 > **Definitions:** refers to (2), is a  (1)
 > **Analogies:** such as (1)
@@ -2702,9 +2706,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (4), [[Linux]] (1), [[Computer Forensics]] (1)
 > **CLI Commands:** ls (4), cd (4), mkdir (1), sudo (1)
 > **Code Identifiers:** usb_mounted (6)
-> **Code Keywords:** let (5)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2765,7 +2769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1), type : (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **File Paths:** test.txt (3)
 > **CLI Commands:** ls (1), find (1)
 > **Tools:** vim (2)
@@ -2804,14 +2808,13 @@ created: 2026-04-29
 >
 > **File Paths:** challenge.txt (4), test.txt (3)
 > **CLI Commands:** mv (2), ls (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Aquiring Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data acquisition approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980)
@@ -2848,7 +2851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (5)
+> **Frameworks & Libraries:** data (9), [[Computer Forensics]] (1), [[Data Acquisition]] (1), power (1)
 > **Env Vars:** usb (1), ram (1)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** such as (2)
@@ -2930,9 +2933,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (2), [[Linux]] (1), next (1), prompt (1), [[Computer Forensics]] (1)
 > **CLI Commands:** ls (3), sudo (2), make (1)
 > **Definitions:** stands for (3), is a  (1), means that (1)
-> **Code Keywords:** let (2), if. (1), return. (1)
 > **Env Vars:** usb (3)
 > **Tools:** command prompt (1), terminal (1)
 > **UI Navigation:** go to (1)
@@ -2987,7 +2990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Linux]] (2), next (1)
 > **CLI Commands:** sudo (1), ls (1)
 > **Env Vars:** usb (1)
 > **UI Navigation:** go to (1)
@@ -3032,7 +3035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Computer Forensics]] (1), [[Linux]] (1)
 > **CLI Commands:** ls (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** install (1)
@@ -3065,9 +3068,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ftk (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3088,6 +3091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -3118,8 +3122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), this, (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3127,7 +3131,7 @@ created: 2026-04-29
 
 ### 7. Putting It All Together: Analyzing Data and Generating Reports
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Forensic data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980)
@@ -3176,8 +3180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Digital Forensics]] (4), [[Search]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** picture (1)
@@ -3210,6 +3214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2), [[Search]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** refers to (1)
 > **Analogies:** similar to (1)
@@ -3328,8 +3333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), [[Search]] (6), feature (3), [[Digital Forensics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (17)
-> **Code Keywords:** let (3), case. (2), case, (1), this, (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** dreamcar (1)
 > **Exercise Files:** exercise files (1)
@@ -3400,8 +3405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), feature (2), [[HTML]] (2), [[Digital Forensics]] (1)
 > **UI Navigation:** click on (7), go to (2)
-> **Code Keywords:** let (4), this. (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -3458,7 +3463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (1), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Computer Forensics]] (1), [[Microsoft Office]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), open the (1)
 > **Definitions:** means that (1), is a  (1)
@@ -3527,7 +3532,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **File Paths:** secret.txt (4)
-> **Code Keywords:** let (4)
 > **UI Navigation:** go to (3), open the (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3602,7 +3606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), try. (1), interface (1)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (5), just like (1)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** find (2), make (1)
@@ -3614,7 +3618,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980)
@@ -3639,6 +3643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Digital Forensics]] (1), [[Network Forensics]] (1), next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - thank (1)
 

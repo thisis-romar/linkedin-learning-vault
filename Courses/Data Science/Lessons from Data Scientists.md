@@ -30,7 +30,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Lessons%20from%20Data%20Scientists.md)
@@ -49,32 +49,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Focus on what actually matters
+  - [Focus on what actually matters](#focus-on-what-actually-matters)
 - [**1. Start with the Right Mindset**](#1-start-with-the-right-mindset) (3 videos)
-  - Redefine what "data scientist" means
-  - Ask the questions you're afraid to ask
-  - Focus on usefulness, not genius
+  - [Redefine what "data scientist" means](#redefine-what-data-scientist-means)
+  - [Ask the questions you're afraid to ask](#ask-the-questions-youre-afraid-to-ask)
+  - [Focus on usefulness, not genius](#focus-on-usefulness-not-genius)
 - [**2. Work Like a Real Data Scientist**](#2-work-like-a-real-data-scientist) (3 videos)
-  - Slow down before you write your code
-  - Know when you're overbuilding
-  - Keep a mental checklist of assumptions
+  - [Slow down before you write your code](#slow-down-before-you-write-your-code)
+  - [Know when you're overbuilding](#know-when-youre-overbuilding)
+  - [Keep a mental checklist of assumptions](#keep-a-mental-checklist-of-assumptions)
 - [**3. Communicate with Credibility**](#3-communicate-with-credibility) (3 videos)
-  - Say what it means—not just what it is
-  - Talk to stakeholders as a data scientist
-  - Admit what you don't know
+  - [Say what it means—not just what it is](#say-what-it-meansnot-just-what-it-is)
+  - [Talk to stakeholders as a data scientist](#talk-to-stakeholders-as-a-data-scientist)
+  - [Admit what you don't know](#admit-what-you-dont-know)
 - [**4. Learn from Mistakes and Stay Resilient**](#4-learn-from-mistakes-and-stay-resilient) (3 videos)
-  - Treat mistakes like story material
-  - Stop chasing tools you don't need yet
-  - Create simple systems and workflows
+  - [Treat mistakes like story material](#treat-mistakes-like-story-material)
+  - [Stop chasing tools you don't need yet](#stop-chasing-tools-you-dont-need-yet)
+  - [Create simple systems and workflows](#create-simple-systems-and-workflows)
 - [**5. Own Your Career, Not Just Your Work**](#5-own-your-career-not-just-your-work) (2 videos)
-  - Choose jobs that enable you to grow
-  - Build a reputation as a collaborator
+  - [Choose jobs that enable you to grow](#choose-jobs-that-enable-you-to-grow)
+  - [Build a reputation as a collaborator](#build-a-reputation-as-a-collaborator)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Develop in your data science career
+  - [Develop in your data science career](#develop-in-your-data-science-career)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus on what actually matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980)
@@ -95,12 +95,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (1)
 
 
 ### 1. Start with the Right Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Redefine what "data scientist" means
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980)
@@ -159,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (2), leadership (2), [[Analytics]] (1), product (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is an  (1)
 
@@ -217,7 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), this. (1), self (1)
+> **Frameworks & Libraries:** data (3), teams (1), [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 
@@ -268,13 +270,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), feature (1)
 > **CLI Commands:** make (1)
 
 
 ### 2. Work Like a Real Data Scientist
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Slow down before you write your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980)
@@ -337,9 +339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), product (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ide (1), stem (1)
-> **Code Keywords:** throw (1)
 > **Tools:** jira (1)
 > **Prerequisites:** set up (1)
 
@@ -404,6 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Engineering]] (1), product (1), next (1)
 > **Env Vars:** mvp (1)
 > **Analogies:** picture (1)
 > **Best Practices:** the key is (1)
@@ -457,8 +460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (3), [[Jira]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Env Vars:** readme (1)
 > **Tools:** jira (1)
 > **Analogies:** picture (1)
@@ -466,7 +469,7 @@ created: 2026-04-29
 
 ### 3. Communicate with Credibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Say what it means—not just what it is
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980)
@@ -515,6 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Logistic Regression]] (1), next (1)
 > **Analogies:** it's like (1)
 
 #### Talk to stakeholders as a data scientist
@@ -558,8 +562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), career (1), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 
 #### Admit what you don't know
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980)
@@ -610,13 +614,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), feature (1), [[Microsoft Word|Word]] (1), [[Probability]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Versions:** 0.75 (1)
 
 
 ### 4. Learn from Mistakes and Stay Resilient
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Treat mistakes like story material
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/treat-mistakes-like-story-material?u=76281980)
@@ -675,6 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 
@@ -723,6 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), [[Dashboards]] (2), next (1)
 > **CLI Commands:** make (1)
 
 #### Create simple systems and workflows
@@ -786,13 +793,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (2)
 
 
 ### 5. Own Your Career, Not Just Your Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose jobs that enable you to grow
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980)
@@ -849,8 +857,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), data (2), [[Interviewing]] (1), parallel (1), teams (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 
 #### Build a reputation as a collaborator
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/build-a-reputation-as-a-collaborator?u=76281980)
@@ -901,12 +909,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1), next (1), leadership (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop in your data science career
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980)
@@ -921,6 +929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), career (1)
 > **Definitions:** is an  (1)
 
 

@@ -32,7 +32,7 @@ tags:
   - skill/application-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Application%20Development.md)
@@ -51,62 +51,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with SQL for application developers
-  - Tour of CoderPad
+  - [Getting started with SQL for application developers](#getting-started-with-sql-for-application-developers)
+  - [Tour of CoderPad](#tour-of-coderpad)
 - [**1. Advanced Querying with Select**](#1-advanced-querying-with-select) (6 videos)
-  - Designing an ecommerce application database
-  - Creating tables and loading data
-  - Using environment variables for connection parameters
-  - Connecting to a database
-  - Parameterizing SELECT statements
-  - Avoiding N+1 queries
+  - [Designing an ecommerce application database](#designing-an-ecommerce-application-database)
+  - [Creating tables and loading data](#creating-tables-and-loading-data)
+  - [Using environment variables for connection parameters](#using-environment-variables-for-connection-parameters)
+  - [Connecting to a database](#connecting-to-a-database)
+  - [Parameterizing SELECT statements](#parameterizing-select-statements)
+  - [Avoiding N+1 queries](#avoiding-n1-queries)
 - [**2. Indexing Tables**](#2-indexing-tables) (8 videos)
-  - Overview of index types
-  - Using B-tree indexes and range scans
-  - Using hash indexes and equality operations
-  - Covering indexes
-  - Indexes and bulk data loading
-  - Avoiding index locks
-  - Challenge: Define a B-tree and a hash index
-  - Solution: Defining B-tree and hash indexes
+  - [Overview of index types](#overview-of-index-types)
+  - [Using B-tree indexes and range scans](#using-b-tree-indexes-and-range-scans)
+  - [Using hash indexes and equality operations](#using-hash-indexes-and-equality-operations)
+  - [Covering indexes](#covering-indexes)
+  - [Indexes and bulk data loading](#indexes-and-bulk-data-loading)
+  - [Avoiding index locks](#avoiding-index-locks)
+  - [Challenge: Define a B-tree and a hash index](#challenge-define-a-b-tree-and-a-hash-index)
+  - [Solution: Defining B-tree and hash indexes](#solution-defining-b-tree-and-hash-indexes)
 - [**3. Object-Relational Mapping (ORM)**](#3-object-relational-mapping-orm) (7 videos)
-  - Overview of object-relational mapping
-  - Introduction to SQLAlchemy
-  - Installing SQLAlchemy
-  - Query with SQLAlchemy
-  - Limitations of ORM and cautionary advice
-  - Challenge: Create an ORM model
-  - Solution: Create an ORM model
+  - [Overview of object-relational mapping](#overview-of-object-relational-mapping)
+  - [Introduction to SQLAlchemy](#introduction-to-sqlalchemy)
+  - [Installing SQLAlchemy](#installing-sqlalchemy)
+  - [Query with SQLAlchemy](#query-with-sqlalchemy)
+  - [Limitations of ORM and cautionary advice](#limitations-of-orm-and-cautionary-advice)
+  - [Challenge: Create an ORM model](#challenge-create-an-orm-model)
+  - [Solution: Create an ORM model](#solution-create-an-orm-model)
 - [**4. Designing for Scalability**](#4-designing-for-scalability) (8 videos)
-  - Overview of partitioning
-  - Range partitioning
-  - List partitioning
-  - Hash partitioning
-  - Querying partitioned tables
-  - Using read-only replicas
-  - Challenge: Define a partitioned table
-  - Solution: Defining a partitioned table
+  - [Overview of partitioning](#overview-of-partitioning)
+  - [Range partitioning](#range-partitioning)
+  - [List partitioning](#list-partitioning)
+  - [Hash partitioning](#hash-partitioning)
+  - [Querying partitioned tables](#querying-partitioned-tables)
+  - [Using read-only replicas](#using-read-only-replicas)
+  - [Challenge: Define a partitioned table](#challenge-define-a-partitioned-table)
+  - [Solution: Defining a partitioned table](#solution-defining-a-partitioned-table)
 - [**5. Designing for Reliability**](#5-designing-for-reliability) (7 videos)
-  - Database errors
-  - Error trapping
-  - Database not responding, timeouts, and exponential backoff
-  - Connection pooling and bulk heads
-  - Monitoring and logging best practices
-  - Challenge: When your Python application fails
-  - Solution: When your Python application fails
+  - [Database errors](#database-errors)
+  - [Error trapping](#error-trapping)
+  - [Database not responding, timeouts, and exponential backoff](#database-not-responding-timeouts-and-exponential-backoff)
+  - [Connection pooling and bulk heads](#connection-pooling-and-bulk-heads)
+  - [Monitoring and logging best practices](#monitoring-and-logging-best-practices)
+  - [Challenge: When your Python application fails](#challenge-when-your-python-application-fails)
+  - [Solution: When your Python application fails](#solution-when-your-python-application-fails)
 - [**6. Designing for Maintainability**](#6-designing-for-maintainability) (6 videos)
-  - Understanding schema changes
-  - Ad hoc scripts for schema changes
-  - Automated schema migration with Flyway
-  - Automated schema migration with Liquibase
-  - Challenge
-  - Solution
+  - [Understanding schema changes](#understanding-schema-changes)
+  - [Ad hoc scripts for schema changes](#ad-hoc-scripts-for-schema-changes)
+  - [Automated schema migration with Flyway](#automated-schema-migration-with-flyway)
+  - [Automated schema migration with Liquibase](#automated-schema-migration-with-liquibase)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Key considerations
+  - [Key considerations](#key-considerations)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with SQL for application developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Application Development]] (2), [[Database Applications]] (2), ai (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)
 
@@ -168,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1)
 > **Analogies:** for example (2), such as (1)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
@@ -177,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Advanced Querying with Select
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing an ecommerce application database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980)
@@ -276,7 +277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), interface (1), function (1), type, (1)
+> **Frameworks & Libraries:** data (15), product (15), database (11), [[Microsoft Products|Products]] (6), application (4)
 > **Definitions:** is a  (4), is called (1), is an  (1)
 > **Code Identifiers:** pgadmin (3), mysql (1), ecommerce (1)
 > **CLI Commands:** make (3), mysql (1)
@@ -384,9 +385,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[PostgreSQL|Postgres]] (4), [[SQL]] (3), [[MySQL]] (2), [[Data Manipulation]] (1)
 > **Analogies:** such as (3), for example (3)
 > **Env Vars:** sql (4), csv (1)
-> **Code Keywords:** delete (2), this. (1), let (1)
 > **CLI Commands:** mysql (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
@@ -470,9 +471,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[PostgreSQL|Postgres]] (6), database (4), data (2), [[Programming]] (2)
 > **CLI Commands:** python (8), make (1)
 > **Tools:** jupyter (5), pycharm (1), visual studio (1), bash (1)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** is an  (2), is called (1)
 > **Env Vars:** ide (1), sql (1)
 > **Prerequisites:** install (2)
@@ -546,7 +547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), return, (1)
+> **Frameworks & Libraries:** database (5), next (2), data (2), [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (2)
 > **Ports:** port 5433 (3)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -621,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (6), type. (4), let (3), delete (1)
+> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (7), [[SQL]] (4), data (3), database (2)
 > **Env Vars:** sql (4), select (1), where (1)
 > **SQL:** select (1), where (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -785,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (5), type. (3), function (1), continue (1)
+> **Frameworks & Libraries:** product (20), [[SQL]] (7), [[Fetch]] (6), database (5), data (4)
 > **Env Vars:** sql (7)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** python (1)
@@ -795,7 +796,7 @@ created: 2026-04-29
 
 ### 2. Indexing Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of index types
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980)
@@ -846,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), function (1), for. (1)
+> **Frameworks & Libraries:** data (10), product (2), [[Databases]] (2), [[Fetch]] (2), application (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -897,10 +898,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), data (2), [[Search]] (1)
 > **CLI Commands:** node (8), make (2), find (2)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using hash indexes and equality operations
@@ -938,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** next (1), data (1), [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -980,7 +981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1)
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** idx (1)
 > **Analogies:** such as (1)
@@ -1029,9 +1030,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (2), [[Databases]] (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Avoiding index locks
@@ -1089,8 +1090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[PostgreSQL]] (3), application (2), database (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** delete (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1116,6 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), [[PostgreSQL|Postgres]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1142,8 +1144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1)
 > **Env Vars:** using (3), create (2), index (2)
-> **Code Keywords:** case, (2)
 > **SQL:** index (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1151,7 +1153,7 @@ created: 2026-04-29
 
 ### 3. Object-Relational Mapping (ORM)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of object-relational mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980)
@@ -1180,6 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Relational Databases]] (2), data (2)
 > **Analogies:** just like (1), for example (1)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [narrator] (1)
@@ -1237,12 +1240,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), application (5), database (4), data (4), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (8), orm (2), dbapi (1), isql (1)
 > **CLI Commands:** python (1), make (1), mysql (1)
 > **Definitions:** is called (2), is a  (1)
 > **Code Identifiers:** postgresql (1), mysql (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Documentation:** specification (1)
 > **Warnings:** keep in mind (1)
 
@@ -1289,11 +1292,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), hit (1), next (1)
 > **CLI Commands:** python (5), pip (4)
 > **Versions:** version 2 (2), 0.27 (2), python 3 (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** pip (4)
-> **Code Keywords:** let (2), return. (1)
 > **Tools:** terminal (1), command line (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1489,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), pass (2), type. (2), module (1)
+> **Frameworks & Libraries:** product (22), database (10), [[Microsoft Products|Products]] (9), data (4), [[PostgreSQL|Postgres]] (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (4)
 > **Analogies:** it's like (1), analogous to (1), for example (1)
@@ -1529,8 +1532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), data (3), database (3), application (1), [[Security]] (1)
 > **Env Vars:** orm (8), sql (7)
-> **Code Keywords:** case, (2), require (1), pass (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (1)
@@ -1584,14 +1587,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** supplier_id (1), primary_key (1), supplier_name (1), supplier_region (1), supplier_level (1)
-> **Code Keywords:** pass (1), finally, (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Designing for Scalability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980)
@@ -1746,9 +1748,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), application (2), business (2), product (2), [[Databases]] (2)
 > **Analogies:** for example (7)
 > **Definitions:** is called (2), is a  (1)
-> **Code Keywords:** delete (1), case, (1)
 > **Warnings:** watch out (1), keep in mind (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -1832,8 +1834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[IoT]] (3), database (3), [[PostgreSQL|Postgres]] (2), management (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
-> **Code Keywords:** let (1), case, (1)
 > **Code Identifiers:** iot_measurement (2)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (2)
@@ -1897,8 +1899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Forms]] (2), [[Electronics]] (2), business (2), [[PostgreSQL|Postgres]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [tutor] (1)
 
@@ -1973,7 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), type. (1)
+> **Frameworks & Libraries:** data (9), [[PostgreSQL]] (2), [[Forms]] (1), [[Relational Databases]] (1), [[MySQL]] (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Code Identifiers:** mysql (1), ecommerce (1)
 > **Env Vars:** url (2)
@@ -2000,7 +2002,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Warnings:** keep in mind (3)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2047,6 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), data (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2069,7 +2071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1)
+> **Frameworks & Libraries:** product (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (chill music) (1)
@@ -2097,7 +2099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1)
+> **Frameworks & Libraries:** product (4), data (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2105,7 +2107,7 @@ created: 2026-04-29
 
 ### 5. Designing for Reliability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Database errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980)
@@ -2156,7 +2158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (2), pass (1)
+> **Frameworks & Libraries:** database (9), data (5), [[Programming]] (4), application (1), [[Data Manipulation]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rdbms (1)
 > **Cross-References:** in the next (1)
@@ -2270,7 +2272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1), function (1), pass (1)
+> **Frameworks & Libraries:** database (6), application (2), [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (6), python (2)
 > **Definitions:** is called (1), short for (1), is an  (1), is a  (1)
 > **Analogies:** for example (2), such as (1)
@@ -2359,7 +2361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), try. (1)
+> **Frameworks & Libraries:** database (11), [[Databases]] (2), application (2), [[Database Applications]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2400,10 +2402,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), data (5), application (3), [[E-Commerce]] (2), [[Database Applications]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (2)
-> **Code Keywords:** case, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2476,9 +2478,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), hit (4), [[Security]] (3), [[Capacity Planning]] (2), [[Database Applications]] (1)
 > **CLI Commands:** make (9), find (1)
 > **Env Vars:** cpu (3), ssd (1)
-> **Code Keywords:** finally, (1), super (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2499,8 +2501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), database (2), web application (1), [[Programming]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** this: (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -2521,6 +2523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Python (Programming Language)|Python]] (1), database (1)
 > **CLI Commands:** python (1), find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2529,7 +2532,7 @@ created: 2026-04-29
 
 ### 6. Designing for Maintainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding schema changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980)
@@ -2600,9 +2603,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), data (11), application (3), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** require (1), finally, (1), this. (1)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2671,12 +2674,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (7), application (3), [[Version Control]] (2), hit (1)
 > **CLI Commands:** make (3), find (1)
 > **Warnings:** keep in mind (2), watch out (2)
 > **Analogies:** for example (3)
 > **Env Vars:** ddl (2)
 > **Tools:** github (1), bitbucket (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Automated schema migration with Flyway
@@ -2724,6 +2727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[SQL]] (2), data (2), [[Version Control]] (1), [[Databases]] (1)
 > **Definitions:** is called (3), is a  (3)
 > **Env Vars:** sql (2), api (1)
 > **Tools:** command line (1), github (1)
@@ -2731,7 +2735,6 @@ created: 2026-04-29
 > **URLs:** [flywaydb.org](https://flywaydb.org) (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
-> **Warnings:** watch out (1)
 
 #### Automated schema migration with Liquibase
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980)
@@ -2794,9 +2797,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[SQL]] (5), [[JSON]] (2), [[Java]] (2), [[Version Control]] (1)
 > **Env Vars:** sql (6), yaml (3), xml (2), json (2), ddl (1)
 > **CLI Commands:** mysql (1), make (1), apache (1)
-> **Code Keywords:** abstract (2)
 > **Definitions:** is called (1), is a  (1)
 > **URLs:** [liquibase.org](https://liquibase.org) (1)
 > **Versions:** version 2 (1)
@@ -2822,6 +2825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), database (2), product (1)
 > **Env Vars:** ddl (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -2843,6 +2847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), data (2)
 > **Definitions:** is an  (1), is called (1)
 > **Env Vars:** ddl (1)
 > **Speakers:** - [instructor] (1)
@@ -2851,7 +2856,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980)
@@ -2898,6 +2903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), data (4), database (4), [[Database Applications]] (2), [[Databases]] (2)
 > **CLI Commands:** make (5)
 > **Warnings:** keep in mind (3)
 > **Env Vars:** sql (1), orm (1)

@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Tampering%20in%20Depth.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Mitigate tampering threats
-  - Four-question framework
-  - Tampering as part of STRIDE
+  - [Mitigate tampering threats](#mitigate-tampering-threats)
+  - [Four-question framework](#four-question-framework)
+  - [Tampering as part of STRIDE](#tampering-as-part-of-stride)
 - [**1. Tampering with a Process**](#1-tampering-with-a-process) (3 videos)
-  - Debuggers and input
-  - Libraries
-  - Mobile
+  - [Debuggers and input](#debuggers-and-input)
+  - [Libraries](#libraries)
+  - [Mobile](#mobile)
 - [**2. Tampering with Storage**](#2-tampering-with-storage) (3 videos)
-  - Tampering with local storage
-  - Permissions
-  - Effects of tampering
+  - [Tampering with local storage](#tampering-with-local-storage)
+  - [Permissions](#permissions)
+  - [Effects of tampering](#effects-of-tampering)
 - [**3. Tampering with Things**](#3-tampering-with-things) (2 videos)
-  - Whose screw? Physical tampering matters
-  - Debug interfaces are exposed
+  - [Whose screw? Physical tampering matters](#whose-screw-physical-tampering-matters)
+  - [Debug interfaces are exposed](#debug-interfaces-are-exposed)
 - [**4. Tampering with Time Itself**](#4-tampering-with-time-itself) (1 videos)
-  - Time is increasingly important
+  - [Time is increasingly important](#time-is-increasingly-important)
 - [**5. Tampering with Cloud**](#5-tampering-with-cloud) (2 videos)
-  - Controls and authentication
-  - Becoming Jane Admin
+  - [Controls and authentication](#controls-and-authentication)
+  - [Becoming Jane Admin](#becoming-jane-admin)
 - [**6. Tampering with Data Flows**](#6-tampering-with-data-flows) (3 videos)
-  - Channels and messages
-  - Replay and reflection
-  - Headers: Injection and order
+  - [Channels and messages](#channels-and-messages)
+  - [Replay and reflection](#replay-and-reflection)
+  - [Headers: Injection and order](#headers-injection-and-order)
 - [**7. Integrity Defenses**](#7-integrity-defenses) (3 videos)
-  - Prevention and detection goals
-  - Crypto
-  - Something more privileged
+  - [Prevention and detection goals](#prevention-and-detection-goals)
+  - [Crypto](#crypto)
+  - [Something more privileged](#something-more-privileged)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Secure by design: Bring integrity to your systems
+  - [Secure by design: Bring integrity to your systems](#secure-by-design-bring-integrity-to-your-systems)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mitigate tampering threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980)
@@ -102,6 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), game (1), [[Security]] (1)
 > **Env Vars:** stride (1), cve (1)
 > **Speakers:** - [adam] (1)
 
@@ -130,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (2), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -178,16 +180,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), next (1), [[Google]] (1), [[Microsoft Office|Office]] (1), database (1)
 > **Definitions:** is a  (1), stands for (1), refers to (1)
 > **Env Vars:** stride (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Tampering with a Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debuggers and input
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debuggers-and-input?u=76281980)
@@ -224,6 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Env Vars:** uit (1)
 > **Speakers:** - [instructor] (1)
 
@@ -276,6 +279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[npm]] (2), [[Windows]] (1), [[Engineering]] (1)
 > **CLI Commands:** npm (2), apt (1), make (1)
 > **Env Vars:** http (1), htps (1)
 > **Definitions:** is an  (1)
@@ -318,14 +322,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), else. (1)
+> **Frameworks & Libraries:** [[Engineering]] (2), [[Android]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Tampering with Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tampering with local storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980)
@@ -360,7 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), lambda (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), data (1)
 > **Speakers:** - [narrator] (1)
 
 #### Permissions
@@ -414,7 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), override (1), pass (1)
+> **Frameworks & Libraries:** cloud (4), [[Databases]] (3), [[SQL]] (1), [[Microsoft Azure|Azure]] (1), power (1)
 > **Env Vars:** usb (1), bbc (1), sql (1)
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
@@ -440,14 +444,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1)
+> **Frameworks & Libraries:** data (5)
 > **Env Vars:** usb (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Tampering with Things
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Whose screw? Physical tampering matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980)
@@ -472,6 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** for example (1)
@@ -522,8 +527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), game (1), [[Engineering]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (2)
 > **Env Vars:** jtag (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -532,7 +537,7 @@ created: 2026-04-29
 
 ### 4. Tampering with Time Itself
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time is increasingly important
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980)
@@ -583,6 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), power (1), [[Virtual Machines]] (1)
 > **Env Vars:** gps (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -590,7 +596,7 @@ created: 2026-04-29
 
 ### 5. Tampering with Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Controls and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980)
@@ -629,6 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), [[Google]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
@@ -685,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Microsoft Office|Office]] (1), [[Threat Modeling]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -694,7 +701,7 @@ created: 2026-04-29
 
 ### 6. Tampering with Data Flows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Channels and messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/channels-and-messages?u=76281980)
@@ -761,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **Env Vars:** pgp (4), dkim (4), mime (3), tls (2), smtp (1)
-> **Code Keywords:** let (1), protected (1), this. (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -810,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Headers: Injection and order
@@ -852,7 +859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -860,7 +867,7 @@ created: 2026-04-29
 
 ### 7. Integrity Defenses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevention and detection goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980)
@@ -921,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), public (1), let (1), throw (1), this. (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2), [[Debugging]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -978,7 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2), [[LinkedIn]] (1), [[Algorithms]] (1), [[Windows]] (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -1021,13 +1028,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1)
+> **Frameworks & Libraries:** cloud (2), [[Cryptography]] (1), [[Hardware]] (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure by design: Bring integrity to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980)
@@ -1052,8 +1059,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (2), teams (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** try. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
 

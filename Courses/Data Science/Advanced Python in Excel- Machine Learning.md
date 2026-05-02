@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Python%20in%20Excel-%20Machine%20Learning.md)
@@ -54,40 +54,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction
-  - What you should know
+  - [Introduction](#introduction)
+  - [What you should know](#what-you-should-know)
 - [**1. Recap of Python, ML, and Data Cleaning**](#1-recap-of-python-ml-and-data-cleaning) (5 videos)
-  - Recap of Python
-  - Recap of machine learning
-  - Data cleaning and preparation
-  - Challenge: How would you solve this problem with ML?
-  - Solution: How would you solve this problem with ML?
+  - [Recap of Python](#recap-of-python)
+  - [Recap of machine learning](#recap-of-machine-learning)
+  - [Data cleaning and preparation](#data-cleaning-and-preparation)
+  - [Challenge: How would you solve this problem with ML?](#challenge-how-would-you-solve-this-problem-with-ml)
+  - [Solution: How would you solve this problem with ML?](#solution-how-would-you-solve-this-problem-with-ml)
 - [**2. Applied Machine Learning for Finance and Business**](#2-applied-machine-learning-for-finance-and-business) (5 videos)
-  - Introduction to machine learning concepts
-  - Building regression models in Excel
-  - Classification models for business data
-  - Challenge: Build a regression model
-  - Solution: Build a regression model
+  - [Introduction to machine learning concepts](#introduction-to-machine-learning-concepts)
+  - [Building regression models in Excel](#building-regression-models-in-excel)
+  - [Classification models for business data](#classification-models-for-business-data)
+  - [Challenge: Build a regression model](#challenge-build-a-regression-model)
+  - [Solution: Build a regression model](#solution-build-a-regression-model)
 - [**3. Practical Applications of Machine Learning in Business and Finance**](#3-practical-applications-of-machine-learning-in-business-and-finance) (5 videos)
-  - Predictive analytics for financial forecasting
-  - Automated decision-making processes
-  - Real-time data processing and analysis
-  - Challenge: Create a financial forecast
-  - Solution: Create a financial forecast
+  - [Predictive analytics for financial forecasting](#predictive-analytics-for-financial-forecasting)
+  - [Automated decision-making processes](#automated-decision-making-processes)
+  - [Real-time data processing and analysis](#real-time-data-processing-and-analysis)
+  - [Challenge: Create a financial forecast](#challenge-create-a-financial-forecast)
+  - [Solution: Create a financial forecast](#solution-create-a-financial-forecast)
 - [**4. Advanced Analytical Techniques with Python Libraries**](#4-advanced-analytical-techniques-with-python-libraries) (3 videos)
-  - Data manipulation with pandas
-  - Numerical analysis with NumPy
-  - Machine learning with scikit-learn
+  - [Data manipulation with pandas](#data-manipulation-with-pandas)
+  - [Numerical analysis with NumPy](#numerical-analysis-with-numpy)
+  - [Machine learning with scikit-learn](#machine-learning-with-scikit-learn)
 - [**5. Machine Learning Algorithms for Business and Finance**](#5-machine-learning-algorithms-for-business-and-finance) (3 videos)
-  - Linear regression for business insights
-  - Random forests for predictive modelling
-  - Clustering techniques for market segmentation
+  - [Linear regression for business insights](#linear-regression-for-business-insights)
+  - [Random forests for predictive modelling](#random-forests-for-predictive-modelling)
+  - [Clustering techniques for market segmentation](#clustering-techniques-for-market-segmentation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980)
@@ -106,8 +106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), career (1), [[Algorithms]] (1), data (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [christian] (1)
 
 #### What you should know
@@ -135,15 +135,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (4), [[Banking]] (1), management (1), [[Corporate Finance]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** finally, (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Recap of Python, ML, and Data Cleaning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap of Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980)
@@ -172,8 +172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (3), [[Programming]] (1), [[Pandas (Software)|Pandas]] (1), [[Financial Data]] (1)
 > **CLI Commands:** python (8), make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -214,9 +214,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Supervised Learning]] (2), [[Reinforcement Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Analogies:** such as (1), for example (1), it's like (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -253,6 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Financial Analysis]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -277,7 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - now (1)
 
@@ -316,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** next (5), data (2), [[Linear Regression]] (2), [[Supervised Learning]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -325,7 +326,7 @@ created: 2026-04-29
 
 ### 2. Applied Machine Learning for Finance and Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to machine learning concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980)
@@ -350,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Reinforcement Learning]] (1), [[Feature Engineering]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), include, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
@@ -392,8 +393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), [[Python (Programming Language)|Python]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** function (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -443,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), function (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), business (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -470,8 +471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -508,7 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), function (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** y_pred (1)
 > **Versions:** 1.6 (1)
@@ -519,7 +520,7 @@ created: 2026-04-29
 
 ### 3. Practical Applications of Machine Learning in Business and Finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive analytics for financial forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980)
@@ -578,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), new, (1), finally, (1)
+> **Frameworks & Libraries:** data (11), [[Predictive Analytics]] (3), [[Financial Forecasting]] (2), [[Forecasting]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** arima (1)
@@ -622,6 +623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), application (1), [[Algorithmic Trading]] (1), business (1), [[Scalability]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
@@ -658,6 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), application (1), management (1), [[Apache Kafka]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (1), apache (1), python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -682,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (bouncy upbeat music) (1)
 
@@ -713,14 +716,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), case, (1)
+> **Frameworks & Libraries:** [[Financial Forecasting]] (1), [[Pandas (Software)|Pandas]] (1), [[Linear Regression]] (1), next (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
 
 
 ### 4. Advanced Analytical Techniques with Python Libraries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data manipulation with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980)
@@ -749,7 +752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), case. (1), finally, (1), this, (1), function (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (4), [[Python (Programming Language)|Python]] (1), [[Data Manipulation]] (1), [[Financial Data]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -782,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[Financial Analysis]] (1), [[Microsoft Excel|Excel]] (1), [[Statistical Analysis]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -807,15 +810,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Data]] (1), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), data (1), [[Linear Regression]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** module (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Machine Learning Algorithms for Business and Finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear regression for business insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980)
@@ -840,6 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (6), business (4), data (2), [[Forecasting]] (1)
 > **Definitions:** is a  (3), known as (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -869,7 +873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2), [[Decision Trees]] (2), [[Predictive Modeling]] (1), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -901,6 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (3), [[Algorithms]] (1), [[k-means clustering]] (1), product (1)
 > **Env Vars:** dbscan (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -909,7 +914,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980)
@@ -936,6 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Neural Networks]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)

@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/What%20Is%20Business%20Analysis.md)
@@ -41,17 +41,17 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why business analysis
+  - [Why business analysis](#why-business-analysis)
 - [**1. What Is Business Analysis?**](#1-what-is-business-analysis) (5 videos)
-  - What is business analysis?
-  - Business analysis as a profession
-  - Business analysis as a set of competencies
-  - Business analysis as a research discipline
-  - The career path into business analysis
+  - [What is business analysis?](#what-is-business-analysis)
+  - [Business analysis as a profession](#business-analysis-as-a-profession)
+  - [Business analysis as a set of competencies](#business-analysis-as-a-set-of-competencies)
+  - [Business analysis as a research discipline](#business-analysis-as-a-research-discipline)
+  - [The career path into business analysis](#the-career-path-into-business-analysis)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980)
@@ -84,15 +84,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), management (1), teams (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
 
 ### 1. What Is Business Analysis?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980)
@@ -133,9 +133,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (27), [[Forms]] (1), [[Agile Development|Agile]] (1), next (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** require (1)
 > **Env Vars:** iiba (1)
 > **Speakers:** - according (1)
 
@@ -206,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1), interface (1), continue (1)
+> **Frameworks & Libraries:** business (20), data (5), power (3), [[Engineering]] (2), [[User Experience (UX)|User experience]] (2)
 > **Env Vars:** gui (1), iiba (1)
 > **Speakers:** - for (1)
 
@@ -273,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), management (1), [[Decision-Making]] (1), [[Organizational Culture]] (1)
 > **CLI Commands:** apt (1), find (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - competencies (1)
@@ -356,6 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), [[Decision-Making]] (2), game (1), management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -440,7 +441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (2)
+> **Frameworks & Libraries:** business (25), product (9), career (6), functional (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (3)
 > **URLs:** [iiba.org](https://iiba.org) (1), [pmi.org](https://pmi.org) (1)
 > **Definitions:** is a  (1), is an  (1)

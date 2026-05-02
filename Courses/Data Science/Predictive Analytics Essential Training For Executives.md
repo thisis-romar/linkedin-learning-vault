@@ -40,7 +40,7 @@ tags:
   - skill/analytics
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Analytics%20Essential%20Training%20For%20Executives.md)
@@ -59,47 +59,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Give yourself the executive analytics edge
-  - Our course goals
+  - [Give yourself the executive analytics edge](#give-yourself-the-executive-analytics-edge)
+  - [Our course goals](#our-course-goals)
 - [**1. Identifying the Optimal Type of Analytics for Your Challenge**](#1-identifying-the-optimal-type-of-analytics-for-your-challenge) (5 videos)
-  - Predictive analytics vs. forecasting
-  - AI compared to predictive analytics
-  - What is traditional or classic machine learning?
-  - Predictive analytics compared to statistics and data science
-  - Can Gen AI and LLMs be used in predictive models?
+  - [Predictive analytics vs. forecasting](#predictive-analytics-vs-forecasting)
+  - [AI compared to predictive analytics](#ai-compared-to-predictive-analytics)
+  - [What is traditional or classic machine learning?](#what-is-traditional-or-classic-machine-learning)
+  - [Predictive analytics compared to statistics and data science](#predictive-analytics-compared-to-statistics-and-data-science)
+  - [Can Gen AI and LLMs be used in predictive models?](#can-gen-ai-and-llms-be-used-in-predictive-models)
 - [**2. Getting Serious about Analytics**](#2-getting-serious-about-analytics) (5 videos)
-  - Analytics is about making decisions
-  - Propensity scores and business problems
-  - The unintended consequences of proof of concept projects
-  - Why deployment, not insight, is the primary goal
-  - Analytics as a profit center
+  - [Analytics is about making decisions](#analytics-is-about-making-decisions)
+  - [Propensity scores and business problems](#propensity-scores-and-business-problems)
+  - [The unintended consequences of proof of concept projects](#the-unintended-consequences-of-proof-of-concept-projects)
+  - [Why deployment, not insight, is the primary goal](#why-deployment-not-insight-is-the-primary-goal)
+  - [Analytics as a profit center](#analytics-as-a-profit-center)
 - [**3. Hiring and Staffing**](#3-hiring-and-staffing) (8 videos)
-  - Who should you hire first for your new data science team?
-  - Data scientist, data engineers, and MLOps
-  - Data science job requirements and the problems they can create
-  - Growing a team organically
-  - Data scientists with and without vertical industry experience
-  - The importance of SMEs to modeling
-  - Do you need the latest new techniques?
-  - How to spot potential
+  - [Who should you hire first for your new data science team?](#who-should-you-hire-first-for-your-new-data-science-team)
+  - [Data scientist, data engineers, and MLOps](#data-scientist-data-engineers-and-mlops)
+  - [Data science job requirements and the problems they can create](#data-science-job-requirements-and-the-problems-they-can-create)
+  - [Growing a team organically](#growing-a-team-organically)
+  - [Data scientists with and without vertical industry experience](#data-scientists-with-and-without-vertical-industry-experience)
+  - [The importance of SMEs to modeling](#the-importance-of-smes-to-modeling)
+  - [Do you need the latest new techniques?](#do-you-need-the-latest-new-techniques)
+  - [How to spot potential](#how-to-spot-potential)
 - [**4. Software and Technology**](#4-software-and-technology) (5 videos)
-  - Cloud and enterprise analytics
-  - Why data prep has to be customized for predictive models
-  - The analytics software ecosystem
-  - Citizens and self-service
-  - Responsible AI
+  - [Cloud and enterprise analytics](#cloud-and-enterprise-analytics)
+  - [Why data prep has to be customized for predictive models](#why-data-prep-has-to-be-customized-for-predictive-models)
+  - [The analytics software ecosystem](#the-analytics-software-ecosystem)
+  - [Citizens and self-service](#citizens-and-self-service)
+  - [Responsible AI](#responsible-ai)
 - [**5. Organizational Structure**](#5-organizational-structure) (5 videos)
-  - Analytics project management
-  - Career path of the data scientist
-  - Who should data science report to?
-  - The role of the CAO
-  - CAOs, CDOs, and CAIOs
+  - [Analytics project management](#analytics-project-management)
+  - [Career path of the data scientist](#career-path-of-the-data-scientist)
+  - [Who should data science report to?](#who-should-data-science-report-to)
+  - [The role of the CAO](#the-role-of-the-cao)
+  - [CAOs, CDOs, and CAIOs](#caos-cdos-and-caios)
 - [**6. Continuing Your Predictive Analytics Learning Journey**](#6-continuing-your-predictive-analytics-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Give yourself the executive analytics edge
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980)
@@ -126,7 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), [[Predictive Analytics]] (2), [[Analytics]] (2), ai (1), business (1)
 > **Speakers:** - do (1)
 
 #### Our course goals
@@ -166,12 +166,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), data (1), [[Analytics]] (1)
 > **Speakers:** - before (1)
 
 
 ### 1. Identifying the Optimal Type of Analytics for Your Challenge
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive analytics vs. forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (5), [[Forecasting]] (4), [[Analytics]] (1), next (1)
 > **Cross-References:** later in (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
@@ -308,7 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), if, (1)
+> **Frameworks & Libraries:** ai (8), [[Deep Learning]] (7), [[Neural Networks]] (6), [[Large Language Models (LLM)|Large language models]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - as (1)
 
@@ -343,6 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Deep Learning]] (2), [[Neural Networks]] (2), business (1), ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - until (1)
 
@@ -383,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this: (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Statistics]] (2), management (2), career (1), bi (1)
 > **Speakers:** - now (1)
 
 #### Can Gen AI and LLMs be used in predictive models?
@@ -429,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), business (2), [[Predictive Analytics]] (1), [[Search]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -437,7 +439,7 @@ created: 2026-04-29
 
 ### 2. Getting Serious about Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytics is about making decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-is-about-making-decisions?u=76281980)
@@ -510,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), require (1), this, (1)
+> **Frameworks & Libraries:** data (3), ai (2)
 > **Ports:** :00 (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
@@ -590,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** business (2), [[Predictive Analytics]] (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -686,10 +688,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), product (2), [[Predictive Analytics]] (1), [[Algorithms]] (1)
 > **Env Vars:** roi (4), poc (3)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** you should always (1), make sure to (1)
-> **Code Keywords:** this: (1)
 > **Tools:** notion (1)
 > **Speakers:** - i (1)
 
@@ -750,6 +752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** defined as (1)
 > **Speakers:** - i (1)
@@ -805,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** bi (4), [[Analytics]] (3), [[Predictive Analytics]] (3), business (2)
 > **Env Vars:** roi (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
@@ -813,7 +816,7 @@ created: 2026-04-29
 
 ### 3. Hiring and Staffing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who should you hire first for your new data science team?
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980)
@@ -870,7 +873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (9), [[Predictive Analytics]] (2), [[Analytics]] (1), management (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - almost (1)
@@ -900,8 +903,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Data Engineering]] (4), career (2), [[MLOps]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
@@ -980,8 +983,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2), rag (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** pass (1), else. (1), this. (1)
 > **Env Vars:** rag (1), spss (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hiring (1)
@@ -1021,8 +1024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), bi (1), business (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this: (1)
 > **Tools:** notion (1)
 > **Speakers:** - a (1)
 
@@ -1059,6 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), [[Python (Programming Language)|Python]] (1), [[Analytics]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - sometimes (1)
 
@@ -1103,6 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Predictive Modeling]] (2), [[Algorithms]] (2), management (1), [[Search]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - over (1)
@@ -1144,7 +1149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** business (7), ai (2), data (2), career (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - we (1)
@@ -1206,8 +1211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (1), game (1), [[Metadata]] (1)
 > **Analogies:** picture (6)
-> **Code Keywords:** else, (1), interface (1), switch (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - excellent (1)
@@ -1215,7 +1220,7 @@ created: 2026-04-29
 
 ### 4. Software and Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud and enterprise analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980)
@@ -1260,8 +1265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), cloud (5), [[Analytics]] (4), [[Predictive Analytics]] (2), career (2)
 > **Cross-References:** earlier in (2), we discussed (1), in the next (1), we mentioned (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - analytics (1)
 
@@ -1350,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (20), [[Feature Engineering]] (3), bi (2), [[Predictive Analytics]] (1), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
@@ -1438,8 +1443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (6), [[Analytics]] (5), cloud (3), [[Predictive Analytics]] (2)
 > **CLI Commands:** python (9), find (2), make (1)
-> **Code Keywords:** this. (1), finally, (1), interface (1)
 > **Env Vars:** sql (1), knime (1), h20 (1)
 > **URLs:** [h20.ai](https://h20.ai) (1)
 > **Definitions:** is a  (1)
@@ -1494,8 +1499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), bi (3), [[Analytics]] (2), business (1), [[MLOps]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** self (2)
 > **Speakers:** - gartner (1)
 
 #### Responsible AI
@@ -1529,14 +1534,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Responsible AI]] (3), [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - responsible (1)
 
 
 ### 5. Organizational Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytics project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980)
@@ -1619,7 +1624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), switch (1), this. (1)
+> **Frameworks & Libraries:** [[Analytics]] (15), management (5), [[Microsoft Office|Office]] (1), [[Predictive Analytics]] (1), data (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
@@ -1734,7 +1739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), case, (1), for. (1), while, (1)
+> **Frameworks & Libraries:** data (12), career (5), teams (3), management (3), next (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -1803,7 +1808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), raise (1)
+> **Frameworks & Libraries:** data (10), [[Analytics]] (9), business (6), management (2), bi (2)
 > **Env Vars:** crisp (1), cio (1)
 > **CLI Commands:** find (1)
 > **Warnings:** common mistake (1)
@@ -1846,8 +1851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (13), leadership (2), [[Executive Leadership]] (1), data (1), management (1)
 > **Env Vars:** cao (2), ceo (2)
-> **Code Keywords:** this, (1), else, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
@@ -1900,8 +1905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (6), [[Analytics]] (4), management (4), business (3)
 > **Env Vars:** cdo (2), shrm (2), caio (2), cao (1), cdao (1)
-> **Code Keywords:** implements (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - who (1)
@@ -1909,7 +1914,7 @@ created: 2026-04-29
 
 ### 6. Continuing Your Predictive Analytics Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980)
@@ -1936,7 +1941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[Analytics]] (2), [[Predictive Analytics]] (1), management (1), leadership (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 

@@ -16,54 +16,58 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-02T20:34:06.930Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[SQL Essential Training]]'
-    last_opened: null
+  - course: "[[SQL Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Unconscious Bias]]'
-    last_opened: null
+  - course: "[[Unconscious Bias]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Strategic Thinking]]'
-    last_opened: null
+  - course: "[[Strategic Thinking]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Cloud Computing Understanding Core Concepts]]'
-    last_opened: null
+  - course: "[[Cloud Computing Understanding Core Concepts]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Python Essential Training]]'
-    last_opened: null
+  - course: "[[Python Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Agile Software Development]]'
-    last_opened: null
+  - course: "[[Agile Software Development]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Communicating with Confidence]]'
-    last_opened: null
+  - course: "[[Communicating with Confidence]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Excel Essential Training (Microsoft 365)]]'
-    last_opened: null
+  - course: "[[Excel Essential Training (Microsoft 365)]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Cybersecurity Foundations]]'
-    last_opened: null
+  - course: "[[Cybersecurity Foundations]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Speaking Confidently and Effectively]]'
-    last_opened: null
+  - course: "[[Speaking Confidently and Effectively]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-04-29'
+  - course: agile-software-development
+    last_opened: 2026-05-02T20:34:06.930Z
+    open_count: 1
+    videos: []
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/The%20Top%2010%20Most%20Popular%20Courses%20among%20IT%20Professionals.md)

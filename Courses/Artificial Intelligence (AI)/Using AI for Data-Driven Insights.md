@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20for%20Data-Driven%20Insights.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Overview of AI for data-driven insights
-  - How to access ChatGPT
-  - Case study setup
-  - Dataset exploration
+  - [Overview of AI for data-driven insights](#overview-of-ai-for-data-driven-insights)
+  - [How to access ChatGPT](#how-to-access-chatgpt)
+  - [Case study setup](#case-study-setup)
+  - [Dataset exploration](#dataset-exploration)
 - [**1. AI for Data-Driven Insights**](#1-ai-for-data-driven-insights) (10 videos)
-  - Identify key business questions with ChatGPT for data-driven decisions
-  - Cleaning and preprocessing data with ChatGPT for analysis
-  - Uncovering trends through exploratory data analysis with ChatGPT
-  - Customer segmentation with ChatGPT for targeted marketing
-  - Forecasting future sales with ChatGPT for accurate predictions
-  - Optimizing inventory management through predictive analytics with ChatGPT
-  - Optimizing pricing strategies with ChatGPT for maximum profitability
-  - Making strategic decisions with ChatGPT using a decision tree
-  - Risk assessment and mitigation with ChatGPT in business
-  - Creating AI-powered reports and presentations with ChatGPT
+  - [Identify key business questions with ChatGPT for data-driven decisions](#identify-key-business-questions-with-chatgpt-for-data-driven-decisions)
+  - [Cleaning and preprocessing data with ChatGPT for analysis](#cleaning-and-preprocessing-data-with-chatgpt-for-analysis)
+  - [Uncovering trends through exploratory data analysis with ChatGPT](#uncovering-trends-through-exploratory-data-analysis-with-chatgpt)
+  - [Customer segmentation with ChatGPT for targeted marketing](#customer-segmentation-with-chatgpt-for-targeted-marketing)
+  - [Forecasting future sales with ChatGPT for accurate predictions](#forecasting-future-sales-with-chatgpt-for-accurate-predictions)
+  - [Optimizing inventory management through predictive analytics with ChatGPT](#optimizing-inventory-management-through-predictive-analytics-with-chatgpt)
+  - [Optimizing pricing strategies with ChatGPT for maximum profitability](#optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability)
+  - [Making strategic decisions with ChatGPT using a decision tree](#making-strategic-decisions-with-chatgpt-using-a-decision-tree)
+  - [Risk assessment and mitigation with ChatGPT in business](#risk-assessment-and-mitigation-with-chatgpt-in-business)
+  - [Creating AI-powered reports and presentations with ChatGPT](#creating-ai-powered-reports-and-presentations-with-chatgpt)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in leveraging AI for data-driven business growth
+  - [Next steps in leveraging AI for data-driven business growth](#next-steps-in-leveraging-ai-for-data-driven-business-growth)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI for data-driven insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980)
@@ -94,8 +94,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (3), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - making (1)
 
 #### How to access ChatGPT
@@ -161,7 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), new. (1), super (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), data (2), business (1), ai (1), [[Decision-Making]] (1)
 > **Prerequisites:** set up (5), getting started (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
@@ -210,8 +210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[ChatGPT]] (4), business (3), [[Microsoft Products|Products]] (2), leadership (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), let (1)
 > **Analogies:** imagine (1), such as (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** set up (1)
@@ -280,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1), this, (1)
+> **Frameworks & Libraries:** data (7), [[ChatGPT]] (7), product (6), next (3), [[Microsoft Products|Products]] (3)
 > **Analogies:** for example (1), such as (1), picture (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Speakers:** - [instructor] (1)
@@ -288,7 +288,7 @@ created: 2026-04-29
 
 ### 1. AI for Data-Driven Insights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify key business questions with ChatGPT for data-driven decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980)
@@ -381,7 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (2), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (16), [[Microsoft Products|Products]] (6), business (5), data (4), prompt (2)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** next video (1)
@@ -455,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), data (9), next (2), product (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -549,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type: (4), case, (2), finally, (1)
+> **Frameworks & Libraries:** product (9), [[ChatGPT]] (8), [[Microsoft Products|Products]] (6), data (5), business (2)
 > **Env Vars:** eda (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -619,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), data (3), product (3), next (2), [[Microsoft Products|Products]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -715,7 +715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (2), type, (1), finally, (1)
+> **Frameworks & Libraries:** next (8), [[ChatGPT]] (7), [[Forecasting]] (4), data (4), [[Microsoft Products|Products]] (2)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -817,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), next (5), [[Microsoft Products|Products]] (4), management (2), product (2)
 > **Best Practices:** recommended (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -912,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), data (4), product (4), prompt (3), next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1027,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), data (4), business (3), [[Decision Trees]] (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1135,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** management (7), [[ChatGPT]] (6), prompt (4), data (4), next (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
@@ -1204,7 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (5), [[ChatGPT]] (4), prompt (3), [[Microsoft PowerPoint|Powerpoint]] (3), ai (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -1214,7 +1214,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in leveraging AI for data-driven business growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980)
@@ -1233,8 +1233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (2), [[ChatGPT]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - congratulations (1)
 
 

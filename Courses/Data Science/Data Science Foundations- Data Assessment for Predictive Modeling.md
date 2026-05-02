@@ -42,7 +42,7 @@ tags:
   - skill/data-science-foundations
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Data%20Assessment%20for%20Predictive%20Modeling.md)
@@ -61,87 +61,87 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why data assessment is critical
-  - A note about the exercise files
+  - [Why data assessment is critical](#why-data-assessment-is-critical)
+  - [A note about the exercise files](#a-note-about-the-exercise-files)
 - [**1. What Is Data Assessment?**](#1-what-is-data-assessment) (5 videos)
-  - Clarifying how data understanding differs from data visualization
-  - Introducing the critical data understanding phase of CRISP-DM
-  - Data assessment in CRISP-DM alternatives: The IBM ASUM-DM and Microsoft TDSP
-  - Navigating the transition from business understanding to data understanding
-  - How to organize your work with the four data understanding tasks
+  - [Clarifying how data understanding differs from data visualization](#clarifying-how-data-understanding-differs-from-data-visualization)
+  - [Introducing the critical data understanding phase of CRISP-DM](#introducing-the-critical-data-understanding-phase-of-crisp-dm)
+  - [Data assessment in CRISP-DM alternatives: The IBM ASUM-DM and Microsoft TDSP](#data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp)
+  - [Navigating the transition from business understanding to data understanding](#navigating-the-transition-from-business-understanding-to-data-understanding)
+  - [How to organize your work with the four data understanding tasks](#how-to-organize-your-work-with-the-four-data-understanding-tasks)
 - [**2. Collect Initial Data**](#2-collect-initial-data) (5 videos)
-  - Considerations in gathering the relevant data
-  - A strategy for processing data sources
-  - Getting creative about data sources
-  - How to envision a proper flat file
-  - Anticipating data integration
+  - [Considerations in gathering the relevant data](#considerations-in-gathering-the-relevant-data)
+  - [A strategy for processing data sources](#a-strategy-for-processing-data-sources)
+  - [Getting creative about data sources](#getting-creative-about-data-sources)
+  - [How to envision a proper flat file](#how-to-envision-a-proper-flat-file)
+  - [Anticipating data integration](#anticipating-data-integration)
 - [**3. First Look at the Data**](#3-first-look-at-the-data) (9 videos)
-  - Reviewing basic concepts in the level of measurement
-  - What is dummy coding?
-  - Expanding our definition of level of measurement
-  - Taking an initial look at possible key variables
-  - Dealing with duplicate IDs and transactional data
-  - How many potential variables (columns) will I have?
-  - How to deal with high-order multiple nominals
-  - Challenge: Identifying the level of measurement
-  - Solution: Identifying the level of measurement
+  - [Reviewing basic concepts in the level of measurement](#reviewing-basic-concepts-in-the-level-of-measurement)
+  - [What is dummy coding?](#what-is-dummy-coding)
+  - [Expanding our definition of level of measurement](#expanding-our-definition-of-level-of-measurement)
+  - [Taking an initial look at possible key variables](#taking-an-initial-look-at-possible-key-variables)
+  - [Dealing with duplicate IDs and transactional data](#dealing-with-duplicate-ids-and-transactional-data)
+  - [How many potential variables (columns) will I have?](#how-many-potential-variables-columns-will-i-have)
+  - [How to deal with high-order multiple nominals](#how-to-deal-with-high-order-multiple-nominals)
+  - [Challenge: Identifying the level of measurement](#challenge-identifying-the-level-of-measurement)
+  - [Solution: Identifying the level of measurement](#solution-identifying-the-level-of-measurement)
 - [**4. Data Loading and Unit of Analysis**](#4-data-loading-and-unit-of-analysis) (5 videos)
-  - Introducing the KNIME Analytics Platform
-  - Tips and tricks to consider during data loading
-  - Unit analysis decisions
-  - Challenge: What should the row be?
-  - Solution: What should the row be?
+  - [Introducing the KNIME Analytics Platform](#introducing-the-knime-analytics-platform)
+  - [Tips and tricks to consider during data loading](#tips-and-tricks-to-consider-during-data-loading)
+  - [Unit analysis decisions](#unit-analysis-decisions)
+  - [Challenge: What should the row be?](#challenge-what-should-the-row-be)
+  - [Solution: What should the row be?](#solution-what-should-the-row-be)
 - [**5. Describe Data**](#5-describe-data) (4 videos)
-  - How to uncover the gross properties of the data
-  - Researching the dataset
-  - Tips and tricks using simple aggregation commands
-  - A simple strategy for organizing your work
+  - [How to uncover the gross properties of the data](#how-to-uncover-the-gross-properties-of-the-data)
+  - [Researching the dataset](#researching-the-dataset)
+  - [Tips and tricks using simple aggregation commands](#tips-and-tricks-using-simple-aggregation-commands)
+  - [A simple strategy for organizing your work](#a-simple-strategy-for-organizing-your-work)
 - [**6. Data Description Case Studies**](#6-data-description-case-studies) (3 videos)
-  - Describe data demo using the UCI heart dataset
-  - Challenge: Practice describe data with the UCI heart dataset
-  - Solution: Practice describe data with the UCI heart dataset
+  - [Describe data demo using the UCI heart dataset](#describe-data-demo-using-the-uci-heart-dataset)
+  - [Challenge: Practice describe data with the UCI heart dataset](#challenge-practice-describe-data-with-the-uci-heart-dataset)
+  - [Solution: Practice describe data with the UCI heart dataset](#solution-practice-describe-data-with-the-uci-heart-dataset)
 - [**7. Explore Data Basics**](#7-explore-data-basics) (8 videos)
-  - The explore data task
-  - How to be effective doing univariate analysis and data visualization
-  - Anscombe's quartet
-  - The Data Explorer node feature in KNIME
-  - How to navigate borderline cases of variable type
-  - How to be effective in doing bivariate data visualization
-  - Challenge: Producing bivariate visualizations for case study 1
-  - Solution: Producing bivariate visualizations for case study 1
+  - [The explore data task](#the-explore-data-task)
+  - [How to be effective doing univariate analysis and data visualization](#how-to-be-effective-doing-univariate-analysis-and-data-visualization)
+  - [Anscombe's quartet](#anscombes-quartet)
+  - [The Data Explorer node feature in KNIME](#the-data-explorer-node-feature-in-knime)
+  - [How to navigate borderline cases of variable type](#how-to-navigate-borderline-cases-of-variable-type)
+  - [How to be effective in doing bivariate data visualization](#how-to-be-effective-in-doing-bivariate-data-visualization)
+  - [Challenge: Producing bivariate visualizations for case study 1](#challenge-producing-bivariate-visualizations-for-case-study-1)
+  - [Solution: Producing bivariate visualizations for case study 1](#solution-producing-bivariate-visualizations-for-case-study-1)
 - [**8. Explore Data Tips and Tricks**](#8-explore-data-tips-and-tricks) (9 videos)
-  - How to utilize an SME's time effectively
-  - Techniques for working with the top predictors
-  - Advice for weak predictors
-  - Tips and tricks when searching for quirks in your data
-  - Learning when to discard rows
-  - Introducing ggplot2
-  - Orientating to R's ggplot2 for powerful multivariate data visualizations
-  - Challenge: Producing multivariate visualizations for case study 1
-  - Solution: Producing multivariate visualizations for case study 1
+  - [How to utilize an SME's time effectively](#how-to-utilize-an-smes-time-effectively)
+  - [Techniques for working with the top predictors](#techniques-for-working-with-the-top-predictors)
+  - [Advice for weak predictors](#advice-for-weak-predictors)
+  - [Tips and tricks when searching for quirks in your data](#tips-and-tricks-when-searching-for-quirks-in-your-data)
+  - [Learning when to discard rows](#learning-when-to-discard-rows)
+  - [Introducing ggplot2](#introducing-ggplot2)
+  - [Orientating to R's ggplot2 for powerful multivariate data visualizations](#orientating-to-rs-ggplot2-for-powerful-multivariate-data-visualizations)
+  - [Challenge: Producing multivariate visualizations for case study 1](#challenge-producing-multivariate-visualizations-for-case-study-1)
+  - [Solution: Producing multivariate visualizations for case study 1](#solution-producing-multivariate-visualizations-for-case-study-1)
 - [**9. Verify Data Quality**](#9-verify-data-quality) (3 videos)
-  - Exploring your missing data options
-  - Why you lose rows to listwise deletion
-  - Investigating the provenance of the missing data
+  - [Exploring your missing data options](#exploring-your-missing-data-options)
+  - [Why you lose rows to listwise deletion](#why-you-lose-rows-to-listwise-deletion)
+  - [Investigating the provenance of the missing data](#investigating-the-provenance-of-the-missing-data)
 - [**10. Missing Data Case Study**](#10-missing-data-case-study) (4 videos)
-  - Introducing the KDD Cup 1998 data
-  - What is the pattern of missing data in your data?
-  - Is the missing data worth saving?
-  - Assessing imputation as a potential solution
+  - [Introducing the KDD Cup 1998 data](#introducing-the-kdd-cup-1998-data)
+  - [What is the pattern of missing data in your data?](#what-is-the-pattern-of-missing-data-in-your-data)
+  - [Is the missing data worth saving?](#is-the-missing-data-worth-saving)
+  - [Assessing imputation as a potential solution](#assessing-imputation-as-a-potential-solution)
 - [**11. Explore and Verify Case Studies**](#11-explore-and-verify-case-studies) (3 videos)
-  - Exploring and verifying data quality with the UCI heart dataset
-  - Challenge: Quantifying missing data with the UCI heart dataset
-  - Solution: Quantifying missing data with the UCI heart dataset
+  - [Exploring and verifying data quality with the UCI heart dataset](#exploring-and-verifying-data-quality-with-the-uci-heart-dataset)
+  - [Challenge: Quantifying missing data with the UCI heart dataset](#challenge-quantifying-missing-data-with-the-uci-heart-dataset)
+  - [Solution: Quantifying missing data with the UCI heart dataset](#solution-quantifying-missing-data-with-the-uci-heart-dataset)
 - [**12. Making the Transition to Data Preparation**](#12-making-the-transition-to-data-preparation) (3 videos)
-  - Why formal reports are important
-  - Creating a data prep to-do list
-  - How to prepare for eventual deployment
+  - [Why formal reports are important](#why-formal-reports-are-important)
+  - [Creating a data prep to-do list](#creating-a-data-prep-to-do-list)
+  - [How to prepare for eventual deployment](#how-to-prepare-for-eventual-deployment)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why data assessment is critical
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-data-assessment-is-critical?u=76281980)
@@ -172,7 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -214,8 +214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -225,7 +225,7 @@ created: 2026-04-29
 
 ### 1. What Is Data Assessment?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Clarifying how data understanding differs from data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980)
@@ -282,7 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), finally, (1)
+> **Frameworks & Libraries:** data (14), [[Predictive Modeling]] (1)
 > **Definitions:** is called (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -360,8 +360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[CRISP-DM]] (6), [[Algorithms]] (3), [[Privacy]] (2), [[Zoom]] (1)
 > **Env Vars:** crisp (6)
-> **Code Keywords:** this, (1), this. (1), let (1), from. (1)
 > **Warnings:** note that (2), be careful (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -450,8 +450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[CRISP-DM]] (9), business (2), [[Microsoft]] (2), [[Analytics]] (1)
 > **Env Vars:** crisp (9), ibm (5), asum (3), pdf (1)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** download the (1)
@@ -532,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), continue (1)
+> **Frameworks & Libraries:** data (19), business (9), [[Metadata]] (1), career (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -606,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (19), [[Business Intelligence (BI)|Business intelligence]] (1), bi (1), next (1)
 > **Best Practices:** don't forget (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -616,7 +616,7 @@ created: 2026-04-29
 
 ### 2. Collect Initial Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Considerations in gathering the relevant data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980)
@@ -685,8 +685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (7), [[Search]] (1)
 > **Env Vars:** roi (1), sme (1), vip (1)
-> **Code Keywords:** try, (1), this, (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
@@ -777,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), try, (1)
+> **Frameworks & Libraries:** data (16), business (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
@@ -860,10 +860,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (2), [[Forms]] (2), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** picture (1), imagine (1)
-> **Code Keywords:** this, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -896,6 +896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Data Acquisition]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Anticipating data integration
@@ -919,13 +920,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (5)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. First Look at the Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing basic concepts in the level of measurement
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980)
@@ -982,6 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1038,10 +1040,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Analytics]] (1), [[Programming]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for instance (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1135,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), this. (2), case, (1), let (1)
+> **Frameworks & Libraries:** data (7), [[Statistics]] (1), [[Banking]] (1), [[Algorithms]] (1), product (1)
 > **Analogies:** for instance (6)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -1203,8 +1205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Analogies:** for instance (3)
-> **Code Keywords:** let (1), else, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1299,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1), for instance (1)
 > **Cross-References:** go back to (1)
@@ -1431,7 +1433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), this, (1), pass (1), else, (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (1), data (1), database (1)
 > **Env Vars:** zip (2)
 > **CLI Commands:** make (1)
 > **URLs:** [fakedata.com](https://fakedata.com) (1)
@@ -1480,7 +1482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (3), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Identifying the level of measurement
@@ -1526,6 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
@@ -1630,7 +1633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class. (1), for. (1), else. (1)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
@@ -1641,7 +1644,7 @@ created: 2026-04-29
 
 ### 4. Data Loading and Unit of Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the KNIME Analytics Platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980)
@@ -1744,10 +1747,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (16), [[Analytics]] (2), node (2), [[Predictive Analytics]] (1), open-source (1)
 > **Env Vars:** knime (16), examples (3)
 > **UI Navigation:** go to (6), double-click (2), click on (2)
 > **CLI Commands:** find (2), node (2), make (1)
-> **Code Keywords:** let (4)
 > **Prerequisites:** set up (1), install (1)
 
 #### Tips and tricks to consider during data loading
@@ -1889,8 +1892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), data (9), [[Knime]] (6), feature (1), business (1)
 > **Env Vars:** knime (6), csv (4), uci (3)
-> **Code Keywords:** let (6), for. (1), this. (1), while, (1), override (1)
 > **CLI Commands:** make (3), node (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1988,7 +1991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
@@ -2062,7 +2065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2)
+> **Frameworks & Libraries:** data (2), next (1), [[Predictive Modeling]] (1), business (1), feature (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -2224,7 +2227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** scroll down (1)
@@ -2236,7 +2239,7 @@ created: 2026-04-29
 
 ### 5. Describe Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to uncover the gross properties of the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980)
@@ -2307,7 +2310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), finally, (1), require (1)
+> **Frameworks & Libraries:** data (14), [[CRISP-DM]] (2), [[Statistics]] (1), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** crisp (2)
 > **Best Practices:** it's best to (1)
@@ -2416,7 +2419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (14), web (3), [[Metadata]] (2), database (2), hit (1)
 > **Tools:** notion (5)
 > **Env Vars:** uci (1), pdf (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -2524,8 +2527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (4), node (4), data (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** node (4), find (3), make (1)
-> **Code Keywords:** let (4), this. (1), include. (1), delete (1)
 > **Env Vars:** knime (4)
 > **UI Navigation:** click on (1)
 > **Analogies:** for instance (1)
@@ -2615,7 +2618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (2), from, (1), let (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** sme (3), uci (1)
 > **Analogies:** for instance (3), similar to (1)
 > **CLI Commands:** make (1), find (1)
@@ -2626,7 +2629,7 @@ created: 2026-04-29
 
 ### 6. Data Description Case Studies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe data demo using the UCI heart dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980)
@@ -2843,7 +2846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1)
+> **Frameworks & Libraries:** data (27), [[Security]] (2), [[Microsoft Excel|Excel]] (2), application (1), feature (1)
 > **Env Vars:** uci (3), ccf (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Definitions:** is a  (4)
@@ -2881,7 +2884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** uci (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
@@ -2979,7 +2982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1)
+> **Frameworks & Libraries:** data (7), [[Security]] (1), business (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 > **Warnings:** caution (1)
@@ -2989,7 +2992,7 @@ created: 2026-04-29
 
 ### 7. Explore Data Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The explore data task
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-explore-data-task?u=76281980)
@@ -3016,6 +3019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** sme (1)
 > **Prerequisites:** you'll need (1)
@@ -3088,7 +3092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** data (5), [[Automation]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
@@ -3269,7 +3273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), continue (1), this. (1)
+> **Frameworks & Libraries:** data (6), [[Statistics]] (6), [[Microsoft Excel|Excel]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 7.5 (1)
 > **UI Navigation:** scroll down (1)
@@ -3377,8 +3381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Knime]] (6), [[Statistics]] (2), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), make (1), python (1), node (1)
-> **Code Keywords:** let (3), this, (2), switch (1)
 > **Env Vars:** knime (6)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Analogies:** for instance (2)
@@ -3515,7 +3519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), try. (1)
+> **Frameworks & Libraries:** [[Knime]] (2), data (1), [[Algorithms]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -3716,7 +3720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), continue (1), this. (1)
+> **Frameworks & Libraries:** data (6), [[Knime]] (2), node (1), [[Probability]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), node (1), find (1)
 > **Versions:** 0.0 (1), 0.05 (1)
 > **Speakers:** - [instructor] (1)
@@ -3764,8 +3768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (3), next (2), data (1)
 > **Env Vars:** knime (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -3904,7 +3908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), in other words (1)
@@ -3916,7 +3920,7 @@ created: 2026-04-29
 
 ### 8. Explore Data Tips and Tricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to utilize an SME's time effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-utilize-an-sme-s-time-effectively?u=76281980)
@@ -3967,8 +3971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4033,7 +4037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (3), [[Knime]] (2), [[Decision Trees]] (1), next (1), business (1)
 > **Versions:** 24.1 (1), 30.6 (1), 10.9 (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** knime (2)
@@ -4183,7 +4187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), continue (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Algorithms]] (1), [[Search]] (1), game (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** gains_yes (2), guess_yes (1)
 > **Analogies:** for instance (2), imagine (1)
@@ -4271,7 +4275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case. (1), raise (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), [[Forms]] (1), [[Metadata]] (1), game (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -4327,6 +4331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), management (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - there (1)
@@ -4364,6 +4369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (2), next (1)
 > **CLI Commands:** make (3), find (3)
 > **Prerequisites:** install (2)
 > **Cross-References:** in the next (1)
@@ -4507,7 +4513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), self (5), this. (1), private (1)
+> **Frameworks & Libraries:** data (5), [[RStudio]] (2), power (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), in other words (1)
 > **Warnings:** caution (1), be careful (1)
@@ -4540,7 +4546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
@@ -4616,7 +4622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), class. (1)
+> **Frameworks & Libraries:** data (7)
 > **Warnings:** warning (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4625,7 +4631,7 @@ created: 2026-04-29
 
 ### 9. Verify Data Quality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring your missing data options
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980)
@@ -4708,9 +4714,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Supervised Learning]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1), just like (1)
-> **Code Keywords:** this, (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4767,7 +4773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (7)
 > **Cross-References:** go back to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -4841,7 +4847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), throw (1), let (1), type. (1)
+> **Frameworks & Libraries:** data (10), business (2), [[Algorithms]] (1)
 > **Env Vars:** sim (2)
 > **Analogies:** just like (1)
 > **Warnings:** common mistake (1)
@@ -4850,7 +4856,7 @@ created: 2026-04-29
 
 ### 10. Missing Data Case Study
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the KDD Cup 1998 data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980)
@@ -4957,9 +4963,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Microsoft Excel|Excel]] (4), [[Databases]] (1), [[Forms]] (1)
 > **UI Navigation:** scroll down (4), go to (2)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (2), this, (1), for. (1), this. (1)
 > **Env Vars:** kdd (2), uci (1), csv (1), spss (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** good practice (3)
@@ -5065,8 +5071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Knime]] (1), next (1)
 > **Env Vars:** knime (1), mbcraft (1), mbgarden (1), mbbook (1), rdate_3 (1)
-> **Code Keywords:** let (3), this. (1), this, (1), case. (1), new, (1)
 > **CLI Commands:** make (3), find (3)
 > **Cross-References:** coming up (2), go back to (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -5191,7 +5197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), pub (1), this. (1)
+> **Frameworks & Libraries:** data (11), [[Knime]] (2), [[Algorithms]] (1)
 > **Env Vars:** knime (2), mbcraft (2), mbcolect (1)
 > **Versions:** 5.2 (2), 8.2 (2), 5.1 (1)
 > **Definitions:** is a  (1), means that (1)
@@ -5409,7 +5415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (6), this, (2), from. (1), public (1)
+> **Frameworks & Libraries:** data (11), [[Knime]] (2), node (2), [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** node (2), make (1)
 > **Versions:** 9.3 (1), 17.1 (1), 10.6 (1)
 > **Definitions:** in other words (1), is a  (1), means that (1)
@@ -5421,7 +5427,7 @@ created: 2026-04-29
 
 ### 11. Explore and Verify Case Studies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring and verifying data quality with the UCI heart dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980)
@@ -5488,7 +5494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (12), next (3), [[Knime]] (3), [[Microsoft Excel|Excel]] (2), bi (1)
 > **Env Vars:** knime (3), cff (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -5520,8 +5526,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** try. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
@@ -5622,7 +5628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), try, (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (1), business (1)
 > **Env Vars:** countif (6), uci_ (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -5634,7 +5640,7 @@ created: 2026-04-29
 
 ### 12. Making the Transition to Data Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why formal reports are important
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980)
@@ -5729,7 +5735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (13), [[CRISP-DM]] (3), career (1), [[Data Transformation]] (1)
 > **Env Vars:** crisp (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
@@ -5800,7 +5806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), this. (1)
+> **Frameworks & Libraries:** data (34), [[Feature Engineering]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -5836,7 +5842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (9), [[CRISP-DM]] (1)
 > **Env Vars:** crisp (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -5844,7 +5850,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980)
@@ -5885,7 +5891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1)
+> **Frameworks & Libraries:** next (1), data (1), feature (1), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [keith (1)
 
 

@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Swift%205%20Essential%20Training.md)
@@ -49,84 +49,84 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Begin an adventure with Swift 5
-  - Quest accepted: What you should know
+  - [Begin an adventure with Swift 5](#begin-an-adventure-with-swift-5)
+  - [Quest accepted: What you should know](#quest-accepted-what-you-should-know)
 - [**1. Getting Started**](#1-getting-started) (3 videos)
-  - Swift retrospective
-  - Getting Xcode
-  - Reviewing the exercise files
+  - [Swift retrospective](#swift-retrospective)
+  - [Getting Xcode](#getting-xcode)
+  - [Reviewing the exercise files](#reviewing-the-exercise-files)
 - [**2. Getting to Know Your Data**](#2-getting-to-know-your-data) (13 videos)
-  - The quest begins: Variables
-  - Variables and constants
-  - Type safety and inference
-  - Logging and commenting
-  - Swift operators
-  - Understanding strings
-  - Working with strings
-  - Type conversions
-  - Booleans and logical operators
-  - Introducing optionals
-  - Accessing documentation
-  - Challenge: Player stats
-  - Solution: Player stats
+  - [The quest begins: Variables](#the-quest-begins-variables)
+  - [Variables and constants](#variables-and-constants)
+  - [Type safety and inference](#type-safety-and-inference)
+  - [Logging and commenting](#logging-and-commenting)
+  - [Swift operators](#swift-operators)
+  - [Understanding strings](#understanding-strings)
+  - [Working with strings](#working-with-strings)
+  - [Type conversions](#type-conversions)
+  - [Booleans and logical operators](#booleans-and-logical-operators)
+  - [Introducing optionals](#introducing-optionals)
+  - [Accessing documentation](#accessing-documentation)
+  - [Challenge: Player stats](#challenge-player-stats)
+  - [Solution: Player stats](#solution-player-stats)
 - [**3. Working with Collections**](#3-working-with-collections) (10 videos)
-  - Gathering inventory with collections
-  - Swift arrays
-  - Core array methods
-  - Swift dictionaries
-  - Core dictionary methods
-  - Working with sets
-  - Core set methods
-  - Swift tuples
-  - Challenge: Merchant shop
-  - Solution: Merchant shop
+  - [Gathering inventory with collections](#gathering-inventory-with-collections)
+  - [Swift arrays](#swift-arrays)
+  - [Core array methods](#core-array-methods)
+  - [Swift dictionaries](#swift-dictionaries)
+  - [Core dictionary methods](#core-dictionary-methods)
+  - [Working with sets](#working-with-sets)
+  - [Core set methods](#core-set-methods)
+  - [Swift tuples](#swift-tuples)
+  - [Challenge: Merchant shop](#challenge-merchant-shop)
+  - [Solution: Merchant shop](#solution-merchant-shop)
 - [**4. Application Control Flow**](#4-application-control-flow) (9 videos)
-  - Controlling your destiny
-  - The if statement
-  - Unwrapping optionals
-  - Using for-in loops
-  - While loops
-  - The switch statement
-  - The guard statement
-  - Challenge: Game logic
-  - Solution: Game logic
+  - [Controlling your destiny](#controlling-your-destiny)
+  - [The if statement](#the-if-statement)
+  - [Unwrapping optionals](#unwrapping-optionals)
+  - [Using for-in loops](#using-for-in-loops)
+  - [While loops](#while-loops)
+  - [The switch statement](#the-switch-statement)
+  - [The guard statement](#the-guard-statement)
+  - [Challenge: Game logic](#challenge-game-logic)
+  - [Solution: Game logic](#solution-game-logic)
 - [**5. The Wide World of Functions**](#5-the-wide-world-of-functions) (10 videos)
-  - Leveling the playing field
-  - Basic functions
-  - Overloading functions
-  - Complex functions
-  - Function types
-  - Understanding closures
-  - Using closures
-  - Type aliasing
-  - Challenge: Battlegrounds
-  - Solution: Battlegrounds
+  - [Leveling the playing field](#leveling-the-playing-field)
+  - [Basic functions](#basic-functions)
+  - [Overloading functions](#overloading-functions)
+  - [Complex functions](#complex-functions)
+  - [Function types](#function-types)
+  - [Understanding closures](#understanding-closures)
+  - [Using closures](#using-closures)
+  - [Type aliasing](#type-aliasing)
+  - [Challenge: Battlegrounds](#challenge-battlegrounds)
+  - [Solution: Battlegrounds](#solution-battlegrounds)
 - [**6. Classes, Structs, and Beyond**](#6-classes-structs-and-beyond) (9 videos)
-  - Populating the game world
-  - Value vs. reference types
-  - Basic Swift classes
-  - Access modifiers and properties
-  - Subclassing in Swift
-  - Basic Swift structs
-  - Chaining optionals
-  - Challenge: Inventory system
-  - Solution: Inventory system
+  - [Populating the game world](#populating-the-game-world)
+  - [Value vs. reference types](#value-vs-reference-types)
+  - [Basic Swift classes](#basic-swift-classes)
+  - [Access modifiers and properties](#access-modifiers-and-properties)
+  - [Subclassing in Swift](#subclassing-in-swift)
+  - [Basic Swift structs](#basic-swift-structs)
+  - [Chaining optionals](#chaining-optionals)
+  - [Challenge: Inventory system](#challenge-inventory-system)
+  - [Solution: Inventory system](#solution-inventory-system)
 - [**7. Leveling Up with Enums, Protocols, and Errors**](#7-leveling-up-with-enums-protocols-and-errors) (9 videos)
-  - Final stage, final boss
-  - Swift enumerations
-  - Raw and associated values
-  - Introducing protocols
-  - Using extensions
-  - Throwing errors
-  - Handling errors
-  - Challenge: Battle actions
-  - Solution: Battle actions
+  - [Final stage, final boss](#final-stage-final-boss)
+  - [Swift enumerations](#swift-enumerations)
+  - [Raw and associated values](#raw-and-associated-values)
+  - [Introducing protocols](#introducing-protocols)
+  - [Using extensions](#using-extensions)
+  - [Throwing errors](#throwing-errors)
+  - [Handling errors](#handling-errors)
+  - [Challenge: Battle actions](#challenge-battle-actions)
+  - [Solution: Battle actions](#solution-battle-actions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Begin an adventure with Swift 5
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980)
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Programming]] (1), data (1), application (1), game (1)
 > **Code Identifiers:** ios (1)
 > **Versions:** version 5 (1)
 > **Speakers:** - programming (1)
@@ -187,6 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Programming]] (2), [[Programming Foundations]] (1), [[Xcode]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Prerequisites:** you'll need (1)
@@ -195,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Swift retrospective
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980)
@@ -222,6 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (10), [[Xcode]] (3), [[Programming]] (1)
 > **Versions:** 2.0 (2), 1.0 (1), 1.1 (1), 6.1 (1), 1.2 (1)
 > **CLI Commands:** apache (1)
 > **Code Identifiers:** ios (1)
@@ -269,9 +271,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (5), [[Swift (Programming Language)|Swift]] (2), hit (1), application (1), cross-platform (1)
 > **Code Identifiers:** ios (1), watchos (1), tvos (1), macos (1)
 > **CLI Commands:** find (2), unzip (1)
-> **Code Keywords:** from. (1), new, (1)
 > **Versions:** 10.2 (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
@@ -348,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), default, (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** next (3), [[Swift (Programming Language)|Swift]] (3), hit (2)
 > **Exercise Files:** starter project (2), exercise files (1), starter file (1)
 > **UI Navigation:** click on (1), toggle (1), go to (1)
 > **Prerequisites:** set up (2), you'll need (1)
@@ -358,7 +360,7 @@ created: 2026-04-29
 
 ### 2. Getting to Know Your Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The quest begins: Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980)
@@ -379,7 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Programming]] (1)
 > **Speakers:** - if (1)
 
 #### Variables and constants
@@ -443,7 +445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), var (3), type. (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (5), [[Programming]] (1), next (1)
 > **Code Identifiers:** currenthealth (4), maxhealth (4), equipmentslots (1), currentgold (1)
 > **Env Vars:** var (3)
 > **CLI Commands:** make (2)
@@ -499,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), var (2), class. (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -548,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** antihelloworld (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -608,8 +610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), next (2), [[Programming]] (1), [[Control Flow]] (1)
 > **Code Identifiers:** currenthealth (4), experienceoverflow (2), usingmath (1)
-> **Code Keywords:** let (3), var (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
@@ -716,8 +718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), application (1), data (1), [[Programming]] (1)
 > **Code Identifiers:** activequest (7), questdifficulty (4), questinfo (3)
-> **Code Keywords:** let (3), throw (1), finally, (1), type, (1), this. (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -828,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (1), super (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (7), data (1), [[Programming]] (1)
 > **Code Identifiers:** removeall (2), removelast (1), removefirst (1)
 > **Documentation:** the docs (2)
 > **CLI Commands:** make (1)
@@ -915,7 +917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), var (4), type, (1), default, (1), type. (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Code Identifiers:** currentgold (7), bankdeposit (2)
 > **Versions:** 5.832 (3), 5.5 (1), 5.892 (1), 10.832 (1)
 > **Definitions:** is an  (2), is called (1), is a  (1)
@@ -981,7 +983,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** isactive (6), canmove (6), playercontrol (4)
-> **Code Keywords:** let (4), require (1), var (1)
 > **UI Navigation:** toggle (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1043,8 +1044,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Control Flow]] (1)
 > **Code Identifiers:** itemgathered (5), isexchangeable (2)
-> **Code Keywords:** let (3), var (1), type, (1), type. (1)
 > **Warnings:** warning (1), be careful (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1078,7 +1079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), for. (1), case, (1), class. (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), hit (2), [[Search]] (1), [[Windows]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Documentation:** the documentation (1)
@@ -1109,6 +1110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -1188,8 +1190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** charactername (4), currentmana (3), debugstats (3), questaccepted (3), canquest (3)
-> **Code Keywords:** var (4), break. (1), break, (1), let (1), this, (1)
 > **Versions:** 75.9 (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
@@ -1198,7 +1200,7 @@ created: 2026-04-29
 
 ### 3. Working with Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gathering inventory with collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/gathering-inventory-with-collections-14525882?u=76281980)
@@ -1213,7 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - now (1)
 
 #### Swift arrays
@@ -1303,7 +1305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1), this, (1), case, (1), throw (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), next (2), data (1)
 > **Analogies:** just like (2), for instance (1)
 > **Code Identifiers:** extrasyntax1 (1)
 > **Cross-References:** in the next (1)
@@ -1448,8 +1450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** characterclasses (6), skilltree (3), newelement (1), reversedclasses (1), sortedclasses (1)
-> **Code Keywords:** let (5), super (2), type. (1), type, (1), this, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1), for instance (1)
 > **Warnings:** be aware (1)
@@ -1566,8 +1568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Swift (Programming Language)|Swift]] (1), feature (1)
 > **Code Identifiers:** blacksmithshop (9)
-> **Code Keywords:** let (5), type. (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** just like (2)
 > **Definitions:** means that (1)
@@ -1694,7 +1696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), var (2), override (1), require (1)
+> **Frameworks & Libraries:** [[Fetch]] (6), next (1), data (1)
 > **Analogies:** just like (3), for instance (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** playerstats (1)
@@ -1799,8 +1801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Swift (Programming Language)|Swift]] (2), [[Fetch]] (1)
 > **Code Identifiers:** activequests (5), activequest (1)
-> **Code Keywords:** function (2), let (1), type < (1), default. (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -1877,7 +1879,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** activequests (5), completedquests (4), commonquests (2), symmetricdifference (2), differentquests (2)
-> **Code Keywords:** var (2), require (1), type. (1), let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the docs (1)
 > **UI Navigation:** open the (1)
@@ -1974,8 +1975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), data (2), [[Prototyping]] (1)
 > **Code Identifiers:** uppercutattack (8), shieldstomp (4), planetsmash (2)
-> **Code Keywords:** let (3), var (1), type, (1)
 > **Definitions:** is a  (1), defined as (1)
 > **Analogies:** just like (2)
 > **UI Navigation:** select the (1)
@@ -2000,6 +2001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), hit (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - okay (1)
 > **Non-Speech:** (upbeat bouncy music) (1)
@@ -2083,8 +2085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Helm]] (5)
 > **Code Identifiers:** shopitemsarray (7), shopitemsdictionary (3), selecteditem (3), fullarmor (3), armorpiece (3)
-> **Code Keywords:** let (5), var (3), switch (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [narrator] (1)
@@ -2093,7 +2095,7 @@ created: 2026-04-29
 
 ### 4. Application Control Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlling your destiny
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980)
@@ -2110,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (1), [[Control Flow]] (1), [[Programming]] (1), feature (1)
 > **Speakers:** - making (1)
 
 #### The if statement
@@ -2168,8 +2170,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Control Flow]] (1), [[Decision Trees]] (1)
 > **Code Identifiers:** currenthealth (7), maxhealth (5)
-> **Code Keywords:** let (3), switch (1), case, (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - we (1)
@@ -2281,7 +2283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1), delete (1), else. (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2407,8 +2409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), data (1), [[Xcode]] (1)
 > **Code Identifiers:** armortypes (6), stringcharacter (4), playergreeting (3), indexnumber (3), weaponkey (2)
-> **Code Keywords:** let (4), case, (2), this, (2), for, (2)
 > **Definitions:** is called (2)
 > **Warnings:** be careful (2)
 > **CLI Commands:** make (1)
@@ -2485,7 +2487,6 @@ created: 2026-04-29
 >
 > **Env Vars:** while (8)
 > **Code Identifiers:** playerhealth (6)
-> **Code Keywords:** let (3), pass (1)
 > **Analogies:** just like (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** you'll need (1)
@@ -2620,7 +2621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (18), let (6), case, (3), default, (3), case. (3)
+> **Frameworks & Libraries:** next (1)
 > **Warnings:** be aware (1), be careful (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** coming up (1)
@@ -2686,7 +2687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (2), else, (2), let (2), throw (2), continue (2)
+> **Frameworks & Libraries:** [[Helm]] (2), [[Swift (Programming Language)|Swift]] (1), feature (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -2709,7 +2710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1)
+> **Frameworks & Libraries:** game (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - all (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2801,7 +2802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (3), case, (3), continue (2), this. (1)
+> **Frameworks & Libraries:** next (2), game (1), [[Hardware]] (1), data (1)
 > **Code Identifiers:** righthandweapon (3), playerexp (3), lefthandweapon (2), leftweapon (2), rightweapon (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2812,7 +2813,7 @@ created: 2026-04-29
 
 ### 5. The Wide World of Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveling the playing field
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980)
@@ -2829,7 +2830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Programming]] (1)
 > **Speakers:** - our (1)
 
 #### Basic functions
@@ -2897,7 +2898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), case, (2), else. (1), var (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), application (1)
 > **Code Identifiers:** findnearestally (5)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2965,7 +2966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), type. (1), case, (1), var (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Xcode]] (1)
 > **Code Identifiers:** attackenemy (7), attacksuccess (3), enemydefeated (1)
 > **CLI Commands:** make (2)
 > **Versions:** 65.988 (2)
@@ -3060,7 +3061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), default, (2), pass (1), override (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Code Identifiers:** setuparenamatch (6), levelname (4), setupdefaultmatch (2), initsuccess (1), leveldetails (1)
 > **Non-Speech:** (keyboard typing) (1), (keyboard clicking) (1)
 > **Speakers:** - [instructor] (1)
@@ -3128,7 +3129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), pass (3), let (3), this, (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - every (1)
@@ -3226,7 +3227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), type, (2), lambda (1), type. (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Programming]] (2)
 > **Definitions:** defined as (1), is called (1), is a  (1)
 > **Code Identifiers:** computebonusdamage (2)
 > **Speakers:** - [instructor] (1)
@@ -3368,7 +3369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (4), type. (3), pass (2), var (1)
+> **Frameworks & Libraries:** data (4), hit (1), next (1), traffic (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** just like (2)
@@ -3448,7 +3449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (4), function (3), type, (2), var (1)
+> **Frameworks & Libraries:** hit (1)
 > **Code Identifiers:** baseattack (4), sunstrike (3), levelupattack (2), increasedattack (2), activemembers (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3474,7 +3475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat bouncy music) (1)
@@ -3574,7 +3575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), pass (2), break, (1), break. (1)
+> **Frameworks & Libraries:** hit (8), power (2), data (2), [[Fetch]] (1)
 > **Code Identifiers:** attackenemy (6), playeractions (2), fetchplayerattacks (2), attackoptions (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -3583,7 +3584,7 @@ created: 2026-04-29
 
 ### 6. Classes, Structs, and Beyond
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Populating the game world
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980)
@@ -3600,8 +3601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), data (2), application (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - at (1)
 
 #### Value vs. reference types
@@ -3675,7 +3676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), implements (1), type. (1), struct (1), class, (1)
+> **Frameworks & Libraries:** game (5), [[Swift (Programming Language)|Swift]] (3), data (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -3804,7 +3805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), let (5), function (4), pass (2), struct (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), next (1), hit (1), data (1)
 > **Code Identifiers:** defaultplayer (5), maxhp (4), printstats (4), maxhealth (3), specialmove (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Warnings:** be aware (1), be careful (1)
@@ -3954,7 +3955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), module (6), let (4), public (3), self (3)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (7), [[Programming]] (1), [[Unit Testing]] (1), next (1), hit (1)
 > **Code Identifiers:** healthlost (4), maxhealth (2), newvalue (2), maxhp (1), maxactiveplayers (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** later in (1), in the next (1)
@@ -4048,7 +4049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), pass (3), class, (2), var (2), super (2)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Non-Speech:** (keyboard clicking) (9)
 > **Code Identifiers:** classadvantage (3), printstats (2), maxhealth (1), maxhp (1)
 > **Definitions:** is a  (2)
@@ -4158,7 +4159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), struct (6), self (5), function (4), delete (1)
+> **Frameworks & Libraries:** data (2), application (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** find (1), cat (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (2)
@@ -4271,7 +4272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), struct (7), else, (2), function (2), this. (1)
+> **Frameworks & Libraries:** data (1), [[Fetch]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** raredagger (6), previousowner (6), daggerowner (3), returnownerinfo (2), gemstoneobjective (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -4300,6 +4301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), functional (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - oh (1)
 > **Non-Speech:** (cheerful music) (1)
@@ -4381,7 +4383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), var (4), self (3), struct (2), class. (1)
+> **Frameworks & Libraries:** management (1)
 > **Code Identifiers:** storeditems (3), partywideeffect (3), itempower (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -4391,7 +4393,7 @@ created: 2026-04-29
 
 ### 7. Leveling Up with Enums, Protocols, and Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final stage, final boss
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980)
@@ -4408,6 +4410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Speakers:** - this (1)
 
 #### Swift enumerations
@@ -4479,7 +4482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (9), switch (7), case, (2), type. (1), type, (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), data (2), game (1)
 > **Code Identifiers:** currentstate (3)
 > **Analogies:** just like (2)
 > **Definitions:** is an  (1)
@@ -4591,7 +4594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), enum (6), function (4), switch (3), var (2)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), next (1), feature (1)
 > **Env Vars:** var (2), npc (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4737,7 +4740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), struct (2), self (2), var (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Xcode]] (1), hit (1), functional (1), [[Programming]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (3)
 > **Code Identifiers:** withname (1), startingprice (1)
@@ -4831,7 +4834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), self (4), pass (2), class, (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), feature (1)
 > **Code Identifiers:** fancydebug (3), priceincrease (1)
 > **Definitions:** refers to (1), is a  (1), is called (1)
 > **UI Navigation:** go to (1)
@@ -4898,7 +4901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), throw (5), enum (3), let (2), type. (1)
+> **Frameworks & Libraries:** data (2), [[Swift (Programming Language)|Swift]] (1), next (1)
 > **Code Identifiers:** loaddata (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -5035,7 +5038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (6), throw (4), enum (3), pass (2)
+> **Frameworks & Libraries:** data (22), [[Fetch]] (3)
 > **Code Identifiers:** loaddata (5), playerdatapath (2)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** just like (3)
@@ -5063,6 +5066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - this (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5136,7 +5140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (3), enum (2), case, (2), function (2)
+> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** make (1)
 > **Versions:** 5.89 (1)
 > **Speakers:** - [instructor] (1)
@@ -5145,7 +5149,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980)
@@ -5164,6 +5168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), game (1), next (1)
 > **Code Identifiers:** ios (2)
 > **Speakers:** - [harrison] (1)
 

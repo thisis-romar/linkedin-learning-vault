@@ -30,7 +30,7 @@ tags:
   - skill/r-programming-language
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Build%20Advanced%20Charts%20in%20R.md)
@@ -49,35 +49,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Building advanced charts
-  - What you should know
-  - Using exercise files
+  - [Building advanced charts](#building-advanced-charts)
+  - [What you should know](#what-you-should-know)
+  - [Using exercise files](#using-exercise-files)
 - [**1. Explore the Data**](#1-explore-the-data) (2 videos)
-  - Load and inspect your data
-  - Exploratory charts
+  - [Load and inspect your data](#load-and-inspect-your-data)
+  - [Exploratory charts](#exploratory-charts)
 - [**2. Chords Diagrams**](#2-chords-diagrams) (6 videos)
-  - Introduction to {circlize} package
-  - Prepare your data
-  - Create a chord diagram
-  - Customize your chord diagram
-  - Customization options
-  - Create a function
+  - [Introduction to {circlize} package](#introduction-to-circlize-package)
+  - [Prepare your data](#prepare-your-data)
+  - [Create a chord diagram](#create-a-chord-diagram)
+  - [Customize your chord diagram](#customize-your-chord-diagram)
+  - [Customization options](#customization-options)
+  - [Create a function](#create-a-function)
 - [**3. Other Advanced Charts**](#3-other-advanced-charts) (4 videos)
-  - Create advanced charts
-  - Create a sparkline chart
-  - Create a lollipop plot
-  - Create a slope graph
+  - [Create advanced charts](#create-advanced-charts)
+  - [Create a sparkline chart](#create-a-sparkline-chart)
+  - [Create a lollipop plot](#create-a-lollipop-plot)
+  - [Create a slope graph](#create-a-slope-graph)
 - [**4. Accessibility and Annotations**](#4-accessibility-and-annotations) (4 videos)
-  - Accessible color palettes
-  - Add charts on the same figure
-  - Add annotations and backgrounds
-  - Further annotation
+  - [Accessible color palettes](#accessible-color-palettes)
+  - [Add charts on the same figure](#add-charts-on-the-same-figure)
+  - [Add annotations and backgrounds](#add-annotations-and-backgrounds)
+  - [Further annotation](#further-annotation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building advanced charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Infographics]] (1)
 > **Speakers:** - [rita] (1)
 
 #### What you should know
@@ -133,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (2), [[LinkedIn]] (2)
 > **Prerequisites:** install (6)
-> **Code Keywords:** function (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -168,9 +169,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (2), [[GitHub]] (1), [[Version Control]] (1), [[Git]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** git (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** zip (1)
 > **Tools:** github (1)
 > **Exercise Files:** download the (1)
@@ -179,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Explore the Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Load and inspect your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980)
@@ -242,7 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), type, (1), type ( (1)
+> **Frameworks & Libraries:** data (9), next (2), [[Microsoft Word|Word]] (1), [[Statistics]] (1)
 > **Code Identifiers:** read_csv (1), show_col_types (1), geo_biomass_other (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -316,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1)
 > **Code Identifiers:** share_electricity (4), geom_freqpoly (2), geom_histogram (1), geom_line (1)
-> **Code Keywords:** function (4), this, (2), let (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (2)
 > **Ports:** :2021 (1)
@@ -327,7 +328,7 @@ created: 2026-04-29
 
 ### 2. Chords Diagrams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to {circlize} package
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980)
@@ -434,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (2)
+> **Frameworks & Libraries:** data (4), feature (1), [[Simulation]] (1)
 > **Env Vars:** cell_meta (2)
 > **Cross-References:** as we saw (1), previous chapter (1)
 > **CLI Commands:** make (1)
@@ -534,8 +535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Statistics]] (1)
 > **Code Identifiers:** pivot_longer (2), pivot_wider (2), renewable_wider (1), country_code (1), str_remove (1)
-> **Code Keywords:** let (2), new. (1), case, (1), function (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -645,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2), this, (2), pass (1), case, (1)
+> **Frameworks & Libraries:** data (1), functional (1), next (1)
 > **Versions:** 0.03 (1), 0.01 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -752,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (2), pass (2), case, (2)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** col_grid (2), source_color (1), source_palette (1)
 > **Versions:** 0.6 (1), 0.8 (1)
 > **CLI Commands:** find (1)
@@ -918,8 +919,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.01 (5), 1.2 (2), 0.15 (1), 0.1 (1), 0.02 (1)
-> **Code Keywords:** function (3), this. (2), this, (1), case, (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (3)
 > **Ports:** :23 (1), :31 (1)
@@ -1002,7 +1003,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), this, (2), default. (1), case, (1)
 > **Code Identifiers:** col_grid (3), circos_function (2), circos_function_b (1), big_gap (1), small_gap (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Analogies:** for example (3)
@@ -1011,7 +1011,7 @@ created: 2026-04-29
 
 ### 3. Other Advanced Charts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create advanced charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-advanced-charts?u=76281980)
@@ -1052,6 +1052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** for example (4)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1208,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), continue (2), this, (1), case, (1)
+> **Frameworks & Libraries:** data (9), next (1)
 > **Versions:** 0.3 (1), 1.5 (1), 0.5 (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
@@ -1302,10 +1303,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (1)
 > **Versions:** 0.5 (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** function (1), case, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -1454,7 +1455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), default. (1), case, (1)
+> **Frameworks & Libraries:** data (2)
 > **Versions:** 0.5 (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -1464,7 +1465,7 @@ created: 2026-04-29
 
 ### 4. Accessibility and Annotations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible color palettes
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980)
@@ -1567,8 +1568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **Code Identifiers:** cvd_grid (3), palette_plot (2), brand_sat (2), scale_colour_viridis (1), colour_brewer (1)
-> **Code Keywords:** function (8), this, (1), type. (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** rgb (1), true (1)
 > **Versions:** 0.3 (1), 0.9 (1)
@@ -1644,7 +1645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), pass (1)
+> **Frameworks & Libraries:** cd (1), data (1)
 > **Versions:** 0.1 (2), 1.03 (1), 1.2 (1), 0.5 (1)
 > **CLI Commands:** cd (1)
 > **Code Identifiers:** readrds (1)
@@ -1718,7 +1719,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7)
 > **Code Identifiers:** element_rect (2), plot_grid (1), rel_heights (1)
 > **Versions:** 0.5 (2), 0.1 (1)
 > **Analogies:** such as (1)
@@ -1779,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), case, (2), this, (1)
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.5 (2), 1.2 (1), 0.55 (1), 0.2 (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -1787,7 +1787,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980)
@@ -1822,7 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), function (1)
+> **Frameworks & Libraries:** [[Infographics]] (2), [[LinkedIn]] (2), data (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [rita] (1)
 

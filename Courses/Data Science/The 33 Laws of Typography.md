@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/typography
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%2033%20Laws%20of%20Typography.md)
@@ -45,51 +45,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction
+  - [Introduction](#introduction)
 - [**1. How to Format a Document**](#1-how-to-format-a-document) (6 videos)
-  - 01 Distrust default software settings
-  - 02 Ensure good contrast between text and background
-  - 03 Avoid chart junk and page junk
-  - 04 Enforce a consistent style within a document
-  - 05 Maintain a visual hierarchy
-  - 06 Group related page elements
+  - [01 Distrust default software settings](#01-distrust-default-software-settings)
+  - [02 Ensure good contrast between text and background](#02-ensure-good-contrast-between-text-and-background)
+  - [03 Avoid chart junk and page junk](#03-avoid-chart-junk-and-page-junk)
+  - [04 Enforce a consistent style within a document](#04-enforce-a-consistent-style-within-a-document)
+  - [05 Maintain a visual hierarchy](#05-maintain-a-visual-hierarchy)
+  - [06 Group related page elements](#06-group-related-page-elements)
 - [**2. How to Format Large Bodies of Text**](#2-how-to-format-large-bodies-of-text) (9 videos)
-  - 07 Set printed body text from 9 to 11 points
-  - 08 Set body text two to three alphabets wide
-  - 09 Favor flush-left, ragged-right body text
-  - 10 Separate sentences with one space, not two
-  - 11 Don't allow less than seven characters on a line
-  - 12 Avoid bad paragraph breaks
-  - 13 Avoid line-breaking hyphens
-  - 14 Signal new paragraphs once, not twice
-  - 15 Break up large blocks of text
+  - [07 Set printed body text from 9 to 11 points](#07-set-printed-body-text-from-9-to-11-points)
+  - [08 Set body text two to three alphabets wide](#08-set-body-text-two-to-three-alphabets-wide)
+  - [09 Favor flush-left, ragged-right body text](#09-favor-flush-left-ragged-right-body-text)
+  - [10 Separate sentences with one space, not two](#10-separate-sentences-with-one-space-not-two)
+  - [11 Don't allow less than seven characters on a line](#11-dont-allow-less-than-seven-characters-on-a-line)
+  - [12 Avoid bad paragraph breaks](#12-avoid-bad-paragraph-breaks)
+  - [13 Avoid line-breaking hyphens](#13-avoid-line-breaking-hyphens)
+  - [14 Signal new paragraphs once, not twice](#14-signal-new-paragraphs-once-not-twice)
+  - [15 Break up large blocks of text](#15-break-up-large-blocks-of-text)
 - [**3. How to Format Smaller Blocks of Text**](#3-how-to-format-smaller-blocks-of-text) (10 videos)
-  - 16 Emphasize ten percent or less of text
-  - 17 Avoid all caps and underlined text
-  - 18 Set acronyms and initialisms in small caps
-  - 19 Hang punctuation in small chunks of text
-  - 20 Hang bullets and numbers in lists
-  - 21 Avoid bad line breaks
-  - 22 Use symbols and special characters as needed
-  - 23 Use proportional old-style figures in body text
-  - 24 Adjust leading and kerning for large text
-  - 25 Verify software alignments optically
+  - [16 Emphasize ten percent or less of text](#16-emphasize-ten-percent-or-less-of-text)
+  - [17 Avoid all caps and underlined text](#17-avoid-all-caps-and-underlined-text)
+  - [18 Set acronyms and initialisms in small caps](#18-set-acronyms-and-initialisms-in-small-caps)
+  - [19 Hang punctuation in small chunks of text](#19-hang-punctuation-in-small-chunks-of-text)
+  - [20 Hang bullets and numbers in lists](#20-hang-bullets-and-numbers-in-lists)
+  - [21 Avoid bad line breaks](#21-avoid-bad-line-breaks)
+  - [22 Use symbols and special characters as needed](#22-use-symbols-and-special-characters-as-needed)
+  - [23 Use proportional old-style figures in body text](#23-use-proportional-old-style-figures-in-body-text)
+  - [24 Adjust leading and kerning for large text](#24-adjust-leading-and-kerning-for-large-text)
+  - [25 Verify software alignments optically](#25-verify-software-alignments-optically)
 - [**4. How to Use Punctuation Properly**](#4-how-to-use-punctuation-properly) (5 videos)
-  - 26 Connect thoughts, using em dashes
-  - 27 Show ranges, using en dashes
-  - 28 Clarify, and improve readability, using hyphens
-  - 29 Designate feet and inches, with prime symbols
-  - 30 Replace missing characters with apostrophes
+  - [26 Connect thoughts, using em dashes](#26-connect-thoughts-using-em-dashes)
+  - [27 Show ranges, using en dashes](#27-show-ranges-using-en-dashes)
+  - [28 Clarify, and improve readability, using hyphens](#28-clarify-and-improve-readability-using-hyphens)
+  - [29 Designate feet and inches, with prime symbols](#29-designate-feet-and-inches-with-prime-symbols)
+  - [30 Replace missing characters with apostrophes](#30-replace-missing-characters-with-apostrophes)
 - [**5. How to Choose Typefaces**](#5-how-to-choose-typefaces) (3 videos)
-  - 31 Limit typefaces to two per document
-  - 32 Use typefaces that reinforce a document's mood
-  - 33 Choose serif or sans serif, based on aesthetics
+  - [31 Limit typefaces to two per document](#31-limit-typefaces-to-two-per-document)
+  - [32 Use typefaces that reinforce a document's mood](#32-use-typefaces-that-reinforce-a-documents-mood)
+  - [33 Choose serif or sans serif, based on aesthetics](#33-choose-serif-or-sans-serif-based-on-aesthetics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Goodbye
+  - [Goodbye](#goodbye)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980)
@@ -148,13 +148,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this, (1)
+> **Frameworks & Libraries:** [[Typography]] (13), web (1), business (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [voiceover] (1)
 
 
 ### 1. How to Format a Document
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 01 Distrust default software settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/01-distrust-default-software-settings?u=76281980)
@@ -261,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1), this, (1)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.4 (1)
 > **Definitions:** is called (1)
@@ -402,7 +402,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** type. (2), let (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Best Practices:** it's best to (1)
@@ -535,7 +534,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), break. (1)
 > **Warnings:** watch out (2), keep in mind (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -650,9 +648,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), css (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Definitions:** means that (3), is a  (3), is an  (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - law (1)
@@ -776,8 +774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), css (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** before you begin (1), set up (1)
 > **Env Vars:** css (1)
@@ -873,7 +871,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -882,7 +879,7 @@ created: 2026-04-29
 
 ### 2. How to Format Large Bodies of Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 07 Set printed body text from 9 to 11 points
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/07-set-printed-body-text-from-9-to-11-points?u=76281980)
@@ -961,7 +958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (4), let (2), this. (1)
+> **Frameworks & Libraries:** web (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -1064,8 +1061,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** type, (1), let (1)
 > **Definitions:** refers to (1), is an  (1)
 > **Speakers:** - law (1)
 
@@ -1150,8 +1147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (4), data (1), business (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), break. (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [voiceover] (1)
 
@@ -1244,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - law (1)
@@ -1372,8 +1369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), hit (2), next (1), [[HTML]] (1), web (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** return. (1), return, (1), let (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** html (1)
 > **Best Practices:** rule of thumb (1)
@@ -1470,7 +1467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (4), delete (1), let (1)
+> **Frameworks & Libraries:** next (2), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (2)
 > **Warnings:** keep in mind (1)
@@ -1565,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Representational State Transfer (REST)|Rest]] (1), next (1), web (1), css (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - law (1)
 
@@ -1666,8 +1663,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - law (1)
 
@@ -1786,9 +1783,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Typography]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this, (1)
 > **Warnings:** keep in mind (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - law (1)
@@ -1796,7 +1793,7 @@ created: 2026-04-29
 
 ### 3. How to Format Smaller Blocks of Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 16 Emphasize ten percent or less of text
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980)
@@ -1887,7 +1884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), business (1), next (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** be careful (2)
 > **Speakers:** - law (1)
@@ -2023,8 +2020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2), type. (1)
 > **Warnings:** be aware (2), be careful (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** it's best to (1)
@@ -2099,9 +2096,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** stands for (8)
 > **Env Vars:** cia (2), nasa (1), ascii (1), nato (1), asap (1)
-> **Code Keywords:** this, (1), let (1)
 > **Speakers:** - law (1)
 
 #### 19 Hang punctuation in small chunks of text
@@ -2207,7 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), business (1), next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - law (1)
 
@@ -2326,7 +2323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -2414,8 +2411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (2), next (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2), break. (1), delete (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - law (1)
@@ -2511,7 +2508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), include. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), web (4), [[Windows]] (1), [[HTML]] (1), [[Search]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Code Identifiers:** iphones (1)
@@ -2619,7 +2616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), business (1), web (1), css (1)
 > **Warnings:** be aware (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
@@ -2769,7 +2766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (2), default. (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (2), business (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - law (1)
@@ -2881,8 +2878,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), business (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Warnings:** watch out (1)
@@ -2891,7 +2888,7 @@ created: 2026-04-29
 
 ### 4. How to Use Punctuation Properly
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 26 Connect thoughts, using em dashes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980)
@@ -2966,8 +2963,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), web (1), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** else, (1), let (1)
 > **Env Vars:** html (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** rule of thumb (1)
@@ -3052,8 +3049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Windows]] (1), [[HTML]] (1), web (1)
 > **Definitions:** is an  (3), is a  (1)
-> **Code Keywords:** case, (1), this: (1), let (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -3173,7 +3170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Security]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -3288,7 +3285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Windows]] (3), web (3), [[Typography]] (1), [[Search]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** we talked about (1)
@@ -3416,7 +3413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), let (2), case, (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), web (2), [[Windows]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), short for (1)
 > **Warnings:** keep in mind (2)
@@ -3425,7 +3422,7 @@ created: 2026-04-29
 
 ### 5. How to Choose Typefaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 31 Limit typefaces to two per document
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980)
@@ -3542,9 +3539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** note that (1)
@@ -3637,7 +3634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (3), [[Typography]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - law (1)
@@ -3701,14 +3698,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2)
 > **Speakers:** - law (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980)
@@ -3765,8 +3762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Typography]] (5)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), case, (1)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)

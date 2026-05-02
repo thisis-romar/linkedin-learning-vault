@@ -27,7 +27,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Awareness-%20Social%20Engineering.md)
@@ -46,40 +46,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Defeat social engineers and cyber scammers
-  - What is social engineering?
+  - [Defeat social engineers and cyber scammers](#defeat-social-engineers-and-cyber-scammers)
+  - [What is social engineering?](#what-is-social-engineering)
 - [**1. Social Engineering Tactics**](#1-social-engineering-tactics) (8 videos)
-  - Influence and decision-making
-  - Phishing
-  - Pretexting
-  - Vishing
-  - Baiting
-  - Tailgating and shoulder surfing
-  - Challenge: Social engineering tactics
-  - Solution: Social engineering tactics
+  - [Influence and decision-making](#influence-and-decision-making)
+  - [Phishing](#phishing)
+  - [Pretexting](#pretexting)
+  - [Vishing](#vishing)
+  - [Baiting](#baiting)
+  - [Tailgating and shoulder surfing](#tailgating-and-shoulder-surfing)
+  - [Challenge: Social engineering tactics](#challenge-social-engineering-tactics)
+  - [Solution: Social engineering tactics](#solution-social-engineering-tactics)
 - [**2. Safeguarding Your Company from Attacks**](#2-safeguarding-your-company-from-attacks) (10 videos)
-  - Cybersecurity awareness training
-  - Properly manage passwords
-  - Install patches
-  - Spam filter
-  - Sandboxing
-  - Scan your attachments
-  - Anti-social engineering software
-  - Create policies and procedures
-  - Challenge: Safegarding your company from attacks
-  - Solution: Safegarding your company from attacks
+  - [Cybersecurity awareness training](#cybersecurity-awareness-training)
+  - [Properly manage passwords](#properly-manage-passwords)
+  - [Install patches](#install-patches)
+  - [Spam filter](#spam-filter)
+  - [Sandboxing](#sandboxing)
+  - [Scan your attachments](#scan-your-attachments)
+  - [Anti-social engineering software](#anti-social-engineering-software)
+  - [Create policies and procedures](#create-policies-and-procedures)
+  - [Challenge: Safegarding your company from attacks](#challenge-safegarding-your-company-from-attacks)
+  - [Solution: Safegarding your company from attacks](#solution-safegarding-your-company-from-attacks)
 - [**3. Testing Your Defenses**](#3-testing-your-defenses) (2 videos)
-  - Phishing simulations
-  - Penetration testing
+  - [Phishing simulations](#phishing-simulations)
+  - [Penetration testing](#penetration-testing)
 - [**4. Cybersecurity Awareness**](#4-cybersecurity-awareness) (2 videos)
-  - Active and passive education
-  - Personal data security
+  - [Active and passive education](#active-and-passive-education)
+  - [Personal data security](#personal-data-security)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your cybersecurity awareness journey
+  - [Continue your cybersecurity awareness journey](#continue-your-cybersecurity-awareness-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defeat social engineers and cyber scammers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/defeat-social-engineers-and-cyber-scammers?u=76281980)
@@ -106,7 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Engineering]] (1)
 > **Speakers:** - did (1)
 
 #### What is social engineering?
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (6), [[Phishing]] (2), [[Microsoft]] (1), [[Security]] (1), [[Microsoft Office|Office]] (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -143,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Social Engineering Tactics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Influence and decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980)
@@ -204,9 +205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), power (1), next (1), [[Phishing]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - before (1)
@@ -276,7 +277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), require (1), protected (1), for, (1)
+> **Frameworks & Libraries:** [[Phishing]] (13), next (2), [[Fine Tuning]] (1), [[Security]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** aol (2)
 > **Cross-References:** in the next (1)
@@ -347,8 +348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Phishing]] (2), business (1), [[Search]] (1), data (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** private (1), case, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -412,8 +413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Microsoft]] (2), [[Security]] (1), next (1)
 > **Prerequisites:** install (1), set up (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** irs (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -473,8 +474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (1), [[Search]] (1), next (1)
 > **Env Vars:** usb (5)
-> **Code Keywords:** let (1), from. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -548,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Privacy]] (2), feature (1), [[Security]] (1), [[Engineering]] (1), [[Cybersecurity]] (1)
 > **Warnings:** warning (1), be aware (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** atm (1)
@@ -625,6 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), [[Cybersecurity]] (1), feature (1), [[Troubleshooting]] (1), next (1)
 > **Env Vars:** cfo (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -689,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Engineering]] (8), [[Phishing]] (2), next (1)
 > **Env Vars:** cfo (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -700,7 +702,7 @@ created: 2026-04-29
 
 ### 2. Safeguarding Your Company from Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity awareness training
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980)
@@ -775,9 +777,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Engineering]] (4), [[Forms]] (2), [[Phishing]] (1), [[Incident Response]] (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** previous chapter (1), we discussed (1), in the next (1)
-> **Code Keywords:** let (1), super (1)
 > **Ports:** :00 (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - in (1)
@@ -837,8 +839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Security]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -907,8 +909,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Security]] (2), next (2), [[Engineering]] (1), [[Phishing]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** protected (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
 
@@ -963,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Engineering]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -1025,9 +1027,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Engineering]] (3), [[Phishing]] (1), [[Forms]] (1), next (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cfo (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -1086,9 +1088,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Engineering]] (2), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
@@ -1137,8 +1139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), [[Security]] (2), [[Windows]] (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), else. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** basically means (1)
 > **Analogies:** imagine (1)
@@ -1213,8 +1215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (2), web (1), next (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (1), require (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Speakers:** - there (1)
 
@@ -1239,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[Engineering]] (3), [[Cybersecurity]] (1), [[Phishing]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1319,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), function (1)
+> **Frameworks & Libraries:** [[Phishing]] (6), application (3), feature (3), [[Security]] (2), [[Privacy]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** iphone (1)
 > **Cross-References:** in the next (1)
@@ -1329,7 +1331,7 @@ created: 2026-04-29
 
 ### 3. Testing Your Defenses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Phishing simulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980)
@@ -1372,6 +1374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (10), [[Security]] (5), [[Simulation]] (3), [[Microsoft Office|Office]] (1), [[Engineering]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1436,7 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Security]] (2), next (1), [[Cybersecurity]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1445,7 +1448,7 @@ created: 2026-04-29
 
 ### 4. Cybersecurity Awareness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Active and passive education
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980)
@@ -1496,9 +1499,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (4), product (2), [[Engineering]] (1), [[Microsoft Office|Office]] (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1545,6 +1548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), data (4), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** we discussed (1)
@@ -1554,7 +1558,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your cybersecurity awareness journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980)
@@ -1601,6 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (5), [[Engineering]] (3), [[Security]] (2), [[Decision-Making]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)

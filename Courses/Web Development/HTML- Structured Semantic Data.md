@@ -30,7 +30,7 @@ tags:
   - skill/html
   - skill/semantic-markup
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Structured%20Semantic%20Data.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Appreciating the value of the semantic web
-  - Introducing schema.org, a standardized way of describing items
-  - Comparing JSON-LD, RDFa, and microdata for implementing data schemes
+  - [Appreciating the value of the semantic web](#appreciating-the-value-of-the-semantic-web)
+  - [Introducing schema.org, a standardized way of describing items](#introducing-schemaorg-a-standardized-way-of-describing-items)
+  - [Comparing JSON-LD, RDFa, and microdata for implementing data schemes](#comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes)
 - [**1. Implementing Data Schemes with Microdata**](#1-implementing-data-schemes-with-microdata) (8 videos)
-  - Using itemscope and itemtype to add meaning
-  - Adding itemprop to expand on meaning
-  - Embedding schemas in schemas
-  - Using the meta tag for information that cannot be marked up
-  - Using the Structured Data Markup Helper for microdata
-  - Testing your microdata markup with the Structured Data Testing Tool
-  - Challenge: Marking up a document with microdata
-  - Solution: Marking up a document with microdata
+  - [Using itemscope and itemtype to add meaning](#using-itemscope-and-itemtype-to-add-meaning)
+  - [Adding itemprop to expand on meaning](#adding-itemprop-to-expand-on-meaning)
+  - [Embedding schemas in schemas](#embedding-schemas-in-schemas)
+  - [Using the meta tag for information that cannot be marked up](#using-the-meta-tag-for-information-that-cannot-be-marked-up)
+  - [Using the Structured Data Markup Helper for microdata](#using-the-structured-data-markup-helper-for-microdata)
+  - [Testing your microdata markup with the Structured Data Testing Tool](#testing-your-microdata-markup-with-the-structured-data-testing-tool)
+  - [Challenge: Marking up a document with microdata](#challenge-marking-up-a-document-with-microdata)
+  - [Solution: Marking up a document with microdata](#solution-marking-up-a-document-with-microdata)
 - [**2. Working with JSON-LD**](#2-working-with-json-ld) (5 videos)
-  - Writing JSON-LD by hand
-  - Working with the Structured Data Markup Helper
-  - Testing our JSON-LD code with the Structured Data Testing Tool
-  - Challenge: Marking up a document with JSON-LD
-  - Solution: Marking up a document with JSON-LD
+  - [Writing JSON-LD by hand](#writing-json-ld-by-hand)
+  - [Working with the Structured Data Markup Helper](#working-with-the-structured-data-markup-helper)
+  - [Testing our JSON-LD code with the Structured Data Testing Tool](#testing-our-json-ld-code-with-the-structured-data-testing-tool)
+  - [Challenge: Marking up a document with JSON-LD](#challenge-marking-up-a-document-with-json-ld)
+  - [Solution: Marking up a document with JSON-LD](#solution-marking-up-a-document-with-json-ld)
 - [**3. Structured Data Examples**](#3-structured-data-examples) (5 videos)
-  - Understanding rich search results from Google
-  - Writing JSON-LD code for rich search results with a recipe
-  - Testing and previewing the rich results code
-  - Challenge: Rich search results for courses
-  - Solution: Rich search results for courses
+  - [Understanding rich search results from Google](#understanding-rich-search-results-from-google)
+  - [Writing JSON-LD code for rich search results with a recipe](#writing-json-ld-code-for-rich-search-results-with-a-recipe)
+  - [Testing and previewing the rich results code](#testing-and-previewing-the-rich-results-code)
+  - [Challenge: Rich search results for courses](#challenge-rich-search-results-for-courses)
+  - [Solution: Rich search results for courses](#solution-rich-search-results-for-courses)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Appreciating the value of the semantic web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980)
@@ -97,8 +97,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Search]] (2), [[Google]] (1), [[JSON]] (1), ai (1)
 > **Env Vars:** json (1), html (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - semantic (1)
 
 #### Introducing schema.org, a standardized way of describing items
@@ -184,7 +184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), abstract (2), this, (1)
+> **Frameworks & Libraries:** data (3), [[Search]] (2), [[Programming]] (1), generic (1), next (1)
 > **Definitions:** is a  (4)
 > **URLs:** [schema.org](https://schema.org) (2)
 > **CLI Commands:** find (1)
@@ -312,8 +312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (23), [[HTML]] (10), [[Google]] (6), data (5), [[JavaScript]] (5)
 > **Env Vars:** json (22), html (10), w3c (2), url (1), rdf (1)
-> **Code Keywords:** let (4), this. (2), this, (1), type, (1)
 > **URLs:** [schema.org](https://schema.org) (5)
 > **Documentation:** w3c (2), specification (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -324,7 +324,7 @@ created: 2026-04-29
 
 ### 1. Implementing Data Schemes with Microdata
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using itemscope and itemtype to add meaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980)
@@ -391,8 +391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[HTML]] (3), express (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** html (3), url (3), css (1)
-> **Code Keywords:** let (2), this, (2), this. (1), case, (1)
 > **URLs:** [schema.org](https://schema.org) (4)
 > **Definitions:** is a  (1), is an  (1), refers to (1)
 > **Exercise Files:** exercise files (1), starter file (1)
@@ -533,8 +533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), web (2), business (1), [[JSON]] (1), next (1)
 > **Env Vars:** html (4), url (3), tel (2), json (1)
-> **Code Keywords:** let (4), finally, (1), this. (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (3), just like (1)
 > **URLs:** [schema.org](https://schema.org) (2), [nadias-garden.com](https://nadias-garden.com) (1)
@@ -571,7 +571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), type, (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** next (3), data (1), [[Microsoft Office|Office]] (1), [[HTML]] (1), web (1)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [schema.org](https://schema.org) (2)
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), continue (1), case, (1), type, (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Ports:** :30 (4), :00 (1)
 > **Analogies:** for example (4), just like (1)
 > **CLI Commands:** find (3), make (1)
@@ -821,8 +821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (11), [[HTML]] (8), data (7), [[Search]] (2), next (2)
 > **Env Vars:** url (7), html (6), css (1), json (1)
-> **Code Keywords:** let (3), case, (3), this. (3), this, (1), continue (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Cross-References:** previous video (1), later in (1), in the next (1), next video (1)
 > **File Paths:** markup.html (1), googleusercontent.com/menu.html (1)
@@ -971,8 +971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (22), [[HTML]] (12), data (5), [[Fetch]] (1), [[JSON]] (1)
 > **Env Vars:** html (8), url (3), json (1)
-> **Code Keywords:** let (4), include. (1), finally, (1), new, (1), switch (1)
 > **Analogies:** picture (7), for example (1)
 > **CLI Commands:** make (3), find (2)
 > **File Paths:** index.html (2), markup.html (2)
@@ -1015,6 +1015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), data (2), next (1)
 > **URLs:** [schema.org](https://schema.org) (3)
 > **Env Vars:** html (2), w3c (1)
 > **CLI Commands:** make (2)
@@ -1022,7 +1023,6 @@ created: 2026-04-29
 > **Documentation:** w3c (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
-> **Speakers:** - [instructor] (1)
 
 #### Solution: Marking up a document with microdata
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-microdata?u=76281980)
@@ -1065,11 +1065,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** url (1), sku (1)
 > **Versions:** 24.50 (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **URLs:** [schema.org](https://schema.org) (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -1077,7 +1077,7 @@ created: 2026-04-29
 
 ### 2. Working with JSON-LD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing JSON-LD by hand
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980)
@@ -1176,9 +1176,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (9), data (5), [[JavaScript]] (4), [[Google]] (3), [[HTML]] (2)
 > **Env Vars:** json (9), url (1)
 > **URLs:** [schema.org](https://schema.org) (3), [gmail.com](https://gmail.com) (1), [nadias-garden.com](https://nadias-garden.com) (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -1250,8 +1250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (11), data (5), [[HTML]] (4), [[JSON]] (3), web (1)
 > **Env Vars:** json (3), html (3), url (2), create (1)
-> **Code Keywords:** this, (3), continue (1), let (1), throw (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (2)
 > **Cross-References:** previous video (1), as you saw (1), go back to (1), in the next (1)
 > **Ports:** :00 (2), :30 (1)
@@ -1292,6 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (4), [[JSON]] (3), next (1), data (1), web (1)
 > **Env Vars:** json (3), url (1), html (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1)
@@ -1332,9 +1333,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), [[Google]] (3), data (3), web (2), next (1)
 > **Env Vars:** json (5)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [schema.org](https://schema.org) (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -1376,9 +1377,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[JSON]] (1), [[Google]] (1), web (1), next (1)
 > **Env Vars:** json (1), sku (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **URLs:** [schema.org](https://schema.org) (1)
 > **Versions:** 24.50 (1)
 > **Cross-References:** next chapter (1)
@@ -1388,7 +1389,7 @@ created: 2026-04-29
 
 ### 3. Structured Data Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding rich search results from Google
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980)
@@ -1437,8 +1438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (7), [[Search]] (7), data (2), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1613,7 +1614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), include. (1), yield (1), delete (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Search]] (5), [[JSON]] (3), data (1), [[HTML]] (1)
 > **Definitions:** is a  (5), is an  (1), means that (1)
 > **Env Vars:** json (3), url (3)
 > **CLI Commands:** make (5)
@@ -1775,7 +1776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), continue (1), else. (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[Search]] (6), [[JSON]] (3), [[HTML]] (2), data (1)
 > **Env Vars:** json (3), html (2), url (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
@@ -1815,9 +1816,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), data (3), [[Google]] (2), [[HTML]] (2), [[JSON]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** html (2), json (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1873,10 +1874,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[HTML]] (4), [[Google]] (3), [[LinkedIn]] (2), [[JSON]] (1)
 > **Env Vars:** html (4), json (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** super (1)
 > **URLs:** [schema.org](https://schema.org) (1)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** exercise files (1)
@@ -1885,7 +1886,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980)
@@ -1910,6 +1911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), web (3), data (2), [[Search]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** html (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)

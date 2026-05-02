@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Designing%20Microinteractions%20with%20Figma.md)
@@ -40,39 +40,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Microinteractions in Figma
-  - About microinteractions
+  - [Microinteractions in Figma](#microinteractions-in-figma)
+  - [About microinteractions](#about-microinteractions)
 - [**1. Figma Prototyping Basics**](#1-figma-prototyping-basics) (6 videos)
-  - Start prototyping in Figma
-  - Use Figma's presentation mode
-  - Test microinteractions on different devices
-  - Define triggers for interaction
-  - Use Figma's native animation types
-  - Use smart animate for fluid microinteractions
+  - [Start prototyping in Figma](#start-prototyping-in-figma)
+  - [Use Figma's presentation mode](#use-figmas-presentation-mode)
+  - [Test microinteractions on different devices](#test-microinteractions-on-different-devices)
+  - [Define triggers for interaction](#define-triggers-for-interaction)
+  - [Use Figma's native animation types](#use-figmas-native-animation-types)
+  - [Use smart animate for fluid microinteractions](#use-smart-animate-for-fluid-microinteractions)
 - [**2. Simple Microinteractions**](#2-simple-microinteractions) (9 videos)
-  - Create an On Click toggle
-  - Implementing dragging with On Drag
-  - Create a horizontal scrolling effect
-  - Create a vertical scrolling effect
-  - Create a hover effect
-  - Open overlays for messages and notifications
-  - Set a trigger delay for your action
-  - Challenge: Create a background microinteraction
-  - Solution: Create a background microinteraction
+  - [Create an On Click toggle](#create-an-on-click-toggle)
+  - [Implementing dragging with On Drag](#implementing-dragging-with-on-drag)
+  - [Create a horizontal scrolling effect](#create-a-horizontal-scrolling-effect)
+  - [Create a vertical scrolling effect](#create-a-vertical-scrolling-effect)
+  - [Create a hover effect](#create-a-hover-effect)
+  - [Open overlays for messages and notifications](#open-overlays-for-messages-and-notifications)
+  - [Set a trigger delay for your action](#set-a-trigger-delay-for-your-action)
+  - [Challenge: Create a background microinteraction](#challenge-create-a-background-microinteraction)
+  - [Solution: Create a background microinteraction](#solution-create-a-background-microinteraction)
 - [**3. Advanced Microinteractions**](#3-advanced-microinteractions) (7 videos)
-  - Create interactive components in Figma
-  - Create a loading spinner
-  - Implement a download button
-  - Create a volume slider
-  - Create a drop-down menu
-  - Challenge: Create a like button
-  - Solution: Create a like button
+  - [Create interactive components in Figma](#create-interactive-components-in-figma)
+  - [Create a loading spinner](#create-a-loading-spinner)
+  - [Implement a download button](#implement-a-download-button)
+  - [Create a volume slider](#create-a-volume-slider)
+  - [Create a drop-down menu](#create-a-drop-down-menu)
+  - [Challenge: Create a like button](#challenge-create-a-like-button)
+  - [Solution: Create a like button](#solution-create-a-like-button)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Feel confident designing your own Figma microinteraction
+  - [Feel confident designing your own Figma microinteraction](#feel-confident-designing-your-own-figma-microinteraction)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microinteractions in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980)
@@ -93,9 +93,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ux (1), [[Microsoft Products|Products]] (1)
 > **Tools:** figma (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [tetiana] (1)
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (3), finally, (2), interface (1)
+> **Frameworks & Libraries:** web (2), next (1), [[Real-Time]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Figma Prototyping Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start prototyping in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980)
@@ -221,7 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), case, (1), delete (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), [[Prototyping]] (4), next (2)
 > **Tools:** figma (5)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Definitions:** means that (2), is a  (1)
@@ -259,8 +259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **UI Navigation:** click on (4), navigate to (1), open the (1)
-> **Code Keywords:** let (2)
 > **Tools:** figma (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -309,7 +309,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1)
 > **Cross-References:** go back to (4)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -419,8 +418,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Figma (Software)|Figma]] (1), game (1)
 > **UI Navigation:** click on (5), navigate to (3), go to (2), select the (2), dropdown (1)
-> **Code Keywords:** let (7), case, (2), finally, (1)
 > **Cross-References:** go back to (3), previous video (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **Analogies:** for example (3)
@@ -492,7 +491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1), type, (1), static (1), finally, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** click on (4), dropdown (2), go to (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
@@ -600,7 +599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), default, (1), this. (1), type, (1), case, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[User Experience (UX)|User experience]] (1), next (1)
 > **UI Navigation:** select the (4), click on (4), go to (3)
 > **CLI Commands:** make (3)
 > **Tools:** figma (3)
@@ -611,7 +610,7 @@ created: 2026-04-29
 
 ### 2. Simple Microinteractions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an On Click toggle
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980)
@@ -676,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[Zoom]] (2), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** toggle (9), go to (5), click on (3), navigate to (1)
-> **Code Keywords:** let (7)
 > **Exercise Files:** download the (1), exercise file (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
@@ -732,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (3), type, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** navigate to (2), go to (1), select the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -776,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** mobile application (2), next (1)
 > **UI Navigation:** click on (2), go to (2), dropdown (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
@@ -834,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Zoom]] (2), application (1)
 > **UI Navigation:** click on (3), go to (2), checkbox (1)
 > **Cross-References:** go back to (3)
 > **Tools:** figma (2)
@@ -919,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2), type, (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** go to (4), navigate to (1)
 > **CLI Commands:** make (3)
 > **Tools:** figma (1)
@@ -994,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), case, (1), default. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **UI Navigation:** click on (3), dropdown (2), checkbox (1), go to (1)
 > **Cross-References:** go back to (2)
 > **Tools:** figma (2)
@@ -1048,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Zoom]] (1), next (1)
 > **UI Navigation:** select the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
@@ -1149,7 +1148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (3), case, (1), type, (1), default, (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1), click on (1)
 > **Code Identifiers:** iphone (1)
@@ -1158,7 +1157,7 @@ created: 2026-04-29
 
 ### 3. Advanced Microinteractions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create interactive components in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980)
@@ -1253,8 +1252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), [[Prototyping]] (4), [[LinkedIn]] (1)
 > **UI Navigation:** toggle (18), select the (3), click on (3), go to (2), dropdown (2)
-> **Code Keywords:** let (5), interface (1), if, (1), delete (1), type, (1)
 > **Tools:** figma (7)
 > **Cross-References:** go back to (3), earlier in (2)
 > **CLI Commands:** make (3), find (1)
@@ -1368,7 +1367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), finally, (4), case, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Angular]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (2), go to (2), dropdown (1)
 > **Tools:** figma (2)
@@ -1524,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), finally, (3)
+> **Frameworks & Libraries:** next (3), [[Prototyping]] (1)
 > **UI Navigation:** select the (4), click on (4), go to (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** go back to (1)
@@ -1622,7 +1621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1), type, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), next (1)
 > **UI Navigation:** go to (4), dropdown (1), click on (1)
 > **CLI Commands:** make (3)
 > **Tools:** figma (2)
@@ -1746,13 +1745,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** dropdown (17), click on (2), select the (1)
-> **Code Keywords:** finally, (7), let (7), case, (3), type. (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Env Vars:** iso (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is called (1)
+> **Prerequisites:** set up (1)
 
 #### Challenge: Create a like button
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/challenge-create-a-like-button?u=76281980)
@@ -1774,7 +1773,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** default, (1)
 > **Speakers:** - [announcer] (1)
 
 #### Solution: Create a like button
@@ -1876,7 +1874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), type, (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** navigate to (3), go to (2), scroll down (1), click on (1)
 > **CLI Commands:** find (3), make (2)
 > **Code Identifiers:** onclick (1), iphone (1)
@@ -1887,7 +1885,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Feel confident designing your own Figma microinteraction
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980)
@@ -1910,6 +1908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[User Experience Design (UED)|User experience design]] (1), [[Prototyping]] (1), next (1)
 > **Tools:** figma (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

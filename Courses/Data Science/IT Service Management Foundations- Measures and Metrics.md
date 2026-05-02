@@ -30,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Measures%20and%20Metrics.md)
@@ -49,40 +49,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to the course
-  - What you should know
+  - [Welcome to the course](#welcome-to-the-course)
+  - [What you should know](#what-you-should-know)
 - [**1. What Is Your Vision?**](#1-what-is-your-vision) (3 videos)
-  - Start with why
-  - Vision and mission
-  - Cascading goals
+  - [Start with why](#start-with-why)
+  - [Vision and mission](#vision-and-mission)
+  - [Cascading goals](#cascading-goals)
 - [**2. Measurements**](#2-measurements) (7 videos)
-  - Measurements and metrics
-  - What should you measure?
-  - Why do you measure?
-  - Five types of measures
-  - What is measured gets done
-  - Success factors and KPIs
-  - Utility, warranty, and experience
+  - [Measurements and metrics](#measurements-and-metrics)
+  - [What should you measure?](#what-should-you-measure)
+  - [Why do you measure?](#why-do-you-measure)
+  - [Five types of measures](#five-types-of-measures)
+  - [What is measured gets done](#what-is-measured-gets-done)
+  - [Success factors and KPIs](#success-factors-and-kpis)
+  - [Utility, warranty, and experience](#utility-warranty-and-experience)
 - [**3. Measurement Models**](#3-measurement-models) (5 videos)
-  - Measurement models
-  - Planning and evaluation model
-  - Balanced scorecard
-  - Organizational improvement cascade
-  - Measuring outcomes
+  - [Measurement models](#measurement-models)
+  - [Planning and evaluation model](#planning-and-evaluation-model)
+  - [Balanced scorecard](#balanced-scorecard)
+  - [Organizational improvement cascade](#organizational-improvement-cascade)
+  - [Measuring outcomes](#measuring-outcomes)
 - [**4. Assessments and Reporting**](#4-assessments-and-reporting) (7 videos)
-  - Assessments
-  - Gap analysis
-  - SWOT analysis
-  - Customer/user satisfaction
-  - Benchmarking
-  - Maturity assessments
-  - Reporting
+  - [Assessments](#assessments)
+  - [Gap analysis](#gap-analysis)
+  - [SWOT analysis](#swot-analysis)
+  - [Customer/user satisfaction](#customeruser-satisfaction)
+  - [Benchmarking](#benchmarking)
+  - [Maturity assessments](#maturity-assessments)
+  - [Reporting](#reporting)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980)
@@ -173,8 +173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (6), management (2), [[IT Service Management]] (2), [[Cybersecurity]] (2), [[Decision-Making]] (1)
 > **Env Vars:** itil (6), pdf (1)
-> **Code Keywords:** let (2), private (1)
 > **URLs:** [facebook.com](https://facebook.com) (1), [diontraining.com](https://diontraining.com) (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
@@ -199,6 +199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (5), [[IT Service Management]] (1)
 > **Env Vars:** itil (5)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -207,7 +208,7 @@ created: 2026-04-29
 
 ### 1. What Is Your Vision?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start with why
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980)
@@ -310,6 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), [[Engineering]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** imac (1)
 > **Speakers:** - before (1)
@@ -443,8 +445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), hit (1), [[Microsoft Products|Products]] (1), management (1), product (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (2), this. (1), from. (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
@@ -612,9 +614,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), teams (2), data (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** smart (7)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (3), this, (1), else, (1), finally, (1)
 > **Definitions:** is a  (4), is an  (1), stands for (1)
 > **Cross-References:** in the next (3)
 > **Analogies:** for example (1)
@@ -623,7 +625,7 @@ created: 2026-04-29
 
 ### 2. Measurements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measurements and metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980)
@@ -764,7 +766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (1), teams (1), [[Microsoft Word|Word]] (1), management (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
@@ -827,8 +829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), static (1)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - when (1)
 
@@ -931,8 +933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[ITIL]] (2)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (5), else. (1)
 > **Env Vars:** itil (2), xyz (2)
 > **Analogies:** for instance (2), for example (1)
 > **Versions:** 99.999 (1)
@@ -1134,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (5), this, (1)
+> **Frameworks & Libraries:** product (4), next (3), [[Search]] (1), [[Security]] (1), data (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** prince2 (3)
 > **Definitions:** is a  (2), known as (1)
@@ -1262,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), case, (1)
+> **Frameworks & Libraries:** management (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
@@ -1432,9 +1434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (5), next (3), management (2), data (2), [[IT Service Management]] (1)
 > **Env Vars:** kpi (9), itil (5), psf (1)
 > **Definitions:** means that (3), is a  (2), refers to (1), known as (1), is an  (1)
-> **Code Keywords:** let (3), finally, (2), this, (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (4)
 > **Versions:** 99.999 (4)
@@ -1576,7 +1578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), interface (2)
+> **Frameworks & Libraries:** product (3), web (1), [[Security]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (4), known as (1), is an  (1), means that (1)
 > **Env Vars:** sla (4), xla (1)
 > **Cross-References:** in the last (1), we discussed (1), go back to (1)
@@ -1588,7 +1590,7 @@ created: 2026-04-29
 
 ### 3. Measurement Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measurement models
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurement-models?u=76281980)
@@ -1609,8 +1611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
@@ -1771,11 +1773,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Decision-Making]] (1), next (1), data (1), management (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the last (3)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (2), for example (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Speakers:** - measurements (1)
 
 #### Balanced scorecard
@@ -1883,8 +1885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), business (3), product (3), [[Microsoft Products|Products]] (2), generic (1)
 > **Definitions:** is a  (4), is called (1)
-> **Code Keywords:** yield (1), continue (1)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - the (1)
@@ -1954,7 +1956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** business (2), teams (2), [[Web Development]] (1), [[ITIL]] (1)
 > **Env Vars:** itil (1), prince2 (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -2132,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (1), pass (1), interface (1)
+> **Frameworks & Libraries:** data (2), product (2), [[User Experience (UX)|User experience]] (2), [[Agile Development|Agile]] (1), hit (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
@@ -2141,7 +2143,7 @@ created: 2026-04-29
 
 ### 4. Assessments and Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980)
@@ -2172,6 +2174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** swot (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - in (1)
@@ -2227,7 +2230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1), continue (1), this, (1), require (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2), management (2), product (1), teams (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -2273,8 +2276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (5), management (1), business (1), product (1)
 > **Env Vars:** swot (10)
-> **Code Keywords:** finally, (2), case, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
@@ -2339,8 +2342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** from. (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
@@ -2438,7 +2441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Problem Management]] (1), business (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), for example (1)
 > **Definitions:** known as (1)
@@ -2519,6 +2522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Software Development]] (1), hit (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
@@ -2581,8 +2585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Performance Metrics]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** for, (1), this, (1)
 > **Code Identifiers:** myaxelos (1), myitil (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** roi (1)
@@ -2591,7 +2595,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980)
@@ -2644,8 +2648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (9), [[IT Service Management]] (2), data (1), next (1), [[Organizational Change Management]] (1)
 > **Env Vars:** itil (9), swot (1)
-> **Code Keywords:** finally, (1), continue (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **URLs:** [diontraining.com](https://diontraining.com) (1)
 > **Analogies:** such as (1)

@@ -32,7 +32,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/sketching
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Sketching%20For%20Ux%20Designers.md)
@@ -51,37 +51,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Sketching for UX designers
+  - [Sketching for UX designers](#sketching-for-ux-designers)
 - [**1. Sketching and Design**](#1-sketching-and-design) (5 videos)
-  - Why we sketch
-  - When to sketch
-  - Tools you'll need
-  - Digital tools
-  - Choosing the right fidelity
+  - [Why we sketch](#why-we-sketch)
+  - [When to sketch](#when-to-sketch)
+  - [Tools you'll need](#tools-youll-need)
+  - [Digital tools](#digital-tools)
+  - [Choosing the right fidelity](#choosing-the-right-fidelity)
 - [**2. Basic Techniques**](#2-basic-techniques) (9 videos)
-  - Breaking down a mockup
-  - Warming up
-  - Getting started on the sketch
-  - Line weights
-  - Sketching variants
-  - Hatching, cross-hatching, and shading
-  - Markers
-  - Challenge: Design brief
-  - Solution: Design critique
+  - [Breaking down a mockup](#breaking-down-a-mockup)
+  - [Warming up](#warming-up)
+  - [Getting started on the sketch](#getting-started-on-the-sketch)
+  - [Line weights](#line-weights)
+  - [Sketching variants](#sketching-variants)
+  - [Hatching, cross-hatching, and shading](#hatching-cross-hatching-and-shading)
+  - [Markers](#markers)
+  - [Challenge: Design brief](#challenge-design-brief)
+  - [Solution: Design critique](#solution-design-critique)
 - [**3. Other Sketching Formats**](#3-other-sketching-formats) (7 videos)
-  - Example: Capture sheets
-  - 3D and perspective
-  - Hatching and shadows
-  - Example: Storyboards
-  - Drawing people simply
-  - Annotations and labels
-  - Digital sketching
+  - [Example: Capture sheets](#example-capture-sheets)
+  - [3D and perspective](#3d-and-perspective)
+  - [Hatching and shadows](#hatching-and-shadows)
+  - [Example: Storyboards](#example-storyboards)
+  - [Drawing people simply](#drawing-people-simply)
+  - [Annotations and labels](#annotations-and-labels)
+  - [Digital sketching](#digital-sketching)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next with your sketching?
+  - [What's next with your sketching?](#whats-next-with-your-sketching)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sketching for UX designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980)
@@ -114,14 +114,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (6), ux (2), [[User Experience Design (UED)|User experience design]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [matt] (1)
 
 
 ### 1. Sketching and Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why we sketch
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980)
@@ -206,8 +206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (10), next (3), [[User Experience (UX)|User experience]] (2), ux (2), web (1)
 > **Analogies:** imagine (2), for example (1), picture (1)
-> **Code Keywords:** this, (1), finally, (1), let (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - sketching (1), - finally (1)
 > **Definitions:** is a  (1)
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Sketching]] (5), ux (2), [[Microsoft Products|Products]] (1), game (1), product (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -355,7 +355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Sketching]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - good (1)
@@ -399,6 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Sketching]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ipad (1)
 > **Definitions:** is a  (1)
@@ -497,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), continue (2), this. (1)
+> **Frameworks & Libraries:** product (2), [[Microsoft Office|Office]] (2), functional (1), power (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
@@ -506,7 +507,7 @@ created: 2026-04-29
 
 ### 2. Basic Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down a mockup
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/breaking-down-a-mockup?u=76281980)
@@ -561,8 +562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -627,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Sketching]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - often (1)
@@ -791,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** power (3), [[Customer Support]] (1), [[Sketching]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we mentioned (2)
 > **Definitions:** is a  (2)
@@ -872,8 +873,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** switch (2), raise (1), interface (1), this, (1)
 > **UI Navigation:** switch to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -973,6 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (2), power (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** make (1)
@@ -1090,8 +1092,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
 > **Cross-References:** go back to (1)
@@ -1210,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), switch (3), this. (2), for. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** switch to (3)
 > **Cross-References:** in the next (1)
@@ -1267,7 +1269,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), from. (1)
 > **UI Navigation:** open the (1), switch to (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1355,7 +1356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** [[Sketching]] (3), next (2), ux (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -1365,7 +1366,7 @@ created: 2026-04-29
 
 ### 3. Other Sketching Formats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Example: Capture sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/example-capture-sheets?u=76281980)
@@ -1434,8 +1435,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (2), business (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), case, (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -1516,7 +1517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2)
+> **Frameworks & Libraries:** parallel (3), [[Vertex]] (2), ux (1), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -1637,7 +1638,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** let (2), this, (2), interface (1), from. (1), from, (1)
 > **Analogies:** imagine (3), just like (2), for example (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - now (1)
@@ -1687,7 +1687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), for, (1), this. (1)
+> **Frameworks & Libraries:** [[Customer Support]] (3), [[User Experience (UX)|User experience]] (1), hit (1), ux (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - storyboards (1)
@@ -1813,7 +1813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** ux (1), next (1)
 > **Analogies:** just like (3), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -1919,7 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), static (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** similar to (2), just like (1)
 > **UI Navigation:** switch to (1)
@@ -2050,8 +2050,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (4), ux (1)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** switch (4), let (2), this, (2), require (1)
 > **Code Identifiers:** ipad (6)
 > **UI Navigation:** switch to (3), go to (2)
 > **Analogies:** just like (3), for example (1), imagine (1)
@@ -2062,7 +2062,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next with your sketching?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980)
@@ -2119,7 +2119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try, (1), class. (1), finally, (1)
+> **Frameworks & Libraries:** ux (4), [[Sketching]] (4), next (2), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **Speakers:** - in (1)
 
 

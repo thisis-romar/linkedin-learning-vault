@@ -32,7 +32,7 @@ tags:
   - skill/cybersecurity
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure-%20Security%20Concepts.md)
@@ -51,34 +51,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Microsoft Azure security concepts
-  - What you should know
+  - [Microsoft Azure security concepts](#microsoft-azure-security-concepts)
+  - [What you should know](#what-you-should-know)
 - [**1. Security Principles in the Cloud**](#1-security-principles-in-the-cloud) (7 videos)
-  - A security approach: The importance of securing
-  - Terminology: Understanding the security terms
-  - Defense in depth approach
-  - Transferring security concepts to the cloud
-  - Exploring the security portals
-  - Enabling Microsoft Defender for Cloud
-  - Understanding the security scores
+  - [A security approach: The importance of securing](#a-security-approach-the-importance-of-securing)
+  - [Terminology: Understanding the security terms](#terminology-understanding-the-security-terms)
+  - [Defense in depth approach](#defense-in-depth-approach)
+  - [Transferring security concepts to the cloud](#transferring-security-concepts-to-the-cloud)
+  - [Exploring the security portals](#exploring-the-security-portals)
+  - [Enabling Microsoft Defender for Cloud](#enabling-microsoft-defender-for-cloud)
+  - [Understanding the security scores](#understanding-the-security-scores)
 - [**2. Security Concepts for the Azure Cloud**](#2-security-concepts-for-the-azure-cloud) (5 videos)
-  - Managing and securing resources in Azure
-  - Exploring Microsoft Entra ID security features
-  - Why are passwords such a bad idea?
-  - Enabling multifactor authentication for a user
-  - Exploring identity governance
+  - [Managing and securing resources in Azure](#managing-and-securing-resources-in-azure)
+  - [Exploring Microsoft Entra ID security features](#exploring-microsoft-entra-id-security-features)
+  - [Why are passwords such a bad idea?](#why-are-passwords-such-a-bad-idea)
+  - [Enabling multifactor authentication for a user](#enabling-multifactor-authentication-for-a-user)
+  - [Exploring identity governance](#exploring-identity-governance)
 - [**3. Secure Your Azure Resources**](#3-secure-your-azure-resources) (5 videos)
-  - Secure resources using Microsoft Defender for Cloud: General settings
-  - Secure resources using Microsoft Defender for Cloud: Cloud security settings
-  - Secure resources using Microsoft Defender for Cloud: Management settings
-  - Use Microsoft Sentinel to secure your infrastructure
-  - Use Microsoft XDR to secure your infrastructure
+  - [Secure resources using Microsoft Defender for Cloud: General settings](#secure-resources-using-microsoft-defender-for-cloud-general-settings)
+  - [Secure resources using Microsoft Defender for Cloud: Cloud security settings](#secure-resources-using-microsoft-defender-for-cloud-cloud-security-settings)
+  - [Secure resources using Microsoft Defender for Cloud: Management settings](#secure-resources-using-microsoft-defender-for-cloud-management-settings)
+  - [Use Microsoft Sentinel to secure your infrastructure](#use-microsoft-sentinel-to-secure-your-infrastructure)
+  - [Use Microsoft XDR to secure your infrastructure](#use-microsoft-xdr-to-secure-your-infrastructure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Deepen your understanding of Azure security
+  - [Deepen your understanding of Azure security](#deepen-your-understanding-of-azure-security)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Azure security concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980)
@@ -97,6 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Microsoft]] (3), [[Privacy]] (1)
 > **Speakers:** - digital (1)
 
 #### What you should know
@@ -122,13 +123,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Microsoft 365]] (4), [[Microsoft]] (3), cloud (2), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Security Principles in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A security approach: The importance of securing
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980)
@@ -265,8 +267,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (24), [[Security]] (24), [[Microsoft Azure]] (9), [[SaaS|Software as a service]] (8), data (8)
 > **Analogies:** for example (6), such as (2)
-> **Code Keywords:** public (2), private (1), let (1), interface (1), for, (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** find (2)
 > **Best Practices:** the key is (2)
@@ -469,9 +471,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), [[Microsoft Azure|Azure]] (26), [[Security]] (17), management (10), [[Network Security]] (9)
 > **Definitions:** is a  (9), known as (1), is an  (1), is called (1), defined as (1)
 > **Env Vars:** vpn (5), smb (2), rbac (1), tls (1), https (1)
-> **Code Keywords:** let (4), require (3), private (1), case, (1)
 > **Analogies:** for example (3), such as (2)
 > **Prerequisites:** configure (2), required to (1), you need to have (1)
 > **CLI Commands:** find (2), make (1)
@@ -569,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), cloud (3), [[Microsoft Azure|Azure]] (3), data (2), [[Windows]] (1)
 > **Definitions:** is a  (3), is an  (2), means that (1)
-> **Code Keywords:** case, (2), new, (1), from. (1), public (1)
 > **Analogies:** compare this to (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -698,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), let (1), type, (1), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Security]] (13), management (9), data (4), database (4)
 > **Env Vars:** iam (2), https (2), ssl (2), sql (1)
 > **Analogies:** for example (6)
 > **UI Navigation:** click on (4)
@@ -792,6 +794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[Microsoft Defender]] (16), [[Microsoft]] (12), cloud (7), [[Microsoft Defender|Defender]] (6)
 > **Env Vars:** xdr (6), siem (3), soar (3), mfa (1), aws (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (3), such as (1)
@@ -855,6 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), [[Microsoft Defender|Defender]] (16), [[Microsoft Defender]] (6), [[Security]] (5), [[Microsoft Azure|Azure]] (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -934,11 +938,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (18), [[Microsoft]] (5), [[Microsoft Azure|Azure]] (3), cloud (3), [[Microsoft Defender|Defender]] (3)
 > **Env Vars:** xdr (4), aws (1), mfa (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** aws (1), make (1)
-> **Code Keywords:** case, (2)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** note that (2)
 > **Cross-References:** previous video (1)
@@ -946,7 +950,7 @@ created: 2026-04-29
 
 ### 2. Security Concepts for the Azure Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing and securing resources in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980)
@@ -1035,10 +1039,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), management (5), [[Microsoft Entra ID|Entra id]] (2)
 > **Definitions:** is a  (3), is called (2), is an  (1)
 > **UI Navigation:** click on (3), scroll down (1), go to (1)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** let (1), from, (1), case, (1)
 > **Warnings:** note that (3)
 > **Cross-References:** earlier in (1), go back to (1)
 > **CLI Commands:** find (1)
@@ -1219,12 +1223,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (19), [[Security]] (11), [[Microsoft Azure|Azure]] (6), management (5), [[Microsoft Entra ID|Entra]] (3)
 > **UI Navigation:** toggle (5), click on (4), go to (1), scroll down (1)
 > **Definitions:** is a  (5), means that (2), is an  (1)
 > **Analogies:** for example (6), such as (2)
 > **Env Vars:** mfa (3), api (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** interface (1), from, (1), self (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Cross-References:** previous video (1)
 
@@ -1311,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), case, (2), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (4), [[Microsoft Word|Word]] (3), [[Multi-factor Authentication]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft 365]] (2)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -1430,11 +1434,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Microsoft Entra ID|Entra id]] (4), application (3), [[Microsoft Outlook|Outlook]] (3), [[Windows]] (1)
 > **Definitions:** is a  (3), means that (3), is called (1), is an  (1)
 > **Env Vars:** mfa (4), sms (1)
 > **UI Navigation:** click on (3), go to (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** default, (2), let (1)
 > **Analogies:** such as (2), for example (1)
 > **Ports:** :00 (2)
 > **Tools:** azure portal (1)
@@ -1510,9 +1514,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (2), management (2), next (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Entra id]] (1)
 > **Env Vars:** pim (3)
 > **Definitions:** means that (1), is a  (1), is called (1)
-> **Code Keywords:** require (1), private (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -1522,7 +1526,7 @@ created: 2026-04-29
 
 ### 3. Secure Your Azure Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure resources using Microsoft Defender for Cloud: General settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980)
@@ -1613,7 +1617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), else. (1), protected (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (9), cloud (7), [[Microsoft Defender]] (4), next (2), [[Microsoft]] (2)
 > **Cross-References:** earlier in (2), in the next (1), previous video (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** you need to have (1), configure (1)
@@ -1685,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), interface (1)
+> **Frameworks & Libraries:** [[Security]] (14), cloud (9), [[Microsoft]] (7), data (6), [[DevOps]] (5)
 > **Definitions:** is an  (1), is called (1), is a  (1), means that (1)
 > **Env Vars:** mcsb (2), sql (1)
 > **Analogies:** such as (2), for example (1)
@@ -1775,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), default, (1), interface (1)
+> **Frameworks & Libraries:** cloud (12), [[Security]] (11), [[Microsoft Defender|Defender]] (8), [[Microsoft Azure|Azure]] (6), [[Microsoft Defender]] (3)
 > **Env Vars:** cspm (2), mcsb (2), aws (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** aws (1)
@@ -1856,9 +1860,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (11), [[Microsoft Azure|Azure]] (9), [[Security]] (4), cloud (3), [[Analytics]] (3)
 > **Definitions:** is a  (6), is an  (2)
 > **Prerequisites:** install (4), set up (1)
-> **Code Keywords:** function (1), interface (1), public (1)
 > **Env Vars:** siem (1), mitre (1), att (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1), find (1)
@@ -1972,8 +1976,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (17), [[Microsoft Defender]] (16), [[Microsoft]] (14), data (11), [[Microsoft Defender|Defender]] (9)
 > **Env Vars:** xdr (12), smtp (3), url (1), isp (1)
-> **Code Keywords:** interface (7), let (1)
 > **Analogies:** for example (4), such as (3)
 > **UI Navigation:** click on (3), go to (2)
 > **CLI Commands:** find (3)
@@ -1984,7 +1988,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deepen your understanding of Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980)
@@ -2005,6 +2009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Microsoft]] (5), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1), next (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)

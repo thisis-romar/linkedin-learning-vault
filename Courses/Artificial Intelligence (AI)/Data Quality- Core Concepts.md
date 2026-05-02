@@ -29,7 +29,7 @@ tags:
   - skill/data-management
   - skill/data-quality
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data%20Quality-%20Core%20Concepts.md)
@@ -48,60 +48,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The importance of data quality
+  - [The importance of data quality](#the-importance-of-data-quality)
 - [**1. Data Quality Fundamentals**](#1-data-quality-fundamentals) (16 videos)
-  - Data quality introduction
-  - Impact of poor data quality
-  - Defining data quality
-  - Data quality dimensions: Intro
-  - DQ dimensions: Validity, completeness, consistency
-  - DQ dimensions: Integrity, timeliness, currency
-  - DQ dimensions: Reasonableness, uniqueness, accuracy
-  - Common data quality assessment frameworks
-  - Connecting data quality to business outcomes: Intro
-  - Thought exercise: Ecommerce
-  - Thought exercise: Understand the business model
-  - Thought exercise: Map your data lifecycle
-  - Thought exercise: Identify your stakeholders
-  - Thought exercise: Evaluate how stakeholders drive revenue
-  - Thought exercise: Assess how DQ impacts revenue and risk
-  - Thought exercise: Synthesize research and communicate ROI
+  - [Data quality introduction](#data-quality-introduction)
+  - [Impact of poor data quality](#impact-of-poor-data-quality)
+  - [Defining data quality](#defining-data-quality)
+  - [Data quality dimensions: Intro](#data-quality-dimensions-intro)
+  - [DQ dimensions: Validity, completeness, consistency](#dq-dimensions-validity-completeness-consistency)
+  - [DQ dimensions: Integrity, timeliness, currency](#dq-dimensions-integrity-timeliness-currency)
+  - [DQ dimensions: Reasonableness, uniqueness, accuracy](#dq-dimensions-reasonableness-uniqueness-accuracy)
+  - [Common data quality assessment frameworks](#common-data-quality-assessment-frameworks)
+  - [Connecting data quality to business outcomes: Intro](#connecting-data-quality-to-business-outcomes-intro)
+  - [Thought exercise: Ecommerce](#thought-exercise-ecommerce)
+  - [Thought exercise: Understand the business model](#thought-exercise-understand-the-business-model)
+  - [Thought exercise: Map your data lifecycle](#thought-exercise-map-your-data-lifecycle)
+  - [Thought exercise: Identify your stakeholders](#thought-exercise-identify-your-stakeholders)
+  - [Thought exercise: Evaluate how stakeholders drive revenue](#thought-exercise-evaluate-how-stakeholders-drive-revenue)
+  - [Thought exercise: Assess how DQ impacts revenue and risk](#thought-exercise-assess-how-dq-impacts-revenue-and-risk)
+  - [Thought exercise: Synthesize research and communicate ROI](#thought-exercise-synthesize-research-and-communicate-roi)
 - [**2. Data Quality Across the Data Lifecycle**](#2-data-quality-across-the-data-lifecycle) (13 videos)
-  - Data lifecycle introduction
-  - Data lifecycle overview
-  - Data lifecycle stakeholders: Business
-  - Data lifecycle stakeholders: Engineers
-  - Data lifecycle stakeholders: Data
-  - DQ across the lifecycle: Business strategy
-  - DQ across the lifecycle: Data creation
-  - DQ across the lifecycle: Data acquisition
-  - DQ across the lifecycle: Transactional databases
-  - DQ across the lifecycle: ETL/ELT pipelines
-  - DQ across the lifecycle: Analytical databases
-  - DQ across the lifecycle: Data analytics and data products
-  - DQ across the lifecycle: Data/insights consumption
+  - [Data lifecycle introduction](#data-lifecycle-introduction)
+  - [Data lifecycle overview](#data-lifecycle-overview)
+  - [Data lifecycle stakeholders: Business](#data-lifecycle-stakeholders-business)
+  - [Data lifecycle stakeholders: Engineers](#data-lifecycle-stakeholders-engineers)
+  - [Data lifecycle stakeholders: Data](#data-lifecycle-stakeholders-data)
+  - [DQ across the lifecycle: Business strategy](#dq-across-the-lifecycle-business-strategy)
+  - [DQ across the lifecycle: Data creation](#dq-across-the-lifecycle-data-creation)
+  - [DQ across the lifecycle: Data acquisition](#dq-across-the-lifecycle-data-acquisition)
+  - [DQ across the lifecycle: Transactional databases](#dq-across-the-lifecycle-transactional-databases)
+  - [DQ across the lifecycle: ETL/ELT pipelines](#dq-across-the-lifecycle-etlelt-pipelines)
+  - [DQ across the lifecycle: Analytical databases](#dq-across-the-lifecycle-analytical-databases)
+  - [DQ across the lifecycle: Data analytics and data products](#dq-across-the-lifecycle-data-analytics-and-data-products)
+  - [DQ across the lifecycle: Data/insights consumption](#dq-across-the-lifecycle-datainsights-consumption)
 - [**3. Common Data Quality Issues and How to Measure Them**](#3-common-data-quality-issues-and-how-to-measure-them) (8 videos)
-  - Introduction to issues and measurements
-  - Root cause analysis: RCA
-  - Null rates
-  - Data freshness and timeliness
-  - Schema changes
-  - Data transformation bugs
-  - Data drift
-  - Measuring data quality
+  - [Introduction to issues and measurements](#introduction-to-issues-and-measurements)
+  - [Root cause analysis: RCA](#root-cause-analysis-rca)
+  - [Null rates](#null-rates)
+  - [Data freshness and timeliness](#data-freshness-and-timeliness)
+  - [Schema changes](#schema-changes)
+  - [Data transformation bugs](#data-transformation-bugs)
+  - [Data drift](#data-drift)
+  - [Measuring data quality](#measuring-data-quality)
 - [**4. Data Quality Tooling**](#4-data-quality-tooling) (6 videos)
-  - Introduction to tooling
-  - Data dictionaries
-  - Data catalogs
-  - Data lineage
-  - Data monitoring and observability
-  - Data contracts
+  - [Introduction to tooling](#introduction-to-tooling)
+  - [Data dictionaries](#data-dictionaries)
+  - [Data catalogs](#data-catalogs)
+  - [Data lineage](#data-lineage)
+  - [Data monitoring and observability](#data-monitoring-and-observability)
+  - [Data contracts](#data-contracts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of data quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980)
@@ -130,13 +130,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (9), ai (2), business (2)
 > **Speakers:** - we (1)
 
 
 ### 1. Data Quality Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data quality introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-introdution?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (3), business (1)
 > **Speakers:** - in (1)
 
 #### Impact of poor data quality
@@ -223,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), case, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (10), business (3), hit (1), management (1), [[Financial Data]] (1)
 > **Env Vars:** jama (2), sec (2), ehr (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -331,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (47), business (6), career (1)
 > **Env Vars:** dama (5), dmbok (1)
-> **Code Keywords:** for, (2), finally, (2), from. (1)
 > **Definitions:** is a  (4), defined as (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), we talked about (1)
@@ -361,9 +361,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2), career (1)
 > **Env Vars:** dama (3)
 > **Cross-References:** in the next (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### DQ dimensions: Validity, completeness, consistency
@@ -431,9 +431,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), data (5), [[LinkedIn]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### DQ dimensions: Integrity, timeliness, currency
@@ -501,8 +501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), business (3), next (2), career (1)
 > **Analogies:** for instance (3), for example (2)
-> **Code Keywords:** case, (2), else, (1), this. (1)
 > **Env Vars:** sla (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -573,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), business (3), hr (2), [[Analytics]] (2), [[SQL]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -641,8 +641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** from. (1), this. (1)
 > **Env Vars:** dama (2)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
@@ -675,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (3), business (3), leadership (1)
 > **Cross-References:** in the next (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -696,6 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -721,6 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[E-Commerce]] (1), data (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -755,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (11), business (3), [[Search]] (2), [[E-Commerce]] (1), [[Microservices]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -786,9 +788,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), teams (3), ux (2), next (2), [[Analytics]] (2)
 > **Cross-References:** in the next (2), previous video (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -813,6 +815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), leadership (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -836,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (2), teams (1), product (1), [[Analytics]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -909,10 +912,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), business (4), product (4), [[Analytics]] (2), teams (2)
 > **Env Vars:** roi (3)
 > **Analogies:** for example (1), for instance (1), it's like (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** in other words (1), means that (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** caveat (1)
@@ -921,7 +924,7 @@ created: 2026-04-29
 
 ### 2. Data Quality Across the Data Lifecycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data lifecycle introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980)
@@ -936,6 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (2), [[Data Acquisition]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Databases]] (1)
 > **Speakers:** - in (1)
 
 #### Data lifecycle overview
@@ -997,11 +1001,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), database (6), next (3), product (3), business (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1), similar to (1), such as (1)
 > **Env Vars:** etl (1), elt (1)
 > **Cross-References:** in the last (1), in the next (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Data lifecycle stakeholders: Business
@@ -1027,9 +1031,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), business (8), product (3), [[LinkedIn]] (1), [[Analytics]] (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1068,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** data (18), product (3), ai (3), database (2), [[Analytics]] (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1092,8 +1096,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Analytics]] (2), database (1), [[Dashboards]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1144,7 +1148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** data (13), business (3)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1196,7 +1200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), finally, (1)
+> **Frameworks & Libraries:** data (17), product (4), business (2), next (1), [[Forms]] (1)
 > **Analogies:** similar to (2), such as (1), for example (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
@@ -1243,9 +1247,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), api (5), business (3), [[Microsoft Products|Products]] (1), hr (1)
 > **Env Vars:** api (5), sftp (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1305,8 +1309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Databases]] (8), database (6), [[NoSQL]] (3), product (3)
 > **Env Vars:** json (2), acid (2)
-> **Code Keywords:** self (1), this. (1), from, (1)
 > **Definitions:** is a  (1), stands for (1), known as (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
@@ -1359,9 +1363,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), database (3), next (1), etl (1), business (1)
 > **Env Vars:** elt (2), etl (1)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### DQ across the lifecycle: Analytical databases
@@ -1417,7 +1421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2), finally, (2)
+> **Frameworks & Libraries:** data (39), [[Databases]] (5), database (2), cloud (2), next (1)
 > **Analogies:** it's like (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1493,9 +1497,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Statistics]] (7), product (7), [[Analytics]] (6), database (4)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1558,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), require (1)
+> **Frameworks & Libraries:** data (22), business (4), [[Dashboards]] (3), next (2)
 > **CLI Commands:** make (2), go run (1)
 > **Env Vars:** sla (1)
 > **Speakers:** - [instructor] (1)
@@ -1566,7 +1570,7 @@ created: 2026-04-29
 
 ### 3. Common Data Quality Issues and How to Measure Them
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to issues and measurements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-issues-and-measurements?u=76281980)
@@ -1579,7 +1583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (2), business (1)
 > **Speakers:** - in (1)
 
 #### Root cause analysis: RCA
@@ -1615,7 +1619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (12), [[Databases]] (1), database (1), [[Data Transformation]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** rca (2)
 > **Definitions:** is called (1), is a  (1)
@@ -1674,7 +1678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), finally, (1), break. (1)
+> **Frameworks & Libraries:** data (13), database (4), product (2), [[SQL]] (1), business (1)
 > **Env Vars:** sql (1), etl (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1710,7 +1714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (8), database (2), [[Databases]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -1785,8 +1789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), business (6), database (3), teams (2), [[Engineering]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), case. (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1829,8 +1833,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (7), business (3), [[Databases]] (2), [[Data Transformation]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Env Vars:** etl (1)
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
@@ -1879,8 +1883,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (1), [[Analytics]] (1), [[Statistics]] (1), product (1)
 > **Analogies:** such as (1), for instance (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Measuring data quality
@@ -1930,8 +1934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[E-Commerce]] (1), database (1)
 > **Code Identifiers:** customerid (2), totalamount (2), paymentdate (2)
-> **Code Keywords:** pass (1), case, (1), finally, (1), this. (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** dama (1)
 > **Cross-References:** we covered (1)
@@ -1942,7 +1946,7 @@ created: 2026-04-29
 
 ### 4. Data Quality Tooling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to tooling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-tooling?u=76281980)
@@ -1953,6 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
@@ -1987,6 +1992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Databases]] (2), database (2), [[Google]] (1), cloud (1)
 > **Analogies:** such as (2)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
@@ -2041,8 +2047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Metadata]] (6), [[Search]] (3), database (2), [[Databases]] (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (2), this, (1)
 > **Analogies:** similar to (2), for instance (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
@@ -2106,8 +2112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Databases]] (3), next (2), [[Microservices]] (2), [[SQL]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -2150,6 +2156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Debugging]] (2), next (1), [[Databases]] (1), database (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -2204,7 +2211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), extends (1), case, (1)
+> **Frameworks & Libraries:** data (24), database (4), teams (2), [[Metadata]] (2), [[Databases]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (2), such as (1)
 > **Env Vars:** yaml (1), cicd (1)
@@ -2216,7 +2223,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980)
@@ -2237,6 +2244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1), [[Databases]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - thank (1)
 

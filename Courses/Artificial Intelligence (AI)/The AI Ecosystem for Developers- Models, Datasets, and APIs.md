@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20AI%20Ecosystem%20for%20Developers-%20Models%2C%20Datasets%2C%20and%20APIs.md)
@@ -54,56 +54,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with the AI ecosystem
-  - What you should know
+  - [Getting started with the AI ecosystem](#getting-started-with-the-ai-ecosystem)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding the AI Ecosystem**](#1-understanding-the-ai-ecosystem) (5 videos)
-  - What is interesting about AI?
-  - Components of the AI ecosystem
-  - Open-source vs. closed-source AI systems
-  - AI repositories and hosting platforms
-  - AI ethics, bias, and privacy
+  - [What is interesting about AI?](#what-is-interesting-about-ai)
+  - [Components of the AI ecosystem](#components-of-the-ai-ecosystem)
+  - [Open-source vs. closed-source AI systems](#open-source-vs-closed-source-ai-systems)
+  - [AI repositories and hosting platforms](#ai-repositories-and-hosting-platforms)
+  - [AI ethics, bias, and privacy](#ai-ethics-bias-and-privacy)
 - [**2. AI Models and Architecture**](#2-ai-models-and-architecture) (6 videos)
-  - Introduction to AI models and architecture
-  - NLP architectures: RNNs and transformers
-  - Computer vision architectures: CNNs and vision transformers
-  - Generative architectures: Diffusion and GANs
-  - Multimodal architectures: CLIP and Flamingo
-  - Efficient architectures
+  - [Introduction to AI models and architecture](#introduction-to-ai-models-and-architecture)
+  - [NLP architectures: RNNs and transformers](#nlp-architectures-rnns-and-transformers)
+  - [Computer vision architectures: CNNs and vision transformers](#computer-vision-architectures-cnns-and-vision-transformers)
+  - [Generative architectures: Diffusion and GANs](#generative-architectures-diffusion-and-gans)
+  - [Multimodal architectures: CLIP and Flamingo](#multimodal-architectures-clip-and-flamingo)
+  - [Efficient architectures](#efficient-architectures)
 - [**3. AI Datasets**](#3-ai-datasets) (7 videos)
-  - Introduction to AI datasets
-  - Foundational AI image datasets
-  - Explore CIFAR-10 image dataset
-  - Foundational AI text datasets
-  - Explore Brown Corpus text dataset
-  - Foundational AI speech datasets
-  - Explore LibriSpeech dataset
+  - [Introduction to AI datasets](#introduction-to-ai-datasets)
+  - [Foundational AI image datasets](#foundational-ai-image-datasets)
+  - [Explore CIFAR-10 image dataset](#explore-cifar-10-image-dataset)
+  - [Foundational AI text datasets](#foundational-ai-text-datasets)
+  - [Explore Brown Corpus text dataset](#explore-brown-corpus-text-dataset)
+  - [Foundational AI speech datasets](#foundational-ai-speech-datasets)
+  - [Explore LibriSpeech dataset](#explore-librispeech-dataset)
 - [**4. AI APIs: Access and Integration**](#4-ai-apis-access-and-integration) (11 videos)
-  - What are AI application programming interfaces (APIs)?
-  - Explore Hugging Face
-  - Product sentiment analysis with Hugging Face model
-  - Explore OpenAI developer platform
-  - Image generation using OpenAI API
-  - Explore Google AI Studio
-  - Create a conversational chatbot using the Google Gemini API
-  - Explore GitHub Models
-  - Compare GitHub Models and run in Codespaces
-  - Generate code and architecture with GitHub Models
-  - Accessing AI models via cloud providers
+  - [What are AI application programming interfaces (APIs)?](#what-are-ai-application-programming-interfaces-apis)
+  - [Explore Hugging Face](#explore-hugging-face)
+  - [Product sentiment analysis with Hugging Face model](#product-sentiment-analysis-with-hugging-face-model)
+  - [Explore OpenAI developer platform](#explore-openai-developer-platform)
+  - [Image generation using OpenAI API](#image-generation-using-openai-api)
+  - [Explore Google AI Studio](#explore-google-ai-studio)
+  - [Create a conversational chatbot using the Google Gemini API](#create-a-conversational-chatbot-using-the-google-gemini-api)
+  - [Explore GitHub Models](#explore-github-models)
+  - [Compare GitHub Models and run in Codespaces](#compare-github-models-and-run-in-codespaces)
+  - [Generate code and architecture with GitHub Models](#generate-code-and-architecture-with-github-models)
+  - [Accessing AI models via cloud providers](#accessing-ai-models-via-cloud-providers)
 - [**5. AI  Resources and Community**](#5-ai-resources-and-community) (8 videos)
-  - AI development tools and frameworks: IDEs
-  - AI development tools and frameworks: ML frameworks
-  - AI development tools and frameworks: Debugging and versioning
-  - AI development tools and frameworks: Data annotation
-  - AI computing infrastructure
-  - AI research platforms
-  - AI model rankings: Leaderboards, benchmarks, and evaluation trends
-  - AI interoperability standards: Model Context Protocol (MCP)
+  - [AI development tools and frameworks: IDEs](#ai-development-tools-and-frameworks-ides)
+  - [AI development tools and frameworks: ML frameworks](#ai-development-tools-and-frameworks-ml-frameworks)
+  - [AI development tools and frameworks: Debugging and versioning](#ai-development-tools-and-frameworks-debugging-and-versioning)
+  - [AI development tools and frameworks: Data annotation](#ai-development-tools-and-frameworks-data-annotation)
+  - [AI computing infrastructure](#ai-computing-infrastructure)
+  - [AI research platforms](#ai-research-platforms)
+  - [AI model rankings: Leaderboards, benchmarks, and evaluation trends](#ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends)
+  - [AI interoperability standards: Model Context Protocol (MCP)](#ai-interoperability-standards-model-context-protocol-mcp)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with the AI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980)
@@ -128,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), data (1)
 > **Speakers:** - we (1)
 
 #### What you should know
@@ -147,6 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -155,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Understanding the AI Ecosystem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is interesting about AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980)
@@ -190,6 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (2), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), picture (1)
 > **CLI Commands:** make (1)
@@ -302,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), ai (23), [[Algorithms]] (11), [[Deep Learning]] (3), power (3)
 > **CLI Commands:** make (3), find (1), aws (1)
-> **Code Keywords:** function (1), let (1), public (1), require (1)
 > **Analogies:** such as (3), just like (1)
 > **Env Vars:** tpu (1), aws (1)
 > **Definitions:** is a  (1)
@@ -384,6 +387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (4), [[Security]] (3), [[Algorithms]] (1), feature (1)
 > **Env Vars:** mit (1), gpl (1), api (1)
 > **Exercise Files:** source code (2)
 > **Analogies:** just like (1), such as (1)
@@ -521,9 +525,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), [[PyTorch]] (5), [[TensorFlow]] (4), [[Version Control]] (3), [[Hugging Face]] (3)
 > **Definitions:** is a  (9), means that (1), is an  (1)
 > **Env Vars:** nlp (2), uci (2), bert (1), gpt (1), aws (1)
-> **Code Keywords:** let (2), private (1), public (1)
 > **CLI Commands:** find (1), aws (1), make (1)
 > **Tools:** github (3)
 > **Analogies:** such as (1)
@@ -640,7 +644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** ai (31), data (14), [[Privacy]] (6), [[Accountability]] (4), [[Ethics]] (2)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
@@ -649,7 +653,7 @@ created: 2026-04-29
 
 ### 2. AI Models and Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI models and architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980)
@@ -716,10 +720,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (12), [[Scalability]] (2), [[Decision-Making]] (2), chatbot (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** function (1)
 > **Env Vars:** nlp (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - if (1)
@@ -809,8 +813,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (5), ai (3), data (3), [[Microsoft Word|Word]] (3), [[Neural Networks]] (2)
 > **Env Vars:** nlp (5), gpt (3), lstm (2), bert (2)
-> **Code Keywords:** self (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -922,9 +926,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Computer Vision]] (5), ai (4), feature (2), nlp (2)
 > **Analogies:** such as (5), for example (2)
 > **Env Vars:** nlp (2), cnn (1), bert (1)
-> **Code Keywords:** self (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1019,9 +1023,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (3), [[Generative AI]] (1), [[Stable Diffusion]] (1), [[Neural Networks]] (1)
 > **Env Vars:** gan (4), ddpm (1), dcgan (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** super (1)
 > **Speakers:** - [instructor] (1)
 
 #### Multimodal architectures: CLIP and Flamingo
@@ -1111,6 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (5), cnn (1), [[Search]] (1), [[Tokens]] (1)
 > **Env Vars:** clip (9), cnn (1), vqa (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1253,17 +1258,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (3), [[Google]] (2), mobile application (1), cloud (1)
 > **Env Vars:** bert (5), cnn (1), nlp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
-> **Code Keywords:** function (1), case, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. AI Datasets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980)
@@ -1364,8 +1369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), ai (16), application (4), [[Algorithms]] (2), [[Supervised Learning]] (2)
 > **Analogies:** such as (6), for example (3)
-> **Code Keywords:** type, (2), public (2), from. (1), type. (1), require (1)
 > **Env Vars:** json (1), xml (1), nlp (1), gpt3 (1), gdpr (1)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** make (3)
@@ -1492,6 +1497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Computer Vision]] (4), cnn (4), [[Deep Learning]] (3), data (1)
 > **Env Vars:** cnn (4), mnist (3), cifar (3), coco (3), voc (2)
 > **Analogies:** such as (4), for example (2)
 > **Versions:** 1.2 (1), 1.5 (1)
@@ -1557,7 +1563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), from. (1)
+> **Frameworks & Libraries:** ai (6), [[TensorFlow]] (2), [[Google]] (2), data (2), next (1)
 > **Code Identifiers:** load_data (1), x_train (1), y_train (1), display_cifar (1)
 > **Tools:** colab (4)
 > **Definitions:** is a  (2), is an  (2)
@@ -1639,6 +1645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (7), ai (5), data (4), [[Information Retrieval]] (3), [[Algorithms]] (2)
 > **Env Vars:** nlp (7), bert (2), glue (2), ptb (1), gpt (1)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is a  (4)
@@ -1717,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), return. (1), function (1)
+> **Frameworks & Libraries:** ai (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nltk (4), ide (1)
 > **Tools:** colab (2)
 > **CLI Commands:** python (1)
@@ -1791,9 +1798,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Speech Recognition]] (5), data (2), ai (2), [[Google]] (2), [[Authentication Systems]] (1)
 > **Env Vars:** timit (1), mit (1), sri (1), asr (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** public (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1916,7 +1923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), this, (2), function (2), for. (1)
+> **Frameworks & Libraries:** data (10), ai (2), [[PyTorch]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** speaker_id (3), sample_rate (2), chapter_id (2), data_dir (1), utterance_id (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** ide (1), librispeech (1)
@@ -1928,7 +1935,7 @@ created: 2026-04-29
 
 ### 4. AI APIs: Access and Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are AI application programming interfaces (APIs)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980)
@@ -2009,9 +2016,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (25), api (11), data (4), application (3), [[Application Programming Interfaces (API)|Application programming interfaces]] (2)
 > **Env Vars:** api (11), sota (1), http (1), rest (1)
 > **Analogies:** just like (2), for example (1), such as (1)
-> **Code Keywords:** interface (2), return. (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -2140,7 +2147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), this, (3), let (2), this. (2), for. (1)
+> **Frameworks & Libraries:** [[Search]] (11), [[Hugging Face]] (6), [[Natural Language Processing (NLP)|Natural language processing]] (4), ai (2), [[Computer Vision]] (2)
 > **Analogies:** for example (4), such as (2)
 > **UI Navigation:** click on (5)
 > **Env Vars:** jax (1), peft (1), api (1)
@@ -2224,7 +2231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), case. (1)
+> **Frameworks & Libraries:** product (3), [[Hugging Face]] (3), data (3), [[Search]] (2), next (2)
 > **Env Vars:** bert (3), cpu (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (3)
@@ -2322,8 +2329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), ai (3), [[GPT-4]] (2), application (2), [[Programming]] (2)
 > **Env Vars:** gpt (7), api (7), dall (1), net (1)
-> **Code Keywords:** interface (4), for, (1), case, (1), this, (1), function (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (2), for example (1)
@@ -2452,7 +2459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), interface (2), this, (2), function (1), this. (1)
+> **Frameworks & Libraries:** prompt (6), [[DALL-E]] (5), api (3), [[Python (Programming Language)|Python]] (3), traffic (2)
 > **Env Vars:** url (6), api (3)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2573,7 +2580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), interface (2), let (2), case. (2), lambda (1)
+> **Frameworks & Libraries:** [[Google]] (14), ai (9), [[Gemini]] (7), api (7), prompt (3)
 > **Env Vars:** api (7), rest (1)
 > **Versions:** 2.5 (7)
 > **CLI Commands:** make (2), python (1)
@@ -2673,7 +2680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** chatbot (9), [[Gemini]] (6), [[Generative AI]] (5), next (4), [[Google]] (3)
 > **Code Identifiers:** user_input (2), start_chat (1), send_message (1)
 > **CLI Commands:** python (1), pip (1)
 > **Env Vars:** api (2)
@@ -2727,8 +2734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (9), ai (5), [[LLaMA]] (2), next (2), [[Version Control]] (1)
 > **Tools:** github (10)
-> **Code Keywords:** this, (1), interface (1), let (1)
 > **CLI Commands:** git (1), find (1)
 > **Versions:** 0.1 (1), version 3 (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -2823,7 +2830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), for. (2), self (1), interface (1)
+> **Frameworks & Libraries:** [[GitHub]] (11), [[Microsoft Copilot|Copilot]] (6), ai (5), prompt (2), [[Microsoft Azure|Azure]] (2)
 > **Tools:** github (11)
 > **UI Navigation:** click on (3), go to (1), toggle (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -2885,7 +2892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), this. (1)
+> **Frameworks & Libraries:** ai (5), application (3), [[GitHub]] (2), prompt (2), chatbot (2)
 > **Versions:** 25.01 (2), 24.11 (2)
 > **Env Vars:** api (2)
 > **Tools:** github (2)
@@ -2953,9 +2960,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), data (6), [[Generative AI]] (4), [[Microsoft Azure|Azure]] (4), cloud (3)
 > **Env Vars:** aws (2), gcp (2), api (1), nlp (1), gui (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** interface (2), public (1), this, (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** aws (2), find (1)
 > **Documentation:** the documentation (1)
@@ -2964,7 +2971,7 @@ created: 2026-04-29
 
 ### 5. AI  Resources and Community
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI development tools and frameworks: IDEs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980)
@@ -3011,6 +3018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Python (Programming Language)|Python]] (4), [[Java]] (3), data (3), cloud (3)
 > **CLI Commands:** python (4), aws (1)
 > **Tools:** jupyter (3), visual studio (1)
 > **Env Vars:** aws (1), ide (1)
@@ -3047,6 +3055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), ai (2), data (2), [[Hardware]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
@@ -3165,12 +3174,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), ai (11), [[Debugging]] (7), [[Git]] (4), cloud (3)
 > **Env Vars:** cuda (3), gpu (2), aws (2), nvidia (1), smi (1)
 > **CLI Commands:** git (4), aws (2), docker (1)
 > **Analogies:** for example (4), such as (2)
 > **URLs:** [neptune.ai](https://neptune.ai) (2)
 > **Tools:** vs code (1), pycharm (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** source code (1)
 > **Warnings:** troubleshoot (1)
 
@@ -3261,7 +3270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), self (1), public (1), private (1)
+> **Frameworks & Libraries:** data (19), ai (7), teams (4), management (3), cloud (2)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** cvat (1)
 > **Definitions:** is a  (1)
@@ -3342,10 +3351,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), cloud (11), data (7), [[Hardware]] (4), power (2)
 > **Env Vars:** gpu (3)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** set up (1), install (1), setup (1)
-> **Code Keywords:** require (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3424,11 +3433,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Google]] (3), [[Computer Vision]] (2), [[Search]] (2), career (1)
 > **Env Vars:** icml (1), iclr (1), cvpr (1), acl (1), emnlp (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), cargo (1)
 > **URLs:** [arxiv.org](https://arxiv.org) (1), [cs.ai](https://cs.ai) (1)
-> **Code Keywords:** public (1)
 > **Code Identifiers:** arxiv (1)
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
@@ -3558,9 +3567,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (12), [[Large Language Models (LLM)|Large language models]] (3), llm (2), [[Engineering]] (1)
 > **Env Vars:** roc (2), llm (2), bleu (1), rouge (1), mae (1)
 > **Analogies:** for example (2), imagine (1), such as (1), picture (1)
-> **Code Keywords:** let (1), function (1), public (1), this, (1)
 > **Tools:** github (1), notion (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3665,16 +3674,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), [[Metadata]] (1), cloud (1), data (1), [[Orchestration]] (1)
 > **Env Vars:** mcp (6), api (1)
 > **Analogies:** for example (2), think of it as (1), just like (1)
-> **Code Keywords:** require (2), pass (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980)
@@ -3707,8 +3716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (2), next (1), [[Reinforcement Learning]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** cargo (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** nlp (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)

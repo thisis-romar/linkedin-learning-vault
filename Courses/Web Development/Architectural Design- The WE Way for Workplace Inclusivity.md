@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Architectural%20Design-%20The%20WE%20Way%20for%20Workplace%20Inclusivity.md)
@@ -40,33 +40,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to the WE Way
-  - The four keys of the WE Way: Your commons, sanctuary, neighborhood, and cocoon
+  - [Welcome to the WE Way](#welcome-to-the-we-way)
+  - [The four keys of the WE Way: Your commons, sanctuary, neighborhood, and cocoon](#the-four-keys-of-the-we-way-your-commons-sanctuary-neighborhood-and-cocoon)
 - [**1. Your Commons**](#1-your-commons) (4 videos)
-  - Your commons: Where your space speaks
-  - Your commons: Take ownership of your authentic story to the world
-  - Your commons: Your space as an invitation to foster diversity, inclusion, and belonging
-  - Your commons: The practice
+  - [Your commons: Where your space speaks](#your-commons-where-your-space-speaks)
+  - [Your commons: Take ownership of your authentic story to the world](#your-commons-take-ownership-of-your-authentic-story-to-the-world)
+  - [Your commons: Your space as an invitation to foster diversity, inclusion, and belonging](#your-commons-your-space-as-an-invitation-to-foster-diversity-inclusion-and-belonging)
+  - [Your commons: The practice](#your-commons-the-practice)
 - [**2. Your Sanctuary**](#2-your-sanctuary) (4 videos)
-  - Your sanctuary: Where your people restore, recuperate, and rejuvenate
-  - Your sanctuary: Your space as a warm invitation to bring your whole self to work
-  - Your sanctuary: Build delight into the workplace
-  - Your sanctuary: The practice
+  - [Your sanctuary: Where your people restore, recuperate, and rejuvenate](#your-sanctuary-where-your-people-restore-recuperate-and-rejuvenate)
+  - [Your sanctuary: Your space as a warm invitation to bring your whole self to work](#your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work)
+  - [Your sanctuary: Build delight into the workplace](#your-sanctuary-build-delight-into-the-workplace)
+  - [Your sanctuary: The practice](#your-sanctuary-the-practice)
 - [**3. Your Neighborhood**](#3-your-neighborhood) (4 videos)
-  - Your neighborhood: Where your people connect
-  - Your neighborhood: Reimagine your back office
-  - Your neighborhood: Become a conductor of human connection
-  - Your neighborhood: The practice
+  - [Your neighborhood: Where your people connect](#your-neighborhood-where-your-people-connect)
+  - [Your neighborhood: Reimagine your back office](#your-neighborhood-reimagine-your-back-office)
+  - [Your neighborhood: Become a conductor of human connection](#your-neighborhood-become-a-conductor-of-human-connection)
+  - [Your neighborhood: The practice](#your-neighborhood-the-practice)
 - [**4. Your Cocoon**](#4-your-cocoon) (3 videos)
-  - Your cocoon: Love and honor your worker
-  - Your cocoon: Where your people focus
-  - Your cocoon: The practice
+  - [Your cocoon: Love and honor your worker](#your-cocoon-love-and-honor-your-worker)
+  - [Your cocoon: Where your people focus](#your-cocoon-where-your-people-focus)
+  - [Your cocoon: The practice](#your-cocoon-the-practice)
 - [**Conclusion**](#conclusion) (1 videos)
-  - A call to action
+  - [A call to action](#a-call-to-action)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the WE Way
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980)
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 
@@ -167,7 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1)
+> **Frameworks & Libraries:** business (1), next (1), teams (1), game (1)
 > **Definitions:** known as (1), refers to (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - whether (1)
@@ -175,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Your Commons
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your commons: Where your space speaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980)
@@ -252,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** power (1), cloud (1), business (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1), apt (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** imagine (2)
@@ -317,8 +318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Storytelling]] (1)
 > **Env Vars:** nasa (4)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - by (1)
 
@@ -379,8 +380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (1)
 > **Env Vars:** ada (1), dni (1), gdp (1)
-> **Code Keywords:** require (1)
 > **Versions:** 2.6 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - good (1)
@@ -456,14 +457,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1), continue (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
 
 
 ### 2. Your Sanctuary
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your sanctuary: Where your people restore, recuperate, and rejuvenate
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-where-your-people-restore-recuperate-and-rejuvenate?u=76281980)
@@ -504,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - our (1)
 
@@ -554,6 +555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Wellness]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1), express (1)
 > **CLI Commands:** make (1)
 > **Versions:** 16.5 (1)
 > **Speakers:** - where (1)
@@ -595,8 +597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - architectural (1)
@@ -666,14 +668,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** next (4), business (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
 
 
 ### 3. Your Neighborhood
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your neighborhood: Where your people connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980)
@@ -752,7 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), type. (1), let (1), case, (1)
+> **Frameworks & Libraries:** teams (4), [[Microsoft Office|Office]] (2), business (2), game (1), hr (1)
 > **Analogies:** for example (1), similar to (1), for instance (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
@@ -805,6 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), functional (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)
 
@@ -863,8 +866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), functional (1), business (1), game (1), next (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** remember to (1)
@@ -935,14 +938,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), continue (1)
+> **Frameworks & Libraries:** next (4), teams (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - well (1)
 
 
 ### 4. Your Cocoon
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your cocoon: Love and honor your worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980)
@@ -1001,6 +1004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wellness]] (1), [[Privacy]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1055,7 +1059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), continue (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), next (1), [[Google]] (1)
 > **Speakers:** - work (1)
 
 #### Your cocoon: The practice
@@ -1137,14 +1141,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - great (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A call to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/a-call-to-action?u=76281980)
@@ -1179,8 +1183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this: (1)
 > **Speakers:** - well (1)
 
 

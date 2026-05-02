@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Lookup%20Functions%20in%20Depth.md)
@@ -45,37 +45,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Transform your Excel skills with in-depth lookup functions
+  - [Transform your Excel skills with in-depth lookup functions](#transform-your-excel-skills-with-in-depth-lookup-functions)
 - [**1. Locating Data with MATCH, INDEX, and XMATCH Functions**](#1-locating-data-with-match-index-and-xmatch-functions) (3 videos)
-  - Locating data with the MATCH and XMATCH functions
-  - Retrieving information by location with the INDEX function
-  - Using the XMATCH and INDEX functions together
+  - [Locating data with the MATCH and XMATCH functions](#locating-data-with-the-match-and-xmatch-functions)
+  - [Retrieving information by location with the INDEX function](#retrieving-information-by-location-with-the-index-function)
+  - [Using the XMATCH and INDEX functions together](#using-the-xmatch-and-index-functions-together)
 - [**2. VLOOKUP, HLOOKUP, and XLOOKUP**](#2-vlookup-hlookup-and-xlookup) (5 videos)
-  - Structuring data for use with lookup functions
-  - Finding exact and approximate matches with VLOOKUP and HLOOKUP
-  - Using the XLOOKUP function for exact matches
-  - Using the XLOOKUP function for approximate matches
-  - New and expanded capabilities using XLOOKUP
+  - [Structuring data for use with lookup functions](#structuring-data-for-use-with-lookup-functions)
+  - [Finding exact and approximate matches with VLOOKUP and HLOOKUP](#finding-exact-and-approximate-matches-with-vlookup-and-hlookup)
+  - [Using the XLOOKUP function for exact matches](#using-the-xlookup-function-for-exact-matches)
+  - [Using the XLOOKUP function for approximate matches](#using-the-xlookup-function-for-approximate-matches)
+  - [New and expanded capabilities using XLOOKUP](#new-and-expanded-capabilities-using-xlookup)
 - [**3. Finding Matching Data Without Using External Lists**](#3-finding-matching-data-without-using-external-lists) (2 videos)
-  - Finding table-like information within a function using the CHOOSE function
-  - Using the SWITCH function for formula-embedded selection
+  - [Finding table-like information within a function using the CHOOSE function](#finding-table-like-information-within-a-function-using-the-choose-function)
+  - [Using the SWITCH function for formula-embedded selection](#using-the-switch-function-for-formula-embedded-selection)
 - [**4. Other Functions with Lookup Capabilities**](#4-other-functions-with-lookup-capabilities) (4 videos)
-  - Extracting and counting unique entries using the UNIQUE function
-  - Using FILTER and CHOOSECOLS for multiple column retrieval
-  - Use the SORT and SORTBY functions to create new lists
-  - Use the INDIRECT function to return references specified by text strings
+  - [Extracting and counting unique entries using the UNIQUE function](#extracting-and-counting-unique-entries-using-the-unique-function)
+  - [Using FILTER and CHOOSECOLS for multiple column retrieval](#using-filter-and-choosecols-for-multiple-column-retrieval)
+  - [Use the SORT and SORTBY functions to create new lists](#use-the-sort-and-sortby-functions-to-create-new-lists)
+  - [Use the INDIRECT function to return references specified by text strings](#use-the-indirect-function-to-return-references-specified-by-text-strings)
 - [**5. Recently Introduced Functions with Lookup Capabilities**](#5-recently-introduced-functions-with-lookup-capabilities) (5 videos)
-  - CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns
-  - TAKE and DROP: Copy from lists selecting or ignoring consecutive rows or columns
-  - TOROW and TOCOL: Convert array data into a single row or column
-  - WRAPROWS and WRAPCOLS: Convert row or column data into an array
-  - VSTACK and HSTACK: Stack multiple arrays into a vertical or horizontal array
+  - [CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns](#chooserows-and-choosecols-return-lists-with-selected-rows-or-columns)
+  - [TAKE and DROP: Copy from lists selecting or ignoring consecutive rows or columns](#take-and-drop-copy-from-lists-selecting-or-ignoring-consecutive-rows-or-columns)
+  - [TOROW and TOCOL: Convert array data into a single row or column](#torow-and-tocol-convert-array-data-into-a-single-row-or-column)
+  - [WRAPROWS and WRAPCOLS: Convert row or column data into an array](#wraprows-and-wrapcols-convert-row-or-column-data-into-an-array)
+  - [VSTACK and HSTACK: Stack multiple arrays into a vertical or horizontal array](#vstack-and-hstack-stack-multiple-arrays-into-a-vertical-or-horizontal-array)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your next steps in Excel
+  - [Your next steps in Excel](#your-next-steps-in-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your Excel skills with in-depth lookup functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980)
@@ -96,13 +96,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** xlookup (1), filter (1), sort (1), drop (1)
 > **Speakers:** - [dennis] (1)
 
 
 ### 1. Locating Data with MATCH, INDEX, and XMATCH Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Locating data with the MATCH and XMATCH functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980)
@@ -241,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (5), match, (3), match. (3), include, (1)
+> **Frameworks & Libraries:** [[Search]] (8), next (4), data (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1)
@@ -382,8 +383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), power (1)
 > **Env Vars:** index (7), counta (5), t13 (1), u14 (1)
-> **Code Keywords:** function (8), this, (2), let (1), case, (1)
 > **SQL:** index (7)
 > **Versions:** 23.60 (1), 19.86 (1)
 > **CLI Commands:** make (1)
@@ -552,8 +553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), product (3), data (1)
 > **Env Vars:** index (9), xmatch (7), match (4), a14 (1), f14 (1)
-> **Code Keywords:** match, (4), let (3), function (2), this, (1), this. (1)
 > **SQL:** index (9)
 > **Analogies:** imagine (4)
 > **CLI Commands:** find (1)
@@ -564,7 +565,7 @@ created: 2026-04-29
 
 ### 2. VLOOKUP, HLOOKUP, and XLOOKUP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring data for use with lookup functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980)
@@ -643,7 +644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (6), throw (1), function (1), match, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** xlookup (2), vlookup (2), hlookup (1)
 > **Warnings:** keep in mind (2), note that (1), be careful (1)
 > **CLI Commands:** make (2)
@@ -746,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2)
 > **Env Vars:** vlookup (7), hlookup (4), false (1), lookup (1)
-> **Code Keywords:** match, (4), this, (2), function (2), else, (1), match. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -852,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2), game (1), [[Microsoft Word|Word]] (1), power (1)
 > **Env Vars:** xlookup (4), vlookup (4), hlookup (4)
-> **Code Keywords:** function (3), this, (2), match, (2), match. (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is an  (1), in other words (1)
 > **Cross-References:** we talked about (1)
@@ -947,8 +948,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (2), [[Search]] (1)
 > **Env Vars:** xlookup (6), vlookup (4)
-> **Code Keywords:** match, (4), match. (1), let (1), if, (1), function (1)
 > **CLI Commands:** find (4), make (2)
 > **Versions:** 3.5 (1), 4.5 (1)
 > **UI Navigation:** go to (1)
@@ -1119,8 +1120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft Excel|Excel]] (3), data (2)
 > **Env Vars:** xlookup (7), vlookup (2), hlookup (2), xmatch (2)
-> **Code Keywords:** match. (2), function (2), let (2), for. (1), for, (1)
 > **CLI Commands:** find (6), make (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -1131,7 +1132,7 @@ created: 2026-04-29
 
 ### 3. Finding Matching Data Without Using External Lists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding table-like information within a function using the CHOOSE function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980)
@@ -1308,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), require (4), for. (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Cross-References:** coming up (1), go back to (1)
@@ -1404,7 +1405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), switch (7), this, (3), let (2), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (3), data (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** switch (7), choose (4), xlookup (4), ifs (1), fair (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1414,7 +1415,7 @@ created: 2026-04-29
 
 ### 4. Other Functions with Lookup Capabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extracting and counting unique entries using the UNIQUE function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980)
@@ -1547,7 +1548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), type = (1), this. (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (5), [[Microsoft]] (1), next (1)
 > **Env Vars:** unique (6), b999 (1), true (1)
 > **UI Navigation:** scroll up (1), click on (1)
 > **Definitions:** is called (1), is a  (1)
@@ -1700,7 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (4), this, (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), feature (1), [[React.js|React]] (1)
 > **Env Vars:** filter (5), choosecols (3), e999 (1), b999 (1), empl (1)
 > **Analogies:** imagine (4), for example (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -1832,7 +1833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), this. (1), case, (1), include, (1)
+> **Frameworks & Libraries:** data (9), [[Zoom]] (2), next (1)
 > **Definitions:** is a  (2), in other words (2), refers to (1)
 > **Env Vars:** e999 (1), d999 (1), a999 (1)
 > **Analogies:** similar to (2), imagine (1)
@@ -1934,7 +1935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), type = (2), case, (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** indirect (6), a12 (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
 > **Definitions:** is a  (2)
@@ -1944,7 +1945,7 @@ created: 2026-04-29
 
 ### 5. Recently Introduced Functions with Lookup Capabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980)
@@ -2101,8 +2102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** chooserows (8), choosecols (7), xlookup (5), empl (3)
-> **Code Keywords:** function (6), let (6), from. (1), this. (1), this, (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (2)
@@ -2217,8 +2218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** drop (3), index (1)
-> **Code Keywords:** while, (1), this. (1), let (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** coming up (2)
 > **Analogies:** imagine (2)
@@ -2342,8 +2343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), next (1)
 > **Env Vars:** torow (5), tocol (2)
-> **Code Keywords:** function (5), this. (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), in the menu (1)
 > **Definitions:** in other words (2)
@@ -2477,8 +2478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), business (2), [[Zoom]] (1)
 > **Env Vars:** wrapcols (5), wraprows (5), f16 (2), tocol (1), torow (1)
-> **Code Keywords:** function (4), continue (1), delete (1), this, (1)
 > **Analogies:** imagine (4), for example (2)
 > **Definitions:** is called (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -2604,8 +2605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), next (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** vstack (8), hstack (8), groupby (2)
-> **Code Keywords:** let (3), function (2), this. (1), delete (1), case, (1)
 > **UI Navigation:** double-click (2), scroll up (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
@@ -2615,7 +2616,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980)
@@ -2638,6 +2639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1), [[LinkedIn]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [lecturer] (1)
 

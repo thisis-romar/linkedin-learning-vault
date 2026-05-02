@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Social%20Engineering.md)
@@ -48,46 +48,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Defining social engineering
-  - What you should know
-  - Hacking ethically
+  - [Defining social engineering](#defining-social-engineering)
+  - [What you should know](#what-you-should-know)
+  - [Hacking ethically](#hacking-ethically)
 - [**1. Grasping Social Engineering**](#1-grasping-social-engineering) (4 videos)
-  - Hacking the human
-  - Visualizing the victim
-  - Skills of a social engineer
-  - Recognize an attack
+  - [Hacking the human](#hacking-the-human)
+  - [Visualizing the victim](#visualizing-the-victim)
+  - [Skills of a social engineer](#skills-of-a-social-engineer)
+  - [Recognize an attack](#recognize-an-attack)
 - [**2. Social Engineering Mechanisms**](#2-social-engineering-mechanisms) (8 videos)
-  - Using charm, power, and influence
-  - Employing browsers for social engineering
-  - Evaluating add-ons and extensions
-  - Deploying mobile-based attacks
-  - Manipulating with social media
-  - Disclosing private information
-  - Challenge: Avoiding online dating scams
-  - Solution: Avoiding online dating scams
+  - [Using charm, power, and influence](#using-charm-power-and-influence)
+  - [Employing browsers for social engineering](#employing-browsers-for-social-engineering)
+  - [Evaluating add-ons and extensions](#evaluating-add-ons-and-extensions)
+  - [Deploying mobile-based attacks](#deploying-mobile-based-attacks)
+  - [Manipulating with social media](#manipulating-with-social-media)
+  - [Disclosing private information](#disclosing-private-information)
+  - [Challenge: Avoiding online dating scams](#challenge-avoiding-online-dating-scams)
+  - [Solution: Avoiding online dating scams](#solution-avoiding-online-dating-scams)
 - [**3. Misusing Trust**](#3-misusing-trust) (4 videos)
-  - Disgruntled employees
-  - Steal an identity
-  - Challenge: Monitoring your employees
-  - Solution: Monitoring your employees
+  - [Disgruntled employees](#disgruntled-employees)
+  - [Steal an identity](#steal-an-identity)
+  - [Challenge: Monitoring your employees](#challenge-monitoring-your-employees)
+  - [Solution: Monitoring your employees](#solution-monitoring-your-employees)
 - [**4. Penetration Testing with Social Engineering**](#4-penetration-testing-with-social-engineering) (5 videos)
-  - Using email and websites in social engineering
-  - In person and on the phone
-  - Exploring the social engineering toolkit
-  - Going phishing
-  - Using the social engineering toolkit
+  - [Using email and websites in social engineering](#using-email-and-websites-in-social-engineering)
+  - [In person and on the phone](#in-person-and-on-the-phone)
+  - [Exploring the social engineering toolkit](#exploring-the-social-engineering-toolkit)
+  - [Going phishing](#going-phishing)
+  - [Using the social engineering toolkit](#using-the-social-engineering-toolkit)
 - [**5. Avoiding Social Engineering**](#5-avoiding-social-engineering) (5 videos)
-  - Defending against social engineering
-  - Understanding spam
-  - Preventing spoofed email
-  - Preventing insider attacks
-  - Properly disposing of data and media
+  - [Defending against social engineering](#defending-against-social-engineering)
+  - [Understanding spam](#understanding-spam)
+  - [Preventing spoofed email](#preventing-spoofed-email)
+  - [Preventing insider attacks](#preventing-insider-attacks)
+  - [Properly disposing of data and media](#properly-disposing-of-data-and-media)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining social engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defining-social-engineering-19401131?u=76281980)
@@ -114,8 +114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (2), [[Ethical Hacking]] (2), [[Security]] (1), power (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [lisa (1)
 
 #### What you should know
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (4), [[Security]] (3), [[Ethical Hacking]] (2), [[Kali Linux]] (1)
 > **Analogies:** such as (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -157,12 +158,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
 > **Speakers:** - [voiceover] (1)
 
 
 ### 1. Grasping Social Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hacking the human
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980)
@@ -215,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** [[Engineering]] (10), [[Security]] (1), management (1), [[Phishing]] (1), prompt (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
@@ -281,6 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (4), [[Microsoft Word|Word]] (2), [[Security]] (1)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
@@ -356,6 +359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (2), [[Microsoft Office|Office]] (2)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
@@ -458,15 +462,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (2), node (2)
 > **Speakers:** - hi (4), - okay (4), - [voiceover] (3), - great (2), - hey (2)
-> **Code Keywords:** let (4), case, (1), include, (1), require (1)
 > **CLI Commands:** node (2), make (2)
 > **Warnings:** watch out (1)
 
 
 ### 2. Social Engineering Mechanisms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using charm, power, and influence
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-charm-power-and-influence?u=76281980)
@@ -581,8 +585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (1), power (1)
 > **Speakers:** - oh (4), - [narrator] (3), - hey (3), - yeah (2), - that (2)
-> **Code Keywords:** let (2), protected (1), match. (1)
 > **Definitions:** is a  (4)
 > **Non-Speech:** (ominous music) (3), (alarm beeps) (1)
 > **Analogies:** picture (1)
@@ -678,8 +682,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Privacy]] (4), [[Engineering]] (1), web (1), [[Microsoft]] (1)
 > **Tools:** firefox (5), safari (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -730,9 +734,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), web (1), product (1), [[Engineering]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Tools:** firefox (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [narrator] (1)
@@ -812,10 +816,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Electronics]] (1), [[Search]] (1), [[Banking]] (1), [[Hardware]] (1)
 > **Code Identifiers:** ipads (1), iphone (1), itunes (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
@@ -900,8 +904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (1), public (1), include, (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **CLI Commands:** make (1)
@@ -996,10 +1000,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), [[Privacy]] (6), [[Algorithms]] (1), data (1), [[Engineering]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** private (1)
 > **Cross-References:** we talked about (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [narrator] (1)
@@ -1037,7 +1041,6 @@ created: 2026-04-29
 >
 > **Best Practices:** good practice (1), best practice (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** fbi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1103,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (2)
 > **Analogies:** such as (1), picture (1)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
@@ -1115,7 +1118,7 @@ created: 2026-04-29
 
 ### 3. Misusing Trust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Disgruntled employees
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disgruntled-employees?u=76281980)
@@ -1198,8 +1201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [voiceover] (4), - yeah (4), - hey (1), - wow (1), - hello (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 
@@ -1306,8 +1309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Security]] (4), [[LinkedIn]] (1), [[Engineering]] (1), web (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case, (1), include, (1), public (1), let (1)
 > **Analogies:** such as (4)
 > **Warnings:** be aware (2), keep in mind (1)
 > **Definitions:** is a  (2)
@@ -1342,7 +1345,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Monitoring your employees
@@ -1388,14 +1390,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (2), data (1), [[Engineering]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Penetration Testing with Social Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using email and websites in social engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980)
@@ -1500,6 +1502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Security]] (2), [[JavaScript]] (2), [[Engineering]] (1), web (1)
 > **Env Vars:** irs (2)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** install (2)
@@ -1611,8 +1614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (4), product (1), [[React.js|React]] (1), [[Security]] (1)
 > **Speakers:** - [voiceover] (2), - hey (1), - um (1), - all (1), - i (1)
-> **Code Keywords:** require (2), try. (1), this. (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
@@ -1671,11 +1674,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (7), [[Phishing]] (4), [[Kali Linux]] (3), [[Linux]] (2), open-source (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Env Vars:** set (3)
 > **Analogies:** such as (3)
 > **Prerequisites:** install (2), you'll need (1)
-> **Code Keywords:** this, (2)
 > **Definitions:** is a  (2)
 > **URLs:** [trustedsec.com](https://trustedsec.com) (1)
 > **Tools:** github (1)
@@ -1719,6 +1722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (11)
 > **Env Vars:** spit (1), sms (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -1822,7 +1826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), this, (2), module (1)
+> **Frameworks & Libraries:** [[Engineering]] (8), [[Phishing]] (8), [[Kali Linux]] (3), [[Java]] (3), [[Penetration Testing]] (2)
 > **UI Navigation:** scroll down (1), go to (1), select the (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1834,7 +1838,7 @@ created: 2026-04-29
 
 ### 5. Avoiding Social Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defending against social engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980)
@@ -1945,8 +1949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Engineering]] (4), [[Privacy]] (2), [[Phishing]] (2), [[Hardware]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** public (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
@@ -2013,8 +2017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (1), traffic (1), cloud (1)
 > **UI Navigation:** click on (2), scroll down (2), select the (1)
-> **Code Keywords:** this, (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2057,7 +2061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **Env Vars:** helo (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** scroll down (1)
@@ -2156,9 +2160,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Phishing]] (1), [[Cybersecurity]] (1), [[Engineering]] (1), data (1)
 > **Analogies:** such as (5), for example (2)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** let (1), require (1), this, (1)
 > **Speakers:** - [presenter] (1)
 
 #### Properly disposing of data and media
@@ -2230,7 +2234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), from. (1), super (1)
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** scroll down (2)
 > **Analogies:** such as (1), it's like (1)
 > **CLI Commands:** find (1)
@@ -2240,7 +2244,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980)
@@ -2277,7 +2281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Engineering]] (4), [[Ethical Hacking]] (1), power (1), [[Penetration Testing]] (1), [[Wireshark]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 

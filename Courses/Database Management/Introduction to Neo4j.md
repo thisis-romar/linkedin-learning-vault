@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/neo4j
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20to%20Neo4j.md)
@@ -49,42 +49,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Navigating the world of connected data
+  - [Navigating the world of connected data](#navigating-the-world-of-connected-data)
 - [**1. Introduction**](#1-introduction) (7 videos)
-  - What are graph databases
-  - Types of graph structures for data
-  - Why graph databases?
-  - Good graph database use cases and bad graph database use cases
-  - Introducing Neo4j: A property graph database
-  - Challenge: Is this a connected data problem?
-  - Solution: Is this a connected data problem?
+  - [What are graph databases](#what-are-graph-databases)
+  - [Types of graph structures for data](#types-of-graph-structures-for-data)
+  - [Why graph databases?](#why-graph-databases)
+  - [Good graph database use cases and bad graph database use cases](#good-graph-database-use-cases-and-bad-graph-database-use-cases)
+  - [Introducing Neo4j: A property graph database](#introducing-neo4j-a-property-graph-database)
+  - [Challenge: Is this a connected data problem?](#challenge-is-this-a-connected-data-problem)
+  - [Solution: Is this a connected data problem?](#solution-is-this-a-connected-data-problem)
 - [**2. Getting Started**](#2-getting-started) (6 videos)
-  - Anatomy of a property graph
-  - Getting up and running with Neo4j
-  - Hello, world!
-  - Introducing Cypher
-  - Challenge: Your first Cypher queries
-  - Solution: Your first Cypher queries
+  - [Anatomy of a property graph](#anatomy-of-a-property-graph)
+  - [Getting up and running with Neo4j](#getting-up-and-running-with-neo4j)
+  - [Hello, world!](#hello-world)
+  - [Introducing Cypher](#introducing-cypher)
+  - [Challenge: Your first Cypher queries](#challenge-your-first-cypher-queries)
+  - [Solution: Your first Cypher queries](#solution-your-first-cypher-queries)
 - [**3. Reading Data**](#3-reading-data) (7 videos)
-  - Introducing the course data set
-  - MATCHing nodes
-  - MATCHing nodes and relationships
-  - Counting and aggregating data
-  - Beyond one hop
-  - Challenge: Time to answer some questions
-  - Solution: Time to answer some questions
+  - [Introducing the course data set](#introducing-the-course-data-set)
+  - [MATCHing nodes](#matching-nodes)
+  - [MATCHing nodes and relationships](#matching-nodes-and-relationships)
+  - [Counting and aggregating data](#counting-and-aggregating-data)
+  - [Beyond one hop](#beyond-one-hop)
+  - [Challenge: Time to answer some questions](#challenge-time-to-answer-some-questions)
+  - [Solution: Time to answer some questions](#solution-time-to-answer-some-questions)
 - [**4. Writing Data**](#4-writing-data) (5 videos)
-  - CREATEing your data
-  - Updating and REMOVEing your data
-  - DELETEing your data
-  - Challenge: Putting it all together
-  - Solution: Putting it all together
+  - [CREATEing your data](#createing-your-data)
+  - [Updating and REMOVEing your data](#updating-and-removeing-your-data)
+  - [DELETEing your data](#deleteing-your-data)
+  - [Challenge: Putting it all together](#challenge-putting-it-all-together)
+  - [Solution: Putting it all together](#solution-putting-it-all-together)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating the world of connected data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980)
@@ -105,12 +105,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Databases]] (3), [[Neo4j]] (2), database (1)
 > **Speakers:** - [lulu] (1)
 
 
 ### 1. Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are graph databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980)
@@ -153,7 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1)
+> **Frameworks & Libraries:** [[Databases]] (7), data (5), power (3), database (3), [[Algorithms]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1), is a  (1)
@@ -202,8 +203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Databases]] (2), web (1), node (1)
 > **Env Vars:** rdf (4)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** node (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -281,8 +282,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (7), [[Graphic Design]] (2), [[Databases]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (3), this. (1), this, (1)
 > **Analogies:** for example (2), similar to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
@@ -347,7 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** database (15), data (9), [[Microsoft Products|Products]] (1), [[Databases]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** for example (3), such as (3)
 > **Env Vars:** url (1)
@@ -421,10 +422,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neo4j]] (14), database (9), product (4), data (3), cloud (3)
 > **Definitions:** is a  (5), means that (1)
 > **Tools:** command line (3)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** jdbc (1)
 > **Speakers:** - [instructor] (1)
@@ -450,7 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
@@ -483,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1)
+> **Frameworks & Libraries:** data (9), strengths (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -492,7 +493,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anatomy of a property graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980)
@@ -563,7 +564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (1)
+> **Frameworks & Libraries:** product (5), data (4), [[Microsoft Products|Products]] (3), database (1), generic (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** iso (1)
 > **Analogies:** picture (1)
@@ -624,10 +625,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neo4j]] (8), database (2), data (2), next (1), application (1)
 > **UI Navigation:** go to (1), scroll down (1), select the (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **URLs:** [neo4j.com](https://neo4j.com) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -698,8 +699,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (10), data (7), [[Neo4j]] (1), [[Programming]] (1)
 > **CLI Commands:** node (10), find (1)
-> **Code Keywords:** let (4)
 > **Env Vars:** says (2), create (1), return (1)
 > **UI Navigation:** click on (3)
 > **Cross-References:** in the last (1)
@@ -788,9 +789,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), [[Neo4j]] (2), [[Databases]] (1)
 > **Definitions:** is a  (10), refers to (1)
 > **CLI Commands:** node (9), make (1)
-> **Code Keywords:** let (3), type. (3)
 > **Env Vars:** sap (1), hana (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -818,6 +819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -847,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [lulu] (1)
@@ -856,7 +858,7 @@ created: 2026-04-29
 
 ### 3. Reading Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the course data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980)
@@ -965,8 +967,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), database (6), node (4), [[Neo4j]] (3), [[GitHub]] (2)
 > **CLI Commands:** find (5), node (4), make (2)
-> **Code Keywords:** let (6), from, (1), this. (1)
 > **UI Navigation:** click on (6)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -1053,8 +1055,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (3), node (2)
 > **Env Vars:** return (5), where (5), match (4), limit (1)
-> **Code Keywords:** let (4), match ( (1)
 > **SQL:** where (5)
 > **CLI Commands:** node (2)
 > **Definitions:** is called (1)
@@ -1162,9 +1164,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), data (6), database (1)
 > **CLI Commands:** node (9)
 > **Env Vars:** gpa (6)
-> **Code Keywords:** let (3), type, (1)
 > **Definitions:** is a  (4)
 > **Versions:** 3.98 (2), 3.0 (1)
 > **Best Practices:** good practice (1), remember to (1)
@@ -1280,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (1), function (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (13), [[Neo4j]] (1), database (1), node (1)
 > **CLI Commands:** find (7), node (1), make (1)
 > **Env Vars:** where (4), limit (2), order (2), return (1)
 > **SQL:** where (4), order by (2)
@@ -1425,8 +1427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), database (4), data (3), power (2), next (1)
 > **CLI Commands:** node (11), find (5), make (2)
-> **Code Keywords:** let (5), this. (2), function (2)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** distinct (2)
@@ -1460,6 +1462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** aru (1), gpa (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1524,9 +1527,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), node (3), database (1), data (1)
 > **CLI Commands:** find (4), node (3)
 > **Env Vars:** gpa (5), yes (1), studied_abroad_in (1)
-> **Code Keywords:** let (2), type. (1)
 > **Versions:** 3.75 (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1534,7 +1537,7 @@ created: 2026-04-29
 
 ### 4. Writing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CREATEing your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/createing-your-data?u=76281980)
@@ -1625,9 +1628,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (14), data (8), next (1)
 > **Env Vars:** create (7), match (4), knows (3), merge (2), relationship_type (2)
 > **CLI Commands:** node (14), find (1)
-> **Code Keywords:** let (7), match. (2), case, (2), match, (1), case. (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** nodeproperties (1), relationshipproperties (1)
 > **Speakers:** - [instructor] (1)
@@ -1701,9 +1704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (12), data (6), next (1)
 > **CLI Commands:** node (12)
 > **Env Vars:** set (5), remove (3), sets (1), lsl (1)
-> **Code Keywords:** let (7)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1800,7 +1803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (20), let (7), this. (2), this, (1), while. (1)
+> **Frameworks & Libraries:** database (5), data (4), node (4)
 > **Env Vars:** delete (7), detach (4), apac (2)
 > **API Endpoints:** delete  (6)
 > **CLI Commands:** node (4)
@@ -1859,10 +1862,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (3), [[Graphic Design]] (1), [[Troubleshooting]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (5)
 > **Best Practices:** don't forget (2)
 > **Non-Speech:** (upbeat music) (2)
-> **Code Keywords:** this. (1)
 > **Tools:** github (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - putting (1)
@@ -1958,8 +1961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), [[Graphic Design]] (3), next (2)
 > **CLI Commands:** find (5), node (5), make (1)
-> **Code Keywords:** let (2), this. (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1967,7 +1970,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980)
@@ -2028,7 +2031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Neo4j]] (5), database (4), data (4), next (1), [[Databases]] (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Definitions:** is a  (2)
 > **Tools:** github (1)

@@ -35,7 +35,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md)
@@ -54,30 +54,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The best dynamic Python data structure: Linked Lists
-  - What You Should Know
-  - Using CoderPad
+  - [The best dynamic Python data structure: Linked Lists](#the-best-dynamic-python-data-structure-linked-lists)
+  - [What You Should Know](#what-you-should-know)
+  - [Using CoderPad](#using-coderpad)
 - [**1. Getting Started**](#1-getting-started) (4 videos)
-  - Lists, Linked Lists, and Memory
-  - Practical Applications of Linked Lists
-  - Building a Linked List in Python
-  - Solution: Finding a middle ground
+  - [Lists, Linked Lists, and Memory](#lists-linked-lists-and-memory)
+  - [Practical Applications of Linked Lists](#practical-applications-of-linked-lists)
+  - [Building a Linked List in Python](#building-a-linked-list-in-python)
+  - [Solution: Finding a middle ground](#solution-finding-a-middle-ground)
 - [**2. Building Functionality**](#2-building-functionality) (4 videos)
-  - Searching
-  - Deleting Nodes
-  - Inserting Nodes
-  - Solution: Removing duplicates
+  - [Searching](#searching)
+  - [Deleting Nodes](#deleting-nodes)
+  - [Inserting Nodes](#inserting-nodes)
+  - [Solution: Removing duplicates](#solution-removing-duplicates)
 - [**3. Variations on a Theme**](#3-variations-on-a-theme) (4 videos)
-  - Circular Lists
-  - Doubly Linked Lists
-  - Orthogonal Linked Lists
-  - Solution: Fixing a doubly-linked list
+  - [Circular Lists](#circular-lists)
+  - [Doubly Linked Lists](#doubly-linked-lists)
+  - [Orthogonal Linked Lists](#orthogonal-linked-lists)
+  - [Solution: Fixing a doubly-linked list](#solution-fixing-a-doubly-linked-list)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The best dynamic Python data structure: Linked Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), web (1)
 > **CLI Commands:** make (2), python (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - do (1)
 
 #### What You Should Know
@@ -157,8 +157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Programming]] (1), data (1), next (1)
 > **CLI Commands:** python (8), find (1), make (1)
-> **Code Keywords:** class. (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Embedded Software]] (1), [[Programming]] (1), [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (2), download the (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
@@ -230,7 +230,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lists, Linked Lists, and Memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980)
@@ -323,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), let (3), delete (2), class. (1), super (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (3), [[Java]] (2), data (1), [[Programming]] (1)
 > **CLI Commands:** python (6), find (2), node (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (1)
@@ -379,8 +379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2), career (1), node (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** type. (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -557,8 +557,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (24), next (19), data (8), [[Python (Programming Language)|Python]] (1), [[Metadata]] (1)
 > **CLI Commands:** node (24), make (10), python (1), find (1)
-> **Code Keywords:** self (7), function (6), let (5), finally, (3), pass (2)
 > **Definitions:** is a  (6)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -620,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), finally, (1)
+> **Frameworks & Libraries:** next (5), data (3), node (1), [[Job Searching]] (1)
 > **CLI Commands:** node (1)
 > **Code Identifiers:** get_midpoint (1)
 > **Definitions:** is a  (1)
@@ -630,7 +630,7 @@ created: 2026-04-29
 
 ### 2. Building Functionality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Searching
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980)
@@ -753,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), let (5), function (5), for. (3), class. (2)
+> **Frameworks & Libraries:** data (15), [[Search]] (12), node (8), next (7), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** node (8), python (2), find (1), make (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** additional_stuff (1)
@@ -835,8 +835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (18), next (15), data (13), [[Python (Programming Language)|Python]] (2), application (1)
 > **CLI Commands:** node (18), find (4), python (2)
-> **Code Keywords:** delete (10), self (5), let (4), case, (2), match. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -933,7 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), delete (5), case, (3), return. (3), catch, (2)
+> **Frameworks & Libraries:** data (18), next (13), node (9), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (9), make (3)
 > **Code Identifiers:** new_node (5)
 > **Definitions:** means that (2), is a  (2)
@@ -1010,8 +1010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (14), node (12), data (5)
 > **CLI Commands:** node (12)
-> **Code Keywords:** delete (3), function (1), finally, (1), let (1)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** remove_duplicates (1)
@@ -1021,7 +1021,7 @@ created: 2026-04-29
 
 ### 3. Variations on a Theme
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Circular Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/circular-lists?u=76281980)
@@ -1174,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (17), let (8), function (3), finally, (3), this, (2)
+> **Frameworks & Libraries:** next (12), node (8), data (5), game (2)
 > **CLI Commands:** node (8), make (6), find (1)
 > **Env Vars:** cll (4)
 > **Analogies:** for example (2), just like (1), such as (1)
@@ -1304,7 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), self (8), let (5), class. (4), finally, (2)
+> **Frameworks & Libraries:** node (20), next (12), data (4), [[Search]] (3), [[Algorithms]] (1)
 > **CLI Commands:** node (20), make (6), find (1)
 > **Code Identifiers:** new_node (4)
 > **Env Vars:** dll (2)
@@ -1505,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (10), let (5), this. (3), class. (2), for. (1)
+> **Frameworks & Libraries:** data (14), node (9), [[Microsoft Word|Word]] (6), next (5), [[Algorithms]] (3)
 > **CLI Commands:** node (9), make (6), python (1)
 > **Code Identifiers:** row_head (2), new_node (2), col_head (1)
 > **Env Vars:** oll (1), ascii (1)
@@ -1588,16 +1588,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), node (5), next (4), [[Python (Programming Language)|Python]] (3), data (1)
 > **CLI Commands:** node (5), python (3)
 > **Code Identifiers:** nodes_forward (3), nodes_backward (2), all_nodes (2), list_fixer (1)
-> **Code Keywords:** this, (2), let (2), function (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980)
@@ -1626,8 +1626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Programming]] (1), [[Algorithms]] (1), career (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - well (1)

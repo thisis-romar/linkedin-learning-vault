@@ -36,7 +36,7 @@ tags:
   - topic/data-science
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20Python.md)
@@ -55,28 +55,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Put your Python skills to the test!
-  - Using GitHub Codespaces with this course
+  - [Put your Python skills to the test!](#put-your-python-skills-to-the-test)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Challenges**](#1-challenges) (15 videos)
-  - Find prime factors
-  - Identify a palindrome
-  - Sort a string
-  - Find all list items
-  - Play the waiting game
-  - Save a dictionary
-  - Schedule a function
-  - Send an email
-  - Simulate dice
-  - Count unique words
-  - Generate a password
-  - Merge CSV files
-  - Solve a sudoku
-  - Build a zip archive
-  - Download sequential files
+  - [Find prime factors](#find-prime-factors)
+  - [Identify a palindrome](#identify-a-palindrome)
+  - [Sort a string](#sort-a-string)
+  - [Find all list items](#find-all-list-items)
+  - [Play the waiting game](#play-the-waiting-game)
+  - [Save a dictionary](#save-a-dictionary)
+  - [Schedule a function](#schedule-a-function)
+  - [Send an email](#send-an-email)
+  - [Simulate dice](#simulate-dice)
+  - [Count unique words](#count-unique-words)
+  - [Generate a password](#generate-a-password)
+  - [Merge CSV files](#merge-csv-files)
+  - [Solve a sudoku](#solve-a-sudoku)
+  - [Build a zip archive](#build-a-zip-archive)
+  - [Download sequential files](#download-sequential-files)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Put your Python skills to the test!
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980)
@@ -107,8 +107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - how (1)
 > **Non-Speech:** (bright music) (1)
@@ -250,7 +250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -262,7 +262,7 @@ created: 2026-04-29
 
 ### 1. Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Find prime factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980)
@@ -331,7 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), public (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** game (4), [[Python (Programming Language)|Python]] (2), [[Search]] (2), next (2), data (1)
 > **CLI Commands:** python (2), find (2)
 > **Analogies:** for example (2)
 > **Tools:** terminal (1)
@@ -401,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), pass (2), case, (1), module (1), case. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2), data (1), [[Programming]] (1), [[Search]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** python (2), find (1)
 > **Code Identifiers:** is_palindrome (2)
@@ -466,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), pass (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), next (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** orange (2)
 > **Non-Speech:** (upbeat music) (2)
@@ -533,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), for, (2), for. (1), elif (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Search]] (4), game (1), next (1), [[Programming]] (1)
 > **CLI Commands:** find (5), python (4)
 > **Code Identifiers:** index_all (6), search_list (1), find_all (1)
 > **Tools:** terminal (1)
@@ -595,7 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), module (2)
+> **Frameworks & Libraries:** game (9), [[Python (Programming Language)|Python]] (3), [[Programming]] (2), hit (1)
 > **CLI Commands:** python (3)
 > **Non-Speech:** (game machine chimes) (3)
 > **Tools:** terminal (1)
@@ -668,7 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), module (4), interface (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (6), [[JSON]] (1)
 > **CLI Commands:** python (9)
 > **Code Identifiers:** test_dict (4), save_dict (2), load_dict (2)
 > **Env Vars:** json (1), csv (1)
@@ -742,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), pass (6), module (3), implements (1), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), game (3), next (2)
 > **CLI Commands:** python (4)
 > **Env Vars:** asc (1)
 > **Tools:** terminal (1)
@@ -810,7 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (2), let (1), require (1), interface (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), game (2), [[Security]] (2), [[Microsoft Outlook|Outlook]] (1), next (1)
 > **Env Vars:** smtp (5), tls (1)
 > **CLI Commands:** python (4), make (1)
 > **Non-Speech:** (video game noises) (2)
@@ -884,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), module (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Simulation]] (3), game (2), [[Python (Programming Language)|Python]] (2)
 > **Non-Speech:** (lively game music) (1), (ending game music) (1), (upbeat music) (1), (lively music) (1)
 > **Speakers:** - i (1), - [narrator] (1), - your (1)
 > **CLI Commands:** python (2)
@@ -956,7 +956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (3), this. (1), case. (1), class, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Python (Programming Language)|Python]] (3), game (2), [[Search]] (1)
 > **CLI Commands:** python (3), find (1)
 > **URLs:** [gutenberg.org](https://gutenberg.org) (2)
 > **Definitions:** is a  (2)
@@ -1038,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), module (4), pass (2), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (5), [[Security]] (2), [[Programming]] (1)
 > **CLI Commands:** python (5)
 > **URLs:** [diceware.com](https://diceware.com) (1)
 > **Env Vars:** pgp (1)
@@ -1116,8 +1116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), data (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** csv (11)
-> **Code Keywords:** function (5), match. (1), module (1), pass (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** all_students (2)
 > **Definitions:** is a  (2)
@@ -1218,7 +1218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), module (2), continue (2), pass (2), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Search]] (2), product (1)
 > **CLI Commands:** python (5), make (3), find (1)
 > **Code Identifiers:** solve_sudoku (6), print_sudoku (2)
 > **Non-Speech:** (techno gaming music) (3)
@@ -1293,7 +1293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), module (3), include, (1), throw (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (7), [[Python (Programming Language)|Python]] (3), next (2), data (1)
 > **Code Identifiers:** my_stuff (5), zip_all (4), output_zip (1)
 > **Env Vars:** zip (8)
 > **Exercise Files:** zip file (4)
@@ -1385,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), module (2), this, (1), continue (1), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1)
 > **Env Vars:** url (14)
 > **Code Identifiers:** first_index (3), index_count (3), next_index (3), download_files (2), error_count (2)
 > **CLI Commands:** python (3), find (1), make (1)

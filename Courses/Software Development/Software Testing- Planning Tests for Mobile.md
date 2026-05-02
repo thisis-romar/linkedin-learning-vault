@@ -32,7 +32,7 @@ tags:
   - skill/mobile-software-development
   - skill/mobile-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Testing-%20Planning%20Tests%20for%20Mobile.md)
@@ -51,42 +51,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Testing mobile applications
-  - What you should know
+  - [Testing mobile applications](#testing-mobile-applications)
+  - [What you should know](#what-you-should-know)
 - [**1. Setting Up Your Test Tools**](#1-setting-up-your-test-tools) (6 videos)
-  - Tracking versions
-  - Tracking issues
-  - Introduction to TestFlight
-  - Introduction to Google Play
-  - Identify your needs
-  - Setting up your project
+  - [Tracking versions](#tracking-versions)
+  - [Tracking issues](#tracking-issues)
+  - [Introduction to TestFlight](#introduction-to-testflight)
+  - [Introduction to Google Play](#introduction-to-google-play)
+  - [Identify your needs](#identify-your-needs)
+  - [Setting up your project](#setting-up-your-project)
 - [**2. Planning Your Alpha Test**](#2-planning-your-alpha-test) (7 videos)
-  - Preparing for your alpha test
-  - Using external testers for alpha
-  - Risks in preparation for alpha
-  - Identifying alpha topics and goals
-  - Design the alpha test plan
-  - Nailing down test resources
-  - Executing your alpha schedule
+  - [Preparing for your alpha test](#preparing-for-your-alpha-test)
+  - [Using external testers for alpha](#using-external-testers-for-alpha)
+  - [Risks in preparation for alpha](#risks-in-preparation-for-alpha)
+  - [Identifying alpha topics and goals](#identifying-alpha-topics-and-goals)
+  - [Design the alpha test plan](#design-the-alpha-test-plan)
+  - [Nailing down test resources](#nailing-down-test-resources)
+  - [Executing your alpha schedule](#executing-your-alpha-schedule)
 - [**3. Planning Your Beta Test**](#3-planning-your-beta-test) (7 videos)
-  - Integrating customer validation
-  - Identifying beta topics and goals
-  - Designing your beta test plan
-  - Recruiting users
-  - Distributing your Android app
-  - Distributing your iOS app
-  - Executing your beta schedule
+  - [Integrating customer validation](#integrating-customer-validation)
+  - [Identifying beta topics and goals](#identifying-beta-topics-and-goals)
+  - [Designing your beta test plan](#designing-your-beta-test-plan)
+  - [Recruiting users](#recruiting-users)
+  - [Distributing your Android app](#distributing-your-android-app)
+  - [Distributing your iOS app](#distributing-your-ios-app)
+  - [Executing your beta schedule](#executing-your-beta-schedule)
 - [**4. Short Term and Long Term Planning**](#4-short-term-and-long-term-planning) (4 videos)
-  - Taking feedback forward
-  - Dealing with common issues
-  - Riding the critical path
-  - Core values of test planning
+  - [Taking feedback forward](#taking-feedback-forward)
+  - [Dealing with common issues](#dealing-with-common-issues)
+  - [Riding the critical path](#riding-the-critical-path)
+  - [Core values of test planning](#core-values-of-test-planning)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing mobile applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/testing-mobile-applications?u=76281980)
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), mobile application (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [mike] (1)
 
 #### What you should know
@@ -158,6 +159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), management (2), [[Software Testing]] (1), [[Android]] (1), [[Google]] (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -165,7 +167,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Test Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracking versions
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-versions?u=76281980)
@@ -274,11 +276,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (2), application (1)
 > **Versions:** 1.0 (2), 1.1 (1), 2.1.1 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -369,8 +371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Software Testing]] (1), [[Jira]] (1), management (1), web (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this, (1), this. (1)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** jira (1)
 > **Tools:** jira (1)
@@ -465,6 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (1), product (1), [[Security]] (1), data (1)
 > **Prerequisites:** install (3), you'll need (1), before you begin (1), set up (1), required to (1)
 > **Code Identifiers:** ios (3), itunes (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -553,9 +556,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (12), [[Android]] (9), [[Security]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Code Identifiers:** ios (4), itunes (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** require (1), continue (1)
 > **Env Vars:** apk (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -648,8 +651,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), next (1), teams (1), [[Microsoft Products|Products]] (1), product (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -784,6 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), next (2), [[Hardware]] (2), [[Issue Management]] (1), [[Jira]] (1)
 > **Prerequisites:** setup (5), configure (2), set up (1), you need to have (1), getting started (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -795,7 +799,7 @@ created: 2026-04-29
 
 ### 2. Planning Your Alpha Test
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for your alpha test
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980)
@@ -902,7 +906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), return. (1), new. (1), pass (1), static (1)
+> **Frameworks & Libraries:** product (11), [[Hardware]] (2), [[Microsoft Products|Products]] (1), [[Android]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** picture (1), for example (1)
@@ -983,8 +987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (5), data (1), teams (1), next (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -1074,7 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), require (1)
+> **Frameworks & Libraries:** product (5), [[Hardware]] (2), teams (1), management (1), game (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), it's like (1)
 > **CLI Commands:** make (1)
@@ -1199,8 +1203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), feature (2), management (1), teams (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** interface (2)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1339,8 +1343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Hardware]] (2), next (1), [[System Configuration]] (1), functional (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), this, (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -1459,8 +1463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (4), management (2), application (2), product (1), [[Google]] (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** itunes (1)
 > **Env Vars:** jira (1)
@@ -1555,15 +1559,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Microsoft Word|Word]] (3), [[Scrum]] (3), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), refers to (1), means that (1)
 > **Best Practices:** remember to (2)
-> **Code Keywords:** new, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Planning Your Beta Test
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating customer validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980)
@@ -1634,6 +1638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), data (3), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -1739,7 +1744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** product (6), [[Mobile Testing]] (1), next (1), [[Android]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ios (1)
 > **UI Navigation:** select the (1)
@@ -1869,7 +1874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** product (6), data (3), [[Android]] (2), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Code Identifiers:** ios (2), iphones (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), picture (1)
@@ -1954,6 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), data (2), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), database (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -2023,11 +2029,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (5), [[Google]] (3), functional (1), application (1), [[Analytics]] (1)
 > **Env Vars:** apk (1), ftp (1), nda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1), install (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2090,6 +2096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), teams (1), web (1), [[Security]] (1)
 > **Code Identifiers:** itunes (3), ios (2), iphone (2), ipad (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** udid (1)
@@ -2182,6 +2189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (2), next (1), feature (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -2189,7 +2197,7 @@ created: 2026-04-29
 
 ### 4. Short Term and Long Term Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking feedback forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980)
@@ -2268,8 +2276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (1), [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2394,7 +2402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), return. (1), finally, (1), else. (1), function (1)
+> **Frameworks & Libraries:** product (6), functional (2), [[Microsoft Products|Products]] (2), feature (1), data (1)
 > **CLI Commands:** make (2), rails (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1)
@@ -2503,7 +2511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** product (9), data (3), [[Forecasting]] (1), [[Microsoft Office|Office]] (1), teams (1)
 > **Definitions:** means that (1), is called (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - one (1)
@@ -2603,6 +2611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), data (5), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1)
@@ -2611,7 +2620,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/next-steps?u=76281980)
@@ -2640,6 +2649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), product (1)
 > **Speakers:** - [narrator] (1)
 
 

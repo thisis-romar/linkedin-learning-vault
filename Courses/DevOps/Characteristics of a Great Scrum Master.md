@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Characteristics%20of%20a%20Great%20Scrum%20Master.md)
@@ -46,19 +46,19 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Becoming a great scrum master
+  - [Becoming a great scrum master](#becoming-a-great-scrum-master)
 - [**1. The Characteristics**](#1-the-characteristics) (5 videos)
-  - Be an honest broker
-  - Revealing root causes
-  - Passionately coach scrum
-  - Doggedly remove obstacles
-  - Ensure safety
+  - [Be an honest broker](#be-an-honest-broker)
+  - [Revealing root causes](#revealing-root-causes)
+  - [Passionately coach scrum](#passionately-coach-scrum)
+  - [Doggedly remove obstacles](#doggedly-remove-obstacles)
+  - [Ensure safety](#ensure-safety)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning
+  - [Continue learning](#continue-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a great scrum master
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980)
@@ -83,12 +83,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - the (1)
 
 
 ### 1. The Characteristics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be an honest broker
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980)
@@ -153,7 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), product (4), functional (1)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
@@ -212,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Scrum]] (8), teams (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -262,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** [[Scrum]] (9), application (2), [[Agile Development|Agile]] (1), [[Engineering]] (1), teams (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - there (1)
 
@@ -325,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Scrum]] (2), next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - one (1)
@@ -395,14 +396,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Scrum]] (7), strengths (1), teams (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - study (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980)
@@ -427,6 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (6)
 > **Definitions:** is a  (3)
 > **Speakers:** - becoming (1)
 

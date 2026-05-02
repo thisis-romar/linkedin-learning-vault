@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI-%20Integrating%20AI.md)
@@ -55,65 +55,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The power of Power BI
-  - What you should know
-  - GitHub data sources
+  - [The power of Power BI](#the-power-of-power-bi)
+  - [What you should know](#what-you-should-know)
+  - [GitHub data sources](#github-data-sources)
 - [**1. How Can We Use AI in Power BI?**](#1-how-can-we-use-ai-in-power-bi) (10 videos)
-  - Overviewing AI
-  - Utilizing Power BI
-  - Analyzing dataset statistics and distributions
-  - Adding a column using fuzzy matching
-  - Grouping data with fuzzy matching
-  - Merging tables using fuzzy matching
-  - Detecting languages
-  - Extracting key text phrases
-  - Scoring language sentiment
-  - Detecting items in image data
+  - [Overviewing AI](#overviewing-ai)
+  - [Utilizing Power BI](#utilizing-power-bi)
+  - [Analyzing dataset statistics and distributions](#analyzing-dataset-statistics-and-distributions)
+  - [Adding a column using fuzzy matching](#adding-a-column-using-fuzzy-matching)
+  - [Grouping data with fuzzy matching](#grouping-data-with-fuzzy-matching)
+  - [Merging tables using fuzzy matching](#merging-tables-using-fuzzy-matching)
+  - [Detecting languages](#detecting-languages)
+  - [Extracting key text phrases](#extracting-key-text-phrases)
+  - [Scoring language sentiment](#scoring-language-sentiment)
+  - [Detecting items in image data](#detecting-items-in-image-data)
 - [**2. Configuring the Semantic Model and Power Query**](#2-configuring-the-semantic-model-and-power-query) (8 videos)
-  - Choosing Power BI visuals
-  - Leveraging slicers
-  - Defining dimensionality
-  - Building DAX models
-  - Using CALCULATE for DAX measures
-  - Visualizing distributions
-  - Leveraging parameters
-  - Formatting measure units
+  - [Choosing Power BI visuals](#choosing-power-bi-visuals)
+  - [Leveraging slicers](#leveraging-slicers)
+  - [Defining dimensionality](#defining-dimensionality)
+  - [Building DAX models](#building-dax-models)
+  - [Using CALCULATE for DAX measures](#using-calculate-for-dax-measures)
+  - [Visualizing distributions](#visualizing-distributions)
+  - [Leveraging parameters](#leveraging-parameters)
+  - [Formatting measure units](#formatting-measure-units)
 - [**3. Analyzing Data Loaded into a Model**](#3-analyzing-data-loaded-into-a-model) (4 videos)
-  - Utilizing the decomposition tree
-  - Discovering key insights with the key influencer visual
-  - Leveraging the Q&A visual
-  - Using the narrative visual
+  - [Utilizing the decomposition tree](#utilizing-the-decomposition-tree)
+  - [Discovering key insights with the key influencer visual](#discovering-key-insights-with-the-key-influencer-visual)
+  - [Leveraging the Q&A visual](#leveraging-the-qa-visual)
+  - [Using the narrative visual](#using-the-narrative-visual)
 - [**4. Analyzing Trends**](#4-analyzing-trends) (6 videos)
-  - Finding clusters
-  - Calculating best fit line
-  - Calculating correlations
-  - Visualizing relationships between variable pairs
-  - Analyzing correlations with variable pairs
-  - Creating corrplot
+  - [Finding clusters](#finding-clusters)
+  - [Calculating best fit line](#calculating-best-fit-line)
+  - [Calculating correlations](#calculating-correlations)
+  - [Visualizing relationships between variable pairs](#visualizing-relationships-between-variable-pairs)
+  - [Analyzing correlations with variable pairs](#analyzing-correlations-with-variable-pairs)
+  - [Creating corrplot](#creating-corrplot)
 - [**5. Analyzing Groups**](#5-analyzing-groups) (9 videos)
-  - Calculating linear regression coefficients
-  - Checking outputs for regression models
-  - Making predictions for regression models
-  - Calculating residuals
-  - Using the LINEST DAX function
-  - Utilizing the LINESTX DAX function
-  - Creating a polynomial regression model
-  - Calculating outliers
-  - Using parameters in regression models
+  - [Calculating linear regression coefficients](#calculating-linear-regression-coefficients)
+  - [Checking outputs for regression models](#checking-outputs-for-regression-models)
+  - [Making predictions for regression models](#making-predictions-for-regression-models)
+  - [Calculating residuals](#calculating-residuals)
+  - [Using the LINEST DAX function](#using-the-linest-dax-function)
+  - [Utilizing the LINESTX DAX function](#utilizing-the-linestx-dax-function)
+  - [Creating a polynomial regression model](#creating-a-polynomial-regression-model)
+  - [Calculating outliers](#calculating-outliers)
+  - [Using parameters in regression models](#using-parameters-in-regression-models)
 - [**6. Determining Outliers and Anomalies**](#6-determining-outliers-and-anomalies) (6 videos)
-  - Calculating rolling averages
-  - Leveraging anomaly detection
-  - Calculating seasonality trends
-  - Calculating overall trends
-  - Contextualizing outliers versus anomalies
-  - Adding forecasting from the analytics pane
+  - [Calculating rolling averages](#calculating-rolling-averages)
+  - [Leveraging anomaly detection](#leveraging-anomaly-detection)
+  - [Calculating seasonality trends](#calculating-seasonality-trends)
+  - [Calculating overall trends](#calculating-overall-trends)
+  - [Contextualizing outliers versus anomalies](#contextualizing-outliers-versus-anomalies)
+  - [Adding forecasting from the analytics pane](#adding-forecasting-from-the-analytics-pane)
 - [**7. Natural Language Processing Visuals**](#7-natural-language-processing-visuals) (2 videos)
-  - Putting everything together
-  - Next steps
+  - [Putting everything together](#putting-everything-together)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980)
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (3), data (3), ai (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Speakers:** - so (1)
 
 #### What you should know
@@ -153,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), data (4), [[Microsoft Power Query|Power query]] (1), [[Statistics]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### GitHub data sources
@@ -178,10 +180,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[GitHub]] (3), business (1), [[LinkedIn]] (1), [[Algorithms]] (1)
 > **Env Vars:** noaa (1), eia (1), csv (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -189,7 +191,7 @@ created: 2026-04-29
 
 ### 1. How Can We Use AI in Power BI?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overviewing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980)
@@ -248,8 +250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (7), [[Analytics]] (5), power (1), bi (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** let (1), for. (1), pass (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
@@ -309,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1)
+> **Frameworks & Libraries:** power (11), bi (11), data (4), ai (4), [[DAX]] (2)
 > **Env Vars:** dax (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -400,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (1), this. (1), default, (1), case, (1)
+> **Frameworks & Libraries:** data (26), power (9), bi (9), [[GitHub]] (5), etl (4)
 > **Env Vars:** etl (4), url (2)
 > **Tools:** github (5)
 > **CLI Commands:** make (4)
@@ -489,7 +491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from. (1)
+> **Frameworks & Libraries:** data (15), power (4), bi (3), ai (3), [[GitHub]] (2)
 > **CLI Commands:** make (4)
 > **Versions:** 0.8 (1), 0.7 (1)
 > **Tools:** github (2)
@@ -537,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1)
+> **Frameworks & Libraries:** data (12), [[Natural Language Processing (NLP)|Natural language processing]] (1), etl (1), next (1), power (1)
 > **Versions:** 0.8 (1), 0.7 (1)
 > **UI Navigation:** select the (1), checkbox (1)
 > **Env Vars:** etl (1)
@@ -614,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (1)
+> **Frameworks & Libraries:** power (3), bi (3), [[Microsoft Power Query|Power query]] (2), data (1), next (1)
 > **UI Navigation:** select the (2), open the (1), click on (1)
 > **CLI Commands:** make (2)
 > **Versions:** 0.8 (1), 0.7 (1)
@@ -702,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), require (1), this, (1), case. (1)
+> **Frameworks & Libraries:** power (11), bi (11), [[Analytics]] (7), ai (7), data (5)
 > **Env Vars:** iso (4)
 > **UI Navigation:** select the (2), dropdown (1)
 > **CLI Commands:** make (2)
@@ -758,7 +760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), this, (1), from. (1)
+> **Frameworks & Libraries:** data (6), [[Analytics]] (3), power (3), bi (3), ai (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** iso (2)
 > **UI Navigation:** select the (2)
@@ -831,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), require (1)
+> **Frameworks & Libraries:** power (5), bi (5), [[Analytics]] (4), ai (3), [[Algorithms]] (2)
 > **UI Navigation:** select the (2), click on (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** iso (2)
@@ -903,7 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), continue (1)
+> **Frameworks & Libraries:** ai (7), power (5), bi (5), data (3), [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** url (4), iso (1)
 > **UI Navigation:** right-click (1), select the (1)
 > **Analogies:** for example (2)
@@ -915,7 +917,7 @@ created: 2026-04-29
 
 ### 2. Configuring the Semantic Model and Power Query
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing Power BI visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980)
@@ -1008,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), default, (1), for. (1), type, (1)
+> **Frameworks & Libraries:** data (13), ai (3), power (2), bi (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -1073,7 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1)
+> **Frameworks & Libraries:** data (5), power (4), bi (4), ai (1), hit (1)
 > **UI Navigation:** dropdown (2), go to (1), select the (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1168,8 +1170,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), power (3), bi (3), ai (1)
 > **Definitions:** refers to (2), is an  (1), is a  (1)
-> **Code Keywords:** let (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1253,7 +1255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[DAX]] (7), data (6), power (2), bi (2), next (2)
 > **Env Vars:** dax (7)
 > **Definitions:** is a  (2), short for (1), means that (1)
 > **Versions:** 1.8 (1)
@@ -1312,7 +1314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), continue (2)
+> **Frameworks & Libraries:** data (7), [[DAX]] (4), power (4), ai (2), bi (2)
 > **Env Vars:** dax (4), calculate (2), sum (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -1396,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1)
+> **Frameworks & Libraries:** power (6), bi (5), data (3), [[Statistics]] (3), ai (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1474,7 +1476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), default, (1), case, (1)
+> **Frameworks & Libraries:** power (5), bi (5), [[DAX]] (3), data (1)
 > **Env Vars:** dax (3)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -1568,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), var (1), finally, (1), case, (1), type. (1)
+> **Frameworks & Libraries:** [[DAX]] (4), power (2), bi (2), data (1), ai (1)
 > **Env Vars:** dax (4), var (1), return (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** selected_units (3)
@@ -1579,7 +1581,7 @@ created: 2026-04-29
 
 ### 3. Analyzing Data Loaded into a Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Utilizing the decomposition tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980)
@@ -1650,8 +1652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), ai (3), next (3), bi (2), data (2)
 > **CLI Commands:** node (2), find (2), make (1)
-> **Code Keywords:** let (5)
 > **UI Navigation:** select the (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1717,7 +1719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), default, (1), for. (1)
+> **Frameworks & Libraries:** power (2), bi (2), ai (2), data (2), next (2)
 > **UI Navigation:** dropdown (1), click on (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1786,7 +1788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), continue (1)
+> **Frameworks & Libraries:** data (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), power (2), bi (2), nlp (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** nlp (1)
@@ -1845,7 +1847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), data (3), power (1), bi (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1), configure (1)
@@ -1856,7 +1858,7 @@ created: 2026-04-29
 
 ### 4. Analyzing Trends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding clusters
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980)
@@ -1953,7 +1955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (2), case. (1), this. (1)
+> **Frameworks & Libraries:** data (17), power (2), bi (2), [[Algorithms]] (1), feature (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2015,7 +2017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** data (9), power (4), bi (4), [[Linear Regression]] (2), [[Analytics]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** compare this to (1), for example (1)
 > **UI Navigation:** navigate to (1)
@@ -2100,7 +2102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), case, (1), raise (1), continue (1)
+> **Frameworks & Libraries:** power (4), [[Linear Regression]] (4), [[DAX]] (4), bi (2), data (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** dax (4)
 > **UI Navigation:** dropdown (1), select the (1)
@@ -2155,7 +2157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), power (1), bi (1)
 > **CLI Commands:** make (2), python (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** checkbox (1)
@@ -2241,7 +2243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), pass (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **UI Navigation:** select the (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -2401,7 +2403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (11), default, (2), finally, (2), case, (1)
+> **Frameworks & Libraries:** power (5), [[DAX]] (5), bi (4), data (1), next (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** dax (5)
 > **UI Navigation:** dropdown (2), navigate to (1), go to (1)
@@ -2413,7 +2415,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Groups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating linear regression coefficients
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980)
@@ -2484,8 +2486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), product (5), [[Linear Regression]] (4), bi (3), [[DAX]] (3)
 > **Env Vars:** sumx (4), divide (4), dax (3), power (3), allselected (2)
-> **Code Keywords:** function (11), let (4), override (1), continue (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
@@ -2533,8 +2535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DAX]] (4), [[Linear Regression]] (2), data (2), [[Microsoft Excel|Excel]] (1), ai (1)
 > **Env Vars:** dax (4), csv (1), countrows (1), countx (1)
-> **Code Keywords:** function (2), require (1), let (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1)
 > **Analogies:** similar to (1)
@@ -2597,7 +2599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Linear Regression]] (5), power (2), bi (2), data (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -2672,7 +2674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), this, (1), raise (1)
+> **Frameworks & Libraries:** data (6), [[Linear Regression]] (2), [[DAX]] (2), power (1)
 > **Env Vars:** dax (2), sqrt (1)
 > **Versions:** 0.5 (1)
 > **Speakers:** - [instructor] (1)
@@ -2720,7 +2722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), match. (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (6), [[DAX]] (3), data (3), [[Statistics]] (2)
 > **Env Vars:** linest (6), dax (3), max (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -2824,7 +2826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (11), var (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (10), data (5), [[DAX]] (4), [[Statistics]] (1), power (1)
 > **Env Vars:** linest (4), dax (4), linestx (3), summarize (2), var (1)
 > **Code Identifiers:** summarized_table (2), summarize_table (1)
 > **CLI Commands:** make (2)
@@ -2926,7 +2928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (7), raise (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** power (8), data (3), [[DAX]] (3), [[Linear Regression]] (2), bi (2)
 > **Env Vars:** dax (3), power (2), linestx (2), summarize (1), selectcolumns (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** summarized_table (6)
@@ -3030,7 +3032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (22), [[Representational State Transfer (REST)|Rest]] (1), [[DAX]] (1), power (1), bi (1)
 > **Analogies:** for example (4)
 > **Definitions:** is an  (3)
 > **CLI Commands:** make (2)
@@ -3117,7 +3119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (7), power (2), bi (2), ai (1), [[Statistics]] (1)
 > **Env Vars:** tavg (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3127,7 +3129,7 @@ created: 2026-04-29
 
 ### 6. Determining Outliers and Anomalies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating rolling averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980)
@@ -3254,7 +3256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (6), this, (1)
+> **Frameworks & Libraries:** data (6), power (3), bi (3), [[DAX]] (3), [[Zoom]] (2)
 > **Env Vars:** dax (3), max (1)
 > **UI Navigation:** select the (1), dropdown (1)
 > **Analogies:** for example (2)
@@ -3340,8 +3342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), power (4), bi (4), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** let (4)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -3421,7 +3423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), continue (2), let (1)
+> **Frameworks & Libraries:** data (8), power (2), bi (2)
 > **Versions:** 86.13 (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -3492,7 +3494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3)
+> **Frameworks & Libraries:** data (4), [[Linear Regression]] (4), [[DAX]] (3), next (1)
 > **Env Vars:** dax (3), linestx (2), summarize (1), max (1), allselected (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** summarized_table (3)
@@ -3556,7 +3558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** data (3), [[Linear Regression]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** dropdown (2)
 > **Analogies:** for example (1)
@@ -3642,7 +3644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1)
+> **Frameworks & Libraries:** [[Forecasting]] (10), data (8), next (4), power (3), bi (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (1), refers to (1)
@@ -3653,7 +3655,7 @@ created: 2026-04-29
 
 ### 7. Natural Language Processing Visuals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting everything together
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980)
@@ -3688,6 +3690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), data (2), ai (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** kineteco (2)
 > **Cross-References:** we covered (1)
@@ -3712,7 +3715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** power (5), ai (4), bi (4), data (1), [[Microsoft Copilot|Copilot]] (1)
 > **Cross-References:** we talked about (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - in (1)

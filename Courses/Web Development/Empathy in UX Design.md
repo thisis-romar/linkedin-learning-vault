@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Empathy%20in%20UX%20Design.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Empathy and user experience
+  - [Empathy and user experience](#empathy-and-user-experience)
 - [**1. Empathy and UX**](#1-empathy-and-ux) (2 videos)
-  - What is empathy?
-  - How empathy relates to UX
+  - [What is empathy?](#what-is-empathy)
+  - [How empathy relates to UX](#how-empathy-relates-to-ux)
 - [**2. Building Personal Empathy**](#2-building-personal-empathy) (7 videos)
-  - Where is your starting point?
-  - Empathy in life
-  - Empathy for customers and users
-  - Empathy through research and interaction
-  - Empathy for workplace kindness
-  - Dealing with the pain of empathy
-  - Empathy for neurodiversity: My experience with ADHD
+  - [Where is your starting point?](#where-is-your-starting-point)
+  - [Empathy in life](#empathy-in-life)
+  - [Empathy for customers and users](#empathy-for-customers-and-users)
+  - [Empathy through research and interaction](#empathy-through-research-and-interaction)
+  - [Empathy for workplace kindness](#empathy-for-workplace-kindness)
+  - [Dealing with the pain of empathy](#dealing-with-the-pain-of-empathy)
+  - [Empathy for neurodiversity: My experience with ADHD](#empathy-for-neurodiversity-my-experience-with-adhd)
 - [**3. Empathy in UX Research**](#3-empathy-in-ux-research) (7 videos)
-  - Choosing methods to tell a story
-  - Involve stakeholders in research
-  - In-person vs. remote research
-  - Example: Empathy in research sessions
-  - Managing emotional research
-  - Empathy through flexibility
-  - Can AI understand emotion?
+  - [Choosing methods to tell a story](#choosing-methods-to-tell-a-story)
+  - [Involve stakeholders in research](#involve-stakeholders-in-research)
+  - [In-person vs. remote research](#in-person-vs-remote-research)
+  - [Example: Empathy in research sessions](#example-empathy-in-research-sessions)
+  - [Managing emotional research](#managing-emotional-research)
+  - [Empathy through flexibility](#empathy-through-flexibility)
+  - [Can AI understand emotion?](#can-ai-understand-emotion)
 - [**4. Designing and Delivering Empathy**](#4-designing-and-delivering-empathy) (4 videos)
-  - Storytelling with research findings
-  - Designing with empathy
-  - Example: Personas
-  - Example: Customer journey maps
+  - [Storytelling with research findings](#storytelling-with-research-findings)
+  - [Designing with empathy](#designing-with-empathy)
+  - [Example: Personas](#example-personas)
+  - [Example: Customer journey maps](#example-customer-journey-maps)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Use your empathy for good
+  - [Use your empathy for good](#use-your-empathy-for-good)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Empathy and user experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980)
@@ -102,13 +102,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), ux (2), product (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 
 
 ### 1. Empathy and UX
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is empathy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980)
@@ -165,7 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), else. (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Word|Word]] (1), ux (1)
 > **Definitions:** in other words (1), means that (1)
 
 #### How empathy relates to UX
@@ -241,14 +242,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (7), [[Microsoft Products|Products]] (3), product (2), [[Search]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** return, (1)
 > **Analogies:** picture (1)
 
 
 ### 2. Building Personal Empathy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where is your starting point?
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980)
@@ -297,7 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), let (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), product (1), ux (1)
 > **Cross-References:** later in (1)
 
 #### Empathy in life
@@ -371,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -421,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), for. (1)
+> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1), data (1), ux (1), product (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 
@@ -458,7 +459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** teams (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cpa (1)
 
 #### Empathy for workplace kindness
@@ -526,10 +527,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), express (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (3)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** public (1)
 > **Tools:** notion (1)
 
 #### Dealing with the pain of empathy
@@ -587,8 +588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), data (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** else. (1)
 > **Definitions:** is an  (1)
 
 #### Empathy for neurodiversity: My experience with ADHD
@@ -652,15 +653,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (5), [[Microsoft Office|Office]] (1), data (1), [[Forms]] (1), strengths (1)
 > **Env Vars:** adhd (14), asd (1)
-> **Code Keywords:** public (1), let (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
 
 ### 3. Empathy in UX Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing methods to tell a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980)
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), yield (2), for. (1), new. (1)
+> **Frameworks & Libraries:** data (7), [[Storytelling]] (4), product (4), [[Microsoft Products|Products]] (2), feature (2)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), just like (1)
 > **Prerequisites:** you'll need (1)
@@ -803,9 +804,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Product Development]] (1), [[Real-Time]] (1), power (1), product (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** throw (1)
 
 #### In-person vs. remote research
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/in-person-vs-remote-research?u=76281980)
@@ -860,8 +861,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** else, (1)
 > **Analogies:** for example (1)
 
 #### Example: Empathy in research sessions
@@ -933,8 +934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 
 #### Managing emotional research
@@ -996,7 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), finally, (1)
+> **Frameworks & Libraries:** product (4), [[Usability Testing]] (1), career (1), next (1)
 > **CLI Commands:** make (2), rails (1)
 > **Best Practices:** make sure to (2)
 
@@ -1031,8 +1032,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Usability Testing]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), if, (1)
 > **Cross-References:** we talked about (1)
 
 #### Can AI understand emotion?
@@ -1074,13 +1075,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), ux (2), data (2), product (1)
 > **Analogies:** for instance (1), such as (1), for example (1)
 > **CLI Commands:** find (1)
 
 
 ### 4. Designing and Delivering Empathy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storytelling with research findings
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980)
@@ -1159,8 +1161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (2), data (1), [[Usability Testing]] (1), generic (1), product (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** type. (1), try. (1), case. (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -1240,8 +1242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), product (2), [[Typography]] (1), [[Usability Testing]] (1), next (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** for, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** note that (1)
@@ -1333,8 +1335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), data (4), [[Usability Testing]] (2), [[Microsoft Word|Word]] (1), [[Market Research]] (1)
 > **Analogies:** such as (2), for example (2), picture (1), just like (1)
-> **Code Keywords:** for. (1), let (1), case, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
@@ -1389,15 +1391,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), ux (1), product (1)
 > **Analogies:** for example (1), picture (1)
-> **Code Keywords:** let (1)
 > **Versions:** 7.5 (1)
 > **Warnings:** caution (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use your empathy for good
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980)
@@ -1422,7 +1424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ux (3), [[Storytelling]] (1), [[LinkedIn]] (1), ai (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (1)
 
 

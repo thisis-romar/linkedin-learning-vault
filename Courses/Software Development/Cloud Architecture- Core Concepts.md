@@ -43,7 +43,7 @@ tags:
   - skill/cloud-security
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cloud%20Architecture-%20Core%20Concepts.md)
@@ -62,53 +62,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is cloud architecture?
-  - What you should know
+  - [What is cloud architecture?](#what-is-cloud-architecture)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Cloud Architecture**](#1-introduction-to-cloud-architecture) (5 videos)
-  - Cloud architecture basics
-  - Cloud architecture: Example 1
-  - Cloud architecture: Example 2
-  - Skills, tools, and processes
-  - Building a framework
+  - [Cloud architecture basics](#cloud-architecture-basics)
+  - [Cloud architecture: Example 1](#cloud-architecture-example-1)
+  - [Cloud architecture: Example 2](#cloud-architecture-example-2)
+  - [Skills, tools, and processes](#skills-tools-and-processes)
+  - [Building a framework](#building-a-framework)
 - [**2. Understanding Business Needs**](#2-understanding-business-needs) (8 videos)
-  - What problems need to be solved?
-  - The "as is" state
-  - The "to be" state
-  - The value of architecture optimization
-  - Cloud architecture and security
-  - Cloud architecture and AI
-  - Challenge: Approaching architecture planning for Atlas Inc.
-  - Solution: Approaching architecture planning for Atlas Inc.
+  - [What problems need to be solved?](#what-problems-need-to-be-solved)
+  - [The "as is" state](#the-as-is-state)
+  - [The "to be" state](#the-to-be-state)
+  - [The value of architecture optimization](#the-value-of-architecture-optimization)
+  - [Cloud architecture and security](#cloud-architecture-and-security)
+  - [Cloud architecture and AI](#cloud-architecture-and-ai)
+  - [Challenge: Approaching architecture planning for Atlas Inc.](#challenge-approaching-architecture-planning-for-atlas-inc)
+  - [Solution: Approaching architecture planning for Atlas Inc.](#solution-approaching-architecture-planning-for-atlas-inc)
 - [**3. It's All about the Cloud Parts**](#3-its-all-about-the-cloud-parts) (7 videos)
-  - Cloud storage
-  - Cloud compute
-  - Cloud databases
-  - Cloud security
-  - Cloud operations (CloudOps)
-  - Cloud AI
-  - Additional cloud services
+  - [Cloud storage](#cloud-storage)
+  - [Cloud compute](#cloud-compute)
+  - [Cloud databases](#cloud-databases)
+  - [Cloud security](#cloud-security)
+  - [Cloud operations (CloudOps)](#cloud-operations-cloudops)
+  - [Cloud AI](#cloud-ai)
+  - [Additional cloud services](#additional-cloud-services)
 - [**4. From Requirements to Solutions**](#4-from-requirements-to-solutions) (9 videos)
-  - Storage level
-  - Data level
-  - Compute level
-  - Network level
-  - Security level
-  - Operations level
-  - Application level
-  - AI level
-  - Creating a winning cloud architecture
+  - [Storage level](#storage-level)
+  - [Data level](#data-level)
+  - [Compute level](#compute-level)
+  - [Network level](#network-level)
+  - [Security level](#security-level)
+  - [Operations level](#operations-level)
+  - [Application level](#application-level)
+  - [AI level](#ai-level)
+  - [Creating a winning cloud architecture](#creating-a-winning-cloud-architecture)
 - [**5. Building Your First Architecture**](#5-building-your-first-architecture) (4 videos)
-  - Step 1: Define your requirements
-  - Step 2: Define your desired end state
-  - Step 3: Mapping "as is" to "to be"
-  - Step 4: Create your final architecture
+  - [Step 1: Define your requirements](#step-1-define-your-requirements)
+  - [Step 2: Define your desired end state](#step-2-define-your-desired-end-state)
+  - [Step 3: Mapping "as is" to "to be"](#step-3-mapping-as-is-to-to-be)
+  - [Step 4: Create your final architecture](#step-4-create-your-final-architecture)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Learning more about cloud architecture
-  - Next steps
+  - [Learning more about cloud architecture](#learning-more-about-cloud-architecture)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cloud architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-is-cloud-architecture?u=76281980)
@@ -128,13 +128,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** cloud (3), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Cloud Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud architecture basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980)
@@ -161,8 +161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), business (3), [[Security]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT]] (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Cloud architecture: Example 1
@@ -208,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), super (1)
+> **Frameworks & Libraries:** cloud (9), business (6), [[Security]] (2), database (2), management (1)
 > **Analogies:** such as (2)
 > **Warnings:** note that (1), keep in mind (1)
 > **Prerequisites:** setup (1), configure (1)
@@ -258,7 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1), case, (1), extends (1)
+> **Frameworks & Libraries:** cloud (11), [[IaaS|Infrastructure as a service]] (7), business (4), data (4), [[SaaS|Software as a service]] (3)
 > **Analogies:** such as (2), for instance (1)
 > **Env Vars:** aws (1), rfid (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -308,7 +308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), assert (1)
+> **Frameworks & Libraries:** cloud (10), product (1), aws (1), [[Microsoft Excel|Excel]] (1), data (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -367,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), this, (1), function (1)
+> **Frameworks & Libraries:** cloud (6), [[Databases]] (1), [[Security]] (1), aws (1), next (1)
 > **CLI Commands:** aws (1), find (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -377,7 +377,7 @@ created: 2026-04-29
 
 ### 2. Understanding Business Needs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What problems need to be solved?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980)
@@ -420,8 +420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), cloud (2), data (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** static (1)
 > **Code Identifiers:** as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -458,6 +458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (2), cloud (1), management (1), application (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -504,6 +505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), data (8), cloud (5), [[Databases]] (3), [[Accountability]] (1)
 > **Env Vars:** hipaa (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2)
@@ -548,10 +550,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), cloud (11), data (8), aws (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** aws (2), etl (1), gdpr (1), hipaa (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Approaching architecture planning for Atlas Inc.
@@ -589,9 +591,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), business (3), power (1), [[Scalability]] (1), data (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** public (1), private (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -628,15 +630,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), business (2), [[Scalability]] (2), management (1), data (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** private (2), public (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
 
 ### 3. It's All about the Cloud Parts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-storage?u=76281980)
@@ -664,8 +666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Linux]] (1), aws (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** cpu (7), aws (1)
-> **Code Keywords:** function (1), finally, (1), public (1), type, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Prerequisites:** required to (1)
@@ -694,9 +696,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Databases]] (9), cloud (7), management (2), application (2)
 > **Analogies:** such as (7)
 > **Env Vars:** sql (2), api (1)
-> **Code Keywords:** interface (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -725,7 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** cloud (8), [[Security]] (7), data (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cpu (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -773,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), business (2), data (2), [[Databases]] (1), database (1)
 > **Analogies:** such as (4), for instance (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
@@ -815,6 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (6), cloud (4), [[Scalability]] (2), [[Algorithms]] (1)
 > **Env Vars:** tpu (2), gpu (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -825,7 +828,7 @@ created: 2026-04-29
 
 ### 4. From Requirements to Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage level
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980)
@@ -876,9 +879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), application (4), [[Security]] (2), data (1), [[Unstructured Data]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** aws (1), make (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** cpu (1), aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
@@ -922,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), function (1)
+> **Frameworks & Libraries:** [[Databases]] (9), database (8), data (7), cloud (3), product (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -974,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), require (1), finally, (1)
+> **Frameworks & Libraries:** cloud (7), [[Hardware]] (1), hit (1), power (1), business (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cpu (2)
@@ -1011,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), private (1), public (1)
+> **Frameworks & Libraries:** cloud (23), teams (1), data (1), [[Databases]] (1), management (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Env Vars:** vpc (1)
@@ -1075,7 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), let (1), interface (1), require (1), function (1)
+> **Frameworks & Libraries:** cloud (17), [[AIOps]] (4), [[Security]] (3), database (3), data (2)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** find (1)
@@ -1107,9 +1110,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), cloud (2), teams (2), data (1), business (1)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1161,7 +1164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** ai (15), data (5), cloud (4), application (3), [[Security]] (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1198,6 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), database (1), business (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (3)
 > **Analogies:** such as (2)
@@ -1206,7 +1210,7 @@ created: 2026-04-29
 
 ### 5. Building Your First Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Step 1: Define your requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980)
@@ -1249,7 +1253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), return. (1)
+> **Frameworks & Libraries:** business (4), cloud (3), data (2), [[Security]] (2)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1279,7 +1283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** database (2), [[Security]] (2), next (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1341,8 +1345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (7), [[Security]] (5), [[Databases]] (2), application (2)
 > **Analogies:** such as (4)
-> **Code Keywords:** case, (1), finally, (1), this. (1)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [speaker] (1)
@@ -1378,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (2), cloud (2), data (1), parallel (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1388,7 +1392,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about cloud architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/learning-more-about-cloud-architecture?u=76281980)
@@ -1442,8 +1446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[Security]] (3), ai (3), data (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 

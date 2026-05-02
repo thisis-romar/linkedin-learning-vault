@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/apache-kafka
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Apache%20Kafka%20Essential%20Training-%20Getting%20Started.md)
@@ -50,52 +50,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started with Apache Kafka
+  - [Getting started with Apache Kafka](#getting-started-with-apache-kafka)
 - [**1. Introduction to Kafka**](#1-introduction-to-kafka) (6 videos)
-  - Message queues
-  - What is Kafka?
-  - Benefits of Kafka
-  - Kafka use cases
-  - Setting up the exercise files
-  - Setting up Kafka
+  - [Message queues](#message-queues)
+  - [What is Kafka?](#what-is-kafka)
+  - [Benefits of Kafka](#benefits-of-kafka)
+  - [Kafka use cases](#kafka-use-cases)
+  - [Setting up the exercise files](#setting-up-the-exercise-files)
+  - [Setting up Kafka](#setting-up-kafka)
 - [**2. Basic Concepts**](#2-basic-concepts) (5 videos)
-  - Messages
-  - Topics
-  - Kafka brokers
-  - Logs in Kafka
-  - Producers and consumers
+  - [Messages](#messages)
+  - [Topics](#topics)
+  - [Kafka brokers](#kafka-brokers)
+  - [Logs in Kafka](#logs-in-kafka)
+  - [Producers and consumers](#producers-and-consumers)
 - [**3. Using Kafka Command Line**](#3-using-kafka-command-line) (7 videos)
-  - Kafka client scripts
-  - Creating a topic
-  - Exploring topics
-  - Publishing messages to topics
-  - Using console consumer
-  - Topics management
-  - Review Kafka setup
+  - [Kafka client scripts](#kafka-client-scripts)
+  - [Creating a topic](#creating-a-topic)
+  - [Exploring topics](#exploring-topics)
+  - [Publishing messages to topics](#publishing-messages-to-topics)
+  - [Using console consumer](#using-console-consumer)
+  - [Topics management](#topics-management)
+  - [Review Kafka setup](#review-kafka-setup)
 - [**4. Kafka Partitions and Groups**](#4-kafka-partitions-and-groups) (6 videos)
-  - Intro to partitions
-  - Creating topics with partitions
-  - Publishing with keys
-  - Consumer groups
-  - Consumer offset management
-  - Consuming partitioned data
+  - [Intro to partitions](#intro-to-partitions)
+  - [Creating topics with partitions](#creating-topics-with-partitions)
+  - [Publishing with keys](#publishing-with-keys)
+  - [Consumer groups](#consumer-groups)
+  - [Consumer offset management](#consumer-offset-management)
+  - [Consuming partitioned data](#consuming-partitioned-data)
 - [**5. Kafka Java Programming**](#5-kafka-java-programming) (5 videos)
-  - Kafka client libraries
-  - Creating a producer in Java
-  - Publishing messages in Java
-  - Creating a consumer in Java
-  - Consuming messages in Java
+  - [Kafka client libraries](#kafka-client-libraries)
+  - [Creating a producer in Java](#creating-a-producer-in-java)
+  - [Publishing messages in Java](#publishing-messages-in-java)
+  - [Creating a consumer in Java](#creating-a-consumer-in-java)
+  - [Consuming messages in Java](#consuming-messages-in-java)
 - [**6. Use Case Project**](#6-use-case-project) (4 videos)
-  - Kafka basics use case: Problem definition
-  - Setting up topics
-  - Producing and consuming data with scripts
-  - Producing and consuming data with Java
+  - [Kafka basics use case: Problem definition](#kafka-basics-use-case-problem-definition)
+  - [Setting up topics](#setting-up-topics)
+  - [Producing and consuming data with scripts](#producing-and-consuming-data-with-scripts)
+  - [Producing and consuming data with Java](#producing-and-consuming-data-with-java)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Extending your Kafka knowledge
+  - [Extending your Kafka knowledge](#extending-your-kafka-knowledge)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Apache Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980)
@@ -122,14 +122,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Kafka]] (5), data (2), [[Java]] (2), open-source (1), [[Big Data]] (1)
 > **CLI Commands:** apache (5), docker (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Kafka
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Message queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), static (1), pub (1)
+> **Frameworks & Libraries:** data (8), [[Apache Kafka]] (2), management (2), next (1)
 > **CLI Commands:** apache (2)
 > **Prerequisites:** configure (1), setup (1)
 > **Cross-References:** in the next (1)
@@ -257,8 +257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Apache Kafka]] (2), [[Big Data]] (2), concurrent (1)
 > **CLI Commands:** apache (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -305,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Apache Kafka]] (1), concurrent (1), [[Real-Time]] (1), management (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -351,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[Apache Kafka]] (1), [[Batch Processing]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** rest (1), rpc (1)
 > **Prerequisites:** install (1), set up (1)
 > **Definitions:** is a  (1)
@@ -407,10 +407,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), node (1), next (1)
 > **CLI Commands:** make (2), docker (1), node (1), unzip (1)
 > **Env Vars:** idea (2), sdk (2), yaml (1)
 > **Prerequisites:** set up (3), setup (1)
-> **Code Keywords:** let (2), case, (1)
 > **Tools:** intellij (2), command line (1)
 > **Exercise Files:** exercise files (2), zip file (1)
 > **File Paths:** kafka-single-node.yml (1)
@@ -531,9 +531,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), [[Jetpack Compose|Compose]] (4), [[Windows]] (2), [[Configuration Management]] (1), [[Security]] (1)
 > **CLI Commands:** docker (14), node (7)
 > **Env Vars:** kafka_enable_kraft (1), node_id (1), controller_listener_name (1), controller (1), inter_broker_listener_name (1)
-> **Code Keywords:** let (4), this . (1), finally, (1)
 > **File Paths:** kafka-single-node.yml (4), resources/chapter-1-settingup-kafka.txt (1)
 > **Prerequisites:** getting started (1), set up (1), install (1), setup (1)
 > **Tools:** docker desktop (1), terminal (1), powershell (1)
@@ -543,7 +543,7 @@ created: 2026-04-29
 
 ### 2. Basic Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980)
@@ -650,8 +650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (1), [[JSON]] (1), web (1), next (1)
 > **Definitions:** is a  (4), is an  (2)
-> **Code Keywords:** let (3), case, (1)
 > **Env Vars:** json (1), csv (1)
 > **Best Practices:** recommended (1), the key is (1)
 > **CLI Commands:** make (1)
@@ -714,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (3), database (1), application (1), next (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is an  (2)
 > **Analogies:** similar to (2)
@@ -769,7 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -817,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -896,8 +896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), web (2), concurrent (2), [[Programming]] (1), [[Java]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** json (1)
 > **Cross-References:** later in (1)
 > **Warnings:** note that (1)
@@ -906,7 +906,7 @@ created: 2026-04-29
 
 ### 3. Using Kafka Command Line
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka client scripts
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-scripts?u=76281980)
@@ -953,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (1), management (1), next (1)
 > **CLI Commands:** docker (3)
 > **Cross-References:** later in (1), in the next (1)
 > **Tools:** command line (1), bash (1)
@@ -1019,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** next (2), management (1), [[Apache Kafka]] (1)
 > **Cross-References:** in the next (2), later in (1), we discussed (1)
 > **CLI Commands:** docker (1), apache (1)
 > **Warnings:** note that (1), warning (1)
@@ -1075,7 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (2), data (1)
 > **Cross-References:** previous video (1), later in (1), in the next (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
@@ -1136,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), type, (1)
+> **Frameworks & Libraries:** data (4), next (2), prompt (1)
 > **File Paths:** kafka-console-producer.sh (2)
 > **CLI Commands:** docker (1)
 > **URLs:** [localhost:29092](https://localhost:29092) (1)
@@ -1202,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1), continue (1)
+> **Frameworks & Libraries:** [[Windows]] (3), data (1), next (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** kafka-console-consumer.sh (1)
@@ -1237,7 +1237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (1)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** kafka-topics.sh (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1295,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** data (6), next (2), [[Jetpack Compose|Compose]] (1), node (1)
 > **CLI Commands:** find (1), docker (1), node (1), cat (1)
 > **Cross-References:** in the next (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -1307,7 +1307,7 @@ created: 2026-04-29
 
 ### 4. Kafka Partitions and Groups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to partitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980)
@@ -1382,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), data (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1426,7 +1426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** [[Java]] (1), next (1), data (1)
 > **File Paths:** chapter-4-commands.txt (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** in the next (1)
@@ -1474,7 +1474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (3), product (2), next (1)
 > **Env Vars:** csv (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Tools:** command line (1)
@@ -1547,8 +1547,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), [[Scalability]] (1), next (1), data (1)
 > **Definitions:** is a  (4), is an  (2)
-> **Code Keywords:** let (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1637,7 +1637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (1)
+> **Frameworks & Libraries:** management (1), next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1741,7 +1741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1)
+> **Frameworks & Libraries:** data (5), next (2), [[Windows]] (1), [[Java]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** set up (2)
@@ -1753,7 +1753,7 @@ created: 2026-04-29
 
 ### 5. Kafka Java Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka client libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980)
@@ -1780,8 +1780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Programming]] (2), [[Java]] (1), next (1)
 > **File Paths:** pom.xml (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** pom (1)
 > **Cross-References:** next video (1)
 > **Tools:** command line (1)
@@ -1845,7 +1845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), case. (1), continue (1)
+> **Frameworks & Libraries:** [[Java]] (2), next (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **File Paths:** kafkasimpleproducer.java (1)
 > **Env Vars:** bootstrap_servers (1)
@@ -1877,7 +1877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Programming]] (1), next (1), [[Java]] (1), data (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -1936,7 +1936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this, (1)
+> **Frameworks & Libraries:** [[Java]] (3), data (1), next (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command line (1)
@@ -1990,7 +1990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), case. (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
@@ -2000,7 +2000,7 @@ created: 2026-04-29
 
 ### 6. Use Case Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka basics use case: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980)
@@ -2033,7 +2033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), finally, (1), case. (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Setting up topics
@@ -2057,7 +2057,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2094,7 +2093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** data (4), next (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2135,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (2), [[Java]] (1), data (1), [[Apache Kafka]] (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** template (1)
@@ -2144,7 +2143,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending your Kafka knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980)
@@ -2165,8 +2164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Kafka]] (3), next (1), [[Big Data]] (1), data (1)
 > **CLI Commands:** apache (4), find (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [kumaran] (1)
 
 

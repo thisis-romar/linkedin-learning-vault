@@ -43,7 +43,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Essential%20Training%20Part%202.md)
@@ -62,55 +62,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Data science life hacks
-  - What you should know
-  - How to use Codespaces in this course
+  - [Data science life hacks](#data-science-life-hacks)
+  - [What you should know](#what-you-should-know)
+  - [How to use Codespaces in this course](#how-to-use-codespaces-in-this-course)
 - [**1. Introduction to Machine Learning**](#1-introduction-to-machine-learning) (5 videos)
-  - Defining data science
-  - Seeing where machine learning fits in
-  - Machine learning AI foundations
-  - Grouping machine learning algorithms
-  - High-level machine learning roadmap
+  - [Defining data science](#defining-data-science)
+  - [Seeing where machine learning fits in](#seeing-where-machine-learning-fits-in)
+  - [Machine learning AI foundations](#machine-learning-ai-foundations)
+  - [Grouping machine learning algorithms](#grouping-machine-learning-algorithms)
+  - [High-level machine learning roadmap](#high-level-machine-learning-roadmap)
 - [**2. Regression Models**](#2-regression-models) (10 videos)
-  - Linear regression
-  - Multiple linear regression
-  - Logistic regression: Concepts
-  - Logistic regression: Data preparation
-  - Logistic regression: Treat missing values
-  - Logistic regression: Re-encode variable
-  - Logistic regression: Validating dataset
-  - Logistic regression: Model deployment
-  - Logistic regression: Model evaluation
-  - Logistic regression: Test prediction
+  - [Linear regression](#linear-regression)
+  - [Multiple linear regression](#multiple-linear-regression)
+  - [Logistic regression: Concepts](#logistic-regression-concepts)
+  - [Logistic regression: Data preparation](#logistic-regression-data-preparation)
+  - [Logistic regression: Treat missing values](#logistic-regression-treat-missing-values)
+  - [Logistic regression: Re-encode variable](#logistic-regression-re-encode-variable)
+  - [Logistic regression: Validating dataset](#logistic-regression-validating-dataset)
+  - [Logistic regression: Model deployment](#logistic-regression-model-deployment)
+  - [Logistic regression: Model evaluation](#logistic-regression-model-evaluation)
+  - [Logistic regression: Test prediction](#logistic-regression-test-prediction)
 - [**3. Clustering Models**](#3-clustering-models) (3 videos)
-  - Cluster analysis with the K-means method
-  - Hierarchical cluster analysis
-  - DBSCAN for outlier detection
+  - [Cluster analysis with the K-means method](#cluster-analysis-with-the-k-means-method)
+  - [Hierarchical cluster analysis](#hierarchical-cluster-analysis)
+  - [DBSCAN for outlier detection](#dbscan-for-outlier-detection)
 - [**4. Dimension Reduction Methods**](#4-dimension-reduction-methods) (2 videos)
-  - Explanatory factor analysis
-  - Principal component analysis (PCA)
+  - [Explanatory factor analysis](#explanatory-factor-analysis)
+  - [Principal component analysis (PCA)](#principal-component-analysis-pca)
 - [**5. Other Popular Machine Learning Methods**](#5-other-popular-machine-learning-methods) (7 videos)
-  - Association rules models with the Apriori algorithm
-  - Instance-based learning with KNN
-  - Decision trees with CART
-  - Bayesian statistics with Naïve Bayes
-  - Ensemble learning with random forest
-  - Neural networks with perceptrons
-  - Building a neural network
+  - [Association rules models with the Apriori algorithm](#association-rules-models-with-the-apriori-algorithm)
+  - [Instance-based learning with KNN](#instance-based-learning-with-knn)
+  - [Decision trees with CART](#decision-trees-with-cart)
+  - [Bayesian statistics with Naïve Bayes](#bayesian-statistics-with-nave-bayes)
+  - [Ensemble learning with random forest](#ensemble-learning-with-random-forest)
+  - [Neural networks with perceptrons](#neural-networks-with-perceptrons)
+  - [Building a neural network](#building-a-neural-network)
 - [**6. Getting Started with Natural Language Processing**](#6-getting-started-with-natural-language-processing) (3 videos)
-  - Introduction to natural language processing (NLP)
-  - Cleaning and stemming textual data
-  - Lemmatizing and analyzing textual data
+  - [Introduction to natural language processing (NLP)](#introduction-to-natural-language-processing-nlp)
+  - [Cleaning and stemming textual data](#cleaning-and-stemming-textual-data)
+  - [Lemmatizing and analyzing textual data](#lemmatizing-and-analyzing-textual-data)
 - [**7. Getting Started with Generative AI Models**](#7-getting-started-with-generative-ai-models) (3 videos)
-  - Deep dive into generative AI models
-  - Keeping up with AI developments
-  - Coding demo: Implementing a generative AI model
+  - [Deep dive into generative AI models](#deep-dive-into-generative-ai-models)
+  - [Keeping up with AI developments](#keeping-up-with-ai-developments)
+  - [Coding demo: Implementing a generative AI model](#coding-demo-implementing-a-generative-ai-model)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science life hacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980)
@@ -129,8 +129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (2), business (1), ai (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [lillian] (1)
 
 #### What you should know
@@ -152,9 +152,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[Codespaces]] (2), data (1), next (1)
 > **Tools:** jupyter (3)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -235,8 +235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[Python (Programming Language)|Python]] (4), web (2), hit (2), data (2)
 > **CLI Commands:** python (4), find (2)
-> **Code Keywords:** let (4), this. (1), interface (1)
 > **Tools:** terminal (2), jupyter (2), github (2)
 > **UI Navigation:** select the (2), go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980)
@@ -332,8 +332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[Statistics]] (10), [[Python (Programming Language)|Python]] (6), [[Programming]] (4), [[SQL]] (2)
 > **CLI Commands:** python (6), make (1)
-> **Code Keywords:** let (5)
 > **File Paths:** d3.js (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
@@ -515,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (2), include: (1), self (1), from, (1)
+> **Frameworks & Libraries:** data (19), feature (4), [[Algorithms]] (3), [[Supervised Learning]] (3), ai (2)
 > **CLI Commands:** make (7), find (2)
 > **Definitions:** is a  (5), is an  (3), refers to (1)
 > **Analogies:** imagine (3), for example (1), similar to (1)
@@ -598,9 +598,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), application (3), [[Engineering]] (3)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Grouping machine learning algorithms
@@ -700,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (3), case, (3), function (2), for, (1)
+> **Frameworks & Libraries:** data (16), [[Algorithms]] (10), [[k-means clustering]] (5), [[Forecasting]] (4), [[Supervised Learning]] (4)
 > **Cross-References:** we talked about (1), earlier in (1), we discussed (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
@@ -766,15 +766,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Algorithms]] (3), [[Linear Regression]] (2), database (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), pass (1)
 > **Env Vars:** cart (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Regression Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980)
@@ -995,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (7), this. (5), this, (3), function (3)
+> **Frameworks & Libraries:** [[Linear Regression]] (15), data (8), [[Forecasting]] (4), power (2), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 5.95 (1), 0.99 (1), 0.998 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (1), imagine (1), similar to (1)
@@ -1203,7 +1203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (7), pass (5), function (3), case, (1)
+> **Frameworks & Libraries:** data (14), [[Linear Regression]] (5), next (3), [[Pandas (Software)|Pandas]] (1), [[Logistic Regression]] (1)
 > **UI Navigation:** select the (2), right-click (1), scroll down (1), scroll up (1)
 > **CLI Commands:** make (3)
 > **Versions:** 0.99 (1), 0.01 (1), 0.85 (1)
@@ -1341,7 +1341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), class, (2), module (1), pass (1)
+> **Frameworks & Libraries:** data (12), [[Logistic Regression]] (9), [[Linear Regression]] (3), [[Customer Support]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (4), is called (1), in other words (1)
 > **Env Vars:** url (2)
 > **Analogies:** for example (1), imagine (1)
@@ -1505,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (4), function (1), for. (1), class, (1)
+> **Frameworks & Libraries:** data (11), [[Statistics]] (1), next (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** hls (1)
@@ -1719,7 +1719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (8), this. (7), elif (5), pass (3)
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (1), [[Statistics]] (1), next (1)
 > **Code Identifiers:** titanic_data (12), age_approx (2), parch_groups (1), reset_index (1)
 > **CLI Commands:** make (3), python (1)
 > **UI Navigation:** select the (2)
@@ -1881,8 +1881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), next (2)
 > **Non-Speech:** (keyboard clicking) (44), (mouse clicking) (2)
-> **Code Keywords:** let (18), pass (7), this. (7), this, (3), for. (1)
 > **Code Identifiers:** label_encoder (6), titanic_data (6), gender_encoded (5), embarked_encoded (4), gender_cat (2)
 > **CLI Commands:** make (6)
 > **Definitions:** means that (2), is a  (1)
@@ -1969,7 +1969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), pass (1), this. (1), for. (1)
+> **Frameworks & Libraries:** data (3), [[Logistic Regression]] (3), feature (2), next (1)
 > **Code Identifiers:** titanic_dmy (4)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -2098,7 +2098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), pass (4), let (4), function (2), this, (2)
+> **Frameworks & Libraries:** data (10), [[Logistic Regression]] (4), next (1)
 > **CLI Commands:** make (3)
 > **Versions:** 0.2 (1)
 > **Cross-References:** in the next (1)
@@ -2165,7 +2165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4), function (4), this. (2)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** y_train_pred (4), y_train (4), classification_report (1), y_test (1), y_pred (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2252,7 +2252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (2), this. (2), class, (1), switch (1)
+> **Frameworks & Libraries:** data (4), [[Probability]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Logistic Regression]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** predict_proba (1)
 > **Speakers:** - [instructor] (1)
@@ -2260,7 +2260,7 @@ created: 2026-04-29
 
 ### 3. Clustering Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cluster analysis with the K-means method
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980)
@@ -2511,7 +2511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), pass (11), this. (7), function (4), module (1)
+> **Frameworks & Libraries:** data (20), [[k-means clustering]] (4), next (2), [[Pandas (Software)|Pandas]] (1), feature (1)
 > **Code Identifiers:** iris_df (3), load_iris (1), variable_names (1), feature_names (1), n_clusters (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Tools:** jupyter (3)
@@ -2825,7 +2825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (8), function (6), pass (5), module (3)
+> **Frameworks & Libraries:** data (25), [[Microsoft Word|Word]] (4), functional (1), management (1), [[Business Process Management]] (1)
 > **Non-Speech:** (keypads clicking) (5)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (3)
@@ -3039,7 +3039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (7), this. (4), this, (3), function (2)
+> **Frameworks & Libraries:** data (21), next (2), [[Python (Programming Language)|Python]] (2), [[Computer Vision]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** min_samples (3), outliers_df (2), read_csv (1), min_sample (1), add_axes (1)
 > **Env Vars:** dbscan (9)
 > **CLI Commands:** make (2), python (2)
@@ -3051,7 +3051,7 @@ created: 2026-04-29
 
 ### 4. Dimension Reduction Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanatory factor analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980)
@@ -3164,7 +3164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), this. (2), continue (1), module (1)
+> **Frameworks & Libraries:** data (7), next (2), feature (1), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** in other words (2), is a  (1), means that (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -3374,7 +3374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (5), pass (4), function (1), module (1)
+> **Frameworks & Libraries:** data (5), [[Linear Algebra]] (2), [[Microsoft Products|Products]] (2), [[Algorithms]] (2), application (1)
 > **Env Vars:** pca (8), svd (3)
 > **Code Identifiers:** variable_names (2), explained_variance_ratio (2), iris_pca (1), fit_transform (1)
 > **Versions:** 92.5 (2), 97.8 (1), 97.7 (1)
@@ -3386,7 +3386,7 @@ created: 2026-04-29
 
 ### 5. Other Popular Machine Learning Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Association rules models with the Apriori algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980)
@@ -3785,7 +3785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (31), this. (10), function (6), pass (4), lambda (3)
+> **Frameworks & Libraries:** data (22), [[Microsoft Products|Products]] (7), next (3), [[Feature Engineering]] (3), [[Pandas (Software)|Pandas]] (3)
 > **Code Identifiers:** frequent_itemsets (9), baskets_sets (5), get_dummies (2), baskets_set (2), use_colnames (2)
 > **Definitions:** is a  (7), in other words (7), means that (2), refers to (1)
 > **Versions:** 0.9 (3), 0.1 (1), 0.3 (1), 0.07 (1), 4.28 (1)
@@ -3941,7 +3941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (6), function (6), pass (6), module (4)
+> **Frameworks & Libraries:** data (16), [[Python (Programming Language)|Python]] (3), next (1), [[Decision Trees]] (1)
 > **CLI Commands:** make (4), python (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Code Identifiers:** y_pred (2)
@@ -4113,8 +4113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision Trees]] (15), node (13), data (13), [[Algorithms]] (2), [[Probability]] (1)
 > **CLI Commands:** node (13), make (2), find (1)
-> **Code Keywords:** let (6), function (3), require (1)
 > **Definitions:** is a  (7), in other words (1), known as (1)
 > **Tools:** terminal (2)
 > **Analogies:** for example (1)
@@ -4321,7 +4321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), pass (8), function (7), this. (6), this, (3)
+> **Frameworks & Libraries:** data (12), [[Microsoft Word|Word]] (2), [[Statistics]] (1), [[Probability]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** x_train (2), x_test (2), y_train (2), y_test (2), y_expect (2)
 > **Env Vars:** url (3)
 > **Versions:** 0.1 (2), 0.2 (1)
@@ -4629,7 +4629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (10), function (8), pass (7), this, (2)
+> **Frameworks & Libraries:** data (24), [[Decision Trees]] (3), next (3), feature (3), [[Algorithms]] (2)
 > **Code Identifiers:** y_pred (5), y_test (4), y_test_array (3), x_train (2), x_test (2)
 > **Definitions:** is a  (4), is an  (2), is called (1)
 > **CLI Commands:** make (2), node (1)
@@ -4695,7 +4695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), this, (1), let (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), data (2), [[Deep Learning]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4906,7 +4906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (10), pass (7), function (5), this, (4)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (1), next (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Code Identifiers:** standardized_x_test (5), y_pred (4), y_train (3), y_test (3), x_train (2)
 > **Versions:** 0.2 (2), 0.15 (2)
 > **Prerequisites:** you'll need (2), set up (1)
@@ -4918,7 +4918,7 @@ created: 2026-04-29
 
 ### 6. Getting Started with Natural Language Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to natural language processing (NLP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980)
@@ -5143,7 +5143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (4), pass (3), function (2), include, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (37), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), next (2), data (2)
 > **Definitions:** is a  (5), in other words (2), stands for (2), is called (1), is an  (1)
 > **Code Identifiers:** sent_tk (4), sent_tokenize (2), word_tk (2)
 > **Env Vars:** nltk (6), nlp (1), vbz (1)
@@ -5331,7 +5331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (9), this. (6), pass (5), module (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), next (3), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** stemmed_words (5), filtered_words (4), port_stem (2), word_tk (1), ascent_tokenized (1)
 > **Env Vars:** nltk (3), stem (1)
 > **CLI Commands:** python (2)
@@ -5495,7 +5495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (10), pass (4), this, (3), function (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Generative AI]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (3), next (2), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** lemm_words (6), word_tk (4), pos_tagged_words (3), fd_alpha (3), pos_tag (2)
 > **CLI Commands:** python (2)
 > **Env Vars:** nltk (1)
@@ -5507,7 +5507,7 @@ created: 2026-04-29
 
 ### 7. Getting Started with Generative AI Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deep dive into generative AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980)
@@ -5606,7 +5606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), module (1), let (1), function (1)
+> **Frameworks & Libraries:** data (21), ai (3), [[Neural Networks]] (2), next (2), [[Generative AI]] (2)
 > **Analogies:** such as (4)
 > **Env Vars:** vae (1), gpt (1), brt (1)
 > **Definitions:** is a  (1), stands for (1)
@@ -5719,9 +5719,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (32), [[LinkedIn]] (3), [[Generative AI]] (1), data (1), business (1)
 > **Definitions:** stands for (4), is a  (2)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 > **Versions:** 3.0 (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [presenter] (1)
@@ -5897,7 +5897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (8), function (7), this. (6), require (1)
+> **Frameworks & Libraries:** ai (6), next (5), [[Hugging Face|Huggingface]] (2), [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** gpt (5), eos (3), pad (2), llm (1), lmh (1)
 > **CLI Commands:** pip (4), make (2)
 > **Code Identifiers:** numbeams (1), norepeat (1), gramsize (1), filterwarnings (1), futurewarning (1)
@@ -5909,7 +5909,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980)
@@ -5928,6 +5928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), ai (2), data (2), [[Responsible AI]] (1), business (1)
 > **Speakers:** - [instructor] (1)
 
 

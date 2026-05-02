@@ -27,7 +27,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP-%20Object-Oriented%20Programming%20with%20Databases.md)
@@ -46,60 +46,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - How to use the exercise files
-  - What you need to know
+  - [Welcome](#welcome)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Overview and Project Setup**](#1-overview-and-project-setup) (4 videos)
-  - Project overview
-  - Create a project database
-  - Create a database table
-  - Project files
+  - [Project overview](#project-overview)
+  - [Create a project database](#create-a-project-database)
+  - [Create a database table](#create-a-database-table)
+  - [Project files](#project-files)
 - [**2. The Database Connection**](#2-the-database-connection) (5 videos)
-  - Database credentials
-  - Connect to the database
-  - MySQLi methods and properties
-  - Query using OOP
-  - Disconnect from the database
+  - [Database credentials](#database-credentials)
+  - [Connect to the database](#connect-to-the-database)
+  - [MySQLi methods and properties](#mysqli-methods-and-properties)
+  - [Query using OOP](#query-using-oop)
+  - [Disconnect from the database](#disconnect-from-the-database)
 - [**3. Define a Database-Driven Class**](#3-define-a-database-driven-class) (6 videos)
-  - Active record design patterns
-  - Set the database
-  - Define query methods
-  - Build objects using record values
-  - Find a single record
-  - Display a detail page
+  - [Active record design patterns](#active-record-design-patterns)
+  - [Set the database](#set-the-database)
+  - [Define query methods](#define-query-methods)
+  - [Build objects using record values](#build-objects-using-record-values)
+  - [Find a single record](#find-a-single-record)
+  - [Display a detail page](#display-a-detail-page)
 - [**4. Object-Oriented CRUD**](#4-object-oriented-crud) (10 videos)
-  - CRUD operations
-  - Create a record
-  - Dynamic attribute list
-  - Sanitize values for database
-  - Find record to update
-  - Update a record
-  - HTML forms for OOP
-  - Validations and errors
-  - Delete a record
-  - Create inheritable code
+  - [CRUD operations](#crud-operations)
+  - [Create a record](#create-a-record)
+  - [Dynamic attribute list](#dynamic-attribute-list)
+  - [Sanitize values for database](#sanitize-values-for-database)
+  - [Find record to update](#find-record-to-update)
+  - [Update a record](#update-a-record)
+  - [HTML forms for OOP](#html-forms-for-oop)
+  - [Validations and errors](#validations-and-errors)
+  - [Delete a record](#delete-a-record)
+  - [Create inheritable code](#create-inheritable-code)
 - [**5. Object-Oriented Authentication**](#5-object-oriented-authentication) (9 videos)
-  - Admin class
-  - Hashing passwords
-  - Admin validations
-  - Find by username
-  - Verify password
-  - Define a session class
-  - Add page access control
-  - Improve the session class
-  - Session messages
+  - [Admin class](#admin-class)
+  - [Hashing passwords](#hashing-passwords)
+  - [Admin validations](#admin-validations)
+  - [Find by username](#find-by-username)
+  - [Verify password](#verify-password)
+  - [Define a session class](#define-a-session-class)
+  - [Add page access control](#add-page-access-control)
+  - [Improve the session class](#improve-the-session-class)
+  - [Session messages](#session-messages)
 - [**6. Object-Oriented Pagination**](#6-object-oriented-pagination) (5 videos)
-  - Pagination concepts
-  - Define a pagination class
-  - Paginate bicycles
-  - Previous and next page links
-  - Numbered page links
+  - [Pagination concepts](#pagination-concepts)
+  - [Define a pagination class](#define-a-pagination-class)
+  - [Paginate bicycles](#paginate-bicycles)
+  - [Previous and next page links](#previous-and-next-page-links)
+  - [Numbered page links](#numbered-page-links)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980)
@@ -124,9 +124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (8), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), [[Databases]] (3), [[MySQL]] (2), database (1)
 > **CLI Commands:** php (8), mysql (2), make (1)
 > **Env Vars:** php (8), html (1)
-> **Code Keywords:** delete (1), let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [kevin] (1)
 
@@ -181,6 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[MySQL]] (4), data (3), [[PHP]] (2), web (2)
 > **CLI Commands:** make (4), mysql (4), php (2), find (2)
 > **Exercise Files:** exercise files (11)
 > **Env Vars:** php (2), sql (1)
@@ -256,10 +257,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (21), [[MySQL]] (9), web (9), database (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3)
 > **CLI Commands:** php (21), mysql (9), make (3)
 > **Env Vars:** php (19)
 > **Tools:** atom (2), firefox (1), command line (1)
-> **Code Keywords:** delete (1), function (1), let (1)
 > **Versions:** version 7 (2), version 5 (1)
 > **File Paths:** my_phpinfo.php (2)
 > **Code Identifiers:** my_phpinfo (2)
@@ -268,7 +269,7 @@ created: 2026-04-29
 
 ### 1. Overview and Project Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980)
@@ -325,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), delete (1)
+> **Frameworks & Libraries:** database (4), [[PHP]] (2), [[Programming]] (2), [[Content Management]] (1), power (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **Cross-References:** in the next (1)
@@ -400,9 +401,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), [[MySQL]] (5), [[Databases]] (4), data (1), [[Security]] (1)
 > **Env Vars:** create (2), database (2), grant (2), privileges (2), identified (2)
 > **CLI Commands:** mysql (5), make (2), php (1)
-> **Code Keywords:** let (3), default, (1), else. (1), finally, (1), this; (1)
 > **Code Identifiers:** chain_gang (7)
 > **UI Navigation:** go to (2), switch to (1)
 > **Tools:** command line (2)
@@ -471,8 +472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (8), [[SQL]] (8), application (1), [[PHP]] (1)
 > **Env Vars:** sql (5), php (1)
-> **Code Keywords:** let (4), switch (1)
 > **Tools:** terminal (2), command line (1)
 > **File Paths:** create_table_bicycles.sql (1), bicycles.sql (1)
 > **CLI Commands:** make (1), php (1)
@@ -575,7 +576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), private (4), class. (2), public (2), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (12), database (3), web (3), data (3), [[Programming]] (1)
 > **CLI Commands:** php (12), find (1), make (1)
 > **File Paths:** index.php (2), initialized.php (2), bicycles.php (2), parse.csv (2), initialize.php (1)
 > **Env Vars:** csv (5), php (2), sql (1)
@@ -587,7 +588,7 @@ created: 2026-04-29
 
 ### 2. The Database Connection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Database credentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980)
@@ -664,7 +665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), require (2), private (1), pass (1)
+> **Frameworks & Libraries:** database (7), application (5), [[PHP]] (4), business (1), [[MySQL]] (1)
 > **CLI Commands:** php (4), make (2), mysql (1)
 > **File Paths:** db_credentials.php (1), initialize.php (1), credentials.php (1)
 > **Code Identifiers:** db_credentials (1), chain_gang (1)
@@ -784,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (7), pass (4)
+> **Frameworks & Libraries:** database (22), [[PHP]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[SQL]] (2), [[Databases]] (1)
 > **Code Identifiers:** db_connect (5), database_functions (2), confirm_db_connect (2), connect_errno (2), connect_error (2)
 > **CLI Commands:** php (6), make (3), mysql (1), find (1)
 > **Env Vars:** php (3), sql (2), db_server (1), db_user (1), db_pass (1)
@@ -898,8 +899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[SQL]] (2), data (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** mysqli_query (2), fetch_assoc (2), fetch_object (2), mysqli_real_escape_string (1), escape_string (1)
-> **Code Keywords:** function (3), let (2), default. (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
@@ -982,9 +983,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), [[PHP]] (6), data (6), [[SQL]] (5), [[Fetch]] (2)
 > **Env Vars:** sql (5), csv (2), php (1)
 > **CLI Commands:** php (6), make (1)
-> **Code Keywords:** let (3), public (2), while. (1)
 > **File Paths:** initialize.php (3), bicycles.php (1), chain_gang/public/bicycles.php (1)
 > **Definitions:** means that (1), is a  (1)
 > **Code Identifiers:** fetch_assoc (1)
@@ -1070,7 +1071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), public (3), function (2), raise (1)
+> **Frameworks & Libraries:** database (14), [[PHP]] (3)
 > **CLI Commands:** php (3), make (3)
 > **Env Vars:** php (3)
 > **Code Identifiers:** mysqli_close (1)
@@ -1082,7 +1083,7 @@ created: 2026-04-29
 
 ### 3. Define a Database-Driven Class
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Active record design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980)
@@ -1161,7 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class. (2), delete (2), this, (1), class, (1)
+> **Frameworks & Libraries:** database (18), [[PHP]] (3), [[Databases]] (1), oop (1), [[Laravel]] (1)
 > **CLI Commands:** php (3), make (2), find (2)
 > **Env Vars:** php (3), oop (1), sql (1)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -1244,7 +1245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (5), static (4), class. (3), protected (3)
+> **Frameworks & Libraries:** database (22), [[PHP]] (1), [[Programming]] (1)
 > **CLI Commands:** make (4), php (1), find (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** php (1)
@@ -1343,7 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), class. (5), function (5), public (4), this. (2)
+> **Frameworks & Libraries:** database (11), [[SQL]] (10)
 > **CLI Commands:** find (11), make (9)
 > **Env Vars:** sql (10)
 > **Tools:** firefox (1)
@@ -1517,7 +1518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (3), class. (2), this, (2), static (2)
+> **Frameworks & Libraries:** database (6), data (1), [[Fetch]] (1)
 > **Code Identifiers:** find_all (2), find_by_sql (1), property_exists (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** csv (1)
@@ -1624,7 +1625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), pass (2), self (2), switch (1)
+> **Frameworks & Libraries:** database (8), [[SQL]] (8), next (1), [[PHP]] (1)
 > **CLI Commands:** find (8), php (1), make (1)
 > **Env Vars:** sql (8), php (1)
 > **Definitions:** is called (1), is an  (1)
@@ -1743,7 +1744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), public (3), switch (1), pass (1), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (9), database (3), data (1), [[SQL]] (1)
 > **CLI Commands:** php (9), find (5), make (4)
 > **File Paths:** detail.php (3), bicycles.php (2), initialize.php (1)
 > **UI Navigation:** click on (3), go to (2)
@@ -1755,7 +1756,7 @@ created: 2026-04-29
 
 ### 4. Object-Oriented CRUD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CRUD operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980)
@@ -1872,7 +1873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), let (7), public (5), private (2), interface (1)
+> **Frameworks & Libraries:** database (9), [[SQL]] (7), [[PHP]] (4), next (2), [[Content Management]] (1)
 > **Env Vars:** sql (7), crud (2), update (2), where (2), limit (2)
 > **CLI Commands:** find (7), php (4), make (1)
 > **SQL:** update (2), where (2), insert into (1)
@@ -2132,7 +2133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), new. (3), function (3), this, (3), class, (2)
+> **Frameworks & Libraries:** database (18), [[SQL]] (13), [[PHP]] (8), [[Content Management]] (1), [[Programming]] (1)
 > **Env Vars:** sql (13), php (4)
 > **CLI Commands:** php (8), find (4), make (1)
 > **File Paths:** new.php (3), initialize.php (1)
@@ -2318,7 +2319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), self (3), static (1), protected (1), public (1)
+> **Frameworks & Libraries:** database (10), [[PHP]] (2), next (2), [[SQL]] (2), parallel (1)
 > **CLI Commands:** make (8), php (2), find (1)
 > **Code Identifiers:** db_columns (4), array_values (2), array_keys (2)
 > **Env Vars:** php (2), sql (1)
@@ -2434,7 +2435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), from. (1), protected (1), function (1)
+> **Frameworks & Libraries:** database (5), [[SQL]] (4), data (1), application (1), [[PHP]] (1)
 > **CLI Commands:** make (8), php (1), mysql (1)
 > **Env Vars:** sql (4), sqlstate (1), php (1)
 > **Code Identifiers:** escape_string (3), sanitized_attributes (1)
@@ -2696,7 +2697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (40), public (3), new. (2), protected (2), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (15), database (9), data (4), next (3), [[HTML]] (2)
 > **CLI Commands:** php (15), find (7), make (7)
 > **Env Vars:** php (9), url (2), html (2), crud (1), cms (1)
 > **File Paths:** new.php (2), initalize.php (1), four/staff/bicycles/index.php (1), field.php (1), edit.php (1)
@@ -3014,7 +3015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), public (3), function (3), switch (2), self (2)
+> **Frameworks & Libraries:** database (15), [[SQL]] (8), [[PHP]] (4), [[Programming]] (1), data (1)
 > **Code Identifiers:** attribute_pairs (8), post_request (4), merge_attributes (2), sanitized_attributes (2), escape_string (1)
 > **CLI Commands:** make (9), php (4), find (2)
 > **File Paths:** edit.php (3), new.php (1)
@@ -3172,7 +3173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (3), super (3), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (6), data (3), [[PHP]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1)
 > **CLI Commands:** make (5), php (3)
 > **UI Navigation:** go to (5), click on (1), scroll down (1)
 > **Env Vars:** html (6)
@@ -3396,7 +3397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (4), class. (2), switch (2), private (1)
+> **Frameworks & Libraries:** data (6), database (4), [[PHP]] (4), application (2), [[MySQL]] (1)
 > **CLI Commands:** make (6), php (4), mysql (1), find (1)
 > **File Paths:** validation_functions.php (1), initialize.php (1), new.php (1)
 > **Cross-References:** go back to (2), we talked about (1)
@@ -3560,7 +3561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (39), let (20), case, (2), function (2), from, (1)
+> **Frameworks & Libraries:** database (13), [[SQL]] (10), [[PHP]] (6), data (2), next (1)
 > **CLI Commands:** find (8), php (6), make (5)
 > **Env Vars:** sql (10), php (3), delete (2), where (2), limit (2)
 > **UI Navigation:** go to (4), click on (1)
@@ -3831,7 +3832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), class. (17), class, (13), static (12), self (8)
+> **Frameworks & Libraries:** database (28), [[PHP]] (4), [[Programming]] (3), next (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (10), find (6), php (4)
 > **UI Navigation:** scroll down (4), scroll up (1), go to (1)
 > **Env Vars:** php (4), sql (1)
@@ -3843,7 +3844,7 @@ created: 2026-04-29
 
 ### 5. Object-Oriented Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Admin class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980)
@@ -4008,7 +4009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (7), class. (3), new, (2), class, (1)
+> **Frameworks & Libraries:** [[PHP]] (9), database (8), [[MySQL]] (3), [[SQL]] (3), next (2)
 > **Code Identifiers:** first_name (5), last_name (5), hashed_password (4), create_table_admins (1), chain_gang (1)
 > **Env Vars:** php (2), sql (2), show (2), integer (1), auto_increment (1)
 > **CLI Commands:** php (9), mysql (3), make (3), find (2)
@@ -4184,7 +4185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (6), protected (5), public (4), pass (3)
+> **Frameworks & Libraries:** database (8), [[PHP]] (4), [[MySQL]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Programming]] (1)
 > **CLI Commands:** php (4), make (3), mysql (2)
 > **Env Vars:** php (2), password_bcrypt (1), bcrypt (1)
 > **Cross-References:** in the last (1), we talked about (1), go back to (1)
@@ -4356,7 +4357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), protected (4), function (4), else. (3), override (2)
+> **Frameworks & Libraries:** [[PHP]] (2), [[MySQL]] (1), next (1)
 > **CLI Commands:** make (8), php (2), mysql (1)
 > **Code Identifiers:** password_required (4), first_name (1), has_length (1)
 > **Cross-References:** we talked about (2), in the last (1), go back to (1), in the next (1)
@@ -4456,7 +4457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), pass (8), class, (4), this, (2), case, (2)
+> **Frameworks & Libraries:** database (5), [[PHP]] (3), [[SQL]] (2), [[MySQL]] (1), [[Programming]] (1)
 > **CLI Commands:** find (14), php (3), make (2), mysql (1)
 > **File Paths:** functions.php (1), class.php (1)
 > **Env Vars:** sql (2)
@@ -4606,7 +4607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (4), pass (3), public (2), match. (1)
+> **Frameworks & Libraries:** [[PHP]] (7), database (2), hit (1), next (1)
 > **CLI Commands:** php (7), find (5), make (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **UI Navigation:** go to (2)
@@ -4839,7 +4840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (7), pass (5), class. (4), private (4)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Security]] (1), feature (1), hit (1)
 > **Code Identifiers:** admin_id (5), is_logged_in (3), check_stored_login (3), session_regenerate_id (2), log_in (1)
 > **CLI Commands:** php (9), make (5), find (1)
 > **File Paths:** initialize.php (2), login.php (2), session.class.php (1)
@@ -4967,7 +4968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (5), delete (2), new. (1), new, (1)
+> **Frameworks & Libraries:** [[PHP]] (17), [[Representational State Transfer (REST)|Rest]] (1), hit (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** php (17), make (2)
 > **File Paths:** index.php (8), staff/login.php (1), status_error_functions.php (1), new.php (1)
 > **Code Identifiers:** require_login (4), url_for (1), status_error_functions (1)
@@ -5153,7 +5154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this, (3), class. (2), public (2), private (2)
+> **Frameworks & Libraries:** [[PHP]] (2), feature (1), parallel (1), database (1)
 > **Code Identifiers:** last_login (15), last_login_is_recent (3)
 > **CLI Commands:** make (7), php (2)
 > **UI Navigation:** go to (3), click on (1)
@@ -5309,7 +5310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (6), public (2), class, (1), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1), business (1)
 > **CLI Commands:** make (7), php (3)
 > **Code Identifiers:** get_and_clear_session_message (3), display_session_messages (1), display_session_message (1), clear_message (1)
 > **File Paths:** edit.php (3)
@@ -5321,7 +5322,7 @@ created: 2026-04-29
 
 ### 6. Object-Oriented Pagination
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pagination concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980)
@@ -5440,8 +5441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), next (5), database (2), [[Microsoft Word|Word]] (2), [[Google]] (2)
 > **Env Vars:** sql (8), php (1)
-> **Code Keywords:** let (6), this. (1)
 > **CLI Commands:** make (3), php (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** imagine (1), for example (1)
@@ -5574,7 +5575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), pass (6), function (3), let (2), class. (2)
+> **Frameworks & Libraries:** next (8), [[PHP]] (3)
 > **CLI Commands:** make (4), php (3), find (1)
 > **File Paths:** pagination.class.php (1), index.php (1)
 > **Code Identifiers:** function__construct (1), total_count (1)
@@ -5739,7 +5740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2), class, (1), super (1), self (1)
+> **Frameworks & Libraries:** [[SQL]] (13), database (4), next (3), [[Fetch]] (3), data (2)
 > **CLI Commands:** find (7), php (2), make (1)
 > **Env Vars:** url (4)
 > **Code Identifiers:** result_set (2), find_by_sql (1)
@@ -5977,7 +5978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), function (4), this, (3), this. (2), class. (2)
+> **Frameworks & Libraries:** next (24), [[PHP]] (3), css (1), [[HTML]] (1)
 > **Env Vars:** url (12), css (1), html (1)
 > **CLI Commands:** make (5), php (3)
 > **UI Navigation:** go to (4), click on (3), navigate to (1)
@@ -6243,7 +6244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (34), function (4), class. (4), this. (4), this, (3)
+> **Frameworks & Libraries:** next (9), css (7), [[PHP]] (3), [[Google]] (2)
 > **Env Vars:** url (8), css (6)
 > **UI Navigation:** click on (8), go to (3)
 > **CLI Commands:** make (6), php (3)
@@ -6255,7 +6256,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/next-steps?u=76281980)
@@ -6278,9 +6279,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[Databases]] (2), database (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), oop (1)
 > **Env Vars:** php (2), oop (1)
 > **CLI Commands:** php (2)
-> **Code Keywords:** delete (1)
 > **Speakers:** - i (1)
 
 

@@ -22,7 +22,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/HTTP%20Essential%20Training.md)
@@ -41,31 +41,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. HTTP: Hypertext Transfer Protocol**](#1-http-hypertext-transfer-protocol) (5 videos)
-  - What is HTTP?
-  - HTTP, HTTP/2, and HTTPS
-  - HTTP terminology
-  - The HTTP flow
-  - Tools to see HTTP in action
+  - [What is HTTP?](#what-is-http)
+  - [HTTP, HTTP/2, and HTTPS](#http-http2-and-https)
+  - [HTTP terminology](#http-terminology)
+  - [The HTTP flow](#the-http-flow)
+  - [Tools to see HTTP in action](#tools-to-see-http-in-action)
 - [**2. Requests and Responses**](#2-requests-and-responses) (4 videos)
-  - The request/response pair
-  - Anatomy of a URL
-  - HTTP methods
-  - HTTP status messages
+  - [The request/response pair](#the-requestresponse-pair)
+  - [Anatomy of a URL](#anatomy-of-a-url)
+  - [HTTP methods](#http-methods)
+  - [HTTP status messages](#http-status-messages)
 - [**3. HTTP Headers**](#3-http-headers) (6 videos)
-  - What are HTTP headers?
-  - How to see HTTP headers
-  - Anatomy of a request header
-  - Anatomy of a response header
-  - Cookies
-  - Caching
+  - [What are HTTP headers?](#what-are-http-headers)
+  - [How to see HTTP headers](#how-to-see-http-headers)
+  - [Anatomy of a request header](#anatomy-of-a-request-header)
+  - [Anatomy of a response header](#anatomy-of-a-response-header)
+  - [Cookies](#cookies)
+  - [Caching](#caching)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thank you
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/welcome?u=76281980)
@@ -94,16 +94,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), data (2), database (1), power (1)
 > **Env Vars:** http (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - what (1)
 
 
 ### 1. HTTP: Hypertext Transfer Protocol
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is HTTP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980)
@@ -178,9 +178,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), data (3), [[Microsoft Word|Word]] (1), [[Server Configuration]] (1)
 > **Env Vars:** http (18), url (2)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (1), delete (1), this, (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -217,6 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Algorithms]] (1)
 > **Env Vars:** http (18), https (4)
 > **Versions:** 1.1 (4)
 > **CLI Commands:** make (1)
@@ -318,9 +319,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), data (7), application (6), css (2), next (2)
 > **Env Vars:** http (13), tcp (2), css (2), html (1), url (1)
 > **Definitions:** is a  (4), is an  (2), short for (2)
-> **Code Keywords:** let (2), delete (2), this, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** download the (1)
@@ -384,8 +385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), web (3), [[JavaScript]] (3), [[HTML]] (1), css (1)
 > **Env Vars:** http (9), tcp (3), https (1), tls (1), put (1)
-> **Code Keywords:** delete (1), finally, (1)
 > **CLI Commands:** make (1)
 > **API Endpoints:** delete  (1)
 > **UI Navigation:** go to (1)
@@ -492,9 +493,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), data (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (1)
 > **Env Vars:** url (4), rest (2), tcp (1), http2 (1), http (1)
 > **Tools:** firefox (3), safari (1), postman (1), insomnia (1), vs code (1)
-> **Code Keywords:** interface (2), case, (2), from, (1), finally, (1)
 > **UI Navigation:** go to (2), right-click (1), scroll down (1), click on (1)
 > **CLI Commands:** make (3), nginx (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -504,7 +505,7 @@ created: 2026-04-29
 
 ### 2. Requests and Responses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The request/response pair
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/the-request-response-pair?u=76281980)
@@ -525,6 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** http (1)
 > **Speakers:** - the (1)
@@ -588,9 +590,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), web (4), [[PHP]] (2), [[LinkedIn]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (6), urn (3), dns (1)
 > **File Paths:** index.html (2), default.html (2), index.php (1), about.html (1), contact.php (1)
-> **Code Keywords:** default. (2), for. (1), let (1), else, (1), finally, (1)
 > **URLs:** [https://linkedin.com/learning](https://linkedin.com/learning) (1), [localhost:8080](https://localhost:8080) (1), [mysite.com](https://mysite.com) (1)
 > **CLI Commands:** php (2)
 > **Definitions:** is a  (1), is called (1)
@@ -692,9 +694,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (2), web (1), [[Security]] (1)
 > **Env Vars:** put (9), post (8), http (7), delete (4), patch (3)
 > **API Endpoints:** put  (7), post  (4), get  (2), patch  (2), delete  (2)
-> **Code Keywords:** delete (7), require (2), let (1), public (1), return. (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** used (1)
 > **Speakers:** - every (1)
@@ -764,16 +766,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Env Vars:** http (5), uri (3), post (2), url (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** continue (1), else. (1)
 > **API Endpoints:** post  (1)
 > **Speakers:** - anytime (1)
 
 
 ### 3. HTTP Headers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are HTTP headers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980)
@@ -836,8 +838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Content Management Systems (CMS)|Content management systems]] (1), [[Content Management]] (1), next (1), web (1)
 > **Env Vars:** http (4), post (1), http2 (1)
-> **Code Keywords:** for. (1), pass (1), break. (1), let (1), delete (1)
 > **CLI Commands:** make (2)
 > **API Endpoints:** post  (1)
 > **Cross-References:** earlier in (1)
@@ -957,9 +959,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (15), web (2), application (2), [[HTML]] (2), traffic (1)
 > **Env Vars:** rest (14), head (4), url (3), http (2), html (2)
 > **Tools:** postman (5), visual studio (3), firefox (1)
-> **Code Keywords:** type, (3), interface (1), let (1), case, (1), this, (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** as you saw (1), earlier in (1)
@@ -997,8 +999,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1), data (1)
 > **Env Vars:** http (3), url (3), https (1), urn (1)
-> **Code Keywords:** return. (1), from, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1021,7 +1023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[HTML]] (2)
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1077,8 +1079,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), next (3), database (2), [[Tokens]] (1), data (1)
 > **UI Navigation:** click on (4), go to (2)
-> **Code Keywords:** let (2), pass (1), else, (1)
 > **Env Vars:** attp (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1128,8 +1130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), css (2), [[Google]] (1)
 > **Env Vars:** http (3), css (2), mdm (1)
-> **Code Keywords:** public (1), private (1), this, (1)
 > **CLI Commands:** find (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Speakers:** - [instructor] (1)
@@ -1137,7 +1139,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980)
@@ -1154,6 +1156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Google]] (1), web (1), [[LinkedIn]] (1)
 > **Env Vars:** http (4), api (1), mdn (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [google.com](https://google.com) (1)

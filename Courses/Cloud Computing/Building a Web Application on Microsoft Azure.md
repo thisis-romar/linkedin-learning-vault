@@ -32,7 +32,7 @@ tags:
   - skill/microsoft-azure
   - skill/web-application-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20a%20Web%20Application%20on%20Microsoft%20Azure.md)
@@ -51,57 +51,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Capitalize on the power of Azure to craft your web app
-  - What you need to know
-  - What you are going to build
+  - [Capitalize on the power of Azure to craft your web app](#capitalize-on-the-power-of-azure-to-craft-your-web-app)
+  - [What you need to know](#what-you-need-to-know)
+  - [What you are going to build](#what-you-are-going-to-build)
 - [**1. Using Azure DevOps for Storing Your Code**](#1-using-azure-devops-for-storing-your-code) (5 videos)
-  - Using Azure DevOps for storing your code
-  - Exploring the Pet Management application base source code
-  - Creating a new Azure DevOps account and organization
-  - Creating a new Azure DevOps project and adding existing code
-  - Creating and accepting a pull request in Azure Repos
+  - [Using Azure DevOps for storing your code](#using-azure-devops-for-storing-your-code)
+  - [Exploring the Pet Management application base source code](#exploring-the-pet-management-application-base-source-code)
+  - [Creating a new Azure DevOps account and organization](#creating-a-new-azure-devops-account-and-organization)
+  - [Creating a new Azure DevOps project and adding existing code](#creating-a-new-azure-devops-project-and-adding-existing-code)
+  - [Creating and accepting a pull request in Azure Repos](#creating-and-accepting-a-pull-request-in-azure-repos)
 - [**2. Hosting and Running the Web Application in Azure App Service**](#2-hosting-and-running-the-web-application-in-azure-app-service) (6 videos)
-  - Hosting and running the web application in Azure App Service
-  - Provisioning a new Azure App Service resource in the portal
-  - Creating a new deployment slot for development
-  - Connecting the deployment slot to Azure Repos
-  - Modifying the source code to automatically publish the app
-  - Swapping the deployment slots
+  - [Hosting and running the web application in Azure App Service](#hosting-and-running-the-web-application-in-azure-app-service)
+  - [Provisioning a new Azure App Service resource in the portal](#provisioning-a-new-azure-app-service-resource-in-the-portal)
+  - [Creating a new deployment slot for development](#creating-a-new-deployment-slot-for-development)
+  - [Connecting the deployment slot to Azure Repos](#connecting-the-deployment-slot-to-azure-repos)
+  - [Modifying the source code to automatically publish the app](#modifying-the-source-code-to-automatically-publish-the-app)
+  - [Swapping the deployment slots](#swapping-the-deployment-slots)
 - [**3. Using Azure SQL for Your Data Storage**](#3-using-azure-sql-for-your-data-storage) (4 videos)
-  - Using Azure SQL for your data storage
-  - Creating the Azure SQL server and database
-  - Modifying the application to use the SQL EF provider
-  - Creating a pull request for publishing the changes
+  - [Using Azure SQL for your data storage](#using-azure-sql-for-your-data-storage)
+  - [Creating the Azure SQL server and database](#creating-the-azure-sql-server-and-database)
+  - [Modifying the application to use the SQL EF provider](#modifying-the-application-to-use-the-sql-ef-provider)
+  - [Creating a pull request for publishing the changes](#creating-a-pull-request-for-publishing-the-changes)
 - [**4. Using Azure Storage for Storing Binary Files**](#4-using-azure-storage-for-storing-binary-files) (10 videos)
-  - Using Azure Storage for storing binary files
-  - Creating the Storage account using the Azure portal
-  - Creating the Blob container in the Storage account
-  - Modifying the seed data to read the photos from the container
-  - Modifying the user interface to upload photos
-  - Implementing the StorageService class
-  - Invoking the StorageService from the Edit page
-  - Testing the web application locally
-  - Publishing the application to the deployment slot
-  - Swapping the production and dev deployment slots
+  - [Using Azure Storage for storing binary files](#using-azure-storage-for-storing-binary-files)
+  - [Creating the Storage account using the Azure portal](#creating-the-storage-account-using-the-azure-portal)
+  - [Creating the Blob container in the Storage account](#creating-the-blob-container-in-the-storage-account)
+  - [Modifying the seed data to read the photos from the container](#modifying-the-seed-data-to-read-the-photos-from-the-container)
+  - [Modifying the user interface to upload photos](#modifying-the-user-interface-to-upload-photos)
+  - [Implementing the StorageService class](#implementing-the-storageservice-class)
+  - [Invoking the StorageService from the Edit page](#invoking-the-storageservice-from-the-edit-page)
+  - [Testing the web application locally](#testing-the-web-application-locally)
+  - [Publishing the application to the deployment slot](#publishing-the-application-to-the-deployment-slot)
+  - [Swapping the production and dev deployment slots](#swapping-the-production-and-dev-deployment-slots)
 - [**5. Using Azure Functions to Improve Your Web Application**](#5-using-azure-functions-to-improve-your-web-application) (7 videos)
-  - Using Azure Functions to improve your web application
-  - Creating the Azure Functions project and repository
-  - Testing the function by using the Azure Storage Explorer
-  - Implementing the resize code and the output binding
-  - Modifying the web application to display the thumbnails
-  - Pushing all the changes to the remote repositories
-  - Provisioning the Function App resource and testing the app
+  - [Using Azure Functions to improve your web application](#using-azure-functions-to-improve-your-web-application)
+  - [Creating the Azure Functions project and repository](#creating-the-azure-functions-project-and-repository)
+  - [Testing the function by using the Azure Storage Explorer](#testing-the-function-by-using-the-azure-storage-explorer)
+  - [Implementing the resize code and the output binding](#implementing-the-resize-code-and-the-output-binding)
+  - [Modifying the web application to display the thumbnails](#modifying-the-web-application-to-display-the-thumbnails)
+  - [Pushing all the changes to the remote repositories](#pushing-all-the-changes-to-the-remote-repositories)
+  - [Provisioning the Function App resource and testing the app](#provisioning-the-function-app-resource-and-testing-the-app)
 - [**6. Taking Advantage of Azure Logic Apps for Your Web App**](#6-taking-advantage-of-azure-logic-apps-for-your-web-app) (4 videos)
-  - Taking advantage of Azure Logic Apps for your web app
-  - Creating the Azure Logic App resource for sending an email
-  - Testing the Logic App
-  - Modifying the existing Logic App to add a custom SQL Query
+  - [Taking advantage of Azure Logic Apps for your web app](#taking-advantage-of-azure-logic-apps-for-your-web-app)
+  - [Creating the Azure Logic App resource for sending an email](#creating-the-azure-logic-app-resource-for-sending-an-email)
+  - [Testing the Logic App](#testing-the-logic-app)
+  - [Modifying the existing Logic App to add a custom SQL Query](#modifying-the-existing-logic-app-to-add-a-custom-sql-query)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capitalize on the power of Azure to craft your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** web (2), [[Microsoft Azure|Azure]] (2), application (2), cloud (1), management (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [rodrigo] (1)
 
@@ -169,8 +169,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Programming]] (2), [[Git]] (2), application (1), [[ASP.NET Core]] (1)
 > **Env Vars:** net (4), sdk (1), asp (1), ide (1)
-> **Code Keywords:** finally, (2), case, (1), function (1), let (1)
 > **Tools:** visual studio (2), azure portal (1)
 > **CLI Commands:** git (2)
 > **URLs:** [asp.net](https://asp.net) (1), [azure.com](https://azure.com) (1)
@@ -227,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), static (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (5), data (3), next (2), management (1)
 > **Env Vars:** asp (1), net (1), sql (1)
 > **Prerequisites:** setup (1), set up (1)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -237,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Using Azure DevOps for Storing Your Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure DevOps for storing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980)
@@ -260,8 +260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Azure|Azure]] (2), [[DevOps]] (2), functional (1), management (1)
 > **Env Vars:** asp (1), net (1)
-> **Code Keywords:** protected (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -365,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (1), this. (1)
+> **Frameworks & Libraries:** application (4), [[Microsoft SQL Server|Sql server]] (4), database (4), web (2), management (2)
 > **Env Vars:** sql (6)
 > **Tools:** visual studio (4), terminal (1)
 > **Definitions:** is a  (2), in other words (2)
@@ -415,7 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[DevOps]] (4), [[Microsoft]] (1), next (1)
 > **UI Navigation:** click on (2)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Cross-References:** in the next (1)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), private (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Version Control]] (1)
 > **CLI Commands:** git (2)
 > **Tools:** terminal (2)
 > **UI Navigation:** click on (1), navigate to (1)
@@ -541,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (2), this. (2)
+> **Frameworks & Libraries:** feature (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Env Vars:** wpm (1)
 > **Tools:** visual studio (1)
@@ -550,7 +550,7 @@ created: 2026-04-29
 
 ### 2. Hosting and Running the Web Application in Azure App Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hosting and running the web application in Azure App Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/hosting-and-running-the-web-application-in-azure-app-service?u=76281980)
@@ -573,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), application (2), [[DevOps]] (1), web (1)
 > **Speakers:** - [instructor] (1)
 
 #### Provisioning a new Azure App Service resource in the portal
@@ -657,7 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (6), static (1), for . (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), web (4), application (2), [[Search]] (2), [[GitHub]] (2)
 > **UI Navigation:** click on (6), navigate to (5), select the (1)
 > **Env Vars:** net (3), p1v3 (1), url (1)
 > **Definitions:** is a  (1), in other words (1), means that (1)
@@ -709,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), while, (1), this. (1)
+> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (1), feature (1), next (1)
 > **Tools:** visual studio (2)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
@@ -764,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), finally, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** application (6), [[Microsoft Azure|Azure]] (6), [[Microsoft]] (1), [[DevOps]] (1)
 > **UI Navigation:** navigate to (4), select the (1), click on (1)
 > **Env Vars:** wpm (1), url (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -834,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (2), finally, (2)
+> **Frameworks & Libraries:** application (3), [[Microsoft Azure|Azure]] (1), [[Git]] (1), management (1)
 > **UI Navigation:** click on (6), navigate to (2), in the menu (1), go to (1)
 > **CLI Commands:** make (2), git (1), find (1)
 > **Tools:** terminal (1), visual studio (1)
@@ -886,7 +886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), this. (1), while, (1)
+> **Frameworks & Libraries:** application (2), feature (1), management (1)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Definitions:** in other words (2)
 > **Speakers:** - [instructor] (1)
@@ -894,7 +894,7 @@ created: 2026-04-29
 
 ### 3. Using Azure SQL for Your Data Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure SQL for your data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980)
@@ -913,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** database (3), application (1), data (1), [[Microsoft Azure|Azure]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1010,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (3), this, (1), new. (1), this. (1)
+> **Frameworks & Libraries:** database (8), [[SQL]] (6), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft Entra ID|Azure active directory]] (2)
 > **Env Vars:** sql (10), wpm (3)
 > **UI Navigation:** click on (5), go to (2), navigate to (1)
 > **Exercise Files:** template (3), source code (1)
@@ -1126,7 +1126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (1), pass (1), this. (1)
+> **Frameworks & Libraries:** database (6), [[Microsoft Azure|Azure]] (6), [[SQL]] (6), [[JSON]] (5), application (4)
 > **Env Vars:** sql (7), net (1)
 > **Tools:** azure portal (4), visual studio (2)
 > **UI Navigation:** click on (3), navigate to (2), open the (1)
@@ -1234,7 +1234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), finally, (3), type, (2), this. (1), while, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (4), application (3), [[Microsoft SQL Server|Sql server]] (2), [[DevOps]] (2)
 > **UI Navigation:** click on (6), navigate to (6)
 > **Env Vars:** sql (6)
 > **Cross-References:** go back to (2), previous video (1)
@@ -1245,7 +1245,7 @@ created: 2026-04-29
 
 ### 4. Using Azure Storage for Storing Binary Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure Storage for storing binary files
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980)
@@ -1264,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), feature (1), application (1), data (1), [[npm]] (1)
 > **CLI Commands:** npm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1309,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (2), case. (1), else. (1)
+> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Azure|Azure]] (1), cloud (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1354,7 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), data (2), [[Windows]] (1), database (1), [[SQL]] (1)
 > **UI Navigation:** click on (4), navigate to (2), drag and drop (1)
 > **Analogies:** picture (2), similar to (1), for example (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -1425,7 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), this, (4), this. (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), data (5), database (3), application (3), [[DevOps]] (3)
 > **UI Navigation:** navigate to (7), click on (2), go to (2)
 > **Env Vars:** sql (2), url (2)
 > **Tools:** azure portal (3)
@@ -1485,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1), class, (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** application (1), feature (1), [[HTML]] (1), [[ASP.NET Core]] (1), data (1)
 > **Env Vars:** html (1), css (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Analogies:** just like (1)
@@ -1570,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), this, (2), public (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), next (1)
 > **Code Identifiers:** blobclient (3), filename (2), containerclient (2), connectionstring (2)
 > **Env Vars:** net (2), url (1)
 > **Cross-References:** in the next (1)
@@ -1616,7 +1616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), pass (1), await (1), this. (1)
+> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** filestream (2), fileupload (2), memorystream (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
@@ -1678,7 +1678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), application (2), [[Security]] (1), [[Debugging]] (1), management (1)
 > **Tools:** azure portal (4), visual studio (2)
 > **UI Navigation:** click on (4), navigate to (2)
 > **Analogies:** picture (5)
@@ -1788,7 +1788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (41), this. (2), finally, (1), return, (1), while, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[DevOps]] (2), application (2), [[Git]] (1), management (1)
 > **UI Navigation:** click on (8), navigate to (5)
 > **Env Vars:** wpm (6)
 > **Tools:** visual studio (2), terminal (1), azure portal (1)
@@ -1853,7 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (1)
+> **Frameworks & Libraries:** management (1)
 > **UI Navigation:** click on (3), navigate to (3)
 > **Env Vars:** wpm (5)
 > **Definitions:** in other words (1)
@@ -1863,7 +1863,7 @@ created: 2026-04-29
 
 ### 5. Using Azure Functions to Improve Your Web Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure Functions to improve your web application
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980)
@@ -1884,7 +1884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), application (1), feature (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1975,7 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (5), this. (2), this, (2), finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Git]] (3), next (3), [[Windows]] (1), cloud (1)
 > **UI Navigation:** click on (6), navigate to (2)
 > **Env Vars:** wpm (4), url (2), net (1)
 > **CLI Commands:** git (3), find (1), make (1)
@@ -2064,7 +2064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), finally, (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[JSON]] (2), application (2), next (2), data (1)
 > **UI Navigation:** click on (3), go to (1), drag and drop (1)
 > **Env Vars:** json (2), wpm (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2163,7 +2163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this, (4), pass (4), this. (2), finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), next (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** azure portal (2)
@@ -2223,7 +2223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), function (1)
+> **Frameworks & Libraries:** web application (2), [[HTML]] (1), css (1), management (1), application (1)
 > **Env Vars:** url (2), aesp (1), html (1), css (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Analogies:** picture (2)
@@ -2263,7 +2263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), switch (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (2), next (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** visual studio (2), azure portal (1)
 > **UI Navigation:** go to (1), navigate to (1)
@@ -2366,7 +2366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (6), case, (4), this. (2), public (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (6), [[Windows]] (2), management (2), [[Search]] (1)
 > **UI Navigation:** click on (5), navigate to (5), go to (2)
 > **Env Vars:** net (1), wpm (1)
 > **Cross-References:** go back to (2)
@@ -2378,7 +2378,7 @@ created: 2026-04-29
 
 ### 6. Taking Advantage of Azure Logic Apps for Your Web App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking advantage of Azure Logic Apps for your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980)
@@ -2397,7 +2397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (1), feature (1), [[Microsoft Azure|Azure]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Creating the Azure Logic App resource for sending an email
@@ -2491,7 +2491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), case, (5), finally, (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Microsoft Azure|Azure]] (2), database (2), [[Microsoft Outlook|Outlook]] (2), application (1)
 > **UI Navigation:** click on (7), navigate to (1), select the (1)
 > **Env Vars:** sql (5), wpm (3)
 > **Prerequisites:** configure (3)
@@ -2531,7 +2531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** web application (2), [[Java]] (1), management (1), application (1), data (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2633,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), finally, (2), switch (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), application (2), [[Microsoft Azure|Azure]] (1), database (1)
 > **Env Vars:** sql (5), where (1), url (1)
 > **UI Navigation:** click on (4), select the (1), switch to (1), navigate to (1)
 > **Cross-References:** go back to (3)
@@ -2645,7 +2645,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980)
@@ -2674,8 +2674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), web (1), web application (1), [[Microsoft Azure]] (1), [[Microsoft]] (1)
 > **CLI Commands:** az (1), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 

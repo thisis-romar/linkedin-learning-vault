@@ -31,7 +31,7 @@ tags:
   - skill/jira
   - skill/automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira%20Administration-%20Automation.md)
@@ -50,64 +50,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Automating common Jira activities
-  - Who is this course for?
-  - What do you need for this course?
-  - Important terms and definitions
+  - [Automating common Jira activities](#automating-common-jira-activities)
+  - [Who is this course for?](#who-is-this-course-for)
+  - [What do you need for this course?](#what-do-you-need-for-this-course)
+  - [Important terms and definitions](#important-terms-and-definitions)
 - [**1. What Is Automation?**](#1-what-is-automation) (3 videos)
-  - Levels of automation
-  - Automation benefits
-  - Capabilities in Jira
+  - [Levels of automation](#levels-of-automation)
+  - [Automation benefits](#automation-benefits)
+  - [Capabilities in Jira](#capabilities-in-jira)
 - [**2. Jira Automation Concepts**](#2-jira-automation-concepts) (10 videos)
-  - Using automation
-  - Using and creating templates
-  - Creating custom rules
-  - Triggering rules
-  - Adding conditions
-  - Using branches
-  - Leveraging actions
-  - Testing rules
-  - Challenge: Create a common rule
-  - Solution: Create a common rule
+  - [Using automation](#using-automation)
+  - [Using and creating templates](#using-and-creating-templates)
+  - [Creating custom rules](#creating-custom-rules)
+  - [Triggering rules](#triggering-rules)
+  - [Adding conditions](#adding-conditions)
+  - [Using branches](#using-branches)
+  - [Leveraging actions](#leveraging-actions)
+  - [Testing rules](#testing-rules)
+  - [Challenge: Create a common rule](#challenge-create-a-common-rule)
+  - [Solution: Create a common rule](#solution-create-a-common-rule)
 - [**3. Managing Automation Rules**](#3-managing-automation-rules) (7 videos)
-  - Maintaining rules
-  - Importing and exporting rules
-  - Documenting rules
-  - Monitoring usage
-  - Troubleshooting errors
-  - Challenge: Back up a rule
-  - Solution: Back up a rule
+  - [Maintaining rules](#maintaining-rules)
+  - [Importing and exporting rules](#importing-and-exporting-rules)
+  - [Documenting rules](#documenting-rules)
+  - [Monitoring usage](#monitoring-usage)
+  - [Troubleshooting errors](#troubleshooting-errors)
+  - [Challenge: Back up a rule](#challenge-back-up-a-rule)
+  - [Solution: Back up a rule](#solution-back-up-a-rule)
 - [**4. Extending Capabilities with Smart Values**](#4-extending-capabilities-with-smart-values) (8 videos)
-  - Using smart values
-  - Accessing project and issue data
-  - Working with user properties
-  - Leveraging dates and times
-  - Using conditional logic
-  - Performing calculations
-  - Challenge: Create a rule with smart values
-  - Solution: Create a rule with smart values
+  - [Using smart values](#using-smart-values)
+  - [Accessing project and issue data](#accessing-project-and-issue-data)
+  - [Working with user properties](#working-with-user-properties)
+  - [Leveraging dates and times](#leveraging-dates-and-times)
+  - [Using conditional logic](#using-conditional-logic)
+  - [Performing calculations](#performing-calculations)
+  - [Challenge: Create a rule with smart values](#challenge-create-a-rule-with-smart-values)
+  - [Solution: Create a rule with smart values](#solution-create-a-rule-with-smart-values)
 - [**5. Use Cases and Examples**](#5-use-cases-and-examples) (9 videos)
-  - Communicating information
-  - Updating information
-  - Repeating frequent tasks
-  - Syncing information
-  - Performing maintenance
-  - Sending alerts
-  - Calculating information
-  - Challenge: Create an advanced rule
-  - Solution: Create an advanced rule
+  - [Communicating information](#communicating-information)
+  - [Updating information](#updating-information)
+  - [Repeating frequent tasks](#repeating-frequent-tasks)
+  - [Syncing information](#syncing-information)
+  - [Performing maintenance](#performing-maintenance)
+  - [Sending alerts](#sending-alerts)
+  - [Calculating information](#calculating-information)
+  - [Challenge: Create an advanced rule](#challenge-create-an-advanced-rule)
+  - [Solution: Create an advanced rule](#solution-create-an-advanced-rule)
 - [**6. Automation with Apps**](#6-automation-with-apps) (5 videos)
-  - Post functions with JMWE
-  - Scheduled actions with JMWE
-  - Event-based actions with JMWE
-  - Monitoring config changes with Salto
-  - Test management with Katalon
+  - [Post functions with JMWE](#post-functions-with-jmwe)
+  - [Scheduled actions with JMWE](#scheduled-actions-with-jmwe)
+  - [Event-based actions with JMWE](#event-based-actions-with-jmwe)
+  - [Monitoring config changes with Salto](#monitoring-config-changes-with-salto)
+  - [Test management with Katalon](#test-management-with-katalon)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional resources for Jira learning
+  - [Additional resources for Jira learning](#additional-resources-for-jira-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating common Jira activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980)
@@ -128,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), [[Automation]] (2), [[Atlassian]] (2), [[LinkedIn]] (1)
 > **Tools:** jira (3)
 > **Speakers:** - automation (1)
 
@@ -164,8 +165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), [[Automation]] (6), application (3), business (2), cloud (2)
 > **Tools:** jira (6)
-> **Code Keywords:** type. (1), interface (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -234,6 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), application (5), cloud (2), [[Microsoft Products|Products]] (2), next (2)
 > **Tools:** jira (6)
 > **Env Vars:** url (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
@@ -342,11 +344,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (17), [[Automation]] (7), data (6), cloud (2), business (2)
 > **Tools:** jira (17)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Cross-References:** later in (2), in the next (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** this. (1), finally, (1)
 > **Env Vars:** jql (1), json (1)
 > **Ports:** :00 (1)
 > **Exercise Files:** exercise files (1)
@@ -354,7 +356,7 @@ created: 2026-04-29
 
 ### 1. What Is Automation?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Levels of automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980)
@@ -385,8 +387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), [[Jira]] (4), power (1), [[Forms]] (1), [[Scripting]] (1)
 > **Tools:** jira (4)
-> **Code Keywords:** while, (1)
 > **Speakers:** - in (1)
 
 #### Automation benefits
@@ -454,8 +456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), [[Automation]] (6), data (3), business (1), [[Atlassian]] (1)
 > **Tools:** jira (9), confluence (1)
-> **Code Keywords:** let (2), finally, (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Warnings:** troubleshoot (1)
@@ -496,15 +498,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (7), [[Jira]] (4), cloud (3), data (3), management (2)
 > **Tools:** jira (4)
-> **Code Keywords:** type, (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - before (1)
 
 
 ### 2. Jira Automation Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980)
@@ -703,7 +705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (3), default. (2), type, (2), delete (1)
+> **Frameworks & Libraries:** [[Automation]] (18), [[Jira]] (12), application (7), next (4), cloud (2)
 > **Tools:** jira (12), slack (1)
 > **UI Navigation:** navigate to (1), go to (1), open the (1), toggle (1), select the (1)
 > **Definitions:** is a  (4)
@@ -759,7 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Automation]] (5), [[Jira]] (3), [[Atlassian]] (2), application (2)
 > **Tools:** jira (3)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (2)
@@ -823,8 +825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), [[Automation]] (2), [[Atlassian]] (2), [[Microsoft Word|Word]] (1), feature (1)
 > **Tools:** jira (4)
-> **Code Keywords:** delete (1), let (1)
 > **Analogies:** for example (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - in (1)
@@ -870,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), let (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Human Resources (HR)|Human resources]] (2), [[Automation]] (1), next (1)
 > **Tools:** jira (3)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
@@ -911,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2), [[Jira]] (1), next (1)
 > **Env Vars:** jql (1)
 > **Documentation:** the documentation (1)
 > **Tools:** jira (1)
@@ -952,6 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -997,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Jira]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Tools:** jira (1)
@@ -1134,8 +1137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (8), next (4), [[Jira]] (3), application (2), data (2)
 > **CLI Commands:** make (9)
-> **Code Keywords:** let (3), delete (2), function (1), finally, (1)
 > **Env Vars:** jql (4)
 > **Tools:** jira (3)
 > **UI Navigation:** scroll down (1), open the (1)
@@ -1162,8 +1165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** jira (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1196,7 +1199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** jql (1)
 > **Speakers:** - [instructor] (1)
@@ -1205,7 +1208,7 @@ created: 2026-04-29
 
 ### 3. Managing Automation Rules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintaining rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980)
@@ -1294,8 +1297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), [[Search]] (4), next (3), [[Automation]] (2), feature (2)
 > **Tools:** jira (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** sla (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1421,11 +1424,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (10), [[Jira]] (9), next (5), feature (4), [[Search]] (4)
 > **Env Vars:** json (10), url (1), jql (1)
 > **Tools:** jira (9), confluence (1)
 > **UI Navigation:** open the (2), select the (2), go to (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (3), export, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Best Practices:** general rule (1)
@@ -1535,9 +1538,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), [[Automation]] (5), ai (4), next (4), [[Atlassian]] (4)
 > **Tools:** jira (7)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** finally, (2), include. (1)
 > **Env Vars:** json (1), url (1)
 > **Documentation:** the documentation (2)
 > **Analogies:** for example (2)
@@ -1611,8 +1614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Jira]] (6), next (4), hit (2), cloud (2)
 > **Tools:** jira (6)
-> **Code Keywords:** finally, (2), require (1)
 > **Env Vars:** jql (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1680,9 +1683,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), [[Jira]] (3), next (1)
 > **Env Vars:** success (1), config (1), change (1), actions (1), performed (1)
 > **Tools:** jira (3)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
@@ -1704,6 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (1), feature (1), [[JSON]] (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [speaker] (1)
 > **Non-Speech:** (cool upbeat music) (1)
@@ -1733,8 +1737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2)
 > **UI Navigation:** go to (1), select the (1)
-> **Code Keywords:** finally, (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle music) (1)
@@ -1742,7 +1746,7 @@ created: 2026-04-29
 
 ### 4. Extending Capabilities with Smart Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using smart values
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980)
@@ -1797,9 +1801,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), data (2), [[Programming]] (1), product (1), [[Automation]] (1)
 > **Tools:** jira (3)
 > **Env Vars:** issue (1), url (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - so (1)
 
@@ -1888,9 +1892,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (8), data (5), next (3), [[Representational State Transfer (REST)|Rest]] (2), api (2)
 > **Env Vars:** url (7), rest (2), api (2), html (1)
 > **Tools:** jira (8), confluence (1)
-> **Code Keywords:** finally, (1), function (1), require (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -1986,10 +1990,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), data (4), cloud (4), [[Atlassian]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** jira (5)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** url (2)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** displayname (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2062,9 +2066,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1), [[Java]] (1), database (1)
 > **Env Vars:** utc (4), url (4)
 > **Code Identifiers:** mediumdate (1), startofmonth (1), endofmonth (1), firstbusinessdayofmonth (1), minusdays (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (2), just like (1)
 > **Ports:** :03 (1), :00 (1)
 > **URLs:** [timeanddate.com](https://timeanddate.com) (1)
@@ -2093,7 +2097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Code Identifiers:** isempty (1)
 > **Tools:** jira (1)
 > **Speakers:** - in (1)
@@ -2165,7 +2169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (1), let (1)
+> **Frameworks & Libraries:** next (3), [[Jira]] (3), data (1), [[Automation]] (1), [[Atlassian]] (1)
 > **Versions:** 1.2 (2), 10.55 (1)
 > **Tools:** jira (3)
 > **Env Vars:** round (1), url (1)
@@ -2189,8 +2193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2), application (2), data (1), next (1), [[Troubleshooting]] (1)
 > **Tools:** jira (2)
-> **Code Keywords:** case. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - your (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2300,7 +2304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (3), function (2), interface (1), this, (1)
+> **Frameworks & Libraries:** next (7), [[Jira]] (5), [[Automation]] (3), [[HTML]] (1), application (1)
 > **Tools:** jira (5)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** ascurrency (2)
@@ -2312,7 +2316,7 @@ created: 2026-04-29
 
 ### 5. Use Cases and Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating information
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980)
@@ -2373,8 +2377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Automation]] (1)
 > **Tools:** jira (4)
-> **Code Keywords:** let (1)
 > **Env Vars:** jql (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - in (1)
@@ -2418,7 +2422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[JSON]] (1)
 > **Env Vars:** json (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -2455,7 +2459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** business (2), teams (1)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2492,7 +2496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1)
+> **Frameworks & Libraries:** [[Jira]] (3), data (2), [[Automation]] (2)
 > **Tools:** jira (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2536,8 +2540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), [[Automation]] (3), data (1), management (1)
 > **Tools:** jira (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** jql (1), jsm (1)
 > **Code Identifiers:** displayname (1)
 > **Cross-References:** in the last (1)
@@ -2580,9 +2584,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Jira]] (1), next (1)
 > **Env Vars:** sla (2), ceo (2), vip (1), jql (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2617,8 +2621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), [[Jira]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** jql (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
@@ -2646,7 +2650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Automation]] (1), next (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2709,7 +2713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), type, (1), function (1)
+> **Frameworks & Libraries:** next (3), hit (1), [[HTML]] (1), [[Automation]] (1)
 > **Env Vars:** jql (2), html (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - were (1)
@@ -2718,7 +2722,7 @@ created: 2026-04-29
 
 ### 6. Automation with Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Post functions with JMWE
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980)
@@ -2791,7 +2795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Automation]] (4), [[Atlassian]] (1), next (1), cloud (1)
 > **Tools:** jira (5)
 > **Env Vars:** jmwe (3)
 > **Definitions:** is a  (2)
@@ -2858,7 +2862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), interface (1), finally, (1), include, (1)
+> **Frameworks & Libraries:** [[Jira]] (5), next (3), data (2), cloud (1), [[HTML]] (1)
 > **Env Vars:** jmwe (2), jql (2), html (1)
 > **Tools:** jira (5)
 > **UI Navigation:** select the (4)
@@ -2906,8 +2910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), [[Automation]] (2), cloud (2), next (1), [[JSON]] (1)
 > **Env Vars:** jmwe (4), jql (1), json (1)
-> **Code Keywords:** type. (1), finally, (1), function (1)
 > **Tools:** jira (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - here (1)
@@ -2983,8 +2987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), application (4), [[Security]] (4), [[Automation]] (2), cloud (2)
 > **Tools:** jira (10), slack (1)
-> **Code Keywords:** let (1), for. (1), protected (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** in the next (1)
@@ -3061,8 +3065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (12), application (3), [[Atlassian]] (2), web (1), data (1)
 > **Tools:** jira (12)
-> **Code Keywords:** finally, (2), let (1), case, (1), super (1), continue (1)
 > **UI Navigation:** click on (1), open the (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -3071,7 +3075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980)
@@ -3128,10 +3132,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), [[Automation]] (4), application (2), [[Atlassian]] (2), [[Confluence]] (2)
 > **Tools:** jira (6), confluence (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (1), [jirastrategy.com](https://jirastrategy.com) (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** exercise file (1)
 > **Best Practices:** don't forget (1)

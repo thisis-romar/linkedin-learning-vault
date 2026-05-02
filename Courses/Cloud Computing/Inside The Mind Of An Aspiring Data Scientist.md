@@ -29,7 +29,7 @@ tags:
   - skill/critical-thinking
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inside%20The%20Mind%20Of%20An%20Aspiring%20Data%20Scientist.md)
@@ -48,36 +48,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is data science?
-  - Why data science?
+  - [What is data science?](#what-is-data-science)
+  - [Why data science?](#why-data-science)
 - [**1. Discovering Data Science**](#1-discovering-data-science) (1 videos)
-  - First-hand account of finding data science
+  - [First-hand account of finding data science](#first-hand-account-of-finding-data-science)
 - [**2. Understanding the Data Science Profession**](#2-understanding-the-data-science-profession) (4 videos)
-  - The confusion around data science professions
-  - Who is a data scientist?
-  - The difference between a data engineer and a data scientist
-  - A machine learning developer vs. a data scientist
+  - [The confusion around data science professions](#the-confusion-around-data-science-professions)
+  - [Who is a data scientist?](#who-is-a-data-scientist)
+  - [The difference between a data engineer and a data scientist](#the-difference-between-a-data-engineer-and-a-data-scientist)
+  - [A machine learning developer vs. a data scientist](#a-machine-learning-developer-vs-a-data-scientist)
 - [**3. Data Science and You**](#3-data-science-and-you) (2 videos)
-  - Doing your data science research
-  - Defining your data science goal
+  - [Doing your data science research](#doing-your-data-science-research)
+  - [Defining your data science goal](#defining-your-data-science-goal)
 - [**4. How to Learn Data Science**](#4-how-to-learn-data-science) (4 videos)
-  - Learning to ask questions about data science
-  - Working on real data science projects
-  - Participating in data science challenges and hackathons
-  - Finding a data science community
+  - [Learning to ask questions about data science](#learning-to-ask-questions-about-data-science)
+  - [Working on real data science projects](#working-on-real-data-science-projects)
+  - [Participating in data science challenges and hackathons](#participating-in-data-science-challenges-and-hackathons)
+  - [Finding a data science community](#finding-a-data-science-community)
 - [**5. Creating Your First Data Science Resume**](#5-creating-your-first-data-science-resume) (2 videos)
-  - Creating a data science resume with no work experience
-  - Using projects and hackathons to demonstrate expertise
+  - [Creating a data science resume with no work experience](#creating-a-data-science-resume-with-no-work-experience)
+  - [Using projects and hackathons to demonstrate expertise](#using-projects-and-hackathons-to-demonstrate-expertise)
 - [**6. Personal Branding for Data Scientists**](#6-personal-branding-for-data-scientists) (3 videos)
-  - What are you known for?
-  - What do you want to be known for as a data scientist?
-  - Using social media to change the narrative
+  - [What are you known for?](#what-are-you-known-for)
+  - [What do you want to be known for as a data scientist?](#what-do-you-want-to-be-known-for-as-a-data-scientist)
+  - [Using social media to change the narrative](#using-social-media-to-change-the-narrative)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional resources on a career in data science
+  - [Additional resources on a career in data science](#additional-resources-on-a-career-in-data-science)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data science?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/what-is-data-science?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (11), [[Algorithms]] (2), [[Unstructured Data]] (1), application (1), career (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - data (1)
 
@@ -171,14 +171,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (2)
+> **Frameworks & Libraries:** data (11), career (4), [[Microsoft Products|Products]] (3), [[LinkedIn]] (2), [[Search]] (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Discovering Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### First-hand account of finding data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/first-hand-account-of-finding-data-science?u=76281980)
@@ -219,6 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Analytics]] (1), [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 ### 2. Understanding the Data Science Profession
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The confusion around data science professions
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/the-confusion-around-data-science-professions?u=76281980)
@@ -263,8 +264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), job description (2), ai (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
@@ -285,6 +286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -310,7 +312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (7), [[Engineering]] (3), application (1), [[Search]] (1), [[Data Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -330,6 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -337,7 +340,7 @@ created: 2026-04-29
 
 ### 3. Data Science and You
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Doing your data science research
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/doing-your-data-science-research?u=76281980)
@@ -370,9 +373,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** for instance (1), picture (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -405,15 +408,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Tableau]] (1), power (1), bi (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. How to Learn Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning to ask questions about data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/learning-to-ask-questions-about-data-science?u=76281980)
@@ -440,6 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Search]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Analogies:** imagine (1), for example (1)
 > **Documentation:** stack overflow (1)
@@ -462,6 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Programming]] (1), [[GitHub]] (1), feature (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1)
 > **Tools:** github (1)
@@ -488,6 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), career (1), [[GitHub]] (1)
 > **CLI Commands:** cargo (1), find (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -517,13 +523,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), ai (3), career (2), [[Career Development]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Creating Your First Data Science Resume
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a data science resume with no work experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/creating-a-data-science-resume-with-no-work-experience?u=76281980)
@@ -546,6 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Programming]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -574,9 +582,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [diversek.com](https://diversek.com) (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -584,7 +592,7 @@ created: 2026-04-29
 
 ### 6. Personal Branding for Data Scientists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are you known for?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/what-are-you-known-for?u=76281980)
@@ -617,8 +625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Search]] (2), [[LinkedIn]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for, (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -641,7 +649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1)
+> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 
 #### Using social media to change the narrative
@@ -665,6 +673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[GitHub]] (2), data (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -673,7 +682,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources on a career in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/additional-resources-on-a-career-in-data-science?u=76281980)
@@ -696,8 +705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[LinkedIn]] (2), [[Data Science Foundations]] (1), [[Python (Programming Language)|Python]] (1), [[Career Development]] (1)
 > **CLI Commands:** find (2), python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [khaulat] (1)
 
 

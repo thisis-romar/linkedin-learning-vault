@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LLMOps%20in%20Practice-%20A%20Deep%20Dive.md)
@@ -56,54 +56,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - A deep dive into LLM operations
-  - What are LLMs?
-  - What are transformers?
-  - What is LLMOps?
+  - [A deep dive into LLM operations](#a-deep-dive-into-llm-operations)
+  - [What are LLMs?](#what-are-llms)
+  - [What are transformers?](#what-are-transformers)
+  - [What is LLMOps?](#what-is-llmops)
 - [**1. Build a Basic LLM App**](#1-build-a-basic-llm-app) (6 videos)
-  - Prompting
-  - Advanced prompting
-  - Hosting an app
-  - Create a chatbot
-  - LLM exercise
-  - Adding logging to your server
+  - [Prompting](#prompting)
+  - [Advanced prompting](#advanced-prompting)
+  - [Hosting an app](#hosting-an-app)
+  - [Create a chatbot](#create-a-chatbot)
+  - [LLM exercise](#llm-exercise)
+  - [Adding logging to your server](#adding-logging-to-your-server)
 - [**2. First Steps in Ops**](#2-first-steps-in-ops) (7 videos)
-  - Coding for logging
-  - Exploring the logging system
-  - RLHF and user feedback
-  - Challenge: Implementing RLHF and user feedback
-  - Demonstrating the ops project completed
-  - Solution: Completing an ops project
-  - Demonstrating the code for the ops
+  - [Coding for logging](#coding-for-logging)
+  - [Exploring the logging system](#exploring-the-logging-system)
+  - [RLHF and user feedback](#rlhf-and-user-feedback)
+  - [Challenge: Implementing RLHF and user feedback](#challenge-implementing-rlhf-and-user-feedback)
+  - [Demonstrating the ops project completed](#demonstrating-the-ops-project-completed)
+  - [Solution: Completing an ops project](#solution-completing-an-ops-project)
+  - [Demonstrating the code for the ops](#demonstrating-the-code-for-the-ops)
 - [**3. BYOD with RAG**](#3-byod-with-rag) (11 videos)
-  - Retrieval augmented generation (RAG)
-  - Installing and setting up a VectorDB
-  - Create a VectorDB
-  - BYOD to a VectorDB
-  - VectorDB: Hands-on use case
-  - Querying the VectorDB
-  - Demonstration: Querying the VectorDB
-  - Extending your app with RAG
-  - RAG: Showing it in action
-  - Challenge: Complete RAG application
-  - Solution: Complete RAG application
+  - [Retrieval augmented generation (RAG)](#retrieval-augmented-generation-rag)
+  - [Installing and setting up a VectorDB](#installing-and-setting-up-a-vectordb)
+  - [Create a VectorDB](#create-a-vectordb)
+  - [BYOD to a VectorDB](#byod-to-a-vectordb)
+  - [VectorDB: Hands-on use case](#vectordb-hands-on-use-case)
+  - [Querying the VectorDB](#querying-the-vectordb)
+  - [Demonstration: Querying the VectorDB](#demonstration-querying-the-vectordb)
+  - [Extending your app with RAG](#extending-your-app-with-rag)
+  - [RAG: Showing it in action](#rag-showing-it-in-action)
+  - [Challenge: Complete RAG application](#challenge-complete-rag-application)
+  - [Solution: Complete RAG application](#solution-complete-rag-application)
 - [**4. RAG and Ops**](#4-rag-and-ops) (10 videos)
-  - Extending RAG with ops
-  - Logging
-  - Hands-on logging
-  - Metrics
-  - Hands-on metrics
-  - Version management
-  - Hands-on version management
-  - RAG Ops: Updating the data
-  - Hands-on RAG ops
-  - RAG in action: Exercise
+  - [Extending RAG with ops](#extending-rag-with-ops)
+  - [Logging](#logging)
+  - [Hands-on logging](#hands-on-logging)
+  - [Metrics](#metrics)
+  - [Hands-on metrics](#hands-on-metrics)
+  - [Version management](#version-management)
+  - [Hands-on version management](#hands-on-version-management)
+  - [RAG Ops: Updating the data](#rag-ops-updating-the-data)
+  - [Hands-on RAG ops](#hands-on-rag-ops)
+  - [RAG in action: Exercise](#rag-in-action-exercise)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your LLMOps learning journey
+  - [Continue your LLMOps learning journey](#continue-your-llmops-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A deep dive into LLM operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/a-deep-dive-into-llms-operations?u=76281980)
@@ -130,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (3), llm (2), ai (1), chatbot (1), application (1)
 > **Env Vars:** rag (3), llm (2)
-> **Code Keywords:** public (1), let (1)
 > **CLI Commands:** find (1)
 
 #### What are LLMs?
@@ -205,8 +205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (2), [[Large Language Models (LLM)|Large language models]] (1), ai (1), [[Neural Networks]] (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), is a  (1)
 
 #### What are transformers?
@@ -272,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), ai (2), llm (2), [[Privacy]] (2), data (1)
 > **Env Vars:** gpt (3), llm (2)
-> **Code Keywords:** case, (1), this. (1), let (1), continue (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 
@@ -410,8 +410,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (14), business (8), llm (8), [[User Experience (UX)|User experience]] (4), [[Large Language Models (LLM)|Large language models]] (3)
 > **Env Vars:** llm (8), gpt (2)
-> **Code Keywords:** this, (3), let (2), switch (1), continue (1), public (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **UI Navigation:** switch to (1)
@@ -420,7 +420,7 @@ created: 2026-04-29
 
 ### 1. Build a Basic LLM App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980)
@@ -601,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), yield (1), this, (1), case, (1)
+> **Frameworks & Libraries:** prompt (16), next (3), [[Large Language Models (LLM)|Large language models]] (2), ai (2), chatbot (2)
 > **Analogies:** for example (3), think of it as (1), picture (1), for instance (1), just like (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Cross-References:** in the next (1), next video (1)
@@ -750,9 +750,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), ai (5), prompt (5), [[ChatGPT]] (4), dns (3)
 > **Env Vars:** llm (9), dns (3), gpt (1), api (1)
 > **Analogies:** such as (4), for example (4), imagine (2), picture (1)
-> **Code Keywords:** let (4), type. (1), this, (1), continue (1), public (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -847,8 +847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), application (3), api (3), node (2), [[ChatGPT]] (1)
 > **CLI Commands:** node (3), make (3), find (1), npm (1)
-> **Code Keywords:** this. (3), this, (2), public (1), continue (1)
 > **File Paths:** server.js (2), node.js (1), index.html (1), app.js (1)
 > **Env Vars:** api (2), gpt (1), llm (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1), [api.com](https://api.com) (1), [localhost:3000](https://localhost:3000) (1)
@@ -946,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), pass (1), super (1), finally, (1), else. (1)
+> **Frameworks & Libraries:** llm (4), chatbot (4), [[JSON]] (2), prompt (2), [[MLOps]] (1)
 > **Env Vars:** llm (4), json (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1230,7 +1230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (8), const (6), this. (4), require (2)
+> **Frameworks & Libraries:** [[JSON]] (6), express (3), prompt (2), node (2), [[Blockchain]] (1)
 > **Code Identifiers:** logdir (4), logfile (2), userid (2), randombytes (1), tostring (1)
 > **CLI Commands:** make (7), node (2), npm (1)
 > **Env Vars:** json (5)
@@ -1242,7 +1242,7 @@ created: 2026-04-29
 
 ### 2. First Steps in Ops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding for logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980)
@@ -1401,7 +1401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), interface (1), require (1), include. (1)
+> **Frameworks & Libraries:** llm (8), chatbot (6), application (5), next (5), prompt (3)
 > **Env Vars:** llm (8), html (1), gpt (1), pii (1), json (1)
 > **CLI Commands:** make (2), node (1), find (1)
 > **Warnings:** note that (4)
@@ -1527,7 +1527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), else. (1)
+> **Frameworks & Libraries:** rag (6), chatbot (2), next (2), [[Reinforcement Learning]] (2), [[Node.js]] (1)
 > **Env Vars:** rag (6)
 > **Cross-References:** in the next (2), in the last (1), go back to (1)
 > **Analogies:** it's like (3), for example (1)
@@ -1580,8 +1580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (2), api (2), application (1), feature (1), [[Reinforcement Learning]] (1)
 > **Env Vars:** llm (2), rlhf (2), api (2), gpt (2)
-> **Code Keywords:** this. (2), switch (1)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -1642,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1)
+> **Frameworks & Libraries:** chatbot (2), [[HTML]] (2), api (2), [[JavaScript]] (1), [[ChatGPT]] (1)
 > **Env Vars:** api (2), html (1)
 > **Cross-References:** as we saw (1), in the next (1)
 > **Exercise Files:** starter code (1), github repo (1)
@@ -1726,7 +1726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), interface (2), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** chatbot (2), [[Reinforcement Learning]] (2), [[JSON]] (2), data (1), application (1)
 > **Env Vars:** json (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -1848,7 +1848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2), function (2), this, (1), this. (1)
+> **Frameworks & Libraries:** next (4), data (2), [[JSON]] (1)
 > **CLI Commands:** find (2)
 > **File Paths:** feedback.json (1)
 > **Code Identifiers:** sendfeedback (1)
@@ -2297,7 +2297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (7), interface (7), this. (5), this, (4)
+> **Frameworks & Libraries:** [[JSON]] (8), data (6), [[HTML]] (4), next (4), ai (3)
 > **Code Identifiers:** addmessage (2), feedback_admin (2), feedbacklog (2), tolowercase (1), sendfile (1)
 > **CLI Commands:** find (4), make (3), node (2)
 > **Env Vars:** json (6), html (1), utf (1)
@@ -2309,7 +2309,7 @@ created: 2026-04-29
 
 ### 3. BYOD with RAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieval augmented generation (RAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980)
@@ -2466,9 +2466,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (16), [[ChromaDB|Chroma]] (7), [[Search]] (7), data (6), chatbot (5)
 > **Env Vars:** rag (16), gpt (3), llm (3), pdf (3), rlhf (1)
 > **CLI Commands:** node (2), make (2), find (2)
-> **Code Keywords:** let (2), public (1), switch (1), this. (1), this, (1)
 > **Analogies:** for example (1), similar to (1), such as (1)
 > **File Paths:** node.js (2)
 > **Prerequisites:** before we start (1), set up (1)
@@ -2580,8 +2580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (12), data (7), database (5), node (5), next (4)
 > **CLI Commands:** node (5), find (2), python (2), pip (1)
-> **Code Keywords:** function (3), let (2), this. (2)
 > **Env Vars:** url (2), rag (1), http (1), uuid (1), api (1)
 > **Analogies:** similar to (3), for example (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
@@ -3000,7 +3000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (5), let (4), this. (4), case, (2)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (24), database (11), data (10), [[Python (Programming Language)|Python]] (8), [[Metadata]] (7)
 > **CLI Commands:** python (8), node (8), find (6), pip (3), npm (2)
 > **Versions:** 1.1 (4), 3.2 (4), python 3 (2), 2.1 (2), 2.3 (2)
 > **File Paths:** index.js (6), node.js (4)
@@ -3122,8 +3122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (7), llm (6), prompt (6), [[ChromaDB|Chroma]] (4)
 > **Env Vars:** llm (6), pdf (4), rag (3), gpt (2), api (1)
-> **Code Keywords:** function (6), this, (3), let (2), private (1), this. (1)
 > **CLI Commands:** python (1), make (1), node (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is called (1), is a  (1)
@@ -3505,7 +3505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (11), this. (4), pass (2), this, (1)
+> **Frameworks & Libraries:** database (11), [[ChromaDB|Chroma]] (7), next (4), [[Python (Programming Language)|Python]] (4), [[LangChain]] (3)
 > **Env Vars:** pdf (21), api (3), rag (1)
 > **CLI Commands:** make (7), python (4), pip (2), find (1), sqlite3 (1)
 > **Code Identifiers:** create_db (5), openai_ef (1), process_pdf (1), langchain_openai (1), chunk_size (1)
@@ -3597,7 +3597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), function (2), let (1), case, (1), return. (1)
+> **Frameworks & Libraries:** database (9), [[ChromaDB|Chroma]] (6), prompt (4), [[JavaScript]] (3), [[Search]] (2)
 > **CLI Commands:** make (2), python (1), node (1), find (1)
 > **Env Vars:** pdf (2), llm (2), api (1)
 > **Analogies:** such as (1), picture (1)
@@ -3911,7 +3911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), await (3), this. (3), this, (2)
+> **Frameworks & Libraries:** database (14), prompt (9), [[ChromaDB|Chroma]] (8), [[Search]] (6), rag (5)
 > **CLI Commands:** make (4), node (3), python (2), find (1)
 > **Analogies:** similar to (5), for example (4), imagine (1)
 > **File Paths:** node.js (3), search_db.js (3), requirements.txt (1), npm_install_instructions.txt (1), openai.js (1)
@@ -4043,8 +4043,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), next (5), chatbot (5), rag (5), database (4)
 > **Env Vars:** rag (5), api (3), llm (3), pdf (1)
-> **Code Keywords:** let (3), this. (2), function (2), public (1), case, (1)
 > **Code Identifiers:** ragstring (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -4286,7 +4286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), pass (2), case, (2), else. (2)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (16), rag (11), database (7), data (4), chatbot (4)
 > **Env Vars:** rag (10), gpt (6), api (2), html (2)
 > **CLI Commands:** make (5), node (3)
 > **File Paths:** server.js (4), node.js (1)
@@ -4324,9 +4324,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (3), chatbot (1)
 > **Env Vars:** rag (3), pdf (3)
 > **CLI Commands:** find (3)
-> **Code Keywords:** public (1), type, (1)
 > **Definitions:** is a  (1)
 
 #### Solution: Complete RAG application
@@ -4460,7 +4460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), this, (3), let (3), public (1), abstract (1)
+> **Frameworks & Libraries:** database (6), chatbot (3), rag (2), power (2), [[SQL]] (1)
 > **Env Vars:** pdf (4), rag (2), sql (1), llm (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
@@ -4470,7 +4470,7 @@ created: 2026-04-29
 
 ### 4. RAG and Ops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending RAG with ops
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980)
@@ -4517,8 +4517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), chatbot (2), rag (2), [[Version Control]] (2), [[Debugging]] (1)
 > **CLI Commands:** make (1), node (1), find (1)
-> **Code Keywords:** let (2), public (1)
 > **Env Vars:** rag (2), api (1)
 > **File Paths:** node.js (1)
 > **Definitions:** is a  (1)
@@ -4639,7 +4639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), require (2), let (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), chatbot (1), [[Version Control]] (1), [[npm]] (1), [[JavaScript]] (1)
 > **CLI Commands:** npm (1), find (1)
 > **Env Vars:** json (1), rag (1)
 > **Analogies:** for example (2)
@@ -4919,7 +4919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2), require (2), case, (2), finally, (2)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (8), rag (6), application (4), chatbot (4), [[JSON]] (3)
 > **Env Vars:** rag (5), json (2), put (1), message (1), api (1)
 > **File Paths:** logger.js (6), winston.format.json (1), server.js (1), node.js (1)
 > **Analogies:** for example (4), it's like (1), such as (1)
@@ -5033,8 +5033,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), rag (4), application (3), [[OpenAI API]] (3), [[Node.js]] (1)
 > **Env Vars:** http (4), rag (4), api (3)
-> **Code Keywords:** case, (3), function (3), this. (2), let (1), while, (1)
 > **Versions:** 0.1 (2), 0.3 (2), 0.5 (1), 3.6 (1)
 > **Analogies:** for example (5), such as (1)
 > **File Paths:** metrics.js (2), node.js (1), server.js (1)
@@ -5297,8 +5297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (10), application (3), [[OpenAI API]] (3), next (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** rag (10), http (6), api (5), rlhf (2)
-> **Code Keywords:** let (3), this, (3), this. (2), finally, (2), switch (2)
 > **Versions:** 0.1 (4), 0.5 (3), 0.3 (2), 0.7 (1)
 > **Analogies:** for example (6), such as (1)
 > **Code Identifiers:** httprequestdurationmicroseconds (3), http_requests_duration_seconds (1), openai_api_calls_total (1), user_feedback_total (1)
@@ -5399,7 +5399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), this, (2), type, (2), switch (1)
+> **Frameworks & Libraries:** [[JSON]] (2), data (2), application (2), [[Metadata]] (1), hit (1)
 > **Versions:** version 0 (2), 0.1.0 (2), version 1 (1), 0.1 (1), 1.0.2 (1)
 > **File Paths:** version.js (5), server.js (2), version.json (1)
 > **Code Identifiers:** updateversion (5), getcurrentversion (3)
@@ -5753,8 +5753,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (21), rag (9), [[JSON]] (9), next (5), management (2)
 > **Versions:** version 3 (11), 0.0 (5), 0.1.0 (3), 0.1 (3), 3.1.0 (2)
-> **Code Keywords:** let (9), const (5), this. (3), function (3), await (3)
 > **Env Vars:** rag (9), json (6), http (5), post (4), api (1)
 > **Code Identifiers:** getcurrentversion (7), updateversion (4), newversion (1)
 > **CLI Commands:** make (4), node (3), curl (2)
@@ -5859,7 +5859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), function (2), self (1), static (1), case, (1)
+> **Frameworks & Libraries:** database (11), chatbot (2), application (2), llm (2), rag (2)
 > **Env Vars:** llm (2), rag (2), gpt (1), pdf (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Code Identifiers:** process_text_file (1), file_path (1), create_db (1), update_db (1)
@@ -6119,7 +6119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), function (2), case, (2), static (1)
+> **Frameworks & Libraries:** database (28), data (10), rag (6), application (6), next (5)
 > **Env Vars:** rag (6), pdf (3), gpt (2), utf (1), api (1)
 > **CLI Commands:** make (7), python (4), find (1)
 > **Code Identifiers:** update_db (2), process_text_file (2), embed_query (2), file_path (1), split_text (1)
@@ -6155,14 +6155,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), rag (2), prompt (2), next (1), chatbot (1)
 > **Env Vars:** rag (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** public (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your LLMOps learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/continue-your-llmops-learning-journey?u=76281980)
@@ -6197,6 +6197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), llm (2), rag (2), data (2), next (1)
 > **Env Vars:** llm (2), rag (2)
 
 

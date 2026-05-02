@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Chat%20Prompts%20for%20Business%20Analysis.md)
@@ -51,28 +51,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Working with generative AI as a business analyst
-  - Considerations: Generative AI for business analysis work
+  - [Working with generative AI as a business analyst](#working-with-generative-ai-as-a-business-analyst)
+  - [Considerations: Generative AI for business analysis work](#considerations-generative-ai-for-business-analysis-work)
 - [**1. Defining Good Questions**](#1-defining-good-questions) (4 videos)
-  - Getting warmed up with generative AI
-  - Getting to know your stakeholders with generative AI
-  - Structuring chat prompts using user stories
-  - Seeking understanding with generative AI
+  - [Getting warmed up with generative AI](#getting-warmed-up-with-generative-ai)
+  - [Getting to know your stakeholders with generative AI](#getting-to-know-your-stakeholders-with-generative-ai)
+  - [Structuring chat prompts using user stories](#structuring-chat-prompts-using-user-stories)
+  - [Seeking understanding with generative AI](#seeking-understanding-with-generative-ai)
 - [**2. Getting Chat Prompts to Work for You**](#2-getting-chat-prompts-to-work-for-you) (4 videos)
-  - Getting chat prompts to generate ideas
-  - Writing chat prompts that assess and prioritize
-  - Writing chat prompts for good questions
-  - Good questions to get good questions with GenAI
+  - [Getting chat prompts to generate ideas](#getting-chat-prompts-to-generate-ideas)
+  - [Writing chat prompts that assess and prioritize](#writing-chat-prompts-that-assess-and-prioritize)
+  - [Writing chat prompts for good questions](#writing-chat-prompts-for-good-questions)
+  - [Good questions to get good questions with GenAI](#good-questions-to-get-good-questions-with-genai)
 - [**3. Driving Analysis Products with Generative AI**](#3-driving-analysis-products-with-generative-ai) (3 videos)
-  - Building requirements with chat prompts
-  - Supporting your testing work using chat prompts
-  - Building business cases through good prompts
+  - [Building requirements with chat prompts](#building-requirements-with-chat-prompts)
+  - [Supporting your testing work using chat prompts](#supporting-your-testing-work-using-chat-prompts)
+  - [Building business cases through good prompts](#building-business-cases-through-good-prompts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with generative AI as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980)
@@ -95,6 +95,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), business (1), [[Decision-Making]] (1)
 > **Speakers:** - ai (1)
 
 #### Considerations: Generative AI for business analysis work
@@ -146,14 +147,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), application (2), business (2), next (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Speakers:** - by (1)
 
 
 ### 1. Defining Good Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting warmed up with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980)
@@ -236,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (2), this. (1), protected (1)
+> **Frameworks & Libraries:** business (7), [[Generative AI]] (2), hit (2), prompt (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [jamie] (1)
@@ -338,7 +339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (3), for, (1), public (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), hit (2), ai (2), business (2), prompt (2)
 > **Env Vars:** crm (5), ceo (1)
 > **CLI Commands:** make (4)
 > **Definitions:** stands for (1), is a  (1)
@@ -421,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for: (1), continue (1)
+> **Frameworks & Libraries:** business (5), prompt (3), [[Agile Development|Agile]] (1), next (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -513,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), [[Generative AI]] (4), prompt (1), generic (1), power (1)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** recommended (1)
@@ -523,7 +524,7 @@ created: 2026-04-29
 
 ### 2. Getting Chat Prompts to Work for You
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting chat prompts to generate ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-chat-prompts-to-generate-ideas?u=76281980)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), switch (1)
+> **Frameworks & Libraries:** business (4), [[Generative AI]] (3), prompt (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -686,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), continue (1), require (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), next (1), prompt (1), business (1), ai (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -822,7 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** business (2), feature (2), [[Digital Transformation]] (1), management (1), prompt (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rfp (2)
 > **Cross-References:** later in (1)
@@ -893,15 +894,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), prompt (6), [[Generative AI]] (2), hr (1), ai (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case. (1)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - [tutor] (1)
 
 
 ### 3. Driving Analysis Products with Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building requirements with chat prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980)
@@ -972,7 +973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (3)
+> **Frameworks & Libraries:** prompt (5), business (2), data (2), management (1), [[Agile Development|Agile]] (1)
 > **UI Navigation:** click on (3), scroll up (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** crm (2), csv (1)
@@ -1025,8 +1026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), prompt (2), management (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1), let (1)
 > **Env Vars:** csv (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -1116,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (4), let (2), case, (2), this, (1)
+> **Frameworks & Libraries:** business (14), prompt (3), leadership (2), [[Generative AI]] (2), management (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1127,7 +1128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980)
@@ -1160,7 +1161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), prompt (2), ai (2), web (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 

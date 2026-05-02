@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Web%20Accessibility%20for%20Developers.md)
@@ -40,38 +40,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Take the mystery out of web accessibility
-  - Why accessibility matters
+  - [Take the mystery out of web accessibility](#take-the-mystery-out-of-web-accessibility)
+  - [Why accessibility matters](#why-accessibility-matters)
 - [**1. Accessibly Access a Website**](#1-accessibly-access-a-website) (2 videos)
-  - Your keyboard and computer
-  - NVDA and JAWS
+  - [Your keyboard and computer](#your-keyboard-and-computer)
+  - [NVDA and JAWS](#nvda-and-jaws)
 - [**2. Understand Accessibility Standards**](#2-understand-accessibility-standards) (6 videos)
-  - Introduction to WCAG
-  - Perceivable
-  - Operable
-  - Understandable and robust
-  - Challenge: Find information on WCAG
-  - Solution: Find information on WCAG
+  - [Introduction to WCAG](#introduction-to-wcag)
+  - [Perceivable](#perceivable)
+  - [Operable](#operable)
+  - [Understandable and robust](#understandable-and-robust)
+  - [Challenge: Find information on WCAG](#challenge-find-information-on-wcag)
+  - [Solution: Find information on WCAG](#solution-find-information-on-wcag)
 - [**3. Accessibility Tools**](#3-accessibility-tools) (3 videos)
-  - Manual testing
-  - Automated testing
-  - Helper tools
+  - [Manual testing](#manual-testing)
+  - [Automated testing](#automated-testing)
+  - [Helper tools](#helper-tools)
 - [**4. Test and Triage Accessibility Issues**](#4-test-and-triage-accessibility-issues) (6 videos)
-  - Identify conformance goals
-  - Do automated testing
-  - Do targeted manual testing
-  - Triage issues
-  - Challenge: Run axe on a website
-  - Solution: Run axe on a website
+  - [Identify conformance goals](#identify-conformance-goals)
+  - [Do automated testing](#do-automated-testing)
+  - [Do targeted manual testing](#do-targeted-manual-testing)
+  - [Triage issues](#triage-issues)
+  - [Challenge: Run axe on a website](#challenge-run-axe-on-a-website)
+  - [Solution: Run axe on a website](#solution-run-axe-on-a-website)
 - [**5. Repair and Test Accessibility Issues Again**](#5-repair-and-test-accessibility-issues-again) (2 videos)
-  - Repair accessibility issues
-  - Retest after repairs
+  - [Repair accessibility issues](#repair-accessibility-issues)
+  - [Retest after repairs](#retest-after-repairs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the mystery out of web accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility?u=76281980)
@@ -98,9 +98,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Web Accessibility]] (2)
 > **Env Vars:** wcag (1), aria (1), axe (1), jaws (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 
 #### Why accessibility matters
@@ -176,8 +176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Web Accessibility]] (3), web (1), [[Hardware]] (1), business (1), [[Software Development]] (1)
 > **Env Vars:** ada (3), doj (1)
-> **Code Keywords:** public (2), let (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2), picture (1)
 > **Versions:** 1.3 (1)
@@ -186,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Accessibly Access a Website
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your keyboard and computer
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980)
@@ -281,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Windows]] (1), game (1)
 > **Speakers:** - [narrator] (4), - [instructor] (3), - the (1)
-> **Code Keywords:** let (4), continue (1)
 > **URLs:** [binaryville.com](https://binaryville.com) (1)
 > **Tools:** firefox (1)
 > **UI Navigation:** toggle (1)
@@ -367,8 +367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Word|Word]] (2), web (1), [[Microsoft Office|Office]] (1), [[Statistics]] (1)
 > **Env Vars:** nvda (7), jaws (5), aria (3)
-> **Code Keywords:** let (2), pass (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -378,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Understand Accessibility Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to WCAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980)
@@ -469,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Web Accessibility]] (1), seo (1), [[Search]] (1), next (1)
 > **Env Vars:** wcag (8), wai (1), w3c (1), seo (1), aaa (1)
-> **Code Keywords:** let (3), finally, (2)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2)
 > **Versions:** 2.2 (1)
@@ -557,7 +557,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (1), override (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** wcag (5)
 > **Versions:** 1.4.3 (2), 4.5 (2), 1.4 (1)
@@ -565,6 +564,7 @@ created: 2026-04-29
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - the (1)
 
 #### Operable
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/operable?u=76281980)
@@ -639,7 +639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), feature (1)
 > **Env Vars:** wcag (3), aaa (2)
 > **Versions:** 2.4.3 (3), 2.4 (1)
 > **CLI Commands:** find (2), make (1)
@@ -707,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), super (1)
+> **Frameworks & Libraries:** hit (1), [[Building Accessibility]] (1)
 > **Versions:** 3.2.4 (1), 3.3.3 (1), 4.1.2 (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -741,6 +741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (1), next (1)
 > **Versions:** 1.1.1 (2), 1.4.3 (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** wcag (2)
@@ -832,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for, (1)
+> **Frameworks & Libraries:** data (2), business (2), web (1)
 > **Versions:** 1.1.1 (2), 1.4.3 (2), 4.5 (2)
 > **UI Navigation:** click on (5), open the (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -844,7 +845,7 @@ created: 2026-04-29
 
 ### 3. Accessibility Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980)
@@ -917,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** web (2), [[Windows]] (1), next (1), [[Manual Testing]] (1)
 > **UI Navigation:** click on (2), go to (1), select the (1), dropdown (1)
 > **Env Vars:** wcag (2)
 > **Tools:** firefox (2)
@@ -971,9 +972,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (2), next (1)
 > **Tools:** firefox (4)
 > **Prerequisites:** install (3)
-> **Code Keywords:** let (2)
 > **UI Navigation:** open the (1), click on (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -1026,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** seo (2), [[Figma (Software)|Figma]] (1), next (1)
 > **Env Vars:** seo (2), wic (1)
 > **Tools:** figma (1), firefox (1)
 > **CLI Commands:** make (1)
@@ -1038,7 +1039,7 @@ created: 2026-04-29
 
 ### 4. Test and Triage Accessibility Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify conformance goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/identify-conformance-goals?u=76281980)
@@ -1106,7 +1107,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** wcag (6), aaa (3), w3c (1)
-> **Code Keywords:** let (1), for, (1)
 > **Analogies:** such as (2)
 > **Documentation:** w3c (1)
 > **Definitions:** is a  (1)
@@ -1179,7 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (4), finally, (1)
+> **Frameworks & Libraries:** next (4), feature (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 1.4 (1), 0.3 (1)
@@ -1277,7 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (3), [[Microsoft Products|Products]] (2), next (2)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** firefox (3)
@@ -1372,9 +1372,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (1), web application (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** wcag (3), mdn (1), ceo (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Versions:** 1.4.3 (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Cross-References:** we discussed (1)
@@ -1398,6 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
@@ -1426,14 +1427,13 @@ created: 2026-04-29
 >
 > **UI Navigation:** open the (1), go to (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 5. Repair and Test Accessibility Issues Again
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Repair accessibility issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980)
@@ -1552,9 +1552,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), css (2), [[Software Development]] (1), [[HTML]] (1)
 > **Env Vars:** accs (5), css (2), wigac (1), html (1), svg (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** let (6), pass (1), finally, (1)
 > **Versions:** 4.5 (1), 0.75 (1), 1.4.3 (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **UI Navigation:** go to (2)
@@ -1616,14 +1616,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Manual Testing]] (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980)
@@ -1648,6 +1648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[LinkedIn]] (2), [[Web Accessibility]] (1)
 > **Speakers:** - so (1)
 
 

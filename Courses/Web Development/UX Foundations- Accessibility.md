@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Accessibility.md)
@@ -40,42 +40,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. What Is Accessibility?**](#1-what-is-accessibility) (3 videos)
-  - What is accessibility?
-  - Views of accessibility
-  - Accessibility and user experience
+  - [What is accessibility?](#what-is-accessibility)
+  - [Views of accessibility](#views-of-accessibility)
+  - [Accessibility and user experience](#accessibility-and-user-experience)
 - [**2. Accessibility by Example**](#2-accessibility-by-example) (6 videos)
-  - Managing flow
-  - Re-creating visual interactions
-  - Ensuring proximity in your design
-  - Setting expectations
-  - Writing the perfect content
-  - Designing for memory issues
+  - [Managing flow](#managing-flow)
+  - [Re-creating visual interactions](#re-creating-visual-interactions)
+  - [Ensuring proximity in your design](#ensuring-proximity-in-your-design)
+  - [Setting expectations](#setting-expectations)
+  - [Writing the perfect content](#writing-the-perfect-content)
+  - [Designing for memory issues](#designing-for-memory-issues)
 - [**3. Tools and Techniques**](#3-tools-and-techniques) (4 videos)
-  - Overview of voice recognition software
-  - Overview of screen magnifiers
-  - Overview of screen readers
-  - Overview of hardware assistive technology
+  - [Overview of voice recognition software](#overview-of-voice-recognition-software)
+  - [Overview of screen magnifiers](#overview-of-screen-magnifiers)
+  - [Overview of screen readers](#overview-of-screen-readers)
+  - [Overview of hardware assistive technology](#overview-of-hardware-assistive-technology)
 - [**4. Personas for People with Disabilities**](#4-personas-for-people-with-disabilities) (6 videos)
-  - People are people
-  - Vision issues
-  - Hearing issues
-  - Mobility and dexterity issues
-  - Cognitive issues
-  - Aging into disability
+  - [People are people](#people-are-people)
+  - [Vision issues](#vision-issues)
+  - [Hearing issues](#hearing-issues)
+  - [Mobility and dexterity issues](#mobility-and-dexterity-issues)
+  - [Cognitive issues](#cognitive-issues)
+  - [Aging into disability](#aging-into-disability)
 - [**5. Integrating Accessibility into Your UX Work and Process**](#5-integrating-accessibility-into-your-ux-work-and-process) (5 videos)
-  - Accessibility in content strategy
-  - Accessibility and layout
-  - Accessibility and visual design
-  - Accessibility and interaction design
-  - Accessibility and user research
+  - [Accessibility in content strategy](#accessibility-in-content-strategy)
+  - [Accessibility and layout](#accessibility-and-layout)
+  - [Accessibility and visual design](#accessibility-and-visual-design)
+  - [Accessibility and interaction design](#accessibility-and-interaction-design)
+  - [Accessibility and user research](#accessibility-and-user-research)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More resources and next steps
+  - [More resources and next steps](#more-resources-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980)
@@ -98,13 +98,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ux (2), web (1), application (1), functional (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - hi (1)
 
 
 ### 1. What Is Accessibility?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980)
@@ -177,8 +177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[User Experience (UX)|User experience]] (2), product (1), [[Troubleshooting]] (1), ux (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -323,8 +323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), functional (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** else. (1), finally, (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** picture (2)
 > **Env Vars:** w3c (1)
@@ -393,6 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), [[User Experience (UX)|User experience]] (1), game (1), [[Usability Testing]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** click on (1)
@@ -402,7 +403,7 @@ created: 2026-04-29
 
 ### 2. Accessibility by Example
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980)
@@ -517,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (3), interface (2), this. (1)
+> **Frameworks & Libraries:** [[Search]] (12), next (4), [[Forms]] (3), [[Banking]] (2), [[Usability Testing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
@@ -564,6 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
@@ -686,8 +688,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), application (2), web (1), [[Privacy]] (1), css (1)
 > **Speakers:** - link (2), - proximity (1), - here (1), - visited (1), - that (1)
-> **Code Keywords:** interface (2), let (2), finally, (1)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
@@ -840,7 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), switch (4), let (3), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[JavaScript]] (3), next (2), ux (1), web (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** switch to (2), in the tab (1)
 > **Speakers:** - there (1), - five (1), - when (1)
@@ -903,8 +905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Accessible Design]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - we (1)
 
 #### Designing for memory issues
@@ -996,7 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), for. (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Forms]] (2), prompt (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** adhd (1)
 > **Definitions:** is a  (1)
@@ -1005,7 +1007,7 @@ created: 2026-04-29
 
 ### 3. Tools and Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of voice recognition software
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980)
@@ -1076,8 +1078,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), power (1), [[Jetpack Compose|Compose]] (1), [[Hardware]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** switch to (3), scroll up (2), scroll down (1), click on (1)
-> **Code Keywords:** switch (4)
 > **CLI Commands:** make (1)
 > **Tools:** firefox (1)
 > **Definitions:** means that (1)
@@ -1135,6 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Zoom]] (1), [[Simulation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (2)
 > **Speakers:** - some (1)
 
@@ -1189,8 +1192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Windows]] (1), [[Linux]] (1), web (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case, (1), interface (1)
 > **Env Vars:** nvda (1), jaws (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -1231,7 +1234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **Code Identifiers:** ipad (1), ios (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1240,7 +1243,7 @@ created: 2026-04-29
 
 ### 4. Personas for People with Disabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### People are people
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980)
@@ -1369,8 +1372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (3), web (2), [[Real-Time]] (2), [[Google]] (1), [[Flux]] (1)
 > **Env Vars:** cart (4)
-> **Code Keywords:** let (2), abstract (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
@@ -1497,8 +1500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (6), [[Zoom]] (2), [[Forms]] (2), ux (1), teams (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** getting started (2)
 > **Analogies:** for example (1)
@@ -1548,7 +1551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** functional (2)
 > **Definitions:** means that (1)
 > **Speakers:** - podcasts (1)
 
@@ -1677,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), interface (1), match. (1), case, (1)
+> **Frameworks & Libraries:** functional (3), [[Search]] (2), [[Microsoft Word|Word]] (2), next (2)
 > **UI Navigation:** scroll down (2), click on (1), drag and drop (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** setup (1)
@@ -1744,7 +1747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), function (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (1), functional (1)
 > **Speakers:** - cognitive (1)
 
 #### Aging into disability
@@ -1784,12 +1787,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), functional (1)
 > **Speakers:** - as (1)
 
 
 ### 5. Integrating Accessibility into Your UX Work and Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility in content strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980)
@@ -1880,9 +1884,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (3), [[Forms]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** ezbank (1), abc (1)
-> **Code Keywords:** interface (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - twelve (1)
@@ -1932,7 +1936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this: (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -1990,8 +1994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), finally, (1)
 > **Speakers:** - one (1)
 
 #### Accessibility and interaction design
@@ -2083,7 +2087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** web (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** itunes (1)
@@ -2131,7 +2135,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), include. (1)
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** means that (1)
 > **Speakers:** - listen (1)
@@ -2139,7 +2142,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More resources and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980)
@@ -2168,6 +2171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Web Accessibility]] (1)
 > **URLs:** [lynda.com](https://lynda.com) (1), [webaim.org](https://webaim.org) (1), [simplyaccessible.com](https://simplyaccessible.com) (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)

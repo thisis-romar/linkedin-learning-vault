@@ -35,7 +35,7 @@ tags:
   - skill/computer-system-validation
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Validation%20and%20User%20Feedback%20and%20Performance%20Metrics.md)
@@ -54,48 +54,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Prerequisites
-  - Quick overview of this course
+  - [Prerequisites](#prerequisites)
+  - [Quick overview of this course](#quick-overview-of-this-course)
 - [**1. Validating ML Models and LLMs**](#1-validating-ml-models-and-llms) (10 videos)
-  - Validation in the ML workflow
-  - Types of cross-validation
-  - Regular and k-fold cross-validation
-  - Stratified cross-validation and nested cross-validation
-  - K-fold cross-validation
-  - Validating LLMs
-  - Offline validation
-  - Golden datasets
-  - Benchmarking
-  - AI validating AI
+  - [Validation in the ML workflow](#validation-in-the-ml-workflow)
+  - [Types of cross-validation](#types-of-cross-validation)
+  - [Regular and k-fold cross-validation](#regular-and-k-fold-cross-validation)
+  - [Stratified cross-validation and nested cross-validation](#stratified-cross-validation-and-nested-cross-validation)
+  - [K-fold cross-validation](#k-fold-cross-validation)
+  - [Validating LLMs](#validating-llms)
+  - [Offline validation](#offline-validation)
+  - [Golden datasets](#golden-datasets)
+  - [Benchmarking](#benchmarking)
+  - [AI validating AI](#ai-validating-ai)
 - [**2. Evaluating ML Models and LLMs**](#2-evaluating-ml-models-and-llms) (17 videos)
-  - Evaluating models using metrics
-  - Evaluating regression models
-  - Evaluating classification models
-  - Evaluating clustering models
-  - Accuracy precision recall
-  - Evaluating large language models (LLMs)
-  - Human evaluation
-  - Statistical methods for LLM evaluation
-  - ROUGE scores
-  - BLEU score
-  - METEOR score
-  - Perplexity
-  - Model-based methods for LLM evaluation
-  - Natural language inference
-  - BLEURT
-  - Judge models
-  - LLM evaluation
+  - [Evaluating models using metrics](#evaluating-models-using-metrics)
+  - [Evaluating regression models](#evaluating-regression-models)
+  - [Evaluating classification models](#evaluating-classification-models)
+  - [Evaluating clustering models](#evaluating-clustering-models)
+  - [Accuracy precision recall](#accuracy-precision-recall)
+  - [Evaluating large language models (LLMs)](#evaluating-large-language-models-llms)
+  - [Human evaluation](#human-evaluation)
+  - [Statistical methods for LLM evaluation](#statistical-methods-for-llm-evaluation)
+  - [ROUGE scores](#rouge-scores)
+  - [BLEU score](#bleu-score)
+  - [METEOR score](#meteor-score)
+  - [Perplexity](#perplexity)
+  - [Model-based methods for LLM evaluation](#model-based-methods-for-llm-evaluation)
+  - [Natural language inference](#natural-language-inference)
+  - [BLEURT](#bleurt)
+  - [Judge models](#judge-models)
+  - [LLM evaluation](#llm-evaluation)
 - [**3. Collecting and Using User Feedback in LLMs**](#3-collecting-and-using-user-feedback-in-llms) (4 videos)
-  - User feedback in LLMs
-  - Implicit and explicit feedback
-  - Reinforcement learning
-  - Reinforcement learning from human feedback
+  - [User feedback in LLMs](#user-feedback-in-llms)
+  - [Implicit and explicit feedback](#implicit-and-explicit-feedback)
+  - [Reinforcement learning](#reinforcement-learning)
+  - [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), ai (1), [[Orchestration]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **Prerequisites:** you need to have (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -164,8 +165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Orchestration]] (3), data (1), next (1), [[Performance Metrics]] (1)
 > **Env Vars:** bleu (1), rouge (1), meteor (1), nli (1), llm (1)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** such as (2)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)
@@ -174,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Validating ML Models and LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Validation in the ML workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980)
@@ -265,9 +266,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), feature (1), [[Neural Networks]] (1), web (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Types of cross-validation
@@ -349,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Decision Trees]] (1), [[Logistic Regression]] (1), [[Linear Regression]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Regular and k-fold cross-validation
@@ -422,7 +423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (11), [[Performance Metrics]] (2), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -481,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (2), class, (1), this. (1)
+> **Frameworks & Libraries:** data (5), next (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
@@ -653,7 +654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), pass (2), class. (1), this, (1)
+> **Frameworks & Libraries:** data (23), [[Pandas (Software)|Pandas]] (2), power (1), [[Microsoft Products|Products]] (1), next (1)
 > **Code Identifiers:** bank_churn_prediction (1), get_dummies (1), drop_first (1), value_counts (1), fit_transform (1)
 > **Versions:** 0.2 (1), 0.859 (1), 0.75 (1), 0.46 (1), 0.57 (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
@@ -733,8 +734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ai (4), [[Large Language Models (LLM)|Large language models]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), rag (1)
 > **Definitions:** is a  (5), means that (2)
-> **Code Keywords:** let (1), this, (1), static (1)
 > **Analogies:** such as (3)
 > **Env Vars:** rag (1)
 > **Speakers:** - [instructor] (1)
@@ -804,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), let (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Real-Time]] (3), [[Algorithms]] (2), feature (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -858,9 +859,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), llm (3), [[Debugging]] (2), next (1), ai (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** llm (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Benchmarking
@@ -944,11 +945,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Microsoft]] (2), [[GPT-4]] (2), strengths (1), data (1)
 > **Definitions:** is a  (6), stands for (4), is an  (1)
 > **Env Vars:** gpt (2), beu (1), bleu (1), llm (1), glue (1)
 > **Analogies:** such as (1), imagine (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -995,16 +996,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Computer Vision]] (1), data (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Evaluating ML Models and LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating models using metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980)
@@ -1053,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Supervised Learning]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1122,8 +1123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1220,8 +1221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (2), fn (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1263,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3)
 > **Versions:** 0.553 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1380,7 +1381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (3), this, (1), class, (1), case, (1)
+> **Frameworks & Libraries:** data (16), [[Stark (Accessibility Software)|Stark]] (1), [[Logistic Regression]] (1)
 > **UI Navigation:** click on (12)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** x_train (1), y_train (1)
@@ -1482,9 +1483,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (8), application (2), [[Large Language Models (LLM)|Large language models]] (1), [[Content Creation]] (1), data (1)
 > **Env Vars:** llm (8)
 > **Analogies:** such as (5), for example (1), imagine (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Human evaluation
@@ -1528,6 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), data (2), [[ChatGPT]] (2)
 > **Env Vars:** llm (4)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** such as (2)
@@ -1572,9 +1574,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2), [[Algorithms]] (1)
 > **Env Vars:** rouge (2), bleu (2), meteor (2), weat (1)
 > **Definitions:** stands for (3), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1639,9 +1641,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (3)
 > **Env Vars:** rouge (20)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1670,8 +1672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bleu (5), rouge (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1701,6 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** meteor (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1752,8 +1755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), data (5), next (4), [[Large Language Models (LLM)|Large language models]] (1), ai (1)
 > **Env Vars:** bleu (1), rouge (1), meteor (1)
-> **Code Keywords:** from. (1), require (1)
 > **URLs:** [perplexity.ai](https://perplexity.ai) (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
@@ -1793,6 +1796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), ai (2), llm (1)
 > **Env Vars:** nli (1), bleurt (1), llm (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
@@ -1873,7 +1877,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
 > **Definitions:** is a  (5), is an  (1)
 > **Env Vars:** nli (4)
 > **CLI Commands:** cat (1)
@@ -1938,9 +1941,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), power (1), [[Google]] (1), ai (1)
 > **Env Vars:** bleurt (12), bert (12), nlp (1), wmt (1)
 > **Definitions:** is a  (4), stands for (2)
-> **Code Keywords:** public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2011,6 +2014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (16), data (4), ai (3), prompt (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (16), bleu (2), rouge (2), bloom (1), opt (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -2249,8 +2253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), api (5), data (3), prompt (3), [[Large Language Models (LLM)|Large language models]] (2)
 > **Env Vars:** api (6), llm (5), gpt (5), fdny (1)
-> **Code Keywords:** let (5), function (3), case. (3), pass (2), this, (1)
 > **Prerequisites:** install (7), set up (4), configure (1)
 > **CLI Commands:** make (4), python (2), pip (2)
 > **Versions:** 0.5 (2), 0.86 (1), 0.37 (1)
@@ -2261,7 +2265,7 @@ created: 2026-04-29
 
 ### 3. Collecting and Using User Feedback in LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User feedback in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980)
@@ -2320,7 +2324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (8), data (2), [[Orchestration]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2457,7 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), for. (1), from, (1)
+> **Frameworks & Libraries:** express (3), data (3), ai (1), [[E-Commerce]] (1), [[Real-Time]] (1)
 > **Definitions:** refers to (2), is a  (2), means that (1)
 > **Analogies:** such as (2), for example (2), for instance (1)
 > **Env Vars:** llm (1)
@@ -2584,8 +2588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (10), llm (8), [[Decision-Making]] (2), data (2), ai (1)
 > **Env Vars:** llm (8), rlhf (2)
-> **Code Keywords:** function (3), let (2)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is an  (1), is a  (1), refers to (1)
 > **CLI Commands:** make (1)
@@ -2662,16 +2666,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (8), [[ChatGPT]] (5), prompt (3), [[Algorithms]] (2), llm (1)
 > **Env Vars:** rlhf (5), llm (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980)
@@ -2706,7 +2710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** [[Performance Metrics]] (3), ai (3), [[Orchestration]] (2), [[Reinforcement Learning]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** we discussed (1)

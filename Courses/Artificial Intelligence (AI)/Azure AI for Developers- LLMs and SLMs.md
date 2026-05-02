@@ -33,7 +33,7 @@ tags:
   - skill/large-language-models-llm
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20LLMs%20and%20SLMs.md)
@@ -52,36 +52,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Choosing the right AI model: LLMs and SLMs explained
-  - What you should know
+  - [Choosing the right AI model: LLMs and SLMs explained](#choosing-the-right-ai-model-llms-and-slms-explained)
+  - [What you should know](#what-you-should-know)
 - [**1. Small Language Models**](#1-small-language-models) (4 videos)
-  - What is a small language model (SLM)?
-  - How do SLMs work?
-  - Popular SLM architectures
-  - Capabilities and limitations
+  - [What is a small language model (SLM)?](#what-is-a-small-language-model-slm)
+  - [How do SLMs work?](#how-do-slms-work)
+  - [Popular SLM architectures](#popular-slm-architectures)
+  - [Capabilities and limitations](#capabilities-and-limitations)
 - [**2. Large Language Models**](#2-large-language-models) (4 videos)
-  - What is a large language model (LLM)?
-  - How do LLMs work?
-  - Popular LLM architectures
-  - Capabilities and limitations
+  - [What is a large language model (LLM)?](#what-is-a-large-language-model-llm)
+  - [How do LLMs work?](#how-do-llms-work)
+  - [Popular LLM architectures](#popular-llm-architectures)
+  - [Capabilities and limitations](#capabilities-and-limitations)
 - [**3. Choosing a Model**](#3-choosing-a-model) (3 videos)
-  - Difference between SLM and LLM
-  - When to use SLM or LLM
-  - Deployment types
+  - [Difference between SLM and LLM](#difference-between-slm-and-llm)
+  - [When to use SLM or LLM](#when-to-use-slm-or-llm)
+  - [Deployment types](#deployment-types)
 - [**4. Sample Projects**](#4-sample-projects) (4 videos)
-  - Deploying and accessing SLM locally
-  - Deploying and accessing LLM in Azure AI Foundry
-  - Challenge: Build an SLM solution
-  - Solution: Build an SLM solution
+  - [Deploying and accessing SLM locally](#deploying-and-accessing-slm-locally)
+  - [Deploying and accessing LLM in Azure AI Foundry](#deploying-and-accessing-llm-in-azure-ai-foundry)
+  - [Challenge: Build an SLM solution](#challenge-build-an-slm-solution)
+  - [Solution: Build an SLM solution](#solution-build-an-slm-solution)
 - [**5.  Implementing Best Practices**](#5-implementing-best-practices) (2 videos)
-  - Common pitfalls
-  - Best practices
+  - [Common pitfalls](#common-pitfalls)
+  - [Best practices](#best-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right AI model: LLMs and SLMs explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980)
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[Large Language Models (LLM)|Large language models]] (2), strengths (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** nis (1)
 > **Speakers:** - are (1)
 
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Neural Networks]] (1), [[Tokens]] (1), [[Microsoft Azure|Azure]] (1), [[Azure AI Foundry]] (1)
 > **Prerequisites:** you'll need (2)
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)
@@ -137,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Small Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a small language model (SLM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-small-language-model-slm?u=76281980)
@@ -178,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), require (1)
+> **Frameworks & Libraries:** data (2), ai (1), power (1), [[Large Language Models (LLM)|Large language models]] (1), [[Engineering]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [narrator] (1)
@@ -232,9 +233,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Supervised Learning]] (2), [[Microsoft Word|Word]] (2), [[Neural Networks]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** slm (2), rnn (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), self (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -313,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Google]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), application (1), [[Tokens]] (1)
 > **Env Vars:** bert (6), lstm (1), rnn (1), gru (1), gpt (1)
-> **Code Keywords:** self (2), let (1), require (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Versions:** 0.5 (1), 3.1 (1)
 > **Analogies:** such as (1), similar to (1)
@@ -435,8 +436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Real-Time]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Privacy]] (2), [[Security]] (2)
 > **Env Vars:** slm (3), slms (2), cpap (1), usb (1), ram (1)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -445,7 +446,7 @@ created: 2026-04-29
 
 ### 2. Large Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a large language model (LLM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980)
@@ -576,9 +577,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Large Language Models (LLM)|Large language models]] (7), llm (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Env Vars:** llm (2), gpt (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -766,8 +767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), next (11), feature (7), [[Large Language Models (LLM)|Large language models]] (6), [[Tokens]] (6)
 > **Env Vars:** cnn (5), llm (3), cpap (1), clip (1), dall (1)
-> **Code Keywords:** let (4), class. (2), pass (1), function (1)
 > **Analogies:** such as (4), for example (3), just like (1)
 > **CLI Commands:** cat (4)
 > **Definitions:** known as (2), stands for (1), is a  (1)
@@ -860,9 +861,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Google]] (3), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), bi (2)
 > **Env Vars:** gpt (8), bert (7), electra (2), rnn (1), nlp (1)
 > **Definitions:** is an  (2), is a  (1), short for (1)
-> **Code Keywords:** extends (1)
 > **Cross-References:** previous video (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1010,8 +1011,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), data (3), llm (3), [[Unstructured Data]] (3), [[Simulation]] (2)
 > **Analogies:** for example (5), such as (2)
-> **Code Keywords:** let (2), require (2), this, (1)
 > **Env Vars:** llm (3), cpu (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -1021,7 +1022,7 @@ created: 2026-04-29
 
 ### 3. Choosing a Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Difference between SLM and LLM
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980)
@@ -1210,7 +1211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), require (2), type, (1), this, (1), type. (1)
+> **Frameworks & Libraries:** data (12), [[Tokens]] (5), next (4), [[Microsoft Word|Word]] (3), [[Neural Networks]] (2)
 > **Env Vars:** lstm (2), slm (2), gru (1), gpt (1), cpu (1)
 > **Definitions:** is a  (3), refers to (2), known as (1)
 > **Analogies:** such as (3), for example (2)
@@ -1317,11 +1318,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), llm (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), next (2), cloud (2)
 > **Env Vars:** llm (3), slm (2)
 > **Analogies:** such as (2), for example (1)
 > **URLs:** [llm-stats.com](https://llm-stats.com) (1), [huggingface.co](https://huggingface.co) (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
@@ -1363,6 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[Hardware]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[IoT]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** iot (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** known as (1)
@@ -1371,7 +1373,7 @@ created: 2026-04-29
 
 ### 4. Sample Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying and accessing SLM locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980)
@@ -1450,8 +1452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), next (1), [[Search]] (1), api (1), application (1)
 > **Env Vars:** uri (2), slm (1), api (1), http (1), url (1)
-> **Code Keywords:** this, (1), let (1), case, (1)
 > **Tools:** visual studio (3)
 > **CLI Commands:** make (2)
 > **File Paths:** newtonsoft.json (1)
@@ -1540,11 +1542,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (3), ai (2), [[JSON]] (2), prompt (2)
 > **Env Vars:** gpt (2), json (2), openai_endpoint (2), openai_key (2), uri (1)
 > **UI Navigation:** click on (5), scroll down (1), select the (1)
 > **Prerequisites:** set up (5), you'll need (2)
 > **CLI Commands:** make (2), find (1), python (1)
-> **Code Keywords:** async (1), pass (1), let (1)
 > **Analogies:** such as (2), for example (1)
 > **Tools:** azure portal (1), visual studio (1)
 > **URLs:** [azure.ai](https://azure.ai) (1)
@@ -1564,6 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Fine Tuning]] (1), [[Azure AI Foundry]] (1), application (1)
 > **CLI Commands:** apache (1)
 > **Env Vars:** aka (1)
 > **Versions:** 2.0 (1)
@@ -1654,9 +1657,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (2), ai (2), [[Azure AI Foundry]] (1), api (1)
 > **Env Vars:** uri (2), net (2), url (1), api (1), target_uri (1)
 > **CLI Commands:** apache (1), make (1)
-> **Code Keywords:** let (1), continue (1)
 > **Versions:** 4.7.1 (1), 9.0 (1)
 > **Code Identifiers:** targeturi (1)
 > **Tools:** visual studio (1)
@@ -1666,7 +1669,7 @@ created: 2026-04-29
 
 ### 5.  Implementing Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980)
@@ -1771,8 +1774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (7), business (2), [[Azure AI Foundry]] (2), teams (1)
 > **Warnings:** pitfall (5), keep in mind (1)
-> **Code Keywords:** require (3), let (1), type. (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1), gpu (1)
 > **Definitions:** is called (1), in other words (1)
@@ -1894,7 +1897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), type, (1)
+> **Frameworks & Libraries:** data (17), ai (3), [[Security]] (2), [[Privacy]] (2), application (2)
 > **CLI Commands:** make (2)
 > **Best Practices:** best practice (2)
 > **Env Vars:** rag (1)
@@ -1906,7 +1909,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/next-steps?u=76281980)
@@ -1933,8 +1936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), ai (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** type. (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)
 

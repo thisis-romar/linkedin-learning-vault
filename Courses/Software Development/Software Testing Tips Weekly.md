@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/software-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Testing%20Tips%20Weekly.md)
@@ -47,36 +47,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Soft skills**](#soft-skills) (7 videos)
-  - Top tips for talking with developers
-  - Building team communication skills
-  - Testing: Becoming an evangelist
-  - Asking questions
-  - Quality responsibility
-  - Sprint planning
-  - Be positive
+  - [Top tips for talking with developers](#top-tips-for-talking-with-developers)
+  - [Building team communication skills](#building-team-communication-skills)
+  - [Testing: Becoming an evangelist](#testing-becoming-an-evangelist)
+  - [Asking questions](#asking-questions)
+  - [Quality responsibility](#quality-responsibility)
+  - [Sprint planning](#sprint-planning)
+  - [Be positive](#be-positive)
 - [**Productivity**](#productivity) (6 videos)
-  - Screen recording for better bug reports
-  - DevTools for web performance
-  - Do you know where your log files are?
-  - Auditing your web app with Google Lighthouse
-  - Being technical without code
-  - Documenting exploratory testing
+  - [Screen recording for better bug reports](#screen-recording-for-better-bug-reports)
+  - [DevTools for web performance](#devtools-for-web-performance)
+  - [Do you know where your log files are?](#do-you-know-where-your-log-files-are)
+  - [Auditing your web app with Google Lighthouse](#auditing-your-web-app-with-google-lighthouse)
+  - [Being technical without code](#being-technical-without-code)
+  - [Documenting exploratory testing](#documenting-exploratory-testing)
 - [**Testing skills**](#testing-skills) (11 videos)
-  - Better bug reports
-  - Using personas for testing
-  - Pair testing and mob testing
-  - Working with test data
-  - Continuous testing: Why you should care about it
-  - Accessibility testing considerations
-  - Test reporting
-  - Mobile device testing
-  - Contract testing
-  - Agile testing
-  - Security testing
+  - [Better bug reports](#better-bug-reports)
+  - [Using personas for testing](#using-personas-for-testing)
+  - [Pair testing and mob testing](#pair-testing-and-mob-testing)
+  - [Working with test data](#working-with-test-data)
+  - [Continuous testing: Why you should care about it](#continuous-testing-why-you-should-care-about-it)
+  - [Accessibility testing considerations](#accessibility-testing-considerations)
+  - [Test reporting](#test-reporting)
+  - [Mobile device testing](#mobile-device-testing)
+  - [Contract testing](#contract-testing)
+  - [Agile testing](#agile-testing)
+  - [Security testing](#security-testing)
 
 ### Soft skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Top tips for talking with developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980)
@@ -185,10 +185,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Software Testing]] (2), business (2), [[Angular]] (1), next (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), imagine (1)
-> **Code Keywords:** let (1), function (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - hi (1)
@@ -314,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Software Testing]] (2), [[Agile Development|Agile]] (1), business (1), next (1)
 > **Definitions:** is a  (4), means that (1)
-> **Code Keywords:** raise (2), let (1), this. (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** later in (1)
@@ -391,6 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (8), career (2), next (2), management (2), [[Software Projects]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -477,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (2), self (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Software Testing]] (1), business (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -531,10 +532,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Quality Assurance]] (2), [[Software Development]] (1), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** if, (1)
 > **Speakers:** - it (1)
 
 #### Sprint planning
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -639,14 +640,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), game (1), management (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Productivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Screen recording for better bug reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980)
@@ -697,6 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (3), application (3), management (3), hit (1), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
@@ -753,6 +755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Google]] (2), next (2), hit (2)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -818,8 +821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (2), application (2), next (2), [[Microservices]] (1), cloud (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this. (1), this, (1), from. (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -876,6 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (5), application (3), [[Software Testing]] (2), web (1), seo (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** seo (1)
@@ -918,10 +922,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[GitHub]] (1), [[Databases]] (1), database (1), [[Virtual Machines]] (1)
 > **CLI Commands:** ssh (1), docker (1), make (1)
 > **Env Vars:** ssh (1), http (1)
 > **Exercise Files:** source code (2)
-> **Code Keywords:** require (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -997,8 +1001,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (5), make (3)
-> **Code Keywords:** let (3), this, (1), switch (1), throw (1), finally, (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** mac (1)
 > **Documentation:** the documentation (1)
@@ -1009,7 +1013,7 @@ created: 2026-04-29
 
 ### Testing skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Better bug reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980)
@@ -1060,8 +1064,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (3), teams (1), web (1), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
@@ -1113,6 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (2), feature (2), power (1), teams (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1176,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), function (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3), [[Programming]] (2), next (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** similar to (1)
@@ -1238,8 +1243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Software Testing]] (2), [[SQL]] (1), [[HTML]] (1), next (1)
 > **Env Vars:** csv (1), sql (1), html (1)
-> **Code Keywords:** import, (2)
 > **URLs:** [generatedata.com](https://generatedata.com) (1), [mockaroo.com](https://mockaroo.com) (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1304,6 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Automation]] (2), api (1), teams (1), ux (1)
 > **Definitions:** means that (4), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -1352,6 +1358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (2), mobile application (1), application (1), [[Google]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wave (1)
 > **Tools:** chrome devtools (1)
@@ -1398,8 +1405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), application (2), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Mobile device testing
@@ -1449,9 +1456,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (3), [[Mobile Testing]] (2), [[Google]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Code Identifiers:** ios (6)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** aws (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
@@ -1501,8 +1508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (3), api (2), application (1), [[Microservices]] (1), data (1)
 > **Env Vars:** api (2)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -1565,6 +1572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), data (2), [[Agile Software Development]] (1), next (1), application (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1620,8 +1628,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), application (6), [[Kali Linux]] (1), [[OWASP]] (1), career (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** this, (1), from. (1)
 > **Env Vars:** owasp (1), zap (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** best practice (1)

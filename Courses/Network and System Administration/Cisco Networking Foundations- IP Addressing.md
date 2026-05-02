@@ -30,7 +30,7 @@ tags:
   - skill/ip-addressing
   - skill/cisco-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20IP%20Addressing.md)
@@ -49,45 +49,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn IP addressing
-  - What you’ll learn
+  - [Learn IP addressing](#learn-ip-addressing)
+  - [What you’ll learn](#what-youll-learn)
 - [**1. IPv4 Addressing**](#1-ipv4-addressing) (15 videos)
-  - Converting from binary to decimal
-  - Converting from decimal to binary
-  - Binary practice exercise #1
-  - Binary practice exercise #2
-  - IPv4 address format
-  - IPv4 address classes
-  - Public vs. private IPv4 addresses
-  - IPv4 unicast, broadcast, and multicast
-  - The need for subnetting
-  - Calculating available subnets
-  - Calculating available hosts
-  - Subnetting practice exercise #1
-  - Subnetting practice exercise #2
-  - Calculating usable ranges of IPv4 addresses
-  - Subnetting practice exercise #3
+  - [Converting from binary to decimal](#converting-from-binary-to-decimal)
+  - [Converting from decimal to binary](#converting-from-decimal-to-binary)
+  - [Binary practice exercise #1](#binary-practice-exercise-1)
+  - [Binary practice exercise #2](#binary-practice-exercise-2)
+  - [IPv4 address format](#ipv4-address-format)
+  - [IPv4 address classes](#ipv4-address-classes)
+  - [Public vs. private IPv4 addresses](#public-vs-private-ipv4-addresses)
+  - [IPv4 unicast, broadcast, and multicast](#ipv4-unicast-broadcast-and-multicast)
+  - [The need for subnetting](#the-need-for-subnetting)
+  - [Calculating available subnets](#calculating-available-subnets)
+  - [Calculating available hosts](#calculating-available-hosts)
+  - [Subnetting practice exercise #1](#subnetting-practice-exercise-1)
+  - [Subnetting practice exercise #2](#subnetting-practice-exercise-2)
+  - [Calculating usable ranges of IPv4 addresses](#calculating-usable-ranges-of-ipv4-addresses)
+  - [Subnetting practice exercise #3](#subnetting-practice-exercise-3)
 - [**2. IPv6 Addressing**](#2-ipv6-addressing) (14 videos)
-  - Hexadecimal numbering
-  - IPv6 address format
-  - Shortening an IPv6 address
-  - IPv6 address shortening exercise
-  - IPv6 global unicast
-  - IPv6 multicast
-  - IPv6 link local
-  - IPv6 unique local
-  - IPv6 loopback
-  - IPv6 unspecified
-  - IPv6 solicited-node multicast
-  - EUI-64 address
-  - IPv6 autoconfiguration
-  - IPv6 traffic flows
+  - [Hexadecimal numbering](#hexadecimal-numbering)
+  - [IPv6 address format](#ipv6-address-format)
+  - [Shortening an IPv6 address](#shortening-an-ipv6-address)
+  - [IPv6 address shortening exercise](#ipv6-address-shortening-exercise)
+  - [IPv6 global unicast](#ipv6-global-unicast)
+  - [IPv6 multicast](#ipv6-multicast)
+  - [IPv6 link local](#ipv6-link-local)
+  - [IPv6 unique local](#ipv6-unique-local)
+  - [IPv6 loopback](#ipv6-loopback)
+  - [IPv6 unspecified](#ipv6-unspecified)
+  - [IPv6 solicited-node multicast](#ipv6-solicited-node-multicast)
+  - [EUI-64 address](#eui-64-address)
+  - [IPv6 autoconfiguration](#ipv6-autoconfiguration)
+  - [IPv6 traffic flows](#ipv6-traffic-flows)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn IP addressing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Microsoft Office|Office]] (1), [[IP Addressing]] (1), [[LinkedIn]] (1), [[Cisco Networking]] (1)
 > **Env Vars:** ccie (1)
 > **Speakers:** - [instructor] (1)
 
@@ -142,8 +143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IP Addressing]] (3), next (1)
 > **Env Vars:** pdf (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -151,7 +152,7 @@ created: 2026-04-29
 
 ### 1. IPv4 Addressing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Converting from binary to decimal
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/converting-from-binary-to-decimal?u=76281980)
@@ -210,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Versions:** version 4 (2), 10.1.2 (1)
-> **Code Keywords:** super (1), let (1)
 > **Definitions:** we call this (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -329,6 +330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -366,7 +368,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -470,8 +471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (3), case, (1)
 > **UI Navigation:** go to (3)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -576,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Versions:** 10.1.2 (5), version 4 (4), 255.0.0 (1), 0.0.0 (1)
-> **Code Keywords:** let (3), case, (1), this. (1)
 > **Definitions:** refers to (2), stands for (1)
 > **Analogies:** analogous to (2), for example (1)
 > **Env Vars:** cidr (2)
@@ -660,9 +661,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Versions:** version 4 (5), 255.0.0 (1), 255.255.0 (1), 127.0.0 (1), 255.255.255 (1)
 > **Definitions:** is a  (3), refers to (1)
-> **Code Keywords:** interface (1), finally, (1)
 > **Cross-References:** later in (1), next chapter (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** the key is (1)
@@ -761,7 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (11), public (9), pass (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (3), [[Microsoft Office|Office]] (1), [[Microsoft]] (1), [[Windows]] (1), [[Routing]] (1)
 > **Env Vars:** rfc (7), apipa (5), nat (2), dhcp (1)
 > **Documentation:** rfc (7)
 > **Versions:** 192.168 (2), 172.16 (1), 172.31 (1), 169.254 (1)
@@ -849,7 +850,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Versions:** version 4 (9), 10.1.1 (3), 239.1.1 (1)
-> **Code Keywords:** let (6), switch (3), case, (2), finally, (1)
 > **Env Vars:** ceo (2)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **CLI Commands:** make (1)
@@ -973,7 +973,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Versions:** 192.0.2 (5), 192.168.0 (2), 192.168.1 (1), 192.168.14 (1), 0.25.0 (1)
-> **Code Keywords:** let (4), this. (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1043,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2)
+> **Frameworks & Libraries:** power (2)
 > **Versions:** 255.255.255 (3), 192.168.1 (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1115,7 +1114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** power (3), traffic (2)
 > **Versions:** 255.255.255 (2), 192.168.1 (1)
 > **Definitions:** in other words (2)
 > **UI Navigation:** go to (1)
@@ -1199,8 +1198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), next (1)
 > **Definitions:** is a  (4), in other words (1)
-> **Code Keywords:** let (3), case, (1)
 > **Versions:** 172.20.0 (1), 255.255.252 (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** required to (1)
@@ -1267,7 +1266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** power (3)
 > **Versions:** 172.20.0 (1), 255.255.255 (1)
 > **Definitions:** in other words (2)
 > **Prerequisites:** required to (2)
@@ -1368,8 +1367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6)
 > **Versions:** 172.25.0 (9), 172.25.1 (5), 2.0 (1), 172.25.255 (1), 255.255.255 (1)
-> **Code Keywords:** let (5), super (1), this, (1), case, (1)
 > **Definitions:** in other words (2)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
@@ -1471,8 +1470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 192.168.0 (9), 255.255.255 (2), 0.128 (1), 0.192 (1)
-> **Code Keywords:** let (2), case, (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** previous video (2)
 > **Definitions:** in other words (1)
@@ -1481,7 +1480,7 @@ created: 2026-04-29
 
 ### 2. IPv6 Addressing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hexadecimal numbering
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/hexadecimal-numbering?u=76281980)
@@ -1568,7 +1567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2)
+> **Frameworks & Libraries:** power (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** bc01 (1)
@@ -1663,8 +1662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** later in (1), we discussed (1), previous video (1), next video (1)
-> **Code Keywords:** let (3)
 > **Definitions:** refers to (2), is called (1)
 > **Env Vars:** mac (1), mtu (1)
 > **Prerequisites:** set up (1)
@@ -1747,7 +1746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** next (4)
 > **Versions:** version 6 (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1)
@@ -1807,7 +1806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** next (4)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1882,8 +1881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Versions:** version 6 (6), version 4 (1)
-> **Code Keywords:** let (3), case, (2), interface (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), just like (1)
 > **Env Vars:** iana (1)
@@ -1957,8 +1956,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), next (2), node (1)
 > **Env Vars:** ff02 (3), ff04 (1), ff00 (1)
-> **Code Keywords:** let (2), super (1), finally, (1)
 > **Definitions:** is an  (1), means that (1), known as (1), is called (1)
 > **CLI Commands:** node (1)
 > **Ports:** :10 (1)
@@ -2027,8 +2026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), traffic (2), [[Routing Protocols]] (2), [[Routing]] (1)
 > **Env Vars:** fe80 (4), apipa (2), eui (1)
-> **Code Keywords:** let (1), case, (1), finally, (1), interface (1), this. (1)
 > **Cross-References:** later in (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
@@ -2071,7 +2070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2), case. (1), interface (1)
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** rfc (2), fd00 (1), fc00 (1)
 > **Versions:** version 6 (2), version 4 (2)
 > **Documentation:** rfc (2)
@@ -2101,9 +2100,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), web (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Versions:** 127.0.0 (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -2148,8 +2147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2)
 > **Env Vars:** pc1 (5), ff02 (2)
-> **Code Keywords:** let (2), this. (1), super (1)
 > **Definitions:** in other words (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1), as we saw (1)
@@ -2240,9 +2239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (10)
 > **Env Vars:** mac (6), pc1 (6), ff02 (5), ff00 (3), arp (3)
 > **CLI Commands:** node (10), make (2)
-> **Code Keywords:** let (4), self (2), function (1)
 > **Definitions:** is called (1), is a  (1)
 > **Versions:** version 4 (1)
 > **Cross-References:** later in (1)
@@ -2332,8 +2331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** mac (7), eui (1), iana (1), fe80 (1)
-> **Code Keywords:** interface (3), case, (2), self (1), let (1), public (1)
 > **Versions:** version 6 (3)
 > **Cross-References:** later in (1), we discussed (1), earlier in (1)
 > **Definitions:** is called (1), stands for (1)
@@ -2378,7 +2377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2)
+> **Frameworks & Libraries:** dns (2)
 > **Env Vars:** dns (2), dhcp (1), eui (1)
 > **Definitions:** in other words (3)
 > **Cross-References:** earlier in (1), we talked about (1)
@@ -2442,8 +2441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), [[Routing]] (1)
 > **Env Vars:** pc1 (2), ff04 (1), pc3 (1), bgp (1)
-> **Code Keywords:** let (1), from, (1)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** make (1)
 > **Ports:** :10 (1)
@@ -2454,7 +2453,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980)
@@ -2489,9 +2488,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[IP Addressing]] (1), next (1)
 > **Env Vars:** ccna (3)
 > **Cross-References:** we discussed (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -33,7 +33,7 @@ tags:
   - skill/digital-authentication
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP-%20User%20Authentication.md)
@@ -52,37 +52,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Restricting user access in PHP applications
-  - How to use the exercise files on GitHub
+  - [Restricting user access in PHP applications](#restricting-user-access-in-php-applications)
+  - [How to use the exercise files on GitHub](#how-to-use-the-exercise-files-on-github)
 - [**1. User Authentication Overview**](#1-user-authentication-overview) (2 videos)
-  - Identification and access control
-  - Hashing and storing passwords
+  - [Identification and access control](#identification-and-access-control)
+  - [Hashing and storing passwords](#hashing-and-storing-passwords)
 - [**2. Implementing User Authentication in PHP**](#2-implementing-user-authentication-in-php) (8 videos)
-  - Creating the database table
-  - Introducing the sample project
-  - Adding new users
-  - Logging in users
-  - Logging out users
-  - Controlling access to pages and functions
-  - Challenge: Editing users
-  - Solution: Editing users
+  - [Creating the database table](#creating-the-database-table)
+  - [Introducing the sample project](#introducing-the-sample-project)
+  - [Adding new users](#adding-new-users)
+  - [Logging in users](#logging-in-users)
+  - [Logging out users](#logging-out-users)
+  - [Controlling access to pages and functions](#controlling-access-to-pages-and-functions)
+  - [Challenge: Editing users](#challenge-editing-users)
+  - [Solution: Editing users](#solution-editing-users)
 - [**3. Working with Strong Passwords**](#3-working-with-strong-passwords) (3 videos)
-  - Password requirements
-  - Preventing weak passwords
-  - Resetting forgotten passwords
+  - [Password requirements](#password-requirements)
+  - [Preventing weak passwords](#preventing-weak-passwords)
+  - [Resetting forgotten passwords](#resetting-forgotten-passwords)
 - [**4. Securing User Authentication**](#4-securing-user-authentication) (6 videos)
-  - Preventing IDOR
-  - Using HTTPS
-  - Protecting access tokens
-  - Keeping track of logins
-  - Challenge: Expiring logins
-  - Solution: Expiring logins
+  - [Preventing IDOR](#preventing-idor)
+  - [Using HTTPS](#using-https)
+  - [Protecting access tokens](#protecting-access-tokens)
+  - [Keeping track of logins](#keeping-track-of-logins)
+  - [Challenge: Expiring logins](#challenge-expiring-logins)
+  - [Solution: Expiring logins](#solution-expiring-logins)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Restricting user access in PHP applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980)
@@ -107,9 +107,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), web (1)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - [kevin] (1)
 
 #### How to use the exercise files on GitHub
@@ -151,19 +151,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (4), [[LinkedIn]] (1), [[PHP]] (1)
 > **CLI Commands:** git (4), find (1), php (1)
 > **Env Vars:** url (4)
 > **Tools:** github (4)
 > **UI Navigation:** switch to (1), click on (1), open the (1)
 > **Exercise Files:** exercise files (1), download the (1), zip file (1)
-> **Code Keywords:** switch (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. User Authentication Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identification and access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980)
@@ -250,7 +250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), public (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** web (4), [[Security]] (2), [[Forms]] (1), web application (1), [[Content Management]] (1)
 > **Analogies:** imagine (1), just like (1), it's like (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -330,8 +330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[Algorithms]] (2), data (1), next (1), [[PHP]] (1)
 > **CLI Commands:** php (1), make (1)
-> **Code Keywords:** pass (1)
 > **Env Vars:** php (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
@@ -341,7 +341,7 @@ created: 2026-04-29
 
 ### 2. Implementing User Authentication in PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the database table
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980)
@@ -432,9 +432,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[SQL]] (7), [[PHP]] (4), [[Databases]] (1), hit (1)
 > **Env Vars:** sql (7), php (4)
 > **CLI Commands:** php (4)
-> **Code Keywords:** let (3), this, (1)
 > **Tools:** command line (3)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
@@ -572,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), public (3), let (2), function (2), delete (1)
+> **Frameworks & Libraries:** database (14), [[PHP]] (5), [[MySQL]] (2), data (1)
 > **CLI Commands:** php (5), mysql (2), make (2)
 > **Env Vars:** php (5), url (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -778,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), pass (3), match. (3), function (2), if, (2)
+> **Frameworks & Libraries:** [[PHP]] (7), database (6), [[SQL]] (4), data (2), web (1)
 > **CLI Commands:** php (7), make (3), find (1)
 > **Env Vars:** sql (4)
 > **UI Navigation:** go to (3), click on (1)
@@ -1012,7 +1012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (5), pass (4), match, (2), this. (2)
+> **Frameworks & Libraries:** database (7), [[PHP]] (7), application (1), [[Search]] (1), hit (1)
 > **CLI Commands:** php (7), find (6), make (4)
 > **Env Vars:** url (3), php (1)
 > **UI Navigation:** go to (3)
@@ -1102,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), pass (2), super (1)
+> **Frameworks & Libraries:** [[PHP]] (2), database (1), next (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Code Identifiers:** log_out_admin (2), log_in_admin (1)
 > **File Paths:** logout.php (1), index.php (1)
@@ -1306,7 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), require (4), function (3), protected (2), delete (2)
+> **Frameworks & Libraries:** [[PHP]] (14), application (2), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
 > **CLI Commands:** php (14), make (4), find (1)
 > **Code Identifiers:** is_logged_in (5), require_login (5), url_for (1), is_logged (1)
 > **Env Vars:** php (9)
@@ -1412,10 +1412,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[SQL]] (2), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (5)
 > **URLs:** [nowhere.com](https://nowhere.com) (1), [somewhere.com](https://somewhere.com) (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** imagine (1)
@@ -1530,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), require (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4)
 > **UI Navigation:** click on (1), scroll up (1), scroll down (1)
 > **CLI Commands:** make (2)
@@ -1542,7 +1542,7 @@ created: 2026-04-29
 
 ### 3. Working with Strong Passwords
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Password requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980)
@@ -1713,7 +1713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), require (5), function (2), try, (1), pass (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), power (1), [[Forms]] (1), [[PHP]] (1)
 > **CLI Commands:** make (4), find (2), php (1)
 > **Code Identifiers:** validate_admin (1), confirm_password (1), has_length (1), preg_match (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
@@ -1831,7 +1831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match, (2), require (2), this, (1), raise (1)
+> **Frameworks & Libraries:** database (3), [[Security]] (2), api (2), [[Microsoft Word|Word]] (1), data (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** api (2), url (1), sha (1), nist (1)
 > **UI Navigation:** go to (2)
@@ -1949,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), pass (2), self (1), require (1)
+> **Frameworks & Libraries:** database (3), [[Security]] (2), [[PHP]] (2), [[Tokens]] (1), feature (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** php (2)
 > **Analogies:** for example (1), imagine (1)
@@ -1961,7 +1961,7 @@ created: 2026-04-29
 
 ### 4. Securing User Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preventing IDOR
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980)
@@ -2172,7 +2172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), require (3), this. (2), default. (2), new, (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[Search]] (2), [[E-Commerce]] (1), cloud (1), database (1)
 > **Code Identifiers:** require_login (5), exempt_from_auth (4), script_name (3), auth_functions (2), page_exempt_from_auth (2)
 > **CLI Commands:** php (11), make (4)
 > **File Paths:** index.php (5), initialize.php (1), staffinitialize.php (1), login.php (1), auth_functions.php (1)
@@ -2230,8 +2230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (1), web (1)
 > **Env Vars:** https (5), ssl (3), http (1), tls (1)
-> **Code Keywords:** let (2), require (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
@@ -2307,9 +2307,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (3), [[PHP]] (3), [[JavaScript]] (2), data (1)
 > **CLI Commands:** php (3), find (2), make (1)
 > **Env Vars:** https (3), http (2), php (1)
-> **Code Keywords:** let (3), else. (1), else, (1)
 > **Definitions:** means that (3), is a  (1)
 > **File Paths:** php.ini (2)
 > **Cross-References:** in the last (1)
@@ -2373,7 +2373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (2), this. (1), delete (1)
+> **Frameworks & Libraries:** database (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2418,11 +2418,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[PHP]] (1)
 > **Cross-References:** we talked about (1), in the last (1), in the next (1)
 > **Analogies:** imagine (1), for example (1)
 > **File Paths:** function.php (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** function (1)
 > **Versions:** 7.55 (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2510,9 +2510,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), next (1)
 > **Code Identifiers:** last_login (5), is_logged_in (3), last_login_is_recent (2), max_elapsed (2), login_expires (2)
 > **CLI Commands:** php (2), find (2)
-> **Code Keywords:** let (1), else. (1)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2521,7 +2521,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980)
@@ -2548,6 +2548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[Security]] (3), web (2), [[Programming Foundations]] (1), [[Programming]] (1)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Speakers:** - [kevin] (1)

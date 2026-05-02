@@ -14,34 +14,42 @@ tags:
   - topic/security
   - topic/data-science
   - topic/database-management
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-02T20:42:09.914Z
+activity_total: 2
+courses_visited: 2
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Creating A Culture Of Privacy]]'
-    last_opened: null
+  - course: "[[Creating A Culture Of Privacy]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Understanding and Prioritizing Data Privacy]]'
-    last_opened: null
+  - course: "[[Understanding and Prioritizing Data Privacy]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Building a Privacy Program in the Age of GenAI]]'
-    last_opened: null
+  - course: "[[Building a Privacy Program in the Age of GenAI]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Privacy, Governance, and Compliance- Data Classification and Inventory]]'
-    last_opened: null
+  - course: "[[Privacy, Governance, and Compliance- Data Classification and Inventory]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Privacy, Governance, and Compliance- Data Sharing]]'
-    last_opened: null
+  - course: "[[Privacy, Governance, and Compliance- Data Sharing]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-04-29'
+  - course: privacy-governance-and-compliance-data-classification-and-inventory
+    last_opened: 2026-05-02T20:38:52.250Z
+    open_count: 1
+    videos: []
+  - course: creating-a-culture-of-privacy
+    last_opened: 2026-05-02T20:42:09.914Z
+    open_count: 1
+    videos: []
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Build%20a%20Privacy%20Program.md)

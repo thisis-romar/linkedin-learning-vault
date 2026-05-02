@@ -30,7 +30,7 @@ tags:
   - skill/postgresql
   - skill/mysql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Choosing%20A%20Database%20Postgresql%20Mysql%20Mongo%20And%20Cloud.md)
@@ -49,35 +49,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Choosing the right data platform
-  - Comparing database options
-  - Setting up the environment
+  - [Choosing the right data platform](#choosing-the-right-data-platform)
+  - [Comparing database options](#comparing-database-options)
+  - [Setting up the environment](#setting-up-the-environment)
 - [**1. PostgreSQL**](#1-postgresql) (4 videos)
-  - PostgreSQL explore
-  - PostgreSQL commands
-  - Inheritance and data types
-  - Features
+  - [PostgreSQL explore](#postgresql-explore)
+  - [PostgreSQL commands](#postgresql-commands)
+  - [Inheritance and data types](#inheritance-and-data-types)
+  - [Features](#features)
 - [**2. MySQL**](#2-mysql) (3 videos)
-  - MySQL explore
-  - Dialect nuances in MySQL
-  - MySQL Workbench
+  - [MySQL explore](#mysql-explore)
+  - [Dialect nuances in MySQL](#dialect-nuances-in-mysql)
+  - [MySQL Workbench](#mysql-workbench)
 - [**3. Mongo**](#3-mongo) (3 videos)
-  - Mongo explore
-  - Dialect nuances
-  - Mongo tools
+  - [Mongo explore](#mongo-explore)
+  - [Dialect nuances](#dialect-nuances)
+  - [Mongo tools](#mongo-tools)
 - [**4. Cloud-Based Databases**](#4-cloud-based-databases) (6 videos)
-  - Snowflake
-  - Snowsight by Snowflake
-  - Amazon Web Services
-  - Amazon Redshift and S3
-  - Google Cloud Platform
-  - Microsoft Azure
+  - [Snowflake](#snowflake)
+  - [Snowsight by Snowflake](#snowsight-by-snowflake)
+  - [Amazon Web Services](#amazon-web-services)
+  - [Amazon Redshift and S3](#amazon-redshift-and-s3)
+  - [Google Cloud Platform](#google-cloud-platform)
+  - [Microsoft Azure](#microsoft-azure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Recap
+  - [Recap](#recap)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right data platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980)
@@ -118,9 +118,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (2), [[Privacy]] (1), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** mongo (1), mysql (1), aws (1), find (1)
 > **Env Vars:** aws (1), gcp (1), sql (1)
-> **Code Keywords:** from. (1), let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [amataverna] (1)
@@ -182,6 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (6), [[NoSQL]] (3), [[SQL]] (3), [[Databases]] (3)
 > **CLI Commands:** mongo (1), make (1), find (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2), is called (1)
@@ -275,7 +276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), new. (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (7), data (4), database (4), [[SQL]] (2), [[Search]] (1)
 > **Env Vars:** sql (2), url (2)
 > **CLI Commands:** mongo (2)
 > **Definitions:** is called (1)
@@ -285,7 +286,7 @@ created: 2026-04-29
 
 ### 1. PostgreSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PostgreSQL explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-explore-21050360?u=76281980)
@@ -477,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), this. (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[PostgreSQL|Postgres]] (4), [[Fetch]] (3), next (3), data (3)
 > **Env Vars:** sql (2), xyz (1)
 > **Analogies:** similar to (2), it's like (1)
 > **CLI Commands:** make (2)
@@ -580,7 +581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1), function (1)
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (7), [[JSON]] (5), [[PostgreSQL|Postgres]] (4), feature (1)
 > **Code Identifiers:** json_build_object (2), product_json (2), product_names (1)
 > **Env Vars:** json (4)
 > **Analogies:** just like (1), similar to (1)
@@ -652,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (6), super (1), this, (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[SQL]] (4), [[Programming]] (2), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (4), tcl (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
@@ -664,7 +665,7 @@ created: 2026-04-29
 
 ### 2. MySQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MySQL explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980)
@@ -703,6 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[MySQL]] (5), [[PostgreSQL|Postgres]] (4), data (3), web (2)
 > **CLI Commands:** mysql (5), apache (1), php (1), mongo (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** lamp (2), php (1)
@@ -818,7 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (4), this. (2), case. (1)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[SQL]] (6), database (5), data (2), [[Databases]] (2)
 > **CLI Commands:** mysql (8), mongo (1)
 > **Env Vars:** sql (6), crud (3)
 > **Definitions:** is a  (3), is an  (1)
@@ -932,9 +934,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (12), database (7), [[SQL]] (6), data (6), [[PostgreSQL|Postgres]] (4)
 > **CLI Commands:** mysql (12), make (2), find (1)
 > **Env Vars:** sql (6), gui (3)
-> **Code Keywords:** delete (2), let (1), switch (1), require (1)
 > **Code Identifiers:** pgadmin (4)
 > **Cross-References:** in the last (2)
 > **UI Navigation:** click on (2)
@@ -944,7 +946,7 @@ created: 2026-04-29
 
 ### 3. Mongo
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mongo explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980)
@@ -1023,11 +1025,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[NoSQL]] (9), database (7), [[Databases]] (6), [[JSON]] (4)
 > **Env Vars:** cap (5), json (4), acid (3), bson (1), gui (1)
 > **CLI Commands:** mongo (10), node (1)
 > **Definitions:** is a  (3), stands for (2)
 > **Analogies:** such as (2), similar to (1), think of it as (1), for example (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Dialect nuances
@@ -1173,7 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (2), type. (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), database (3), data (3), [[SQL]] (1), [[Programming]] (1)
 > **CLI Commands:** mongo (4), find (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
@@ -1187,7 +1189,7 @@ created: 2026-04-29
 
 ### 4. Cloud-Based Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowflake-21046906?u=76281980)
@@ -1415,7 +1417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), this, (1), this. (1), function (1)
+> **Frameworks & Libraries:** data (26), [[Snowflake]] (6), database (3), [[Databases]] (2), [[Google]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), similar to (1), it's like (1)
 > **Prerequisites:** set up (3)
@@ -1469,6 +1471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), aws (7), cloud (3), database (2), [[Analytics]] (2)
 > **Env Vars:** aws (7), stem (1), sql (1), rds (1)
 > **CLI Commands:** aws (7), make (1)
 > **Definitions:** known as (2), stands for (1)
@@ -1648,7 +1651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), super (1), this. (1), new. (1), case. (1)
+> **Frameworks & Libraries:** data (14), [[LinkedIn]] (2), [[Databases]] (2), web (1), career (1)
 > **Env Vars:** csv (2), url (1), aws (1), sql (1)
 > **CLI Commands:** aws (1), node (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1686,9 +1689,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Google]] (3), gcp (2), cloud (2), data (2)
 > **Env Vars:** sql (4), gcp (2), ansi (2), aws (1)
 > **CLI Commands:** mysql (1), aws (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** stands for (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1699,7 +1702,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980)
@@ -1738,9 +1741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (4), [[SQL]] (2), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** mongo (1), make (1)
-> **Code Keywords:** finally, (1), while, (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)

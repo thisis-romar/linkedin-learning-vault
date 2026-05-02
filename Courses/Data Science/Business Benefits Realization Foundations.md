@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/benefits-realisation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Benefits%20Realization%20Foundations.md)
@@ -47,38 +47,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Exploring the basics
+  - [Exploring the basics](#exploring-the-basics)
 - [**1. The Basics of Business Benefits Realization**](#1-the-basics-of-business-benefits-realization) (3 videos)
-  - What is business benefits realization?
-  - Why is business benefits realization important?
-  - Key terms and principles of business benefits realization
+  - [What is business benefits realization?](#what-is-business-benefits-realization)
+  - [Why is business benefits realization important?](#why-is-business-benefits-realization-important)
+  - [Key terms and principles of business benefits realization](#key-terms-and-principles-of-business-benefits-realization)
 - [**2. Benefits Realization across the Enterprise**](#2-benefits-realization-across-the-enterprise) (3 videos)
-  - Vision, mission, goals, objectives, and strategy
-  - How leaders guide work to achieve strategy
-  - Shifting culture to enable successful adoption
+  - [Vision, mission, goals, objectives, and strategy](#vision-mission-goals-objectives-and-strategy)
+  - [How leaders guide work to achieve strategy](#how-leaders-guide-work-to-achieve-strategy)
+  - [Shifting culture to enable successful adoption](#shifting-culture-to-enable-successful-adoption)
 - [**3. The Business Benefits Realization Life Cycle**](#3-the-business-benefits-realization-life-cycle) (5 videos)
-  - Step one: Identifying benefits
-  - Step two: Analyzing benefits and plan
-  - Step three: Delivering benefits
-  - Step four: Sustaining benefits
-  - Step five: Making adjustments
+  - [Step one: Identifying benefits](#step-one-identifying-benefits)
+  - [Step two: Analyzing benefits and plan](#step-two-analyzing-benefits-and-plan)
+  - [Step three: Delivering benefits](#step-three-delivering-benefits)
+  - [Step four: Sustaining benefits](#step-four-sustaining-benefits)
+  - [Step five: Making adjustments](#step-five-making-adjustments)
 - [**4. Key Roles in Business Benefits Realization**](#4-key-roles-in-business-benefits-realization) (4 videos)
-  - Sponsor role in business benefits realization
-  - Organizational manager role in business benefits realization
-  - Portfolio, program, and project manager role in business benefits realization
-  - Business analyst role in business benefits realization
+  - [Sponsor role in business benefits realization](#sponsor-role-in-business-benefits-realization)
+  - [Organizational manager role in business benefits realization](#organizational-manager-role-in-business-benefits-realization)
+  - [Portfolio, program, and project manager role in business benefits realization](#portfolio-program-and-project-manager-role-in-business-benefits-realization)
+  - [Business analyst role in business benefits realization](#business-analyst-role-in-business-benefits-realization)
 - [**5. Business Benefits Realization Deliverables**](#5-business-benefits-realization-deliverables) (5 videos)
-  - Creating a business benefits roadmap
-  - Creating a business benefits register
-  - Creating a business benefits realization plan
-  - Creating a business benefits traceability matrix
-  - Creating a business case
+  - [Creating a business benefits roadmap](#creating-a-business-benefits-roadmap)
+  - [Creating a business benefits register](#creating-a-business-benefits-register)
+  - [Creating a business benefits realization plan](#creating-a-business-benefits-realization-plan)
+  - [Creating a business benefits traceability matrix](#creating-a-business-benefits-traceability-matrix)
+  - [Creating a business case](#creating-a-business-case)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Business benefits realization key takeaways
+  - [Business benefits realization key takeaways](#business-benefits-realization-key-takeaways)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/exploring-the-basics?u=76281980)
@@ -111,13 +111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), teams (1)
 > **Warnings:** warning (1)
 > **Speakers:** - if (1)
 
 
 ### 1. The Basics of Business Benefits Realization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business benefits realization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/what-is-business-benefits-realization?u=76281980)
@@ -170,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), management (3), teams (2), product (1), game (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** include; (1), this. (1)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 
@@ -232,8 +233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), management (2), teams (2), product (1), [[Accountability]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** from. (1), continue (1)
 > **Speakers:** - we (1)
 
 #### Key terms and principles of business benefits realization
@@ -321,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1), finally, (1)
+> **Frameworks & Libraries:** business (7), game (1), application (1), [[Automation]] (1), data (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), means that (1)
 > **Warnings:** be aware (1), don't make the mistake (1)
@@ -331,7 +332,7 @@ created: 2026-04-29
 
 ### 2. Benefits Realization across the Enterprise
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vision, mission, goals, objectives, and strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/vision-mission-goals-objectives-and-strategy?u=76281980)
@@ -402,7 +403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), function (1), finally, (1)
+> **Frameworks & Libraries:** business (10), [[Microsoft Products|Products]] (2), next (2), teams (1), functional (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
@@ -454,9 +455,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), teams (2), product (1), next (1), management (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
-> **Code Keywords:** implements (1)
 > **Speakers:** - if (1)
 
 #### Shifting culture to enable successful adoption
@@ -520,8 +521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), teams (2), management (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - even (1)
@@ -529,7 +530,7 @@ created: 2026-04-29
 
 ### 3. The Business Benefits Realization Life Cycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Step one: Identifying benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-one-identifying-benefits?u=76281980)
@@ -600,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), from, (1)
+> **Frameworks & Libraries:** business (12), application (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -686,9 +687,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), management (2), [[Accountability]] (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (1), raise (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - one (1)
@@ -750,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** business (5), [[Agile Development|Agile]] (2), teams (2), product (1), management (1)
 > **Speakers:** - in (1)
 
 #### Step four: Sustaining benefits
@@ -820,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (1), static (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1), business (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
@@ -883,8 +884,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), product (2), management (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** require (2)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
@@ -892,7 +893,7 @@ created: 2026-04-29
 
 ### 4. Key Roles in Business Benefits Realization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sponsor role in business benefits realization
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/sponsor-role-in-business-benefits-realization?u=76281980)
@@ -939,6 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), management (2), teams (2), product (1)
 > **Definitions:** is a  (3)
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
@@ -996,6 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), management (5), teams (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - business (1)
@@ -1055,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), raise (1)
+> **Frameworks & Libraries:** business (7), management (5), application (2), teams (1), [[Strategic Thinking]] (1)
 > **Speakers:** - have (1)
 
 #### Business analyst role in business benefits realization
@@ -1115,13 +1118,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1)
+> **Frameworks & Libraries:** business (15), product (1), teams (1)
 > **Speakers:** - on (1)
 
 
 ### 5. Business Benefits Realization Deliverables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a business benefits roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-roadmap?u=76281980)
@@ -1194,9 +1197,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), next (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - you (1)
 
@@ -1263,6 +1266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), data (2), management (1)
 > **Definitions:** is a  (2), we call this (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (2)
@@ -1332,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), let (1), raise (1), case, (1)
+> **Frameworks & Libraries:** business (5), data (3), teams (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -1387,8 +1391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - if (1)
 
@@ -1459,8 +1463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11)
 > **CLI Commands:** make (4)
-> **Code Keywords:** case. (3), case, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - deciding (1)
@@ -1468,7 +1472,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business benefits realization key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980)
@@ -1501,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** business (7), management (2), [[LinkedIn]] (2), next (1)
 > **URLs:** [pmi.org](https://pmi.org) (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** picture (1)

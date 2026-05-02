@@ -35,7 +35,7 @@ tags:
   - skill/requirements-analysis
   - skill/requirements-gathering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Requirements%20Elicitation%20and%20Analysis.md)
@@ -54,38 +54,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Start defining and discovering
+  - [Start defining and discovering](#start-defining-and-discovering)
 - [**1. Elicitation and Analysis Overview**](#1-elicitation-and-analysis-overview) (6 videos)
-  - What are elicitation and analysis?
-  - Role of elicitation and analysis in requirements
-  - Why is it important?
-  - The relationship of elicitation to analysis
-  - Levels of detail in elicitation and analysis
-  - Key mindsets to be successful
+  - [What are elicitation and analysis?](#what-are-elicitation-and-analysis)
+  - [Role of elicitation and analysis in requirements](#role-of-elicitation-and-analysis-in-requirements)
+  - [Why is it important?](#why-is-it-important)
+  - [The relationship of elicitation to analysis](#the-relationship-of-elicitation-to-analysis)
+  - [Levels of detail in elicitation and analysis](#levels-of-detail-in-elicitation-and-analysis)
+  - [Key mindsets to be successful](#key-mindsets-to-be-successful)
 - [**2. Elicitation Techniques**](#2-elicitation-techniques) (6 videos)
-  - Elicitation overview
-  - Interviews
-  - Brainstorming
-  - Observation
-  - Experiments
-  - Workshops
+  - [Elicitation overview](#elicitation-overview)
+  - [Interviews](#interviews)
+  - [Brainstorming](#brainstorming)
+  - [Observation](#observation)
+  - [Experiments](#experiments)
+  - [Workshops](#workshops)
 - [**3. Analysis Techniques**](#3-analysis-techniques) (7 videos)
-  - Analysis overview
-  - Process models
-  - Context diagrams
-  - User stories and story mapping
-  - Decision tables
-  - Data flow diagrams
-  - State and sequence diagrams
+  - [Analysis overview](#analysis-overview)
+  - [Process models](#process-models)
+  - [Context diagrams](#context-diagrams)
+  - [User stories and story mapping](#user-stories-and-story-mapping)
+  - [Decision tables](#decision-tables)
+  - [Data flow diagrams](#data-flow-diagrams)
+  - [State and sequence diagrams](#state-and-sequence-diagrams)
 - [**4. Tailoring to the Project or Product Type**](#4-tailoring-to-the-project-or-product-type) (4 videos)
-  - Blending your elicitation and analysis together
-  - New processes, products, and systems
-  - Adding to a process, product, or system
-  - Buying and implementing software
+  - [Blending your elicitation and analysis together](#blending-your-elicitation-and-analysis-together)
+  - [New processes, products, and systems](#new-processes-products-and-systems)
+  - [Adding to a process, product, or system](#adding-to-a-process-product-or-system)
+  - [Buying and implementing software](#buying-and-implementing-software)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start defining and discovering
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980)
@@ -116,13 +116,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1), product (1), [[Requirements Analysis]] (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Elicitation and Analysis Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are elicitation and analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (3), data (2), [[Microsoft Products|Products]] (1), next (1), [[Diagramming]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - you (1)
@@ -257,6 +257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), teams (2), next (2), product (2), data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
@@ -303,9 +304,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), teams (1), data (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - currently (1)
 
 #### The relationship of elicitation to analysis
@@ -377,8 +378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Interviewing]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** continue (1), require (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - think (1)
@@ -436,8 +437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (1), data (1), [[Automation]] (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** let (1), interface (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - elicitation (1)
 
@@ -498,6 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (1), [[Decision-Making]] (1), teams (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
@@ -506,7 +508,7 @@ created: 2026-04-29
 
 ### 2. Elicitation Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elicitation overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/elicitation-overview-8360495?u=76281980)
@@ -565,6 +567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), teams (1), data (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -641,6 +644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (5), [[Relationship Building]] (3), business (1), power (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - if (1)
@@ -708,7 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), new. (1)
+> **Frameworks & Libraries:** product (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - i (1)
 
@@ -777,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), career (1), parallel (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** super (1), type, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 > **Warnings:** be careful (1)
@@ -843,8 +847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), business (1), [[Microsoft Products|Products]] (1), data (1), [[Real-Time]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), function (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
@@ -931,6 +935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), career (1), [[Diagramming]] (1), teams (1), power (1)
 > **Best Practices:** don't forget (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -940,7 +945,7 @@ created: 2026-04-29
 
 ### 3. Analysis Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analysis overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980)
@@ -999,6 +1004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (1), data (1), [[Diagramming]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
@@ -1091,8 +1097,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Requirements Analysis]] (2), product (1), business (1), next (1), teams (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), interface (1)
 > **Analogies:** kind of like (1), picture (1)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** be careful (1)
@@ -1189,8 +1195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), product (2), teams (2), next (2), business (1)
 > **Analogies:** picture (5), for example (1)
-> **Code Keywords:** let (1), case, (1), interface (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -1281,7 +1287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), type, (1), case, (1), type. (1)
+> **Frameworks & Libraries:** teams (2), [[Agile Development|Agile]] (2), [[User Experience (UX)|User experience]] (1), product (1), data (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (2)
@@ -1383,8 +1389,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Requirements Analysis]] (1), power (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), case, (2)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** in the last (1)
 > **Best Practices:** make sure to (1)
@@ -1471,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), this. (1)
+> **Frameworks & Libraries:** data (22), database (5), [[Diagramming]] (1)
 > **Analogies:** picture (2), for example (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** later in (1)
@@ -1535,7 +1541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), this. (1)
+> **Frameworks & Libraries:** data (2), business (2), [[User Experience (UX)|User experience]] (1), next (1), teams (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
@@ -1543,7 +1549,7 @@ created: 2026-04-29
 
 ### 4. Tailoring to the Project or Product Type
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blending your elicitation and analysis together
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980)
@@ -1630,8 +1636,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jigsaw]] (1), teams (1), [[Interviewing]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this. (1), yield (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - choosing (1)
@@ -1689,7 +1695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** product (3), next (1), data (1), business (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1747,8 +1753,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** for. (2)
 > **Analogies:** such as (1)
 > **Speakers:** - most (1)
 
@@ -1817,6 +1823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (2), teams (1), cloud (1), functional (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** configure (2)
 > **Cross-References:** later in (1)

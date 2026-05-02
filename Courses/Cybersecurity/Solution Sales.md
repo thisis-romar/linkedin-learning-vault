@@ -26,7 +26,7 @@ tags:
   - topic/security
   - skill/solution-selling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Solution%20Sales.md)
@@ -45,35 +45,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started with solution sales
+  - [Getting started with solution sales](#getting-started-with-solution-sales)
 - [**1. The Solution Sales Mindset**](#1-the-solution-sales-mindset) (3 videos)
-  - The solution sales mindset
-  - Peer-level relationships
-  - Have a conversation
+  - [The solution sales mindset](#the-solution-sales-mindset)
+  - [Peer-level relationships](#peer-level-relationships)
+  - [Have a conversation](#have-a-conversation)
 - [**2. Developing a Buyer Focus**](#2-developing-a-buyer-focus) (3 videos)
-  - Qualify who is buying the solution
-  - Qualify potential and fit
-  - Qualify the decision process and funding
+  - [Qualify who is buying the solution](#qualify-who-is-buying-the-solution)
+  - [Qualify potential and fit](#qualify-potential-and-fit)
+  - [Qualify the decision process and funding](#qualify-the-decision-process-and-funding)
 - [**3. Identifying Objectives and Creating Value**](#3-identifying-objectives-and-creating-value) (6 videos)
-  - Take the lead
-  - Create value
-  - Find out the client's need
-  - Identify opportunities and problems
-  - Understand impact and effect
-  - Interactive skills for leading the conversation
+  - [Take the lead](#take-the-lead)
+  - [Create value](#create-value)
+  - [Find out the client's need](#find-out-the-clients-need)
+  - [Identify opportunities and problems](#identify-opportunities-and-problems)
+  - [Understand impact and effect](#understand-impact-and-effect)
+  - [Interactive skills for leading the conversation](#interactive-skills-for-leading-the-conversation)
 - [**4. Establishing Shared Success**](#4-establishing-shared-success) (4 videos)
-  - Determine progress and value
-  - How to offer solutions
-  - How to address concerns
-  - Move forward with joint commitments
+  - [Determine progress and value](#determine-progress-and-value)
+  - [How to offer solutions](#how-to-offer-solutions)
+  - [How to address concerns](#how-to-address-concerns)
+  - [Move forward with joint commitments](#move-forward-with-joint-commitments)
 - [**5. Planning for Solution Sales Opportunities**](#5-planning-for-solution-sales-opportunities) (1 videos)
-  - Plan for success
+  - [Plan for success](#plan-for-success)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Practice
+  - [Practice](#practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with solution sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980)
@@ -120,14 +120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Solution Selling]] (2), business (1), data (1), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** yield (1), let (1)
 > **Speakers:** - i (1)
 
 
 ### 1. The Solution Sales Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The solution sales mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980)
@@ -204,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), [[Simulation]] (1), [[Solution Selling]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
@@ -291,8 +291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), power (2), [[Solution Selling]] (1), [[Relationship Building]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - in (1)
 
@@ -361,15 +361,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), next (1), [[Solution Selling]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
 
 ### 2. Developing a Buyer Focus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Qualify who is buying the solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980)
@@ -456,8 +456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** function (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
@@ -512,6 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), product (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - it (1)
 
@@ -592,15 +593,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - one (1)
 
 
 ### 3. Identifying Objectives and Creating Value
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980)
@@ -659,6 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), [[Solution Selling]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - all (1)
@@ -728,8 +730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), next (1), [[Solution Selling]] (1)
 > **Prerequisites:** setup (1), configure (1)
-> **Code Keywords:** for, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
@@ -810,8 +812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Solution Selling]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - the (1)
 
 #### Identify opportunities and problems
@@ -897,8 +899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (1), for instance (1)
-> **Code Keywords:** raise (1)
 > **Speakers:** - a (1)
 
 #### Understand impact and effect
@@ -976,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** hit (2), [[Microsoft Products|Products]] (1), power (1), [[Engineering]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rfp (1)
 > **Analogies:** imagine (1)
@@ -1046,13 +1048,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - as (1)
 
 
 ### 4. Establishing Shared Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine progress and value
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/determine-progress-and-value-8973631?u=76281980)
@@ -1119,8 +1120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1), product (1)
 > **Env Vars:** cfo (1), roi (1)
-> **Code Keywords:** case, (1)
 > **Versions:** 1.2 (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
@@ -1163,6 +1164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (1), [[Interviewing]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cfo (1)
 > **Speakers:** - once (1)
@@ -1242,6 +1244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), business (2), data (1), strengths (1), [[Solution Selling]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
@@ -1320,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** next (5)
 > **Definitions:** is a  (2)
 > **Env Vars:** abc (1)
 > **Speakers:** - we (1)
@@ -1328,7 +1331,7 @@ created: 2026-04-29
 
 ### 5. Planning for Solution Sales Opportunities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980)
@@ -1383,6 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Solution Selling]] (1), prompt (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1392,7 +1396,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980)
@@ -1461,8 +1465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Solution Selling]] (1), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** finally, (1), for, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [edingerconsulting.com](https://edingerconsulting.com) (1)
 > **UI Navigation:** open the (1)

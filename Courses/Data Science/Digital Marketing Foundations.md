@@ -29,7 +29,7 @@ tags:
   - topic/data-science
   - skill/digital-marketing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Digital%20Marketing%20Foundations.md)
@@ -48,58 +48,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Connecting with customers online
-  - What is digital marketing?
+  - [Connecting with customers online](#connecting-with-customers-online)
+  - [What is digital marketing?](#what-is-digital-marketing)
 - [**1. The Digital Marketing Framework**](#1-the-digital-marketing-framework) (4 videos)
-  - The building blocks of digital marketing
-  - The marketing funnel
-  - The buyer journey
-  - Create a buyer journey map
+  - [The building blocks of digital marketing](#the-building-blocks-of-digital-marketing)
+  - [The marketing funnel](#the-marketing-funnel)
+  - [The buyer journey](#the-buyer-journey)
+  - [Create a buyer journey map](#create-a-buyer-journey-map)
 - [**2. Digital Marketing Basics**](#2-digital-marketing-basics) (7 videos)
-  - How to develop a marketing strategy
-  - How to define your value proposition
-  - How to identify your target market
-  - How to create your customer persona
-  - How to establish goals for digital marketing
-  - How to develop your digital marketing KPIs
-  - How to draft a one page marketing plan
+  - [How to develop a marketing strategy](#how-to-develop-a-marketing-strategy)
+  - [How to define your value proposition](#how-to-define-your-value-proposition)
+  - [How to identify your target market](#how-to-identify-your-target-market)
+  - [How to create your customer persona](#how-to-create-your-customer-persona)
+  - [How to establish goals for digital marketing](#how-to-establish-goals-for-digital-marketing)
+  - [How to develop your digital marketing KPIs](#how-to-develop-your-digital-marketing-kpis)
+  - [How to draft a one page marketing plan](#how-to-draft-a-one-page-marketing-plan)
 - [**3. Digital Marketing Key Concepts**](#3-digital-marketing-key-concepts) (3 videos)
-  - Digital marketing: Persuading with data
-  - How analytics work in digital marketing
-  - How to capture key insights in your digital marketing
+  - [Digital marketing: Persuading with data](#digital-marketing-persuading-with-data)
+  - [How analytics work in digital marketing](#how-analytics-work-in-digital-marketing)
+  - [How to capture key insights in your digital marketing](#how-to-capture-key-insights-in-your-digital-marketing)
 - [**4. Digital Marketing Hub and Spokes**](#4-digital-marketing-hub-and-spokes) (5 videos)
-  - How to outline your online marketing presence
-  - How to decide on a marketing channel
-  - How to prioritize in marketing
-  - How to create powerful marketing messaging
-  - How to create lean messaging in marketing copy
+  - [How to outline your online marketing presence](#how-to-outline-your-online-marketing-presence)
+  - [How to decide on a marketing channel](#how-to-decide-on-a-marketing-channel)
+  - [How to prioritize in marketing](#how-to-prioritize-in-marketing)
+  - [How to create powerful marketing messaging](#how-to-create-powerful-marketing-messaging)
+  - [How to create lean messaging in marketing copy](#how-to-create-lean-messaging-in-marketing-copy)
 - [**5. Digital Marketing with Your Website**](#5-digital-marketing-with-your-website) (3 videos)
-  - How to optimize your website
-  - How to use copywriting in your marketing
-  - How to build landing pages that convert
+  - [How to optimize your website](#how-to-optimize-your-website)
+  - [How to use copywriting in your marketing](#how-to-use-copywriting-in-your-marketing)
+  - [How to build landing pages that convert](#how-to-build-landing-pages-that-convert)
 - [**6. Digital Marketing with Paid Channels**](#6-digital-marketing-with-paid-channels) (4 videos)
-  - Introduction to paid advertising
-  - How to identify the value of a customer
-  - How to budget for paid marketing
-  - How to create your first paid campaign
+  - [Introduction to paid advertising](#introduction-to-paid-advertising)
+  - [How to identify the value of a customer](#how-to-identify-the-value-of-a-customer)
+  - [How to budget for paid marketing](#how-to-budget-for-paid-marketing)
+  - [How to create your first paid campaign](#how-to-create-your-first-paid-campaign)
 - [**7. Digital Marketing with Social Media**](#7-digital-marketing-with-social-media) (3 videos)
-  - Social media marketing: First steps
-  - How to decide on a social media platform
-  - How to build and leverage followers
+  - [Social media marketing: First steps](#social-media-marketing-first-steps)
+  - [How to decide on a social media platform](#how-to-decide-on-a-social-media-platform)
+  - [How to build and leverage followers](#how-to-build-and-leverage-followers)
 - [**8. Digital Marketing with Email**](#8-digital-marketing-with-email) (4 videos)
-  - The power of email marketing
-  - How to develop an email marketing plan
-  - How to measure the success of email
-  - How to launch successful campaigns: Email tools
+  - [The power of email marketing](#the-power-of-email-marketing)
+  - [How to develop an email marketing plan](#how-to-develop-an-email-marketing-plan)
+  - [How to measure the success of email](#how-to-measure-the-success-of-email)
+  - [How to launch successful campaigns: Email tools](#how-to-launch-successful-campaigns-email-tools)
 - [**9. Marketing Analytics Skills**](#9-marketing-analytics-skills) (2 videos)
-  - How to decide what to track in marketing analytics
-  - How to generate reports for marketing analytics
+  - [How to decide what to track in marketing analytics](#how-to-decide-what-to-track-in-marketing-analytics)
+  - [How to generate reports for marketing analytics](#how-to-generate-reports-for-marketing-analytics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - How to continually build digital marketing skills
+  - [How to continually build digital marketing skills](#how-to-continually-build-digital-marketing-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting with customers online
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980)
@@ -128,8 +128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Marketing Strategy]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - digital (1)
@@ -181,15 +181,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (1), [[Search]] (1), web (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** try. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
 
 
 ### 1. The Digital Marketing Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The building blocks of digital marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-building-blocks-of-digital-marketing?u=76281980)
@@ -236,7 +236,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), for, (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -337,8 +336,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), next (2), [[Microsoft Products|Products]] (1), feature (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), else, (1)
 > **Definitions:** known as (1)
 > **Speakers:** - you (1)
 
@@ -419,10 +418,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), next (2), [[Microsoft Products|Products]] (1), [[Search]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1), coming up (1)
 > **Analogies:** picture (1), imagine (1)
-> **Code Keywords:** for. (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
@@ -530,7 +529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Google]] (4), business (3), next (2), [[Microsoft Excel|Excel]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1), such as (1), picture (1)
 > **Exercise Files:** template (1)
@@ -540,7 +539,7 @@ created: 2026-04-29
 
 ### 2. Digital Marketing Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to develop a marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-a-marketing-strategy?u=76281980)
@@ -601,8 +600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Marketing Strategy]] (3), next (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - developing (1)
@@ -662,8 +661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5)
 > **Analogies:** such as (1), imagine (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - at (1)
 
@@ -720,8 +719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), product (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), type, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
@@ -783,9 +782,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), career (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** imagine (2), picture (1)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - marketing (1)
 
@@ -846,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** next (2), traffic (1), [[Google]] (1), [[LinkedIn]] (1), hit (1)
 > **Env Vars:** smart (2), okr (1)
 > **Definitions:** means that (1)
 > **Speakers:** - you (1)
@@ -908,10 +907,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), traffic (1), [[Google]] (1), [[Confluence]] (1), [[Slack]] (1)
 > **Env Vars:** kpi (4), cpa (1)
 > **Analogies:** for example (2), such as (1)
 > **Tools:** confluence (1), slack (1)
-> **Code Keywords:** require (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - as (1)
 
@@ -984,7 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** product (3), business (3), next (2), [[Marketing Strategy]] (1), [[Agile Development|Agile]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -994,7 +993,7 @@ created: 2026-04-29
 
 ### 3. Digital Marketing Key Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital marketing: Persuading with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980)
@@ -1065,7 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (2), [[Google]] (1), [[Search]] (1), data (1), [[Marketing Strategy]] (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
@@ -1129,8 +1128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), web (5), [[Analytics]] (3), [[Google]] (3), [[Privacy]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), continue (1), this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
@@ -1192,8 +1191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Google]] (1), [[Analytics]] (1), web (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1202,7 +1201,7 @@ created: 2026-04-29
 
 ### 4. Digital Marketing Hub and Spokes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to outline your online marketing presence
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-outline-your-online-marketing-presence?u=76281980)
@@ -1259,6 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Marketing Strategy]] (3), product (1), business (1), management (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1309,8 +1309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), product (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** you'll need (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -1377,8 +1377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), next (1), data (1)
 > **Prerequisites:** set up (1), you'll need (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** ice (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** rule of thumb (1)
@@ -1451,6 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), business (1), [[Storytelling]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you'll need (1)
@@ -1505,15 +1506,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[LinkedIn]] (1), business (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1), picture (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - if (1)
 
 
 ### 5. Digital Marketing with Your Website
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to optimize your website
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-optimize-your-website?u=76281980)
@@ -1594,8 +1595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Marketing Strategy]] (2), functional (1), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Speakers:** - your (1)
@@ -1667,8 +1668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Microsoft Word|Word]] (1), feature (1), business (1), next (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** else. (1)
 > **URLs:** [abccopywriting.com](https://abccopywriting.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
@@ -1714,6 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), traffic (1), next (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **URLs:** [land-book.com](https://land-book.com) (1)
@@ -1722,7 +1724,7 @@ created: 2026-04-29
 
 ### 6. Digital Marketing with Paid Channels
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to paid advertising
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980)
@@ -1797,10 +1799,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Social Media Marketing]] (3), [[Google]] (2), web (2), [[Marketing Strategy]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Prerequisites:** you'll need (1), install (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** cpm (1)
 > **Speakers:** - we (1)
 
@@ -1879,7 +1881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this, (1)
+> **Frameworks & Libraries:** data (3), business (2), [[Microsoft Products|Products]] (2), product (1), [[E-Commerce]] (1)
 > **Env Vars:** clv (2), ltv (1)
 > **Definitions:** we call this (1), means that (1), is an  (1)
 > **Prerequisites:** you'll need (2)
@@ -1942,7 +1944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), case, (1)
+> **Frameworks & Libraries:** data (3), traffic (3), [[Google]] (1), [[Search]] (1), business (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - budgeting (1)
 
@@ -2007,7 +2009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), for, (1)
+> **Frameworks & Libraries:** next (2), generic (1), product (1), traffic (1), feature (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -2016,7 +2018,7 @@ created: 2026-04-29
 
 ### 7. Digital Marketing with Social Media
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Social media marketing: First steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980)
@@ -2071,6 +2073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Social Media Marketing]] (3), [[Real-Time]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - at (1)
@@ -2124,9 +2127,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Professional Networking]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** while. (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - it (1)
 
@@ -2201,8 +2204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Newsletters]] (1), business (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** this, (1), finally, (1)
 > **Analogies:** imagine (1), picture (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
@@ -2211,7 +2214,7 @@ created: 2026-04-29
 
 ### 8. Digital Marketing with Email
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980)
@@ -2284,8 +2287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (8), [[Microsoft Products|Products]] (1), business (1)
 > **Analogies:** just like (1), for example (1), such as (1)
-> **Code Keywords:** from. (1), let (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** shipfree (1)
 > **Cross-References:** in the last (1)
@@ -2361,8 +2364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Lead Generation]] (1), traffic (1), data (1), [[Email Marketing]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), case, (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - to (1)
 
@@ -2417,7 +2420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (2), next (1), product (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - as (1)
@@ -2459,8 +2462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (3), business (2), management (1), [[WordPress]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** self (1), case, (1)
 > **URLs:** [g2.com](https://g2.com) (2)
 > **Env Vars:** crm (1)
 > **Analogies:** such as (1)
@@ -2469,7 +2472,7 @@ created: 2026-04-29
 
 ### 9. Marketing Analytics Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to decide what to track in marketing analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980)
@@ -2542,6 +2545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), data (3), [[Marketing Strategy]] (2), product (2), traffic (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** aarrr (1)
 > **Definitions:** is a  (1)
@@ -2588,8 +2592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), traffic (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), this, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
@@ -2597,7 +2601,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to continually build digital marketing skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980)
@@ -2630,7 +2634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** next (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), seo (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (2)
 > **Env Vars:** seo (1)
 > **Speakers:** - thanks (1)

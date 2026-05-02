@@ -27,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Research%20and%20Write%20Using%20Generative%20AI%20Tools%20(2023).md)
@@ -46,29 +46,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Meet your AI creative collaborator
+  - [Meet your AI creative collaborator](#meet-your-ai-creative-collaborator)
 - [**1. Overview of Working with AI**](#1-overview-of-working-with-ai) (3 videos)
-  - How to work with AI
-  - How to write an effective prompt for AI
-  - How to work with the responses from a generative AI chatbot
+  - [How to work with AI](#how-to-work-with-ai)
+  - [How to write an effective prompt for AI](#how-to-write-an-effective-prompt-for-ai)
+  - [How to work with the responses from a generative AI chatbot](#how-to-work-with-the-responses-from-a-generative-ai-chatbot)
 - [**2. Using AI to Improve Your Research**](#2-using-ai-to-improve-your-research) (6 videos)
-  - Using AI to summarize complex information
-  - Using AI to view things from multiple perspectives
-  - Using AI to get advice from the best experts
-  - Using AI to help you create fast user personas
-  - Using AI to discover and use new strategic models
-  - Using AI to discover interesting facts and statistics
+  - [Using AI to summarize complex information](#using-ai-to-summarize-complex-information)
+  - [Using AI to view things from multiple perspectives](#using-ai-to-view-things-from-multiple-perspectives)
+  - [Using AI to get advice from the best experts](#using-ai-to-get-advice-from-the-best-experts)
+  - [Using AI to help you create fast user personas](#using-ai-to-help-you-create-fast-user-personas)
+  - [Using AI to discover and use new strategic models](#using-ai-to-discover-and-use-new-strategic-models)
+  - [Using AI to discover interesting facts and statistics](#using-ai-to-discover-interesting-facts-and-statistics)
 - [**3. Using AI to Improve Your Writing**](#3-using-ai-to-improve-your-writing) (4 videos)
-  - Using AI to analyze a writing style and help you write in a similar style
-  - Using AI to get interesting headline and article ideas
-  - Using AI to help you outline your content
-  - Using AI to improve your writing
+  - [Using AI to analyze a writing style and help you write in a similar style](#using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style)
+  - [Using AI to get interesting headline and article ideas](#using-ai-to-get-interesting-headline-and-article-ideas)
+  - [Using AI to help you outline your content](#using-ai-to-help-you-outline-your-content)
+  - [Using AI to improve your writing](#using-ai-to-improve-your-writing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet your AI creative collaborator
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980)
@@ -111,14 +111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (2), [[Generative AI]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
 
 ### 1. Overview of Working with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to work with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980)
@@ -219,7 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), require (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (6), prompt (3), next (2), [[Generative AI]] (1)
 > **Non-Speech:** (keyboard clicking) (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -343,7 +343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), class. (1), super (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), prompt (6), ai (3), next (2), data (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** create (2)
@@ -422,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), pass (1), for. (1), let (1)
+> **Frameworks & Libraries:** ai (13), [[Search]] (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (1), product (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (keys typing) (2)
 > **Cross-References:** in the next (1)
@@ -433,7 +433,7 @@ created: 2026-04-29
 
 ### 2. Using AI to Improve Your Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to summarize complex information
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980)
@@ -614,7 +614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2), finally, (1), for. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), prompt (3), ai (1), data (1), next (1)
 > **Cross-References:** coming up (2), in the next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -731,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), this. (1), require (1), from, (1)
+> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), prompt (1), power (1)
 > **Definitions:** means that (2), is an  (1)
 > **Env Vars:** gpt (2)
 > **CLI Commands:** make (1)
@@ -891,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this, (1), for. (1)
+> **Frameworks & Libraries:** business (3), prompt (2), [[ChatGPT]] (2), [[Market Research]] (1), database (1)
 > **Analogies:** imagine (7), it's like (4)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** coming up (1)
@@ -995,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for, (1), for [ (1)
+> **Frameworks & Libraries:** prompt (4), product (3), [[User Experience (UX)|User experience]] (2), [[ChatGPT]] (2)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** person (1), situation (1)
@@ -1140,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), for, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (3), business (2), data (1)
 > **Env Vars:** swot (3)
 > **Non-Speech:** (keyboard clicking) (2)
 > **CLI Commands:** make (1)
@@ -1258,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), for. (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (10), prompt (5), [[ChatGPT]] (1), [[Statistics]] (1), data (1)
 > **CLI Commands:** find (6), make (2)
 > **Non-Speech:** (text typing) (2), (twinkling music) (2)
 > **Cross-References:** previous video (1)
@@ -1267,7 +1267,7 @@ created: 2026-04-29
 
 ### 3. Using AI to Improve Your Writing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to analyze a writing style and help you write in a similar style
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980)
@@ -1448,7 +1448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), for. (1), finally, (1), this. (1), from. (1)
+> **Frameworks & Libraries:** prompt (12), [[ChatGPT]] (3), [[Statistics]] (2), hit (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (1)
@@ -1619,7 +1619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (1), for, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), prompt (5), next (3), web (2), teams (2)
 > **Code Identifiers:** chatgpt (8)
 > **UI Navigation:** click on (2)
 > **Non-Speech:** (keyboard typing) (2)
@@ -1764,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2)
+> **Frameworks & Libraries:** prompt (2), next (2), hit (1), power (1), business (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpt (4)
 > **Definitions:** means that (2)
@@ -1932,7 +1932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), this. (1)
+> **Frameworks & Libraries:** prompt (5), ai (3), next (1)
 > **Env Vars:** gpt (7)
 > **CLI Commands:** make (6)
 > **Definitions:** means that (3), is a  (1)
@@ -1941,7 +1941,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980)
@@ -1980,6 +1980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), ai (1)
 > **Non-Speech:** (keyboard keys clicking) (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)

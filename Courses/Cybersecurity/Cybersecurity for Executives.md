@@ -32,7 +32,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20for%20Executives.md)
@@ -51,53 +51,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - You are a target and the first line of defense
+  - [You are a target and the first line of defense](#you-are-a-target-and-the-first-line-of-defense)
 - [**1. Understand the Big Picture**](#1-understand-the-big-picture) (6 videos)
-  - Understand the big picture overview
-  - Why are you a target?
-  - Example: Organized crime
-  - Why are you in the line of fire?
-  - Example: Cyber war cross-fire
-  - Insider threat: Cyber failure
+  - [Understand the big picture overview](#understand-the-big-picture-overview)
+  - [Why are you a target?](#why-are-you-a-target)
+  - [Example: Organized crime](#example-organized-crime)
+  - [Why are you in the line of fire?](#why-are-you-in-the-line-of-fire)
+  - [Example: Cyber war cross-fire](#example-cyber-war-cross-fire)
+  - [Insider threat: Cyber failure](#insider-threat-cyber-failure)
 - [**2. How to Think About Cybersecurity**](#2-how-to-think-about-cybersecurity) (4 videos)
-  - Think about cybersecurity summary
-  - Not what you buy, how you travel
-  - Germ theory
-  - Where to get IT support
+  - [Think about cybersecurity summary](#think-about-cybersecurity-summary)
+  - [Not what you buy, how you travel](#not-what-you-buy-how-you-travel)
+  - [Germ theory](#germ-theory)
+  - [Where to get IT support](#where-to-get-it-support)
 - [**3. Avoid Phishing Attacks**](#3-avoid-phishing-attacks) (3 videos)
-  - Avoid phishing attacks summary
-  - What are phishing attacks?
-  - Organizational response to phishing attacks
+  - [Avoid phishing attacks summary](#avoid-phishing-attacks-summary)
+  - [What are phishing attacks?](#what-are-phishing-attacks)
+  - [Organizational response to phishing attacks](#organizational-response-to-phishing-attacks)
 - [**4. Stop Malicious Code**](#4-stop-malicious-code) (3 videos)
-  - Stop malicious code summary
-  - What is malicious code?
-  - Organizational response to malicious code
+  - [Stop malicious code summary](#stop-malicious-code-summary)
+  - [What is malicious code?](#what-is-malicious-code)
+  - [Organizational response to malicious code](#organizational-response-to-malicious-code)
 - [**5. Avoid Identity Theft**](#5-avoid-identity-theft) (3 videos)
-  - Avoid identity theft summary
-  - What is identity theft?
-  - Organizational response to identity theft
+  - [Avoid identity theft summary](#avoid-identity-theft-summary)
+  - [What is identity theft?](#what-is-identity-theft)
+  - [Organizational response to identity theft](#organizational-response-to-identity-theft)
 - [**6. Avoid Financial Cyber Theft**](#6-avoid-financial-cyber-theft) (3 videos)
-  - Avoid financial cyber theft summary
-  - What is financial cyber theft?
-  - Organizational response to financial cyber theft
+  - [Avoid financial cyber theft summary](#avoid-financial-cyber-theft-summary)
+  - [What is financial cyber theft?](#what-is-financial-cyber-theft)
+  - [Organizational response to financial cyber theft](#organizational-response-to-financial-cyber-theft)
 - [**7. Special Topics**](#7-special-topics) (11 videos)
-  - Special topics summary
-  - Artificial intelligence
-  - Deep fakes
-  - Reasonable cybersecurity
-  - Cyber insurance
-  - Cloud computing
-  - Internet of Things
-  - Contractual firewalls
-  - Third-party cyber risk management
-  - Cybersecurity-related sales objectives
-  - Active defense
+  - [Special topics summary](#special-topics-summary)
+  - [Artificial intelligence](#artificial-intelligence)
+  - [Deep fakes](#deep-fakes)
+  - [Reasonable cybersecurity](#reasonable-cybersecurity)
+  - [Cyber insurance](#cyber-insurance)
+  - [Cloud computing](#cloud-computing)
+  - [Internet of Things](#internet-of-things)
+  - [Contractual firewalls](#contractual-firewalls)
+  - [Third-party cyber risk management](#third-party-cyber-risk-management)
+  - [Cybersecurity-related sales objectives](#cybersecurity-related-sales-objectives)
+  - [Active defense](#active-defense)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### You are a target and the first line of defense
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980)
@@ -128,13 +128,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), [[Cybersecurity]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Understand the Big Picture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the big picture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980)
@@ -161,6 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
@@ -206,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** data (3), web (2), [[Cryptocurrency]] (1), business (1)
 > **Env Vars:** cpu (1)
 > **Analogies:** for example (1)
 > **Speakers:** - these (1)
@@ -254,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), business (1), next (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), it's like (1)
 > **Env Vars:** fbi (1)
@@ -300,6 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Cybersecurity]] (1), [[Network Security]] (1), data (1), [[Forms]] (1)
 > **Env Vars:** apt1 (4)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -340,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft]] (1), [[Windows]] (1), [[Security]] (1), hit (1)
 > **Env Vars:** dhl (3)
-> **Code Keywords:** let (1), delete (1)
 > **Speakers:** - let (1)
 
 #### Insider threat: Cyber failure
@@ -389,6 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), data (2), [[Security]] (1), [[Engineering]] (1), web (1)
 > **Env Vars:** ibm (1), ceo (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** later in (1)
@@ -399,7 +403,7 @@ created: 2026-04-29
 
 ### 2. How to Think About Cybersecurity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Think about cybersecurity summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980)
@@ -426,6 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), business (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -493,9 +498,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), business (2), data (1), [[Human Resources (HR)|Human resources]] (1), power (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** in other words (1), is called (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - to (1)
@@ -533,7 +538,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** warning (1)
@@ -580,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1)
+> **Frameworks & Libraries:** [[Security]] (7), [[Cybersecurity]] (1), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
@@ -588,7 +592,7 @@ created: 2026-04-29
 
 ### 3. Avoid Phishing Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid phishing attacks summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980)
@@ -613,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Phishing]] (7), [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
@@ -658,6 +662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (8), [[Google]] (2), business (1), [[Hardware]] (1), data (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - phishing (1)
 
@@ -716,8 +721,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (5), data (3), management (1), next (1), web (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), from. (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - your (1)
@@ -725,7 +730,7 @@ created: 2026-04-29
 
 ### 4. Stop Malicious Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stop malicious code summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/stop-malicious-code-summary?u=76281980)
@@ -807,8 +812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Word]] (1), [[Windows]] (1), [[Phishing]] (1), [[Banking]] (1)
 > **Definitions:** is a  (3), is called (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** fbi (1)
 > **Analogies:** such as (1)
 > **Speakers:** - malicious (1)
@@ -864,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), public (1), finally, (1)
+> **Frameworks & Libraries:** data (4), management (2), next (1), web (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -874,7 +879,7 @@ created: 2026-04-29
 
 ### 5. Avoid Identity Theft
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid identity theft summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980)
@@ -895,6 +900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Speakers:** - in (1)
 
 #### What is identity theft?
@@ -960,8 +966,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Phishing]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** private (1)
 > **Versions:** 0.15 (1)
 > **Speakers:** - what (1)
 
@@ -1028,6 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Phishing]] (3), data (2), [[Databases]] (2), management (1)
 > **Env Vars:** spf (1), dkim (1), dmarc (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
@@ -1038,7 +1045,7 @@ created: 2026-04-29
 
 ### 6. Avoid Financial Cyber Theft
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid financial cyber theft summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-financial-cyber-theft-summary?u=76281980)
@@ -1124,7 +1131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), self (1)
+> **Frameworks & Libraries:** [[Banking]] (3), [[Engineering]] (2), data (2), [[Google]] (2), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
@@ -1193,7 +1200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3)
+> **Frameworks & Libraries:** [[Security]] (4), next (2), business (2), cloud (2), management (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -1204,7 +1211,7 @@ created: 2026-04-29
 
 ### 7. Special Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Special topics summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980)
@@ -1239,8 +1246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), next (3), cloud (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - in (1)
 
 #### Artificial intelligence
@@ -1304,7 +1311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), case. (1)
+> **Frameworks & Libraries:** ai (17), data (5), next (2), business (2), [[Generative AI]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - generative (1)
@@ -1380,11 +1387,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Security]] (2), [[Engineering]] (1), [[Microsoft Office|Office]] (1), ai (1)
 > **Analogies:** such as (1), just like (1), for example (1)
 > **Env Vars:** cfo (2)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - deep (1)
 
 #### Reasonable cybersecurity
@@ -1422,8 +1429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[NIST]] (2), [[Security]] (1), data (1), [[Incident Response]] (1)
 > **Env Vars:** ftc (6), nist (2)
-> **Code Keywords:** continue (1), type, (1), let (1), function (1)
 > **Speakers:** - as (1)
 
 #### Cyber insurance
@@ -1497,6 +1504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), hit (1), management (1), [[Incident Response]] (1), [[Digital Forensics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 1.4 (1)
 > **Warnings:** watch out (1)
@@ -1560,9 +1568,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), [[Security]] (11), data (11), aws (3), management (2)
 > **Env Vars:** aws (3), casb (2)
 > **CLI Commands:** aws (3), make (1)
-> **Code Keywords:** let (1), private (1)
 > **Definitions:** means that (1), in other words (1)
 > **URLs:** [breastcancer.org](https://breastcancer.org) (1)
 > **Analogies:** think of it as (1)
@@ -1611,7 +1619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** [[IoT]] (9), [[Security]] (4), data (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Linux]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - internet (1)
@@ -1671,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), protected (1), let (1)
+> **Frameworks & Libraries:** data (13), [[Security]] (11), next (2), [[Microsoft Products|Products]] (1), [[Databases]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - most (1)
@@ -1725,8 +1733,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Security]] (2), cloud (2), next (1), management (1)
 > **Env Vars:** soc (3), aws (1)
-> **Code Keywords:** case, (1), protected (1), for. (1)
 > **CLI Commands:** make (1), aws (1)
 > **Warnings:** watch out (1), be careful (1)
 > **Cross-References:** previous video (1)
@@ -1801,9 +1809,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), data (2), express (1), management (1), [[Vulnerability Assessment]] (1)
 > **Env Vars:** nist (1), iso (1), sig (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - buyers (1)
 
@@ -1862,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (1), require (1)
+> **Frameworks & Libraries:** data (2), business (1), [[Cybersecurity]] (1), [[IoT]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - by (1)
@@ -1870,7 +1878,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980)
@@ -1909,6 +1917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (2), [[Security]] (1), [[Human Resources (HR)|Human resources]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)

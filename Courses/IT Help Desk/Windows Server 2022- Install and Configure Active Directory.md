@@ -31,7 +31,7 @@ tags:
   - skill/active-directory
   - skill/windows-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Install%20and%20Configure%20Active%20Directory.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Install and configure Active Directory
-  - What you should know
+  - [Install and configure Active Directory](#install-and-configure-active-directory)
+  - [What you should know](#what-you-should-know)
 - [**1. Installing Domain Controllers**](#1-installing-domain-controllers) (4 videos)
-  - Installing Active Directory Domain Services
-  - Installing a forest root domain controller
-  - Installing additional domain controllers
-  - Installing read-only domain controllers
+  - [Installing Active Directory Domain Services](#installing-active-directory-domain-services)
+  - [Installing a forest root domain controller](#installing-a-forest-root-domain-controller)
+  - [Installing additional domain controllers](#installing-additional-domain-controllers)
+  - [Installing read-only domain controllers](#installing-read-only-domain-controllers)
 - [**2. Active Directory Administration Tools**](#2-active-directory-administration-tools) (6 videos)
-  - Managing AD DS with Active Directory Administrative Center
-  - Managing AD DS with Active Directory Users and Computers
-  - Active Directory Domains and Trusts overview
-  - Active Directory Sites and Services overview
-  - Active Directory schema overview
-  - Managing AD DS from the command line
+  - [Managing AD DS with Active Directory Administrative Center](#managing-ad-ds-with-active-directory-administrative-center)
+  - [Managing AD DS with Active Directory Users and Computers](#managing-ad-ds-with-active-directory-users-and-computers)
+  - [Active Directory Domains and Trusts overview](#active-directory-domains-and-trusts-overview)
+  - [Active Directory Sites and Services overview](#active-directory-sites-and-services-overview)
+  - [Active Directory schema overview](#active-directory-schema-overview)
+  - [Managing AD DS from the command line](#managing-ad-ds-from-the-command-line)
 - [**3. Flexible Single Master of Operations**](#3-flexible-single-master-of-operations) (3 videos)
-  - FSMO overview
-  - Transferring a FSMO role
-  - Seizing a FSMO role
+  - [FSMO overview](#fsmo-overview)
+  - [Transferring a FSMO role](#transferring-a-fsmo-role)
+  - [Seizing a FSMO role](#seizing-a-fsmo-role)
 - [**4. Active Directory Permissions**](#4-active-directory-permissions) (3 videos)
-  - Delegating permissions manually
-  - Using the Delegation of Control Wizard
-  - Creating a custom management tool
+  - [Delegating permissions manually](#delegating-permissions-manually)
+  - [Using the Delegation of Control Wizard](#using-the-delegation-of-control-wizard)
+  - [Creating a custom management tool](#creating-a-custom-management-tool)
 - [**5. Managing Active Directory Objects**](#5-managing-active-directory-objects) (8 videos)
-  - Creating user accounts
-  - Moving user accounts
-  - Using user account templates
-  - Creating a group
-  - Managing group membership
-  - Creating computer accounts
-  - Creating organizational units (OUs)
-  - Examples of OU hierarchies
+  - [Creating user accounts](#creating-user-accounts)
+  - [Moving user accounts](#moving-user-accounts)
+  - [Using user account templates](#using-user-account-templates)
+  - [Creating a group](#creating-a-group)
+  - [Managing group membership](#managing-group-membership)
+  - [Creating computer accounts](#creating-computer-accounts)
+  - [Creating organizational units (OUs)](#creating-organizational-units-ous)
+  - [Examples of OU hierarchies](#examples-of-ou-hierarchies)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and configure Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Microsoft]] (2), [[Windows Server]] (1), [[Windows]] (1), management (1)
 > **Speakers:** - [ed] (1)
 
 #### What you should know
@@ -161,6 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Virtual Machines]] (2), [[Active Directory]] (1)
 > **Env Vars:** dc1 (2), dc2 (2), dc3 (2)
 > **Prerequisites:** setup (1), set up (1), you'll need (1)
 > **Definitions:** stands for (1)
@@ -169,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Installing Domain Controllers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Active Directory Domain Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980)
@@ -302,8 +303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (9), [[Active Directory]] (5), [[Windows Server]] (1), [[Security]] (1), feature (1)
 > **Prerequisites:** install (10), before you begin (1)
-> **Code Keywords:** this. (2), default. (1), case, (1), for. (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
@@ -570,11 +571,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (13), dns (10), functional (9), next (6), [[Windows Server]] (5)
 > **Env Vars:** dns (10), cis (1), nt4 (1)
 > **Prerequisites:** install (4), prerequisite (3), set up (2)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** click on (5), select the (1), dropdown (1)
-> **Code Keywords:** case, (3), let (1), default. (1), pass (1)
 > **Definitions:** is a  (4)
 > **Warnings:** warning (4)
 > **Speakers:** - [instructor] (1)
@@ -716,7 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (4), pass (1)
+> **Frameworks & Libraries:** dns (9), next (7), [[Active Directory]] (5), database (2), business (1)
 > **Env Vars:** dns (9), dsrm (1), sysvol (1)
 > **Prerequisites:** install (5), you need to have (1), configure (1)
 > **CLI Commands:** make (5)
@@ -800,10 +801,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), next (8), dns (4), [[Security]] (2), [[Active Directory]] (2)
 > **CLI Commands:** make (6), find (5)
 > **Env Vars:** dns (4), rodc (3), dsrm (1)
 > **Prerequisites:** install (4), set up (2), prerequisite (2)
-> **Code Keywords:** interface (2), let (1), case, (1), default, (1), from, (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** just like (2)
@@ -812,7 +813,7 @@ created: 2026-04-29
 
 ### 2. Active Directory Administration Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing AD DS with Active Directory Administrative Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980)
@@ -903,7 +904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else. (2), this, (1)
+> **Frameworks & Libraries:** [[Active Directory]] (8), [[Windows]] (2), [[Powershell]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Windows Server]] (1)
 > **UI Navigation:** click on (6), navigate to (1)
 > **Tools:** powershell (2), command line (1)
 > **Definitions:** is a  (2)
@@ -1006,8 +1007,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (6), [[Powershell]] (2), next (1)
 > **UI Navigation:** click on (4), go to (3), scroll down (1)
-> **Code Keywords:** let (3), this. (2), function (1), this, (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** powershell (2)
 > **Analogies:** just like (1), similar to (1)
@@ -1086,7 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (3), let (2), this, (1), default, (1)
+> **Frameworks & Libraries:** functional (7), [[Active Directory]] (5), next (1), [[Windows Server]] (1)
 > **UI Navigation:** click on (4), go to (3)
 > **Prerequisites:** configure (4), set up (1)
 > **Definitions:** is called (1)
@@ -1199,8 +1200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (3), next (1), [[Forms]] (1)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** let (2), this. (1), this, (1)
 > **Definitions:** is a  (2), is called (1)
 > **Warnings:** keep in mind (1), warning (1)
 > **Prerequisites:** configure (2)
@@ -1354,8 +1355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (19), management (3), prompt (2), hit (2), [[Windows]] (2)
 > **Env Vars:** mmc (6), dc1 (1), cmd (1), dll (1)
-> **Code Keywords:** let (5), else. (1), else, (1)
 > **CLI Commands:** snap (3), find (2)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1456,8 +1457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (7), prompt (5), [[Active Directory]] (4), [[Windows]] (3), hit (1)
 > **Tools:** powershell (7), command line (6), command prompt (4)
-> **Code Keywords:** let (4), function (2), module (1), delete (1)
 > **Env Vars:** dsrm (2), dc1 (1), cmd (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1466,7 +1467,7 @@ created: 2026-04-29
 
 ### 3. Flexible Single Master of Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### FSMO overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980)
@@ -1625,9 +1626,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (5), [[Windows Server]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** dc1 (9), rid (8), pdc (5), fsmo (4), mmc (2)
 > **UI Navigation:** go to (7), click on (5)
-> **Code Keywords:** default, (3), let (2), this. (1), else. (1), this, (1)
 > **Definitions:** is a  (3), stands for (2), is an  (1)
 > **CLI Commands:** snap (1)
 > **Cross-References:** we covered (1)
@@ -1731,8 +1732,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (1), database (1)
 > **Env Vars:** dc2 (11), dc1 (10), rid (3), fsmo (2), pdc (1)
-> **Code Keywords:** let (3), this. (1), while. (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Best Practices:** recommended (2)
 > **Definitions:** in other words (1)
@@ -1981,7 +1982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2)
+> **Frameworks & Libraries:** hit (8), prompt (4), [[Active Directory]] (2), [[Tokens]] (1), next (1)
 > **Tools:** command prompt (3), command line (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Env Vars:** pdc (1), ntds (1)
@@ -1993,7 +1994,7 @@ created: 2026-04-29
 
 ### 4. Active Directory Permissions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Delegating permissions manually
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980)
@@ -2110,8 +2111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Active Directory]] (4), feature (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (5), right-click (2), click on (1)
-> **Code Keywords:** let (4), this. (1), default. (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dc1 (1), com (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2179,8 +2180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Microsoft]] (1), [[Security]] (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** as we saw (1), previous video (1), go back to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -2312,8 +2313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (9), [[Active Directory]] (5), prompt (2), [[Microsoft]] (1), management (1)
 > **UI Navigation:** click on (12), go to (3)
-> **Code Keywords:** let (4), default, (2), function (1), this. (1)
 > **CLI Commands:** snap (2), make (1)
 > **Definitions:** is a  (3)
 > **Tools:** command prompt (2)
@@ -2323,7 +2324,7 @@ created: 2026-04-29
 
 ### 5. Managing Active Directory Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980)
@@ -2482,8 +2483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (10), next (4), [[Windows]] (3), [[Microsoft]] (1)
 > **UI Navigation:** go to (7), right-click (3), click on (2), scroll down (1)
-> **Code Keywords:** let (10), new, (1), default. (1)
 > **Env Vars:** upn (4), dc1 (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** just like (2), for instance (1)
@@ -2598,7 +2599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Active Directory]] (8)
 > **UI Navigation:** click on (3), go to (1)
 > **Warnings:** warning (3)
 > **Cross-References:** go back to (2)
@@ -2710,9 +2711,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Active Directory]] (2)
 > **Exercise Files:** template (16)
 > **UI Navigation:** right-click (3), click on (3), go to (1)
-> **Code Keywords:** else. (1), this, (1), new, (1), let (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1)
@@ -2848,8 +2849,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (7), [[Security]] (5), [[Windows]] (1)
 > **UI Navigation:** right-click (5), click on (2), go to (2), scroll down (1)
-> **Code Keywords:** let (4), new, (2), type. (1), default. (1), type, (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (2)
 > **Warnings:** keep in mind (1), caution (1)
@@ -3008,8 +3009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (6), next (1), [[Microsoft Word|Word]] (1), hit (1)
 > **UI Navigation:** go to (12), click on (5), scroll down (1)
-> **Code Keywords:** let (3), this. (1), interface (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** kind of like (1), similar to (1)
@@ -3122,7 +3123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new, (3), default, (2), default. (1), self (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Security]] (2)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
 > **Analogies:** imagine (2), similar to (1), just like (1)
 > **CLI Commands:** find (2), make (1)
@@ -3276,7 +3277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (11), let (5), new, (3), for. (2), default, (1)
+> **Frameworks & Libraries:** [[Active Directory]] (8), [[Microsoft]] (1), hit (1), feature (1)
 > **UI Navigation:** go to (6), checkbox (5), click on (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** recommended (1)
@@ -3386,7 +3387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1), this. (1), while, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), application (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** go to (1)
@@ -3398,7 +3399,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/next-steps?u=76281980)
@@ -3413,6 +3414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows Server]] (2), next (1)
 > **Speakers:** - [ed] (1)
 
 

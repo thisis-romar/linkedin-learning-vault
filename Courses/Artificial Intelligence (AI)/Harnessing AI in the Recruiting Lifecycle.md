@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Harnessing%20AI%20in%20the%20Recruiting%20Lifecycle.md)
@@ -40,32 +40,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**0. Introduction**](#0-introduction) (2 videos)
-  - Introducing AI into the hiring process
-  - Exploring the available AI tools
+  - [Introducing AI into the hiring process](#introducing-ai-into-the-hiring-process)
+  - [Exploring the available AI tools](#exploring-the-available-ai-tools)
 - [**1. AI-Enhanced Preparation**](#1-ai-enhanced-preparation) (3 videos)
-  - Utilizing AI for analyzing past successful hires
-  - Leveraging AI for cultural fit assessment
-  - AI for optimizing interview questions
+  - [Utilizing AI for analyzing past successful hires](#utilizing-ai-for-analyzing-past-successful-hires)
+  - [Leveraging AI for cultural fit assessment](#leveraging-ai-for-cultural-fit-assessment)
+  - [AI for optimizing interview questions](#ai-for-optimizing-interview-questions)
 - [**2. AI in the Hiring Process**](#2-ai-in-the-hiring-process) (3 videos)
-  - AI-driven interview scheduling and coordination
-  - AI for identifying career paths and growth potential
-  - The role of AI in understanding the new workforce model
+  - [AI-driven interview scheduling and coordination](#ai-driven-interview-scheduling-and-coordination)
+  - [AI for identifying career paths and growth potential](#ai-for-identifying-career-paths-and-growth-potential)
+  - [The role of AI in understanding the new workforce model](#the-role-of-ai-in-understanding-the-new-workforce-model)
 - [**3. AI-Driven Interview Process**](#3-ai-driven-interview-process) (3 videos)
-  - AI in screening and initial candidate assessments
-  - Vitual interviews and AI integration
-  - Building rapport and trust in an AI-augmented interview
+  - [AI in screening and initial candidate assessments](#ai-in-screening-and-initial-candidate-assessments)
+  - [Vitual interviews and AI integration](#vitual-interviews-and-ai-integration)
+  - [Building rapport and trust in an AI-augmented interview](#building-rapport-and-trust-in-an-ai-augmented-interview)
 - [**4. Selecting the Best Candidate with AI**](#4-selecting-the-best-candidate-with-ai) (3 videos)
-  - AI for objective candidate comparison
-  - AI in predicting candidate success
-  - Balancing AI insights with human judgement
+  - [AI for objective candidate comparison](#ai-for-objective-candidate-comparison)
+  - [AI in predicting candidate success](#ai-in-predicting-candidate-success)
+  - [Balancing AI insights with human judgement](#balancing-ai-insights-with-human-judgement)
 - [**5. AI in Feedback and Follow-Up**](#5-ai-in-feedback-and-follow-up) (3 videos)
-  - AI-enhanced feedback loops
-  - AI for offer optimization and acceptance
-  - AI in post-hire engagement and retention
+  - [AI-enhanced feedback loops](#ai-enhanced-feedback-loops)
+  - [AI for offer optimization and acceptance](#ai-for-offer-optimization-and-acceptance)
+  - [AI in post-hire engagement and retention](#ai-in-post-hire-engagement-and-retention)
 
 ### 0. Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing AI into the hiring process
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980)
@@ -90,7 +90,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[Interviewing]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -113,13 +113,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2)
 > **Env Vars:** crm (1), ats (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. AI-Enhanced Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Utilizing AI for analyzing past successful hires
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980)
@@ -182,9 +183,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (3), career (2), [[Soft Skills]] (1), [[Probability]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - you (1)
 
@@ -251,9 +252,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), business (3), leadership (2), [[Microsoft Office|Office]] (1), data (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** require (1), continue (1)
 > **Speakers:** - over (1)
 
 #### AI for optimizing interview questions
@@ -319,8 +320,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), leadership (3), data (2), job description (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1)
 > **Env Vars:** nlp (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -329,7 +330,7 @@ created: 2026-04-29
 
 ### 2. AI in the Hiring Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-driven interview scheduling and coordination
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980)
@@ -382,8 +383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Interviewing]] (2), management (1), [[Zoom]] (1), [[Microsoft Teams]] (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
-> **Code Keywords:** let (1), if, (1)
 > **Env Vars:** crm (1), ats (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - timing (1)
@@ -439,6 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), career (9), data (3), strengths (2), [[Career Development]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** seo (1)
@@ -511,8 +513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), data (3), [[Analytics]] (1), management (1), application (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - with (1)
@@ -520,7 +522,7 @@ created: 2026-04-29
 
 ### 3. AI-Driven Interview Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI in screening and initial candidate assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980)
@@ -609,6 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), data (4), [[Algorithms]] (2), [[Privacy]] (2), [[Interviewing]] (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - has (1)
 
@@ -671,7 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** ai (16), data (3), [[Interviewing]] (2), feature (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -743,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (17), [[Interviewing]] (2), power (1), application (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -751,7 +754,7 @@ created: 2026-04-29
 
 ### 4. Selecting the Best Candidate with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for objective candidate comparison
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980)
@@ -814,6 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (6), next (1), cloud (1), [[Decision-Making]] (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - imagine (1)
@@ -875,6 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (5), [[Soft Skills]] (1), leadership (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - can (1)
@@ -942,8 +947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), data (8), power (1), strengths (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** picture (1)
 > **Speakers:** - feeling (1)
@@ -951,7 +956,7 @@ created: 2026-04-29
 
 ### 5. AI in Feedback and Follow-Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-enhanced feedback loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980)
@@ -1012,8 +1017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Real-Time]] (2), data (2), prompt (1), strengths (1)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - i (1)
 
 #### AI for offer optimization and acceptance
@@ -1083,7 +1088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (11), data (4), career (1), [[Predictive Analytics]] (1), next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
 
@@ -1150,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (11), business (2), career (2), [[Forms]] (1), [[Messaging Platforms]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

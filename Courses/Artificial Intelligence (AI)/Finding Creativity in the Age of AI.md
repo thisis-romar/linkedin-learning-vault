@@ -35,7 +35,7 @@ tags:
   - skill/creativity
   - skill/creativity-skills
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Finding%20Creativity%20in%20the%20Age%20of%20AI.md)
@@ -54,35 +54,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Where does creativity live?
+  - [Where does creativity live?](#where-does-creativity-live)
 - [**1. Measuring Your Own Creativity**](#1-measuring-your-own-creativity) (2 videos)
-  - Your creative baseline
-  - Is creativity what you're looking for?
+  - [Your creative baseline](#your-creative-baseline)
+  - [Is creativity what you're looking for?](#is-creativity-what-youre-looking-for)
 - [**2. Finding Creativity with AI**](#2-finding-creativity-with-ai) (8 videos)
-  - The FINDS framework: How AI can assist creativity
-  - Fuel: AI and idea generation
-  - Ignite: AI and divergent thinking
-  - Nurturing the work
-  - Defending and honing an existing concept
-  - Sharing and collaborating with AI
-  - When is creativity with AI not helpful?
-  - AI and copyright
+  - [The FINDS framework: How AI can assist creativity](#the-finds-framework-how-ai-can-assist-creativity)
+  - [Fuel: AI and idea generation](#fuel-ai-and-idea-generation)
+  - [Ignite: AI and divergent thinking](#ignite-ai-and-divergent-thinking)
+  - [Nurturing the work](#nurturing-the-work)
+  - [Defending and honing an existing concept](#defending-and-honing-an-existing-concept)
+  - [Sharing and collaborating with AI](#sharing-and-collaborating-with-ai)
+  - [When is creativity with AI not helpful?](#when-is-creativity-with-ai-not-helpful)
+  - [AI and copyright](#ai-and-copyright)
 - [**3. Finding Creativity without AI**](#3-finding-creativity-without-ai) (9 videos)
-  - The CREATE framework
-  - Cease
-  - Making room for creativity
-  - Embracing our journey
-  - Getting closer to art and its history
-  - Tuning out to tune in
-  - Express and act on your work
-  - When creativity alone might not be enough
-  - Revisiting creativity with AI
+  - [The CREATE framework](#the-create-framework)
+  - [Cease](#cease)
+  - [Making room for creativity](#making-room-for-creativity)
+  - [Embracing our journey](#embracing-our-journey)
+  - [Getting closer to art and its history](#getting-closer-to-art-and-its-history)
+  - [Tuning out to tune in](#tuning-out-to-tune-in)
+  - [Express and act on your work](#express-and-act-on-your-work)
+  - [When creativity alone might not be enough](#when-creativity-alone-might-not-be-enough)
+  - [Revisiting creativity with AI](#revisiting-creativity-with-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where does creativity live?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980)
@@ -125,14 +125,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Measuring Your Own Creativity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your creative baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** ai (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [nickharauz.com](https://nickharauz.com) (1)
 > **Speakers:** - we (1)
 
@@ -222,6 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), product (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - okay (1)
@@ -229,7 +230,7 @@ created: 2026-04-29
 
 ### 2. Finding Creativity with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The FINDS framework: How AI can assist creativity
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980)
@@ -298,9 +299,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Search]] (1), [[Forms]] (1)
 > **Definitions:** stands for (5), is an  (1), is a  (1)
 > **Analogies:** such as (2), for instance (1), imagine (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
 
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1), from, (1), this, (1), interface (1)
+> **Frameworks & Libraries:** ai (6), prompt (6), [[Quantum Computing]] (3), feature (3), [[Midjourney]] (3)
 > **Analogies:** imagine (1), such as (1), for instance (1), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [claude.ai](https://claude.ai) (1), [leonardo.ai](https://leonardo.ai) (1)
@@ -495,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), type, (1)
+> **Frameworks & Libraries:** ai (3), product (2), llm (1), [[Microsoft Products|Products]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (2), picture (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
@@ -567,7 +568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1)
+> **Frameworks & Libraries:** ai (10), prompt (2), [[ChatGPT]] (1), [[Adobe Photoshop]] (1), [[Automation]] (1)
 > **Cross-References:** coming up (1), go back to (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Analogies:** for instance (1)
@@ -698,7 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), this. (1), include: (1), let (1), class, (1)
+> **Frameworks & Libraries:** llm (5), ai (2), next (2), business (2), database (1)
 > **Env Vars:** llm (5)
 > **Analogies:** picture (1), it's like (1)
 > **CLI Commands:** make (1)
@@ -750,10 +751,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Midjourney]] (2), ai (2), web (1), [[Search]] (1)
 > **Env Vars:** gpt (3)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), public (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (1)
 > **Tools:** discord (1)
 > **Definitions:** stands for (1)
@@ -800,9 +801,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Generative AI Tools]] (1), generic (1)
 > **Versions:** 86.7 (1), 13.4 (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** cvl (1)
 > **Speakers:** - well (1)
 
@@ -812,7 +813,7 @@ created: 2026-04-29
 
 ### 3. Finding Creativity without AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The CREATE framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-create-framework?u=76281980)
@@ -855,8 +856,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), express (1)
 > **Definitions:** stands for (6), is an  (1)
-> **Code Keywords:** extends (1), case, (1), let (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** create (1)
 > **Speakers:** - so (1)
@@ -922,8 +923,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Making room for creativity
@@ -990,7 +991,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** new, (1), pass (1)
 > **Speakers:** - if (1)
 
 #### Embracing our journey
@@ -1035,7 +1035,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
@@ -1096,8 +1095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), traffic (1), [[Forms]] (1), [[Midjourney]] (1), [[DALL-E]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), delete (1)
 > **Env Vars:** dall (1), iso (1)
 > **Speakers:** - at (1)
 
@@ -1168,7 +1167,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dmn (1)
 > **Cross-References:** in the last (1)
@@ -1215,6 +1213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** snap (1)
 > **Speakers:** - everything (1)
@@ -1256,7 +1255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** ai (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - while (1)
@@ -1340,14 +1339,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** ai (13), [[Forms]] (1), express (1), next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980)
@@ -1370,7 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (1), [[Midjourney]] (1)
 > **URLs:** [nickharauz.com](https://nickharauz.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)

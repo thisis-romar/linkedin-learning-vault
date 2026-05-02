@@ -35,7 +35,7 @@ tags:
   - skill/phishing
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Phishing%20Attacks.md)
@@ -54,35 +54,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Can you spot a phish?
+  - [Can you spot a phish?](#can-you-spot-a-phish)
 - [**1. An Overview of Phishing**](#1-an-overview-of-phishing) (3 videos)
-  - Phishing: Understanding cyber deception
-  - How does phishing affect us?
-  - The human biases behind phishing attacks
+  - [Phishing: Understanding cyber deception](#phishing-understanding-cyber-deception)
+  - [How does phishing affect us?](#how-does-phishing-affect-us)
+  - [The human biases behind phishing attacks](#the-human-biases-behind-phishing-attacks)
 - [**2. How to Catch a Phish**](#2-how-to-catch-a-phish) (3 videos)
-  - Triggered: The surprising psychology behind a click
-  - Catch a phish red-handed: Common indicators of a phish
-  - Is this a phish? Real-world examples of phishing attacks
+  - [Triggered: The surprising psychology behind a click](#triggered-the-surprising-psychology-behind-a-click)
+  - [Catch a phish red-handed: Common indicators of a phish](#catch-a-phish-red-handed-common-indicators-of-a-phish)
+  - [Is this a phish? Real-world examples of phishing attacks](#is-this-a-phish-real-world-examples-of-phishing-attacks)
 - [**3. Different Types of Phishing Attacks**](#3-different-types-of-phishing-attacks) (6 videos)
-  - Is it a harmless unknown caller or vishing?
-  - Unfollowed: How to spot a social media phish
-  - Getting specific with targeted phishing attacks
-  - SMS phishing: A text-based attack
-  - The AI of it all: How is AI affecting phishing?
-  - Other notable methods of phishing
+  - [Is it a harmless unknown caller or vishing?](#is-it-a-harmless-unknown-caller-or-vishing)
+  - [Unfollowed: How to spot a social media phish](#unfollowed-how-to-spot-a-social-media-phish)
+  - [Getting specific with targeted phishing attacks](#getting-specific-with-targeted-phishing-attacks)
+  - [SMS phishing: A text-based attack](#sms-phishing-a-text-based-attack)
+  - [The AI of it all: How is AI affecting phishing?](#the-ai-of-it-all-how-is-ai-affecting-phishing)
+  - [Other notable methods of phishing](#other-notable-methods-of-phishing)
 - [**4. How to Defend against Phishing Attacks**](#4-how-to-defend-against-phishing-attacks) (2 videos)
-  - How technology helps with the fight against phishing attacks
-  - Practice makes perfect: An overview of phishing simulations
+  - [How technology helps with the fight against phishing attacks](#how-technology-helps-with-the-fight-against-phishing-attacks)
+  - [Practice makes perfect: An overview of phishing simulations](#practice-makes-perfect-an-overview-of-phishing-simulations)
 - [**5. What Happens If You Fall for a Phish**](#5-what-happens-if-you-fall-for-a-phish) (2 videos)
-  - Responding to a phishing attack at work
-  - Falling for a phishing attack at home
+  - [Responding to a phishing attack at work](#responding-to-a-phishing-attack-at-work)
+  - [Falling for a phishing attack at home](#falling-for-a-phishing-attack-at-home)
 - [**Conclusion**](#conclusion) (2 videos)
-  - The future of phishing
-  - Your personal phishing response kit
+  - [The future of phishing](#the-future-of-phishing)
+  - [Your personal phishing response kit](#your-personal-phishing-response-kit)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Can you spot a phish?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980)
@@ -111,14 +111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Cybersecurity]] (1), [[Engineering]] (1), [[Forms]] (1), ai (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - can (1)
 
 
 ### 1. An Overview of Phishing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Phishing: Understanding cyber deception
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980)
@@ -197,7 +197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), public (1), let (1)
+> **Frameworks & Libraries:** [[Phishing]] (9), [[Microsoft]] (1), [[Microsoft Products|Products]] (1), ai (1), vpn (1)
 > **Env Vars:** aol (1), vpn (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -276,7 +276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), case, (1), private (1), let (1)
+> **Frameworks & Libraries:** [[Phishing]] (10), data (2), [[Cybersecurity]] (1), [[Engineering]] (1), [[Banking]] (1)
 > **Analogies:** for example (1), just like (1)
 > **Env Vars:** fbi (1)
 > **Versions:** 12.5 (1)
@@ -377,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Phishing]] (8), power (1), [[Microsoft Outlook|Outlook]] (1), next (1), data (1)
 > **Definitions:** is an  (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
@@ -385,7 +385,7 @@ created: 2026-04-29
 
 ### 2. How to Catch a Phish
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Triggered: The surprising psychology behind a click
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980)
@@ -462,7 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Phishing]] (10), [[Engineering]] (3), [[Decision-Making]] (2)
 > **Cross-References:** we covered (1), in the last (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -575,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (2), override (1), for. (1)
+> **Frameworks & Libraries:** [[Phishing]] (6), hit (1), next (1)
 > **Env Vars:** url (2)
 > **Definitions:** is an  (2)
 > **Analogies:** for instance (2)
@@ -641,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), private (1)
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Security]] (4), [[Forms]] (1), business (1), [[Zoom]] (1)
 > **Env Vars:** url (1), fbi (1)
 > **Versions:** 8.7 (1)
 > **Cross-References:** coming up (1)
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 ### 3. Different Types of Phishing Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Is it a harmless unknown caller or vishing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980)
@@ -750,9 +750,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (6), ai (2), next (1)
 > **Definitions:** is a  (2), is an  (2), short for (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - you (1)
 
@@ -829,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Building Trust]] (1), next (1)
 > **Definitions:** is a  (1), refers to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -896,8 +896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Security]] (1), business (1)
 > **Env Vars:** ceo (2), osint (1), bec (1)
-> **Code Keywords:** public (1), let (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
@@ -988,12 +988,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), data (3), next (2), ai (2), generic (1)
 > **Env Vars:** ups (4), sms (2)
 > **Cross-References:** we talked about (1), next video (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - we (1)
 
@@ -1058,9 +1058,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Phishing]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), generic (1), [[ChatGPT]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** public (1), continue (1)
 > **Analogies:** for example (1)
 > **Speakers:** - artificial (1)
 
@@ -1151,8 +1151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (6), dns (3), data (2), [[Troubleshooting]] (1), [[Google]] (1)
 > **Env Vars:** dns (3), url (2)
-> **Code Keywords:** require (1), else. (1), finally, (1), private (1)
 > **URLs:** [goggle.com](https://goggle.com) (1), [google.com](https://google.com) (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
@@ -1163,7 +1163,7 @@ created: 2026-04-29
 
 ### 4. How to Defend against Phishing Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How technology helps with the fight against phishing attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980)
@@ -1260,9 +1260,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Security]] (3), feature (1), [[Android]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** mfa (2), url (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** iphone (1), ios (1)
 > **Analogies:** think of it like (2)
 > **Definitions:** is an  (1)
@@ -1344,6 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (12), [[Security]] (3), [[Simulation]] (2), next (1), [[Engineering]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), similar to (1)
@@ -1353,7 +1354,7 @@ created: 2026-04-29
 
 ### 5. What Happens If You Fall for a Phish
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responding to a phishing attack at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980)
@@ -1432,7 +1433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), this, (1)
+> **Frameworks & Libraries:** [[Phishing]] (11), [[Security]] (9), [[Microsoft Office|Office]] (1), data (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ceo (1)
 > **Analogies:** for example (1)
@@ -1521,7 +1522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), private (1), public (1), finally, (1)
+> **Frameworks & Libraries:** [[Phishing]] (8), game (1), data (1), [[Forms]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Best Practices:** it's best to (1), make sure to (1)
 > **URLs:** [identitytheft.gov](https://identitytheft.gov) (1)
@@ -1533,7 +1534,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of phishing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980)
@@ -1594,7 +1595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), continue (2), public (1), this, (1)
+> **Frameworks & Libraries:** [[Phishing]] (7), ai (4), [[Generative AI]] (1), business (1), [[Cybersecurity]] (1)
 > **Env Vars:** aol (1)
 > **Speakers:** - from (1)
 
@@ -1635,8 +1636,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Security]] (2), [[Cybersecurity]] (2), [[LinkedIn]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** extends (1)
 > **Speakers:** - dearest (1)
 
 
